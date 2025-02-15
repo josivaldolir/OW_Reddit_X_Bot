@@ -1,0 +1,14 @@
+2025-02-15 10:32:05,463 - INFO - Content: The devs are cooking so hard! 
+Images are from @OWCavalry, @Alpezrr, @Proto_VI, and @Supreme_Gordita on Twitter.
+2025-02-15 10:32:05,464 - INFO - Image Paths: ['https://preview.redd.it/2b4bnb0q96je1.jpg?width=1269&format=pjpg&auto=webp&s=c331a3b6aee82aa695c3561d40169a497e1b9c7e', 'https://preview.redd.it/r1tsvdeq96je1.jpg?width=2160&format=pjpg&auto=webp&s=9daf62490a3e557f5965ccd479d7d92654d9a0d4', 'https://preview.redd.it/56jaaznq96je1.jpg?width=1721&format=pjpg&auto=webp&s=9f4065c49f97ca444537ad2eb92b861e82fcf5fc', 'https://preview.redd.it/bq8nmowq96je1.jpg?width=2160&format=pjpg&auto=webp&s=af3897e612eb88316822b37fca3d3add2ba9bdb5']
+2025-02-15 10:32:05,464 - INFO - Video Path: 
+2025-02-15 10:32:05,464 - ERROR - Error in main loop: cannot access local variable 'content' where it is not associated with a value
+2025-02-15 10:36:37,729 - INFO - Content: The devs are cooking so hard! 
+Images are from @OWCavalry, @Alpezrr, @Proto_VI, and @Supreme_Gordita on Twitter.
+2025-02-15 10:36:37,729 - INFO - Image Paths: ['https://preview.redd.it/2b4bnb0q96je1.jpg?width=1269&format=pjpg&auto=webp&s=c331a3b6aee82aa695c3561d40169a497e1b9c7e', 'https://preview.redd.it/r1tsvdeq96je1.jpg?width=2160&format=pjpg&auto=webp&s=9daf62490a3e557f5965ccd479d7d92654d9a0d4', 'https://preview.redd.it/56jaaznq96je1.jpg?width=1721&format=pjpg&auto=webp&s=9f4065c49f97ca444537ad2eb92b861e82fcf5fc', 'https://preview.redd.it/bq8nmowq96je1.jpg?width=2160&format=pjpg&auto=webp&s=af3897e612eb88316822b37fca3d3add2ba9bdb5']
+2025-02-15 10:36:37,730 - INFO - Video Path: 
+2025-02-15 10:36:37,849 - INFO - Downloaded media from https://preview.redd.it/2b4bnb0q96je1.jpg?width=1269&format=pjpg&auto=webp&s=c331a3b6aee82aa695c3561d40169a497e1b9c7e to temp_image.jpg
+2025-02-15 10:36:38,613 - INFO - Downloaded media from https://preview.redd.it/r1tsvdeq96je1.jpg?width=2160&format=pjpg&auto=webp&s=9daf62490a3e557f5965ccd479d7d92654d9a0d4 to temp_image.jpg
+2025-02-15 10:36:39,370 - INFO - Downloaded media from https://preview.redd.it/56jaaznq96je1.jpg?width=1721&format=pjpg&auto=webp&s=9f4065c49f97ca444537ad2eb92b861e82fcf5fc to temp_image.jpg
+2025-02-15 10:36:40,010 - INFO - Downloaded media from https://preview.redd.it/bq8nmowq96je1.jpg?width=2160&format=pjpg&auto=webp&s=af3897e612eb88316822b37fca3d3add2ba9bdb5 to temp_image.jpg
+2025-02-15 10:36:41,113 - INFO - Posted content successfully. Tweet ID: 1890757139016122821
