@@ -116,8 +116,8 @@ def main():
                 post_content = post.get('content', '')
                 post_url = post.get('url', '')
 
-                if post_content is None:
-                    post_content = ''
+                if post_content is None or post_content == '':
+                    post_content = post['title']
                 if post_url is None:
                     post_url = ''
 

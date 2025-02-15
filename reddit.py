@@ -13,7 +13,7 @@ except FileNotFoundError:
     pass  # Se não existir o arquivo, apenas ignore
 
 def subReddit(postlimit):
-    return reddit.subreddit("Overwatch").top(time_filter='day', limit=postlimit)
+    return reddit.subreddit("Overwatch").hot(limit=postlimit)
 
 def extractContent():
     limit = 1  # Initial limit
@@ -34,7 +34,7 @@ def extractContent():
 
                 if hasattr(sub, "preview"):
                     post_data["s_img"] = sub.preview["images"][0]["source"]["url"]
-                elif hasattr(sub, "gallery_data"):
+                if hasattr(sub, "gallery_data"):
                     for i in sub.gallery_data["items"]:
                         media_id = i["media_id"]
                         image_url = sub.media_metadata[media_id]["s"]["u"]
@@ -51,6 +51,7 @@ def extractContent():
                 
                 new_posts.append(post_data)  # ✅ Adicionamos à lista de posts novos
                 seen_posts.add(sub.id)  # ✅ Marcamos como visto
+                break  # Exit the loop after finding one new post
             else:
                 limit += 1  # Increase the limit if the post is stickied or already seen
 

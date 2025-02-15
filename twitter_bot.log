@@ -1,0 +1,7 @@
+2025-02-15 12:58:59,040 - INFO - Content: Isn't this what we wanted? Is there anything that would please y'all?
+2025-02-15 12:58:59,040 - INFO - Image Paths: ['https://preview.redd.it/56p19g9018je1.png?width=1080&format=png&auto=webp&s=4fa186580e5baab026646f7d98380a6e4e141be6', 'https://preview.redd.it/1teg41o018je1.png?width=985&format=png&auto=webp&s=224ca9402161c098a3f6f4e5f1de73a860c9bb04', 'https://preview.redd.it/09m4oxp018je1.png?width=808&format=png&auto=webp&s=b46290a9ecce760e1e5265d3a03e92bd1cbfde53']
+2025-02-15 12:58:59,041 - INFO - Video Path: 
+2025-02-15 12:58:59,118 - INFO - Downloaded media from https://preview.redd.it/56p19g9018je1.png?width=1080&format=png&auto=webp&s=4fa186580e5baab026646f7d98380a6e4e141be6 to temp_image.jpg
+2025-02-15 12:58:59,740 - INFO - Downloaded media from https://preview.redd.it/1teg41o018je1.png?width=985&format=png&auto=webp&s=224ca9402161c098a3f6f4e5f1de73a860c9bb04 to temp_image.jpg
+2025-02-15 12:59:00,276 - INFO - Downloaded media from https://preview.redd.it/09m4oxp018je1.png?width=808&format=png&auto=webp&s=b46290a9ecce760e1e5265d3a03e92bd1cbfde53 to temp_image.jpg
+2025-02-15 12:59:01,215 - INFO - Posted content successfully. Tweet ID: 1890792957336256991
