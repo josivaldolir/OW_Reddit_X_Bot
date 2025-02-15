@@ -143,10 +143,10 @@ def main():
 
             # Run pending scheduled tasks
             schedule.run_pending()
-            sleep(60)
+            sleep(600)
         except Exception as e:
             logging.error(f"Error in main loop: {e}")
-            sleep(60)
+            sleep(600)
 
 if __name__ == "__main__":
     main()
