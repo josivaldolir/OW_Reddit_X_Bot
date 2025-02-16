@@ -45,3 +45,15 @@ Some points I noticed, Sigma has been receiving a lot of skins in the last seaso
 2025-02-16 23:12:14,566 - INFO - Downloaded media from https://preview.redd.it/zwbm1iwzdkje1.jpg?width=1428&format=pjpg&auto=webp&s=068fde8dcec7224ff7312df42037807edd6f1dac to temp_image.jpg
 2025-02-16 23:12:15,371 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-02-16 23:35:28,503 - INFO - Content: Has anyone posted all the skins that will be in the next season?
+We had few recolors this season, I can't see any of them here. 
+
+Some points I noticed, Sigma has been receiving a lot of skins in the last seasons and wow... 3 legendary for Kiriko in just one season, ok..💀
+2025-02-16 23:35:28,503 - INFO - Image Paths: ['https://preview.redd.it/lu02otlzdkje1.jpg?width=1424&format=pjpg&auto=webp&s=a29d64b17a282ba4e262a1ec16c5fe7a78986775', 'https://preview.redd.it/unzmhtqzdkje1.jpg?width=1438&format=pjpg&auto=webp&s=6edf699db74357c238a83f462803c6e8fc17a7f0', 'https://preview.redd.it/d823ootzdkje1.jpg?width=1436&format=pjpg&auto=webp&s=b74edf01a77bea59e358f8426b736c41a1ea9995', 'https://preview.redd.it/zwbm1iwzdkje1.jpg?width=1428&format=pjpg&auto=webp&s=068fde8dcec7224ff7312df42037807edd6f1dac']
+2025-02-16 23:35:28,504 - INFO - Video Path: 
+2025-02-16 23:35:28,788 - INFO - Downloaded media from https://preview.redd.it/lu02otlzdkje1.jpg?width=1424&format=pjpg&auto=webp&s=a29d64b17a282ba4e262a1ec16c5fe7a78986775 to temp_image.jpg
+2025-02-16 23:35:29,700 - INFO - Downloaded media from https://preview.redd.it/unzmhtqzdkje1.jpg?width=1438&format=pjpg&auto=webp&s=6edf699db74357c238a83f462803c6e8fc17a7f0 to temp_image.jpg
+2025-02-16 23:35:30,373 - INFO - Downloaded media from https://preview.redd.it/d823ootzdkje1.jpg?width=1436&format=pjpg&auto=webp&s=b74edf01a77bea59e358f8426b736c41a1ea9995 to temp_image.jpg
+2025-02-16 23:35:31,134 - INFO - Downloaded media from https://preview.redd.it/zwbm1iwzdkje1.jpg?width=1428&format=pjpg&auto=webp&s=068fde8dcec7224ff7312df42037807edd6f1dac to temp_image.jpg
+2025-02-16 23:35:31,840 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
