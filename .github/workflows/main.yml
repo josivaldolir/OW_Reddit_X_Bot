@@ -35,12 +35,13 @@ jobs:
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
-          git pull --rebase
-          if git diff --quiet --exit-code; then
+          git pull --autostash --rebase
+          touch seen_posts.txt logs.txt  # Garante que os arquivos existem
+          if git diff --quiet --exit-code seen_posts.txt logs.txt; then
             echo "No changes to commit"
           else
             git add seen_posts.txt logs.txt
-            git commit -m "Update seen posts and logs"
+            git commit -m "Update seen posts and logs" || echo "No changes to commit"
             git push
           fi
 
