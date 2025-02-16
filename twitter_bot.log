@@ -5,3 +5,12 @@
 2025-02-16 20:54:37,070 - INFO - Downloaded media from https://preview.redd.it/lxjva4zlljje1.png?auto=webp&s=ffc92815275d00e7dbd95ee12fd32b30bf3bde8e to temp_image.jpg
 2025-02-16 20:54:37,546 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-02-16 21:11:47,088 - INFO - Content: That time a man asked a question and the world wasn't ready for the answer: What would the cast look like Torbified?
+
+2025-02-16 21:11:47,088 - INFO - Image Paths: ['https://preview.redd.it/20qnauej1jje1.jpg?width=1920&format=pjpg&auto=webp&s=6823533864e450d7a63c60c76b358a049d70b705', 'https://preview.redd.it/1nwuiqej1jje1.jpg?width=1024&format=pjpg&auto=webp&s=04b6132e41e85d4d281f700500d7031768c278c8', 'https://preview.redd.it/pnt1ordj1jje1.jpg?width=2304&format=pjpg&auto=webp&s=4ae6ed8e225a0249e45272250c72c7f9c6a8390d', 'https://preview.redd.it/doiyjkdj1jje1.jpg?width=2560&format=pjpg&auto=webp&s=13981140cf17f9f948e1badd7f65689bba85fb7b']
+2025-02-16 21:11:47,088 - INFO - Video Path: 
+2025-02-16 21:11:47,246 - INFO - Downloaded media from https://preview.redd.it/20qnauej1jje1.jpg?width=1920&format=pjpg&auto=webp&s=6823533864e450d7a63c60c76b358a049d70b705 to temp_image.jpg
+2025-02-16 21:11:48,078 - INFO - Downloaded media from https://preview.redd.it/1nwuiqej1jje1.jpg?width=1024&format=pjpg&auto=webp&s=04b6132e41e85d4d281f700500d7031768c278c8 to temp_image.jpg
+2025-02-16 21:11:48,624 - INFO - Downloaded media from https://preview.redd.it/pnt1ordj1jje1.jpg?width=2304&format=pjpg&auto=webp&s=4ae6ed8e225a0249e45272250c72c7f9c6a8390d to temp_image.jpg
+2025-02-16 21:11:49,606 - INFO - Downloaded media from https://preview.redd.it/doiyjkdj1jje1.jpg?width=2560&format=pjpg&auto=webp&s=13981140cf17f9f948e1badd7f65689bba85fb7b to temp_image.jpg
+2025-02-16 21:11:50,986 - INFO - Posted content successfully. Tweet ID: 1891234054152106250
