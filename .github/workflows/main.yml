@@ -30,3 +30,8 @@ jobs:
           ACCESS_TOKEN_SECRET: ${{ secrets.ACCESS_TOKEN_SECRET }}
         run: |
           python main.py
+
+concurrency:
+  group: workflow-${{ github.ref }}
+  cancel-in-progress: true
+
