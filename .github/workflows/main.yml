@@ -32,6 +32,8 @@ jobs:
           python main.py
 
       - name: Commit seen_posts.txt and logs
+        env:
+          GH_PAT: ${{ secrets.OWXBot }}
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
