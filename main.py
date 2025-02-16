@@ -143,7 +143,7 @@ def main():
 
             # Run pending scheduled tasks
             schedule.run_pending()
-            sleep(600)
+            sleep(1800) # Every 30min a new post
         except Exception as e:
             logging.error(f"Error in main loop: {e}")
             sleep(60)
