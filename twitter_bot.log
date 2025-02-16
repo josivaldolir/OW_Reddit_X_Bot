@@ -20,3 +20,10 @@ Too Many Requests
 2025-02-16 21:34:48,754 - INFO - Video Path: 
 2025-02-16 21:34:48,820 - INFO - Downloaded media from https://preview.redd.it/lxjva4zlljje1.png?auto=webp&s=ffc92815275d00e7dbd95ee12fd32b30bf3bde8e to temp_image.jpg
 2025-02-16 21:34:49,650 - INFO - Posted content successfully. Tweet ID: 1891239837572932055
+2025-02-16 22:11:47,164 - INFO - Content: BRING IT ON MAIN GENJIS! I CAN AUTO NANO NOW!!!
+
+2025-02-16 22:11:47,164 - INFO - Image Paths: ['https://preview.redd.it/8ju6etvsrjje1.png?auto=webp&s=7a329750569956cd4fa6bb8c16d712cfae9765af']
+2025-02-16 22:11:47,164 - INFO - Video Path: 
+2025-02-16 22:11:47,216 - INFO - Downloaded media from https://preview.redd.it/8ju6etvsrjje1.png?auto=webp&s=7a329750569956cd4fa6bb8c16d712cfae9765af to temp_image.jpg
+2025-02-16 22:11:47,848 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
