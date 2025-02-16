@@ -2,7 +2,7 @@ name: Twitter Bot
 
 on:
   schedule:
-    - cron: "*/30 * * * *"  # Runs at the start of every hour
+    - cron: "*/30 * * * *"  # Runs every 30 minutes
   workflow_dispatch:  # Allows manual triggering
 
 jobs:
@@ -15,7 +15,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.13.2'  # Use your preferred Python version
+          python-version: '3.11'  # Use a stable Python version
 
       - name: Install dependencies
         run: |
@@ -31,7 +31,19 @@ jobs:
         run: |
           python main.py
 
+      - name: Commit seen_posts.txt and logs
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git pull --rebase
+          if git diff --quiet --exit-code; then
+            echo "No changes to commit"
+          else
+            git add seen_posts.txt logs.txt
+            git commit -m "Update seen posts and logs"
+            git push
+          fi
+
 concurrency:
   group: workflow-${{ github.ref }}
   cancel-in-progress: true
-
