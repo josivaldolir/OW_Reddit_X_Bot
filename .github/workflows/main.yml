@@ -38,11 +38,11 @@ jobs:
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
           git pull --rebase
-          touch seen_posts.txt logs.txt  # Ensure files exist
-          if git diff --quiet --exit-code seen_posts.txt logs.txt; then
+          touch seen_posts.txt twitter_bot.log  # Ensure files exist
+          if git diff --quiet --exit-code seen_posts.txt twitter_bot.log; then
             echo "No changes to commit"
           else
-            git add seen_posts.txt logs.txt
+            git add seen_posts.txt twitter_bot.log
             git commit -m "Update seen posts and logs"
             git push https://${{ secrets.OWXBot }}@github.com/${{ github.repository }}.git
           fi
