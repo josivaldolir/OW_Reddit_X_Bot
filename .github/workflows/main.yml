@@ -2,8 +2,11 @@ name: Twitter Bot
 
 on:
   schedule:
-    - cron: "*/30 * * * *"  # Runs every 30 minutes
-  workflow_dispatch:  # Allows manual triggering
+    - cron: "*/30 * * * *"  # Executa a cada 30 minutos
+  workflow_dispatch:  # Permite execução manual
+
+permissions:
+  contents: write  # Garante que o workflow pode fazer push no repositório
 
 jobs:
   tweet:
@@ -15,7 +18,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.11'  # Use a stable Python version
+          python-version: '3.11'  # Usa uma versão estável do Python
 
       - name: Install dependencies
         run: |
@@ -37,26 +40,20 @@ jobs:
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
-          
-          # Stash any local changes
-          git stash
 
-          # Pull the latest changes from the repository
-          git pull --rebase
+          # Configura autenticação com o token pessoal
+          git remote set-url origin https://x-access-token:${GH_PAT}@github.com/${{ github.repository }}.git
 
-          # Reapply the stashed changes
-          git stash pop
-
-          # Ensure files exist
+          # Garante que os arquivos existem
           touch seen_posts.txt twitter_bot.log
 
-          # Check for changes and commit
+          # Verifica se há mudanças antes de tentar commitar
           if git diff --quiet --exit-code seen_posts.txt twitter_bot.log; then
             echo "No changes to commit"
           else
             git add seen_posts.txt twitter_bot.log
             git commit -m "Update seen posts and logs"
-            git push https://${{ secrets.OWXBot }}@github.com/${{ github.repository }}.git
+            git push origin HEAD:main
           fi
 
 concurrency:
