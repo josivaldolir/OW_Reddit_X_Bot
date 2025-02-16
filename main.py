@@ -2,7 +2,6 @@ import tweepy
 import logging
 import requests
 import os
-from time import sleep
 from oauth import *
 from reddit import *
 
@@ -40,107 +39,99 @@ def download_media(url, filename):
         logging.error(f"Failed to download media from {url}: {e}")
         return None
 
-def main():
-    def postarX(text: str, img_paths: list, video_path: str):
-        try:
-            media_ids = []
-            # Handle video
-            if video_path:
-                # Download the video from the URL
-                local_filename = download_media(video_path, "temp_video.mp4")
+def postarX(text: str, img_paths: list, video_path: str):
+    try:
+        media_ids = []
+        # Handle video
+        if video_path:
+            # Download the video from the URL
+            local_filename = download_media(video_path, "temp_video.mp4")
+            if local_filename:
+                # Upload the video
+                media = api.media_upload(local_filename, media_category="tweet_video", wait_for_processing=True)
+                media_ids.append(media.media_id)
+                # Clean up the downloaded file
+                os.remove(local_filename)
+        
+        # Handle multiple images (up to 4 per tweet)
+        elif img_paths:
+            for image_url in img_paths[:4]:  # Limit to 4 images
+                # Download the image from the URL
+                local_filename = download_media(image_url, "temp_image.jpg")
                 if local_filename:
-                    # Upload the video
-                    media = api.media_upload(local_filename, media_category="tweet_video", wait_for_processing=True)
+                    # Upload the downloaded image
+                    media = api.media_upload(local_filename)
                     media_ids.append(media.media_id)
                     # Clean up the downloaded file
                     os.remove(local_filename)
-            
-            # Handle multiple images (up to 4 per tweet)
-            elif img_paths:
-                for image_url in img_paths[:4]:  # Limit to 4 images
-                    # Download the image from the URL
-                    local_filename = download_media(image_url, "temp_image.jpg")
-                    if local_filename:
-                        # Upload the downloaded image
-                        media = api.media_upload(local_filename)
-                        media_ids.append(media.media_id)
-                        # Clean up the downloaded file
-                        os.remove(local_filename)
 
-            # Post the tweet with text and/or media
-            if text or media_ids:
-                response = client.create_tweet(
-                    text=text,  # Tweet text
-                    media_ids=media_ids if media_ids else None  # Media IDs (if any)
-                )
-                logging.info(f"Posted content successfully. Tweet ID: {response.data['id']}")
+        # Post the tweet with text and/or media
+        if text or media_ids:
+            response = client.create_tweet(
+                text=text,  # Tweet text
+                media_ids=media_ids if media_ids else None  # Media IDs (if any)
+            )
+            logging.info(f"Posted content successfully. Tweet ID: {response.data['id']}")
 
-                # Reset variables after posting
-                img_paths.clear()
-                video_path = ""
-                text = ""
+            # Update seen_posts.txt after posting
+            with open("seen_posts.txt", "w") as f:
+                f.write("\n".join(seen_posts))
+        else:
+            logging.error("Failed to post content: No text or media provided.")
+    except tweepy.TweepyException as e:
+        logging.error(f"Failed to post content: {e}")
 
-                # Update seen_posts.txt after posting
-                with open("seen_posts.txt", "w") as f:
-                    f.write("\n".join(seen_posts))
+def main():
+    try:
+        # Initialize variables for each iteration
+        img_paths = list()  # Ensure img_paths is always a list
+        video_path = str()
+        content = str()
+
+        # Extract content from Reddit
+        posts = extractContent()
+        for post in posts:
+            # Handle single image (s_img)
+            if post.get('s_img'):
+                img_paths.append(post['s_img'])  # Add single image to the list
+            # Handle multiple images (m_img)
+            elif post.get('m_img'):
+                img_paths.extend(post['m_img'])  # Add multiple images to the list
+
+            # Handle video
+            video_path = post.get('video', '')
+
+            # Ensure post['content'] and post['url'] are not None
+            post_content = f"{post.get('title', '')}\n{post.get('content', '')}"
+            post_url = post.get('url', '')
+
+            if post_content is None or post_content == '':
+                post_content = post['title']
+            if post_url is None:
+                post_url = ''
+
+            # Log the values for debugging
+            logging.info(f"Content: {post_content}")
+            logging.info(f"Image Paths: {img_paths}")
+            logging.info(f"Video Path: {video_path}")
+
+            # Construct the content string
+            if post_content and post_url:
+                content = f"{post_content[:(277 - len(post_url))]}...\n{post_url}" if len(post_content) + len(post_url) >= 277 else f"{post_content[:]}\n{post_url}"
+            elif post_content:
+                content = f"{post_content[:277]}"
+            elif post_url:
+                content = f"{post_url}"
             else:
-                logging.error("Failed to post content: No text or media provided.")
-        except tweepy.TweepyException as e:
-            logging.error(f"Failed to post content: {e}")
-    
-    while True:
-        try:
-            # Initialize variables for each iteration
-            img_paths = list()  # Ensure img_paths is always a list
-            video_path = str()
-            content = str()
+                logging.error("Both post_content and post_url are empty or None.")
+                continue
 
-            # Extract content from Reddit
-            posts = extractContent()
-            for post in posts:
-                # Handle single image (s_img)
-                if post.get('s_img'):
-                    img_paths.append(post['s_img'])  # Add single image to the list
-                # Handle multiple images (m_img)
-                elif post.get('m_img'):
-                    img_paths.extend(post['m_img'])  # Add multiple images to the list
+        # Post immediately after extracting content
+        if content or img_paths or video_path:
+            postarX(content, img_paths, video_path)
 
-                # Handle video
-                video_path = post.get('video', '')
-
-                # Ensure post['content'] and post['url'] are not None
-                post_content = f"{post.get('title', '')}\n{post.get('content', '')}"
-                post_url = post.get('url', '')
-
-                if post_content is None or post_content == '':
-                    post_content = post['title']
-                if post_url is None:
-                    post_url = ''
-
-                # Log the values for debugging
-                logging.info(f"Content: {post_content}")
-                logging.info(f"Image Paths: {img_paths}")
-                logging.info(f"Video Path: {video_path}")
-
-                # Construct the content string
-                if post_content and post_url:
-                    content = f"{post_content[:(277 - len(post_url))]}...\n{post_url}" if len(post_content) + len(post_url) >= 277 else f"{post_content[:]}\n{post_url}"
-                elif post_content:
-                    content = f"{post_content[:277]}"
-                elif post_url:
-                    content = f"{post_url}"
-                else:
-                    logging.error("Both post_content and post_url are empty or None.")
-                    continue
-
-            # Post immediately after extracting content
-            if content or img_paths or video_path:
-                postarX(content, img_paths, video_path)
-
-            sleep(1800) # Every 30min a new post
-        except Exception as e:
-            logging.error(f"Error in main loop: {e}")
-            sleep(60)
+    except Exception as e:
+        logging.error(f"Error in main loop: {e}")
 
 if __name__ == "__main__":
     main()
