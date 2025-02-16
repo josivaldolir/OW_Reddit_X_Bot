@@ -1,5 +1,4 @@
 import tweepy
-import schedule
 import logging
 import requests
 import os
@@ -88,9 +87,6 @@ def main():
                 logging.error("Failed to post content: No text or media provided.")
         except tweepy.TweepyException as e:
             logging.error(f"Failed to post content: {e}")
-
-    # Schedule posting every hour
-#    schedule.every(1).hour.do(postarX)
     
     while True:
         try:
@@ -141,9 +137,7 @@ def main():
             if content or img_paths or video_path:
                 postarX(content, img_paths, video_path)
 
-            # Run pending scheduled tasks
-#            schedule.run_pending()
-            sleep(60) # Every 1min a new post
+            sleep(1800) # Every 30min a new post
         except Exception as e:
             logging.error(f"Error in main loop: {e}")
             sleep(60)
