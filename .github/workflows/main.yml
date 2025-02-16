@@ -36,7 +36,7 @@ jobs:
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
           git pull --autostash --rebase
-          touch seen_posts.txt logs.txt  # Garante que os arquivos existem
+          touch seen_posts.txt twitter_bot.log  # Garante que os arquivos existem
           if git diff --quiet --exit-code seen_posts.txt logs.txt; then
             echo "No changes to commit"
           else
