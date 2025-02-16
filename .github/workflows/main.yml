@@ -31,14 +31,26 @@ jobs:
         run: |
           python main.py
 
-      - name: Commit seen_posts.txt and logs
+      - name: Commit seen_posts.txt and twitter_bot.log
         env:
           GH_PAT: ${{ secrets.OWXBot }}
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
+          
+          # Stash any local changes
+          git stash
+
+          # Pull the latest changes from the repository
           git pull --rebase
-          touch seen_posts.txt twitter_bot.log  # Ensure files exist
+
+          # Reapply the stashed changes
+          git stash pop
+
+          # Ensure files exist
+          touch seen_posts.txt twitter_bot.log
+
+          # Check for changes and commit
           if git diff --quiet --exit-code seen_posts.txt twitter_bot.log; then
             echo "No changes to commit"
           else
