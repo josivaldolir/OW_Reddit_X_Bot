@@ -1,0 +1,7 @@
+2025-02-16 20:54:36,974 - INFO - Content: Which one will you choose?
+
+2025-02-16 20:54:36,975 - INFO - Image Paths: ['https://preview.redd.it/lxjva4zlljje1.png?auto=webp&s=ffc92815275d00e7dbd95ee12fd32b30bf3bde8e']
+2025-02-16 20:54:36,975 - INFO - Video Path: 
+2025-02-16 20:54:37,070 - INFO - Downloaded media from https://preview.redd.it/lxjva4zlljje1.png?auto=webp&s=ffc92815275d00e7dbd95ee12fd32b30bf3bde8e to temp_image.jpg
+2025-02-16 20:54:37,546 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
