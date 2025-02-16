@@ -42,11 +42,22 @@ def download_media(url, filename):
         return None
 
 def main():
-    def postarX(text):
+    def postarX(text: str, img_paths: list, video_path: str):
         try:
             media_ids = []
+            # Handle video
+            if video_path:
+                # Download the video from the URL
+                local_filename = download_media(video_path, "temp_video.mp4")
+                if local_filename:
+                    # Upload the video
+                    media = api.media_upload(local_filename, media_category="tweet_video", wait_for_processing=True)
+                    media_ids.append(media.media_id)
+                    # Clean up the downloaded file
+                    os.remove(local_filename)
+            
             # Handle multiple images (up to 4 per tweet)
-            if img_paths:
+            elif img_paths:
                 for image_url in img_paths[:4]:  # Limit to 4 images
                     # Download the image from the URL
                     local_filename = download_media(image_url, "temp_image.jpg")
@@ -56,17 +67,6 @@ def main():
                         media_ids.append(media.media_id)
                         # Clean up the downloaded file
                         os.remove(local_filename)
-
-            # Handle video
-            elif video_path:
-                # Download the video from the URL
-                local_filename = download_media(video_path, "temp_video.mp4")
-                if local_filename:
-                    # Upload the video
-                    media = api.media_upload(local_filename, media_category="tweet_video", wait_for_processing=True)
-                    media_ids.append(media.media_id)
-                    # Clean up the downloaded file
-                    os.remove(local_filename)
 
             # Post the tweet with text and/or media
             if text or media_ids:
@@ -113,7 +113,7 @@ def main():
                 video_path = post.get('video', '')
 
                 # Ensure post['content'] and post['url'] are not None
-                post_content = post.get('content', '')
+                post_content = f"{post.get('title', '')}\n{post.get('content', '')}"
                 post_url = post.get('url', '')
 
                 if post_content is None or post_content == '':
@@ -128,7 +128,7 @@ def main():
 
                 # Construct the content string
                 if post_content and post_url:
-                    content = f"{post_content[:(277 - len(post_url))]}...\n{post_url}\n"
+                    content = f"{post_content[:(277 - len(post_url))]}...\n{post_url}" if len(post_content) + len(post_url) >= 277 else f"{post_content[:]}\n{post_url}"
                 elif post_content:
                     content = f"{post_content[:277]}"
                 elif post_url:
@@ -139,14 +139,14 @@ def main():
 
             # Post immediately after extracting content
             if content or img_paths or video_path:
-                postarX(content)
+                postarX(content, img_paths, video_path)
 
             # Run pending scheduled tasks
             schedule.run_pending()
             sleep(600)
         except Exception as e:
             logging.error(f"Error in main loop: {e}")
-            sleep(600)
+            sleep(60)
 
 if __name__ == "__main__":
     main()

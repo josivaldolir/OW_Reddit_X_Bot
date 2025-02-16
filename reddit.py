@@ -1,4 +1,5 @@
 from oauth import *
+from random import choice
 
 # 📌 Lista para armazenar múltiplos posts novos
 daily_posts = []
@@ -13,7 +14,9 @@ except FileNotFoundError:
     pass  # Se não existir o arquivo, apenas ignore
 
 def subReddit(postlimit):
-    return reddit.subreddit("Overwatch").hot(limit=postlimit)
+    x = (reddit.subreddit("Overwatch").hot(limit=postlimit), reddit.subreddit("Overwatch_Memes").hot(limit=postlimit))
+    subreddit = choice(x)
+    return subreddit
 
 def extractContent():
     limit = 1  # Initial limit
