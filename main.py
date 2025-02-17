@@ -2,6 +2,7 @@ import tweepy
 import logging
 import requests
 import os
+import time
 from oauth import *
 from reddit import *
 
@@ -74,61 +75,71 @@ def postarX(text: str, img_paths: list, video_path: str):
             logging.info(f"Posted content successfully. Tweet ID: {response.data['id']}")
 
             # Update seen_posts.txt after posting
-            with open("seen_posts.txt", "w") as f:
-                f.write("\n".join(seen_posts))
+            with open("seen_posts.txt", "a") as f:
+                f.write(f"{post['url']}\n")
         else:
             logging.error("Failed to post content: No text or media provided.")
     except tweepy.TweepyException as e:
         logging.error(f"Failed to post content: {e}")
+        if "Too Many Requests" in str(e):
+            logging.info("Rate limit exceeded. Waiting for 15 minutes before retrying.")
+            time.sleep(900)  # Wait for 15 minutes
+        else:
+            raise e
 
 def main():
     try:
-        # Initialize variables for each iteration
-        img_paths = list()  # Ensure img_paths is always a list
-        video_path = str()
-        content = str()
-
         # Extract content from Reddit
         posts = extractContent()
-        for post in posts:
-            # Handle single image (s_img)
-            if post.get('s_img'):
-                img_paths.append(post['s_img'])  # Add single image to the list
-            # Handle multiple images (m_img)
-            elif post.get('m_img'):
-                img_paths.extend(post['m_img'])  # Add multiple images to the list
+        if not posts:
+            logging.info("No new posts to process.")
+            return
 
-            # Handle video
-            video_path = post.get('video', '')
+        # Process only the first post to avoid hitting rate limits
+        post = posts[0]
 
-            # Ensure post['content'] and post['url'] are not None
-            post_content = f"{post.get('title', '')}\n{post.get('content', '')}"
-            post_url = post.get('url', '')
+        # Initialize variables
+        img_paths = []
+        video_path = ""
+        content = ""
 
-            if post_content is None or post_content == '':
-                post_content = post['title']
-            if post_url is None:
-                post_url = ''
+        # Handle single image (s_img)
+        if post.get('s_img'):
+            img_paths.append(post['s_img'])  # Add single image to the list
+        # Handle multiple images (m_img)
+        elif post.get('m_img'):
+            img_paths.extend(post['m_img'])  # Add multiple images to the list
 
-            # Log the values for debugging
-            logging.info(f"Content: {post_content}")
-            logging.info(f"Image Paths: {img_paths}")
-            logging.info(f"Video Path: {video_path}")
+        # Handle video
+        video_path = post.get('video', '')
 
-            # Construct the content string
-            if post_content and post_url:
-                content = f"{post_content[:(277 - len(post_url))]}...\n{post_url}" if len(post_content) + len(post_url) >= 277 else f"{post_content[:]}\n{post_url}"
-            elif post_content:
-                content = f"{post_content[:277]}"
-            elif post_url:
-                content = f"{post_url}"
-            else:
-                logging.error("Both post_content and post_url are empty or None.")
-                continue
+        # Ensure post['content'] and post['url'] are not None
+        post_content = f"{post.get('title', '')}\n{post.get('content', '')}"
+        post_url = post.get('url', '')
 
-        # Post immediately after extracting content
-        if content or img_paths or video_path:
-            postarX(content, img_paths, video_path)
+        if post_content is None or post_content == '':
+            post_content = post['title']
+        if post_url is None:
+            post_url = ''
+
+        # Log the values for debugging
+        logging.info(f"Content: {post_content}")
+        logging.info(f"Image Paths: {img_paths}")
+        logging.info(f"Video Path: {video_path}")
+
+        # Construct the content string
+        if post_content and post_url:
+            content = f"{post_content[:(277 - len(post_url))]}...\n{post_url}" if len(post_content) + len(post_url) >= 277 else f"{post_content[:]}\n{post_url}"
+        elif post_content:
+            content = f"{post_content[:277]}"
+        elif post_url:
+            content = f"{post_url}"
+        else:
+            logging.error("Both post_content and post_url are empty or None.")
+            return
+
+        # Post the content
+        postarX(content, img_paths, video_path)
 
     except Exception as e:
         logging.error(f"Error in main loop: {e}")
