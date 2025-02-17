@@ -88,3 +88,10 @@ wanted to draw my fav girl & she turned out so cute!
 2025-02-17 03:41:28,522 - INFO - Downloaded media from https://preview.redd.it/m4fp8zl6zkje1.jpeg?auto=webp&s=755e7be87cf608cd2fb6d50e427014951f512710 to temp_image.jpg
 2025-02-17 03:41:29,362 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-02-17 04:17:03,039 - INFO - Content: I think I understand now why Kiriko gets so many skins.
+
+2025-02-17 04:17:03,039 - INFO - Image Paths: ['https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7']
+2025-02-17 04:17:03,039 - INFO - Video Path: 
+2025-02-17 04:17:03,190 - INFO - Downloaded media from https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7 to temp_image.jpg
+2025-02-17 04:17:03,796 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
