@@ -40,27 +40,44 @@ def download_media(url, filename):
         logging.error(f"Failed to download media from {url}: {e}")
         return None
 
+def check_rate_limits(api, endpoint):
+    """Check rate limits for a specific endpoint."""
+    try:
+        rate_limit_status = api.rate_limit_status()
+        endpoint_limit = rate_limit_status['resources'][endpoint.split('/')[1]][endpoint]
+        
+        if endpoint_limit['remaining'] <= 10:  # Add a buffer
+            reset_time = endpoint_limit['reset']
+            sleep_time = reset_time - time.time()
+            if sleep_time > 0:
+                logging.info(f"Approaching rate limit. Sleeping for {sleep_time} seconds.")
+                time.sleep(sleep_time)
+    except tweepy.TweepyException as e:
+        logging.error(f"Failed to check rate limits: {e}")
+
 def postarX(text: str, img_paths: list, video_path: str):
     try:
         media_ids = []
-        # Handle video
+        # Handle video (prioritize video over images)
         if video_path:
             # Download the video from the URL
             local_filename = download_media(video_path, "temp_video.mp4")
             if local_filename:
                 # Upload the video
+                check_rate_limits(api, '/media/upload')  # Check rate limits
                 media = api.media_upload(local_filename, media_category="tweet_video", wait_for_processing=True)
                 media_ids.append(media.media_id)
                 # Clean up the downloaded file
                 os.remove(local_filename)
         
-        # Handle multiple images (up to 4 per tweet)
+        # Handle multiple images (if no video is present)
         elif img_paths:
             for image_url in img_paths[:4]:  # Limit to 4 images
                 # Download the image from the URL
                 local_filename = download_media(image_url, "temp_image.jpg")
                 if local_filename:
                     # Upload the downloaded image
+                    check_rate_limits(api, '/media/upload')  # Check rate limits
                     media = api.media_upload(local_filename)
                     media_ids.append(media.media_id)
                     # Clean up the downloaded file
@@ -68,78 +85,72 @@ def postarX(text: str, img_paths: list, video_path: str):
 
         # Post the tweet with text and/or media
         if text or media_ids:
+            check_rate_limits(api, '/tweets&POST')  # Check rate limits
             response = client.create_tweet(
                 text=text,  # Tweet text
-                media_ids=media_ids if media_ids else None  # Media IDs (if any)
+                media_ids=media_ids if media_ids else None,  # Media IDs (if any)
+                user_auth=True
             )
             logging.info(f"Posted content successfully. Tweet ID: {response.data['id']}")
 
             # Update seen_posts.txt after posting
-            with open("seen_posts.txt", "a") as f:
-                f.write(f"{post['url']}\n")
+            with open("seen_posts.txt", "w") as f:
+                f.write("\n".join(seen_posts))
         else:
             logging.error("Failed to post content: No text or media provided.")
     except tweepy.TweepyException as e:
         logging.error(f"Failed to post content: {e}")
-        if "Too Many Requests" in str(e):
-            logging.info("Rate limit exceeded. Waiting for 15 minutes before retrying.")
-            time.sleep(900)  # Wait for 15 minutes
-        else:
-            raise e
+    except Exception as e:
+        logging.error(f"Unexpected error in postarX: {e}")
 
 def main():
     try:
+        # Initialize variables for each iteration
+        img_paths = list()  # Ensure img_paths is always a list
+        video_path = str()
+        content = str()
+
         # Extract content from Reddit
         posts = extractContent()
-        if not posts:
-            logging.info("No new posts to process.")
-            return
+        for post in posts:
+            # Handle single image (s_img)
+            if post.get('s_img'):
+                img_paths.append(post['s_img'])  # Add single image to the list
+            # Handle multiple images (m_img)
+            elif post.get('m_img'):
+                img_paths.extend(post['m_img'])  # Add multiple images to the list
 
-        # Process only the first post to avoid hitting rate limits
-        post = posts[0]
+            # Handle video
+            video_path = post.get('video', '')
 
-        # Initialize variables
-        img_paths = []
-        video_path = ""
-        content = ""
+            # Ensure post['content'] and post['url'] are not None
+            post_content = f"{post.get('title', '')}\n{post.get('content', '')}"
+            post_url = post.get('url', '')
 
-        # Handle single image (s_img)
-        if post.get('s_img'):
-            img_paths.append(post['s_img'])  # Add single image to the list
-        # Handle multiple images (m_img)
-        elif post.get('m_img'):
-            img_paths.extend(post['m_img'])  # Add multiple images to the list
+            if post_content is None or post_content == '':
+                post_content = post['title']
+            if post_url is None:
+                post_url = ''
 
-        # Handle video
-        video_path = post.get('video', '')
+            # Log the values for debugging
+            logging.info(f"Content: {post_content}")
+            logging.info(f"Image Paths: {img_paths}")
+            logging.info(f"Video Path: {video_path}")
 
-        # Ensure post['content'] and post['url'] are not None
-        post_content = f"{post.get('title', '')}\n{post.get('content', '')}"
-        post_url = post.get('url', '')
+            # Construct the content string
+            if post_content and post_url:
+                content = f"{post_content[:(277 - len(post_url))]}...\n{post_url}" if len(post_content) + len(post_url) >= 277 else f"{post_content[:]}\n{post_url}"
+            elif post_content:
+                content = f"{post_content[:277]}"
+            elif post_url:
+                content = f"{post_url}"
+            else:
+                logging.error("Both post_content and post_url are empty or None.")
+                continue
 
-        if post_content is None or post_content == '':
-            post_content = post['title']
-        if post_url is None:
-            post_url = ''
-
-        # Log the values for debugging
-        logging.info(f"Content: {post_content}")
-        logging.info(f"Image Paths: {img_paths}")
-        logging.info(f"Video Path: {video_path}")
-
-        # Construct the content string
-        if post_content and post_url:
-            content = f"{post_content[:(277 - len(post_url))]}...\n{post_url}" if len(post_content) + len(post_url) >= 277 else f"{post_content[:]}\n{post_url}"
-        elif post_content:
-            content = f"{post_content[:277]}"
-        elif post_url:
-            content = f"{post_url}"
-        else:
-            logging.error("Both post_content and post_url are empty or None.")
-            return
-
-        # Post the content
-        postarX(content, img_paths, video_path)
+        # Post immediately after extracting content
+        if content or img_paths or video_path:
+            postarX(content, img_paths, video_path)
 
     except Exception as e:
         logging.error(f"Error in main loop: {e}")
