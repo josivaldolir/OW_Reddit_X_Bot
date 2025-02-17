@@ -155,3 +155,10 @@ I absolutely hate going against dps doomfist, it is honestly so miserable. I'm g
 2025-02-17 08:18:59,759 - INFO - Video Path: 
 2025-02-17 08:18:59,994 - INFO - Posted content successfully. Tweet ID: 1891401949100257289
 2025-02-17 08:18:59,994 - ERROR - Error in main loop: name 'post' is not defined
+2025-02-17 08:42:10,527 - INFO - Content: I think I understand now why Kiriko gets so many skins.
+
+2025-02-17 08:42:10,527 - INFO - Image Paths: ['https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7']
+2025-02-17 08:42:10,527 - INFO - Video Path: 
+2025-02-17 08:42:10,599 - INFO - Downloaded media from https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7 to temp_image.jpg
+2025-02-17 08:42:11,495 - INFO - Posted content successfully. Tweet ID: 1891407785109414214
+2025-02-17 08:42:11,495 - ERROR - Error in main loop: name 'post' is not defined
