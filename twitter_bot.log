@@ -57,3 +57,10 @@ Some points I noticed, Sigma has been receiving a lot of skins in the last seaso
 2025-02-16 23:35:31,134 - INFO - Downloaded media from https://preview.redd.it/zwbm1iwzdkje1.jpg?width=1428&format=pjpg&auto=webp&s=068fde8dcec7224ff7312df42037807edd6f1dac to temp_image.jpg
 2025-02-16 23:35:31,840 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-02-17 01:06:13,830 - INFO - Content: I Felt Joy for But a Moment...
+
+2025-02-17 01:06:13,830 - INFO - Image Paths: ['https://preview.redd.it/6cze4m8b6lje1.png?auto=webp&s=75b80757ae4dca4e9f611c99a0c32c2f3a6c60bc']
+2025-02-17 01:06:13,830 - INFO - Video Path: 
+2025-02-17 01:06:13,984 - INFO - Downloaded media from https://preview.redd.it/6cze4m8b6lje1.png?auto=webp&s=75b80757ae4dca4e9f611c99a0c32c2f3a6c60bc to temp_image.jpg
+2025-02-17 01:06:14,525 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
