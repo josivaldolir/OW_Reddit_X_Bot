@@ -149,3 +149,9 @@ Too Many Requests
 2025-02-17 07:35:09,007 - INFO - Downloaded media from https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7 to temp_image.jpg
 2025-02-17 07:35:09,752 - INFO - Posted content successfully. Tweet ID: 1891390916717637875
 2025-02-17 07:35:09,752 - ERROR - Error in main loop: name 'post' is not defined
+2025-02-17 08:18:59,758 - INFO - Content: I'm so happy we don't have old doom anymore
+I absolutely hate going against dps doomfist, it is honestly so miserable. I'm glad they made him a tank now
+2025-02-17 08:18:59,759 - INFO - Image Paths: []
+2025-02-17 08:18:59,759 - INFO - Video Path: 
+2025-02-17 08:18:59,994 - INFO - Posted content successfully. Tweet ID: 1891401949100257289
+2025-02-17 08:18:59,994 - ERROR - Error in main loop: name 'post' is not defined
