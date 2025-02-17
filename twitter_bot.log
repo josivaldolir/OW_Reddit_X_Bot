@@ -225,3 +225,9 @@ Too Many Requests
 2025-02-17 18:17:55,817 - INFO - Downloaded media from https://preview.redd.it/nfqi18ppaoje1.png?width=434&format=png&auto=webp&s=0f93165dc5302efecc481bef7be83325602e3671 to temp_image.jpg
 2025-02-17 18:17:56,442 - INFO - Downloaded media from https://preview.redd.it/jm2pmx8qaoje1.png?width=222&format=png&auto=webp&s=093ee32fb2282f8c3f17f6a5fefdf5ee2dd69bd0 to temp_image.jpg
 2025-02-17 18:17:57,311 - INFO - Posted content successfully. Tweet ID: 1891552680729772387
+2025-02-17 18:41:36,790 - INFO - Content: They're so cute when they're trying
+
+2025-02-17 18:41:36,790 - INFO - Image Paths: ['https://preview.redd.it/hvvz851dkpje1.jpeg?auto=webp&s=21b75157d4245d8db849026194540a4d8e6eaa40']
+2025-02-17 18:41:36,790 - INFO - Video Path: 
+2025-02-17 18:41:37,097 - INFO - Downloaded media from https://preview.redd.it/hvvz851dkpje1.jpeg?auto=webp&s=21b75157d4245d8db849026194540a4d8e6eaa40 to temp_image.jpg
+2025-02-17 18:41:39,213 - INFO - Posted content successfully. Tweet ID: 1891558643683794948
