@@ -231,3 +231,9 @@ Too Many Requests
 2025-02-17 18:41:36,790 - INFO - Video Path: 
 2025-02-17 18:41:37,097 - INFO - Downloaded media from https://preview.redd.it/hvvz851dkpje1.jpeg?auto=webp&s=21b75157d4245d8db849026194540a4d8e6eaa40 to temp_image.jpg
 2025-02-17 18:41:39,213 - INFO - Posted content successfully. Tweet ID: 1891558643683794948
+2025-02-17 19:11:23,019 - INFO - Content: Funny title
+
+2025-02-17 19:11:23,019 - INFO - Image Paths: ['https://preview.redd.it/1uo7a0ev1qje1.png?auto=webp&s=fc9b55d5ce91a9bd586239e7755f0faad612f75d']
+2025-02-17 19:11:23,019 - INFO - Video Path: 
+2025-02-17 19:11:23,168 - INFO - Downloaded media from https://preview.redd.it/1uo7a0ev1qje1.png?auto=webp&s=fc9b55d5ce91a9bd586239e7755f0faad612f75d to temp_image.jpg
+2025-02-17 19:11:24,453 - INFO - Posted content successfully. Tweet ID: 1891566131200262390
