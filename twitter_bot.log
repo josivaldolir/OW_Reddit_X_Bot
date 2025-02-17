@@ -142,3 +142,10 @@ Too Many Requests
 2025-02-17 07:13:43,675 - INFO - Downloaded media from https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7 to temp_image.jpg
 2025-02-17 07:13:44,655 - INFO - Posted content successfully. Tweet ID: 1891385526441431183
 2025-02-17 07:13:44,655 - ERROR - Error in main loop: name 'post' is not defined
+2025-02-17 07:35:08,980 - INFO - Content: I think I understand now why Kiriko gets so many skins.
+
+2025-02-17 07:35:08,980 - INFO - Image Paths: ['https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7']
+2025-02-17 07:35:08,980 - INFO - Video Path: 
+2025-02-17 07:35:09,007 - INFO - Downloaded media from https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7 to temp_image.jpg
+2025-02-17 07:35:09,752 - INFO - Posted content successfully. Tweet ID: 1891390916717637875
+2025-02-17 07:35:09,752 - ERROR - Error in main loop: name 'post' is not defined
