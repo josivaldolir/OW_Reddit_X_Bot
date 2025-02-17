@@ -186,3 +186,11 @@ Too Many Requests
 2025-02-17 10:15:33,919 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
 2025-02-17 10:15:33,919 - INFO - Rate limit exceeded. Waiting for 15 minutes before retrying.
+2025-02-17 10:40:46,698 - INFO - Content: I think I understand now why Kiriko gets so many skins.
+
+2025-02-17 10:40:46,698 - INFO - Image Paths: ['https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7']
+2025-02-17 10:40:46,698 - INFO - Video Path: 
+2025-02-17 10:40:46,733 - INFO - Downloaded media from https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7 to temp_image.jpg
+2025-02-17 10:40:47,298 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
+2025-02-17 10:40:47,298 - INFO - Rate limit exceeded. Waiting for 15 minutes before retrying.
