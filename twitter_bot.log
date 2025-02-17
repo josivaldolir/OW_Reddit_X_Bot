@@ -218,3 +218,10 @@ Too Many Requests
 2025-02-17 12:27:23,937 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
 2025-02-17 12:27:23,937 - INFO - Rate limit exceeded. Waiting for 15 minutes before retrying.
+2025-02-17 18:17:55,785 - INFO - Content: Freja is Huntress from the  Titan Project.
+
+2025-02-17 18:17:55,785 - INFO - Image Paths: ['https://preview.redd.it/nfqi18ppaoje1.png?width=434&format=png&auto=webp&s=0f93165dc5302efecc481bef7be83325602e3671', 'https://preview.redd.it/jm2pmx8qaoje1.png?width=222&format=png&auto=webp&s=093ee32fb2282f8c3f17f6a5fefdf5ee2dd69bd0']
+2025-02-17 18:17:55,785 - INFO - Video Path: 
+2025-02-17 18:17:55,817 - INFO - Downloaded media from https://preview.redd.it/nfqi18ppaoje1.png?width=434&format=png&auto=webp&s=0f93165dc5302efecc481bef7be83325602e3671 to temp_image.jpg
+2025-02-17 18:17:56,442 - INFO - Downloaded media from https://preview.redd.it/jm2pmx8qaoje1.png?width=222&format=png&auto=webp&s=093ee32fb2282f8c3f17f6a5fefdf5ee2dd69bd0 to temp_image.jpg
+2025-02-17 18:17:57,311 - INFO - Posted content successfully. Tweet ID: 1891552680729772387
