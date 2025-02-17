@@ -81,3 +81,10 @@ Some points I noticed, Sigma has been receiving a lot of skins in the last seaso
 2025-02-17 03:20:08,524 - INFO - Downloaded media from https://preview.redd.it/d823ootzdkje1.jpg?width=1436&format=pjpg&auto=webp&s=b74edf01a77bea59e358f8426b736c41a1ea9995 to temp_image.jpg
 2025-02-17 03:20:08,929 - INFO - Downloaded media from https://preview.redd.it/zwbm1iwzdkje1.jpg?width=1428&format=pjpg&auto=webp&s=068fde8dcec7224ff7312df42037807edd6f1dac to temp_image.jpg
 2025-02-17 03:20:09,762 - INFO - Posted content successfully. Tweet ID: 1891326743497355421
+2025-02-17 03:41:28,393 - INFO - Content: My Juno Fanart! 🪐✨
+wanted to draw my fav girl & she turned out so cute! 
+2025-02-17 03:41:28,393 - INFO - Image Paths: ['https://preview.redd.it/m4fp8zl6zkje1.jpeg?auto=webp&s=755e7be87cf608cd2fb6d50e427014951f512710']
+2025-02-17 03:41:28,393 - INFO - Video Path: 
+2025-02-17 03:41:28,522 - INFO - Downloaded media from https://preview.redd.it/m4fp8zl6zkje1.jpeg?auto=webp&s=755e7be87cf608cd2fb6d50e427014951f512710 to temp_image.jpg
+2025-02-17 03:41:29,362 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
