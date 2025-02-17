@@ -1,6 +1,220 @@
-2025-02-17 14:42:55,516 - INFO - Content: I think I understand now why Kiriko gets so many skins.
+2025-02-16 20:54:36,974 - INFO - Content: Which one will you choose?
 
-2025-02-17 14:42:55,516 - INFO - Image Paths: ['https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7']
-2025-02-17 14:42:55,516 - INFO - Video Path: 
-2025-02-17 14:42:55,620 - INFO - Downloaded media from https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7 to temp_image.jpg
-2025-02-17 14:42:59,873 - INFO - Posted content successfully. Tweet ID: 1891543880211816700
+2025-02-16 20:54:36,975 - INFO - Image Paths: ['https://preview.redd.it/lxjva4zlljje1.png?auto=webp&s=ffc92815275d00e7dbd95ee12fd32b30bf3bde8e']
+2025-02-16 20:54:36,975 - INFO - Video Path: 
+2025-02-16 20:54:37,070 - INFO - Downloaded media from https://preview.redd.it/lxjva4zlljje1.png?auto=webp&s=ffc92815275d00e7dbd95ee12fd32b30bf3bde8e to temp_image.jpg
+2025-02-16 20:54:37,546 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
+2025-02-16 21:11:47,088 - INFO - Content: That time a man asked a question and the world wasn't ready for the answer: What would the cast look like Torbified?
+
+2025-02-16 21:11:47,088 - INFO - Image Paths: ['https://preview.redd.it/20qnauej1jje1.jpg?width=1920&format=pjpg&auto=webp&s=6823533864e450d7a63c60c76b358a049d70b705', 'https://preview.redd.it/1nwuiqej1jje1.jpg?width=1024&format=pjpg&auto=webp&s=04b6132e41e85d4d281f700500d7031768c278c8', 'https://preview.redd.it/pnt1ordj1jje1.jpg?width=2304&format=pjpg&auto=webp&s=4ae6ed8e225a0249e45272250c72c7f9c6a8390d', 'https://preview.redd.it/doiyjkdj1jje1.jpg?width=2560&format=pjpg&auto=webp&s=13981140cf17f9f948e1badd7f65689bba85fb7b']
+2025-02-16 21:11:47,088 - INFO - Video Path: 
+2025-02-16 21:11:47,246 - INFO - Downloaded media from https://preview.redd.it/20qnauej1jje1.jpg?width=1920&format=pjpg&auto=webp&s=6823533864e450d7a63c60c76b358a049d70b705 to temp_image.jpg
+2025-02-16 21:11:48,078 - INFO - Downloaded media from https://preview.redd.it/1nwuiqej1jje1.jpg?width=1024&format=pjpg&auto=webp&s=04b6132e41e85d4d281f700500d7031768c278c8 to temp_image.jpg
+2025-02-16 21:11:48,624 - INFO - Downloaded media from https://preview.redd.it/pnt1ordj1jje1.jpg?width=2304&format=pjpg&auto=webp&s=4ae6ed8e225a0249e45272250c72c7f9c6a8390d to temp_image.jpg
+2025-02-16 21:11:49,606 - INFO - Downloaded media from https://preview.redd.it/doiyjkdj1jje1.jpg?width=2560&format=pjpg&auto=webp&s=13981140cf17f9f948e1badd7f65689bba85fb7b to temp_image.jpg
+2025-02-16 21:11:50,986 - INFO - Posted content successfully. Tweet ID: 1891234054152106250
+2025-02-16 21:34:48,754 - INFO - Content: Which one will you choose?
+
+2025-02-16 21:34:48,754 - INFO - Image Paths: ['https://preview.redd.it/lxjva4zlljje1.png?auto=webp&s=ffc92815275d00e7dbd95ee12fd32b30bf3bde8e']
+2025-02-16 21:34:48,754 - INFO - Video Path: 
+2025-02-16 21:34:48,820 - INFO - Downloaded media from https://preview.redd.it/lxjva4zlljje1.png?auto=webp&s=ffc92815275d00e7dbd95ee12fd32b30bf3bde8e to temp_image.jpg
+2025-02-16 21:34:49,650 - INFO - Posted content successfully. Tweet ID: 1891239837572932055
+2025-02-16 22:11:47,164 - INFO - Content: BRING IT ON MAIN GENJIS! I CAN AUTO NANO NOW!!!
+
+2025-02-16 22:11:47,164 - INFO - Image Paths: ['https://preview.redd.it/8ju6etvsrjje1.png?auto=webp&s=7a329750569956cd4fa6bb8c16d712cfae9765af']
+2025-02-16 22:11:47,164 - INFO - Video Path: 
+2025-02-16 22:11:47,216 - INFO - Downloaded media from https://preview.redd.it/8ju6etvsrjje1.png?auto=webp&s=7a329750569956cd4fa6bb8c16d712cfae9765af to temp_image.jpg
+2025-02-16 22:11:47,848 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
+2025-02-16 22:36:09,277 - INFO - Content: BRING IT ON MAIN GENJIS! I CAN AUTO NANO NOW!!!
+
+2025-02-16 22:36:09,277 - INFO - Image Paths: ['https://preview.redd.it/8ju6etvsrjje1.png?auto=webp&s=7a329750569956cd4fa6bb8c16d712cfae9765af']
+2025-02-16 22:36:09,277 - INFO - Video Path: 
+2025-02-16 22:36:09,587 - INFO - Downloaded media from https://preview.redd.it/8ju6etvsrjje1.png?auto=webp&s=7a329750569956cd4fa6bb8c16d712cfae9765af to temp_image.jpg
+2025-02-16 22:36:11,242 - INFO - Posted content successfully. Tweet ID: 1891255278513074590
+2025-02-16 23:12:11,826 - INFO - Content: Has anyone posted all the skins that will be in the next season?
+We had few recolors this season, I can't see any of them here. 
+
+Some points I noticed, Sigma has been receiving a lot of skins in the last seasons and wow... 3 legendary for Kiriko in just one season, ok..💀
+2025-02-16 23:12:11,826 - INFO - Image Paths: ['https://preview.redd.it/lu02otlzdkje1.jpg?width=1424&format=pjpg&auto=webp&s=a29d64b17a282ba4e262a1ec16c5fe7a78986775', 'https://preview.redd.it/unzmhtqzdkje1.jpg?width=1438&format=pjpg&auto=webp&s=6edf699db74357c238a83f462803c6e8fc17a7f0', 'https://preview.redd.it/d823ootzdkje1.jpg?width=1436&format=pjpg&auto=webp&s=b74edf01a77bea59e358f8426b736c41a1ea9995', 'https://preview.redd.it/zwbm1iwzdkje1.jpg?width=1428&format=pjpg&auto=webp&s=068fde8dcec7224ff7312df42037807edd6f1dac']
+2025-02-16 23:12:11,826 - INFO - Video Path: 
+2025-02-16 23:12:12,107 - INFO - Downloaded media from https://preview.redd.it/lu02otlzdkje1.jpg?width=1424&format=pjpg&auto=webp&s=a29d64b17a282ba4e262a1ec16c5fe7a78986775 to temp_image.jpg
+2025-02-16 23:12:12,945 - INFO - Downloaded media from https://preview.redd.it/unzmhtqzdkje1.jpg?width=1438&format=pjpg&auto=webp&s=6edf699db74357c238a83f462803c6e8fc17a7f0 to temp_image.jpg
+2025-02-16 23:12:13,866 - INFO - Downloaded media from https://preview.redd.it/d823ootzdkje1.jpg?width=1436&format=pjpg&auto=webp&s=b74edf01a77bea59e358f8426b736c41a1ea9995 to temp_image.jpg
+2025-02-16 23:12:14,566 - INFO - Downloaded media from https://preview.redd.it/zwbm1iwzdkje1.jpg?width=1428&format=pjpg&auto=webp&s=068fde8dcec7224ff7312df42037807edd6f1dac to temp_image.jpg
+2025-02-16 23:12:15,371 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
+2025-02-16 23:35:28,503 - INFO - Content: Has anyone posted all the skins that will be in the next season?
+We had few recolors this season, I can't see any of them here. 
+
+Some points I noticed, Sigma has been receiving a lot of skins in the last seasons and wow... 3 legendary for Kiriko in just one season, ok..💀
+2025-02-16 23:35:28,503 - INFO - Image Paths: ['https://preview.redd.it/lu02otlzdkje1.jpg?width=1424&format=pjpg&auto=webp&s=a29d64b17a282ba4e262a1ec16c5fe7a78986775', 'https://preview.redd.it/unzmhtqzdkje1.jpg?width=1438&format=pjpg&auto=webp&s=6edf699db74357c238a83f462803c6e8fc17a7f0', 'https://preview.redd.it/d823ootzdkje1.jpg?width=1436&format=pjpg&auto=webp&s=b74edf01a77bea59e358f8426b736c41a1ea9995', 'https://preview.redd.it/zwbm1iwzdkje1.jpg?width=1428&format=pjpg&auto=webp&s=068fde8dcec7224ff7312df42037807edd6f1dac']
+2025-02-16 23:35:28,504 - INFO - Video Path: 
+2025-02-16 23:35:28,788 - INFO - Downloaded media from https://preview.redd.it/lu02otlzdkje1.jpg?width=1424&format=pjpg&auto=webp&s=a29d64b17a282ba4e262a1ec16c5fe7a78986775 to temp_image.jpg
+2025-02-16 23:35:29,700 - INFO - Downloaded media from https://preview.redd.it/unzmhtqzdkje1.jpg?width=1438&format=pjpg&auto=webp&s=6edf699db74357c238a83f462803c6e8fc17a7f0 to temp_image.jpg
+2025-02-16 23:35:30,373 - INFO - Downloaded media from https://preview.redd.it/d823ootzdkje1.jpg?width=1436&format=pjpg&auto=webp&s=b74edf01a77bea59e358f8426b736c41a1ea9995 to temp_image.jpg
+2025-02-16 23:35:31,134 - INFO - Downloaded media from https://preview.redd.it/zwbm1iwzdkje1.jpg?width=1428&format=pjpg&auto=webp&s=068fde8dcec7224ff7312df42037807edd6f1dac to temp_image.jpg
+2025-02-16 23:35:31,840 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
+2025-02-17 01:06:13,830 - INFO - Content: I Felt Joy for But a Moment...
+
+2025-02-17 01:06:13,830 - INFO - Image Paths: ['https://preview.redd.it/6cze4m8b6lje1.png?auto=webp&s=75b80757ae4dca4e9f611c99a0c32c2f3a6c60bc']
+2025-02-17 01:06:13,830 - INFO - Video Path: 
+2025-02-17 01:06:13,984 - INFO - Downloaded media from https://preview.redd.it/6cze4m8b6lje1.png?auto=webp&s=75b80757ae4dca4e9f611c99a0c32c2f3a6c60bc to temp_image.jpg
+2025-02-17 01:06:14,525 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
+2025-02-17 02:36:48,476 - INFO - Content: I Felt Joy for But a Moment...
+
+2025-02-17 02:36:48,476 - INFO - Image Paths: ['https://preview.redd.it/6cze4m8b6lje1.png?auto=webp&s=75b80757ae4dca4e9f611c99a0c32c2f3a6c60bc']
+2025-02-17 02:36:48,476 - INFO - Video Path: 
+2025-02-17 02:36:48,768 - INFO - Downloaded media from https://preview.redd.it/6cze4m8b6lje1.png?auto=webp&s=75b80757ae4dca4e9f611c99a0c32c2f3a6c60bc to temp_image.jpg
+2025-02-17 02:36:49,755 - INFO - Posted content successfully. Tweet ID: 1891315838692770105
+2025-02-17 03:20:07,332 - INFO - Content: Has anyone posted all the skins that will be in the next season?
+We had few recolors this season, I can't see any of them here. 
+
+Some points I noticed, Sigma has been receiving a lot of skins in the last seasons and wow... 3 legendary for Kiriko in just one season, ok..💀
+2025-02-17 03:20:07,332 - INFO - Image Paths: ['https://preview.redd.it/lu02otlzdkje1.jpg?width=1424&format=pjpg&auto=webp&s=a29d64b17a282ba4e262a1ec16c5fe7a78986775', 'https://preview.redd.it/unzmhtqzdkje1.jpg?width=1438&format=pjpg&auto=webp&s=6edf699db74357c238a83f462803c6e8fc17a7f0', 'https://preview.redd.it/d823ootzdkje1.jpg?width=1436&format=pjpg&auto=webp&s=b74edf01a77bea59e358f8426b736c41a1ea9995', 'https://preview.redd.it/zwbm1iwzdkje1.jpg?width=1428&format=pjpg&auto=webp&s=068fde8dcec7224ff7312df42037807edd6f1dac']
+2025-02-17 03:20:07,332 - INFO - Video Path: 
+2025-02-17 03:20:07,439 - INFO - Downloaded media from https://preview.redd.it/lu02otlzdkje1.jpg?width=1424&format=pjpg&auto=webp&s=a29d64b17a282ba4e262a1ec16c5fe7a78986775 to temp_image.jpg
+2025-02-17 03:20:07,996 - INFO - Downloaded media from https://preview.redd.it/unzmhtqzdkje1.jpg?width=1438&format=pjpg&auto=webp&s=6edf699db74357c238a83f462803c6e8fc17a7f0 to temp_image.jpg
+2025-02-17 03:20:08,524 - INFO - Downloaded media from https://preview.redd.it/d823ootzdkje1.jpg?width=1436&format=pjpg&auto=webp&s=b74edf01a77bea59e358f8426b736c41a1ea9995 to temp_image.jpg
+2025-02-17 03:20:08,929 - INFO - Downloaded media from https://preview.redd.it/zwbm1iwzdkje1.jpg?width=1428&format=pjpg&auto=webp&s=068fde8dcec7224ff7312df42037807edd6f1dac to temp_image.jpg
+2025-02-17 03:20:09,762 - INFO - Posted content successfully. Tweet ID: 1891326743497355421
+2025-02-17 03:41:28,393 - INFO - Content: My Juno Fanart! 🪐✨
+wanted to draw my fav girl & she turned out so cute! 
+2025-02-17 03:41:28,393 - INFO - Image Paths: ['https://preview.redd.it/m4fp8zl6zkje1.jpeg?auto=webp&s=755e7be87cf608cd2fb6d50e427014951f512710']
+2025-02-17 03:41:28,393 - INFO - Video Path: 
+2025-02-17 03:41:28,522 - INFO - Downloaded media from https://preview.redd.it/m4fp8zl6zkje1.jpeg?auto=webp&s=755e7be87cf608cd2fb6d50e427014951f512710 to temp_image.jpg
+2025-02-17 03:41:29,362 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
+2025-02-17 04:17:03,039 - INFO - Content: I think I understand now why Kiriko gets so many skins.
+
+2025-02-17 04:17:03,039 - INFO - Image Paths: ['https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7']
+2025-02-17 04:17:03,039 - INFO - Video Path: 
+2025-02-17 04:17:03,190 - INFO - Downloaded media from https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7 to temp_image.jpg
+2025-02-17 04:17:03,796 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
+2025-02-17 04:40:03,221 - INFO - Content: I think I understand now why Kiriko gets so many skins.
+
+2025-02-17 04:40:03,221 - INFO - Image Paths: ['https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7']
+2025-02-17 04:40:03,221 - INFO - Video Path: 
+2025-02-17 04:40:03,306 - INFO - Downloaded media from https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7 to temp_image.jpg
+2025-02-17 04:40:04,008 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
+2025-02-17 04:40:04,008 - INFO - Rate limit exceeded. Waiting for 15 minutes before retrying.
+2025-02-17 05:15:15,101 - INFO - Content: I think I understand now why Kiriko gets so many skins.
+
+2025-02-17 05:15:15,101 - INFO - Image Paths: ['https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7']
+2025-02-17 05:15:15,101 - INFO - Video Path: 
+2025-02-17 05:15:15,389 - INFO - Downloaded media from https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7 to temp_image.jpg
+2025-02-17 05:15:16,263 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
+2025-02-17 05:15:16,263 - INFO - Rate limit exceeded. Waiting for 15 minutes before retrying.
+2025-02-17 05:38:53,857 - INFO - Content: I think I understand now why Kiriko gets so many skins.
+
+2025-02-17 05:38:53,857 - INFO - Image Paths: ['https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7']
+2025-02-17 05:38:53,857 - INFO - Video Path: 
+2025-02-17 05:38:53,945 - INFO - Downloaded media from https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7 to temp_image.jpg
+2025-02-17 05:38:54,591 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
+2025-02-17 05:38:54,591 - INFO - Rate limit exceeded. Waiting for 15 minutes before retrying.
+2025-02-17 06:19:37,630 - INFO - Content: I think I understand now why Kiriko gets so many skins.
+
+2025-02-17 06:19:37,630 - INFO - Image Paths: ['https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7']
+2025-02-17 06:19:37,630 - INFO - Video Path: 
+2025-02-17 06:19:37,815 - INFO - Downloaded media from https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7 to temp_image.jpg
+2025-02-17 06:19:38,326 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
+2025-02-17 06:19:38,326 - INFO - Rate limit exceeded. Waiting for 15 minutes before retrying.
+2025-02-17 06:43:57,250 - INFO - Content: I think I understand now why Kiriko gets so many skins.
+
+2025-02-17 06:43:57,250 - INFO - Image Paths: ['https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7']
+2025-02-17 06:43:57,250 - INFO - Video Path: 
+2025-02-17 06:43:57,503 - INFO - Downloaded media from https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7 to temp_image.jpg
+2025-02-17 06:43:58,361 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
+2025-02-17 06:43:58,361 - INFO - Rate limit exceeded. Waiting for 15 minutes before retrying.
+2025-02-17 07:13:43,568 - INFO - Content: I think I understand now why Kiriko gets so many skins.
+
+2025-02-17 07:13:43,568 - INFO - Image Paths: ['https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7']
+2025-02-17 07:13:43,568 - INFO - Video Path: 
+2025-02-17 07:13:43,675 - INFO - Downloaded media from https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7 to temp_image.jpg
+2025-02-17 07:13:44,655 - INFO - Posted content successfully. Tweet ID: 1891385526441431183
+2025-02-17 07:13:44,655 - ERROR - Error in main loop: name 'post' is not defined
+2025-02-17 07:35:08,980 - INFO - Content: I think I understand now why Kiriko gets so many skins.
+
+2025-02-17 07:35:08,980 - INFO - Image Paths: ['https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7']
+2025-02-17 07:35:08,980 - INFO - Video Path: 
+2025-02-17 07:35:09,007 - INFO - Downloaded media from https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7 to temp_image.jpg
+2025-02-17 07:35:09,752 - INFO - Posted content successfully. Tweet ID: 1891390916717637875
+2025-02-17 07:35:09,752 - ERROR - Error in main loop: name 'post' is not defined
+2025-02-17 08:18:59,758 - INFO - Content: I'm so happy we don't have old doom anymore
+I absolutely hate going against dps doomfist, it is honestly so miserable. I'm glad they made him a tank now
+2025-02-17 08:18:59,759 - INFO - Image Paths: []
+2025-02-17 08:18:59,759 - INFO - Video Path: 
+2025-02-17 08:18:59,994 - INFO - Posted content successfully. Tweet ID: 1891401949100257289
+2025-02-17 08:18:59,994 - ERROR - Error in main loop: name 'post' is not defined
+2025-02-17 08:42:10,527 - INFO - Content: I think I understand now why Kiriko gets so many skins.
+
+2025-02-17 08:42:10,527 - INFO - Image Paths: ['https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7']
+2025-02-17 08:42:10,527 - INFO - Video Path: 
+2025-02-17 08:42:10,599 - INFO - Downloaded media from https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7 to temp_image.jpg
+2025-02-17 08:42:11,495 - INFO - Posted content successfully. Tweet ID: 1891407785109414214
+2025-02-17 08:42:11,495 - ERROR - Error in main loop: name 'post' is not defined
+2025-02-17 09:15:45,002 - INFO - Content: I think I understand now why Kiriko gets so many skins.
+
+2025-02-17 09:15:45,002 - INFO - Image Paths: ['https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7']
+2025-02-17 09:15:45,002 - INFO - Video Path: 
+2025-02-17 09:15:45,175 - INFO - Downloaded media from https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7 to temp_image.jpg
+2025-02-17 09:15:45,912 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
+2025-02-17 09:15:45,912 - INFO - Rate limit exceeded. Waiting for 15 minutes before retrying.
+2025-02-17 09:37:17,870 - INFO - Content: I think I understand now why Kiriko gets so many skins.
+
+2025-02-17 09:37:17,870 - INFO - Image Paths: ['https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7']
+2025-02-17 09:37:17,870 - INFO - Video Path: 
+2025-02-17 09:37:18,098 - INFO - Downloaded media from https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7 to temp_image.jpg
+2025-02-17 09:37:18,692 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
+2025-02-17 09:37:18,692 - INFO - Rate limit exceeded. Waiting for 15 minutes before retrying.
+2025-02-17 10:15:33,023 - INFO - Content: I think I understand now why Kiriko gets so many skins.
+
+2025-02-17 10:15:33,023 - INFO - Image Paths: ['https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7']
+2025-02-17 10:15:33,023 - INFO - Video Path: 
+2025-02-17 10:15:33,229 - INFO - Downloaded media from https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7 to temp_image.jpg
+2025-02-17 10:15:33,919 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
+2025-02-17 10:15:33,919 - INFO - Rate limit exceeded. Waiting for 15 minutes before retrying.
+2025-02-17 10:40:46,698 - INFO - Content: I think I understand now why Kiriko gets so many skins.
+
+2025-02-17 10:40:46,698 - INFO - Image Paths: ['https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7']
+2025-02-17 10:40:46,698 - INFO - Video Path: 
+2025-02-17 10:40:46,733 - INFO - Downloaded media from https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7 to temp_image.jpg
+2025-02-17 10:40:47,298 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
+2025-02-17 10:40:47,298 - INFO - Rate limit exceeded. Waiting for 15 minutes before retrying.
+2025-02-17 11:11:45,673 - INFO - Content: I think I understand now why Kiriko gets so many skins.
+
+2025-02-17 11:11:45,674 - INFO - Image Paths: ['https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7']
+2025-02-17 11:11:45,674 - INFO - Video Path: 
+2025-02-17 11:11:45,789 - INFO - Downloaded media from https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7 to temp_image.jpg
+2025-02-17 11:11:46,439 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
+2025-02-17 11:11:46,439 - INFO - Rate limit exceeded. Waiting for 15 minutes before retrying.
+2025-02-17 11:35:26,873 - INFO - Content: I think I understand now why Kiriko gets so many skins.
+
+2025-02-17 11:35:26,873 - INFO - Image Paths: ['https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7']
+2025-02-17 11:35:26,873 - INFO - Video Path: 
+2025-02-17 11:35:26,901 - INFO - Downloaded media from https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7 to temp_image.jpg
+2025-02-17 11:35:27,578 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
+2025-02-17 11:35:27,578 - INFO - Rate limit exceeded. Waiting for 15 minutes before retrying.
+2025-02-17 12:27:23,102 - INFO - Content: I think I understand now why Kiriko gets so many skins.
+
+2025-02-17 12:27:23,102 - INFO - Image Paths: ['https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7']
+2025-02-17 12:27:23,102 - INFO - Video Path: 
+2025-02-17 12:27:23,178 - INFO - Downloaded media from https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7 to temp_image.jpg
+2025-02-17 12:27:23,937 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
+2025-02-17 12:27:23,937 - INFO - Rate limit exceeded. Waiting for 15 minutes before retrying.
