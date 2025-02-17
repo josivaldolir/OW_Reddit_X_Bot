@@ -11,3 +11,10 @@ I greatly prefer the way Stadium looks from the outset and I frankly find it far
 2025-02-17 22:12:11,522 - INFO - Image Paths: []
 2025-02-17 22:12:11,522 - INFO - Video Path: 
 2025-02-17 22:12:11,851 - INFO - Posted content successfully. Tweet ID: 1891611630133444924
+2025-02-17 22:36:38,611 - INFO - Content: Cosmo and Wanda think they're slick 😭
+
+2025-02-17 22:36:38,611 - INFO - Image Paths: ['https://preview.redd.it/qkvi99qzfrje1.jpg?width=2560&format=pjpg&auto=webp&s=21457e98fd044cff4508b3faa5168e3014308ec0', 'https://preview.redd.it/z2eaodqzfrje1.jpg?width=2560&format=pjpg&auto=webp&s=a1585047aa20cefa5dccbbf74aff44b1fcf61bde']
+2025-02-17 22:36:38,611 - INFO - Video Path: 
+2025-02-17 22:36:38,748 - INFO - Downloaded media from https://preview.redd.it/qkvi99qzfrje1.jpg?width=2560&format=pjpg&auto=webp&s=21457e98fd044cff4508b3faa5168e3014308ec0 to temp_image.jpg
+2025-02-17 22:36:39,526 - INFO - Downloaded media from https://preview.redd.it/z2eaodqzfrje1.jpg?width=2560&format=pjpg&auto=webp&s=a1585047aa20cefa5dccbbf74aff44b1fcf61bde to temp_image.jpg
+2025-02-17 22:36:40,871 - INFO - Posted content successfully. Tweet ID: 1891617790752113125
