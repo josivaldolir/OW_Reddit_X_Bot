@@ -322,3 +322,11 @@ Or
 2025-02-18 16:17:48,620 - INFO - Downloaded media from https://preview.redd.it/okbdwjy6qwje1.jpeg?auto=webp&s=642957b99d22b03b0422e95c3b18d7d15ecb4c29 to temp_image.jpg
 2025-02-18 16:17:50,178 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-02-18 16:44:07,129 - INFO - Content: They even brought back the OW1 Play screen with S15
+
+2025-02-18 16:44:07,129 - INFO - Image Paths: ['https://preview.redd.it/1406ay79ewje1.jpg?width=2560&format=pjpg&auto=webp&s=e8b4aed92df7294ad08d9847e029f6daa0ef2389', 'https://preview.redd.it/f6xfd589ewje1.jpg?width=2560&format=pjpg&auto=webp&s=b9364c393bdfefedc8011adf6e49d8ac0da207eb', 'https://preview.redd.it/ejgf2z79ewje1.jpg?width=2560&format=pjpg&auto=webp&s=7d958ea85472a878a1231d192feba4ba72ab35ae']
+2025-02-18 16:44:07,129 - INFO - Video Path: 
+2025-02-18 16:44:07,215 - INFO - Downloaded media from https://preview.redd.it/1406ay79ewje1.jpg?width=2560&format=pjpg&auto=webp&s=e8b4aed92df7294ad08d9847e029f6daa0ef2389 to temp_image.jpg
+2025-02-18 16:44:08,348 - INFO - Downloaded media from https://preview.redd.it/f6xfd589ewje1.jpg?width=2560&format=pjpg&auto=webp&s=b9364c393bdfefedc8011adf6e49d8ac0da207eb to temp_image.jpg
+2025-02-18 16:44:09,347 - INFO - Downloaded media from https://preview.redd.it/ejgf2z79ewje1.jpg?width=2560&format=pjpg&auto=webp&s=7d958ea85472a878a1231d192feba4ba72ab35ae to temp_image.jpg
+2025-02-18 16:44:11,226 - INFO - Posted content successfully. Tweet ID: 1891891470476673285
