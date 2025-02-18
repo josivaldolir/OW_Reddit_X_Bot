@@ -127,3 +127,9 @@ Stop the hate towards anyone!
 2025-02-18 07:12:52,265 - WARNING - Unexpected parameter: wait_for_processing
 2025-02-18 07:12:53,384 - WARNING - Unexpected parameter: wait_for_processing
 2025-02-18 07:12:53,858 - INFO - Posted content successfully. Tweet ID: 1891747701491916880
+2025-02-18 07:34:48,425 - INFO - Content: Fallen Angel
+
+2025-02-18 07:34:48,425 - INFO - Image Paths: ['https://external-preview.redd.it/oU6vVhlcaJdbizGnZFZmIB5OgcsXSN4SoGZX2-KY8wM.jpg?auto=webp&s=c2026e85f7e32915592160066160dc07dd3e2ba2']
+2025-02-18 07:34:48,426 - INFO - Video Path: 
+2025-02-18 07:34:48,590 - INFO - Downloaded media from https://external-preview.redd.it/oU6vVhlcaJdbizGnZFZmIB5OgcsXSN4SoGZX2-KY8wM.jpg?auto=webp&s=c2026e85f7e32915592160066160dc07dd3e2ba2 to temp_image.jpg
+2025-02-18 07:34:49,456 - INFO - Posted content successfully. Tweet ID: 1891753219426037868
