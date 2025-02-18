@@ -25,6 +25,9 @@ jobs:
           python -m pip install --upgrade pip
           pip install tweepy praw
 
+      - name: Install FFmpeg
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+
       - name: Run Twitter Bot
         env:
           CONSUMER_KEY: ${{ secrets.CONSUMER_KEY }}
