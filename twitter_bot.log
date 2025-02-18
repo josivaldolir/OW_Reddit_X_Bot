@@ -430,3 +430,25 @@ Too Many Requests
 2025-02-18 21:12:54,396 - INFO - Video Path: 
 2025-02-18 21:12:54,901 - INFO - Downloaded media from https://external-preview.redd.it/sxuTpL0SUWVFatheFjXZzdvRl_yWVdIa34t-8fWFy1A.png?auto=webp&s=968687976a68fe015301a6726a954d7ac2b584ee to temp_image.jpg
 2025-02-18 21:12:57,731 - INFO - Posted content successfully. Tweet ID: 1891959104609890650
+2025-02-18 21:35:30,799 - INFO - Content: “We are having a moment“ ah clip
+
+2025-02-18 21:35:30,799 - INFO - Image Paths: ['https://external-preview.redd.it/YXlyZHd0cHlheGplMajM-VUHx23qwS6Fc8D4S1HWkerMGIeEKllZ0B8GAA_G.png?format=pjpg&auto=webp&s=af0192d42826ac5db6c13692d012b1a28e667679']
+2025-02-18 21:35:30,799 - INFO - Video Path: https://v.redd.it/actegmuyaxje1/DASH_720.mp4?source=fallback
+2025-02-18 21:35:31,356 - INFO - Downloaded media from https://v.redd.it/actegmuyaxje1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-02-18 21:35:31,642 - INFO - Downloaded media from https://v.redd.it/actegmuyaxje1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-02-18 21:35:32,807 - INFO - Combined video and audio into temp_combined.mp4
+2025-02-18 21:35:33,013 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 21:35:33,128 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 21:35:33,567 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 21:35:33,947 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 21:35:34,341 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 21:35:34,670 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 21:35:34,999 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 21:35:35,340 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 21:35:35,519 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 21:35:36,668 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 21:35:37,809 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 21:35:38,962 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 21:35:40,068 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 21:35:41,156 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 21:35:41,677 - INFO - Posted content successfully. Tweet ID: 1891964831583879198
