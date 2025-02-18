@@ -275,3 +275,10 @@ Like “You believe that sh$%?”
 2025-02-18 12:57:10,068 - INFO - Downloaded media from https://preview.redd.it/rqst5ea3xhje1.png?auto=webp&s=c7bfbd15f5a3526bd8c2dc81d773da50bb805757 to temp_image.jpg
 2025-02-18 12:57:10,835 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-02-18 13:22:45,120 - INFO - Content: who would win in a realistic death battle between demoman and junkrat
+
+2025-02-18 13:22:45,120 - INFO - Image Paths: ['https://preview.redd.it/rqst5ea3xhje1.png?auto=webp&s=c7bfbd15f5a3526bd8c2dc81d773da50bb805757']
+2025-02-18 13:22:45,120 - INFO - Video Path: 
+2025-02-18 13:22:45,420 - INFO - Downloaded media from https://preview.redd.it/rqst5ea3xhje1.png?auto=webp&s=c7bfbd15f5a3526bd8c2dc81d773da50bb805757 to temp_image.jpg
+2025-02-18 13:22:46,271 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
