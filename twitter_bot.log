@@ -111,3 +111,19 @@ Stop the hate towards anyone!
 2025-02-18 06:42:54,403 - INFO - Video Path: 
 2025-02-18 06:42:54,663 - INFO - Downloaded media from https://external-preview.redd.it/eQCk0FtL6nI9I9ezS5U8pLQ2lpiEwnp2djdNi7MOXhw.png?auto=webp&s=3d9fd8805cc5fd2ad1dabadb0a3abe5bf8f76ceb to temp_image.jpg
 2025-02-18 06:42:55,928 - INFO - Posted content successfully. Tweet ID: 1891740159323918538
+2025-02-18 07:12:48,253 - INFO - Content: Universe detonates if support players go brig into dive
+
+2025-02-18 07:12:48,254 - INFO - Image Paths: ['https://external-preview.redd.it/Y2JzbDF5bGpndWplMVjYew_Qb50XGzrRz4JMdssdJNOhvYNaxrBYRwRnScKQ.png?format=pjpg&auto=webp&s=f5650c1e3a418bd78c313416481f57805e40d180']
+2025-02-18 07:12:48,254 - INFO - Video Path: https://v.redd.it/7dsa1yljguje1/DASH_1080.mp4?source=fallback
+2025-02-18 07:12:48,416 - INFO - Downloaded media from https://v.redd.it/7dsa1yljguje1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-02-18 07:12:48,577 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 07:12:48,677 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 07:12:48,934 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 07:12:49,254 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 07:12:49,523 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 07:12:49,787 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 07:12:50,063 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 07:12:51,157 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 07:12:52,265 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 07:12:53,384 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 07:12:53,858 - INFO - Posted content successfully. Tweet ID: 1891747701491916880
