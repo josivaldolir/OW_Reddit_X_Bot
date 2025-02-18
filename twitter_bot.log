@@ -57,3 +57,9 @@ I now have three beautiful daughters (one set of twins) i should probably try ma
 2025-02-18 03:16:35,663 - WARNING - Unexpected parameter: wait_for_processing
 2025-02-18 03:16:36,850 - WARNING - Unexpected parameter: wait_for_processing
 2025-02-18 03:16:37,550 - INFO - Posted content successfully. Tweet ID: 1891688241809465616
+2025-02-18 03:38:32,370 - INFO - Content: Do not the Hamster
+
+2025-02-18 03:38:32,370 - INFO - Image Paths: ['https://preview.redd.it/isu7j4jwaoje1.png?auto=webp&s=85f4ceb5097a17a2d0853305bf688a82330c4249']
+2025-02-18 03:38:32,370 - INFO - Video Path: 
+2025-02-18 03:38:32,455 - INFO - Downloaded media from https://preview.redd.it/isu7j4jwaoje1.png?auto=webp&s=85f4ceb5097a17a2d0853305bf688a82330c4249 to temp_image.jpg
+2025-02-18 03:38:34,043 - INFO - Posted content successfully. Tweet ID: 1891693762461696351
