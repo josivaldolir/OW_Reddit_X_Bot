@@ -452,3 +452,11 @@ Too Many Requests
 2025-02-18 21:35:40,068 - WARNING - Unexpected parameter: wait_for_processing
 2025-02-18 21:35:41,156 - WARNING - Unexpected parameter: wait_for_processing
 2025-02-18 21:35:41,677 - INFO - Posted content successfully. Tweet ID: 1891964831583879198
+2025-02-18 22:12:56,303 - INFO - Content: Doomfist's One Punch Man skin now gets effected by the weapon variants color and makes for some cool looking effects
+
+2025-02-18 22:12:56,303 - INFO - Image Paths: ['https://preview.redd.it/3wqa030egyje1.jpg?width=1920&format=pjpg&auto=webp&s=751e3652f06ef4e40eea9251d6e74409894235a2', 'https://preview.redd.it/rifrn20egyje1.jpg?width=1920&format=pjpg&auto=webp&s=aae36ce03bcb80833b4203746277e4c3cc905b3f', 'https://preview.redd.it/rwstr30egyje1.jpg?width=1920&format=pjpg&auto=webp&s=769514946e9e9fe5d11a69eddf69a06f1e1e6f68']
+2025-02-18 22:12:56,303 - INFO - Video Path: 
+2025-02-18 22:12:56,447 - INFO - Downloaded media from https://preview.redd.it/3wqa030egyje1.jpg?width=1920&format=pjpg&auto=webp&s=751e3652f06ef4e40eea9251d6e74409894235a2 to temp_image.jpg
+2025-02-18 22:12:57,139 - INFO - Downloaded media from https://preview.redd.it/rifrn20egyje1.jpg?width=1920&format=pjpg&auto=webp&s=aae36ce03bcb80833b4203746277e4c3cc905b3f to temp_image.jpg
+2025-02-18 22:12:58,141 - INFO - Downloaded media from https://preview.redd.it/rwstr30egyje1.jpg?width=1920&format=pjpg&auto=webp&s=769514946e9e9fe5d11a69eddf69a06f1e1e6f68 to temp_image.jpg
+2025-02-18 22:12:59,232 - INFO - Posted content successfully. Tweet ID: 1891974215986782675
