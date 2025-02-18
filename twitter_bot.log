@@ -337,3 +337,9 @@ Or
 2025-02-18 17:12:57,818 - INFO - Downloaded media from https://preview.redd.it/okbdwjy6qwje1.jpeg?auto=webp&s=642957b99d22b03b0422e95c3b18d7d15ecb4c29 to temp_image.jpg
 2025-02-18 17:12:58,660 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-02-18 17:37:30,207 - INFO - Content: Or a random Hanzo arrow
+Or
+2025-02-18 17:37:30,207 - INFO - Image Paths: ['https://preview.redd.it/okbdwjy6qwje1.jpeg?auto=webp&s=642957b99d22b03b0422e95c3b18d7d15ecb4c29']
+2025-02-18 17:37:30,207 - INFO - Video Path: 
+2025-02-18 17:37:30,293 - INFO - Downloaded media from https://preview.redd.it/okbdwjy6qwje1.jpeg?auto=webp&s=642957b99d22b03b0422e95c3b18d7d15ecb4c29 to temp_image.jpg
+2025-02-18 17:37:31,337 - INFO - Posted content successfully. Tweet ID: 1891904893356736669
