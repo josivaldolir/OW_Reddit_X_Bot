@@ -191,3 +191,17 @@ Too Many Requests
 2025-02-18 10:14:37,843 - WARNING - Unexpected parameter: wait_for_processing
 2025-02-18 10:14:38,103 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-02-18 10:40:08,343 - INFO - Content: Finished the drive with the longest win streak I've ever had (23!!). How did your race to the finish go?
+
+2025-02-18 10:40:08,343 - INFO - Image Paths: ['https://external-preview.redd.it/MGcxNm5vdTY3dWplMSKn9vmT5emLRlFTst2YmA8sr7rAhsbzcTb-DfMMwYBY.png?format=pjpg&auto=webp&s=7d1a4dd2f34970ccbdc205e05135ba8f332749fd']
+2025-02-18 10:40:08,343 - INFO - Video Path: https://v.redd.it/0ze70ou67uje1/DASH_1080.mp4?source=fallback
+2025-02-18 10:40:08,821 - INFO - Downloaded media from https://v.redd.it/0ze70ou67uje1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-02-18 10:40:09,131 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 10:40:09,354 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 10:40:09,887 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 10:40:10,417 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 10:40:10,962 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 10:40:12,193 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 10:40:13,387 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 10:40:14,560 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 10:40:15,363 - INFO - Posted content successfully. Tweet ID: 1891799884958925169
