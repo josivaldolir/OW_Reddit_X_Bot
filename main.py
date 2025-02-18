@@ -95,7 +95,7 @@ def postarX(text: str, img_paths: list, video_path: str):
                 if combine_video_audio(video_filename, audio_filename, combined_filename):
                     # Upload the combined video
                     check_rate_limits(api, '/media/upload')  # Check rate limits
-                    media = api.media_upload(combined_filename, media_category="tweet_video", wait_for_processing=True)
+                    media = api.media_upload(combined_filename, media_category="tweet_video")
                     media_ids.append(media.media_id)
                     # Clean up the downloaded files
                     os.remove(video_filename)
