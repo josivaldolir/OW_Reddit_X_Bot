@@ -424,3 +424,9 @@ Too Many Requests
 2025-02-18 20:37:15,882 - INFO - Video Path: 
 2025-02-18 20:37:16,136 - INFO - Downloaded media from https://preview.redd.it/2bp9pjngeyje1.png?auto=webp&s=4d43ab18ee6dfb15fef7972e4441a3276983a13f to temp_image.jpg
 2025-02-18 20:37:18,289 - INFO - Posted content successfully. Tweet ID: 1891950134755459531
+2025-02-18 21:12:54,396 - INFO - Content: I just got junkrat's legendary gun skin in a loot box
+
+2025-02-18 21:12:54,396 - INFO - Image Paths: ['https://external-preview.redd.it/sxuTpL0SUWVFatheFjXZzdvRl_yWVdIa34t-8fWFy1A.png?auto=webp&s=968687976a68fe015301a6726a954d7ac2b584ee']
+2025-02-18 21:12:54,396 - INFO - Video Path: 
+2025-02-18 21:12:54,901 - INFO - Downloaded media from https://external-preview.redd.it/sxuTpL0SUWVFatheFjXZzdvRl_yWVdIa34t-8fWFy1A.png?auto=webp&s=968687976a68fe015301a6726a954d7ac2b584ee to temp_image.jpg
+2025-02-18 21:12:57,731 - INFO - Posted content successfully. Tweet ID: 1891959104609890650
