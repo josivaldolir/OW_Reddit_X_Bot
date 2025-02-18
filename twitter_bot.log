@@ -355,3 +355,25 @@ Every time a hero dropped I would only buy a thing or two, but now that they're 
 2025-02-18 18:44:56,476 - INFO - Video Path: 
 2025-02-18 18:44:56,540 - INFO - Downloaded media from https://preview.redd.it/18j4cwatjxje1.png?auto=webp&s=3314603be9a07de996c2070142c6052662e5261a to temp_image.jpg
 2025-02-18 18:44:58,109 - INFO - Posted content successfully. Tweet ID: 1891921865951879221
+2025-02-18 19:11:39,248 - INFO - Content: “We are having a moment“ ah clip
+
+2025-02-18 19:11:39,248 - INFO - Image Paths: ['https://external-preview.redd.it/YXlyZHd0cHlheGplMajM-VUHx23qwS6Fc8D4S1HWkerMGIeEKllZ0B8GAA_G.png?format=pjpg&auto=webp&s=af0192d42826ac5db6c13692d012b1a28e667679']
+2025-02-18 19:11:39,248 - INFO - Video Path: https://v.redd.it/actegmuyaxje1/DASH_720.mp4?source=fallback
+2025-02-18 19:11:40,190 - INFO - Downloaded media from https://v.redd.it/actegmuyaxje1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-02-18 19:11:40,485 - INFO - Downloaded media from https://v.redd.it/actegmuyaxje1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-02-18 19:11:41,299 - INFO - Combined video and audio into temp_combined.mp4
+2025-02-18 19:11:41,554 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 19:11:41,753 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 19:11:42,277 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 19:11:42,805 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 19:11:43,332 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 19:11:43,855 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 19:11:44,379 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 19:11:44,940 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 19:11:45,244 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 19:11:46,457 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 19:11:47,761 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 19:11:48,940 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 19:11:50,125 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 19:11:50,686 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
