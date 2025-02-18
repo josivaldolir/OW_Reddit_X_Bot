@@ -309,3 +309,9 @@ Too Many Requests
 2025-02-18 15:15:19,131 - INFO - Downloaded media from https://external-preview.redd.it/qSqp6XqgK7FL1oS6HFfETuB0UID3A_a-yLDCOS0GXRc.jpg?auto=webp&s=d74779068d64d13c0c1b1d995fd75442388b5c5c to temp_image.jpg
 2025-02-18 15:15:20,285 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-02-18 15:38:55,930 - INFO - Content: Loot boxes are back because Overwatch 2 “wasn’t rewarding enough,” director says
+
+2025-02-18 15:38:55,930 - INFO - Image Paths: ['https://external-preview.redd.it/qSqp6XqgK7FL1oS6HFfETuB0UID3A_a-yLDCOS0GXRc.jpg?auto=webp&s=d74779068d64d13c0c1b1d995fd75442388b5c5c']
+2025-02-18 15:38:55,930 - INFO - Video Path: 
+2025-02-18 15:38:55,948 - INFO - Downloaded media from https://external-preview.redd.it/qSqp6XqgK7FL1oS6HFfETuB0UID3A_a-yLDCOS0GXRc.jpg?auto=webp&s=d74779068d64d13c0c1b1d995fd75442388b5c5c to temp_image.jpg
+2025-02-18 15:38:56,990 - INFO - Posted content successfully. Tweet ID: 1891875053375193408
