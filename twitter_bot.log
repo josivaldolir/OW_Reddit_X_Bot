@@ -377,3 +377,22 @@ Every time a hero dropped I would only buy a thing or two, but now that they're 
 2025-02-18 19:11:50,125 - WARNING - Unexpected parameter: wait_for_processing
 2025-02-18 19:11:50,686 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-02-18 19:35:56,647 - INFO - Content: “We are having a moment“ ah clip
+
+2025-02-18 19:35:56,647 - INFO - Image Paths: ['https://external-preview.redd.it/YXlyZHd0cHlheGplMajM-VUHx23qwS6Fc8D4S1HWkerMGIeEKllZ0B8GAA_G.png?format=pjpg&auto=webp&s=af0192d42826ac5db6c13692d012b1a28e667679']
+2025-02-18 19:35:56,647 - INFO - Video Path: https://v.redd.it/actegmuyaxje1/DASH_720.mp4?source=fallback
+2025-02-18 19:35:57,139 - INFO - Downloaded media from https://v.redd.it/actegmuyaxje1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-02-18 19:35:57,298 - INFO - Downloaded media from https://v.redd.it/actegmuyaxje1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-02-18 19:35:58,308 - INFO - Combined video and audio into temp_combined.mp4
+2025-02-18 19:35:58,494 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 19:35:58,629 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 19:35:59,020 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 19:35:59,390 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 19:36:00,396 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 19:36:00,760 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 19:36:01,716 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 19:36:02,591 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 19:36:02,996 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 19:36:04,137 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 19:36:09,635 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
