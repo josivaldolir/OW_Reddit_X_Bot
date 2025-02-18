@@ -47,3 +47,13 @@ I now have three beautiful daughters (one set of twins) i should probably try ma
 2025-02-18 02:32:20,812 - INFO - Downloaded media from https://preview.redd.it/5ab0gzwjzsje1.jpg?width=2992&format=pjpg&auto=webp&s=438e69ae05258c5c7f5967bdb631523b28aa3ba2 to temp_image.jpg
 2025-02-18 02:32:22,336 - INFO - Downloaded media from https://preview.redd.it/z0njp10kzsje1.jpg?width=3000&format=pjpg&auto=webp&s=1d19c8fcec0c11db5762f0c87655fb0dc4c4c4f9 to temp_image.jpg
 2025-02-18 02:32:24,713 - INFO - Posted content successfully. Tweet ID: 1891677112974836212
+2025-02-18 03:16:34,625 - INFO - Content: I don't want to solo q or play rivals :')
+
+2025-02-18 03:16:34,625 - INFO - Image Paths: ['https://external-preview.redd.it/bHRwMDZieWx0c2plMRr4P6GTh1QHsBmGpibJzVg8fw9QeHfMYe-6E59Koguc.png?format=pjpg&auto=webp&s=45bc6c7cfd00166c425dfd57d5777a8235f747c0']
+2025-02-18 03:16:34,625 - INFO - Video Path: https://v.redd.it/d744dayltsje1/DASH_480.mp4?source=fallback
+2025-02-18 03:16:34,881 - INFO - Downloaded media from https://v.redd.it/d744dayltsje1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-02-18 03:16:35,123 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 03:16:35,276 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 03:16:35,663 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 03:16:36,850 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 03:16:37,550 - INFO - Posted content successfully. Tweet ID: 1891688241809465616
