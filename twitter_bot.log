@@ -1,220 +1,284 @@
-2025-02-16 20:54:36,974 - INFO - Content: Which one will you choose?
+2025-02-17 21:34:47,212 - INFO - Image Paths: ['https://preview.redd.it/rf5hhjlrqoje1.png?auto=webp&s=fb02a09bb485c1a1bc3274ff7641c4d69fa58beb']
+2025-02-17 21:34:47,212 - INFO - Video Path: 
+2025-02-17 21:34:47,312 - INFO - Downloaded media from https://preview.redd.it/rf5hhjlrqoje1.png?auto=webp&s=fb02a09bb485c1a1bc3274ff7641c4d69fa58beb to temp_image.jpg
+2025-02-17 21:34:48,697 - INFO - Posted content successfully. Tweet ID: 1891602219734269974
+2025-02-17 22:12:11,521 - INFO - Content: Stadium looks infinitely cooler than the canceled Hero Mode
+Seriously, kudos to the devs for managing to salvage the talent system into something cool.
 
-2025-02-16 20:54:36,975 - INFO - Image Paths: ['https://preview.redd.it/lxjva4zlljje1.png?auto=webp&s=ffc92815275d00e7dbd95ee12fd32b30bf3bde8e']
-2025-02-16 20:54:36,975 - INFO - Video Path: 
-2025-02-16 20:54:37,070 - INFO - Downloaded media from https://preview.redd.it/lxjva4zlljje1.png?auto=webp&s=ffc92815275d00e7dbd95ee12fd32b30bf3bde8e to temp_image.jpg
-2025-02-16 20:54:37,546 - ERROR - Failed to post content: 429 Too Many Requests
+I know people were furious when hero mode was canceled, but I've always been extremely skeptical about how hero mode was going to stay fun. We already had a taste of what hero mode was going to be (sans talents) with the Underworld event and it was fucking boring as all hell. It was so boring that I will bet that 90% of those reading this probably does not even remember what it was. Adding a grindy treadmill in the form of WoW talents would not have fundamentally improved the experience.
+
+I greatly prefer the way Stadium looks from the outset and I frankly find it far more fun to have a Heroes of the Storm style talent build that remains dynamic throughout the match than the static WoW style tree.
+2025-02-17 22:12:11,522 - INFO - Image Paths: []
+2025-02-17 22:12:11,522 - INFO - Video Path: 
+2025-02-17 22:12:11,851 - INFO - Posted content successfully. Tweet ID: 1891611630133444924
+2025-02-17 22:36:38,611 - INFO - Content: Cosmo and Wanda think they're slick 😭
+
+2025-02-17 22:36:38,611 - INFO - Image Paths: ['https://preview.redd.it/qkvi99qzfrje1.jpg?width=2560&format=pjpg&auto=webp&s=21457e98fd044cff4508b3faa5168e3014308ec0', 'https://preview.redd.it/z2eaodqzfrje1.jpg?width=2560&format=pjpg&auto=webp&s=a1585047aa20cefa5dccbbf74aff44b1fcf61bde']
+2025-02-17 22:36:38,611 - INFO - Video Path: 
+2025-02-17 22:36:38,748 - INFO - Downloaded media from https://preview.redd.it/qkvi99qzfrje1.jpg?width=2560&format=pjpg&auto=webp&s=21457e98fd044cff4508b3faa5168e3014308ec0 to temp_image.jpg
+2025-02-17 22:36:39,526 - INFO - Downloaded media from https://preview.redd.it/z2eaodqzfrje1.jpg?width=2560&format=pjpg&auto=webp&s=a1585047aa20cefa5dccbbf74aff44b1fcf61bde to temp_image.jpg
+2025-02-17 22:36:40,871 - INFO - Posted content successfully. Tweet ID: 1891617790752113125
+2025-02-17 23:12:20,568 - INFO - Content: Roadmaps to all 15 seasons of Overwatch 2 so far. Which one is your favorite?
+
+2025-02-17 23:12:20,568 - INFO - Image Paths: ['https://preview.redd.it/z1hwwa8ubrje1.jpg?width=1920&format=pjpg&auto=webp&s=f2032fce268bf3c69db24ad9ffe1a9b47d63adb7', 'https://preview.redd.it/468vca9ubrje1.jpg?width=1920&format=pjpg&auto=webp&s=f39f13a2c519a7d5e1eaae457c2d2a1f0823acd9', 'https://preview.redd.it/wjk6678ubrje1.jpg?width=1920&format=pjpg&auto=webp&s=a24818e6e1cf5a6f609eb1f3611e92d53cc873d3', 'https://preview.redd.it/jabvn88ubrje1.jpg?width=1920&format=pjpg&auto=webp&s=103bb7efa111e27ae0aab2555e150d8a14e8ecb0']
+2025-02-17 23:12:20,568 - INFO - Video Path: 
+2025-02-17 23:12:20,607 - INFO - Downloaded media from https://preview.redd.it/z1hwwa8ubrje1.jpg?width=1920&format=pjpg&auto=webp&s=f2032fce268bf3c69db24ad9ffe1a9b47d63adb7 to temp_image.jpg
+2025-02-17 23:12:21,253 - INFO - Downloaded media from https://preview.redd.it/468vca9ubrje1.jpg?width=1920&format=pjpg&auto=webp&s=f39f13a2c519a7d5e1eaae457c2d2a1f0823acd9 to temp_image.jpg
+2025-02-17 23:12:21,914 - INFO - Downloaded media from https://preview.redd.it/wjk6678ubrje1.jpg?width=1920&format=pjpg&auto=webp&s=a24818e6e1cf5a6f609eb1f3611e92d53cc873d3 to temp_image.jpg
+2025-02-17 23:12:22,624 - INFO - Downloaded media from https://preview.redd.it/jabvn88ubrje1.jpg?width=1920&format=pjpg&auto=webp&s=103bb7efa111e27ae0aab2555e150d8a14e8ecb0 to temp_image.jpg
+2025-02-17 23:12:23,810 - INFO - Posted content successfully. Tweet ID: 1891626778990399801
+2025-02-17 23:35:16,157 - INFO - Content: Sigma now has 3 weapon charms placements, yet all of his skins uses the one where the "stick" is impaled in his hand. I hope they add a custom "ring" for heroes that dont hold any weapon like genji, moira and zenyatta to say some of them...
+
+2025-02-17 23:35:16,157 - INFO - Image Paths: ['https://preview.redd.it/iez8aicqmrje1.jpg?width=2118&format=pjpg&auto=webp&s=d8e4aa97a28451f1e1aeb9ac448252b09b685f5c', 'https://preview.redd.it/9sj8bqxzmrje1.jpg?width=1057&format=pjpg&auto=webp&s=fa73e58594c3dc705fd3756b1d25753faa3f7ba4']
+2025-02-17 23:35:16,157 - INFO - Video Path: 
+2025-02-17 23:35:16,241 - INFO - Downloaded media from https://preview.redd.it/iez8aicqmrje1.jpg?width=2118&format=pjpg&auto=webp&s=d8e4aa97a28451f1e1aeb9ac448252b09b685f5c to temp_image.jpg
+2025-02-17 23:35:16,995 - INFO - Downloaded media from https://preview.redd.it/9sj8bqxzmrje1.jpg?width=1057&format=pjpg&auto=webp&s=fa73e58594c3dc705fd3756b1d25753faa3f7ba4 to temp_image.jpg
+2025-02-17 23:35:18,110 - INFO - Posted content successfully. Tweet ID: 1891632542685724813
+2025-02-18 01:03:11,294 - INFO - Content: Also can apply to Alucard
+
+2025-02-18 01:03:11,294 - INFO - Image Paths: ['https://preview.redd.it/zo5hk6yz1rje1.jpeg?auto=webp&s=343fc628851332a92fce053ecb513b43b965f88e']
+2025-02-18 01:03:11,294 - INFO - Video Path: 
+2025-02-18 01:03:11,469 - INFO - Downloaded media from https://preview.redd.it/zo5hk6yz1rje1.jpeg?auto=webp&s=343fc628851332a92fce053ecb513b43b965f88e to temp_image.jpg
+2025-02-18 01:03:12,459 - INFO - Posted content successfully. Tweet ID: 1891654665747550423
+2025-02-18 02:32:20,538 - INFO - Content: Mercy Stained Glass Art
+I now have three beautiful daughters (one set of twins) i should probably try making other characters but I just love her skins! Plus two are comissions. Anyway i wanted to share and hope you like them!
+2025-02-18 02:32:20,538 - INFO - Image Paths: ['https://preview.redd.it/5ab0gzwjzsje1.jpg?width=2992&format=pjpg&auto=webp&s=438e69ae05258c5c7f5967bdb631523b28aa3ba2', 'https://preview.redd.it/z0njp10kzsje1.jpg?width=3000&format=pjpg&auto=webp&s=1d19c8fcec0c11db5762f0c87655fb0dc4c4c4f9']
+2025-02-18 02:32:20,538 - INFO - Video Path: 
+2025-02-18 02:32:20,812 - INFO - Downloaded media from https://preview.redd.it/5ab0gzwjzsje1.jpg?width=2992&format=pjpg&auto=webp&s=438e69ae05258c5c7f5967bdb631523b28aa3ba2 to temp_image.jpg
+2025-02-18 02:32:22,336 - INFO - Downloaded media from https://preview.redd.it/z0njp10kzsje1.jpg?width=3000&format=pjpg&auto=webp&s=1d19c8fcec0c11db5762f0c87655fb0dc4c4c4f9 to temp_image.jpg
+2025-02-18 02:32:24,713 - INFO - Posted content successfully. Tweet ID: 1891677112974836212
+2025-02-18 03:16:34,625 - INFO - Content: I don't want to solo q or play rivals :')
+
+2025-02-18 03:16:34,625 - INFO - Image Paths: ['https://external-preview.redd.it/bHRwMDZieWx0c2plMRr4P6GTh1QHsBmGpibJzVg8fw9QeHfMYe-6E59Koguc.png?format=pjpg&auto=webp&s=45bc6c7cfd00166c425dfd57d5777a8235f747c0']
+2025-02-18 03:16:34,625 - INFO - Video Path: https://v.redd.it/d744dayltsje1/DASH_480.mp4?source=fallback
+2025-02-18 03:16:34,881 - INFO - Downloaded media from https://v.redd.it/d744dayltsje1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-02-18 03:16:35,123 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 03:16:35,276 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 03:16:35,663 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 03:16:36,850 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 03:16:37,550 - INFO - Posted content successfully. Tweet ID: 1891688241809465616
+2025-02-18 03:38:32,370 - INFO - Content: Do not the Hamster
+
+2025-02-18 03:38:32,370 - INFO - Image Paths: ['https://preview.redd.it/isu7j4jwaoje1.png?auto=webp&s=85f4ceb5097a17a2d0853305bf688a82330c4249']
+2025-02-18 03:38:32,370 - INFO - Video Path: 
+2025-02-18 03:38:32,455 - INFO - Downloaded media from https://preview.redd.it/isu7j4jwaoje1.png?auto=webp&s=85f4ceb5097a17a2d0853305bf688a82330c4249 to temp_image.jpg
+2025-02-18 03:38:34,043 - INFO - Posted content successfully. Tweet ID: 1891693762461696351
+2025-02-18 04:16:16,981 - INFO - Content: Meiff
+
+2025-02-18 04:16:16,981 - INFO - Image Paths: ['https://preview.redd.it/dc2eerh6ooje1.png?auto=webp&s=e813f248606af14836deab35e1b8d0994fa0a327']
+2025-02-18 04:16:16,981 - INFO - Video Path: 
+2025-02-18 04:16:17,139 - INFO - Downloaded media from https://preview.redd.it/dc2eerh6ooje1.png?auto=webp&s=e813f248606af14836deab35e1b8d0994fa0a327 to temp_image.jpg
+2025-02-18 04:16:18,403 - INFO - Posted content successfully. Tweet ID: 1891703260144091522
+2025-02-18 04:39:08,878 - INFO - Content: they need to make the end of the game longer like ow1 i didnt have time to respond
+
+2025-02-18 04:39:08,878 - INFO - Image Paths: ['https://preview.redd.it/8zmuh2nomnje1.png?auto=webp&s=95344ee1a7597a4c5d9df562fe3670271b690a59']
+2025-02-18 04:39:08,878 - INFO - Video Path: 
+2025-02-18 04:39:08,925 - INFO - Downloaded media from https://preview.redd.it/8zmuh2nomnje1.png?auto=webp&s=95344ee1a7597a4c5d9df562fe3670271b690a59 to temp_image.jpg
+2025-02-18 04:39:09,815 - INFO - Posted content successfully. Tweet ID: 1891709013059846604
+2025-02-18 05:13:29,550 - INFO - Content: Mercy + Miku Design Idea ♡
+She was so fun to draw (⁠ ⁠◜⁠‿⁠◝⁠ ⁠)⁠♡ hope you like it!!
+2025-02-18 05:13:29,550 - INFO - Image Paths: ['https://preview.redd.it/lzn8sx7mlqje1.jpeg?auto=webp&s=907c9e41b913b44291fdef49c76d423995a4ed09']
+2025-02-18 05:13:29,550 - INFO - Video Path: 
+2025-02-18 05:13:29,890 - INFO - Downloaded media from https://preview.redd.it/lzn8sx7mlqje1.jpeg?auto=webp&s=907c9e41b913b44291fdef49c76d423995a4ed09 to temp_image.jpg
+2025-02-18 05:13:31,945 - INFO - Posted content successfully. Tweet ID: 1891717660657975634
+2025-02-18 05:38:28,283 - INFO - Content: what’s a character that everyone hates but you love?
+don’t worry this is a safe space LOL. mine is zarya i love playing her, i think shes a cool hero, love the sound effects of her and i love using her kit and ult, especially solo ulting people with it is hilarious! 
+2025-02-18 05:38:28,283 - INFO - Image Paths: []
+2025-02-18 05:38:28,283 - INFO - Video Path: 
+2025-02-18 05:38:28,663 - INFO - Posted content successfully. Tweet ID: 1891723940172583189
+2025-02-18 06:18:49,309 - INFO - Content: Kiriko hate feels so... two-faced
+First off, i'm a Lifeweaver main. But i can't help but feel kinda weird whenever i see the crazy amount of hate towards Kiriko.
+
+The whole hate's "reason" is because she's getting many skins. Yes, i agree and i'm not big of a fan that every 6 heroes are getting skins each and every season. But god forbid when Kiriko gets another one.
+
+Reinhardt received like almost all the collab skins, if not all. He receives skin after skin, mythic weapon, mythic skin etc.
+
+Ana, Pharah, Mercy, Soldier, McCassidy received so many skins back to back. Mercy and Ana already received mythic skins. And now it's Juno's turn to receive so many skins back to back. What now? Is it "Hate the Juno" time?
+
+I totally understand that you guys are upset that Kiriko is receiving so many skins. And "Kiriko treatment" is a real thing.
+
+But "hate"? Some of you guys not just hate the character, but also direct your hate to the very player themself.
+
+It just isn't fair or reasonable at all. Why other "always gets skin" heroes don't receive the same hate?
+
+Stop the hate towards anyone!
+2025-02-18 06:18:49,309 - INFO - Image Paths: []
+2025-02-18 06:18:49,310 - INFO - Video Path: 
+2025-02-18 06:18:49,625 - INFO - Posted content successfully. Tweet ID: 1891734094456705394
+2025-02-18 06:42:54,402 - INFO - Content: All the Doomfist mains tomorrow
+
+2025-02-18 06:42:54,403 - INFO - Image Paths: ['https://external-preview.redd.it/eQCk0FtL6nI9I9ezS5U8pLQ2lpiEwnp2djdNi7MOXhw.png?auto=webp&s=3d9fd8805cc5fd2ad1dabadb0a3abe5bf8f76ceb']
+2025-02-18 06:42:54,403 - INFO - Video Path: 
+2025-02-18 06:42:54,663 - INFO - Downloaded media from https://external-preview.redd.it/eQCk0FtL6nI9I9ezS5U8pLQ2lpiEwnp2djdNi7MOXhw.png?auto=webp&s=3d9fd8805cc5fd2ad1dabadb0a3abe5bf8f76ceb to temp_image.jpg
+2025-02-18 06:42:55,928 - INFO - Posted content successfully. Tweet ID: 1891740159323918538
+2025-02-18 07:12:48,253 - INFO - Content: Universe detonates if support players go brig into dive
+
+2025-02-18 07:12:48,254 - INFO - Image Paths: ['https://external-preview.redd.it/Y2JzbDF5bGpndWplMVjYew_Qb50XGzrRz4JMdssdJNOhvYNaxrBYRwRnScKQ.png?format=pjpg&auto=webp&s=f5650c1e3a418bd78c313416481f57805e40d180']
+2025-02-18 07:12:48,254 - INFO - Video Path: https://v.redd.it/7dsa1yljguje1/DASH_1080.mp4?source=fallback
+2025-02-18 07:12:48,416 - INFO - Downloaded media from https://v.redd.it/7dsa1yljguje1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-02-18 07:12:48,577 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 07:12:48,677 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 07:12:48,934 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 07:12:49,254 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 07:12:49,523 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 07:12:49,787 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 07:12:50,063 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 07:12:51,157 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 07:12:52,265 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 07:12:53,384 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 07:12:53,858 - INFO - Posted content successfully. Tweet ID: 1891747701491916880
+2025-02-18 07:34:48,425 - INFO - Content: Fallen Angel
+
+2025-02-18 07:34:48,425 - INFO - Image Paths: ['https://external-preview.redd.it/oU6vVhlcaJdbizGnZFZmIB5OgcsXSN4SoGZX2-KY8wM.jpg?auto=webp&s=c2026e85f7e32915592160066160dc07dd3e2ba2']
+2025-02-18 07:34:48,426 - INFO - Video Path: 
+2025-02-18 07:34:48,590 - INFO - Downloaded media from https://external-preview.redd.it/oU6vVhlcaJdbizGnZFZmIB5OgcsXSN4SoGZX2-KY8wM.jpg?auto=webp&s=c2026e85f7e32915592160066160dc07dd3e2ba2 to temp_image.jpg
+2025-02-18 07:34:49,456 - INFO - Posted content successfully. Tweet ID: 1891753219426037868
+2025-02-18 08:17:51,686 - INFO - Content: DokiWatch Juno fanart!!
+I gasped when they revealed the s16 theme and her mythic, I just had to draw her!!! Magical girl Juno is all I needed in life 😭😭💗💗💗
+2025-02-18 08:17:51,686 - INFO - Image Paths: ['https://preview.redd.it/dwmvtypolqje1.jpeg?auto=webp&s=dbeb937877555ec7de0d84098f1735847f107e88']
+2025-02-18 08:17:51,686 - INFO - Video Path: 
+2025-02-18 08:17:51,956 - INFO - Downloaded media from https://preview.redd.it/dwmvtypolqje1.jpeg?auto=webp&s=dbeb937877555ec7de0d84098f1735847f107e88 to temp_image.jpg
+2025-02-18 08:17:53,279 - INFO - Posted content successfully. Tweet ID: 1891764055909835056
+2025-02-18 08:41:08,064 - INFO - Content: So close yet so far, I've never seen OW in such a toxic sweaty state before. Must be the free comp points keeping everyone on edge.
+
+2025-02-18 08:41:08,064 - INFO - Image Paths: ['https://preview.redd.it/6bg18s95arje1.jpg?width=3840&format=pjpg&auto=webp&s=b18f68d57abbf026fe985f6f03c7e81dca8c2ee2', 'https://preview.redd.it/w53176d5arje1.jpg?width=3840&format=pjpg&auto=webp&s=58b338f6e781c4e1cd319be7cdf0cb13f4cf2c50']
+2025-02-18 08:41:08,064 - INFO - Video Path: 
+2025-02-18 08:41:08,140 - INFO - Downloaded media from https://preview.redd.it/6bg18s95arje1.jpg?width=3840&format=pjpg&auto=webp&s=b18f68d57abbf026fe985f6f03c7e81dca8c2ee2 to temp_image.jpg
+2025-02-18 08:41:09,189 - INFO - Downloaded media from https://preview.redd.it/w53176d5arje1.jpg?width=3840&format=pjpg&auto=webp&s=58b338f6e781c4e1cd319be7cdf0cb13f4cf2c50 to temp_image.jpg
+2025-02-18 08:41:10,950 - INFO - Posted content successfully. Tweet ID: 1891769917612998881
+2025-02-18 09:14:09,258 - INFO - Content: Finished the drive with the longest win streak I've ever had (23!!). How did your race to the finish go?
+
+2025-02-18 09:14:09,258 - INFO - Image Paths: ['https://external-preview.redd.it/MGcxNm5vdTY3dWplMSKn9vmT5emLRlFTst2YmA8sr7rAhsbzcTb-DfMMwYBY.png?format=pjpg&auto=webp&s=7d1a4dd2f34970ccbdc205e05135ba8f332749fd']
+2025-02-18 09:14:09,258 - INFO - Video Path: https://v.redd.it/0ze70ou67uje1/DASH_1080.mp4?source=fallback
+2025-02-18 09:14:09,349 - INFO - Downloaded media from https://v.redd.it/0ze70ou67uje1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-02-18 09:14:09,522 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 09:14:09,674 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 09:14:10,032 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 09:14:10,284 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 09:14:10,655 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 09:14:11,783 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 09:14:12,984 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 09:14:14,068 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 09:14:14,426 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
-2025-02-16 21:11:47,088 - INFO - Content: That time a man asked a question and the world wasn't ready for the answer: What would the cast look like Torbified?
+2025-02-18 09:36:31,768 - INFO - Content: Finished the drive with the longest win streak I've ever had (23!!). How did your race to the finish go?
 
-2025-02-16 21:11:47,088 - INFO - Image Paths: ['https://preview.redd.it/20qnauej1jje1.jpg?width=1920&format=pjpg&auto=webp&s=6823533864e450d7a63c60c76b358a049d70b705', 'https://preview.redd.it/1nwuiqej1jje1.jpg?width=1024&format=pjpg&auto=webp&s=04b6132e41e85d4d281f700500d7031768c278c8', 'https://preview.redd.it/pnt1ordj1jje1.jpg?width=2304&format=pjpg&auto=webp&s=4ae6ed8e225a0249e45272250c72c7f9c6a8390d', 'https://preview.redd.it/doiyjkdj1jje1.jpg?width=2560&format=pjpg&auto=webp&s=13981140cf17f9f948e1badd7f65689bba85fb7b']
-2025-02-16 21:11:47,088 - INFO - Video Path: 
-2025-02-16 21:11:47,246 - INFO - Downloaded media from https://preview.redd.it/20qnauej1jje1.jpg?width=1920&format=pjpg&auto=webp&s=6823533864e450d7a63c60c76b358a049d70b705 to temp_image.jpg
-2025-02-16 21:11:48,078 - INFO - Downloaded media from https://preview.redd.it/1nwuiqej1jje1.jpg?width=1024&format=pjpg&auto=webp&s=04b6132e41e85d4d281f700500d7031768c278c8 to temp_image.jpg
-2025-02-16 21:11:48,624 - INFO - Downloaded media from https://preview.redd.it/pnt1ordj1jje1.jpg?width=2304&format=pjpg&auto=webp&s=4ae6ed8e225a0249e45272250c72c7f9c6a8390d to temp_image.jpg
-2025-02-16 21:11:49,606 - INFO - Downloaded media from https://preview.redd.it/doiyjkdj1jje1.jpg?width=2560&format=pjpg&auto=webp&s=13981140cf17f9f948e1badd7f65689bba85fb7b to temp_image.jpg
-2025-02-16 21:11:50,986 - INFO - Posted content successfully. Tweet ID: 1891234054152106250
-2025-02-16 21:34:48,754 - INFO - Content: Which one will you choose?
-
-2025-02-16 21:34:48,754 - INFO - Image Paths: ['https://preview.redd.it/lxjva4zlljje1.png?auto=webp&s=ffc92815275d00e7dbd95ee12fd32b30bf3bde8e']
-2025-02-16 21:34:48,754 - INFO - Video Path: 
-2025-02-16 21:34:48,820 - INFO - Downloaded media from https://preview.redd.it/lxjva4zlljje1.png?auto=webp&s=ffc92815275d00e7dbd95ee12fd32b30bf3bde8e to temp_image.jpg
-2025-02-16 21:34:49,650 - INFO - Posted content successfully. Tweet ID: 1891239837572932055
-2025-02-16 22:11:47,164 - INFO - Content: BRING IT ON MAIN GENJIS! I CAN AUTO NANO NOW!!!
-
-2025-02-16 22:11:47,164 - INFO - Image Paths: ['https://preview.redd.it/8ju6etvsrjje1.png?auto=webp&s=7a329750569956cd4fa6bb8c16d712cfae9765af']
-2025-02-16 22:11:47,164 - INFO - Video Path: 
-2025-02-16 22:11:47,216 - INFO - Downloaded media from https://preview.redd.it/8ju6etvsrjje1.png?auto=webp&s=7a329750569956cd4fa6bb8c16d712cfae9765af to temp_image.jpg
-2025-02-16 22:11:47,848 - ERROR - Failed to post content: 429 Too Many Requests
+2025-02-18 09:36:31,769 - INFO - Image Paths: ['https://external-preview.redd.it/MGcxNm5vdTY3dWplMSKn9vmT5emLRlFTst2YmA8sr7rAhsbzcTb-DfMMwYBY.png?format=pjpg&auto=webp&s=7d1a4dd2f34970ccbdc205e05135ba8f332749fd']
+2025-02-18 09:36:31,769 - INFO - Video Path: https://v.redd.it/0ze70ou67uje1/DASH_1080.mp4?source=fallback
+2025-02-18 09:36:31,813 - INFO - Downloaded media from https://v.redd.it/0ze70ou67uje1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-02-18 09:36:32,011 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 09:36:32,125 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 09:36:32,443 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 09:36:32,645 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 09:36:32,839 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 09:36:33,963 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 09:36:35,071 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 09:36:36,155 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 09:36:36,404 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
-2025-02-16 22:36:09,277 - INFO - Content: BRING IT ON MAIN GENJIS! I CAN AUTO NANO NOW!!!
+2025-02-18 10:14:33,156 - INFO - Content: Finished the drive with the longest win streak I've ever had (23!!). How did your race to the finish go?
 
-2025-02-16 22:36:09,277 - INFO - Image Paths: ['https://preview.redd.it/8ju6etvsrjje1.png?auto=webp&s=7a329750569956cd4fa6bb8c16d712cfae9765af']
-2025-02-16 22:36:09,277 - INFO - Video Path: 
-2025-02-16 22:36:09,587 - INFO - Downloaded media from https://preview.redd.it/8ju6etvsrjje1.png?auto=webp&s=7a329750569956cd4fa6bb8c16d712cfae9765af to temp_image.jpg
-2025-02-16 22:36:11,242 - INFO - Posted content successfully. Tweet ID: 1891255278513074590
-2025-02-16 23:12:11,826 - INFO - Content: Has anyone posted all the skins that will be in the next season?
-We had few recolors this season, I can't see any of them here. 
-
-Some points I noticed, Sigma has been receiving a lot of skins in the last seasons and wow... 3 legendary for Kiriko in just one season, ok..💀
-2025-02-16 23:12:11,826 - INFO - Image Paths: ['https://preview.redd.it/lu02otlzdkje1.jpg?width=1424&format=pjpg&auto=webp&s=a29d64b17a282ba4e262a1ec16c5fe7a78986775', 'https://preview.redd.it/unzmhtqzdkje1.jpg?width=1438&format=pjpg&auto=webp&s=6edf699db74357c238a83f462803c6e8fc17a7f0', 'https://preview.redd.it/d823ootzdkje1.jpg?width=1436&format=pjpg&auto=webp&s=b74edf01a77bea59e358f8426b736c41a1ea9995', 'https://preview.redd.it/zwbm1iwzdkje1.jpg?width=1428&format=pjpg&auto=webp&s=068fde8dcec7224ff7312df42037807edd6f1dac']
-2025-02-16 23:12:11,826 - INFO - Video Path: 
-2025-02-16 23:12:12,107 - INFO - Downloaded media from https://preview.redd.it/lu02otlzdkje1.jpg?width=1424&format=pjpg&auto=webp&s=a29d64b17a282ba4e262a1ec16c5fe7a78986775 to temp_image.jpg
-2025-02-16 23:12:12,945 - INFO - Downloaded media from https://preview.redd.it/unzmhtqzdkje1.jpg?width=1438&format=pjpg&auto=webp&s=6edf699db74357c238a83f462803c6e8fc17a7f0 to temp_image.jpg
-2025-02-16 23:12:13,866 - INFO - Downloaded media from https://preview.redd.it/d823ootzdkje1.jpg?width=1436&format=pjpg&auto=webp&s=b74edf01a77bea59e358f8426b736c41a1ea9995 to temp_image.jpg
-2025-02-16 23:12:14,566 - INFO - Downloaded media from https://preview.redd.it/zwbm1iwzdkje1.jpg?width=1428&format=pjpg&auto=webp&s=068fde8dcec7224ff7312df42037807edd6f1dac to temp_image.jpg
-2025-02-16 23:12:15,371 - ERROR - Failed to post content: 429 Too Many Requests
+2025-02-18 10:14:33,156 - INFO - Image Paths: ['https://external-preview.redd.it/MGcxNm5vdTY3dWplMSKn9vmT5emLRlFTst2YmA8sr7rAhsbzcTb-DfMMwYBY.png?format=pjpg&auto=webp&s=7d1a4dd2f34970ccbdc205e05135ba8f332749fd']
+2025-02-18 10:14:33,156 - INFO - Video Path: https://v.redd.it/0ze70ou67uje1/DASH_1080.mp4?source=fallback
+2025-02-18 10:14:33,346 - INFO - Downloaded media from https://v.redd.it/0ze70ou67uje1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-02-18 10:14:33,577 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 10:14:33,688 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 10:14:34,005 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 10:14:34,258 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 10:14:34,508 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 10:14:35,631 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 10:14:36,737 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 10:14:37,843 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 10:14:38,103 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
-2025-02-16 23:35:28,503 - INFO - Content: Has anyone posted all the skins that will be in the next season?
-We had few recolors this season, I can't see any of them here. 
+2025-02-18 10:40:08,343 - INFO - Content: Finished the drive with the longest win streak I've ever had (23!!). How did your race to the finish go?
 
-Some points I noticed, Sigma has been receiving a lot of skins in the last seasons and wow... 3 legendary for Kiriko in just one season, ok..💀
-2025-02-16 23:35:28,503 - INFO - Image Paths: ['https://preview.redd.it/lu02otlzdkje1.jpg?width=1424&format=pjpg&auto=webp&s=a29d64b17a282ba4e262a1ec16c5fe7a78986775', 'https://preview.redd.it/unzmhtqzdkje1.jpg?width=1438&format=pjpg&auto=webp&s=6edf699db74357c238a83f462803c6e8fc17a7f0', 'https://preview.redd.it/d823ootzdkje1.jpg?width=1436&format=pjpg&auto=webp&s=b74edf01a77bea59e358f8426b736c41a1ea9995', 'https://preview.redd.it/zwbm1iwzdkje1.jpg?width=1428&format=pjpg&auto=webp&s=068fde8dcec7224ff7312df42037807edd6f1dac']
-2025-02-16 23:35:28,504 - INFO - Video Path: 
-2025-02-16 23:35:28,788 - INFO - Downloaded media from https://preview.redd.it/lu02otlzdkje1.jpg?width=1424&format=pjpg&auto=webp&s=a29d64b17a282ba4e262a1ec16c5fe7a78986775 to temp_image.jpg
-2025-02-16 23:35:29,700 - INFO - Downloaded media from https://preview.redd.it/unzmhtqzdkje1.jpg?width=1438&format=pjpg&auto=webp&s=6edf699db74357c238a83f462803c6e8fc17a7f0 to temp_image.jpg
-2025-02-16 23:35:30,373 - INFO - Downloaded media from https://preview.redd.it/d823ootzdkje1.jpg?width=1436&format=pjpg&auto=webp&s=b74edf01a77bea59e358f8426b736c41a1ea9995 to temp_image.jpg
-2025-02-16 23:35:31,134 - INFO - Downloaded media from https://preview.redd.it/zwbm1iwzdkje1.jpg?width=1428&format=pjpg&auto=webp&s=068fde8dcec7224ff7312df42037807edd6f1dac to temp_image.jpg
-2025-02-16 23:35:31,840 - ERROR - Failed to post content: 429 Too Many Requests
+2025-02-18 10:40:08,343 - INFO - Image Paths: ['https://external-preview.redd.it/MGcxNm5vdTY3dWplMSKn9vmT5emLRlFTst2YmA8sr7rAhsbzcTb-DfMMwYBY.png?format=pjpg&auto=webp&s=7d1a4dd2f34970ccbdc205e05135ba8f332749fd']
+2025-02-18 10:40:08,343 - INFO - Video Path: https://v.redd.it/0ze70ou67uje1/DASH_1080.mp4?source=fallback
+2025-02-18 10:40:08,821 - INFO - Downloaded media from https://v.redd.it/0ze70ou67uje1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-02-18 10:40:09,131 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 10:40:09,354 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 10:40:09,887 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 10:40:10,417 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 10:40:10,962 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 10:40:12,193 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 10:40:13,387 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 10:40:14,560 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 10:40:15,363 - INFO - Posted content successfully. Tweet ID: 1891799884958925169
+2025-02-18 11:11:28,820 - INFO - Content: The way D.va turns around like “Huh?” 😂
+Dps on the enemy team were heated that they were losing & typed “Tank diff” and the way Dva turned around to look at her teammates then looked at me was priceless.
+Like “You believe that sh$%?”
+2025-02-18 11:11:28,820 - INFO - Image Paths: ['https://external-preview.redd.it/bmt1Nm0zNjc5dWplMSn1TQXzcVvKF3k1TaKo-97C8bnaa7tWmIW32BCIAQ1i.png?format=pjpg&auto=webp&s=80bcd729f5adf055d0d30a11f4739f709ea6349d']
+2025-02-18 11:11:28,820 - INFO - Video Path: https://v.redd.it/y3hbnwj79uje1/DASH_1080.mp4?source=fallback
+2025-02-18 11:11:29,418 - INFO - Downloaded media from https://v.redd.it/y3hbnwj79uje1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-02-18 11:11:29,614 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 11:11:29,781 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 11:11:30,201 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 11:11:30,737 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 11:11:31,152 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 11:11:31,620 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 11:11:32,138 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 11:11:32,565 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 11:11:32,999 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 11:11:33,401 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 11:11:34,569 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 11:11:35,739 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 11:11:36,907 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 11:11:37,472 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
-2025-02-17 01:06:13,830 - INFO - Content: I Felt Joy for But a Moment...
-
-2025-02-17 01:06:13,830 - INFO - Image Paths: ['https://preview.redd.it/6cze4m8b6lje1.png?auto=webp&s=75b80757ae4dca4e9f611c99a0c32c2f3a6c60bc']
-2025-02-17 01:06:13,830 - INFO - Video Path: 
-2025-02-17 01:06:13,984 - INFO - Downloaded media from https://preview.redd.it/6cze4m8b6lje1.png?auto=webp&s=75b80757ae4dca4e9f611c99a0c32c2f3a6c60bc to temp_image.jpg
-2025-02-17 01:06:14,525 - ERROR - Failed to post content: 429 Too Many Requests
+2025-02-18 11:35:36,540 - INFO - Content: The way D.va turns around like “Huh?” 😂
+Dps on the enemy team were heated that they were losing & typed “Tank diff” and the way Dva turned around to look at her teammates then looked at me was priceless.
+Like “You believe that sh$%?”
+2025-02-18 11:35:36,541 - INFO - Image Paths: ['https://external-preview.redd.it/bmt1Nm0zNjc5dWplMSn1TQXzcVvKF3k1TaKo-97C8bnaa7tWmIW32BCIAQ1i.png?format=pjpg&auto=webp&s=80bcd729f5adf055d0d30a11f4739f709ea6349d']
+2025-02-18 11:35:36,541 - INFO - Video Path: https://v.redd.it/y3hbnwj79uje1/DASH_1080.mp4?source=fallback
+2025-02-18 11:35:36,821 - INFO - Downloaded media from https://v.redd.it/y3hbnwj79uje1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-02-18 11:35:37,015 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 11:35:37,124 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 11:35:37,350 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 11:35:37,656 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 11:35:37,948 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 11:35:38,308 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 11:35:38,605 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 11:35:38,903 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 11:35:39,258 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 11:35:39,543 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 11:35:40,645 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 11:35:41,730 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 11:35:42,834 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 11:35:43,145 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
-2025-02-17 02:36:48,476 - INFO - Content: I Felt Joy for But a Moment...
+2025-02-18 12:26:44,056 - INFO - Content: The way D.va turns around like “Huh?” 😂
+Dps on the enemy team were heated that they were losing & typed “Tank diff” and the way Dva turned around to look at her teammates then looked at me was priceless.
+Like “You believe that sh$%?”
+2025-02-18 12:26:44,056 - INFO - Image Paths: ['https://external-preview.redd.it/bmt1Nm0zNjc5dWplMSn1TQXzcVvKF3k1TaKo-97C8bnaa7tWmIW32BCIAQ1i.png?format=pjpg&auto=webp&s=80bcd729f5adf055d0d30a11f4739f709ea6349d']
+2025-02-18 12:26:44,056 - INFO - Video Path: https://v.redd.it/y3hbnwj79uje1/DASH_1080.mp4?source=fallback
+2025-02-18 12:26:44,427 - INFO - Downloaded media from https://v.redd.it/y3hbnwj79uje1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-02-18 12:26:44,729 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 12:26:44,955 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 12:26:45,485 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 12:26:46,036 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 12:26:46,561 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 12:26:47,100 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 12:26:47,655 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 12:26:48,186 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 12:26:48,710 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 12:26:49,220 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 12:26:50,456 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 12:26:51,630 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 12:26:52,810 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 12:26:53,991 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 12:26:54,792 - INFO - Posted content successfully. Tweet ID: 1891826726038274255
+2025-02-18 12:57:10,005 - INFO - Content: who would win in a realistic death battle between demoman and junkrat
 
-2025-02-17 02:36:48,476 - INFO - Image Paths: ['https://preview.redd.it/6cze4m8b6lje1.png?auto=webp&s=75b80757ae4dca4e9f611c99a0c32c2f3a6c60bc']
-2025-02-17 02:36:48,476 - INFO - Video Path: 
-2025-02-17 02:36:48,768 - INFO - Downloaded media from https://preview.redd.it/6cze4m8b6lje1.png?auto=webp&s=75b80757ae4dca4e9f611c99a0c32c2f3a6c60bc to temp_image.jpg
-2025-02-17 02:36:49,755 - INFO - Posted content successfully. Tweet ID: 1891315838692770105
-2025-02-17 03:20:07,332 - INFO - Content: Has anyone posted all the skins that will be in the next season?
-We had few recolors this season, I can't see any of them here. 
-
-Some points I noticed, Sigma has been receiving a lot of skins in the last seasons and wow... 3 legendary for Kiriko in just one season, ok..💀
-2025-02-17 03:20:07,332 - INFO - Image Paths: ['https://preview.redd.it/lu02otlzdkje1.jpg?width=1424&format=pjpg&auto=webp&s=a29d64b17a282ba4e262a1ec16c5fe7a78986775', 'https://preview.redd.it/unzmhtqzdkje1.jpg?width=1438&format=pjpg&auto=webp&s=6edf699db74357c238a83f462803c6e8fc17a7f0', 'https://preview.redd.it/d823ootzdkje1.jpg?width=1436&format=pjpg&auto=webp&s=b74edf01a77bea59e358f8426b736c41a1ea9995', 'https://preview.redd.it/zwbm1iwzdkje1.jpg?width=1428&format=pjpg&auto=webp&s=068fde8dcec7224ff7312df42037807edd6f1dac']
-2025-02-17 03:20:07,332 - INFO - Video Path: 
-2025-02-17 03:20:07,439 - INFO - Downloaded media from https://preview.redd.it/lu02otlzdkje1.jpg?width=1424&format=pjpg&auto=webp&s=a29d64b17a282ba4e262a1ec16c5fe7a78986775 to temp_image.jpg
-2025-02-17 03:20:07,996 - INFO - Downloaded media from https://preview.redd.it/unzmhtqzdkje1.jpg?width=1438&format=pjpg&auto=webp&s=6edf699db74357c238a83f462803c6e8fc17a7f0 to temp_image.jpg
-2025-02-17 03:20:08,524 - INFO - Downloaded media from https://preview.redd.it/d823ootzdkje1.jpg?width=1436&format=pjpg&auto=webp&s=b74edf01a77bea59e358f8426b736c41a1ea9995 to temp_image.jpg
-2025-02-17 03:20:08,929 - INFO - Downloaded media from https://preview.redd.it/zwbm1iwzdkje1.jpg?width=1428&format=pjpg&auto=webp&s=068fde8dcec7224ff7312df42037807edd6f1dac to temp_image.jpg
-2025-02-17 03:20:09,762 - INFO - Posted content successfully. Tweet ID: 1891326743497355421
-2025-02-17 03:41:28,393 - INFO - Content: My Juno Fanart! 🪐✨
-wanted to draw my fav girl & she turned out so cute! 
-2025-02-17 03:41:28,393 - INFO - Image Paths: ['https://preview.redd.it/m4fp8zl6zkje1.jpeg?auto=webp&s=755e7be87cf608cd2fb6d50e427014951f512710']
-2025-02-17 03:41:28,393 - INFO - Video Path: 
-2025-02-17 03:41:28,522 - INFO - Downloaded media from https://preview.redd.it/m4fp8zl6zkje1.jpeg?auto=webp&s=755e7be87cf608cd2fb6d50e427014951f512710 to temp_image.jpg
-2025-02-17 03:41:29,362 - ERROR - Failed to post content: 429 Too Many Requests
+2025-02-18 12:57:10,005 - INFO - Image Paths: ['https://preview.redd.it/rqst5ea3xhje1.png?auto=webp&s=c7bfbd15f5a3526bd8c2dc81d773da50bb805757']
+2025-02-18 12:57:10,005 - INFO - Video Path: 
+2025-02-18 12:57:10,068 - INFO - Downloaded media from https://preview.redd.it/rqst5ea3xhje1.png?auto=webp&s=c7bfbd15f5a3526bd8c2dc81d773da50bb805757 to temp_image.jpg
+2025-02-18 12:57:10,835 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
-2025-02-17 04:17:03,039 - INFO - Content: I think I understand now why Kiriko gets so many skins.
+2025-02-18 13:22:45,120 - INFO - Content: who would win in a realistic death battle between demoman and junkrat
 
-2025-02-17 04:17:03,039 - INFO - Image Paths: ['https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7']
-2025-02-17 04:17:03,039 - INFO - Video Path: 
-2025-02-17 04:17:03,190 - INFO - Downloaded media from https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7 to temp_image.jpg
-2025-02-17 04:17:03,796 - ERROR - Failed to post content: 429 Too Many Requests
+2025-02-18 13:22:45,120 - INFO - Image Paths: ['https://preview.redd.it/rqst5ea3xhje1.png?auto=webp&s=c7bfbd15f5a3526bd8c2dc81d773da50bb805757']
+2025-02-18 13:22:45,120 - INFO - Video Path: 
+2025-02-18 13:22:45,420 - INFO - Downloaded media from https://preview.redd.it/rqst5ea3xhje1.png?auto=webp&s=c7bfbd15f5a3526bd8c2dc81d773da50bb805757 to temp_image.jpg
+2025-02-18 13:22:46,271 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
-2025-02-17 04:40:03,221 - INFO - Content: I think I understand now why Kiriko gets so many skins.
-
-2025-02-17 04:40:03,221 - INFO - Image Paths: ['https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7']
-2025-02-17 04:40:03,221 - INFO - Video Path: 
-2025-02-17 04:40:03,306 - INFO - Downloaded media from https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7 to temp_image.jpg
-2025-02-17 04:40:04,008 - ERROR - Failed to post content: 429 Too Many Requests
-Too Many Requests
-2025-02-17 04:40:04,008 - INFO - Rate limit exceeded. Waiting for 15 minutes before retrying.
-2025-02-17 05:15:15,101 - INFO - Content: I think I understand now why Kiriko gets so many skins.
-
-2025-02-17 05:15:15,101 - INFO - Image Paths: ['https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7']
-2025-02-17 05:15:15,101 - INFO - Video Path: 
-2025-02-17 05:15:15,389 - INFO - Downloaded media from https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7 to temp_image.jpg
-2025-02-17 05:15:16,263 - ERROR - Failed to post content: 429 Too Many Requests
-Too Many Requests
-2025-02-17 05:15:16,263 - INFO - Rate limit exceeded. Waiting for 15 minutes before retrying.
-2025-02-17 05:38:53,857 - INFO - Content: I think I understand now why Kiriko gets so many skins.
-
-2025-02-17 05:38:53,857 - INFO - Image Paths: ['https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7']
-2025-02-17 05:38:53,857 - INFO - Video Path: 
-2025-02-17 05:38:53,945 - INFO - Downloaded media from https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7 to temp_image.jpg
-2025-02-17 05:38:54,591 - ERROR - Failed to post content: 429 Too Many Requests
-Too Many Requests
-2025-02-17 05:38:54,591 - INFO - Rate limit exceeded. Waiting for 15 minutes before retrying.
-2025-02-17 06:19:37,630 - INFO - Content: I think I understand now why Kiriko gets so many skins.
-
-2025-02-17 06:19:37,630 - INFO - Image Paths: ['https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7']
-2025-02-17 06:19:37,630 - INFO - Video Path: 
-2025-02-17 06:19:37,815 - INFO - Downloaded media from https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7 to temp_image.jpg
-2025-02-17 06:19:38,326 - ERROR - Failed to post content: 429 Too Many Requests
-Too Many Requests
-2025-02-17 06:19:38,326 - INFO - Rate limit exceeded. Waiting for 15 minutes before retrying.
-2025-02-17 06:43:57,250 - INFO - Content: I think I understand now why Kiriko gets so many skins.
-
-2025-02-17 06:43:57,250 - INFO - Image Paths: ['https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7']
-2025-02-17 06:43:57,250 - INFO - Video Path: 
-2025-02-17 06:43:57,503 - INFO - Downloaded media from https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7 to temp_image.jpg
-2025-02-17 06:43:58,361 - ERROR - Failed to post content: 429 Too Many Requests
-Too Many Requests
-2025-02-17 06:43:58,361 - INFO - Rate limit exceeded. Waiting for 15 minutes before retrying.
-2025-02-17 07:13:43,568 - INFO - Content: I think I understand now why Kiriko gets so many skins.
-
-2025-02-17 07:13:43,568 - INFO - Image Paths: ['https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7']
-2025-02-17 07:13:43,568 - INFO - Video Path: 
-2025-02-17 07:13:43,675 - INFO - Downloaded media from https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7 to temp_image.jpg
-2025-02-17 07:13:44,655 - INFO - Posted content successfully. Tweet ID: 1891385526441431183
-2025-02-17 07:13:44,655 - ERROR - Error in main loop: name 'post' is not defined
-2025-02-17 07:35:08,980 - INFO - Content: I think I understand now why Kiriko gets so many skins.
-
-2025-02-17 07:35:08,980 - INFO - Image Paths: ['https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7']
-2025-02-17 07:35:08,980 - INFO - Video Path: 
-2025-02-17 07:35:09,007 - INFO - Downloaded media from https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7 to temp_image.jpg
-2025-02-17 07:35:09,752 - INFO - Posted content successfully. Tweet ID: 1891390916717637875
-2025-02-17 07:35:09,752 - ERROR - Error in main loop: name 'post' is not defined
-2025-02-17 08:18:59,758 - INFO - Content: I'm so happy we don't have old doom anymore
-I absolutely hate going against dps doomfist, it is honestly so miserable. I'm glad they made him a tank now
-2025-02-17 08:18:59,759 - INFO - Image Paths: []
-2025-02-17 08:18:59,759 - INFO - Video Path: 
-2025-02-17 08:18:59,994 - INFO - Posted content successfully. Tweet ID: 1891401949100257289
-2025-02-17 08:18:59,994 - ERROR - Error in main loop: name 'post' is not defined
-2025-02-17 08:42:10,527 - INFO - Content: I think I understand now why Kiriko gets so many skins.
-
-2025-02-17 08:42:10,527 - INFO - Image Paths: ['https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7']
-2025-02-17 08:42:10,527 - INFO - Video Path: 
-2025-02-17 08:42:10,599 - INFO - Downloaded media from https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7 to temp_image.jpg
-2025-02-17 08:42:11,495 - INFO - Posted content successfully. Tweet ID: 1891407785109414214
-2025-02-17 08:42:11,495 - ERROR - Error in main loop: name 'post' is not defined
-2025-02-17 09:15:45,002 - INFO - Content: I think I understand now why Kiriko gets so many skins.
-
-2025-02-17 09:15:45,002 - INFO - Image Paths: ['https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7']
-2025-02-17 09:15:45,002 - INFO - Video Path: 
-2025-02-17 09:15:45,175 - INFO - Downloaded media from https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7 to temp_image.jpg
-2025-02-17 09:15:45,912 - ERROR - Failed to post content: 429 Too Many Requests
-Too Many Requests
-2025-02-17 09:15:45,912 - INFO - Rate limit exceeded. Waiting for 15 minutes before retrying.
-2025-02-17 09:37:17,870 - INFO - Content: I think I understand now why Kiriko gets so many skins.
-
-2025-02-17 09:37:17,870 - INFO - Image Paths: ['https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7']
-2025-02-17 09:37:17,870 - INFO - Video Path: 
-2025-02-17 09:37:18,098 - INFO - Downloaded media from https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7 to temp_image.jpg
-2025-02-17 09:37:18,692 - ERROR - Failed to post content: 429 Too Many Requests
-Too Many Requests
-2025-02-17 09:37:18,692 - INFO - Rate limit exceeded. Waiting for 15 minutes before retrying.
-2025-02-17 10:15:33,023 - INFO - Content: I think I understand now why Kiriko gets so many skins.
-
-2025-02-17 10:15:33,023 - INFO - Image Paths: ['https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7']
-2025-02-17 10:15:33,023 - INFO - Video Path: 
-2025-02-17 10:15:33,229 - INFO - Downloaded media from https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7 to temp_image.jpg
-2025-02-17 10:15:33,919 - ERROR - Failed to post content: 429 Too Many Requests
-Too Many Requests
-2025-02-17 10:15:33,919 - INFO - Rate limit exceeded. Waiting for 15 minutes before retrying.
-2025-02-17 10:40:46,698 - INFO - Content: I think I understand now why Kiriko gets so many skins.
-
-2025-02-17 10:40:46,698 - INFO - Image Paths: ['https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7']
-2025-02-17 10:40:46,698 - INFO - Video Path: 
-2025-02-17 10:40:46,733 - INFO - Downloaded media from https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7 to temp_image.jpg
-2025-02-17 10:40:47,298 - ERROR - Failed to post content: 429 Too Many Requests
-Too Many Requests
-2025-02-17 10:40:47,298 - INFO - Rate limit exceeded. Waiting for 15 minutes before retrying.
-2025-02-17 11:11:45,673 - INFO - Content: I think I understand now why Kiriko gets so many skins.
-
-2025-02-17 11:11:45,674 - INFO - Image Paths: ['https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7']
-2025-02-17 11:11:45,674 - INFO - Video Path: 
-2025-02-17 11:11:45,789 - INFO - Downloaded media from https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7 to temp_image.jpg
-2025-02-17 11:11:46,439 - ERROR - Failed to post content: 429 Too Many Requests
-Too Many Requests
-2025-02-17 11:11:46,439 - INFO - Rate limit exceeded. Waiting for 15 minutes before retrying.
-2025-02-17 11:35:26,873 - INFO - Content: I think I understand now why Kiriko gets so many skins.
-
-2025-02-17 11:35:26,873 - INFO - Image Paths: ['https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7']
-2025-02-17 11:35:26,873 - INFO - Video Path: 
-2025-02-17 11:35:26,901 - INFO - Downloaded media from https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7 to temp_image.jpg
-2025-02-17 11:35:27,578 - ERROR - Failed to post content: 429 Too Many Requests
-Too Many Requests
-2025-02-17 11:35:27,578 - INFO - Rate limit exceeded. Waiting for 15 minutes before retrying.
-2025-02-17 12:27:23,102 - INFO - Content: I think I understand now why Kiriko gets so many skins.
-
-2025-02-17 12:27:23,102 - INFO - Image Paths: ['https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7']
-2025-02-17 12:27:23,102 - INFO - Video Path: 
-2025-02-17 12:27:23,178 - INFO - Downloaded media from https://preview.redd.it/243qwpficmje1.jpeg?auto=webp&s=02526a0a025dca075e76737b4ce44054e0f3b7c7 to temp_image.jpg
-2025-02-17 12:27:23,937 - ERROR - Failed to post content: 429 Too Many Requests
-Too Many Requests
-2025-02-17 12:27:23,937 - INFO - Rate limit exceeded. Waiting for 15 minutes before retrying.
