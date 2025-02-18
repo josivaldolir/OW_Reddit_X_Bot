@@ -146,3 +146,18 @@ I gasped when they revealed the s16 theme and her mythic, I just had to draw her
 2025-02-18 08:41:08,140 - INFO - Downloaded media from https://preview.redd.it/6bg18s95arje1.jpg?width=3840&format=pjpg&auto=webp&s=b18f68d57abbf026fe985f6f03c7e81dca8c2ee2 to temp_image.jpg
 2025-02-18 08:41:09,189 - INFO - Downloaded media from https://preview.redd.it/w53176d5arje1.jpg?width=3840&format=pjpg&auto=webp&s=58b338f6e781c4e1cd319be7cdf0cb13f4cf2c50 to temp_image.jpg
 2025-02-18 08:41:10,950 - INFO - Posted content successfully. Tweet ID: 1891769917612998881
+2025-02-18 09:14:09,258 - INFO - Content: Finished the drive with the longest win streak I've ever had (23!!). How did your race to the finish go?
+
+2025-02-18 09:14:09,258 - INFO - Image Paths: ['https://external-preview.redd.it/MGcxNm5vdTY3dWplMSKn9vmT5emLRlFTst2YmA8sr7rAhsbzcTb-DfMMwYBY.png?format=pjpg&auto=webp&s=7d1a4dd2f34970ccbdc205e05135ba8f332749fd']
+2025-02-18 09:14:09,258 - INFO - Video Path: https://v.redd.it/0ze70ou67uje1/DASH_1080.mp4?source=fallback
+2025-02-18 09:14:09,349 - INFO - Downloaded media from https://v.redd.it/0ze70ou67uje1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-02-18 09:14:09,522 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 09:14:09,674 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 09:14:10,032 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 09:14:10,284 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 09:14:10,655 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 09:14:11,783 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 09:14:12,984 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 09:14:14,068 - WARNING - Unexpected parameter: wait_for_processing
+2025-02-18 09:14:14,426 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
