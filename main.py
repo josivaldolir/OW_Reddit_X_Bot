@@ -3,6 +3,7 @@ import logging
 import requests
 import os
 import time
+import subprocess
 from oauth import *
 from reddit import *
 
@@ -40,6 +41,25 @@ def download_media(url, filename):
         logging.error(f"Failed to download media from {url}: {e}")
         return None
 
+def combine_video_audio(video_path, audio_path, output_path):
+    """Combine video and audio files using ffmpeg."""
+    try:
+        command = [
+            'ffmpeg',
+            '-i', video_path,  # Input video file
+            '-i', audio_path,  # Input audio file
+            '-c:v', 'copy',    # Copy video stream without re-encoding
+            '-c:a', 'aac',     # Encode audio stream to AAC
+            '-strict', 'experimental',
+            output_path        # Output file
+        ]
+        subprocess.run(command, check=True)
+        logging.info(f"Combined video and audio into {output_path}")
+        return output_path
+    except subprocess.CalledProcessError as e:
+        logging.error(f"Failed to combine video and audio: {e}")
+        return None
+
 def check_rate_limits(api, endpoint):
     """Check rate limits for a specific endpoint."""
     try:
@@ -60,15 +80,27 @@ def postarX(text: str, img_paths: list, video_path: str):
         media_ids = []
         # Handle video (prioritize video over images)
         if video_path:
-            # Download the video from the URL
-            local_filename = download_media(video_path, "temp_video.mp4")
-            if local_filename:
-                # Upload the video
-                check_rate_limits(api, '/media/upload')  # Check rate limits
-                media = api.media_upload(local_filename, media_category="tweet_video", wait_for_processing=True)
-                media_ids.append(media.media_id)
-                # Clean up the downloaded file
-                os.remove(local_filename)
+            # Extract video and audio URLs
+            video_url = video_path  # Muted video URL
+            audio_url = video_url.replace('DASH_720.mp4', 'DASH_AUDIO_128.mp4')  # Audio URL
+
+            # Download the muted video
+            video_filename = download_media(video_url, "temp_video.mp4")
+            # Download the audio
+            audio_filename = download_media(audio_url, "temp_audio.mp4")
+
+            if video_filename and audio_filename:
+                # Combine video and audio
+                combined_filename = "temp_combined.mp4"
+                if combine_video_audio(video_filename, audio_filename, combined_filename):
+                    # Upload the combined video
+                    check_rate_limits(api, '/media/upload')  # Check rate limits
+                    media = api.media_upload(combined_filename, media_category="tweet_video", wait_for_processing=True)
+                    media_ids.append(media.media_id)
+                    # Clean up the downloaded files
+                    os.remove(video_filename)
+                    os.remove(audio_filename)
+                    os.remove(combined_filename)
         
         # Handle multiple images (if no video is present)
         elif img_paths:
