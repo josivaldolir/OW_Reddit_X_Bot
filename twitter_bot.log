@@ -460,3 +460,9 @@ Too Many Requests
 2025-02-18 22:12:57,139 - INFO - Downloaded media from https://preview.redd.it/rifrn20egyje1.jpg?width=1920&format=pjpg&auto=webp&s=aae36ce03bcb80833b4203746277e4c3cc905b3f to temp_image.jpg
 2025-02-18 22:12:58,141 - INFO - Downloaded media from https://preview.redd.it/rwstr30egyje1.jpg?width=1920&format=pjpg&auto=webp&s=769514946e9e9fe5d11a69eddf69a06f1e1e6f68 to temp_image.jpg
 2025-02-18 22:12:59,232 - INFO - Posted content successfully. Tweet ID: 1891974215986782675
+2025-02-18 22:38:02,292 - INFO - Content: “They added sue-“ STFU they added Catherine the Great
+
+2025-02-18 22:38:02,292 - INFO - Image Paths: ['https://preview.redd.it/yjxofe2tryje1.jpeg?auto=webp&s=01ba34d2861b2f64bdfa28c64b59319db9f7ecf5']
+2025-02-18 22:38:02,292 - INFO - Video Path: 
+2025-02-18 22:38:02,363 - INFO - Downloaded media from https://preview.redd.it/yjxofe2tryje1.jpeg?auto=webp&s=01ba34d2861b2f64bdfa28c64b59319db9f7ecf5 to temp_image.jpg
+2025-02-18 22:38:03,414 - INFO - Posted content successfully. Tweet ID: 1891980525419602145
