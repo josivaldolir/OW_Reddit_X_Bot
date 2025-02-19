@@ -504,3 +504,9 @@ Why is nobody talking about this major reworks to Ramattras kit and appearance?
 2025-02-19 03:43:32,842 - INFO - Downloaded media from https://v.redd.it/h88b2y9e9yje1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-02-19 03:43:33,443 - INFO - Combined video and audio into temp_combined.mp4
 2025-02-19 03:43:38,349 - INFO - Posted content successfully. Tweet ID: 1892057427819835413
+2025-02-19 04:17:47,565 - INFO - Content: Reaper is fun
+
+2025-02-19 04:17:47,565 - INFO - Image Paths: ['https://preview.redd.it/798ulbhthzje1.png?auto=webp&s=6aac5328d2280379058d825664af9bdd1571e708']
+2025-02-19 04:17:47,565 - INFO - Video Path: 
+2025-02-19 04:17:47,713 - INFO - Downloaded media from https://preview.redd.it/798ulbhthzje1.png?auto=webp&s=6aac5328d2280379058d825664af9bdd1571e708 to temp_image.jpg
+2025-02-19 04:17:48,912 - INFO - Posted content successfully. Tweet ID: 1892066027720278289
