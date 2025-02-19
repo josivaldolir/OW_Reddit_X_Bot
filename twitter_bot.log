@@ -618,3 +618,9 @@ None of the other heroes have a description like this. Unsure if it’s purposef
 2025-02-19 11:35:46,290 - INFO - Video Path: 
 2025-02-19 11:35:46,403 - INFO - Downloaded media from https://preview.redd.it/5v9uxdninyje1.jpeg?auto=webp&s=27e35e4754d02ea4105221a155e9711f690bc827 to temp_image.jpg
 2025-02-19 11:35:47,202 - INFO - Posted content successfully. Tweet ID: 1892176247473487883
+2025-02-19 12:24:31,106 - INFO - Content: Guys has anyone else gotten an error message like this???
+
+2025-02-19 12:24:31,107 - INFO - Image Paths: ['https://preview.redd.it/1l5hpsatz2ke1.jpeg?auto=webp&s=17730794b24e6d52ff108d262683f8db2b539cfc']
+2025-02-19 12:24:31,107 - INFO - Video Path: 
+2025-02-19 12:24:31,204 - INFO - Downloaded media from https://preview.redd.it/1l5hpsatz2ke1.jpeg?auto=webp&s=17730794b24e6d52ff108d262683f8db2b539cfc to temp_image.jpg
+2025-02-19 12:24:32,821 - INFO - Posted content successfully. Tweet ID: 1892188517641465924
