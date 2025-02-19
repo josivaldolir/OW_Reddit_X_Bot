@@ -542,3 +542,12 @@ Mercy spray you got from watching old twitch streams, I just thought it was cool
 2025-02-19 06:20:23,055 - INFO - Downloaded media from https://v.redd.it/jpi8sa6o7xje1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-02-19 06:20:26,946 - INFO - Combined video and audio into temp_combined.mp4
 2025-02-19 06:20:31,974 - INFO - Posted content successfully. Tweet ID: 1892096911466750232
+2025-02-19 06:43:41,776 - INFO - Content: I hope these lootbox variants return during seasonal events for a limited time with higher rates on "event items" (Halloween, Summer, Anniversary etc). Maybe add them to the event challenges area to give everyone some guaranteed event items each year.
+
+2025-02-19 06:43:41,776 - INFO - Image Paths: ['https://preview.redd.it/4dxs2kt77zje1.png?width=640&format=png&auto=webp&s=acfdaf0e1153420e70166e78a10d9e2ef636fd3b', 'https://preview.redd.it/51jbc1jh7zje1.png?width=976&format=png&auto=webp&s=2b1d31d656eaaf8dbc5fd33f41bbf451c11f58be', 'https://preview.redd.it/yi7qodyi7zje1.png?width=1920&format=png&auto=webp&s=1d34f21468e78b66210f5c98bcbe3802b81d349a', 'https://preview.redd.it/tgznvhgl7zje1.png?width=1200&format=png&auto=webp&s=b71e2ac5f064203350fb292e9876e60bfd43d3aa']
+2025-02-19 06:43:41,776 - INFO - Video Path: 
+2025-02-19 06:43:41,833 - INFO - Downloaded media from https://preview.redd.it/4dxs2kt77zje1.png?width=640&format=png&auto=webp&s=acfdaf0e1153420e70166e78a10d9e2ef636fd3b to temp_image.jpg
+2025-02-19 06:43:42,545 - INFO - Downloaded media from https://preview.redd.it/51jbc1jh7zje1.png?width=976&format=png&auto=webp&s=2b1d31d656eaaf8dbc5fd33f41bbf451c11f58be to temp_image.jpg
+2025-02-19 06:43:43,348 - INFO - Downloaded media from https://preview.redd.it/yi7qodyi7zje1.png?width=1920&format=png&auto=webp&s=1d34f21468e78b66210f5c98bcbe3802b81d349a to temp_image.jpg
+2025-02-19 06:43:44,076 - INFO - Downloaded media from https://preview.redd.it/tgznvhgl7zje1.png?width=1200&format=png&auto=webp&s=b71e2ac5f064203350fb292e9876e60bfd43d3aa to temp_image.jpg
+2025-02-19 06:43:46,452 - INFO - Posted content successfully. Tweet ID: 1892102758129598939
