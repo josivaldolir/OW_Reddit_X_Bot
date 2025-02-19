@@ -809,3 +809,11 @@ Others have suggested that levels should emerge *globally* through the match. Wh
 2025-02-19 22:37:09,836 - INFO - Downloaded media from https://preview.redd.it/9oi7cmbzt4ke1.png?width=1714&format=png&auto=webp&s=1509edabe587ff4c17ca12fd5831d962b4a83dc3 to temp_image.jpg
 2025-02-19 22:37:10,972 - INFO - Downloaded media from https://preview.redd.it/01thaa41u4ke1.jpg?width=720&format=pjpg&auto=webp&s=0d8913477d3925f23a9299322f56a4295e3884e0 to temp_image.jpg
 2025-02-19 22:37:12,863 - INFO - Posted content successfully. Tweet ID: 1892342699191099900
+2025-02-19 23:13:19,228 - INFO - Content: Overwatch loot box opening... disappointing
+
+2025-02-19 23:13:19,228 - INFO - Image Paths: ['https://external-preview.redd.it/b2F2a3J4bml4NWtlMV27ERUDjv3dH9k34_m0M7N3JqDq1qY58FLa4IkpB8pZ.png?format=pjpg&auto=webp&s=3877bcfa890618bdc49b244e9da5329369193e91']
+2025-02-19 23:13:19,228 - INFO - Video Path: https://v.redd.it/w0pszynix5ke1/DASH_1080.mp4?source=fallback
+2025-02-19 23:13:19,405 - INFO - Downloaded media from https://v.redd.it/w0pszynix5ke1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-02-19 23:13:19,456 - INFO - Downloaded media from https://v.redd.it/w0pszynix5ke1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-02-19 23:13:19,826 - INFO - Combined video and audio into temp_combined.mp4
+2025-02-19 23:13:24,779 - INFO - Posted content successfully. Tweet ID: 1892351811035496867
