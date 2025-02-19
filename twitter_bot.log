@@ -624,3 +624,10 @@ None of the other heroes have a description like this. Unsure if it’s purposef
 2025-02-19 12:24:31,107 - INFO - Video Path: 
 2025-02-19 12:24:31,204 - INFO - Downloaded media from https://preview.redd.it/1l5hpsatz2ke1.jpeg?auto=webp&s=17730794b24e6d52ff108d262683f8db2b539cfc to temp_image.jpg
 2025-02-19 12:24:32,821 - INFO - Posted content successfully. Tweet ID: 1892188517641465924
+2025-02-19 12:57:02,315 - INFO - Content: Overwatch's player base number
+Overwatch just hit today a total of 59k players, not counting players who don't have a Battle net. This player base is the same as seasons from last year, what do you think about it?
+2025-02-19 12:57:02,315 - INFO - Image Paths: ['https://preview.redd.it/j2771n0hxzje1.png?auto=webp&s=b7093a1c14715dd44f03d24c6ed63c574eb1a59d']
+2025-02-19 12:57:02,315 - INFO - Video Path: 
+2025-02-19 12:57:02,397 - INFO - Downloaded media from https://preview.redd.it/j2771n0hxzje1.png?auto=webp&s=b7093a1c14715dd44f03d24c6ed63c574eb1a59d to temp_image.jpg
+2025-02-19 12:57:03,188 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
