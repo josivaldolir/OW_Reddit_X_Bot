@@ -534,3 +534,11 @@ Mercy spray you got from watching old twitch streams, I just thought it was cool
 2025-02-19 05:38:01,225 - INFO - Downloaded media from https://preview.redd.it/q16dj18kdzje1.png?width=1920&format=png&auto=webp&s=722317759774df12ee8283557b72c3601a39fcd1 to temp_image.jpg
 2025-02-19 05:38:02,176 - INFO - Downloaded media from https://preview.redd.it/zze9kgbkdzje1.png?width=1080&format=png&auto=webp&s=35f680dc4372e5d8cc02316cb44f1101f9cb0b05 to temp_image.jpg
 2025-02-19 05:38:03,962 - INFO - Posted content successfully. Tweet ID: 1892086221641306233
+2025-02-19 06:20:22,929 - INFO - Content: Is Hanzo a furry
+
+2025-02-19 06:20:22,929 - INFO - Image Paths: ['https://external-preview.redd.it/Y3F3aDY0MG83eGplMdh6d7yRN_j2G0AhYk2LYTSTT0BDDnEHWdJtxrS2wn-v.png?format=pjpg&auto=webp&s=9ac9f845f5d0033aa221d8165f74aafc4b114279']
+2025-02-19 06:20:22,929 - INFO - Video Path: https://v.redd.it/jpi8sa6o7xje1/DASH_720.mp4?source=fallback
+2025-02-19 06:20:23,014 - INFO - Downloaded media from https://v.redd.it/jpi8sa6o7xje1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-02-19 06:20:23,055 - INFO - Downloaded media from https://v.redd.it/jpi8sa6o7xje1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-02-19 06:20:26,946 - INFO - Combined video and audio into temp_combined.mp4
+2025-02-19 06:20:31,974 - INFO - Posted content successfully. Tweet ID: 1892096911466750232
