@@ -729,3 +729,9 @@ Too Many Requests
 2025-02-19 19:35:53,353 - INFO - Downloaded media from https://preview.redd.it/dy65h41ay3ke1.jpeg?auto=webp&s=3a36fd011592afb65941689e989e9ed8632c70fc to temp_image.jpg
 2025-02-19 19:35:54,299 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-02-19 20:15:24,358 - INFO - Content: What actually getting skins does to a mf
+
+2025-02-19 20:15:24,358 - INFO - Image Paths: ['https://preview.redd.it/dy65h41ay3ke1.jpeg?auto=webp&s=3a36fd011592afb65941689e989e9ed8632c70fc']
+2025-02-19 20:15:24,358 - INFO - Video Path: 
+2025-02-19 20:15:24,548 - INFO - Downloaded media from https://preview.redd.it/dy65h41ay3ke1.jpeg?auto=webp&s=3a36fd011592afb65941689e989e9ed8632c70fc to temp_image.jpg
+2025-02-19 20:15:26,505 - INFO - Posted content successfully. Tweet ID: 1892307022307348689
