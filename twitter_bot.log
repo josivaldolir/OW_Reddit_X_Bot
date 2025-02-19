@@ -640,3 +640,11 @@ Too Many Requests
 2025-02-19 13:23:00,757 - INFO - Combined video and audio into temp_combined.mp4
 2025-02-19 13:23:17,249 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-02-19 13:38:52,712 - INFO - Content: Bastion's ricochet tech finally has a use now
+
+2025-02-19 13:38:52,712 - INFO - Image Paths: ['https://external-preview.redd.it/am9kejFydW82M2tlMbstD0haIds7IZp4WDjj8J3CUKopLgihDQb7kP01LoPA.png?format=pjpg&auto=webp&s=d688caea2751b6348974eef436c41dd5d7853620']
+2025-02-19 13:38:52,712 - INFO - Video Path: https://v.redd.it/n6rgctuo63ke1/DASH_1080.mp4?source=fallback
+2025-02-19 13:38:52,910 - INFO - Downloaded media from https://v.redd.it/n6rgctuo63ke1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-02-19 13:38:53,111 - INFO - Downloaded media from https://v.redd.it/n6rgctuo63ke1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-02-19 13:38:54,067 - INFO - Combined video and audio into temp_combined.mp4
+2025-02-19 13:39:10,159 - INFO - Posted content successfully. Tweet ID: 1892207297843351970
