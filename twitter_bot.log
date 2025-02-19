@@ -752,3 +752,11 @@ Bravo, team!
 2025-02-19 21:13:44,276 - INFO - Image Paths: []
 2025-02-19 21:13:44,276 - INFO - Video Path: 
 2025-02-19 21:13:44,806 - INFO - Posted content successfully. Tweet ID: 1892321696197333481
+2025-02-19 21:35:45,323 - INFO - Content: can't believe we're back
+
+2025-02-19 21:35:45,323 - INFO - Image Paths: ['https://external-preview.redd.it/MmdreXlibnptNWtlMW6Aaggbq6A-7jdg1FNUOcHIBMH9idUm0bakrKfi78Oo.png?format=pjpg&auto=webp&s=a03f4ab17d938e9edf102a7bc8849ee5cac3b5dc']
+2025-02-19 21:35:45,323 - INFO - Video Path: https://v.redd.it/gxr2ranzm5ke1/DASH_1080.mp4?source=fallback
+2025-02-19 21:35:46,042 - INFO - Downloaded media from https://v.redd.it/gxr2ranzm5ke1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-02-19 21:35:46,459 - INFO - Downloaded media from https://v.redd.it/gxr2ranzm5ke1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-02-19 21:35:50,137 - INFO - Combined video and audio into temp_combined.mp4
+2025-02-19 21:35:55,700 - INFO - Posted content successfully. Tweet ID: 1892327278064898545
