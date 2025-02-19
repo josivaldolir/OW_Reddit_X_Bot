@@ -631,3 +631,12 @@ Overwatch just hit today a total of 59k players, not counting players who don't 
 2025-02-19 12:57:02,397 - INFO - Downloaded media from https://preview.redd.it/j2771n0hxzje1.png?auto=webp&s=b7093a1c14715dd44f03d24c6ed63c574eb1a59d to temp_image.jpg
 2025-02-19 12:57:03,188 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-02-19 13:22:58,501 - INFO - Content: Bastion's ricochet tech finally has a use now
+
+2025-02-19 13:22:58,501 - INFO - Image Paths: ['https://external-preview.redd.it/am9kejFydW82M2tlMbstD0haIds7IZp4WDjj8J3CUKopLgihDQb7kP01LoPA.png?format=pjpg&auto=webp&s=d688caea2751b6348974eef436c41dd5d7853620']
+2025-02-19 13:22:58,501 - INFO - Video Path: https://v.redd.it/n6rgctuo63ke1/DASH_1080.mp4?source=fallback
+2025-02-19 13:22:59,161 - INFO - Downloaded media from https://v.redd.it/n6rgctuo63ke1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-02-19 13:22:59,852 - INFO - Downloaded media from https://v.redd.it/n6rgctuo63ke1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-02-19 13:23:00,757 - INFO - Combined video and audio into temp_combined.mp4
+2025-02-19 13:23:17,249 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
