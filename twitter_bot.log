@@ -760,3 +760,45 @@ Bravo, team!
 2025-02-19 21:35:46,459 - INFO - Downloaded media from https://v.redd.it/gxr2ranzm5ke1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-02-19 21:35:50,137 - INFO - Combined video and audio into temp_combined.mp4
 2025-02-19 21:35:55,700 - INFO - Posted content successfully. Tweet ID: 1892327278064898545
+2025-02-19 22:13:20,993 - INFO - Content: Perks are great, but...
+I made a similar post to this before I went to bed last night, I'm gonna try and stay more brief and hopefully a bit more eloquent this time around. Warning for intense yapping from this point forward.
+
+**But first, a necessary TL;DR that present Epoch made to save you from past Epoch:**
+
+- The current leveling system doesn't prevent counter swapping as intended. It also makes the perk system *worse* in many ways it wouldn't be otherwise (more chaotic, less fair, less time to enjoy the perks themselves)
+
+- In the long term, I think perks would benefit from a different form of acquisition. I would prefer both minor and major perks to be unlocked from the beginning of a match, but other solutions could be better.
+
+- Making perk-gaining more consistent would benefit both casual and high-level play, allowing people to play the same characters in different ways and showcasing more skill expression with the new abilities added by this mechanic.
+
+**(ACTUAL YAP AND FURTHER DETAILING FROM THIS POINT FORWARD)**
+
+The levelling system, in my opinion, massively undermines how effective and enjoyable perks are as a whole.
+
+Conceptually, the main benefit of a levelling system is that it's a silent but deadly nerf to counter swapping, with people losing their levels, and therefore perks, when they switch characters.
+
+As far as I can see, this intention is sorely ineffective, and punishes non-counterswappers more. As it stands, the levelling system really just serves as an incentive for the team who loses the first team fight to swap *immediately* to their chosen hard counters, as to not get too far behind, then attempt to snowball with the next team fight. Alternatively, attackers can just walk back into spawn before dying, and swap to the best hero for the job. The exact same way they could before. 
+
+In the end, the only circumstances where this system is really detrimental to counterswapping is when a team decides *later* into a match that a particular enemy is a problem. This means that the levelling system's intentional purpose really only comes into play in matches that are very close, with both teams on more or less equal footing. This accounts for a *very* small amount of Overwatch games, as in most matches one team will very clearly gain the upper hand early on, either stomping or forcing the enemy to change strategies to change that.
+
+So the levelling system fails at it's main purpose. This alone isn't so bad, but the consequence of *having* this levelling mechanic on top of the perk system as a whole makes the latter so much more chaotic, ineffective and boring than it should be. With most characters' game-changing perks locked behind level 3, many heroes cannot benefit from them until late into a round, leaving them with one, maybe two team fights left to get used out of them. 
+
+This alone makes perks completely useless in curbing hard counters. At level 3, Junkrat could choose more range to deal with poke heroes and longer sight lines, but to get to this point he must first run his base kit into these problem matchups for several minutes, trying to do enough damage to get there.
+
+On the flip side, there's Orisa. With one of her major perks swapping her javelin spin for her old barrier, there comes a time in every round where your team might just suddenly have one of the best shields in the game in their face. One barrier can wildly shift a team fight, and with no strict timing for her to get to level 3, or guarantee that she will choose that perk, it makes it largely impossible to plan around going into a fight.
+
+I don't want to go into a conversation about what forms of chaos are healthy, and which aren't, as that's a very long winded topic in and of itself. I will state that, in my opinion, the perk system itself is a level of healthy, fun chaos, but these issues introduced by the levelling is not.
+
+My *personal* preference for fixing this would be to have every player *start* the game with their perks selected. This would give every character several ways to play in a match, from the very beginning. Low ranks and casual players would get more enjoyment out of the new system, and high ranked players would be able to better plan around perks, and the effect they have on team play. 
+
+For some characters, this could mean significant changes to how they approach a fight, and very different skill expression. One Bastion player may start out their match with mobility from their grenade, and their assault form swapped with a tank. Right off the bat, they have different targets and intentions than base Bastion, but in turn that can be planned for ahead of time. In another match, you may face a Bastion who prefers to self-heal on solo flanks. Two players could have very different approaches to the same character, without the unfairness (or tedium) involved with that difference emerging late in the match.
+
+As I said, this would be my preference. Other specifics, such as whether you would be able to swap perks mid-match, I don't really have a great answer for, as I see positives and negatives for both answers.
+
+Others have suggested that levels should emerge *globally* through the match. While this wouldn't solve every issue, I do think it would generally be more fair than the current system.
+
+
+2025-02-19 22:13:20,993 - INFO - Image Paths: ['https://preview.redd.it/ztm6alcdo4ke1.jpeg?auto=webp&s=4163642fbe62e0ec56a41cf5231bdc49244910db']
+2025-02-19 22:13:20,993 - INFO - Video Path: 
+2025-02-19 22:13:21,210 - INFO - Downloaded media from https://preview.redd.it/ztm6alcdo4ke1.jpeg?auto=webp&s=4163642fbe62e0ec56a41cf5231bdc49244910db to temp_image.jpg
+2025-02-19 22:13:22,661 - INFO - Posted content successfully. Tweet ID: 1892336702041084365
