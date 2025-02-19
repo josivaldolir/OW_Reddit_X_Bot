@@ -817,3 +817,11 @@ Others have suggested that levels should emerge *globally* through the match. Wh
 2025-02-19 23:13:19,456 - INFO - Downloaded media from https://v.redd.it/w0pszynix5ke1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-02-19 23:13:19,826 - INFO - Combined video and audio into temp_combined.mp4
 2025-02-19 23:13:24,779 - INFO - Posted content successfully. Tweet ID: 1892351811035496867
+2025-02-19 23:35:59,465 - INFO - Content: Illari tried very hard
+
+2025-02-19 23:35:59,465 - INFO - Image Paths: ['https://external-preview.redd.it/Mjh0OGt6MDJhNmtlMSdMZNvJDLaZkPcXmLP7oazhl1moBGLU5_4qZeskccKh.png?format=pjpg&auto=webp&s=b8cda9e3fa1b445860a4142e01623383a62294be']
+2025-02-19 23:35:59,465 - INFO - Video Path: https://v.redd.it/6vtxf492a6ke1/DASH_1080.mp4?source=fallback
+2025-02-19 23:36:01,692 - INFO - Downloaded media from https://v.redd.it/6vtxf492a6ke1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-02-19 23:36:01,840 - INFO - Downloaded media from https://v.redd.it/6vtxf492a6ke1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-02-19 23:36:02,436 - INFO - Combined video and audio into temp_combined.mp4
+2025-02-19 23:36:12,819 - INFO - Posted content successfully. Tweet ID: 1892357548764021140
