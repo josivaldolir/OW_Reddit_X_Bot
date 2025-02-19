@@ -519,3 +519,11 @@ Why is nobody talking about this major reworks to Ramattras kit and appearance?
 2025-02-19 04:41:40,040 - INFO - Downloaded media from https://preview.redd.it/zoeatevidyje1.png?width=1120&format=png&auto=webp&s=57748dd27814c5e4faa2c4100118b99b84b27cb4 to temp_image.jpg
 2025-02-19 04:41:41,076 - INFO - Downloaded media from https://preview.redd.it/wiplr14jdyje1.png?width=1120&format=png&auto=webp&s=e0154e2ef840868263cf3d46b3399d80d79a70d5 to temp_image.jpg
 2025-02-19 04:41:43,121 - INFO - Posted content successfully. Tweet ID: 1892072040519303386
+2025-02-19 05:14:10,063 - INFO - Content: 2 Weeks Wasted Just For This Meme
+
+2025-02-19 05:14:10,063 - INFO - Image Paths: ['https://external-preview.redd.it/cGxldHdoaTBzMGtlMTm-nPdF38kALbXubLdYXWz1BOoFkXViJVkf3V90YWGf.png?format=pjpg&auto=webp&s=c87ecd787df155304cd12a909699d2906927d9d0']
+2025-02-19 05:14:10,063 - INFO - Video Path: https://v.redd.it/w2bsiht0s0ke1/DASH_720.mp4?source=fallback
+2025-02-19 05:14:10,245 - INFO - Downloaded media from https://v.redd.it/w2bsiht0s0ke1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-02-19 05:14:10,325 - INFO - Downloaded media from https://v.redd.it/w2bsiht0s0ke1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-02-19 05:14:11,859 - INFO - Combined video and audio into temp_combined.mp4
+2025-02-19 05:14:21,634 - INFO - Posted content successfully. Tweet ID: 1892080258687566269
