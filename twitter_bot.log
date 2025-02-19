@@ -575,3 +575,11 @@ I think she has one of the cutest skins, this and honeydew are my personal favor
 2025-02-19 08:42:06,153 - INFO - Video Path: 
 2025-02-19 08:42:06,327 - INFO - Downloaded media from https://preview.redd.it/n1a3x4ecszje1.jpeg?auto=webp&s=b1e22188277bf311e00b18d759b446728c5c102b to temp_image.jpg
 2025-02-19 08:42:07,811 - INFO - Posted content successfully. Tweet ID: 1892132544461541788
+2025-02-19 09:14:59,198 - INFO - Content: Blizzard adding changes to the already perfect game
+
+2025-02-19 09:14:59,198 - INFO - Image Paths: ['https://external-preview.redd.it/NHVsMjF6ODUxMGtlMRJlJJUgpEQ3nR3uprHDiOPD0QtPKA9eqCvNV2-7wC5D.png?format=pjpg&auto=webp&s=0bb9fa3441e02f0d3358806c6b1e053d94b30243']
+2025-02-19 09:14:59,198 - INFO - Video Path: https://v.redd.it/00xw6us210ke1/DASH_360.mp4?source=fallback
+2025-02-19 09:14:59,298 - INFO - Downloaded media from https://v.redd.it/00xw6us210ke1/DASH_360.mp4?source=fallback to temp_video.mp4
+2025-02-19 09:14:59,314 - INFO - Downloaded media from https://v.redd.it/00xw6us210ke1/DASH_360.mp4?source=fallback to temp_audio.mp4
+2025-02-19 09:15:03,486 - INFO - Combined video and audio into temp_combined.mp4
+2025-02-19 09:15:06,661 - INFO - Posted content successfully. Tweet ID: 1892140845434102224
