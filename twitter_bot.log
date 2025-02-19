@@ -659,3 +659,10 @@ Funny how his best perk is a minor one
 2025-02-19 14:40:17,192 - INFO - Video Path: 
 2025-02-19 14:40:17,494 - INFO - Downloaded media from https://preview.redd.it/nwpy4tc4r3ke1.jpeg?auto=webp&s=d17e201e97155e8fca9d62ab398cdc2d27d91270 to temp_image.jpg
 2025-02-19 14:40:19,400 - INFO - Posted content successfully. Tweet ID: 1892222686774055234
+2025-02-19 15:15:10,944 - INFO - Content: What actually getting skins does to a mf
+
+2025-02-19 15:15:10,944 - INFO - Image Paths: ['https://preview.redd.it/dy65h41ay3ke1.jpeg?auto=webp&s=3a36fd011592afb65941689e989e9ed8632c70fc']
+2025-02-19 15:15:10,944 - INFO - Video Path: 
+2025-02-19 15:15:11,077 - INFO - Downloaded media from https://preview.redd.it/dy65h41ay3ke1.jpeg?auto=webp&s=3a36fd011592afb65941689e989e9ed8632c70fc to temp_image.jpg
+2025-02-19 15:15:11,789 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
