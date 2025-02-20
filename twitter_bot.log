@@ -1002,3 +1002,13 @@ Bastion weird for that
 2025-02-20 14:14:02,393 - INFO - Downloaded media from https://preview.redd.it/y42azvdpoake1.jpg?width=1920&format=pjpg&auto=webp&s=5924705cc6af636fa56e9203e0eb79673866d1e3 to temp_image.jpg
 2025-02-20 14:14:03,310 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-02-20 14:39:58,701 - INFO - Content: There are now 7 cinematics in the Heroes gallery! Do you like watching them during queues and food breaks?
+
+2025-02-20 14:39:58,702 - INFO - Image Paths: ['https://preview.redd.it/lq1fn45ioake1.png?width=1920&format=png&auto=webp&s=9a0aa1571ad2bc51d3b73b87f8203a63f44e45c1', 'https://preview.redd.it/fcgvdrdpoake1.jpg?width=1920&format=pjpg&auto=webp&s=bf37c5d594cab194f283dfa3683ec3d29a793a51', 'https://preview.redd.it/ywo4htdpoake1.jpg?width=1920&format=pjpg&auto=webp&s=0255ff63dcc389a3ef114b64368f2186742a3414', 'https://preview.redd.it/y42azvdpoake1.jpg?width=1920&format=pjpg&auto=webp&s=5924705cc6af636fa56e9203e0eb79673866d1e3']
+2025-02-20 14:39:58,702 - INFO - Video Path: 
+2025-02-20 14:39:58,965 - INFO - Downloaded media from https://preview.redd.it/lq1fn45ioake1.png?width=1920&format=png&auto=webp&s=9a0aa1571ad2bc51d3b73b87f8203a63f44e45c1 to temp_image.jpg
+2025-02-20 14:40:00,102 - INFO - Downloaded media from https://preview.redd.it/fcgvdrdpoake1.jpg?width=1920&format=pjpg&auto=webp&s=bf37c5d594cab194f283dfa3683ec3d29a793a51 to temp_image.jpg
+2025-02-20 14:40:01,225 - INFO - Downloaded media from https://preview.redd.it/ywo4htdpoake1.jpg?width=1920&format=pjpg&auto=webp&s=0255ff63dcc389a3ef114b64368f2186742a3414 to temp_image.jpg
+2025-02-20 14:40:02,652 - INFO - Downloaded media from https://preview.redd.it/y42azvdpoake1.jpg?width=1920&format=pjpg&auto=webp&s=5924705cc6af636fa56e9203e0eb79673866d1e3 to temp_image.jpg
+2025-02-20 14:40:03,993 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
