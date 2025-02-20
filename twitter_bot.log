@@ -1054,3 +1054,10 @@ Too Many Requests
 2025-02-20 17:12:34,974 - INFO - Downloaded media from https://external-preview.redd.it/79OZPBuu25UxwULbalfyKMe9UNjrA-bY6CYMg1Z4VWE.png?auto=webp&s=7f96dcac3f12325df16fa7fad085081b9ea4e1df to temp_image.jpg
 2025-02-20 17:12:35,811 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-02-20 17:36:55,742 - INFO - Content: can we agree that this 500XP should be lootbox instead?
+
+2025-02-20 17:36:55,742 - INFO - Image Paths: ['https://external-preview.redd.it/79OZPBuu25UxwULbalfyKMe9UNjrA-bY6CYMg1Z4VWE.png?auto=webp&s=7f96dcac3f12325df16fa7fad085081b9ea4e1df']
+2025-02-20 17:36:55,742 - INFO - Video Path: 
+2025-02-20 17:36:56,085 - INFO - Downloaded media from https://external-preview.redd.it/79OZPBuu25UxwULbalfyKMe9UNjrA-bY6CYMg1Z4VWE.png?auto=webp&s=7f96dcac3f12325df16fa7fad085081b9ea4e1df to temp_image.jpg
+2025-02-20 17:36:57,222 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
