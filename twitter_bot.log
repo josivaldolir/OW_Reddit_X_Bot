@@ -984,3 +984,11 @@ Too Many Requests
 2025-02-20 13:27:43,378 - INFO - Downloaded media from https://preview.redd.it/kjww3sq479je1.jpeg?auto=webp&s=ad0296298ba1df254d841998af8f7797673692fc to temp_image.jpg
 2025-02-20 13:27:44,168 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-02-20 13:40:49,311 - INFO - Content: Bastion self-heal going crazy
+Bastion weird for that 
+2025-02-20 13:40:49,311 - INFO - Image Paths: ['https://external-preview.redd.it/bTEyZ3JvOGNtOGtlMQ51N7IsgNI-kRT1iIdBjj01RLS0KT0czTj2CfiajR45.png?format=pjpg&auto=webp&s=1ea9e6828667d3e5b2aeb2af829e2d36d7f84786']
+2025-02-20 13:40:49,311 - INFO - Video Path: https://v.redd.it/rlrb2rgcm8ke1/DASH_1080.mp4?source=fallback
+2025-02-20 13:40:50,078 - INFO - Downloaded media from https://v.redd.it/rlrb2rgcm8ke1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-02-20 13:40:50,184 - INFO - Downloaded media from https://v.redd.it/rlrb2rgcm8ke1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-02-20 13:40:50,729 - INFO - Combined video and audio into temp_combined.mp4
+2025-02-20 13:41:00,371 - INFO - Posted content successfully. Tweet ID: 1892570148017705014
