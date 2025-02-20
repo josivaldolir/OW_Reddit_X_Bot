@@ -1102,3 +1102,10 @@ Too Many Requests
 2025-02-20 20:37:25,767 - INFO - Downloaded media from https://preview.redd.it/055epbylscke1.jpeg?auto=webp&s=7f4075a780dd59cccd44eeda0ec18fd13d50b2ca to temp_image.jpg
 2025-02-20 20:37:26,686 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-02-20 21:11:52,925 - INFO - Content: Maybe he's got cramps, idk
+
+2025-02-20 21:11:52,925 - INFO - Image Paths: ['https://preview.redd.it/055epbylscke1.jpeg?auto=webp&s=7f4075a780dd59cccd44eeda0ec18fd13d50b2ca']
+2025-02-20 21:11:52,925 - INFO - Video Path: 
+2025-02-20 21:11:53,319 - INFO - Downloaded media from https://preview.redd.it/055epbylscke1.jpeg?auto=webp&s=7f4075a780dd59cccd44eeda0ec18fd13d50b2ca to temp_image.jpg
+2025-02-20 21:11:54,273 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
