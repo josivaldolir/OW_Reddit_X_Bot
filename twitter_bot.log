@@ -971,3 +971,9 @@ Bastion weird for that
 2025-02-20 12:27:22,875 - INFO - Combined video and audio into temp_combined.mp4
 2025-02-20 12:27:30,361 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-02-20 12:59:34,356 - INFO - Content: who would win in a realistic death battle between sniper and widowmaker
+
+2025-02-20 12:59:34,357 - INFO - Image Paths: ['https://preview.redd.it/y94508818ake1.png?auto=webp&s=44c69c7adbb19613ed319d8d931d4f677278f13e']
+2025-02-20 12:59:34,357 - INFO - Video Path: 
+2025-02-20 12:59:34,586 - INFO - Downloaded media from https://preview.redd.it/y94508818ake1.png?auto=webp&s=44c69c7adbb19613ed319d8d931d4f677278f13e to temp_image.jpg
+2025-02-20 12:59:36,025 - INFO - Posted content successfully. Tweet ID: 1892559726090809646
