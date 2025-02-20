@@ -1067,3 +1067,10 @@ Too Many Requests
 2025-02-20 18:19:12,592 - INFO - Video Path: 
 2025-02-20 18:19:12,744 - INFO - Downloaded media from https://external-preview.redd.it/79OZPBuu25UxwULbalfyKMe9UNjrA-bY6CYMg1Z4VWE.png?auto=webp&s=7f96dcac3f12325df16fa7fad085081b9ea4e1df to temp_image.jpg
 2025-02-20 18:19:13,992 - INFO - Posted content successfully. Tweet ID: 1892640164964663333
+2025-02-20 18:43:37,849 - INFO - Content: What is this? (NEW!)
+There is “NEW!” text on top of the “Heros” section. Is there something new or what is it? I can’t see anything new. 
+2025-02-20 18:43:37,849 - INFO - Image Paths: ['https://preview.redd.it/5bzhlnldxake1.jpeg?auto=webp&s=4c582170e68ef93e1d8fe71ee36a4d83cf2ad149']
+2025-02-20 18:43:37,849 - INFO - Video Path: 
+2025-02-20 18:43:38,065 - INFO - Downloaded media from https://preview.redd.it/5bzhlnldxake1.jpeg?auto=webp&s=4c582170e68ef93e1d8fe71ee36a4d83cf2ad149 to temp_image.jpg
+2025-02-20 18:43:39,064 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
