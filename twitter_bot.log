@@ -1095,3 +1095,10 @@ Seriously why is King’s Row so fckn good
 2025-02-20 20:15:00,675 - INFO - Downloaded media from https://preview.redd.it/nv8ye1dzgcke1.jpeg?auto=webp&s=10b27773cbcfb5d926ddaee41f901723f897f6ab to temp_image.jpg
 2025-02-20 20:15:01,694 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-02-20 20:37:25,704 - INFO - Content: Maybe he's got cramps, idk
+
+2025-02-20 20:37:25,704 - INFO - Image Paths: ['https://preview.redd.it/055epbylscke1.jpeg?auto=webp&s=7f4075a780dd59cccd44eeda0ec18fd13d50b2ca']
+2025-02-20 20:37:25,704 - INFO - Video Path: 
+2025-02-20 20:37:25,767 - INFO - Downloaded media from https://preview.redd.it/055epbylscke1.jpeg?auto=webp&s=7f4075a780dd59cccd44eeda0ec18fd13d50b2ca to temp_image.jpg
+2025-02-20 20:37:26,686 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
