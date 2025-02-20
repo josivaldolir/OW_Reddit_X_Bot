@@ -881,3 +881,11 @@ I hope Venture gets a skin in this collection in the future! I think they’d lo
 2025-02-20 06:20:45,976 - INFO - Video Path: 
 2025-02-20 06:20:46,101 - INFO - Downloaded media from https://preview.redd.it/0vhiw1o486ke1.jpeg?auto=webp&s=7e82d98895146a193f7b88a477d9b52ec05e39af to temp_image.jpg
 2025-02-20 06:20:47,220 - INFO - Posted content successfully. Tweet ID: 1892459362897317963
+2025-02-20 06:44:20,801 - INFO - Content: I'm trying to do a rework on Mercy lately, you guys seem to be very useful for this, give me ideas Well I got carried away with the dps and forgot to show that this also heals 90 per projectile
+
+2025-02-20 06:44:20,801 - INFO - Image Paths: ['https://external-preview.redd.it/dzkzazR5dnA4N2tlMZZbehMKt5wGlBP6Hl5nnIxrjzgXmVh6bIthRdDFpEaS.png?format=pjpg&auto=webp&s=8799aae1ce60966c2c3179b8c6e420667dc8267c']
+2025-02-20 06:44:20,801 - INFO - Video Path: https://v.redd.it/aaavmo3q87ke1/DASH_720.mp4?source=fallback
+2025-02-20 06:44:21,557 - INFO - Downloaded media from https://v.redd.it/aaavmo3q87ke1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-02-20 06:44:21,961 - INFO - Downloaded media from https://v.redd.it/aaavmo3q87ke1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-02-20 06:44:26,443 - INFO - Combined video and audio into temp_combined.mp4
+2025-02-20 06:44:36,040 - INFO - Posted content successfully. Tweet ID: 1892465355945099435
