@@ -1088,3 +1088,10 @@ There is “NEW!” text on top of the “Heros” section. Is there something n
 2025-02-20 19:35:58,806 - INFO - Downloaded media from https://preview.redd.it/5bzhlnldxake1.jpeg?auto=webp&s=4c582170e68ef93e1d8fe71ee36a4d83cf2ad149 to temp_image.jpg
 2025-02-20 19:36:00,054 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-02-20 20:15:00,644 - INFO - Content: What is the best map in Overwatch, and why is it King’s Row?
+Seriously why is King’s Row so fckn good
+2025-02-20 20:15:00,645 - INFO - Image Paths: ['https://preview.redd.it/nv8ye1dzgcke1.jpeg?auto=webp&s=10b27773cbcfb5d926ddaee41f901723f897f6ab']
+2025-02-20 20:15:00,645 - INFO - Video Path: 
+2025-02-20 20:15:00,675 - INFO - Downloaded media from https://preview.redd.it/nv8ye1dzgcke1.jpeg?auto=webp&s=10b27773cbcfb5d926ddaee41f901723f897f6ab to temp_image.jpg
+2025-02-20 20:15:01,694 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
