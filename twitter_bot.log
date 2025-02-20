@@ -962,3 +962,12 @@ I really hope it would be possible 🤞
 2025-02-20 11:35:47,203 - INFO - Downloaded media from https://v.redd.it/8p9sww7vw9ke1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-02-20 11:35:48,676 - INFO - Combined video and audio into temp_combined.mp4
 2025-02-20 11:36:03,131 - INFO - Posted content successfully. Tweet ID: 1892538702242492813
+2025-02-20 12:27:21,957 - INFO - Content: Bastion self-heal going crazy
+Bastion weird for that 
+2025-02-20 12:27:21,957 - INFO - Image Paths: ['https://external-preview.redd.it/bTEyZ3JvOGNtOGtlMQ51N7IsgNI-kRT1iIdBjj01RLS0KT0czTj2CfiajR45.png?format=pjpg&auto=webp&s=1ea9e6828667d3e5b2aeb2af829e2d36d7f84786']
+2025-02-20 12:27:21,957 - INFO - Video Path: https://v.redd.it/rlrb2rgcm8ke1/DASH_1080.mp4?source=fallback
+2025-02-20 12:27:22,025 - INFO - Downloaded media from https://v.redd.it/rlrb2rgcm8ke1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-02-20 12:27:22,080 - INFO - Downloaded media from https://v.redd.it/rlrb2rgcm8ke1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-02-20 12:27:22,875 - INFO - Combined video and audio into temp_combined.mp4
+2025-02-20 12:27:30,361 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
