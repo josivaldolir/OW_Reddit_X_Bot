@@ -914,3 +914,11 @@ Maybe I’ll set some aside for Aqua.
 2025-02-20 08:41:58,834 - INFO - Video Path: 
 2025-02-20 08:41:58,927 - INFO - Downloaded media from https://preview.redd.it/pvvz7ld9g4ke1.jpeg?auto=webp&s=5d2f33e348426206898713ba9e99a25f4f14acde to temp_image.jpg
 2025-02-20 08:42:00,062 - INFO - Posted content successfully. Tweet ID: 1892494900693782695
+2025-02-20 09:14:54,885 - INFO - Content: Is he okay??!!??
+
+2025-02-20 09:14:54,885 - INFO - Image Paths: ['https://external-preview.redd.it/a3E4eTA3bXBuOGtlMR7waTfoNKNwsXhYoVoD9ReL6xZPzv3wg5AX8MFYXfDc.png?format=pjpg&auto=webp&s=74f3a59204cfd0b6b5b905d89359b927ebb001bd']
+2025-02-20 09:14:54,885 - INFO - Video Path: https://v.redd.it/2t4xojqpn8ke1/DASH_1080.mp4?source=fallback
+2025-02-20 09:14:55,608 - INFO - Downloaded media from https://v.redd.it/2t4xojqpn8ke1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-02-20 09:14:55,654 - INFO - Downloaded media from https://v.redd.it/2t4xojqpn8ke1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-02-20 09:14:56,343 - INFO - Combined video and audio into temp_combined.mp4
+2025-02-20 09:15:06,849 - INFO - Posted content successfully. Tweet ID: 1892503234117554271
