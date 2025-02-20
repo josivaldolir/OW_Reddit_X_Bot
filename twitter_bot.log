@@ -1115,3 +1115,9 @@ Too Many Requests
 2025-02-20 21:35:33,972 - INFO - Video Path: 
 2025-02-20 21:35:34,135 - INFO - Downloaded media from https://preview.redd.it/055epbylscke1.jpeg?auto=webp&s=7f4075a780dd59cccd44eeda0ec18fd13d50b2ca to temp_image.jpg
 2025-02-20 21:35:35,865 - INFO - Posted content successfully. Tweet ID: 1892689582212448579
+2025-02-20 22:13:32,178 - INFO - Content: hero bans cant come sooner lmao
+
+2025-02-20 22:13:32,178 - INFO - Image Paths: ['https://preview.redd.it/max4c82s3dke1.png?auto=webp&s=967adca4b6c624d9548b8bc9eec33c57c7484b88']
+2025-02-20 22:13:32,178 - INFO - Video Path: 
+2025-02-20 22:13:32,290 - INFO - Downloaded media from https://preview.redd.it/max4c82s3dke1.png?auto=webp&s=967adca4b6c624d9548b8bc9eec33c57c7484b88 to temp_image.jpg
+2025-02-20 22:13:33,870 - INFO - Posted content successfully. Tweet ID: 1892699136421724375
