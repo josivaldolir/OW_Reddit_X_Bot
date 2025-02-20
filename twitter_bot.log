@@ -922,3 +922,13 @@ Maybe I’ll set some aside for Aqua.
 2025-02-20 09:14:55,654 - INFO - Downloaded media from https://v.redd.it/2t4xojqpn8ke1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-02-20 09:14:56,343 - INFO - Combined video and audio into temp_combined.mp4
 2025-02-20 09:15:06,849 - INFO - Posted content successfully. Tweet ID: 1892503234117554271
+2025-02-20 09:38:36,258 - INFO - Content: Add owl skins 2 lootboxes
+Since owl is gone and the shop is also gone it would be sick to get a random owl skins from lootboxes or a random legendary owl skins, 
+I really hope it would be possible 🤞
+2025-02-20 09:38:36,258 - INFO - Image Paths: ['https://preview.redd.it/531gdyocv5ke1.jpg?width=1280&format=pjpg&auto=webp&s=d9eebccf6110ada7915adb7b907156333cdbf1b3', 'https://preview.redd.it/mzo7nwpcv5ke1.jpg?width=1200&format=pjpg&auto=webp&s=2aaa104915c077b92c69bdfadc104371b69e965f', 'https://preview.redd.it/x3oscyocv5ke1.jpg?width=1280&format=pjpg&auto=webp&s=b5026c90f1a7d4bf86aedd28117f4831a25428fc', 'https://preview.redd.it/8mg78ypcv5ke1.jpg?width=1200&format=pjpg&auto=webp&s=1d93a807135dc44eeb045058524b40f7455b80a0']
+2025-02-20 09:38:36,258 - INFO - Video Path: 
+2025-02-20 09:38:36,357 - INFO - Downloaded media from https://preview.redd.it/531gdyocv5ke1.jpg?width=1280&format=pjpg&auto=webp&s=d9eebccf6110ada7915adb7b907156333cdbf1b3 to temp_image.jpg
+2025-02-20 09:38:36,926 - INFO - Downloaded media from https://preview.redd.it/mzo7nwpcv5ke1.jpg?width=1200&format=pjpg&auto=webp&s=2aaa104915c077b92c69bdfadc104371b69e965f to temp_image.jpg
+2025-02-20 09:38:37,426 - INFO - Downloaded media from https://preview.redd.it/x3oscyocv5ke1.jpg?width=1280&format=pjpg&auto=webp&s=b5026c90f1a7d4bf86aedd28117f4831a25428fc to temp_image.jpg
+2025-02-20 09:38:38,247 - INFO - Downloaded media from https://preview.redd.it/8mg78ypcv5ke1.jpg?width=1200&format=pjpg&auto=webp&s=1d93a807135dc44eeb045058524b40f7455b80a0 to temp_image.jpg
+2025-02-20 09:38:39,277 - INFO - Posted content successfully. Tweet ID: 1892509157506658700
