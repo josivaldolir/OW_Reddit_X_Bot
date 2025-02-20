@@ -1081,3 +1081,10 @@ There is “NEW!” text on top of the “Heros” section. Is there something n
 2025-02-20 19:11:21,902 - INFO - Downloaded media from https://preview.redd.it/5bzhlnldxake1.jpeg?auto=webp&s=4c582170e68ef93e1d8fe71ee36a4d83cf2ad149 to temp_image.jpg
 2025-02-20 19:11:22,803 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-02-20 19:35:58,589 - INFO - Content: What is this? (NEW!)
+There is “NEW!” text on top of the “Heros” section. Is there something new or what is it? I can’t see anything new. 
+2025-02-20 19:35:58,589 - INFO - Image Paths: ['https://preview.redd.it/5bzhlnldxake1.jpeg?auto=webp&s=4c582170e68ef93e1d8fe71ee36a4d83cf2ad149']
+2025-02-20 19:35:58,589 - INFO - Video Path: 
+2025-02-20 19:35:58,806 - INFO - Downloaded media from https://preview.redd.it/5bzhlnldxake1.jpeg?auto=webp&s=4c582170e68ef93e1d8fe71ee36a4d83cf2ad149 to temp_image.jpg
+2025-02-20 19:36:00,054 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
