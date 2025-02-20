@@ -889,3 +889,11 @@ I hope Venture gets a skin in this collection in the future! I think they’d lo
 2025-02-20 06:44:21,961 - INFO - Downloaded media from https://v.redd.it/aaavmo3q87ke1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-02-20 06:44:26,443 - INFO - Combined video and audio into temp_combined.mp4
 2025-02-20 06:44:36,040 - INFO - Posted content successfully. Tweet ID: 1892465355945099435
+2025-02-20 07:13:25,870 - INFO - Content: With the Zarya perk, you can just get to any high ground with enough creativity.
+
+2025-02-20 07:13:25,870 - INFO - Image Paths: ['https://external-preview.redd.it/aWo3cWd3MDJwNmtlMY50fEkV0djATMbH5-HDvs23EvHi_mBCHNw2IlawMDd8.png?format=pjpg&auto=webp&s=e23b66542e1177ecb0cec00a387d0bff469eafa4']
+2025-02-20 07:13:25,870 - INFO - Video Path: https://v.redd.it/j0v9iw02p6ke1/DASH_1080.mp4?source=fallback
+2025-02-20 07:13:26,324 - INFO - Downloaded media from https://v.redd.it/j0v9iw02p6ke1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-02-20 07:13:26,704 - INFO - Downloaded media from https://v.redd.it/j0v9iw02p6ke1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-02-20 07:13:27,173 - INFO - Combined video and audio into temp_combined.mp4
+2025-02-20 07:13:34,277 - INFO - Posted content successfully. Tweet ID: 1892472646790443365
