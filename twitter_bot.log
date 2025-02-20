@@ -948,3 +948,9 @@ I really hope it would be possible 🤞
 2025-02-20 10:41:28,072 - INFO - Downloaded media from https://v.redd.it/lsg4i5zajoje1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-02-20 10:41:28,965 - INFO - Combined video and audio into temp_combined.mp4
 2025-02-20 10:41:37,177 - INFO - Posted content successfully. Tweet ID: 1892525003914043865
+2025-02-20 11:12:13,708 - INFO - Content: LoL community after seeing lootboxes coming back, while hextech chests got removed
+
+2025-02-20 11:12:13,708 - INFO - Image Paths: ['https://preview.redd.it/cqcoemipfdje1.png?auto=webp&s=217c2293423ae2251649b21768bff5dc125e38a5']
+2025-02-20 11:12:13,709 - INFO - Video Path: 
+2025-02-20 11:12:13,773 - INFO - Downloaded media from https://preview.redd.it/cqcoemipfdje1.png?auto=webp&s=217c2293423ae2251649b21768bff5dc125e38a5 to temp_image.jpg
+2025-02-20 11:12:15,556 - INFO - Posted content successfully. Tweet ID: 1892532713296695412
