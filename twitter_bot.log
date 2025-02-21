@@ -1406,3 +1406,9 @@ Too Many Requests
 2025-02-21 22:37:38,268 - INFO - Video Path: 
 2025-02-21 22:37:38,455 - INFO - Downloaded media from https://preview.redd.it/nhs6oafiijke1.jpeg?auto=webp&s=6d849f5807ac108810330fac98d9223e1acdd90c to temp_image.jpg
 2025-02-21 22:37:40,011 - INFO - Posted content successfully. Tweet ID: 1893067590408511971
+2025-02-21 23:14:53,064 - INFO - Content: Welcome to the Rock Factory
+
+2025-02-21 23:14:53,064 - INFO - Image Paths: ['https://preview.redd.it/vv0632ywjkke1.jpeg?auto=webp&s=04634610a9a21b456ffe72c3a4e021fab2861c61']
+2025-02-21 23:14:53,064 - INFO - Video Path: 
+2025-02-21 23:14:53,163 - INFO - Downloaded media from https://preview.redd.it/vv0632ywjkke1.jpeg?auto=webp&s=04634610a9a21b456ffe72c3a4e021fab2861c61 to temp_image.jpg
+2025-02-21 23:14:54,460 - INFO - Posted content successfully. Tweet ID: 1893076962576588911
