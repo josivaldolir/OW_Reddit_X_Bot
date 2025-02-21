@@ -1162,3 +1162,4 @@ Did anybody else notice this? This is an example of the new OVERTIME UI and it's
 2025-02-21 03:40:55,930 - INFO - Downloaded media from https://preview.redd.it/il3bgv1phdke1.png?auto=webp&s=787fcc84c3e6eb7c003a4881ac90308b83d2f3ef to temp_image.jpg
 2025-02-21 03:40:59,601 - INFO - Posted content successfully. Tweet ID: 1892781528876306598
 2025-02-21 04:18:34,194 - ERROR - Error in main loop: 'u'
+2025-02-21 04:43:01,442 - ERROR - Error in main loop: 'u'
