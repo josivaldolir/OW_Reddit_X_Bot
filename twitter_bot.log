@@ -1305,3 +1305,9 @@ Agree/disagree? Anything else extreme that l forgot?
 2025-02-21 17:12:21,484 - INFO - Downloaded media from https://v.redd.it/3vd9y2oyxgke1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-02-21 17:12:22,330 - INFO - Combined video and audio into temp_combined.mp4
 2025-02-21 17:12:28,470 - INFO - Posted content successfully. Tweet ID: 1892985753560379604
+2025-02-21 17:35:44,928 - INFO - Content: This would be the perfect collab
+
+2025-02-21 17:35:44,928 - INFO - Image Paths: ['https://preview.redd.it/ru91dvfbzike1.png?auto=webp&s=9b0b753b627d32c47c1df8615fa4b4ef6e71c079']
+2025-02-21 17:35:44,928 - INFO - Video Path: 
+2025-02-21 17:35:45,086 - INFO - Downloaded media from https://preview.redd.it/ru91dvfbzike1.png?auto=webp&s=9b0b753b627d32c47c1df8615fa4b4ef6e71c079 to temp_image.jpg
+2025-02-21 17:35:46,677 - INFO - Posted content successfully. Tweet ID: 1892991615557595330
