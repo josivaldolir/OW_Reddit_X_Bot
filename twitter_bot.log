@@ -1166,3 +1166,11 @@ Did anybody else notice this? This is an example of the new OVERTIME UI and it's
 2025-02-21 05:13:43,802 - ERROR - Error in main loop: 'u'
 2025-02-21 05:38:41,639 - ERROR - Error in main loop: 'u'
 2025-02-21 06:19:36,115 - ERROR - Error in main loop: 'u'
+2025-02-21 06:43:29,352 - INFO - Content: "just start hammering" [based on a very recent true story]
+
+2025-02-21 06:43:29,352 - INFO - Image Paths: ['https://external-preview.redd.it/dmI1NGxjYzhyZmtlMWxRsbjt4QGwOfmmbdVtYfzVc7K-94OGINHUWPD2d5MF.png?format=pjpg&auto=webp&s=641b222c93ae316678567e86ffcbe3a755274d82']
+2025-02-21 06:43:29,352 - INFO - Video Path: https://v.redd.it/n562vcc8rfke1/DASH_1080.mp4?source=fallback
+2025-02-21 06:43:30,415 - INFO - Downloaded media from https://v.redd.it/n562vcc8rfke1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-02-21 06:43:30,738 - INFO - Downloaded media from https://v.redd.it/n562vcc8rfke1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-02-21 06:43:33,246 - INFO - Combined video and audio into temp_combined.mp4
+2025-02-21 06:43:42,127 - INFO - Posted content successfully. Tweet ID: 1892827517591179430
