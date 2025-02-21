@@ -1360,3 +1360,10 @@ Some past BTS videos that I know:
 2025-02-21 20:14:42,024 - INFO - Downloaded media from https://external-preview.redd.it/dgTMO0aZElEmxyMGs_utQQ-i85pU3sfuzZ5PYU6yA-U.jpg?auto=webp&s=4247b1746dc37952ef2051b9f31cbbe5a4f718fa to temp_image.jpg
 2025-02-21 20:14:42,766 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-02-21 20:36:37,304 - INFO - Content: I am not a gambling addict I am not a gambling addict I am not a gambling addict I am not a gambling addict I am not a gambling addict
+
+2025-02-21 20:36:37,304 - INFO - Image Paths: ['https://preview.redd.it/nhs6oafiijke1.jpeg?auto=webp&s=6d849f5807ac108810330fac98d9223e1acdd90c']
+2025-02-21 20:36:37,304 - INFO - Video Path: 
+2025-02-21 20:36:37,395 - INFO - Downloaded media from https://preview.redd.it/nhs6oafiijke1.jpeg?auto=webp&s=6d849f5807ac108810330fac98d9223e1acdd90c to temp_image.jpg
+2025-02-21 20:36:38,267 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
