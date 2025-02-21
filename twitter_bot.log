@@ -1147,3 +1147,4 @@ Seriously why is King’s Row so fckn good
 2025-02-21 01:04:41,467 - INFO - Video Path: 
 2025-02-21 01:04:41,538 - INFO - Downloaded media from https://preview.redd.it/nv8ye1dzgcke1.jpeg?auto=webp&s=10b27773cbcfb5d926ddaee41f901723f897f6ab to temp_image.jpg
 2025-02-21 01:04:42,606 - INFO - Posted content successfully. Tweet ID: 1892742207205212331
+2025-02-21 02:35:23,886 - ERROR - Error in main loop: 'u'
