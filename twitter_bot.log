@@ -1212,3 +1212,9 @@ Pretty impressive for an almost decade old game.
 2025-02-21 10:40:40,678 - INFO - Downloaded media from https://preview.redd.it/kjww3sq479je1.jpeg?auto=webp&s=ad0296298ba1df254d841998af8f7797673692fc to temp_image.jpg
 2025-02-21 10:40:42,396 - INFO - Posted content successfully. Tweet ID: 1892887161562943823
 2025-02-21 11:12:01,433 - ERROR - Error in main loop: 'u'
+2025-02-21 11:35:45,049 - INFO - Content: Me looking at my teammate Zen who has the lowest heal in the entire lobby:
+
+2025-02-21 11:35:45,049 - INFO - Image Paths: ['https://preview.redd.it/e94nnkj318je1.jpeg?auto=webp&s=dc131863cb54bd3c0dc9bf51bdc7a52850a6b01e']
+2025-02-21 11:35:45,049 - INFO - Video Path: 
+2025-02-21 11:35:45,372 - INFO - Downloaded media from https://preview.redd.it/e94nnkj318je1.jpeg?auto=webp&s=dc131863cb54bd3c0dc9bf51bdc7a52850a6b01e to temp_image.jpg
+2025-02-21 11:35:46,975 - INFO - Posted content successfully. Tweet ID: 1892901021237576192
