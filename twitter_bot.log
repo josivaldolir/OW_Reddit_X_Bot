@@ -1311,3 +1311,10 @@ Agree/disagree? Anything else extreme that l forgot?
 2025-02-21 17:35:44,928 - INFO - Video Path: 
 2025-02-21 17:35:45,086 - INFO - Downloaded media from https://preview.redd.it/ru91dvfbzike1.png?auto=webp&s=9b0b753b627d32c47c1df8615fa4b4ef6e71c079 to temp_image.jpg
 2025-02-21 17:35:46,677 - INFO - Posted content successfully. Tweet ID: 1892991615557595330
+2025-02-21 18:18:32,637 - INFO - Content: Tank heroes miniatures. Don't know if I want to finish it :/
+
+2025-02-21 18:18:32,637 - INFO - Image Paths: ['https://preview.redd.it/6z5jzyymrike1.png?width=3503&format=png&auto=webp&s=4a970e7244ecc025648de29c9e7bbfe6b12573be', 'https://preview.redd.it/o36zk1musike1.png?width=2496&format=png&auto=webp&s=f1610164bfd35aa863fcab80a54573a5fc693abb']
+2025-02-21 18:18:32,637 - INFO - Video Path: 
+2025-02-21 18:18:32,912 - INFO - Downloaded media from https://preview.redd.it/6z5jzyymrike1.png?width=3503&format=png&auto=webp&s=4a970e7244ecc025648de29c9e7bbfe6b12573be to temp_image.jpg
+2025-02-21 18:18:34,172 - INFO - Downloaded media from https://preview.redd.it/o36zk1musike1.png?width=2496&format=png&auto=webp&s=f1610164bfd35aa863fcab80a54573a5fc693abb to temp_image.jpg
+2025-02-21 18:18:36,734 - INFO - Posted content successfully. Tweet ID: 1893002391940735311
