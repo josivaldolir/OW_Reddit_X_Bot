@@ -1374,3 +1374,22 @@ Too Many Requests
 2025-02-21 21:11:53,536 - INFO - Downloaded media from https://preview.redd.it/nhs6oafiijke1.jpeg?auto=webp&s=6d849f5807ac108810330fac98d9223e1acdd90c to temp_image.jpg
 2025-02-21 21:11:54,595 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-02-21 21:35:40,831 - INFO - Content: This and the other "Behind The Scenes" videos from the devs really show how much care and love that go into making the game. They didn't need to go to Peru, but they did because they want Runasapi to have culturally authentic sounds.
+From the video's description:
+
+"In the spring of 2024, Paul Lackey and I had the opportunity to travel to Peru to record sounds for the then-upcoming Peru map for Overwatch 2. The opportunity to travel for sound recording on behalf of Blizzard is rare, and not one we took for granted. For context, when sourcing sounds for a new map, we can usually find what we need through existing sound libraries or by contracting a sound recordist at the location we need. In this case, we didn't find enough relevant content in commercial sound libraries and it was more feasible to send Paul and I to Peru to record on location. We documented the trip ourselves, taking turns recording footage on our phones, and I edited this video to share our experience with the rest of the dev team.
+
+Paul and I spent ten days traveling through Cusco, Pisac, Ollantaytambo, and Choquequirao. We've probably never walked so much in our lives. The 4-day trek to Choquequirao and back was particularly grueling, as that trek is known to be one of the more challenging ones in Peru. We chose to visit Choquequirao over Machu Picchu because we needed to record nature sounds, and Machu Picchu is simply too crowded with tourists. Choquequirao, being so difficult to access, sees about 10-20 visitors a day, while Machu Picchu sees about 4,000 visitors a day. The trek was tough, but we had an amazing guide, Ricardo Marim with Quechuas Expeditions that made sure we had everything we needed along the way. 
+
+It's hard not to be moved by a place like this. The combination of being physically exhausted, being welcomed so warmly by the locals, and being surrounded by impossibly beautiful landscapes moved me to tears on a few occasions. When I look back at this footage I laugh at how barely articulate I am in the interview segments. It was all just so overwhelming. 
+
+I hope you get something out of this video. This experience inspired me to go out and record more and spend more time in nature in general."
+
+Some past BTS videos that I know:
+- The Animations of Juno: https://youtu.be/xrhlDrExje0?si=EIhBWlEJHCVYjWOQ
+- The Sound Design of Venture: https://youtu.be/0U6p6gXh0B0?si=C0tmnAXdhdugCDJf
+- The Sound Design of Illari: https://youtu.be/EuELDy4zayA?si=SpSdfXEH__xfwT5G
+2025-02-21 21:35:40,831 - INFO - Image Paths: ['https://external-preview.redd.it/dgTMO0aZElEmxyMGs_utQQ-i85pU3sfuzZ5PYU6yA-U.jpg?auto=webp&s=4247b1746dc37952ef2051b9f31cbbe5a4f718fa']
+2025-02-21 21:35:40,831 - INFO - Video Path: 
+2025-02-21 21:35:41,005 - INFO - Downloaded media from https://external-preview.redd.it/dgTMO0aZElEmxyMGs_utQQ-i85pU3sfuzZ5PYU6yA-U.jpg?auto=webp&s=4247b1746dc37952ef2051b9f31cbbe5a4f718fa to temp_image.jpg
+2025-02-21 21:35:41,948 - INFO - Posted content successfully. Tweet ID: 1893051996145623455
