@@ -1196,3 +1196,4 @@ Pretty impressive for an almost decade old game.
 2025-02-21 09:15:20,927 - INFO - Downloaded media from https://v.redd.it/z3418xpg4cke1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-02-21 09:15:24,414 - INFO - Combined video and audio into temp_combined.mp4
 2025-02-21 09:15:34,469 - INFO - Posted content successfully. Tweet ID: 1892865737775042907
+2025-02-21 09:36:51,058 - ERROR - Error in main loop: 'u'
