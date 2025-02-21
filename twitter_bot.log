@@ -1297,3 +1297,11 @@ Agree/disagree? Anything else extreme that l forgot?
 2025-02-21 16:41:15,438 - INFO - Video Path: 
 2025-02-21 16:41:15,891 - INFO - Downloaded media from https://preview.redd.it/rldfwqv2ogke1.jpeg?auto=webp&s=128640d5b004a0862a74df123d4887e2c629d87e to temp_image.jpg
 2025-02-21 16:41:17,891 - INFO - Posted content successfully. Tweet ID: 1892977905975595095
+2025-02-21 17:12:20,466 - INFO - Content: ana's self nano perk feels pretty good
+
+2025-02-21 17:12:20,466 - INFO - Image Paths: ['https://external-preview.redd.it/bHZvYTgzb3l4Z2tlMYX-Qt6nzdU0K_gBT_HalN0L4Jf6qBx_pEwM3uzjzr4e.png?format=pjpg&auto=webp&s=9cd37f226164bdefb3f5479f5bb6a168b30442ff']
+2025-02-21 17:12:20,466 - INFO - Video Path: https://v.redd.it/3vd9y2oyxgke1/DASH_1080.mp4?source=fallback
+2025-02-21 17:12:21,041 - INFO - Downloaded media from https://v.redd.it/3vd9y2oyxgke1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-02-21 17:12:21,484 - INFO - Downloaded media from https://v.redd.it/3vd9y2oyxgke1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-02-21 17:12:22,330 - INFO - Combined video and audio into temp_combined.mp4
+2025-02-21 17:12:28,470 - INFO - Posted content successfully. Tweet ID: 1892985753560379604
