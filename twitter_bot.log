@@ -1261,3 +1261,10 @@ Agree/disagree? Anything else extreme that l forgot?
 2025-02-21 14:11:57,476 - INFO - Video Path: 
 2025-02-21 14:11:57,820 - INFO - Downloaded media from https://external-preview.redd.it/WAkF7lRPAflQvx_xGjN9tJx2GMXBV9iqj9xxBcOImuI.jpg?auto=webp&s=842ff560156b8e521952f7b559c22e06233025e4 to temp_image.jpg
 2025-02-21 14:11:59,052 - INFO - Posted content successfully. Tweet ID: 1892940331294806220
+2025-02-21 14:38:17,978 - INFO - Content: Mei’s Rainy Day skin is the cutest skin they’ve ever released
+
+2025-02-21 14:38:17,978 - INFO - Image Paths: ['https://preview.redd.it/neg0artozhke1.png?width=1920&format=png&auto=webp&s=69f2e2503b3a6aa89ba23b48e8ccd2ca4ec067f7', 'https://preview.redd.it/a9g4qptozhke1.jpg?width=686&format=pjpg&auto=webp&s=1b020af7b625f2e720b0d10fdf00e8f9847cd47e']
+2025-02-21 14:38:17,978 - INFO - Video Path: 
+2025-02-21 14:38:18,119 - INFO - Downloaded media from https://preview.redd.it/neg0artozhke1.png?width=1920&format=png&auto=webp&s=69f2e2503b3a6aa89ba23b48e8ccd2ca4ec067f7 to temp_image.jpg
+2025-02-21 14:38:19,272 - INFO - Downloaded media from https://preview.redd.it/a9g4qptozhke1.jpg?width=686&format=pjpg&auto=webp&s=1b020af7b625f2e720b0d10fdf00e8f9847cd47e to temp_image.jpg
+2025-02-21 14:38:20,964 - INFO - Posted content successfully. Tweet ID: 1892946964037480599
