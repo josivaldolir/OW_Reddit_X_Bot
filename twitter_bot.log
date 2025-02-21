@@ -1284,3 +1284,10 @@ Agree/disagree? Anything else extreme that l forgot?
 2025-02-21 15:37:12,614 - INFO - Downloaded media from https://v.redd.it/sfj75lewshke1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-02-21 15:37:13,321 - INFO - Combined video and audio into temp_combined.mp4
 2025-02-21 15:37:17,897 - INFO - Posted content successfully. Tweet ID: 1892961801664409741
+2025-02-21 16:17:10,118 - INFO - Content: Chinese OW login screen code
+
+2025-02-21 16:17:10,118 - INFO - Image Paths: ['https://preview.redd.it/xpsd5i2deike1.png?width=1911&format=png&auto=webp&s=b3eb079a94f422a9fc672f622ba5ca6f7fd9787a', 'https://preview.redd.it/maoielpdeike1.png?width=826&format=png&auto=webp&s=8cca8553b345f321d2a04966cba504a444d153ea']
+2025-02-21 16:17:10,118 - INFO - Video Path: 
+2025-02-21 16:17:10,209 - INFO - Downloaded media from https://preview.redd.it/xpsd5i2deike1.png?width=1911&format=png&auto=webp&s=b3eb079a94f422a9fc672f622ba5ca6f7fd9787a to temp_image.jpg
+2025-02-21 16:17:11,103 - INFO - Downloaded media from https://preview.redd.it/maoielpdeike1.png?width=826&format=png&auto=webp&s=8cca8553b345f321d2a04966cba504a444d153ea to temp_image.jpg
+2025-02-21 16:17:12,804 - INFO - Posted content successfully. Tweet ID: 1892971843906371751
