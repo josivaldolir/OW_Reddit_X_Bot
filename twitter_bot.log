@@ -8,3 +8,11 @@ Rank D1-M4
 2025-02-22 12:53:53,387 - INFO - Downloaded media from https://v.redd.it/0eeyvsp6lnke1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-02-22 12:53:58,016 - INFO - Combined video and audio into temp_combined.mp4
 2025-02-22 12:54:17,088 - INFO - Posted content successfully. Tweet ID: 1893283165479084543
+2025-02-22 13:15:53,919 - INFO - Content: this perk alone is gonna make me a zen otp
+
+2025-02-22 13:15:53,919 - INFO - Image Paths: ['https://external-preview.redd.it/cXhrc3gyb25hb2tlMbPOknz7R8-tjq9gRR-miogimpG1CxqX-SPWsZWNTAgW.png?format=pjpg&auto=webp&s=04bf70491a87e5544c13fee89c9bfef32057523d']
+2025-02-22 13:15:53,920 - INFO - Video Path: https://v.redd.it/4vsvdfonaoke1/DASH_1080.mp4?source=fallback
+2025-02-22 13:15:54,605 - INFO - Downloaded media from https://v.redd.it/4vsvdfonaoke1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-02-22 13:15:55,083 - INFO - Downloaded media from https://v.redd.it/4vsvdfonaoke1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-02-22 13:15:55,829 - INFO - Combined video and audio into temp_combined.mp4
+2025-02-22 13:16:01,586 - INFO - Posted content successfully. Tweet ID: 1893288637288133006
