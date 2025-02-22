@@ -1418,3 +1418,6 @@ Blizzard removed the loot boxes from Overwatch 2 during its release in October 2
 2025-02-21 23:35:27,225 - INFO - Video Path: 
 2025-02-21 23:35:27,379 - INFO - Downloaded media from https://preview.redd.it/l6x2nvwv6jke1.png?auto=webp&s=e6d59dd170f1c2ebf8ee4cb3edb30ef715088321 to temp_image.jpg
 2025-02-21 23:35:28,796 - INFO - Posted content successfully. Tweet ID: 1893082139455037543
+2025-02-22 01:02:11,281 - WARNING - Retrying due to 500 status: GET https://oauth.reddit.com/r/Overwatch_Memes/hot
+2025-02-22 01:02:11,745 - WARNING - Retrying due to 500 status: GET https://oauth.reddit.com/r/Overwatch_Memes/hot
+2025-02-22 01:02:14,927 - ERROR - Error in main loop: received 500 HTTP response
