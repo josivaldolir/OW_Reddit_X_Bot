@@ -1467,3 +1467,11 @@ Is it just me, or is his double shot volley horrible? It does not do near enough
 2025-02-22 06:18:22,845 - INFO - Video Path: 
 2025-02-22 06:18:23,271 - INFO - Downloaded media from https://preview.redd.it/dr7wp0xtqmke1.png?auto=webp&s=09a4614db00c5aeff645667f81f702bef5d32323 to temp_image.jpg
 2025-02-22 06:18:26,407 - INFO - Posted content successfully. Tweet ID: 1893183540650504688
+2025-02-22 06:44:01,386 - INFO - Content: All I want is a croissant souvenir
+I dont want skins, new maps or heroes. I want a croissant souvenir. Who asked for cardamom buns?!
+2025-02-22 06:44:01,386 - INFO - Image Paths: ['https://external-preview.redd.it/YW9qZXZzaWV5a2tlMdkYl4tg_b0iOBDb6OVYQFqR40_A-iibiyksGUwxdfP-.png?format=pjpg&auto=webp&s=bd6e36a4b3bae0e95e3e83e4577ce36765a88e46']
+2025-02-22 06:44:01,386 - INFO - Video Path: https://v.redd.it/j19flkmeykke1/DASH_1080.mp4?source=fallback
+2025-02-22 06:44:02,244 - INFO - Downloaded media from https://v.redd.it/j19flkmeykke1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-02-22 06:44:02,378 - INFO - Downloaded media from https://v.redd.it/j19flkmeykke1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-02-22 06:44:02,740 - INFO - Combined video and audio into temp_combined.mp4
+2025-02-22 06:44:18,736 - INFO - Posted content successfully. Tweet ID: 1893190059148615977
