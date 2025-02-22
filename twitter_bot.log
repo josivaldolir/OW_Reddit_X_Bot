@@ -1538,3 +1538,11 @@ my art style fluctuates so much sigh 😔
 2025-02-22 11:10:23,320 - INFO - Downloaded media from https://preview.redd.it/7sua0hjjhmke1.jpg?width=937&format=pjpg&auto=webp&s=b80bf7bb05f7dccf575a7cf234c2fc76cd3dd4cb to temp_image.jpg
 2025-02-22 11:10:24,009 - INFO - Downloaded media from https://preview.redd.it/mcwezgjjhmke1.jpg?width=797&format=pjpg&auto=webp&s=a446a792b76b0dd31588f57bbab15bb8fec7f821 to temp_image.jpg
 2025-02-22 11:10:25,097 - INFO - Posted content successfully. Tweet ID: 1893257026681053201
+2025-02-22 11:35:53,827 - INFO - Content: Mwahhhhhh🫶🏽🩷
+
+2025-02-22 11:35:53,827 - INFO - Image Paths: ['https://external-preview.redd.it/aXA0Y2Z5bWc2b2tlMdDCI7n2SnCabyl4FTOAnfEEgN2IuvvkXwdUDcZKt65g.png?format=pjpg&auto=webp&s=a221c075c3e5a5d5d6c0eda268fea0541529ef69']
+2025-02-22 11:35:53,827 - INFO - Video Path: https://v.redd.it/fg9gv4xg6oke1/DASH_720.mp4?source=fallback
+2025-02-22 11:35:54,199 - INFO - Downloaded media from https://v.redd.it/fg9gv4xg6oke1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-02-22 11:35:54,248 - INFO - Downloaded media from https://v.redd.it/fg9gv4xg6oke1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-02-22 11:35:54,835 - INFO - Combined video and audio into temp_combined.mp4
+2025-02-22 11:36:00,433 - INFO - Posted content successfully. Tweet ID: 1893263466682818750
