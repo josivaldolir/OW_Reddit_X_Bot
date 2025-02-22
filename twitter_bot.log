@@ -1496,3 +1496,10 @@ Pretty smart design from the developers. The attackers have the chunkier part fo
 2025-02-22 08:38:36,406 - INFO - Video Path: 
 2025-02-22 08:38:36,611 - INFO - Downloaded media from https://preview.redd.it/tpyocdswnlke1.jpeg?auto=webp&s=1649ae83b3672f6ff47e286e070068a58dc284df to temp_image.jpg
 2025-02-22 08:38:37,732 - INFO - Posted content successfully. Tweet ID: 1893218827535597747
+2025-02-22 09:13:53,887 - INFO - Content: Why do lootbox details show these skins in particular? Do they have an increased chance or something? I got a cyber fiend widow from a lootbox, which is why I'm asking.
+
+2025-02-22 09:13:53,887 - INFO - Image Paths: ['https://preview.redd.it/q81ty8v1tkke1.png?width=1080&format=png&auto=webp&s=b5735049872d467b5bd78498f56b7cd688efdd5e', 'https://preview.redd.it/jv07a7c4tkke1.png?width=1080&format=png&auto=webp&s=fe12dff7ec547438324c657d192788eacc392aee']
+2025-02-22 09:13:53,887 - INFO - Video Path: 
+2025-02-22 09:13:53,955 - INFO - Downloaded media from https://preview.redd.it/q81ty8v1tkke1.png?width=1080&format=png&auto=webp&s=b5735049872d467b5bd78498f56b7cd688efdd5e to temp_image.jpg
+2025-02-22 09:13:54,586 - INFO - Downloaded media from https://preview.redd.it/jv07a7c4tkke1.png?width=1080&format=png&auto=webp&s=fe12dff7ec547438324c657d192788eacc392aee to temp_image.jpg
+2025-02-22 09:13:55,886 - INFO - Posted content successfully. Tweet ID: 1893227711335932209
