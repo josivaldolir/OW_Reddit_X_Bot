@@ -120,3 +120,9 @@ Too Many Requests
 2025-02-22 20:35:49,285 - INFO - Downloaded media from https://preview.redd.it/9iieonrb0rke1.jpeg?auto=webp&s=fd7ffdac5be896d670bb027a8ad211d4ceba5a0a to temp_image.jpg
 2025-02-22 20:35:51,027 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-02-22 21:12:56,228 - INFO - Content: Mom, I'm scared 💀
+
+2025-02-22 21:12:56,228 - INFO - Image Paths: ['https://preview.redd.it/9iieonrb0rke1.jpeg?auto=webp&s=fd7ffdac5be896d670bb027a8ad211d4ceba5a0a']
+2025-02-22 21:12:56,228 - INFO - Video Path: 
+2025-02-22 21:12:56,707 - INFO - Downloaded media from https://preview.redd.it/9iieonrb0rke1.jpeg?auto=webp&s=fd7ffdac5be896d670bb027a8ad211d4ceba5a0a to temp_image.jpg
+2025-02-22 21:12:58,564 - INFO - Posted content successfully. Tweet ID: 1893408664515396080
