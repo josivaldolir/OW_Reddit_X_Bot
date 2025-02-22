@@ -113,3 +113,10 @@ This is certainly an interesting change that drastically effects the gameplay. H
 2025-02-22 20:13:32,778 - INFO - Video Path: 
 2025-02-22 20:13:33,112 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-02-22 20:35:49,104 - INFO - Content: Mom, I'm scared 💀
+
+2025-02-22 20:35:49,104 - INFO - Image Paths: ['https://preview.redd.it/9iieonrb0rke1.jpeg?auto=webp&s=fd7ffdac5be896d670bb027a8ad211d4ceba5a0a']
+2025-02-22 20:35:49,104 - INFO - Video Path: 
+2025-02-22 20:35:49,285 - INFO - Downloaded media from https://preview.redd.it/9iieonrb0rke1.jpeg?auto=webp&s=fd7ffdac5be896d670bb027a8ad211d4ceba5a0a to temp_image.jpg
+2025-02-22 20:35:51,027 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
