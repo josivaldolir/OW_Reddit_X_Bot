@@ -126,3 +126,9 @@ Too Many Requests
 2025-02-22 21:12:56,228 - INFO - Video Path: 
 2025-02-22 21:12:56,707 - INFO - Downloaded media from https://preview.redd.it/9iieonrb0rke1.jpeg?auto=webp&s=fd7ffdac5be896d670bb027a8ad211d4ceba5a0a to temp_image.jpg
 2025-02-22 21:12:58,564 - INFO - Posted content successfully. Tweet ID: 1893408664515396080
+2025-02-22 21:36:25,357 - INFO - Content: Now we can't tell which one has more viewers we can finally touch grass
+
+2025-02-22 21:36:25,357 - INFO - Image Paths: ['https://preview.redd.it/fuqv7p9jdrke1.jpeg?auto=webp&s=402d98017b307c6fdde837e350528978724b704c']
+2025-02-22 21:36:25,357 - INFO - Video Path: 
+2025-02-22 21:36:25,431 - INFO - Downloaded media from https://preview.redd.it/fuqv7p9jdrke1.jpeg?auto=webp&s=402d98017b307c6fdde837e350528978724b704c to temp_image.jpg
+2025-02-22 21:36:26,569 - INFO - Posted content successfully. Tweet ID: 1893414571156873454
