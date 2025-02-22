@@ -1447,3 +1447,11 @@ Spent a couple of hours making it in Blender. Just wanted to make him happy with
 2025-02-22 04:40:44,967 - INFO - Video Path: 
 2025-02-22 04:40:45,065 - INFO - Downloaded media from https://preview.redd.it/p3k55aqakkke1.jpeg?auto=webp&s=7512cd51e94e336bdd15e354dc30bf2fcad45d63 to temp_image.jpg
 2025-02-22 04:40:47,029 - INFO - Posted content successfully. Tweet ID: 1893158971705569341
+2025-02-22 05:13:22,410 - INFO - Content: This Pharah skin makes galactic look so much better
+
+2025-02-22 05:13:22,410 - INFO - Image Paths: ['https://external-preview.redd.it/bnFpZGNrbGF5bGtlMc4WiHtR2Nq-Dgh2SUa7m8ORKkUkZeARAxZPyXe65kQO.png?format=pjpg&auto=webp&s=8fb1873f219c5c62c6b87534abbb7c496cda40cd']
+2025-02-22 05:13:22,410 - INFO - Video Path: https://v.redd.it/w6qjreraylke1/DASH_720.mp4?source=fallback
+2025-02-22 05:13:22,561 - INFO - Downloaded media from https://v.redd.it/w6qjreraylke1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-02-22 05:13:22,577 - INFO - Downloaded media from https://v.redd.it/w6qjreraylke1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-02-22 05:13:26,529 - INFO - Combined video and audio into temp_combined.mp4
+2025-02-22 05:13:32,511 - INFO - Posted content successfully. Tweet ID: 1893167215954010475
