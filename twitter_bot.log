@@ -153,3 +153,10 @@ This is certainly an interesting change that drastically effects the gameplay. H
 2025-02-22 23:13:51,942 - INFO - Image Paths: []
 2025-02-22 23:13:51,942 - INFO - Video Path: 
 2025-02-22 23:13:52,286 - INFO - Posted content successfully. Tweet ID: 1893439090135056429
+2025-02-22 23:35:24,671 - INFO - Content: What obvious detail did you miss?
+I never realized one of the Antartica Peninsula maps is a wrecked ship until I looked over the side. I just assumed it was some generic science lab. 
+2025-02-22 23:35:24,671 - INFO - Image Paths: ['https://preview.redd.it/bkbu7ni8qrke1.jpeg?auto=webp&s=750ae8e772c9f67d08a0f1634f9a6ffd32ce1e01']
+2025-02-22 23:35:24,671 - INFO - Video Path: 
+2025-02-22 23:35:25,073 - INFO - Downloaded media from https://preview.redd.it/bkbu7ni8qrke1.jpeg?auto=webp&s=750ae8e772c9f67d08a0f1634f9a6ffd32ce1e01 to temp_image.jpg
+2025-02-22 23:35:26,080 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
