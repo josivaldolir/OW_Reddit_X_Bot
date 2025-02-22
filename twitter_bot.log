@@ -35,3 +35,11 @@ Yeah. It's been fun. Some of these perks need to be changed but it's mostly been
 2025-02-22 15:13:21,017 - INFO - Image Paths: []
 2025-02-22 15:13:21,017 - INFO - Video Path: 
 2025-02-22 15:13:21,508 - INFO - Posted content successfully. Tweet ID: 1893318164986941624
+2025-02-22 15:35:51,801 - INFO - Content: This isn't a potg, it's a showcase of my wonky aim
+
+2025-02-22 15:35:51,801 - INFO - Image Paths: ['https://external-preview.redd.it/NjVvN29nbGw2cGtlMRrGNl0ecp9KRA0Xk2R9ebtPbtOZdRt7slJJmolmwM0Q.png?format=pjpg&auto=webp&s=a2e06f308cd5b5e901a24d80f74aaab852b5ce6e']
+2025-02-22 15:35:51,801 - INFO - Video Path: https://v.redd.it/siuopkil6pke1/DASH_1080.mp4?source=fallback
+2025-02-22 15:35:52,833 - INFO - Downloaded media from https://v.redd.it/siuopkil6pke1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-02-22 15:35:53,218 - INFO - Downloaded media from https://v.redd.it/siuopkil6pke1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-02-22 15:35:57,530 - INFO - Combined video and audio into temp_combined.mp4
+2025-02-22 15:36:06,549 - INFO - Posted content successfully. Tweet ID: 1893323890031485010
