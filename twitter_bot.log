@@ -182,3 +182,9 @@ Too Many Requests
 2025-02-23 03:21:12,800 - INFO - Downloaded media from https://v.redd.it/4jslq3y78ske1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-02-23 03:21:16,274 - INFO - Combined video and audio into temp_combined.mp4
 2025-02-23 03:21:22,041 - INFO - Posted content successfully. Tweet ID: 1893501374027178194
+2025-02-23 03:41:10,907 - INFO - Content: Winton Overwat
+
+2025-02-23 03:41:10,907 - INFO - Image Paths: ['https://preview.redd.it/ek3tqja10tke1.jpeg?auto=webp&s=d49e5d1cc63aa0c563b6f500f45b08db3fbdcbff']
+2025-02-23 03:41:10,907 - INFO - Video Path: 
+2025-02-23 03:41:11,154 - INFO - Downloaded media from https://preview.redd.it/ek3tqja10tke1.jpeg?auto=webp&s=d49e5d1cc63aa0c563b6f500f45b08db3fbdcbff to temp_image.jpg
+2025-02-23 03:41:12,615 - INFO - Posted content successfully. Tweet ID: 1893506367744360934
