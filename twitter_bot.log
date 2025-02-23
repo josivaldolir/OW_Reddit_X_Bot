@@ -278,3 +278,12 @@ overwatch is such a fun game to play, but man are overwatch players such asshole
 2025-02-23 10:14:26,645 - INFO - Downloaded media from https://v.redd.it/7dmtmmsnirke1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-02-23 10:14:27,891 - INFO - Combined video and audio into temp_combined.mp4
 2025-02-23 10:14:36,881 - INFO - Posted content successfully. Tweet ID: 1893605371349987680
+2025-02-23 10:38:18,265 - INFO - Content: I always want to impress my Ana
+I **WILL** make good use of your Nano! 
+2025-02-23 10:38:18,265 - INFO - Image Paths: ['https://preview.redd.it/zsh2ets5aske1.png?width=2048&format=png&auto=webp&s=7912d6a11e00e64af6f9a391d62969385bb2593e', 'https://preview.redd.it/6r4kdqw5aske1.png?width=2048&format=png&auto=webp&s=e42bdfce5714a5c229e486fba89f33f04436ea77', 'https://preview.redd.it/x78m8fz5aske1.png?width=2048&format=png&auto=webp&s=c58a1e10e16d6c416ef677121f6d6fde33df1a2f', 'https://preview.redd.it/v3j2qs26aske1.png?width=600&format=png&auto=webp&s=f868c6e8166c6a69412732ee8e68c1bcea36bb42']
+2025-02-23 10:38:18,265 - INFO - Video Path: 
+2025-02-23 10:38:18,580 - INFO - Downloaded media from https://preview.redd.it/zsh2ets5aske1.png?width=2048&format=png&auto=webp&s=7912d6a11e00e64af6f9a391d62969385bb2593e to temp_image.jpg
+2025-02-23 10:38:19,411 - INFO - Downloaded media from https://preview.redd.it/6r4kdqw5aske1.png?width=2048&format=png&auto=webp&s=e42bdfce5714a5c229e486fba89f33f04436ea77 to temp_image.jpg
+2025-02-23 10:38:20,157 - INFO - Downloaded media from https://preview.redd.it/x78m8fz5aske1.png?width=2048&format=png&auto=webp&s=c58a1e10e16d6c416ef677121f6d6fde33df1a2f to temp_image.jpg
+2025-02-23 10:38:20,982 - INFO - Downloaded media from https://preview.redd.it/v3j2qs26aske1.png?width=600&format=png&auto=webp&s=f868c6e8166c6a69412732ee8e68c1bcea36bb42 to temp_image.jpg
+2025-02-23 10:38:22,830 - INFO - Posted content successfully. Tweet ID: 1893611348132569162
