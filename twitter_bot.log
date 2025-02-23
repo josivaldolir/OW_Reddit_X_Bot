@@ -224,3 +224,9 @@ Why do people still not know to kill them.
 2025-02-23 06:18:05,657 - INFO - Image Paths: []
 2025-02-23 06:18:05,657 - INFO - Video Path: 
 2025-02-23 06:18:05,990 - INFO - Posted content successfully. Tweet ID: 1893545850703618383
+2025-02-23 06:41:19,520 - INFO - Content: I mean I can't blame him
+
+2025-02-23 06:41:19,520 - INFO - Image Paths: ['https://preview.redd.it/z0zkmyyzxtke1.png?auto=webp&s=65b8bcb7b6f972351f8d49fa72f946a2b52b68b9']
+2025-02-23 06:41:19,520 - INFO - Video Path: 
+2025-02-23 06:41:19,749 - INFO - Downloaded media from https://preview.redd.it/z0zkmyyzxtke1.png?auto=webp&s=65b8bcb7b6f972351f8d49fa72f946a2b52b68b9 to temp_image.jpg
+2025-02-23 06:41:21,532 - INFO - Posted content successfully. Tweet ID: 1893551702537839100
