@@ -306,3 +306,9 @@ thank you blizzard
 2025-02-23 13:16:41,924 - INFO - Downloaded media from https://v.redd.it/n13b0mi8ltke1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-02-23 13:16:43,908 - INFO - Combined video and audio into temp_combined.mp4
 2025-02-23 13:16:51,528 - INFO - Posted content successfully. Tweet ID: 1893651234705564103
+2025-02-23 13:34:35,330 - INFO - Content: Who gonna tell him
+
+2025-02-23 13:34:35,330 - INFO - Image Paths: ['https://preview.redd.it/830nuqgs3wke1.jpeg?auto=webp&s=389e7a2b3215e342a69874981b034cf61a61ac49']
+2025-02-23 13:34:35,330 - INFO - Video Path: 
+2025-02-23 13:34:35,628 - INFO - Downloaded media from https://preview.redd.it/830nuqgs3wke1.jpeg?auto=webp&s=389e7a2b3215e342a69874981b034cf61a61ac49 to temp_image.jpg
+2025-02-23 13:34:37,803 - INFO - Posted content successfully. Tweet ID: 1893655706165023130
