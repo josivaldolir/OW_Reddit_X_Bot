@@ -188,3 +188,9 @@ Too Many Requests
 2025-02-23 03:41:10,907 - INFO - Video Path: 
 2025-02-23 03:41:11,154 - INFO - Downloaded media from https://preview.redd.it/ek3tqja10tke1.jpeg?auto=webp&s=d49e5d1cc63aa0c563b6f500f45b08db3fbdcbff to temp_image.jpg
 2025-02-23 03:41:12,615 - INFO - Posted content successfully. Tweet ID: 1893506367744360934
+2025-02-23 04:15:42,778 - INFO - Content: What obvious detail did you miss?
+I never realized one of the Antartica Peninsula maps is a wrecked ship until I looked over the side. I just assumed it was some generic science lab. 
+2025-02-23 04:15:42,778 - INFO - Image Paths: ['https://preview.redd.it/bkbu7ni8qrke1.jpeg?auto=webp&s=750ae8e772c9f67d08a0f1634f9a6ffd32ce1e01']
+2025-02-23 04:15:42,778 - INFO - Video Path: 
+2025-02-23 04:15:42,870 - INFO - Downloaded media from https://preview.redd.it/bkbu7ni8qrke1.jpeg?auto=webp&s=750ae8e772c9f67d08a0f1634f9a6ffd32ce1e01 to temp_image.jpg
+2025-02-23 04:15:45,324 - INFO - Posted content successfully. Tweet ID: 1893515060250845382
