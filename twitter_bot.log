@@ -270,3 +270,11 @@ overwatch is such a fun game to play, but man are overwatch players such asshole
 2025-02-23 09:37:33,207 - INFO - Downloaded media from https://preview.redd.it/som14ycmruke1.jpg?width=4018&format=pjpg&auto=webp&s=92db8d06df50ce43985d6bae5143e6c665c4b5b9 to temp_image.jpg
 2025-02-23 09:37:35,431 - INFO - Downloaded media from https://preview.redd.it/ja7tljcmruke1.jpg?width=4032&format=pjpg&auto=webp&s=1c36b813fae88ecc65325fdec97786e877df2827 to temp_image.jpg
 2025-02-23 09:37:38,347 - INFO - Posted content successfully. Tweet ID: 1893596063900282918
+2025-02-23 10:14:25,964 - INFO - Content: Found a rather interesting glitch with Brigitte's shield. Seems to shift colors depending on where you go (in practice range, at least. Haven't tested if it's like that in a match).
+
+2025-02-23 10:14:25,964 - INFO - Image Paths: ['https://external-preview.redd.it/ZmZpMDluc25pcmtlMTTgMtG1wrsAgZAAs_JUXrJH5Fxi5dNeRB3hjUC9aw_X.png?format=pjpg&auto=webp&s=62e86f78a8f880528c2545593b6a19986cfdc856']
+2025-02-23 10:14:25,964 - INFO - Video Path: https://v.redd.it/7dmtmmsnirke1/DASH_720.mp4?source=fallback
+2025-02-23 10:14:26,406 - INFO - Downloaded media from https://v.redd.it/7dmtmmsnirke1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-02-23 10:14:26,645 - INFO - Downloaded media from https://v.redd.it/7dmtmmsnirke1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-02-23 10:14:27,891 - INFO - Combined video and audio into temp_combined.mp4
+2025-02-23 10:14:36,881 - INFO - Posted content successfully. Tweet ID: 1893605371349987680
