@@ -409,3 +409,11 @@ I hope they add some special rules for mystery heroes that makes perks part of t
 2025-02-23 19:36:03,185 - INFO - Combined video and audio into temp_combined.mp4
 2025-02-23 19:36:13,601 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-02-23 20:14:21,267 - INFO - Content: This happened like 5 times
+
+2025-02-23 20:14:21,267 - INFO - Image Paths: ['https://external-preview.redd.it/aDNsZ2ZmcnhpeGtlMTbtI9hCMylQNVnRdBUcZ8A9gSCXii33xJqJB-oRo5kN.png?format=pjpg&auto=webp&s=87c0255ecd7e2deaa73541107b51ca381a6962b6']
+2025-02-23 20:14:21,267 - INFO - Video Path: https://v.redd.it/nyq340uxixke1/DASH_720.mp4?source=fallback
+2025-02-23 20:14:21,885 - INFO - Downloaded media from https://v.redd.it/nyq340uxixke1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-02-23 20:14:22,092 - INFO - Downloaded media from https://v.redd.it/nyq340uxixke1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-02-23 20:14:23,669 - INFO - Combined video and audio into temp_combined.mp4
+2025-02-23 20:14:32,832 - INFO - Posted content successfully. Tweet ID: 1893756349386805305
