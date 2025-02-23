@@ -174,3 +174,11 @@ I never realized one of the Antartica Peninsula maps is a wrecked ship until I l
 2025-02-23 02:39:05,297 - INFO - Downloaded media from https://preview.redd.it/bkbu7ni8qrke1.jpeg?auto=webp&s=750ae8e772c9f67d08a0f1634f9a6ffd32ce1e01 to temp_image.jpg
 2025-02-23 02:39:06,353 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-02-23 03:21:12,368 - INFO - Content: Season 15 Torbjorn be like (Animation by Eltorro64Rus)
+
+2025-02-23 03:21:12,368 - INFO - Image Paths: ['https://external-preview.redd.it/YTcybDBidjc4c2tlMeu0T9f8rSkC00Q8nNvhu5dhvjH91k2KpGFZVVIff_JM.png?format=pjpg&auto=webp&s=51e81c50feb2c4905e3f8277f1a389db48593ba1']
+2025-02-23 03:21:12,368 - INFO - Video Path: https://v.redd.it/4jslq3y78ske1/DASH_720.mp4?source=fallback
+2025-02-23 03:21:12,707 - INFO - Downloaded media from https://v.redd.it/4jslq3y78ske1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-02-23 03:21:12,800 - INFO - Downloaded media from https://v.redd.it/4jslq3y78ske1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-02-23 03:21:16,274 - INFO - Combined video and audio into temp_combined.mp4
+2025-02-23 03:21:22,041 - INFO - Posted content successfully. Tweet ID: 1893501374027178194
