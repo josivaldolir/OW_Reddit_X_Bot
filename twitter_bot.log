@@ -262,3 +262,11 @@ overwatch is such a fun game to play, but man are overwatch players such asshole
 2025-02-23 09:13:35,887 - INFO - Downloaded media from https://v.redd.it/znwtkpiq0uke1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-02-23 09:13:36,936 - INFO - Combined video and audio into temp_combined.mp4
 2025-02-23 09:13:45,066 - INFO - Posted content successfully. Tweet ID: 1893590054351868082
+2025-02-23 09:37:31,269 - INFO - Content: Rate my setup
+
+2025-02-23 09:37:31,269 - INFO - Image Paths: ['https://preview.redd.it/xeg8qubmruke1.jpg?width=3024&format=pjpg&auto=webp&s=4763e0950741019ce5b635b916f77e7789aa4f12', 'https://preview.redd.it/som14ycmruke1.jpg?width=4018&format=pjpg&auto=webp&s=92db8d06df50ce43985d6bae5143e6c665c4b5b9', 'https://preview.redd.it/ja7tljcmruke1.jpg?width=4032&format=pjpg&auto=webp&s=1c36b813fae88ecc65325fdec97786e877df2827']
+2025-02-23 09:37:31,269 - INFO - Video Path: 
+2025-02-23 09:37:31,415 - INFO - Downloaded media from https://preview.redd.it/xeg8qubmruke1.jpg?width=3024&format=pjpg&auto=webp&s=4763e0950741019ce5b635b916f77e7789aa4f12 to temp_image.jpg
+2025-02-23 09:37:33,207 - INFO - Downloaded media from https://preview.redd.it/som14ycmruke1.jpg?width=4018&format=pjpg&auto=webp&s=92db8d06df50ce43985d6bae5143e6c665c4b5b9 to temp_image.jpg
+2025-02-23 09:37:35,431 - INFO - Downloaded media from https://preview.redd.it/ja7tljcmruke1.jpg?width=4032&format=pjpg&auto=webp&s=1c36b813fae88ecc65325fdec97786e877df2827 to temp_image.jpg
+2025-02-23 09:37:38,347 - INFO - Posted content successfully. Tweet ID: 1893596063900282918
