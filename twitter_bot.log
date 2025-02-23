@@ -437,3 +437,10 @@ https://preview.redd.it/9srigrq9kxke1.png?width=2508&format=png&auto=webp&s=ed4c
 2025-02-23 22:13:03,189 - INFO - Downloaded media from https://preview.redd.it/510aoe15kyke1.png?auto=webp&s=1f89f05edacce58d6c0be1f9ca1c83dfe196328a to temp_image.jpg
 2025-02-23 22:13:04,064 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-02-23 22:37:08,784 - INFO - Content: Every. Single. Match.
+
+2025-02-23 22:37:08,785 - INFO - Image Paths: ['https://preview.redd.it/510aoe15kyke1.png?auto=webp&s=1f89f05edacce58d6c0be1f9ca1c83dfe196328a']
+2025-02-23 22:37:08,785 - INFO - Video Path: 
+2025-02-23 22:37:09,000 - INFO - Downloaded media from https://preview.redd.it/510aoe15kyke1.png?auto=webp&s=1f89f05edacce58d6c0be1f9ca1c83dfe196328a to temp_image.jpg
+2025-02-23 22:37:10,228 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
