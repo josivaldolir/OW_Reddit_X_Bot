@@ -666,3 +666,9 @@ Your media IDs are invalid.
 2025-02-24 13:00:57,110 - INFO - Combined video and audio into temp_combined.mp4
 2025-02-24 13:01:36,124 - ERROR - Failed to post content: 400 Bad Request
 Your media IDs are invalid.
+2025-02-24 13:30:36,098 - INFO - Content: Just one more day, then I can gamble again.
+
+2025-02-24 13:30:36,098 - INFO - Image Paths: ['https://preview.redd.it/hjkuwoce43le1.gif?format=png8&s=0b702b955a3191db02e0829c32d68d339decb069']
+2025-02-24 13:30:36,099 - INFO - Video Path: 
+2025-02-24 13:30:36,125 - INFO - Downloaded media from https://preview.redd.it/hjkuwoce43le1.gif?format=png8&s=0b702b955a3191db02e0829c32d68d339decb069 to temp_image.jpg
+2025-02-24 13:30:37,550 - INFO - Posted content successfully. Tweet ID: 1894017085929607324
