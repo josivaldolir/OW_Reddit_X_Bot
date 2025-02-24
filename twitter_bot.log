@@ -717,3 +717,9 @@ Too Many Requests
 2025-02-24 16:18:31,105 - INFO - Video Path: 
 2025-02-24 16:18:31,419 - INFO - Downloaded media from https://preview.redd.it/fisxteaoo3le1.jpeg?auto=webp&s=51b83394cb5476cb7c87446c53ac5d1d835add10 to temp_image.jpg
 2025-02-24 16:18:33,530 - INFO - Posted content successfully. Tweet ID: 1894059347904499874
+2025-02-24 16:45:16,701 - INFO - Content: Was going into the training mode and my game froze
+
+2025-02-24 16:45:16,701 - INFO - Image Paths: ['https://preview.redd.it/v2d93uj3i3le1.jpeg?auto=webp&s=501bf47d4c7b5ea0e9aac5cceca4114f25169371']
+2025-02-24 16:45:16,701 - INFO - Video Path: 
+2025-02-24 16:45:16,806 - INFO - Downloaded media from https://preview.redd.it/v2d93uj3i3le1.jpeg?auto=webp&s=501bf47d4c7b5ea0e9aac5cceca4114f25169371 to temp_image.jpg
+2025-02-24 16:45:18,614 - INFO - Posted content successfully. Tweet ID: 1894066079636623661
