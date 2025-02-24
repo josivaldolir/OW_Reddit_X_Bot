@@ -723,3 +723,10 @@ Too Many Requests
 2025-02-24 16:45:16,701 - INFO - Video Path: 
 2025-02-24 16:45:16,806 - INFO - Downloaded media from https://preview.redd.it/v2d93uj3i3le1.jpeg?auto=webp&s=501bf47d4c7b5ea0e9aac5cceca4114f25169371 to temp_image.jpg
 2025-02-24 16:45:18,614 - INFO - Posted content successfully. Tweet ID: 1894066079636623661
+2025-02-24 17:12:53,716 - INFO - Content: Based on the interaction
+
+2025-02-24 17:12:53,716 - INFO - Image Paths: ['https://preview.redd.it/g25kf7jab4le1.png?auto=webp&s=a6baea79c6fb65175765fd6e787e4753db9f4010']
+2025-02-24 17:12:53,716 - INFO - Video Path: 
+2025-02-24 17:12:54,079 - INFO - Downloaded media from https://preview.redd.it/g25kf7jab4le1.png?auto=webp&s=a6baea79c6fb65175765fd6e787e4753db9f4010 to temp_image.jpg
+2025-02-24 17:12:55,439 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
