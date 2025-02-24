@@ -704,3 +704,10 @@ Too Many Requests
 2025-02-24 15:16:04,449 - INFO - Downloaded media from https://preview.redd.it/v2d93uj3i3le1.jpeg?auto=webp&s=501bf47d4c7b5ea0e9aac5cceca4114f25169371 to temp_image.jpg
 2025-02-24 15:16:05,739 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-02-24 15:39:19,388 - INFO - Content: Was going into the training mode and my game froze
+
+2025-02-24 15:39:19,388 - INFO - Image Paths: ['https://preview.redd.it/v2d93uj3i3le1.jpeg?auto=webp&s=501bf47d4c7b5ea0e9aac5cceca4114f25169371']
+2025-02-24 15:39:19,388 - INFO - Video Path: 
+2025-02-24 15:39:19,700 - INFO - Downloaded media from https://preview.redd.it/v2d93uj3i3le1.jpeg?auto=webp&s=501bf47d4c7b5ea0e9aac5cceca4114f25169371 to temp_image.jpg
+2025-02-24 15:39:21,461 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
