@@ -536,3 +536,12 @@ Your media IDs are invalid.
 2025-02-24 05:38:15,204 - INFO - Combined video and audio into temp_combined.mp4
 2025-02-24 05:38:46,425 - ERROR - Failed to post content: 400 Bad Request
 Your media IDs are invalid.
+2025-02-24 06:22:13,434 - INFO - Content: Is this allowed? I got reported by 5 ppl for stalling a point:
+
+2025-02-24 06:22:13,434 - INFO - Image Paths: ['https://external-preview.redd.it/NHU4dnVkbXdrMGxlMfLVNl4d8lalNTuiuAVdNge1lbmX4GCKnYmG2j2dJVUd.png?format=pjpg&auto=webp&s=647fde1217eeaba9885d6b503b0a4cd562317cdd']
+2025-02-24 06:22:13,434 - INFO - Video Path: https://v.redd.it/msdk2emwk0le1/DASH_1080.mp4?source=fallback
+2025-02-24 06:22:14,865 - INFO - Downloaded media from https://v.redd.it/msdk2emwk0le1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-02-24 06:22:16,249 - INFO - Downloaded media from https://v.redd.it/msdk2emwk0le1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-02-24 06:22:23,018 - INFO - Combined video and audio into temp_combined.mp4
+2025-02-24 06:23:04,057 - ERROR - Failed to post content: 400 Bad Request
+Your media IDs are invalid.
