@@ -813,3 +813,9 @@ Too Many Requests
 2025-02-24 22:13:31,976 - INFO - Downloaded media from https://preview.redd.it/r21zlcys65le1.jpeg?auto=webp&s=ecf74cb63cb1dd902e681b17b08f7def734652c4 to temp_image.jpg
 2025-02-24 22:13:32,942 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-02-24 22:38:40,840 - INFO - Content: Nano kitty
+
+2025-02-24 22:38:40,841 - INFO - Image Paths: ['https://preview.redd.it/r21zlcys65le1.jpeg?auto=webp&s=ecf74cb63cb1dd902e681b17b08f7def734652c4']
+2025-02-24 22:38:40,841 - INFO - Video Path: 
+2025-02-24 22:38:40,904 - INFO - Downloaded media from https://preview.redd.it/r21zlcys65le1.jpeg?auto=webp&s=ecf74cb63cb1dd902e681b17b08f7def734652c4 to temp_image.jpg
+2025-02-24 22:38:42,232 - INFO - Posted content successfully. Tweet ID: 1894155014895276309
