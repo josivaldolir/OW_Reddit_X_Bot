@@ -799,3 +799,10 @@ Too Many Requests
 2025-02-24 21:13:07,553 - INFO - Combined video and audio into temp_combined.mp4
 2025-02-24 21:13:58,391 - ERROR - Failed to post content: 400 Bad Request
 Your media IDs are invalid.
+2025-02-24 21:36:36,492 - INFO - Content: Nano kitty
+
+2025-02-24 21:36:36,492 - INFO - Image Paths: ['https://preview.redd.it/r21zlcys65le1.jpeg?auto=webp&s=ecf74cb63cb1dd902e681b17b08f7def734652c4']
+2025-02-24 21:36:36,492 - INFO - Video Path: 
+2025-02-24 21:36:36,697 - INFO - Downloaded media from https://preview.redd.it/r21zlcys65le1.jpeg?auto=webp&s=ecf74cb63cb1dd902e681b17b08f7def734652c4 to temp_image.jpg
+2025-02-24 21:36:37,982 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
