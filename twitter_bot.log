@@ -527,3 +527,12 @@ She's so gamebreakingly overtuned it's not funny. This shit is not fun. It's jus
 2025-02-24 05:15:11,203 - INFO - Combined video and audio into temp_combined.mp4
 2025-02-24 05:16:06,455 - ERROR - Failed to post content: 400 Bad Request
 Your media IDs are invalid.
+2025-02-24 05:38:11,169 - INFO - Content: Is this allowed? I got reported by 5 ppl for stalling a point:
+
+2025-02-24 05:38:11,169 - INFO - Image Paths: ['https://external-preview.redd.it/NHU4dnVkbXdrMGxlMfLVNl4d8lalNTuiuAVdNge1lbmX4GCKnYmG2j2dJVUd.png?format=pjpg&auto=webp&s=647fde1217eeaba9885d6b503b0a4cd562317cdd']
+2025-02-24 05:38:11,169 - INFO - Video Path: https://v.redd.it/msdk2emwk0le1/DASH_1080.mp4?source=fallback
+2025-02-24 05:38:11,678 - INFO - Downloaded media from https://v.redd.it/msdk2emwk0le1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-02-24 05:38:12,024 - INFO - Downloaded media from https://v.redd.it/msdk2emwk0le1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-02-24 05:38:15,204 - INFO - Combined video and audio into temp_combined.mp4
+2025-02-24 05:38:46,425 - ERROR - Failed to post content: 400 Bad Request
+Your media IDs are invalid.
