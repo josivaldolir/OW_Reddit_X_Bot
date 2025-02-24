@@ -690,3 +690,10 @@ Your media IDs are invalid.
 2025-02-24 14:17:46,504 - INFO - Combined video and audio into temp_combined.mp4
 2025-02-24 14:18:29,123 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-02-24 14:40:13,649 - INFO - Content: Was going into the training mode and my game froze
+
+2025-02-24 14:40:13,649 - INFO - Image Paths: ['https://preview.redd.it/v2d93uj3i3le1.jpeg?auto=webp&s=501bf47d4c7b5ea0e9aac5cceca4114f25169371']
+2025-02-24 14:40:13,649 - INFO - Video Path: 
+2025-02-24 14:40:13,980 - INFO - Downloaded media from https://preview.redd.it/v2d93uj3i3le1.jpeg?auto=webp&s=501bf47d4c7b5ea0e9aac5cceca4114f25169371 to temp_image.jpg
+2025-02-24 14:40:15,559 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
