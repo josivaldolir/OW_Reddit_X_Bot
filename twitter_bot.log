@@ -589,3 +589,11 @@ Your media IDs are invalid.
 2025-02-24 08:22:22,470 - INFO - Video Path: 
 2025-02-24 08:22:22,732 - INFO - Downloaded media from https://preview.redd.it/j3zp25adpzke1.jpeg?auto=webp&s=e8f060616978bb35b2d8904df50e62eb83c14ca7 to temp_image.jpg
 2025-02-24 08:22:23,835 - INFO - Posted content successfully. Tweet ID: 1893939518769631267
+2025-02-24 08:43:08,844 - INFO - Content: Quality Content
+
+2025-02-24 08:43:08,844 - INFO - Image Paths: ['https://external-preview.redd.it/ZTYyMTZ6MGh1MGxlMRa6G63OsmYclQo3Fs2sxh6EHnpZwp64v0gvTALEiYvW.png?format=pjpg&auto=webp&s=46f5bfc0f8f44b054f8767da330ade59060c0078']
+2025-02-24 08:43:08,844 - INFO - Video Path: https://v.redd.it/ux5pe06hu0le1/DASH_220.mp4?source=fallback
+2025-02-24 08:43:09,314 - INFO - Downloaded media from https://v.redd.it/ux5pe06hu0le1/DASH_220.mp4?source=fallback to temp_video.mp4
+2025-02-24 08:43:09,543 - INFO - Downloaded media from https://v.redd.it/ux5pe06hu0le1/DASH_220.mp4?source=fallback to temp_audio.mp4
+2025-02-24 08:43:10,134 - INFO - Combined video and audio into temp_combined.mp4
+2025-02-24 08:43:12,833 - INFO - Posted content successfully. Tweet ID: 1893944757493092803
