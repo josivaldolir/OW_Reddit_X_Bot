@@ -730,3 +730,12 @@ Too Many Requests
 2025-02-24 17:12:54,079 - INFO - Downloaded media from https://preview.redd.it/g25kf7jab4le1.png?auto=webp&s=a6baea79c6fb65175765fd6e787e4753db9f4010 to temp_image.jpg
 2025-02-24 17:12:55,439 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-02-24 17:37:35,889 - INFO - Content: Is this allowed? I got reported by 5 ppl for stalling a point:
+
+2025-02-24 17:37:35,889 - INFO - Image Paths: ['https://external-preview.redd.it/NHU4dnVkbXdrMGxlMfLVNl4d8lalNTuiuAVdNge1lbmX4GCKnYmG2j2dJVUd.png?format=pjpg&auto=webp&s=647fde1217eeaba9885d6b503b0a4cd562317cdd']
+2025-02-24 17:37:35,889 - INFO - Video Path: https://v.redd.it/msdk2emwk0le1/DASH_1080.mp4?source=fallback
+2025-02-24 17:37:38,628 - INFO - Downloaded media from https://v.redd.it/msdk2emwk0le1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-02-24 17:37:39,055 - INFO - Downloaded media from https://v.redd.it/msdk2emwk0le1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-02-24 17:37:39,600 - INFO - Combined video and audio into temp_combined.mp4
+2025-02-24 17:38:46,071 - ERROR - Failed to post content: 400 Bad Request
+Your media IDs are invalid.
