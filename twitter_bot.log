@@ -897,3 +897,12 @@ So why not Orisa?
 2025-02-25 05:38:20,894 - INFO - Combined video and audio into temp_combined.mp4
 2025-02-25 05:39:01,687 - ERROR - Failed to post content: 400 Bad Request
 Your media IDs are invalid.
+2025-02-25 06:23:23,865 - INFO - Content: Overwatch X Fallout collab concept!
+Three way tie towards the end as idk who matches the Legate more, Doom or Junker Queen. Doom matches his looks more whereas Junker Queen matches his play style better.
+2025-02-25 06:23:23,865 - INFO - Image Paths: ['https://preview.redd.it/gxqrauosy7le1.jpg?width=1727&format=pjpg&auto=webp&s=4ed7a7adb8768133ddaede11dc28ef85c2ed0b64', 'https://preview.redd.it/yyawvtosy7le1.jpg?width=1726&format=pjpg&auto=webp&s=dc1154606e02a834c6feb40c2058afc818a0f034', 'https://preview.redd.it/8b4vfuosy7le1.jpg?width=1725&format=pjpg&auto=webp&s=aa08b3e938b9c2a50dcf00054b8de1779659d0ee', 'https://preview.redd.it/yue81uosy7le1.jpg?width=1727&format=pjpg&auto=webp&s=a4f85631e5bd6092485dc2ef79b2c6d8f79f132e']
+2025-02-25 06:23:23,865 - INFO - Video Path: 
+2025-02-25 06:23:24,166 - INFO - Downloaded media from https://preview.redd.it/gxqrauosy7le1.jpg?width=1727&format=pjpg&auto=webp&s=4ed7a7adb8768133ddaede11dc28ef85c2ed0b64 to temp_image.jpg
+2025-02-25 06:23:25,383 - INFO - Downloaded media from https://preview.redd.it/yyawvtosy7le1.jpg?width=1726&format=pjpg&auto=webp&s=dc1154606e02a834c6feb40c2058afc818a0f034 to temp_image.jpg
+2025-02-25 06:23:26,277 - INFO - Downloaded media from https://preview.redd.it/8b4vfuosy7le1.jpg?width=1725&format=pjpg&auto=webp&s=aa08b3e938b9c2a50dcf00054b8de1779659d0ee to temp_image.jpg
+2025-02-25 06:23:27,272 - INFO - Downloaded media from https://preview.redd.it/yue81uosy7le1.jpg?width=1727&format=pjpg&auto=webp&s=a4f85631e5bd6092485dc2ef79b2c6d8f79f132e to temp_image.jpg
+2025-02-25 06:23:28,840 - INFO - Posted content successfully. Tweet ID: 1894271979374706881
