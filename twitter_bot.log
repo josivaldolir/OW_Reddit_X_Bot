@@ -1100,3 +1100,9 @@ wore this a while back in 2021, should probably redo it sometime!
 2025-02-25 18:44:20,257 - INFO - Downloaded media from https://preview.redd.it/p40ovcm1vble1.jpeg?auto=webp&s=51185b7a68bceca6a2c2550a0eca1bbe550cb104 to temp_image.jpg
 2025-02-25 18:44:21,344 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-02-25 19:12:02,612 - INFO - Content: my mercy cosplay!
+wore this a while back in 2021, should probably redo it sometime! 
+2025-02-25 19:12:02,612 - INFO - Image Paths: ['https://preview.redd.it/p40ovcm1vble1.jpeg?auto=webp&s=51185b7a68bceca6a2c2550a0eca1bbe550cb104']
+2025-02-25 19:12:02,612 - INFO - Video Path: 
+2025-02-25 19:12:02,780 - INFO - Downloaded media from https://preview.redd.it/p40ovcm1vble1.jpeg?auto=webp&s=51185b7a68bceca6a2c2550a0eca1bbe550cb104 to temp_image.jpg
+2025-02-25 19:12:04,315 - INFO - Posted content successfully. Tweet ID: 1894465402253840531
