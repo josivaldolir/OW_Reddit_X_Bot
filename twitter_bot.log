@@ -948,3 +948,12 @@ Why are they not using this for some other heroes? They never touch movement spe
 2025-02-25 08:42:28,519 - INFO - Video Path: 
 2025-02-25 08:42:28,736 - INFO - Downloaded media from https://external-preview.redd.it/CBpDjhTJSVZp0ZHIXkzmBh_YDbSiKyeslY4tbfdlZ2c.jpg?auto=webp&s=62253f2ab9c418994ddec45c685a5cf49b0d052d to temp_image.jpg
 2025-02-25 08:42:29,781 - INFO - Posted content successfully. Tweet ID: 1894306964731301972
+2025-02-25 09:15:21,561 - INFO - Content: Is this allowed? I got reported by 5 ppl for stalling a point:
+
+2025-02-25 09:15:21,561 - INFO - Image Paths: ['https://external-preview.redd.it/NHU4dnVkbXdrMGxlMfLVNl4d8lalNTuiuAVdNge1lbmX4GCKnYmG2j2dJVUd.png?format=pjpg&auto=webp&s=647fde1217eeaba9885d6b503b0a4cd562317cdd']
+2025-02-25 09:15:21,561 - INFO - Video Path: https://v.redd.it/msdk2emwk0le1/DASH_1080.mp4?source=fallback
+2025-02-25 09:15:22,916 - INFO - Downloaded media from https://v.redd.it/msdk2emwk0le1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-02-25 09:15:24,466 - INFO - Downloaded media from https://v.redd.it/msdk2emwk0le1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-02-25 09:15:24,928 - INFO - Combined video and audio into temp_combined.mp4
+2025-02-25 09:16:10,927 - ERROR - Failed to post content: 400 Bad Request
+Your media IDs are invalid.
