@@ -1043,3 +1043,11 @@ Prior to Hazard, I made this fanart last year, and I wanted to share it here! Ho
 2025-02-25 14:43:43,562 - INFO - Video Path: 
 2025-02-25 14:43:43,944 - INFO - Downloaded media from https://preview.redd.it/0h1s349hkale1.jpeg?auto=webp&s=735bb0fc9143dfc72baed3db4ef6380bf84272c7 to temp_image.jpg
 2025-02-25 14:43:47,914 - INFO - Posted content successfully. Tweet ID: 1894397886395195467
+2025-02-25 15:16:26,509 - INFO - Content: I am stealth incarnate
+
+2025-02-25 15:16:26,509 - INFO - Image Paths: ['https://external-preview.redd.it/bGxiN2gwMHo5OWxlMSHZ5p7ME37NEzJUMfVyWnb6w0YnWp02GcG7aG8qylpm.png?format=pjpg&auto=webp&s=38fe24cc88c5f203a312cb64ce5d9a751bc39afa']
+2025-02-25 15:16:26,509 - INFO - Video Path: https://v.redd.it/ox57v00z99le1/DASH_1080.mp4?source=fallback
+2025-02-25 15:16:27,471 - INFO - Downloaded media from https://v.redd.it/ox57v00z99le1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-02-25 15:16:27,974 - INFO - Downloaded media from https://v.redd.it/ox57v00z99le1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-02-25 15:16:32,362 - INFO - Combined video and audio into temp_combined.mp4
+2025-02-25 15:16:40,821 - INFO - Posted content successfully. Tweet ID: 1894406164302921970
