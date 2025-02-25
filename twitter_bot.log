@@ -1007,3 +1007,12 @@ For context as to why I’m confused: Ive come back to the game after 5 years, I
 2025-02-25 12:28:37,391 - INFO - Video Path: 
 2025-02-25 12:28:37,817 - INFO - Downloaded media from https://preview.redd.it/afecxv3n69le1.jpeg?auto=webp&s=d45f6f1cf2cd621c20277f7bc758054a78fefd74 to temp_image.jpg
 2025-02-25 12:28:39,888 - INFO - Posted content successfully. Tweet ID: 1894363880123412869
+2025-02-25 13:30:22,038 - INFO - Content: Is this allowed? I got reported by 5 ppl for stalling a point:
+
+2025-02-25 13:30:22,038 - INFO - Image Paths: ['https://external-preview.redd.it/NHU4dnVkbXdrMGxlMfLVNl4d8lalNTuiuAVdNge1lbmX4GCKnYmG2j2dJVUd.png?format=pjpg&auto=webp&s=647fde1217eeaba9885d6b503b0a4cd562317cdd']
+2025-02-25 13:30:22,038 - INFO - Video Path: https://v.redd.it/msdk2emwk0le1/DASH_1080.mp4?source=fallback
+2025-02-25 13:30:22,491 - INFO - Downloaded media from https://v.redd.it/msdk2emwk0le1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-02-25 13:30:22,902 - INFO - Downloaded media from https://v.redd.it/msdk2emwk0le1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-02-25 13:30:24,046 - INFO - Combined video and audio into temp_combined.mp4
+2025-02-25 13:30:58,399 - ERROR - Failed to post content: 400 Bad Request
+Your media IDs are invalid.
