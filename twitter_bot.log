@@ -1059,3 +1059,11 @@ Anyone know if Blizzard has shared when these will become available?
 2025-02-25 15:39:02,198 - INFO - Video Path: 
 2025-02-25 15:39:02,444 - INFO - Downloaded media from https://preview.redd.it/8uw09x0hsale1.png?auto=webp&s=a06e21f7613ffc519cb0e3bd56ce719e54a2855a to temp_image.jpg
 2025-02-25 15:39:05,319 - INFO - Posted content successfully. Tweet ID: 1894411796645114012
+2025-02-25 16:18:09,831 - INFO - Content: We all have been playing venture wrong
+
+2025-02-25 16:18:09,831 - INFO - Image Paths: ['https://external-preview.redd.it/cG1lcG4wOTF1YWxlMeu4utpTu3RwPxB6IsuGaCj0Sl9VczYG8bmxGeAMNA6G.png?format=pjpg&auto=webp&s=0ac402fed9d55a39d11bf63bea8d8f504e51caa9']
+2025-02-25 16:18:09,831 - INFO - Video Path: https://v.redd.it/h5v00591uale1/DASH_1080.mp4?source=fallback
+2025-02-25 16:18:10,777 - INFO - Downloaded media from https://v.redd.it/h5v00591uale1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-02-25 16:18:11,188 - INFO - Downloaded media from https://v.redd.it/h5v00591uale1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-02-25 16:18:11,853 - INFO - Combined video and audio into temp_combined.mp4
+2025-02-25 16:18:21,558 - INFO - Posted content successfully. Tweet ID: 1894421686423793666
