@@ -834,3 +834,9 @@ W
 2025-02-24 23:35:39,498 - INFO - Video Path: 
 2025-02-24 23:35:39,569 - INFO - Downloaded media from https://preview.redd.it/nxy0by49d4le1.jpeg?auto=webp&s=bb0b6fa8524dfbca02e3f5dd81482c9000144317 to temp_image.jpg
 2025-02-24 23:35:40,849 - INFO - Posted content successfully. Tweet ID: 1894169353521959351
+2025-02-25 01:05:41,807 - INFO - Content: how it feels
+
+2025-02-25 01:05:41,807 - INFO - Image Paths: ['https://preview.redd.it/9bef43enz4le1.jpeg?auto=webp&s=01f87ae0ecff76dc2301f314feb91c3eac774755']
+2025-02-25 01:05:41,807 - INFO - Video Path: 
+2025-02-25 01:05:41,834 - INFO - Downloaded media from https://preview.redd.it/9bef43enz4le1.jpeg?auto=webp&s=01f87ae0ecff76dc2301f314feb91c3eac774755 to temp_image.jpg
+2025-02-25 01:05:42,753 - INFO - Posted content successfully. Tweet ID: 1894192011370271196
