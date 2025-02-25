@@ -938,3 +938,13 @@ Your media IDs are invalid.
 2025-02-25 08:18:59,329 - INFO - Combined video and audio into temp_combined.mp4
 2025-02-25 08:19:54,779 - ERROR - Failed to post content: 400 Bad Request
 Your media IDs are invalid.
+2025-02-25 08:42:28,519 - INFO - Content: Why does blizzard not bother with movement-speed anymore?
+*Tracer* and *Genji* are still [the only two heroes with increased base movement speed](https://overwatch.fandom.com/wiki/Movement_speed) **(+8.7% faster)**. 
+
+Why are they not using this for some other heroes? They never touch movement speed when it comes to balancing. They could use this to buff / nerf heroes in other ways than just changing damage and CD numbers.
+
+^(Personally, I wouldn't mind if venture got the increased movement speed... but who am I to judge balancing.)
+2025-02-25 08:42:28,519 - INFO - Image Paths: ['https://external-preview.redd.it/CBpDjhTJSVZp0ZHIXkzmBh_YDbSiKyeslY4tbfdlZ2c.jpg?auto=webp&s=62253f2ab9c418994ddec45c685a5cf49b0d052d']
+2025-02-25 08:42:28,519 - INFO - Video Path: 
+2025-02-25 08:42:28,736 - INFO - Downloaded media from https://external-preview.redd.it/CBpDjhTJSVZp0ZHIXkzmBh_YDbSiKyeslY4tbfdlZ2c.jpg?auto=webp&s=62253f2ab9c418994ddec45c685a5cf49b0d052d to temp_image.jpg
+2025-02-25 08:42:29,781 - INFO - Posted content successfully. Tweet ID: 1894306964731301972
