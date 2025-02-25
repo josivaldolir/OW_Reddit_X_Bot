@@ -840,3 +840,9 @@ W
 2025-02-25 01:05:41,807 - INFO - Video Path: 
 2025-02-25 01:05:41,834 - INFO - Downloaded media from https://preview.redd.it/9bef43enz4le1.jpeg?auto=webp&s=01f87ae0ecff76dc2301f314feb91c3eac774755 to temp_image.jpg
 2025-02-25 01:05:42,753 - INFO - Posted content successfully. Tweet ID: 1894192011370271196
+2025-02-25 03:21:26,020 - INFO - Content: Why is he holding his crotch
+
+2025-02-25 03:21:26,020 - INFO - Image Paths: ['https://preview.redd.it/r9d3m93cd7le1.jpeg?auto=webp&s=148e3f02c9a6d5e54291dcb3ee717c7e1c4be151']
+2025-02-25 03:21:26,021 - INFO - Video Path: 
+2025-02-25 03:21:26,259 - INFO - Downloaded media from https://preview.redd.it/r9d3m93cd7le1.jpeg?auto=webp&s=148e3f02c9a6d5e54291dcb3ee717c7e1c4be151 to temp_image.jpg
+2025-02-25 03:21:28,184 - INFO - Posted content successfully. Tweet ID: 1894226174601302329
