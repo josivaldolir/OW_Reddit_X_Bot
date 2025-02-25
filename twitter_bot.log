@@ -879,3 +879,12 @@ So why not Orisa?
 2025-02-25 04:17:29,630 - INFO - Image Paths: []
 2025-02-25 04:17:29,630 - INFO - Video Path: 
 2025-02-25 04:17:30,212 - INFO - Posted content successfully. Tweet ID: 1894240277378076767
+2025-02-25 05:15:07,723 - INFO - Content: Overwatch and Arcane crossover skin ideas
+
+2025-02-25 05:15:07,723 - INFO - Image Paths: ['https://preview.redd.it/031ezjshz4le1.png?width=719&format=png&auto=webp&s=dd5eaf5c1f2b74751ab1361fd4eb6dbb14b43789', 'https://preview.redd.it/jl68ra6iz4le1.png?width=719&format=png&auto=webp&s=cf740d3e38810b54c64f50f85a1a6aa0ea86d5a2', 'https://preview.redd.it/h31i0xmiz4le1.png?width=719&format=png&auto=webp&s=8d18f49f9be28028ee11f329e0b112fcb027f9dd', 'https://preview.redd.it/gjus77hmz4le1.png?width=719&format=png&auto=webp&s=eff10128399e141d610070744ce4a5284c1e575f']
+2025-02-25 05:15:07,723 - INFO - Video Path: 
+2025-02-25 05:15:07,883 - INFO - Downloaded media from https://preview.redd.it/031ezjshz4le1.png?width=719&format=png&auto=webp&s=dd5eaf5c1f2b74751ab1361fd4eb6dbb14b43789 to temp_image.jpg
+2025-02-25 05:15:08,804 - INFO - Downloaded media from https://preview.redd.it/jl68ra6iz4le1.png?width=719&format=png&auto=webp&s=cf740d3e38810b54c64f50f85a1a6aa0ea86d5a2 to temp_image.jpg
+2025-02-25 05:15:09,329 - INFO - Downloaded media from https://preview.redd.it/h31i0xmiz4le1.png?width=719&format=png&auto=webp&s=8d18f49f9be28028ee11f329e0b112fcb027f9dd to temp_image.jpg
+2025-02-25 05:15:10,061 - INFO - Downloaded media from https://preview.redd.it/gjus77hmz4le1.png?width=719&format=png&auto=webp&s=eff10128399e141d610070744ce4a5284c1e575f to temp_image.jpg
+2025-02-25 05:15:13,486 - INFO - Posted content successfully. Tweet ID: 1894254801908896174
