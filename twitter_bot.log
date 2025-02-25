@@ -1106,3 +1106,12 @@ wore this a while back in 2021, should probably redo it sometime!
 2025-02-25 19:12:02,612 - INFO - Video Path: 
 2025-02-25 19:12:02,780 - INFO - Downloaded media from https://preview.redd.it/p40ovcm1vble1.jpeg?auto=webp&s=51185b7a68bceca6a2c2550a0eca1bbe550cb104 to temp_image.jpg
 2025-02-25 19:12:04,315 - INFO - Posted content successfully. Tweet ID: 1894465402253840531
+2025-02-25 19:35:59,156 - INFO - Content: D.va istant cosplay by me🩷
+Instant make-up of D.va! 
+Do you think I should do the full cosplay? 🩷
+2025-02-25 19:35:59,156 - INFO - Image Paths: ['https://preview.redd.it/tg9gnvczwble1.jpg?width=3024&format=pjpg&auto=webp&s=4af6ac43c82c2e13775062c1cc189850102981e0', 'https://preview.redd.it/pc2wi4ezwble1.jpg?width=3631&format=pjpg&auto=webp&s=2a1db9d3b5dec088650811241543ba97ea3920ff']
+2025-02-25 19:35:59,156 - INFO - Video Path: 
+2025-02-25 19:35:59,583 - INFO - Downloaded media from https://preview.redd.it/tg9gnvczwble1.jpg?width=3024&format=pjpg&auto=webp&s=4af6ac43c82c2e13775062c1cc189850102981e0 to temp_image.jpg
+2025-02-25 19:36:01,652 - INFO - Downloaded media from https://preview.redd.it/pc2wi4ezwble1.jpg?width=3631&format=pjpg&auto=webp&s=2a1db9d3b5dec088650811241543ba97ea3920ff to temp_image.jpg
+2025-02-25 19:36:03,590 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
