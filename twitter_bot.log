@@ -1145,3 +1145,11 @@ Too Many Requests
 2025-02-25 21:36:23,683 - INFO - Downloaded media from https://preview.redd.it/ve61910zmcle1.png?auto=webp&s=e9b4ec6e182b64f94ce18733288bf5a0135c6476 to temp_image.jpg
 2025-02-25 21:36:24,720 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-02-25 22:13:29,117 - INFO - Content: Dva Kimchi skin concept
+
+2025-02-25 22:13:29,117 - INFO - Image Paths: ['https://preview.redd.it/pzraeso1ccle1.png?width=4129&format=png&auto=webp&s=37d3f9f135503defaf4390f9580648fff3cfb94d', 'https://preview.redd.it/v9y81so1ccle1.png?width=1500&format=png&auto=webp&s=76222c76a3e5a3f11ef0ae04e8c368d88350ba27']
+2025-02-25 22:13:29,117 - INFO - Video Path: 
+2025-02-25 22:13:29,473 - INFO - Downloaded media from https://preview.redd.it/pzraeso1ccle1.png?width=4129&format=png&auto=webp&s=37d3f9f135503defaf4390f9580648fff3cfb94d to temp_image.jpg
+2025-02-25 22:13:30,999 - INFO - Downloaded media from https://preview.redd.it/v9y81so1ccle1.png?width=1500&format=png&auto=webp&s=76222c76a3e5a3f11ef0ae04e8c368d88350ba27 to temp_image.jpg
+2025-02-25 22:13:32,132 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
