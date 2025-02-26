@@ -1252,3 +1252,10 @@ I remember a while back someone asking if this skin was going to make a return o
 2025-02-26 07:35:45,074 - INFO - Video Path: 
 2025-02-26 07:35:45,257 - INFO - Downloaded media from https://preview.redd.it/k8ldh8dugfle1.png?auto=webp&s=b9807b44d2b2359cb81a208b4f33e835c70ad9fa to temp_image.jpg
 2025-02-26 07:35:46,463 - INFO - Posted content successfully. Tweet ID: 1894652560637673883
+2025-02-26 08:22:04,913 - INFO - Content: Got my first actual Venture skin
+
+2025-02-26 08:22:04,913 - INFO - Image Paths: ['https://preview.redd.it/lcgr7ez0jfle1.png?width=1338&format=png&auto=webp&s=879f7c9218edd2c25996cea1465a2ca30776d9eb', 'https://preview.redd.it/70fdvyd1jfle1.png?width=1338&format=png&auto=webp&s=06c2e4fe291f979c51b66a652b0231d7cc264340']
+2025-02-26 08:22:04,913 - INFO - Video Path: 
+2025-02-26 08:22:05,096 - INFO - Downloaded media from https://preview.redd.it/lcgr7ez0jfle1.png?width=1338&format=png&auto=webp&s=879f7c9218edd2c25996cea1465a2ca30776d9eb to temp_image.jpg
+2025-02-26 08:22:05,830 - INFO - Downloaded media from https://preview.redd.it/70fdvyd1jfle1.png?width=1338&format=png&auto=webp&s=06c2e4fe291f979c51b66a652b0231d7cc264340 to temp_image.jpg
+2025-02-26 08:22:07,544 - INFO - Posted content successfully. Tweet ID: 1894664223445127442
