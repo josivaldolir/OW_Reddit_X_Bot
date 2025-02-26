@@ -1278,3 +1278,11 @@ You know, because you start with zero perks, then you get one, then two. The cur
 2025-02-26 09:37:51,896 - INFO - Image Paths: []
 2025-02-26 09:37:51,896 - INFO - Video Path: 
 2025-02-26 09:37:52,419 - INFO - Posted content successfully. Tweet ID: 1894683289044074907
+2025-02-26 10:17:39,290 - INFO - Content: Ana and Widow mainers after adding hero bans
+
+2025-02-26 10:17:39,290 - INFO - Image Paths: ['https://external-preview.redd.it/c2JpOG8xeTE0Z2xlMUFKL7BHkZ4n4cCQXVA5eE5JTsLBZJsjzv5jLeakpEkP.png?format=pjpg&auto=webp&s=1b5003a6897ea72a6c4a5f80d39b726f9c531bfe']
+2025-02-26 10:17:39,290 - INFO - Video Path: https://v.redd.it/qd0i87h24gle1/DASH_1080.mp4?source=fallback
+2025-02-26 10:17:39,779 - INFO - Downloaded media from https://v.redd.it/qd0i87h24gle1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-02-26 10:17:40,048 - INFO - Downloaded media from https://v.redd.it/qd0i87h24gle1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-02-26 10:17:46,379 - INFO - Combined video and audio into temp_combined.mp4
+2025-02-26 10:17:55,345 - INFO - Posted content successfully. Tweet ID: 1894693367532945664
