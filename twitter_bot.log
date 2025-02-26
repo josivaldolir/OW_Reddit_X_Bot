@@ -1223,3 +1223,9 @@ Too Many Requests
 2025-02-26 05:14:26,989 - INFO - Video Path: 
 2025-02-26 05:14:27,222 - INFO - Downloaded media from https://preview.redd.it/j47x43l3adle1.png?auto=webp&s=72315cddc61c222a8a3848c036a5d058591d7fa5 to temp_image.jpg
 2025-02-26 05:14:28,274 - INFO - Posted content successfully. Tweet ID: 1894617000921731447
+2025-02-26 05:38:49,929 - INFO - Content: Endorsement level reward should be a lootbox like in OW1 and not 5000 XP
+Well, what the title says. OW1 used to give you lootbox for having good endorsement level and for some reason they didn't change this part while returning the lootboxes, you still only get (in my opinion) entirely worthless 5000 XP and that's it. Was looking forward in getting one and then the disappointment...
+2025-02-26 05:38:49,929 - INFO - Image Paths: []
+2025-02-26 05:38:49,929 - INFO - Video Path: 
+2025-02-26 05:38:50,122 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
