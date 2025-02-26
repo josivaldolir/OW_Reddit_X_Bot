@@ -1442,3 +1442,10 @@ Too Many Requests
 2025-02-26 21:39:35,481 - INFO - Downloaded media from https://preview.redd.it/ygedruledjle1.jpeg?auto=webp&s=dabe9b84d1388bb5b95ff912a2c1c5e4e749cf85 to temp_image.jpg
 2025-02-26 21:39:36,263 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-02-26 22:14:14,679 - INFO - Content: Censorship question.
+Heya, i've got no idea why "was a good game" gets the sag part of it censored. Does that even mean anything? Not a specific Overwatch question i guess, but i encountered this in OW3 and i am posting it here. Probably is a B.net thing.
+2025-02-26 22:14:14,679 - INFO - Image Paths: ['https://preview.redd.it/j6yef3osnile1.jpeg?auto=webp&s=3ff3b90470da707b0d8eab6704a7d39fc225db16']
+2025-02-26 22:14:14,679 - INFO - Video Path: 
+2025-02-26 22:14:15,201 - INFO - Downloaded media from https://preview.redd.it/j6yef3osnile1.jpeg?auto=webp&s=3ff3b90470da707b0d8eab6704a7d39fc225db16 to temp_image.jpg
+2025-02-26 22:14:16,860 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
