@@ -1421,3 +1421,10 @@ Too Many Requests
 2025-02-26 20:15:28,402 - INFO - Video Path: 
 2025-02-26 20:15:28,591 - INFO - Downloaded media from https://preview.redd.it/9q3s1beqxile1.jpeg?auto=webp&s=33b43a05fbb91d3759c0dcbc7855afe36bed2b0d to temp_image.jpg
 2025-02-26 20:15:30,616 - INFO - Posted content successfully. Tweet ID: 1894843754550567183
+2025-02-26 20:37:50,877 - INFO - Content: I ruined the lives of 2 of my friends by starting Overwatch😌
+
+2025-02-26 20:37:50,877 - INFO - Image Paths: ['https://preview.redd.it/ygedruledjle1.jpeg?auto=webp&s=dabe9b84d1388bb5b95ff912a2c1c5e4e749cf85']
+2025-02-26 20:37:50,877 - INFO - Video Path: 
+2025-02-26 20:37:51,057 - INFO - Downloaded media from https://preview.redd.it/ygedruledjle1.jpeg?auto=webp&s=dabe9b84d1388bb5b95ff912a2c1c5e4e749cf85 to temp_image.jpg
+2025-02-26 20:37:51,918 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
