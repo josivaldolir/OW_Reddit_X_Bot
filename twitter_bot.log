@@ -1415,3 +1415,9 @@ Heya, i've got no idea why "was a good game" gets the sag part of it censored. D
 2025-02-26 19:35:49,242 - INFO - Downloaded media from https://preview.redd.it/j6yef3osnile1.jpeg?auto=webp&s=3ff3b90470da707b0d8eab6704a7d39fc225db16 to temp_image.jpg
 2025-02-26 19:35:50,480 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-02-26 20:15:28,402 - INFO - Content: Level 3 Ana can be scary
+
+2025-02-26 20:15:28,402 - INFO - Image Paths: ['https://preview.redd.it/9q3s1beqxile1.jpeg?auto=webp&s=33b43a05fbb91d3759c0dcbc7855afe36bed2b0d']
+2025-02-26 20:15:28,402 - INFO - Video Path: 
+2025-02-26 20:15:28,591 - INFO - Downloaded media from https://preview.redd.it/9q3s1beqxile1.jpeg?auto=webp&s=33b43a05fbb91d3759c0dcbc7855afe36bed2b0d to temp_image.jpg
+2025-02-26 20:15:30,616 - INFO - Posted content successfully. Tweet ID: 1894843754550567183
