@@ -1190,3 +1190,10 @@ Crash Dance emote for Junkrat and "Now you're on MY time, you little SKUNK!" voi
 2025-02-26 02:37:17,963 - INFO - Downloaded media from https://preview.redd.it/h73quuafydle1.jpg?width=2880&format=pjpg&auto=webp&s=fe908f1ae2a7ab267a7bcfa3389a7ad29dd3e2c5 to temp_image.jpg
 2025-02-26 02:37:18,824 - INFO - Downloaded media from https://preview.redd.it/ms94yxgfydle1.jpg?width=2880&format=pjpg&auto=webp&s=fa886adb032ecffa8c08e2b740ed39c6b6ac966c to temp_image.jpg
 2025-02-26 02:37:20,466 - INFO - Posted content successfully. Tweet ID: 1894577456545501349
+2025-02-26 03:20:53,494 - INFO - Content: I can finally become a Doom main!!!
+
+2025-02-26 03:20:53,494 - INFO - Image Paths: ['https://preview.redd.it/ve61910zmcle1.png?auto=webp&s=e9b4ec6e182b64f94ce18733288bf5a0135c6476']
+2025-02-26 03:20:53,494 - INFO - Video Path: 
+2025-02-26 03:20:53,560 - INFO - Downloaded media from https://preview.redd.it/ve61910zmcle1.png?auto=webp&s=e9b4ec6e182b64f94ce18733288bf5a0135c6476 to temp_image.jpg
+2025-02-26 03:20:54,282 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
