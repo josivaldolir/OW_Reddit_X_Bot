@@ -1259,3 +1259,11 @@ I remember a while back someone asking if this skin was going to make a return o
 2025-02-26 08:22:05,096 - INFO - Downloaded media from https://preview.redd.it/lcgr7ez0jfle1.png?width=1338&format=png&auto=webp&s=879f7c9218edd2c25996cea1465a2ca30776d9eb to temp_image.jpg
 2025-02-26 08:22:05,830 - INFO - Downloaded media from https://preview.redd.it/70fdvyd1jfle1.png?width=1338&format=png&auto=webp&s=06c2e4fe291f979c51b66a652b0231d7cc264340 to temp_image.jpg
 2025-02-26 08:22:07,544 - INFO - Posted content successfully. Tweet ID: 1894664223445127442
+2025-02-26 08:42:46,229 - INFO - Content: I forgot about disco doomfist. I thought get down meant he was using power block. The boogie caught me completely off guard
+
+2025-02-26 08:42:46,230 - INFO - Image Paths: ['https://external-preview.redd.it/cmU5MW4xYnc0ZmxlMfbhzR4e_4-wp1l7BfzzMLjkL_DFInfoTqz-2W_TO1Yp.png?format=pjpg&auto=webp&s=b0a5bbb0feb33d1822f43a70540ede341f17dc17']
+2025-02-26 08:42:46,230 - INFO - Video Path: https://v.redd.it/8m6pnkdw4fle1/DASH_720.mp4?source=fallback
+2025-02-26 08:42:46,559 - INFO - Downloaded media from https://v.redd.it/8m6pnkdw4fle1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-02-26 08:42:46,730 - INFO - Downloaded media from https://v.redd.it/8m6pnkdw4fle1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-02-26 08:42:47,615 - INFO - Combined video and audio into temp_combined.mp4
+2025-02-26 08:42:51,153 - INFO - Posted content successfully. Tweet ID: 1894669442342101492
