@@ -1217,3 +1217,9 @@ Too Many Requests
 2025-02-26 04:43:24,265 - INFO - Video Path: 
 2025-02-26 04:43:24,389 - INFO - Downloaded media from https://preview.redd.it/ve61910zmcle1.png?auto=webp&s=e9b4ec6e182b64f94ce18733288bf5a0135c6476 to temp_image.jpg
 2025-02-26 04:43:25,964 - INFO - Posted content successfully. Tweet ID: 1894609189441589711
+2025-02-26 05:14:26,989 - INFO - Content: "Go Rein"
+
+2025-02-26 05:14:26,989 - INFO - Image Paths: ['https://preview.redd.it/j47x43l3adle1.png?auto=webp&s=72315cddc61c222a8a3848c036a5d058591d7fa5']
+2025-02-26 05:14:26,989 - INFO - Video Path: 
+2025-02-26 05:14:27,222 - INFO - Downloaded media from https://preview.redd.it/j47x43l3adle1.png?auto=webp&s=72315cddc61c222a8a3848c036a5d058591d7fa5 to temp_image.jpg
+2025-02-26 05:14:28,274 - INFO - Posted content successfully. Tweet ID: 1894617000921731447
