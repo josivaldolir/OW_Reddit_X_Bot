@@ -1435,3 +1435,10 @@ Heya, i've got no idea why "was a good game" gets the sag part of it censored. D
 2025-02-26 21:13:21,957 - INFO - Downloaded media from https://preview.redd.it/j6yef3osnile1.jpeg?auto=webp&s=3ff3b90470da707b0d8eab6704a7d39fc225db16 to temp_image.jpg
 2025-02-26 21:13:23,194 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-02-26 21:39:35,436 - INFO - Content: I ruined the lives of 2 of my friends by starting Overwatch😌
+
+2025-02-26 21:39:35,436 - INFO - Image Paths: ['https://preview.redd.it/ygedruledjle1.jpeg?auto=webp&s=dabe9b84d1388bb5b95ff912a2c1c5e4e749cf85']
+2025-02-26 21:39:35,436 - INFO - Video Path: 
+2025-02-26 21:39:35,481 - INFO - Downloaded media from https://preview.redd.it/ygedruledjle1.jpeg?auto=webp&s=dabe9b84d1388bb5b95ff912a2c1c5e4e749cf85 to temp_image.jpg
+2025-02-26 21:39:36,263 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
