@@ -1321,3 +1321,11 @@ The colors match perfectly with Optimus, but I think it also works great with Re
 2025-02-26 13:01:10,298 - INFO - Downloaded media from https://v.redd.it/kqggefys0hle1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-02-26 13:01:13,083 - INFO - Combined video and audio into temp_combined.mp4
 2025-02-26 13:01:39,050 - INFO - Posted content successfully. Tweet ID: 1894734570664440036
+2025-02-26 13:29:38,608 - INFO - Content: You can play Overwatch on mobile
+You can play Overwatch through steam link,but it’s unbearably hard to control.
+2025-02-26 13:29:38,608 - INFO - Image Paths: ['https://external-preview.redd.it/M3VoMXUwaW52ZmxlMVJr0guDYxJPgIaxQNQNej-_28xF8lB-wMmIKJihyLFy.png?format=pjpg&auto=webp&s=5f8857a64ae25e8a89ee16a39a876d1e0db21895']
+2025-02-26 13:29:38,608 - INFO - Video Path: https://v.redd.it/7ltpyqrnvfle1/DASH_720.mp4?source=fallback
+2025-02-26 13:29:39,193 - INFO - Downloaded media from https://v.redd.it/7ltpyqrnvfle1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-02-26 13:29:39,317 - INFO - Downloaded media from https://v.redd.it/7ltpyqrnvfle1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-02-26 13:29:39,890 - INFO - Combined video and audio into temp_combined.mp4
+2025-02-26 13:29:52,600 - INFO - Posted content successfully. Tweet ID: 1894741674254913776
