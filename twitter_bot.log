@@ -1367,3 +1367,11 @@ gonna make her armour and gun hopefully soon i just ran out of time and $ before
 2025-02-26 16:18:16,574 - INFO - Video Path: 
 2025-02-26 16:18:16,815 - INFO - Downloaded media from https://preview.redd.it/usuj4yaf9ile1.png?auto=webp&s=1a2a46de3eb61c68f14d65828a7df9b52091b488 to temp_image.jpg
 2025-02-26 16:18:18,311 - INFO - Posted content successfully. Tweet ID: 1894784059865227634
+2025-02-26 16:45:45,273 - INFO - Content: Never getting an ult like this ever again #ventoes
+
+2025-02-26 16:45:45,273 - INFO - Image Paths: ['https://external-preview.redd.it/N2N0YWN2ODF6aGxlMWwJcbm2ZTGuE7QCCkmBZdPNoVN4aCvpX1kCNAI4QTuc.png?format=pjpg&auto=webp&s=f08892ed49dca4618a7910fc9c5e87af7aabc53f']
+2025-02-26 16:45:45,273 - INFO - Video Path: https://v.redd.it/rc4j62e1zhle1/DASH_1080.mp4?source=fallback
+2025-02-26 16:45:46,120 - INFO - Downloaded media from https://v.redd.it/rc4j62e1zhle1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-02-26 16:45:46,649 - INFO - Downloaded media from https://v.redd.it/rc4j62e1zhle1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-02-26 16:45:47,775 - INFO - Combined video and audio into temp_combined.mp4
+2025-02-26 16:45:57,550 - INFO - Posted content successfully. Tweet ID: 1894791020098756628
