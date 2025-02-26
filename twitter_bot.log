@@ -1174,3 +1174,10 @@ Too Many Requests
 2025-02-25 23:35:27,633 - INFO - Downloaded media from https://preview.redd.it/ve61910zmcle1.png?auto=webp&s=e9b4ec6e182b64f94ce18733288bf5a0135c6476 to temp_image.jpg
 2025-02-25 23:35:28,408 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-02-26 01:05:19,619 - INFO - Content: I can finally become a Doom main!!!
+
+2025-02-26 01:05:19,619 - INFO - Image Paths: ['https://preview.redd.it/ve61910zmcle1.png?auto=webp&s=e9b4ec6e182b64f94ce18733288bf5a0135c6476']
+2025-02-26 01:05:19,619 - INFO - Video Path: 
+2025-02-26 01:05:19,875 - INFO - Downloaded media from https://preview.redd.it/ve61910zmcle1.png?auto=webp&s=e9b4ec6e182b64f94ce18733288bf5a0135c6476 to temp_image.jpg
+2025-02-26 01:05:20,502 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
