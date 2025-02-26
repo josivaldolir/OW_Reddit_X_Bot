@@ -1387,3 +1387,10 @@ There isn’t even an option for “default” that other weapon skins have. I C
 2025-02-26 17:37:50,242 - INFO - Video Path: 
 2025-02-26 17:37:52,297 - INFO - Downloaded media from https://preview.redd.it/8vv5w5kjjile1.jpeg?auto=webp&s=e27588b5ac066f6d001062f5cda969b708d6b680 to temp_image.jpg
 2025-02-26 17:37:54,998 - INFO - Posted content successfully. Tweet ID: 1894804093182558299
+2025-02-26 18:19:26,748 - INFO - Content: Level 3 Ana can be scary
+
+2025-02-26 18:19:26,748 - INFO - Image Paths: ['https://preview.redd.it/9q3s1beqxile1.jpeg?auto=webp&s=33b43a05fbb91d3759c0dcbc7855afe36bed2b0d']
+2025-02-26 18:19:26,748 - INFO - Video Path: 
+2025-02-26 18:19:27,038 - INFO - Downloaded media from https://preview.redd.it/9q3s1beqxile1.jpeg?auto=webp&s=33b43a05fbb91d3759c0dcbc7855afe36bed2b0d to temp_image.jpg
+2025-02-26 18:19:27,980 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
