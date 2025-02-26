@@ -1267,3 +1267,9 @@ I remember a while back someone asking if this skin was going to make a return o
 2025-02-26 08:42:46,730 - INFO - Downloaded media from https://v.redd.it/8m6pnkdw4fle1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-02-26 08:42:47,615 - INFO - Combined video and audio into temp_combined.mp4
 2025-02-26 08:42:51,153 - INFO - Posted content successfully. Tweet ID: 1894669442342101492
+2025-02-26 09:16:01,785 - INFO - Content: Overwatch Meme Doodles
+
+2025-02-26 09:16:01,785 - INFO - Image Paths: ['https://preview.redd.it/z7gypk8becle1.jpeg?auto=webp&s=f8f7c97977bc6336139cd7f7c5edf41fbaf64b82']
+2025-02-26 09:16:01,785 - INFO - Video Path: 
+2025-02-26 09:16:02,072 - INFO - Downloaded media from https://preview.redd.it/z7gypk8becle1.jpeg?auto=webp&s=f8f7c97977bc6336139cd7f7c5edf41fbaf64b82 to temp_image.jpg
+2025-02-26 09:16:04,038 - INFO - Posted content successfully. Tweet ID: 1894677799790657929
