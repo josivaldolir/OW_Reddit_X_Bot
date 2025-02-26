@@ -1401,3 +1401,10 @@ Too Many Requests
 2025-02-26 18:44:07,891 - INFO - Downloaded media from https://preview.redd.it/9q3s1beqxile1.jpeg?auto=webp&s=33b43a05fbb91d3759c0dcbc7855afe36bed2b0d to temp_image.jpg
 2025-02-26 18:44:08,857 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-02-26 19:11:35,293 - INFO - Content: Level 3 Ana can be scary
+
+2025-02-26 19:11:35,293 - INFO - Image Paths: ['https://preview.redd.it/9q3s1beqxile1.jpeg?auto=webp&s=33b43a05fbb91d3759c0dcbc7855afe36bed2b0d']
+2025-02-26 19:11:35,293 - INFO - Video Path: 
+2025-02-26 19:11:35,557 - INFO - Downloaded media from https://preview.redd.it/9q3s1beqxile1.jpeg?auto=webp&s=33b43a05fbb91d3759c0dcbc7855afe36bed2b0d to temp_image.jpg
+2025-02-26 19:11:36,329 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
