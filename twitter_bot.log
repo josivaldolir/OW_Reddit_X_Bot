@@ -1739,3 +1739,9 @@ Too Many Requests
 2025-02-27 21:13:29,887 - INFO - Downloaded media from https://preview.redd.it/aq933f24pqle1.jpeg?auto=webp&s=49a70cb51caa5f9568022f3b3c1caf519dac06e4 to temp_image.jpg
 2025-02-27 21:13:31,458 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-02-27 21:36:07,606 - INFO - Content: Seriously, where the f did that tumbleweed come from?
+
+2025-02-27 21:36:07,607 - INFO - Image Paths: ['https://preview.redd.it/aq933f24pqle1.jpeg?auto=webp&s=49a70cb51caa5f9568022f3b3c1caf519dac06e4']
+2025-02-27 21:36:07,607 - INFO - Video Path: 
+2025-02-27 21:36:07,721 - INFO - Downloaded media from https://preview.redd.it/aq933f24pqle1.jpeg?auto=webp&s=49a70cb51caa5f9568022f3b3c1caf519dac06e4 to temp_image.jpg
+2025-02-27 21:36:10,390 - INFO - Posted content successfully. Tweet ID: 1895226440439996630
