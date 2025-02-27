@@ -1676,3 +1676,11 @@ My lootboxes week 1 were full of absolutely nothing so I got a nice surprise whe
 2025-02-27 16:18:33,053 - INFO - Video Path: 
 2025-02-27 16:18:33,268 - INFO - Downloaded media from https://preview.redd.it/aedtfq6nfple1.jpeg?auto=webp&s=d3f0ded9120f39e488d88fc8c3efad46bdf57dc6 to temp_image.jpg
 2025-02-27 16:18:34,447 - INFO - Posted content successfully. Tweet ID: 1895146515762463185
+2025-02-27 16:44:51,184 - INFO - Content: Winton
+
+2025-02-27 16:44:51,184 - INFO - Image Paths: ['https://external-preview.redd.it/YjliZjFqbDljcGxlMcuC0ETiPUNSbs6ISWsm7tTfGKNR1Y1qu5xV1NROiaa1.png?format=pjpg&auto=webp&s=2442a30dcf8587c3376df38cfaba770e5a196ad9']
+2025-02-27 16:44:51,184 - INFO - Video Path: https://v.redd.it/3d4cbpn9cple1/DASH_1080.mp4?source=fallback
+2025-02-27 16:44:51,483 - INFO - Downloaded media from https://v.redd.it/3d4cbpn9cple1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-02-27 16:44:51,549 - INFO - Downloaded media from https://v.redd.it/3d4cbpn9cple1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-02-27 16:44:51,918 - INFO - Combined video and audio into temp_combined.mp4
+2025-02-27 16:44:55,617 - INFO - Posted content successfully. Tweet ID: 1895153148333039959
