@@ -1684,3 +1684,10 @@ My lootboxes week 1 were full of absolutely nothing so I got a nice surprise whe
 2025-02-27 16:44:51,549 - INFO - Downloaded media from https://v.redd.it/3d4cbpn9cple1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-02-27 16:44:51,918 - INFO - Combined video and audio into temp_combined.mp4
 2025-02-27 16:44:55,617 - INFO - Posted content successfully. Tweet ID: 1895153148333039959
+2025-02-27 17:38:49,298 - INFO - Content: Juno Skin: Kanao Tsuyuri (Demon Slayer x Overwatch)
+
+2025-02-27 17:38:49,298 - INFO - Image Paths: ['https://preview.redd.it/lqdomm3j0ple1.png?width=1160&format=png&auto=webp&s=e2f127cdbe67654e95dc44e411151f267da2e1de', 'https://preview.redd.it/ivuo7r3j0ple1.png?width=638&format=png&auto=webp&s=f4a72ad5e0574c9a555545c8fb9422757e921812']
+2025-02-27 17:38:49,298 - INFO - Video Path: 
+2025-02-27 17:38:49,625 - INFO - Downloaded media from https://preview.redd.it/lqdomm3j0ple1.png?width=1160&format=png&auto=webp&s=e2f127cdbe67654e95dc44e411151f267da2e1de to temp_image.jpg
+2025-02-27 17:38:50,531 - INFO - Downloaded media from https://preview.redd.it/ivuo7r3j0ple1.png?width=638&format=png&auto=webp&s=f4a72ad5e0574c9a555545c8fb9422757e921812 to temp_image.jpg
+2025-02-27 17:38:52,106 - INFO - Posted content successfully. Tweet ID: 1895166720626581933
