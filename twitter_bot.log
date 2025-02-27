@@ -1732,3 +1732,10 @@ what's wrong with you people??
 2025-02-27 20:37:53,723 - INFO - Downloaded media from https://external-preview.redd.it/pLQcCI4kQ5UFaVm5uixdsyMArT35cZEvI8hSTVAH-T0.jpg?auto=webp&s=01bc04c088d121e7e652303fe263eabcb86fb8ba to temp_image.jpg
 2025-02-27 20:37:54,605 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-02-27 21:13:29,498 - INFO - Content: Seriously, where the f did that tumbleweed come from?
+
+2025-02-27 21:13:29,498 - INFO - Image Paths: ['https://preview.redd.it/aq933f24pqle1.jpeg?auto=webp&s=49a70cb51caa5f9568022f3b3c1caf519dac06e4']
+2025-02-27 21:13:29,498 - INFO - Video Path: 
+2025-02-27 21:13:29,887 - INFO - Downloaded media from https://preview.redd.it/aq933f24pqle1.jpeg?auto=webp&s=49a70cb51caa5f9568022f3b3c1caf519dac06e4 to temp_image.jpg
+2025-02-27 21:13:31,458 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
