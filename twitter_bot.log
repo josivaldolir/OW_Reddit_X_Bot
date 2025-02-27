@@ -1760,3 +1760,10 @@ I'm guessing the chances for more legendaries are the same as in a regular lootb
 2025-02-27 22:39:31,380 - INFO - Combined video and audio into temp_combined.mp4
 2025-02-27 22:39:36,528 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-02-27 23:13:54,135 - INFO - Content: Do you remember her?
+
+2025-02-27 23:13:54,135 - INFO - Image Paths: ['https://preview.redd.it/rlwsic03frle1.jpeg?auto=webp&s=8346afd65a9aff7298812ff5ebde652c135f0b95']
+2025-02-27 23:13:54,135 - INFO - Video Path: 
+2025-02-27 23:13:54,362 - INFO - Downloaded media from https://preview.redd.it/rlwsic03frle1.jpeg?auto=webp&s=8346afd65a9aff7298812ff5ebde652c135f0b95 to temp_image.jpg
+2025-02-27 23:13:55,719 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
