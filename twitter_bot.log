@@ -1559,3 +1559,10 @@ I've never seen this skin before
 2025-02-27 06:44:14,730 - INFO - Video Path: 
 2025-02-27 06:44:15,338 - INFO - Downloaded media from https://preview.redd.it/83ib6phuvlle1.jpeg?auto=webp&s=b35ea43698b77dc99bf100f0a9ebdce699296164 to temp_image.jpg
 2025-02-27 06:44:17,277 - INFO - Posted content successfully. Tweet ID: 1895001990851166439
+2025-02-27 07:14:02,763 - INFO - Content: Is Ashe's perk "Viper's Sting" bugged, or am I bad at math/stupid?
+https://reddit.com/link/1iyzvg0/video/b3u4kuix3kle1/player
+
+So, the wiki says Ashe does 75 damage with her weapon when ADS'ing, and she has a 2X headshot multiplier (I tested in the practice range and it's true). That means 75+2\*75=225 damage from a bodyshot and a headshot. Her perk gives 25 extra damage if you hit two shots consecutively, which should make it 75+2\*75+25=250. However, heroes seem to only take 249 damage from this combo (or something similar) which doesn't make any sense to me. Am I stupid or is there a bug?
+2025-02-27 07:14:02,763 - INFO - Image Paths: []
+2025-02-27 07:14:02,763 - INFO - Video Path: 
+2025-02-27 07:14:03,186 - INFO - Posted content successfully. Tweet ID: 1895009483296043303
