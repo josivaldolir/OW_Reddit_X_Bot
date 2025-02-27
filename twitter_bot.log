@@ -1725,3 +1725,10 @@ what's wrong with you people??
 2025-02-27 20:16:02,968 - INFO - Downloaded media from https://v.redd.it/plmsbquczple1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-02-27 20:16:03,545 - INFO - Combined video and audio into temp_combined.mp4
 2025-02-27 20:16:11,071 - INFO - Posted content successfully. Tweet ID: 1895206313019482467
+2025-02-27 20:37:53,685 - INFO - Content: Introducing FACEIT Ranked PUGs for Overwatch 2 | Apply for Closed Beta & Earn Rewards 🏆
+
+2025-02-27 20:37:53,685 - INFO - Image Paths: ['https://external-preview.redd.it/pLQcCI4kQ5UFaVm5uixdsyMArT35cZEvI8hSTVAH-T0.jpg?auto=webp&s=01bc04c088d121e7e652303fe263eabcb86fb8ba']
+2025-02-27 20:37:53,685 - INFO - Video Path: 
+2025-02-27 20:37:53,723 - INFO - Downloaded media from https://external-preview.redd.it/pLQcCI4kQ5UFaVm5uixdsyMArT35cZEvI8hSTVAH-T0.jpg?auto=webp&s=01bc04c088d121e7e652303fe263eabcb86fb8ba to temp_image.jpg
+2025-02-27 20:37:54,605 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
