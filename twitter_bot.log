@@ -1532,3 +1532,10 @@ Heya, i've got no idea why "was a good game" gets the sag part of it censored. D
 2025-02-27 04:41:43,462 - INFO - Video Path: 
 2025-02-27 04:41:43,852 - INFO - Downloaded media from https://preview.redd.it/j6yef3osnile1.jpeg?auto=webp&s=3ff3b90470da707b0d8eab6704a7d39fc225db16 to temp_image.jpg
 2025-02-27 04:41:46,225 - INFO - Posted content successfully. Tweet ID: 1894971158644301868
+2025-02-27 05:14:43,314 - INFO - Content: Who tf got to it before me?
+
+2025-02-27 05:14:43,314 - INFO - Image Paths: ['https://preview.redd.it/e91ukru1ljle1.png?auto=webp&s=43e91fe25fb95fa6a192535f29ee68e9ea112826']
+2025-02-27 05:14:43,314 - INFO - Video Path: 
+2025-02-27 05:14:43,859 - INFO - Downloaded media from https://preview.redd.it/e91ukru1ljle1.png?auto=webp&s=43e91fe25fb95fa6a192535f29ee68e9ea112826 to temp_image.jpg
+2025-02-27 05:14:44,855 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
