@@ -1620,3 +1620,11 @@ I saw him spy-check Sombra, grapple in, and kill. Twice. Counter my ass. Sombra 
 2025-02-27 10:16:02,535 - INFO - Downloaded media from https://preview.redd.it/lyqcfc7v6lle1.png?width=1021&format=png&auto=webp&s=f1f36ecf51ee130c8995ed3ba3c720609509c987 to temp_image.jpg
 2025-02-27 10:16:03,415 - INFO - Downloaded media from https://preview.redd.it/41xydncw6lle1.jpg?width=1057&format=pjpg&auto=webp&s=ffca738eef668ec5e50e9d1c46db3a68317a1a61 to temp_image.jpg
 2025-02-27 10:16:04,869 - INFO - Posted content successfully. Tweet ID: 1895055290824786186
+2025-02-27 10:41:27,470 - INFO - Content: Ana’s new ability just gave me the luckiest nade ever
+
+2025-02-27 10:41:27,471 - INFO - Image Paths: ['https://external-preview.redd.it/dXEzb2N3dDlwbmxlMYw58wdC5X2yn5jWrevLRMNWIJI5evUlMEUlxAbPGDZx.png?format=pjpg&auto=webp&s=c0a94e60cee02a6497ed14a5e7418cdbb59f67cf']
+2025-02-27 10:41:27,471 - INFO - Video Path: https://v.redd.it/zamxq6u9pnle1/DASH_1080.mp4?source=fallback
+2025-02-27 10:41:29,723 - INFO - Downloaded media from https://v.redd.it/zamxq6u9pnle1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-02-27 10:41:30,259 - INFO - Downloaded media from https://v.redd.it/zamxq6u9pnle1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-02-27 10:41:30,561 - INFO - Combined video and audio into temp_combined.mp4
+2025-02-27 10:41:41,053 - INFO - Posted content successfully. Tweet ID: 1895061735209361702
