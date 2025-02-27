@@ -1751,3 +1751,12 @@ I'm guessing the chances for more legendaries are the same as in a regular lootb
 2025-02-27 22:14:34,160 - INFO - Video Path: 
 2025-02-27 22:14:34,419 - INFO - Downloaded media from https://preview.redd.it/d67ldzcwtqle1.png?auto=webp&s=8733036dd70730b7eb7fbbc1fd63b32fc16a9e18 to temp_image.jpg
 2025-02-27 22:14:37,796 - INFO - Posted content successfully. Tweet ID: 1895236112651829278
+2025-02-27 22:39:28,544 - INFO - Content: New Orisa Ability: Grind
+
+2025-02-27 22:39:28,545 - INFO - Image Paths: ['https://external-preview.redd.it/cHJ6M3Awd2h3cWxlMeN8y_BTjU0A2rREQZ-kEoy7B-ncJjfgEBGAL7RUCSdz.png?format=pjpg&auto=webp&s=362400072b97e274a0fbb1121b0b6ccb3ee306c1']
+2025-02-27 22:39:28,545 - INFO - Video Path: https://v.redd.it/zl5f60whwqle1/DASH_1080.mp4?source=fallback
+2025-02-27 22:39:28,945 - INFO - Downloaded media from https://v.redd.it/zl5f60whwqle1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-02-27 22:39:29,254 - INFO - Downloaded media from https://v.redd.it/zl5f60whwqle1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-02-27 22:39:31,380 - INFO - Combined video and audio into temp_combined.mp4
+2025-02-27 22:39:36,528 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
