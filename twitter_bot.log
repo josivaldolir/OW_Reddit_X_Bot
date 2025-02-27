@@ -1633,3 +1633,11 @@ I’ve seen her picked in almost every match, and almost every time she complete
 2025-02-27 12:27:46,724 - INFO - Image Paths: []
 2025-02-27 12:27:46,724 - INFO - Video Path: 
 2025-02-27 12:27:47,232 - INFO - Posted content successfully. Tweet ID: 1895088436836737365
+2025-02-27 13:01:02,991 - INFO - Content: When pigs fly
+
+2025-02-27 13:01:02,991 - INFO - Image Paths: ['https://external-preview.redd.it/NHR5cnV5eDg2bmxlMRqPVTEnJ6s2THGhA5gxyjXbdpdk3IZQ1xLq6Qr8uv6x.png?format=pjpg&auto=webp&s=93c9ffb571e253a9d3d8ea6cbe6e1c5858b3de34']
+2025-02-27 13:01:02,991 - INFO - Video Path: https://v.redd.it/zdijywx86nle1/DASH_720.mp4?source=fallback
+2025-02-27 13:01:03,580 - INFO - Downloaded media from https://v.redd.it/zdijywx86nle1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-02-27 13:01:03,833 - INFO - Downloaded media from https://v.redd.it/zdijywx86nle1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-02-27 13:01:04,376 - INFO - Combined video and audio into temp_combined.mp4
+2025-02-27 13:01:10,904 - INFO - Posted content successfully. Tweet ID: 1895096840820826391
