@@ -1526,3 +1526,9 @@ Too Many Requests
 2025-02-27 04:17:28,689 - INFO - Downloaded media from https://v.redd.it/4p14v7uptjle1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-02-27 04:17:29,202 - INFO - Combined video and audio into temp_combined.mp4
 2025-02-27 04:17:36,244 - INFO - Posted content successfully. Tweet ID: 1894965077926986118
+2025-02-27 04:41:43,462 - INFO - Content: Censorship question.
+Heya, i've got no idea why "was a good game" gets the sag part of it censored. Does that even mean anything? Not a specific Overwatch question i guess, but i encountered this in OW3 and i am posting it here. Probably is a B.net thing.
+2025-02-27 04:41:43,462 - INFO - Image Paths: ['https://preview.redd.it/j6yef3osnile1.jpeg?auto=webp&s=3ff3b90470da707b0d8eab6704a7d39fc225db16']
+2025-02-27 04:41:43,462 - INFO - Video Path: 
+2025-02-27 04:41:43,852 - INFO - Downloaded media from https://preview.redd.it/j6yef3osnile1.jpeg?auto=webp&s=3ff3b90470da707b0d8eab6704a7d39fc225db16 to temp_image.jpg
+2025-02-27 04:41:46,225 - INFO - Posted content successfully. Tweet ID: 1894971158644301868
