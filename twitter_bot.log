@@ -1613,3 +1613,10 @@ I saw him spy-check Sombra, grapple in, and kill. Twice. Counter my ass. Sombra 
 2025-02-27 09:37:56,958 - INFO - Image Paths: []
 2025-02-27 09:37:56,958 - INFO - Video Path: 
 2025-02-27 09:37:57,390 - INFO - Posted content successfully. Tweet ID: 1895045697734427133
+2025-02-27 10:16:02,282 - INFO - Content: Oasis Changes
+
+2025-02-27 10:16:02,282 - INFO - Image Paths: ['https://preview.redd.it/lyqcfc7v6lle1.png?width=1021&format=png&auto=webp&s=f1f36ecf51ee130c8995ed3ba3c720609509c987', 'https://preview.redd.it/41xydncw6lle1.jpg?width=1057&format=pjpg&auto=webp&s=ffca738eef668ec5e50e9d1c46db3a68317a1a61']
+2025-02-27 10:16:02,282 - INFO - Video Path: 
+2025-02-27 10:16:02,535 - INFO - Downloaded media from https://preview.redd.it/lyqcfc7v6lle1.png?width=1021&format=png&auto=webp&s=f1f36ecf51ee130c8995ed3ba3c720609509c987 to temp_image.jpg
+2025-02-27 10:16:03,415 - INFO - Downloaded media from https://preview.redd.it/41xydncw6lle1.jpg?width=1057&format=pjpg&auto=webp&s=ffca738eef668ec5e50e9d1c46db3a68317a1a61 to temp_image.jpg
+2025-02-27 10:16:04,869 - INFO - Posted content successfully. Tweet ID: 1895055290824786186
