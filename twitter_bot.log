@@ -1512,3 +1512,9 @@ Too Many Requests
 2025-02-27 03:21:36,636 - INFO - Downloaded media from https://preview.redd.it/dpjaxoewflle1.jpeg?auto=webp&s=3c9a294f37cbf88dc06811d949ab7cb43b54944e to temp_image.jpg
 2025-02-27 03:21:37,572 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-02-27 03:44:19,098 - INFO - Content: Good to Finally See Some Positivity in This Community
+
+2025-02-27 03:44:19,098 - INFO - Image Paths: ['https://preview.redd.it/dpjaxoewflle1.jpeg?auto=webp&s=3c9a294f37cbf88dc06811d949ab7cb43b54944e']
+2025-02-27 03:44:19,098 - INFO - Video Path: 
+2025-02-27 03:44:19,234 - INFO - Downloaded media from https://preview.redd.it/dpjaxoewflle1.jpeg?auto=webp&s=3c9a294f37cbf88dc06811d949ab7cb43b54944e to temp_image.jpg
+2025-02-27 03:44:20,233 - INFO - Posted content successfully. Tweet ID: 1894956705949315444
