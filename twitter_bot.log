@@ -1589,3 +1589,10 @@ Sorry for the corny names but it fits the character
 2025-02-27 08:41:51,419 - INFO - Image Paths: []
 2025-02-27 08:41:51,419 - INFO - Video Path: 
 2025-02-27 08:41:51,774 - INFO - Posted content successfully. Tweet ID: 1895031581267390793
+2025-02-27 09:15:35,055 - INFO - Content: Galactic gun for Juno :D
+I've been grinding since day 1 for this and I'm so happy I finally have it (also before anyone says anything yes I know how to screenshot) 
+2025-02-27 09:15:35,055 - INFO - Image Paths: ['https://preview.redd.it/68ujg8c6ymle1.jpg?width=3024&format=pjpg&auto=webp&s=098a609509e7625aceaee2440d8a6bd9980fafc4', 'https://preview.redd.it/n0zgr8c6ymle1.jpg?width=4032&format=pjpg&auto=webp&s=92b63a25850fcc83b7ac378ea104ad08164e8c31']
+2025-02-27 09:15:35,055 - INFO - Video Path: 
+2025-02-27 09:15:35,168 - INFO - Downloaded media from https://preview.redd.it/68ujg8c6ymle1.jpg?width=3024&format=pjpg&auto=webp&s=098a609509e7625aceaee2440d8a6bd9980fafc4 to temp_image.jpg
+2025-02-27 09:15:37,913 - INFO - Downloaded media from https://preview.redd.it/n0zgr8c6ymle1.jpg?width=4032&format=pjpg&auto=webp&s=92b63a25850fcc83b7ac378ea104ad08164e8c31 to temp_image.jpg
+2025-02-27 09:15:40,524 - INFO - Posted content successfully. Tweet ID: 1895040087391641811
