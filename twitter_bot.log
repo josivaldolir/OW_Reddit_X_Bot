@@ -1767,3 +1767,12 @@ Too Many Requests
 2025-02-27 23:13:54,362 - INFO - Downloaded media from https://preview.redd.it/rlwsic03frle1.jpeg?auto=webp&s=8346afd65a9aff7298812ff5ebde652c135f0b95 to temp_image.jpg
 2025-02-27 23:13:55,719 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-02-27 23:35:35,225 - INFO - Content: New Orisa Ability: Grind
+
+2025-02-27 23:35:35,225 - INFO - Image Paths: ['https://external-preview.redd.it/cHJ6M3Awd2h3cWxlMeN8y_BTjU0A2rREQZ-kEoy7B-ncJjfgEBGAL7RUCSdz.png?format=pjpg&auto=webp&s=362400072b97e274a0fbb1121b0b6ccb3ee306c1']
+2025-02-27 23:35:35,225 - INFO - Video Path: https://v.redd.it/zl5f60whwqle1/DASH_1080.mp4?source=fallback
+2025-02-27 23:35:35,364 - INFO - Downloaded media from https://v.redd.it/zl5f60whwqle1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-02-27 23:35:35,472 - INFO - Downloaded media from https://v.redd.it/zl5f60whwqle1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-02-27 23:35:35,951 - INFO - Combined video and audio into temp_combined.mp4
+2025-02-27 23:35:40,927 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
