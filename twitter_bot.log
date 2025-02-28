@@ -1931,3 +1931,9 @@ Yall I mean ACROSS the map, like I’m on payload with the team and one team mat
 2025-02-28 11:36:12,395 - INFO - Image Paths: []
 2025-02-28 11:36:12,395 - INFO - Video Path: 
 2025-02-28 11:36:12,746 - INFO - Posted content successfully. Tweet ID: 1895437845718036899
+2025-02-28 12:28:23,643 - INFO - Content: Jetpack Dog confirmed??
+
+2025-02-28 12:28:23,643 - INFO - Image Paths: ['https://external-preview.redd.it/Oo_AkRTh5b7WR3tf4k6Md4IUz9pG2W_TP1RhvBXRjQ4.png?auto=webp&s=7664372f60ecf5ab3ae576900f423216d4e7b062']
+2025-02-28 12:28:23,643 - INFO - Video Path: 
+2025-02-28 12:28:23,826 - INFO - Downloaded media from https://external-preview.redd.it/Oo_AkRTh5b7WR3tf4k6Md4IUz9pG2W_TP1RhvBXRjQ4.png?auto=webp&s=7664372f60ecf5ab3ae576900f423216d4e7b062 to temp_image.jpg
+2025-02-28 12:28:25,058 - INFO - Posted content successfully. Tweet ID: 1895450983112597828
