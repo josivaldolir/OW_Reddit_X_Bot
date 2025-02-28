@@ -1945,3 +1945,9 @@ Like cmon.
 2025-02-28 12:58:50,165 - INFO - Downloaded media from https://v.redd.it/p6qz204ggvle1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-02-28 12:58:50,471 - INFO - Combined video and audio into temp_combined.mp4
 2025-02-28 12:59:02,949 - INFO - Posted content successfully. Tweet ID: 1895458691970671063
+2025-02-28 13:26:30,142 - INFO - Content: When the watch is under
+
+2025-02-28 13:26:30,142 - INFO - Image Paths: ['https://preview.redd.it/tvoferkxvqle1.png?auto=webp&s=357bfeff1809f51f96f1e75d8ee2df258d419cf6']
+2025-02-28 13:26:30,142 - INFO - Video Path: 
+2025-02-28 13:26:30,284 - INFO - Downloaded media from https://preview.redd.it/tvoferkxvqle1.png?auto=webp&s=357bfeff1809f51f96f1e75d8ee2df258d419cf6 to temp_image.jpg
+2025-02-28 13:26:31,699 - INFO - Posted content successfully. Tweet ID: 1895465606625075473
