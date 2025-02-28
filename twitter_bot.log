@@ -1821,3 +1821,10 @@ Too Many Requests
 2025-02-28 04:41:05,429 - INFO - Combined video and audio into temp_combined.mp4
 2025-02-28 04:41:10,468 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-02-28 05:14:14,432 - INFO - Content: Do you remember her?
+
+2025-02-28 05:14:14,432 - INFO - Image Paths: ['https://preview.redd.it/rlwsic03frle1.jpeg?auto=webp&s=8346afd65a9aff7298812ff5ebde652c135f0b95']
+2025-02-28 05:14:14,432 - INFO - Video Path: 
+2025-02-28 05:14:14,759 - INFO - Downloaded media from https://preview.redd.it/rlwsic03frle1.jpeg?auto=webp&s=8346afd65a9aff7298812ff5ebde652c135f0b95 to temp_image.jpg
+2025-02-28 05:14:16,176 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
