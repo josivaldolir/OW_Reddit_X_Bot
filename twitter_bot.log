@@ -1783,3 +1783,9 @@ Too Many Requests
 2025-02-28 01:05:56,803 - INFO - Downloaded media from https://preview.redd.it/n2v599b9grle1.jpeg?auto=webp&s=8e8619d5d56e9e8359cadd13bab49cc7cdfd756b to temp_image.jpg
 2025-02-28 01:05:58,305 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-02-28 02:39:02,976 - INFO - Content: 🗣️INTI LLUQSIMUN!!!
+
+2025-02-28 02:39:02,977 - INFO - Image Paths: ['https://preview.redd.it/n2v599b9grle1.jpeg?auto=webp&s=8e8619d5d56e9e8359cadd13bab49cc7cdfd756b']
+2025-02-28 02:39:02,977 - INFO - Video Path: 
+2025-02-28 02:39:03,132 - INFO - Downloaded media from https://preview.redd.it/n2v599b9grle1.jpeg?auto=webp&s=8e8619d5d56e9e8359cadd13bab49cc7cdfd756b to temp_image.jpg
+2025-02-28 02:39:04,864 - INFO - Posted content successfully. Tweet ID: 1895302671197970607
