@@ -2102,3 +2102,11 @@ My artists rendition:
 2025-02-28 23:12:59,758 - INFO - Downloaded media from https://preview.redd.it/unosfsfbsxle1.png?width=1500&format=png&auto=webp&s=a4ff340cc178324cf848f3150f3465729fda38ae to temp_image.jpg
 2025-02-28 23:13:00,718 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-02-28 23:35:25,811 - INFO - Content: Sombra DokiWatch skin concept
+
+2025-02-28 23:35:25,811 - INFO - Image Paths: ['https://preview.redd.it/d6wfprfbsxle1.png?width=4129&format=png&auto=webp&s=193c6f2336d568614c6e43682afe7e85bb791e36', 'https://preview.redd.it/unosfsfbsxle1.png?width=1500&format=png&auto=webp&s=a4ff340cc178324cf848f3150f3465729fda38ae']
+2025-02-28 23:35:25,811 - INFO - Video Path: 
+2025-02-28 23:35:26,036 - INFO - Downloaded media from https://preview.redd.it/d6wfprfbsxle1.png?width=4129&format=png&auto=webp&s=193c6f2336d568614c6e43682afe7e85bb791e36 to temp_image.jpg
+2025-02-28 23:35:27,261 - INFO - Downloaded media from https://preview.redd.it/unosfsfbsxle1.png?width=1500&format=png&auto=webp&s=a4ff340cc178324cf848f3150f3465729fda38ae to temp_image.jpg
+2025-02-28 23:35:28,047 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
