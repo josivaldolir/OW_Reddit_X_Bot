@@ -2024,3 +2024,11 @@ My prediction:
 2025-02-28 16:43:35,593 - INFO - Image Paths: []
 2025-02-28 16:43:35,593 - INFO - Video Path: 
 2025-02-28 16:43:36,031 - INFO - Posted content successfully. Tweet ID: 1895515202441085010
+2025-02-28 17:12:26,631 - INFO - Content: Sigma is my best tank
+
+2025-02-28 17:12:26,631 - INFO - Image Paths: ['https://external-preview.redd.it/ejUydHR0YW14dGxlMV9LIcbQxgEQHjJcDaZrAh5ESYkOolDgbA9J3r1Y_vLB.png?format=pjpg&auto=webp&s=3bb60f484d125ad117f2978dd2bf52097e26ee90']
+2025-02-28 17:12:26,631 - INFO - Video Path: https://v.redd.it/sch7dnhmxtle1/DASH_1080.mp4?source=fallback
+2025-02-28 17:12:27,317 - INFO - Downloaded media from https://v.redd.it/sch7dnhmxtle1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-02-28 17:12:27,748 - INFO - Downloaded media from https://v.redd.it/sch7dnhmxtle1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-02-28 17:12:28,059 - INFO - Combined video and audio into temp_combined.mp4
+2025-02-28 17:12:36,142 - INFO - Posted content successfully. Tweet ID: 1895522500865380827
