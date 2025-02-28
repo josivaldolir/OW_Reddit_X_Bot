@@ -1828,3 +1828,9 @@ Too Many Requests
 2025-02-28 05:14:14,759 - INFO - Downloaded media from https://preview.redd.it/rlwsic03frle1.jpeg?auto=webp&s=8346afd65a9aff7298812ff5ebde652c135f0b95 to temp_image.jpg
 2025-02-28 05:14:16,176 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-02-28 05:39:38,375 - INFO - Content: Do you remember her?
+
+2025-02-28 05:39:38,375 - INFO - Image Paths: ['https://preview.redd.it/rlwsic03frle1.jpeg?auto=webp&s=8346afd65a9aff7298812ff5ebde652c135f0b95']
+2025-02-28 05:39:38,375 - INFO - Video Path: 
+2025-02-28 05:39:38,687 - INFO - Downloaded media from https://preview.redd.it/rlwsic03frle1.jpeg?auto=webp&s=8346afd65a9aff7298812ff5ebde652c135f0b95 to temp_image.jpg
+2025-02-28 05:39:40,597 - INFO - Posted content successfully. Tweet ID: 1895348118377603196
