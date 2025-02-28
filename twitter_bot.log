@@ -2086,3 +2086,11 @@ My artists rendition:
 2025-02-28 22:13:17,975 - INFO - Combined video and audio into temp_combined.mp4
 2025-02-28 22:13:25,239 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-02-28 22:38:28,880 - INFO - Content: What if when you equip a souvenir, it shows it to whoever you killed?
+My artists rendition:
+2025-02-28 22:38:28,880 - INFO - Image Paths: ['https://external-preview.redd.it/cGZ4bGEzdGwweWxlMV7dyqKoZ_lcpzYnB096kfnqFV-ZsdWZXdZqcZW5ZtJc.png?format=pjpg&auto=webp&s=7c503b50b1ff035489714d11977a5042c4252905']
+2025-02-28 22:38:28,880 - INFO - Video Path: https://v.redd.it/nv0s3rvl0yle1/DASH_1080.mp4?source=fallback
+2025-02-28 22:38:29,471 - INFO - Downloaded media from https://v.redd.it/nv0s3rvl0yle1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-02-28 22:38:29,562 - INFO - Downloaded media from https://v.redd.it/nv0s3rvl0yle1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-02-28 22:38:29,920 - INFO - Combined video and audio into temp_combined.mp4
+2025-02-28 22:38:39,808 - INFO - Posted content successfully. Tweet ID: 1895604556832391195
