@@ -1776,3 +1776,10 @@ Too Many Requests
 2025-02-27 23:35:35,951 - INFO - Combined video and audio into temp_combined.mp4
 2025-02-27 23:35:40,927 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-02-28 01:05:56,223 - INFO - Content: 🗣️INTI LLUQSIMUN!!!
+
+2025-02-28 01:05:56,223 - INFO - Image Paths: ['https://preview.redd.it/n2v599b9grle1.jpeg?auto=webp&s=8e8619d5d56e9e8359cadd13bab49cc7cdfd756b']
+2025-02-28 01:05:56,223 - INFO - Video Path: 
+2025-02-28 01:05:56,803 - INFO - Downloaded media from https://preview.redd.it/n2v599b9grle1.jpeg?auto=webp&s=8e8619d5d56e9e8359cadd13bab49cc7cdfd756b to temp_image.jpg
+2025-02-28 01:05:58,305 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
