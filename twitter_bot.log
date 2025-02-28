@@ -2077,3 +2077,12 @@ With everyone flexing there loot boxes I decided to share mine
 2025-02-28 21:35:27,570 - INFO - Video Path: 
 2025-02-28 21:35:27,778 - INFO - Downloaded media from https://preview.redd.it/0y5d8vlx1yle1.jpeg?auto=webp&s=bb6041e43a55b56dfee5f1ab9bcea01c800aea95 to temp_image.jpg
 2025-02-28 21:35:28,790 - INFO - Posted content successfully. Tweet ID: 1895588655835574459
+2025-02-28 22:13:16,856 - INFO - Content: What if when you equip a souvenir, it shows it to whoever you killed?
+My artists rendition:
+2025-02-28 22:13:16,856 - INFO - Image Paths: ['https://external-preview.redd.it/cGZ4bGEzdGwweWxlMV7dyqKoZ_lcpzYnB096kfnqFV-ZsdWZXdZqcZW5ZtJc.png?format=pjpg&auto=webp&s=7c503b50b1ff035489714d11977a5042c4252905']
+2025-02-28 22:13:16,856 - INFO - Video Path: https://v.redd.it/nv0s3rvl0yle1/DASH_1080.mp4?source=fallback
+2025-02-28 22:13:17,364 - INFO - Downloaded media from https://v.redd.it/nv0s3rvl0yle1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-02-28 22:13:17,635 - INFO - Downloaded media from https://v.redd.it/nv0s3rvl0yle1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-02-28 22:13:17,975 - INFO - Combined video and audio into temp_combined.mp4
+2025-02-28 22:13:25,239 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
