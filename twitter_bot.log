@@ -1843,3 +1843,10 @@ Too Many Requests
 2025-02-28 06:19:46,275 - INFO - Combined video and audio into temp_combined.mp4
 2025-02-28 06:19:51,178 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-02-28 06:44:00,207 - INFO - Content: I'm tired of seeing her in every match I play
+
+2025-02-28 06:44:00,207 - INFO - Image Paths: ['https://preview.redd.it/3n3u2eisotle1.png?auto=webp&s=6927caf2d9ffd3b2d0b0832182a00c06163b275b']
+2025-02-28 06:44:00,207 - INFO - Video Path: 
+2025-02-28 06:44:00,596 - INFO - Downloaded media from https://preview.redd.it/3n3u2eisotle1.png?auto=webp&s=6927caf2d9ffd3b2d0b0832182a00c06163b275b to temp_image.jpg
+2025-02-28 06:44:01,738 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
