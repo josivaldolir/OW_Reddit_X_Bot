@@ -2037,3 +2037,11 @@ Do you only say GG when it actually was a good game or do you just say it just b
 2025-02-28 18:19:05,885 - INFO - Image Paths: []
 2025-02-28 18:19:05,885 - INFO - Video Path: 
 2025-02-28 18:19:06,275 - INFO - Posted content successfully. Tweet ID: 1895539236775883104
+2025-02-28 18:44:08,095 - INFO - Content: Enjoy a widow 5k, 4 headshots, no misses, in overtime.
+
+2025-02-28 18:44:08,096 - INFO - Image Paths: ['https://external-preview.redd.it/eTRkaTYxNWY0eGxlMYFTUfcnNbtL5MVPNKcL5lEuzfE8yupXLV_4zoO6_DG-.png?format=pjpg&auto=webp&s=5221f0a2cfc83536e1970bbb6825b35e8e43a2d5']
+2025-02-28 18:44:08,096 - INFO - Video Path: https://v.redd.it/8qy0r05f4xle1/DASH_1080.mp4?source=fallback
+2025-02-28 18:44:08,917 - INFO - Downloaded media from https://v.redd.it/8qy0r05f4xle1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-02-28 18:44:09,032 - INFO - Downloaded media from https://v.redd.it/8qy0r05f4xle1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-02-28 18:44:11,320 - INFO - Combined video and audio into temp_combined.mp4
+2025-02-28 18:44:23,564 - INFO - Posted content successfully. Tweet ID: 1895545600642613618
