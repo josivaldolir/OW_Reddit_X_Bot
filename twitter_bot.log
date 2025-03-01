@@ -2336,3 +2336,9 @@ Was I supposed to know back in December that the Skins would suddenly be back fo
 2025-03-01 19:10:47,819 - INFO - Downloaded media from https://v.redd.it/6hxihqgjd4me1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-01 19:10:53,130 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-01 19:11:10,031 - INFO - Posted content successfully. Tweet ID: 1895914726254919734
+2025-03-01 19:35:21,845 - INFO - Content: Nothing even changed 😭
+
+2025-03-01 19:35:21,845 - INFO - Image Paths: ['https://preview.redd.it/fwfsai3oo4me1.jpeg?auto=webp&s=f8d4c1dfb0cba34e7c72d1db63a2734c62e9940a']
+2025-03-01 19:35:21,845 - INFO - Video Path: 
+2025-03-01 19:35:22,135 - INFO - Downloaded media from https://preview.redd.it/fwfsai3oo4me1.jpeg?auto=webp&s=f8d4c1dfb0cba34e7c72d1db63a2734c62e9940a to temp_image.jpg
+2025-03-01 19:35:23,863 - INFO - Posted content successfully. Tweet ID: 1895920823208120372
