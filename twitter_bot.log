@@ -2387,3 +2387,11 @@ Too Many Requests
 2025-03-01 22:37:53,575 - INFO - Downloaded media from https://preview.redd.it/7ema1xpy95me1.png?width=754&format=png&auto=webp&s=20ad1bb474b543c61aa10f352bfa58a8fb0ba9f3 to temp_image.jpg
 2025-03-01 22:37:54,185 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-01 23:14:54,523 - INFO - Content: POV: You're about to hit the biggest piledrive in your entire life. Art by me 🐹
+
+2025-03-01 23:14:54,523 - INFO - Image Paths: ['https://preview.redd.it/de1wzdpn95me1.png?width=754&format=png&auto=webp&s=6f8bfbe33abce8ad1f48d62fc6e33f123897ccc1', 'https://preview.redd.it/7ema1xpy95me1.png?width=754&format=png&auto=webp&s=20ad1bb474b543c61aa10f352bfa58a8fb0ba9f3']
+2025-03-01 23:14:54,523 - INFO - Video Path: 
+2025-03-01 23:14:54,809 - INFO - Downloaded media from https://preview.redd.it/de1wzdpn95me1.png?width=754&format=png&auto=webp&s=6f8bfbe33abce8ad1f48d62fc6e33f123897ccc1 to temp_image.jpg
+2025-03-01 23:14:55,536 - INFO - Downloaded media from https://preview.redd.it/7ema1xpy95me1.png?width=754&format=png&auto=webp&s=20ad1bb474b543c61aa10f352bfa58a8fb0ba9f3 to temp_image.jpg
+2025-03-01 23:14:56,300 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
