@@ -2328,3 +2328,11 @@ Was I supposed to know back in December that the Skins would suddenly be back fo
 2025-03-01 18:40:49,925 - INFO - Downloaded media from https://preview.redd.it/admixbl8g2me1.jpg?width=1280&format=pjpg&auto=webp&s=04a1f854d2592b3f538cc3a1aa66be53c28b056f to temp_image.jpg
 2025-03-01 18:40:50,719 - INFO - Downloaded media from https://preview.redd.it/tk380en8g2me1.jpg?width=1280&format=pjpg&auto=webp&s=7b761f41b521c141e105ac55bbf229376558c7b2 to temp_image.jpg
 2025-03-01 18:40:51,994 - INFO - Posted content successfully. Tweet ID: 1895907100544409699
+2025-03-01 19:10:47,289 - INFO - Content: Ana "DANCES" D.VA to sleeeeep!
+
+2025-03-01 19:10:47,289 - INFO - Image Paths: ['https://external-preview.redd.it/bWk3cXFxZ2pkNG1lMfxnOWhvneAZcmpi07cSCGpKCmvwlc5xKKADNdJY3jnO.png?format=pjpg&auto=webp&s=0397ab4b1175a8587e09ab9070c98899859c62a9']
+2025-03-01 19:10:47,289 - INFO - Video Path: https://v.redd.it/6hxihqgjd4me1/DASH_1080.mp4?source=fallback
+2025-03-01 19:10:47,648 - INFO - Downloaded media from https://v.redd.it/6hxihqgjd4me1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-01 19:10:47,819 - INFO - Downloaded media from https://v.redd.it/6hxihqgjd4me1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-01 19:10:53,130 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-01 19:11:10,031 - INFO - Posted content successfully. Tweet ID: 1895914726254919734
