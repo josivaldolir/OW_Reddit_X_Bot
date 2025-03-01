@@ -2129,3 +2129,12 @@ I was forced to draw this at gun point
 2025-03-01 03:27:18,787 - INFO - Downloaded media from https://preview.redd.it/d6wfprfbsxle1.png?width=4129&format=png&auto=webp&s=193c6f2336d568614c6e43682afe7e85bb791e36 to temp_image.jpg
 2025-03-01 03:27:20,318 - INFO - Downloaded media from https://preview.redd.it/unosfsfbsxle1.png?width=1500&format=png&auto=webp&s=a4ff340cc178324cf848f3150f3465729fda38ae to temp_image.jpg
 2025-03-01 03:27:23,927 - INFO - Posted content successfully. Tweet ID: 1895677208422990060
+2025-03-01 03:46:41,317 - INFO - Content: Y'all ain't ready for this death blossom
+Jealous yet? 
+2025-03-01 03:46:41,317 - INFO - Image Paths: ['https://external-preview.redd.it/b3JocHUzenI2emxlMX1ENzTN9yyZEddmIwXMNzcsavsGNpQ2WmSKLEvIhOKb.png?format=pjpg&auto=webp&s=4e5bfb1751b996b642e2a1c6a77a341961155eda']
+2025-03-01 03:46:41,317 - INFO - Video Path: https://v.redd.it/qwncex3s6zle1/DASH_1080.mp4?source=fallback
+2025-03-01 03:46:43,380 - INFO - Downloaded media from https://v.redd.it/qwncex3s6zle1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-01 03:46:43,682 - INFO - Downloaded media from https://v.redd.it/qwncex3s6zle1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-01 03:46:44,025 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-01 03:46:50,892 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
