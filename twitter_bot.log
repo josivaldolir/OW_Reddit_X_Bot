@@ -2204,3 +2204,11 @@ Not sure how practical it is but I thought it was funny.
 2025-03-01 08:16:49,593 - INFO - Video Path: 
 2025-03-01 08:16:49,874 - INFO - Downloaded media from https://preview.redd.it/24xhiov5gzle1.png?auto=webp&s=127b4713b688d4dbdb4e3e14ff43aea0e1e91968 to temp_image.jpg
 2025-03-01 08:16:51,975 - INFO - Posted content successfully. Tweet ID: 1895750063156031885
+2025-03-01 08:40:27,259 - INFO - Content: Y'all ain't ready for this death blossom
+Jealous yet? 
+2025-03-01 08:40:27,260 - INFO - Image Paths: ['https://external-preview.redd.it/b3JocHUzenI2emxlMX1ENzTN9yyZEddmIwXMNzcsavsGNpQ2WmSKLEvIhOKb.png?format=pjpg&auto=webp&s=4e5bfb1751b996b642e2a1c6a77a341961155eda']
+2025-03-01 08:40:27,260 - INFO - Video Path: https://v.redd.it/qwncex3s6zle1/DASH_1080.mp4?source=fallback
+2025-03-01 08:40:27,554 - INFO - Downloaded media from https://v.redd.it/qwncex3s6zle1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-01 08:40:27,646 - INFO - Downloaded media from https://v.redd.it/qwncex3s6zle1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-01 08:40:27,967 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-01 08:40:38,219 - INFO - Posted content successfully. Tweet ID: 1895756048260329512
