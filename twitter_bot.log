@@ -2371,3 +2371,11 @@ Also for every Firestrike into Deflect the false sense of security lulls them in
 2025-03-01 21:36:20,483 - INFO - Downloaded media from https://preview.redd.it/9i194w9125me1.png?width=2560&format=png&auto=webp&s=68422b30e0aa7c87a8eded7ffac5275fdb6bea95 to temp_image.jpg
 2025-03-01 21:36:21,530 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-01 22:12:23,069 - INFO - Content: POV: You're about to hit the biggest piledrive in your entire life. Art by me 🐹
+
+2025-03-01 22:12:23,069 - INFO - Image Paths: ['https://preview.redd.it/de1wzdpn95me1.png?width=754&format=png&auto=webp&s=6f8bfbe33abce8ad1f48d62fc6e33f123897ccc1', 'https://preview.redd.it/7ema1xpy95me1.png?width=754&format=png&auto=webp&s=20ad1bb474b543c61aa10f352bfa58a8fb0ba9f3']
+2025-03-01 22:12:23,069 - INFO - Video Path: 
+2025-03-01 22:12:23,437 - INFO - Downloaded media from https://preview.redd.it/de1wzdpn95me1.png?width=754&format=png&auto=webp&s=6f8bfbe33abce8ad1f48d62fc6e33f123897ccc1 to temp_image.jpg
+2025-03-01 22:12:24,331 - INFO - Downloaded media from https://preview.redd.it/7ema1xpy95me1.png?width=754&format=png&auto=webp&s=20ad1bb474b543c61aa10f352bfa58a8fb0ba9f3 to temp_image.jpg
+2025-03-01 22:12:25,145 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
