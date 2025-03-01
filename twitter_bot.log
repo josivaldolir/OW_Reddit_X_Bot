@@ -2147,3 +2147,12 @@ Jealous yet?
 2025-03-01 04:16:32,795 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-01 04:16:39,677 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-01 04:39:27,632 - INFO - Content: Y'all ain't ready for this death blossom
+Jealous yet? 
+2025-03-01 04:39:27,632 - INFO - Image Paths: ['https://external-preview.redd.it/b3JocHUzenI2emxlMX1ENzTN9yyZEddmIwXMNzcsavsGNpQ2WmSKLEvIhOKb.png?format=pjpg&auto=webp&s=4e5bfb1751b996b642e2a1c6a77a341961155eda']
+2025-03-01 04:39:27,632 - INFO - Video Path: https://v.redd.it/qwncex3s6zle1/DASH_1080.mp4?source=fallback
+2025-03-01 04:39:28,188 - INFO - Downloaded media from https://v.redd.it/qwncex3s6zle1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-01 04:39:28,506 - INFO - Downloaded media from https://v.redd.it/qwncex3s6zle1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-01 04:39:28,833 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-01 04:39:34,780 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
