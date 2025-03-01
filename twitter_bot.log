@@ -2156,3 +2156,12 @@ Jealous yet?
 2025-03-01 04:39:28,833 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-01 04:39:34,780 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-01 05:13:16,641 - INFO - Content: Why Are There So Many Live Versions in battle.net?
+
+2025-03-01 05:13:16,641 - INFO - Image Paths: ['https://preview.redd.it/nxhm392zpzle1.png?width=335&format=png&auto=webp&s=4490383e985c26dd277069466c65df1e43d4a406', 'https://preview.redd.it/plbw06a0qzle1.png?width=336&format=png&auto=webp&s=8b63b03c05c74dd867eaed7eb5b08d853349ed1b', 'https://preview.redd.it/l576yud1qzle1.png?width=315&format=png&auto=webp&s=a37ece8799ee0bc396bd6bf2edfc2874104b3715']
+2025-03-01 05:13:16,642 - INFO - Video Path: 
+2025-03-01 05:13:16,829 - INFO - Downloaded media from https://preview.redd.it/nxhm392zpzle1.png?width=335&format=png&auto=webp&s=4490383e985c26dd277069466c65df1e43d4a406 to temp_image.jpg
+2025-03-01 05:13:17,476 - INFO - Downloaded media from https://preview.redd.it/plbw06a0qzle1.png?width=336&format=png&auto=webp&s=8b63b03c05c74dd867eaed7eb5b08d853349ed1b to temp_image.jpg
+2025-03-01 05:13:18,080 - INFO - Downloaded media from https://preview.redd.it/l576yud1qzle1.png?width=315&format=png&auto=webp&s=a37ece8799ee0bc396bd6bf2edfc2874104b3715 to temp_image.jpg
+2025-03-01 05:13:18,748 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
