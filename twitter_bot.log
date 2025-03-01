@@ -2311,3 +2311,11 @@ I don't know if this is intentional or not, but reinhardt's shield bash override
 2025-03-01 17:36:04,609 - INFO - Downloaded media from https://v.redd.it/3892jlx2k3me1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-01 17:36:05,175 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-01 17:36:12,833 - INFO - Posted content successfully. Tweet ID: 1895890830721733005
+2025-03-01 18:18:33,223 - INFO - Content: im just a girl
+
+2025-03-01 18:18:33,223 - INFO - Image Paths: ['https://external-preview.redd.it/cmN4ZWttMnAxNG1lMVRP2H-mN08v0qY0SRO4d4R89NhdZrArFzfLZ3pHYEZD.png?format=pjpg&auto=webp&s=b5b983e23ca7256b528e7cdb7d28ae91f0025832']
+2025-03-01 18:18:33,223 - INFO - Video Path: https://v.redd.it/9rd8j1ap14me1/DASH_1080.mp4?source=fallback
+2025-03-01 18:18:34,358 - INFO - Downloaded media from https://v.redd.it/9rd8j1ap14me1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-01 18:18:34,907 - INFO - Downloaded media from https://v.redd.it/9rd8j1ap14me1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-01 18:18:40,086 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-01 18:18:49,317 - INFO - Posted content successfully. Tweet ID: 1895901553292115972
