@@ -2319,3 +2319,12 @@ I don't know if this is intentional or not, but reinhardt's shield bash override
 2025-03-01 18:18:34,907 - INFO - Downloaded media from https://v.redd.it/9rd8j1ap14me1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-01 18:18:40,086 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-01 18:18:49,317 - INFO - Posted content successfully. Tweet ID: 1895901553292115972
+2025-03-01 18:40:47,993 - INFO - Content: When I could buy League Tokens, the League skins weren't for sale. Now that they are, I can't buy the Tokens?
+Was I supposed to know back in December that the Skins would suddenly be back for sale (unannounced), and should have stocked up on Tokens? Do they want my money or not?
+2025-03-01 18:40:47,993 - INFO - Image Paths: ['https://preview.redd.it/8h6w6gh8g2me1.jpg?width=1280&format=pjpg&auto=webp&s=2c027bd12d5d577001936ef84ea663cbd489fa6f', 'https://preview.redd.it/4qumloj8g2me1.jpg?width=1280&format=pjpg&auto=webp&s=72fe8b95f4f853114a6c095cb37703dea6e11b7e', 'https://preview.redd.it/admixbl8g2me1.jpg?width=1280&format=pjpg&auto=webp&s=04a1f854d2592b3f538cc3a1aa66be53c28b056f', 'https://preview.redd.it/tk380en8g2me1.jpg?width=1280&format=pjpg&auto=webp&s=7b761f41b521c141e105ac55bbf229376558c7b2']
+2025-03-01 18:40:47,993 - INFO - Video Path: 
+2025-03-01 18:40:48,260 - INFO - Downloaded media from https://preview.redd.it/8h6w6gh8g2me1.jpg?width=1280&format=pjpg&auto=webp&s=2c027bd12d5d577001936ef84ea663cbd489fa6f to temp_image.jpg
+2025-03-01 18:40:49,114 - INFO - Downloaded media from https://preview.redd.it/4qumloj8g2me1.jpg?width=1280&format=pjpg&auto=webp&s=72fe8b95f4f853114a6c095cb37703dea6e11b7e to temp_image.jpg
+2025-03-01 18:40:49,925 - INFO - Downloaded media from https://preview.redd.it/admixbl8g2me1.jpg?width=1280&format=pjpg&auto=webp&s=04a1f854d2592b3f538cc3a1aa66be53c28b056f to temp_image.jpg
+2025-03-01 18:40:50,719 - INFO - Downloaded media from https://preview.redd.it/tk380en8g2me1.jpg?width=1280&format=pjpg&auto=webp&s=7b761f41b521c141e105ac55bbf229376558c7b2 to temp_image.jpg
+2025-03-01 18:40:51,994 - INFO - Posted content successfully. Tweet ID: 1895907100544409699
