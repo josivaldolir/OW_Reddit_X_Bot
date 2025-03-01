@@ -2282,3 +2282,11 @@ What are we thinking here, what’s the consensus? Is she overtuned? Fine? I’m
 2025-03-01 15:36:48,264 - INFO - Downloaded media from https://v.redd.it/otnb037xd3me1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-01 15:36:48,587 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-01 15:36:55,910 - INFO - Posted content successfully. Tweet ID: 1895860812406726818
+2025-03-01 16:15:12,354 - INFO - Content: Lucio booped me into pinning brig
+
+2025-03-01 16:15:12,354 - INFO - Image Paths: ['https://external-preview.redd.it/YnhlZXhyd2IwM21lMTeWu6R-bQevqzA_wzFqbNb5Wkf0poiJiK1N62u7sMCy.png?format=pjpg&auto=webp&s=862df6a9da23b53f58d91362c0b5bae5183f0aa4']
+2025-03-01 16:15:12,354 - INFO - Video Path: https://v.redd.it/pshreejc03me1/DASH_720.mp4?source=fallback
+2025-03-01 16:15:12,681 - INFO - Downloaded media from https://v.redd.it/pshreejc03me1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-03-01 16:15:12,865 - INFO - Downloaded media from https://v.redd.it/pshreejc03me1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-03-01 16:15:13,503 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-01 16:15:19,743 - INFO - Posted content successfully. Tweet ID: 1895870475298861084
