@@ -2173,3 +2173,9 @@ Too Many Requests
 2025-03-01 05:37:32,598 - INFO - Downloaded media from https://preview.redd.it/plbw06a0qzle1.png?width=336&format=png&auto=webp&s=8b63b03c05c74dd867eaed7eb5b08d853349ed1b to temp_image.jpg
 2025-03-01 05:37:33,163 - INFO - Downloaded media from https://preview.redd.it/l576yud1qzle1.png?width=315&format=png&auto=webp&s=a37ece8799ee0bc396bd6bf2edfc2874104b3715 to temp_image.jpg
 2025-03-01 05:37:34,177 - INFO - Posted content successfully. Tweet ID: 1895709977945440672
+2025-03-01 06:20:10,393 - INFO - Content: I wish it were possible to get these Echo sprays in lootboxes
+Unfortunately, Blizzard has confirmed that lootboxes won’t contain Duplicates.
+2025-03-01 06:20:10,394 - INFO - Image Paths: ['https://preview.redd.it/oqtsoxtil0me1.jpeg?auto=webp&s=f4f9120284b17dc96af3a178f0df796792e9d9bd']
+2025-03-01 06:20:10,394 - INFO - Video Path: 
+2025-03-01 06:20:10,529 - INFO - Downloaded media from https://preview.redd.it/oqtsoxtil0me1.jpeg?auto=webp&s=f4f9120284b17dc96af3a178f0df796792e9d9bd to temp_image.jpg
+2025-03-01 06:20:11,899 - INFO - Posted content successfully. Tweet ID: 1895720705205117399
