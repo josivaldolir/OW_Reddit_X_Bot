@@ -2274,3 +2274,11 @@ What are we thinking here, what’s the consensus? Is she overtuned? Fine? I’m
 2025-03-01 15:13:13,321 - INFO - Video Path: 
 2025-03-01 15:13:13,594 - INFO - Downloaded media from https://preview.redd.it/ztgt4p2gb3me1.gif?format=png8&s=0dfe343fd1b5e95917a9ae9c18660fbeac21163c to temp_image.jpg
 2025-03-01 15:13:14,562 - INFO - Posted content successfully. Tweet ID: 1895854850765705570
+2025-03-01 15:36:47,012 - INFO - Content: I deleted this Tracer
+
+2025-03-01 15:36:47,012 - INFO - Image Paths: ['https://external-preview.redd.it/eHR0dXk0bWFlM21lMQ67oYCt_MGBCnsTlu-tANfz8XfB1ckAX11woELQh2Op.png?format=pjpg&auto=webp&s=4a7b4435eb9c957c9bfa91d345ea93a0d26ea91c']
+2025-03-01 15:36:47,012 - INFO - Video Path: https://v.redd.it/otnb037xd3me1/DASH_1080.mp4?source=fallback
+2025-03-01 15:36:47,802 - INFO - Downloaded media from https://v.redd.it/otnb037xd3me1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-01 15:36:48,264 - INFO - Downloaded media from https://v.redd.it/otnb037xd3me1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-01 15:36:48,587 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-01 15:36:55,910 - INFO - Posted content successfully. Tweet ID: 1895860812406726818
