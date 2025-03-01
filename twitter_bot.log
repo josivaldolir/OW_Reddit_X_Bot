@@ -2179,3 +2179,13 @@ Unfortunately, Blizzard has confirmed that lootboxes won’t contain Duplicates.
 2025-03-01 06:20:10,394 - INFO - Video Path: 
 2025-03-01 06:20:10,529 - INFO - Downloaded media from https://preview.redd.it/oqtsoxtil0me1.jpeg?auto=webp&s=f4f9120284b17dc96af3a178f0df796792e9d9bd to temp_image.jpg
 2025-03-01 06:20:11,899 - INFO - Posted content successfully. Tweet ID: 1895720705205117399
+2025-03-01 06:43:06,522 - INFO - Content: I drew a bunch of Overwatch heroes as animals
+
+2025-03-01 06:43:06,522 - INFO - Image Paths: ['https://preview.redd.it/cmnjf6b5bzle1.png?width=498&format=png&auto=webp&s=30c6fda5b181a67a8e246433fb9374fbdd2961b9', 'https://preview.redd.it/4a077nh5bzle1.png?width=590&format=png&auto=webp&s=56aa558dca283ee4e7a60d8cc2e1fd17cf1f88fd', 'https://preview.redd.it/zz1fkz56bzle1.png?width=440&format=png&auto=webp&s=3c4c564fbe8f6759ba079b712d92c7bee4fa80af', 'https://preview.redd.it/fil0h4i6bzle1.png?width=813&format=png&auto=webp&s=646066f3c2a3b43b0b8ad3c2a596b0963ab59871']
+2025-03-01 06:43:06,522 - INFO - Video Path: 
+2025-03-01 06:43:06,722 - INFO - Downloaded media from https://preview.redd.it/cmnjf6b5bzle1.png?width=498&format=png&auto=webp&s=30c6fda5b181a67a8e246433fb9374fbdd2961b9 to temp_image.jpg
+2025-03-01 06:43:07,499 - INFO - Downloaded media from https://preview.redd.it/4a077nh5bzle1.png?width=590&format=png&auto=webp&s=56aa558dca283ee4e7a60d8cc2e1fd17cf1f88fd to temp_image.jpg
+2025-03-01 06:43:08,120 - INFO - Downloaded media from https://preview.redd.it/zz1fkz56bzle1.png?width=440&format=png&auto=webp&s=3c4c564fbe8f6759ba079b712d92c7bee4fa80af to temp_image.jpg
+2025-03-01 06:43:08,900 - INFO - Downloaded media from https://preview.redd.it/fil0h4i6bzle1.png?width=813&format=png&auto=webp&s=646066f3c2a3b43b0b8ad3c2a596b0963ab59871 to temp_image.jpg
+2025-03-01 06:43:09,667 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
