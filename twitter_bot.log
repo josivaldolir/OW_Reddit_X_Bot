@@ -2707,3 +2707,12 @@ I'm so happy to see everyone! Especially since many friends said they came after
 2025-03-02 20:15:00,023 - INFO - Downloaded media from https://preview.redd.it/ytz63ungubme1.png?width=979&format=png&auto=webp&s=2cd792955b9e619f1859ce627b9470152f014bef to temp_image.jpg
 2025-03-02 20:15:00,757 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-02 20:36:04,666 - INFO - Content: Alternative level 2 Lifeweaving perk for Lifeweaver concept
+
+2025-03-02 20:36:04,666 - INFO - Image Paths: ['https://external-preview.redd.it/c3MxMzk1Y2d2Ym1lMYbDJFq51ggGw0GEBV9Jr2YRSOLDwKCuTBE7dkm08rtg.png?format=pjpg&auto=webp&s=7fea470fd599dbbc5c5b1799a2c7a3c7f7b2c417']
+2025-03-02 20:36:04,666 - INFO - Video Path: https://v.redd.it/1pxeb6cgvbme1/DASH_1080.mp4?source=fallback
+2025-03-02 20:36:05,300 - INFO - Downloaded media from https://v.redd.it/1pxeb6cgvbme1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-02 20:36:05,658 - INFO - Downloaded media from https://v.redd.it/1pxeb6cgvbme1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-02 20:36:06,026 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-02 20:36:14,243 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
