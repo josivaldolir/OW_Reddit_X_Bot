@@ -2716,3 +2716,11 @@ Too Many Requests
 2025-03-02 20:36:06,026 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-02 20:36:14,243 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-02 21:12:52,003 - INFO - Content: Alternative level 2 Lifeweaving perk for Lifeweaver concept
+
+2025-03-02 21:12:52,003 - INFO - Image Paths: ['https://external-preview.redd.it/c3MxMzk1Y2d2Ym1lMYbDJFq51ggGw0GEBV9Jr2YRSOLDwKCuTBE7dkm08rtg.png?format=pjpg&auto=webp&s=7fea470fd599dbbc5c5b1799a2c7a3c7f7b2c417']
+2025-03-02 21:12:52,003 - INFO - Video Path: https://v.redd.it/1pxeb6cgvbme1/DASH_1080.mp4?source=fallback
+2025-03-02 21:12:52,316 - INFO - Downloaded media from https://v.redd.it/1pxeb6cgvbme1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-02 21:12:52,428 - INFO - Downloaded media from https://v.redd.it/1pxeb6cgvbme1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-02 21:12:52,759 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-02 21:13:03,624 - INFO - Posted content successfully. Tweet ID: 1896307789812875276
