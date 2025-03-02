@@ -2724,3 +2724,12 @@ Too Many Requests
 2025-03-02 21:12:52,428 - INFO - Downloaded media from https://v.redd.it/1pxeb6cgvbme1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-02 21:12:52,759 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-02 21:13:03,624 - INFO - Posted content successfully. Tweet ID: 1896307789812875276
+2025-03-02 22:37:34,970 - INFO - Content: So, I love the idea of Maximillian being a playable hero, but I have zero clue what his kit would be. Any ideas?
+I just love fancy suited video game characters but nothing Max does is very- combat related so idk how it’d work lol
+2025-03-02 22:37:34,970 - INFO - Image Paths: ['https://preview.redd.it/8k31qpel5cme1.jpg?width=971&format=pjpg&auto=webp&s=ed9a1df87158d4e809ac6be8f5a1cc24229c8180', 'https://preview.redd.it/b2vrxhel5cme1.jpg?width=1200&format=pjpg&auto=webp&s=7d456d825f13334179c669f92b1bcba19aeadd6d', 'https://preview.redd.it/uv3sidel5cme1.jpg?width=1200&format=pjpg&auto=webp&s=57526999a457a21bffae36ce9a346512cd1f4431']
+2025-03-02 22:37:34,970 - INFO - Video Path: 
+2025-03-02 22:37:35,259 - INFO - Downloaded media from https://preview.redd.it/8k31qpel5cme1.jpg?width=971&format=pjpg&auto=webp&s=ed9a1df87158d4e809ac6be8f5a1cc24229c8180 to temp_image.jpg
+2025-03-02 22:37:36,063 - INFO - Downloaded media from https://preview.redd.it/b2vrxhel5cme1.jpg?width=1200&format=pjpg&auto=webp&s=7d456d825f13334179c669f92b1bcba19aeadd6d to temp_image.jpg
+2025-03-02 22:37:37,152 - INFO - Downloaded media from https://preview.redd.it/uv3sidel5cme1.jpg?width=1200&format=pjpg&auto=webp&s=57526999a457a21bffae36ce9a346512cd1f4431 to temp_image.jpg
+2025-03-02 22:37:38,017 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
