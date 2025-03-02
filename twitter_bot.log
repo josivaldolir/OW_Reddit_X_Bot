@@ -2591,3 +2591,11 @@ i feel like he is just doing what he is told and doing that what he thinks is ri
 2025-03-02 12:54:32,892 - INFO - Video Path: 
 2025-03-02 12:54:33,113 - INFO - Downloaded media from https://preview.redd.it/i9rog4aom8me1.jpeg?auto=webp&s=9841f7f9e361bc6660bbdd18d0f5526a16f3a7b4 to temp_image.jpg
 2025-03-02 12:54:34,022 - INFO - Posted content successfully. Tweet ID: 1896182339731935546
+2025-03-02 13:16:56,104 - INFO - Content: You ever get lightheaded laughing at something you just did
+Felt good 
+2025-03-02 13:16:56,104 - INFO - Image Paths: ['https://external-preview.redd.it/ZmowNHM5NjUyOG1lMfWs64AgCbUBhxigofN9SySMzavxP2GIaRywpnoXhviU.png?format=pjpg&auto=webp&s=d244b48f7a8f4220747adb6c744664d0e40e31e3']
+2025-03-02 13:16:56,104 - INFO - Video Path: https://v.redd.it/jvmke69528me1/DASH_1080.mp4?source=fallback
+2025-03-02 13:16:57,412 - INFO - Downloaded media from https://v.redd.it/jvmke69528me1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-02 13:16:57,958 - INFO - Downloaded media from https://v.redd.it/jvmke69528me1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-02 13:16:58,605 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-02 13:17:09,612 - INFO - Posted content successfully. Tweet ID: 1896188025614356481
