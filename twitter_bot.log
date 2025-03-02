@@ -2679,3 +2679,13 @@ I have a pretty good time until I play against some sweaty god tier fellas and g
 2025-03-02 18:42:33,716 - INFO - Video Path: 
 2025-03-02 18:42:34,009 - INFO - Downloaded media from https://preview.redd.it/oa9msyijxame1.jpeg?auto=webp&s=6607cec24ce6bfcb52c266403295daddf0ee9c84 to temp_image.jpg
 2025-03-02 18:42:36,647 - INFO - Posted content successfully. Tweet ID: 1896269925632573768
+2025-03-02 19:10:20,904 - INFO - Content: Who has the best spray voiceline combo?
+I set my quick melee key to press 3 keys depending on how far I press it using DKS on my Wooting keyboard, then just assigned my spray up and voiceline up to two of those, for anyone wondering. 
+
+Most keyboards could replicate this with a macro, but since macros use the same timing every time, could be flagged by anti-cheat, so use at your own risk. DKS varies every time depending on how far and fast it's pressed, so I'm not too worried about it being flagged. 
+2025-03-02 19:10:20,904 - INFO - Image Paths: ['https://external-preview.redd.it/M2FiZ25sa2h1YW1lMTkjKAPlGUa21u-ZbOqADZTanEIs_aGOpFCD325U9va9.png?format=pjpg&auto=webp&s=55eb1b3f2b65643cde4e432b63a1f3e1632ad2a4']
+2025-03-02 19:10:20,904 - INFO - Video Path: https://v.redd.it/q97t3lnhuame1/DASH_1080.mp4?source=fallback
+2025-03-02 19:10:21,729 - INFO - Downloaded media from https://v.redd.it/q97t3lnhuame1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-02 19:10:22,177 - INFO - Downloaded media from https://v.redd.it/q97t3lnhuame1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-02 19:10:22,451 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-02 19:10:40,215 - INFO - Posted content successfully. Tweet ID: 1896276989272608824
