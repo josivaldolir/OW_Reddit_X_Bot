@@ -2667,3 +2667,9 @@ Do other people enjoy it? If so, why?
 2025-03-02 17:37:17,278 - INFO - Downloaded media from https://v.redd.it/xv6apioysame1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-02 17:37:19,104 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-02 17:37:28,533 - INFO - Posted content successfully. Tweet ID: 1896253536159338784
+2025-03-02 18:19:00,076 - INFO - Content: Reyes has questions
+
+2025-03-02 18:19:00,076 - INFO - Image Paths: ['https://preview.redd.it/1etzagw9dbme1.jpeg?auto=webp&s=8e6a61b09cf95c5a4f54ad75d05635f75cc3faf2']
+2025-03-02 18:19:00,076 - INFO - Video Path: 
+2025-03-02 18:19:00,378 - INFO - Downloaded media from https://preview.redd.it/1etzagw9dbme1.jpeg?auto=webp&s=8e6a61b09cf95c5a4f54ad75d05635f75cc3faf2 to temp_image.jpg
+2025-03-02 18:19:01,459 - INFO - Posted content successfully. Tweet ID: 1896263991896478118
