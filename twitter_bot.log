@@ -2539,3 +2539,9 @@ Stop it. Stop it now.
 2025-03-02 10:15:11,736 - INFO - Image Paths: []
 2025-03-02 10:15:11,736 - INFO - Video Path: 
 2025-03-02 10:15:12,105 - INFO - Posted content successfully. Tweet ID: 1896142234388418716
+2025-03-02 10:38:03,945 - INFO - Content: Hear me out: Aurora-Zenyatta crossover (1:11 to 1:44)
+
+2025-03-02 10:38:03,945 - INFO - Image Paths: ['https://external-preview.redd.it/e5ozFTVG8_ugFV595gaiitmADZKcO9o4w1xOJDLbDqg.jpg?auto=webp&s=385d5e10d9b2f42f90f59fd30f48c04577753c30']
+2025-03-02 10:38:03,945 - INFO - Video Path: 
+2025-03-02 10:38:04,041 - INFO - Downloaded media from https://external-preview.redd.it/e5ozFTVG8_ugFV595gaiitmADZKcO9o4w1xOJDLbDqg.jpg?auto=webp&s=385d5e10d9b2f42f90f59fd30f48c04577753c30 to temp_image.jpg
+2025-03-02 10:38:04,850 - INFO - Posted content successfully. Tweet ID: 1896147991922114843
