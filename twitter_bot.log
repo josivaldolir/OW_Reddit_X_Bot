@@ -2599,3 +2599,14 @@ Felt good
 2025-03-02 13:16:57,958 - INFO - Downloaded media from https://v.redd.it/jvmke69528me1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-02 13:16:58,605 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-02 13:17:09,612 - INFO - Posted content successfully. Tweet ID: 1896188025614356481
+2025-03-02 13:35:41,269 - INFO - Content: Overwatch's New Mercy Weapon Buddy Looks Just Like Kero from Cardcaptor Sakura!
+Has anyone else noticed how similar the little creature on Mercy’s weapon skin looks to Kero (Keroberos) from Cardcaptor Sakura? The yellow fur, cute round ears, tiny white wings, and even the fluffy tail—it’s basically a twin!
+
+I know Overwatch loves adding references and homages in their skins, but this one seems almost too close to be a coincidence. Do you think it's an intentional nod to the classic anime, or just a cute coincidence? Either way, as a CCS fan, I’m loving it!
+
+What do you all think?
+2025-03-02 13:35:41,270 - INFO - Image Paths: ['https://preview.redd.it/7fch7p1w45me1.png?auto=webp&s=12a96432c699823f4f8685adab73edf88f34effc']
+2025-03-02 13:35:41,270 - INFO - Video Path: 
+2025-03-02 13:35:41,403 - INFO - Downloaded media from https://preview.redd.it/7fch7p1w45me1.png?auto=webp&s=12a96432c699823f4f8685adab73edf88f34effc to temp_image.jpg
+2025-03-02 13:35:45,563 - ERROR - Failed to post content: 503 Service Unavailable
+Service Unavailable
