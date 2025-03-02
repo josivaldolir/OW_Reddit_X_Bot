@@ -2490,3 +2490,11 @@ for me
 2025-03-02 07:12:06,844 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-02 07:12:08,680 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-02 07:35:37,742 - INFO - Content: never gets old
+for me
+2025-03-02 07:35:37,742 - INFO - Image Paths: ['https://external-preview.redd.it/Nzl3Mzh5ZGp2N21lMZ4HlXZOLt42gAD90QzlvR0csbd-e_Xb-Ep_U1_VYeDS.png?format=pjpg&auto=webp&s=6f2e8b58a92169a23f65e22366dae0da021d7723']
+2025-03-02 07:35:37,742 - INFO - Video Path: https://v.redd.it/myyzxxjjv7me1/DASH_270.mp4?source=fallback
+2025-03-02 07:35:37,916 - INFO - Downloaded media from https://v.redd.it/myyzxxjjv7me1/DASH_270.mp4?source=fallback to temp_video.mp4
+2025-03-02 07:35:37,985 - INFO - Downloaded media from https://v.redd.it/myyzxxjjv7me1/DASH_270.mp4?source=fallback to temp_audio.mp4
+2025-03-02 07:35:38,206 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-02 07:35:40,244 - INFO - Posted content successfully. Tweet ID: 1896102087005782463
