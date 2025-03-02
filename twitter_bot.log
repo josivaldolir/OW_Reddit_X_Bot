@@ -2432,3 +2432,11 @@ Too Many Requests
 2025-03-02 03:43:17,185 - INFO - Downloaded media from https://preview.redd.it/9i194w9125me1.png?width=2560&format=png&auto=webp&s=68422b30e0aa7c87a8eded7ffac5275fdb6bea95 to temp_image.jpg
 2025-03-02 03:43:18,225 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-02 04:16:11,603 - INFO - Content: I think I just received the best compliment I've ever had in this game. . .
+
+2025-03-02 04:16:11,603 - INFO - Image Paths: ['https://preview.redd.it/tum9cw9125me1.png?width=887&format=png&auto=webp&s=4c4950ab483e0637421d50648e67237788f19569', 'https://preview.redd.it/9i194w9125me1.png?width=2560&format=png&auto=webp&s=68422b30e0aa7c87a8eded7ffac5275fdb6bea95']
+2025-03-02 04:16:11,603 - INFO - Video Path: 
+2025-03-02 04:16:11,962 - INFO - Downloaded media from https://preview.redd.it/tum9cw9125me1.png?width=887&format=png&auto=webp&s=4c4950ab483e0637421d50648e67237788f19569 to temp_image.jpg
+2025-03-02 04:16:12,928 - INFO - Downloaded media from https://preview.redd.it/9i194w9125me1.png?width=2560&format=png&auto=webp&s=68422b30e0aa7c87a8eded7ffac5275fdb6bea95 to temp_image.jpg
+2025-03-02 04:16:13,840 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
