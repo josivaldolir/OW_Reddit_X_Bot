@@ -2402,3 +2402,11 @@ Too Many Requests
 2025-03-01 23:35:24,095 - INFO - Downloaded media from https://preview.redd.it/de1wzdpn95me1.png?width=754&format=png&auto=webp&s=6f8bfbe33abce8ad1f48d62fc6e33f123897ccc1 to temp_image.jpg
 2025-03-01 23:35:25,130 - INFO - Downloaded media from https://preview.redd.it/7ema1xpy95me1.png?width=754&format=png&auto=webp&s=20ad1bb474b543c61aa10f352bfa58a8fb0ba9f3 to temp_image.jpg
 2025-03-01 23:35:26,401 - INFO - Posted content successfully. Tweet ID: 1895981231810195965
+2025-03-02 01:10:50,949 - INFO - Content: I think I just received the best compliment I've ever had in this game. . .
+
+2025-03-02 01:10:50,949 - INFO - Image Paths: ['https://preview.redd.it/tum9cw9125me1.png?width=887&format=png&auto=webp&s=4c4950ab483e0637421d50648e67237788f19569', 'https://preview.redd.it/9i194w9125me1.png?width=2560&format=png&auto=webp&s=68422b30e0aa7c87a8eded7ffac5275fdb6bea95']
+2025-03-02 01:10:50,949 - INFO - Video Path: 
+2025-03-02 01:10:51,182 - INFO - Downloaded media from https://preview.redd.it/tum9cw9125me1.png?width=887&format=png&auto=webp&s=4c4950ab483e0637421d50648e67237788f19569 to temp_image.jpg
+2025-03-02 01:10:52,200 - INFO - Downloaded media from https://preview.redd.it/9i194w9125me1.png?width=2560&format=png&auto=webp&s=68422b30e0aa7c87a8eded7ffac5275fdb6bea95 to temp_image.jpg
+2025-03-02 01:10:53,273 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
