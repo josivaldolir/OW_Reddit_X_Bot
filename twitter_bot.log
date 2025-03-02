@@ -2467,3 +2467,17 @@ Too Many Requests
 2025-03-02 06:18:53,475 - INFO - Video Path: 
 2025-03-02 06:18:53,715 - INFO - Downloaded media from https://preview.redd.it/dssyuer4d6me1.jpeg?auto=webp&s=662998dffdd5efc59840a721caea162d3671fae5 to temp_image.jpg
 2025-03-02 06:18:54,973 - INFO - Posted content successfully. Tweet ID: 1896082770205819354
+2025-03-02 06:42:24,168 - INFO - Content: I'm insane with Reaper
+I think I'll reach Masters soon 
+
+
+*dw it was Quickplay and we still won* 
+
+
+2025-03-02 06:42:24,168 - INFO - Image Paths: ['https://external-preview.redd.it/ajczcGUxejlmNm1lMYDtdGxOJF_mEykT4FMtUiMQy5lWAXWaFFBXJ4QJCQH6.png?format=pjpg&auto=webp&s=0872dfa41e9bc899940a1aa8fb254f2aa81efa66']
+2025-03-02 06:42:24,168 - INFO - Video Path: https://v.redd.it/hz809d7af6me1/DASH_1080.mp4?source=fallback
+2025-03-02 06:42:24,642 - INFO - Downloaded media from https://v.redd.it/hz809d7af6me1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-02 06:42:24,934 - INFO - Downloaded media from https://v.redd.it/hz809d7af6me1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-02 06:42:25,301 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-02 06:42:30,703 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
