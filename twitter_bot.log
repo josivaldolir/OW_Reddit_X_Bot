@@ -2653,3 +2653,9 @@ Do other people enjoy it? If so, why?
 2025-03-02 16:15:54,718 - INFO - Image Paths: []
 2025-03-02 16:15:54,719 - INFO - Video Path: 
 2025-03-02 16:15:55,098 - INFO - Posted content successfully. Tweet ID: 1896233011647017451
+2025-03-02 17:11:31,277 - INFO - Content: The ow1 nostalgia is hitting hard this week
+
+2025-03-02 17:11:31,277 - INFO - Image Paths: ['https://preview.redd.it/0fl89ahc4bme1.jpeg?auto=webp&s=07676195d3c28ca82b97be01bb01910a048e7e0a']
+2025-03-02 17:11:31,277 - INFO - Video Path: 
+2025-03-02 17:11:31,447 - INFO - Downloaded media from https://preview.redd.it/0fl89ahc4bme1.jpeg?auto=webp&s=07676195d3c28ca82b97be01bb01910a048e7e0a to temp_image.jpg
+2025-03-02 17:11:32,488 - INFO - Posted content successfully. Tweet ID: 1896247009247436908
