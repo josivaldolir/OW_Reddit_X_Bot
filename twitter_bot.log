@@ -136,3 +136,9 @@ They wasted 40 minutes of our lives, and even if the account gets banned, they c
 2025-03-03 21:38:26,829 - INFO - Downloaded media from https://preview.redd.it/fmv20zu2fjme1.png?auto=webp&s=7d8ff65b2f5f451036001498ac9f3cf229ae4d05 to temp_image.jpg
 2025-03-03 21:38:27,761 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-03 22:13:45,425 - INFO - Content: Literally cant have shit in this house
+
+2025-03-03 22:13:45,425 - INFO - Image Paths: ['https://preview.redd.it/fmv20zu2fjme1.png?auto=webp&s=7d8ff65b2f5f451036001498ac9f3cf229ae4d05']
+2025-03-03 22:13:45,425 - INFO - Video Path: 
+2025-03-03 22:13:45,502 - INFO - Downloaded media from https://preview.redd.it/fmv20zu2fjme1.png?auto=webp&s=7d8ff65b2f5f451036001498ac9f3cf229ae4d05 to temp_image.jpg
+2025-03-03 22:13:46,636 - INFO - Posted content successfully. Tweet ID: 1896685457490247688
