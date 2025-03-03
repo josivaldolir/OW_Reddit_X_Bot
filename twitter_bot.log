@@ -2799,3 +2799,9 @@ No we are not a free kill go away
 2025-03-03 04:41:51,889 - INFO - Downloaded media from https://preview.redd.it/w8zc4nnn8dme1.png?width=2048&format=png&auto=webp&s=0bb109d2e149fa23fe6d2d331569683f3d928c1a to temp_image.jpg
 2025-03-03 04:41:52,714 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-03 05:14:54,546 - INFO - Content: Good work boys
+
+2025-03-03 05:14:54,546 - INFO - Image Paths: ['https://preview.redd.it/zqkyxndzqdme1.png?auto=webp&s=4982f219e2f8e3482fcb444d6398e96f1c48560a']
+2025-03-03 05:14:54,546 - INFO - Video Path: 
+2025-03-03 05:14:54,684 - INFO - Downloaded media from https://preview.redd.it/zqkyxndzqdme1.png?auto=webp&s=4982f219e2f8e3482fcb444d6398e96f1c48560a to temp_image.jpg
+2025-03-03 05:14:55,575 - INFO - Posted content successfully. Tweet ID: 1896429055202963536
