@@ -2889,3 +2889,9 @@ Please consider checking out tiltify.com/@rsveev/endms or dropping by @rsveev on
 2025-03-03 10:42:10,114 - INFO - Image Paths: []
 2025-03-03 10:42:10,114 - INFO - Video Path: 
 2025-03-03 10:42:10,571 - INFO - Posted content successfully. Tweet ID: 1896511410613391441
+2025-03-03 11:12:54,735 - INFO - Content: Chaos
+
+2025-03-03 11:12:54,735 - INFO - Image Paths: ['https://preview.redd.it/i9ulffvsyfme1.jpeg?auto=webp&s=de04bfeaf8dc1553a5dedc722ba76902c4c847df']
+2025-03-03 11:12:54,735 - INFO - Video Path: 
+2025-03-03 11:12:54,963 - INFO - Downloaded media from https://preview.redd.it/i9ulffvsyfme1.jpeg?auto=webp&s=de04bfeaf8dc1553a5dedc722ba76902c4c847df to temp_image.jpg
+2025-03-03 11:12:55,783 - INFO - Posted content successfully. Tweet ID: 1896519149737976258
