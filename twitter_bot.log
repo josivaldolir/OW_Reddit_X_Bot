@@ -142,3 +142,9 @@ Too Many Requests
 2025-03-03 22:13:45,425 - INFO - Video Path: 
 2025-03-03 22:13:45,502 - INFO - Downloaded media from https://preview.redd.it/fmv20zu2fjme1.png?auto=webp&s=7d8ff65b2f5f451036001498ac9f3cf229ae4d05 to temp_image.jpg
 2025-03-03 22:13:46,636 - INFO - Posted content successfully. Tweet ID: 1896685457490247688
+2025-03-03 22:39:35,611 - INFO - Content: Is Hanzo strong that he can tank it or is Genji such a fraud that he made the attack weak?
+
+2025-03-03 22:39:35,611 - INFO - Image Paths: ['https://preview.redd.it/rjz3r624ujme1.png?auto=webp&s=c8c8eaf805385bc81a3f47e478df9b0d2082b9e5']
+2025-03-03 22:39:35,611 - INFO - Video Path: 
+2025-03-03 22:39:35,856 - INFO - Downloaded media from https://preview.redd.it/rjz3r624ujme1.png?auto=webp&s=c8c8eaf805385bc81a3f47e478df9b0d2082b9e5 to temp_image.jpg
+2025-03-03 22:39:37,033 - INFO - Posted content successfully. Tweet ID: 1896691958955020609
