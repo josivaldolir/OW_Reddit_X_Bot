@@ -2817,3 +2817,15 @@ No we are not a free kill go away
 2025-03-03 05:39:13,212 - INFO - Downloaded media from https://preview.redd.it/w8zc4nnn8dme1.png?width=2048&format=png&auto=webp&s=0bb109d2e149fa23fe6d2d331569683f3d928c1a to temp_image.jpg
 2025-03-03 05:39:13,975 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-03 06:20:45,207 - INFO - Content: We are no prey Moira stop
+No we are not a free kill go away 
+
+*cries*
+2025-03-03 06:20:45,207 - INFO - Image Paths: ['https://preview.redd.it/lonvb5dn8dme1.png?width=2048&format=png&auto=webp&s=96e45d1c9be5e9dc46c2eb90f12e27b4bed75312', 'https://preview.redd.it/b3t5ytgn8dme1.png?width=2048&format=png&auto=webp&s=bdbd54238c7f6b8135e2f771b4a4d635b0b0ff19', 'https://preview.redd.it/97k3q2kn8dme1.png?width=2048&format=png&auto=webp&s=0354c511f29c3de8c3d3dd6f7d876f283d5ba6c0', 'https://preview.redd.it/w8zc4nnn8dme1.png?width=2048&format=png&auto=webp&s=0bb109d2e149fa23fe6d2d331569683f3d928c1a']
+2025-03-03 06:20:45,207 - INFO - Video Path: 
+2025-03-03 06:20:45,549 - INFO - Downloaded media from https://preview.redd.it/lonvb5dn8dme1.png?width=2048&format=png&auto=webp&s=96e45d1c9be5e9dc46c2eb90f12e27b4bed75312 to temp_image.jpg
+2025-03-03 06:20:46,441 - INFO - Downloaded media from https://preview.redd.it/b3t5ytgn8dme1.png?width=2048&format=png&auto=webp&s=bdbd54238c7f6b8135e2f771b4a4d635b0b0ff19 to temp_image.jpg
+2025-03-03 06:20:47,187 - INFO - Downloaded media from https://preview.redd.it/97k3q2kn8dme1.png?width=2048&format=png&auto=webp&s=0354c511f29c3de8c3d3dd6f7d876f283d5ba6c0 to temp_image.jpg
+2025-03-03 06:20:47,918 - INFO - Downloaded media from https://preview.redd.it/w8zc4nnn8dme1.png?width=2048&format=png&auto=webp&s=0bb109d2e149fa23fe6d2d331569683f3d928c1a to temp_image.jpg
+2025-03-03 06:20:48,597 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
