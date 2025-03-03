@@ -2781,3 +2781,9 @@ Too Many Requests
 2025-03-03 03:44:51,059 - INFO - Downloaded media from https://preview.redd.it/yg5r38ot6dme1.jpeg?auto=webp&s=0a7aa563793e08058eea6c07b8f7ff67d3f432f3 to temp_image.jpg
 2025-03-03 03:44:52,133 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-03 04:19:21,169 - INFO - Content: Realistic Winston
+
+2025-03-03 04:19:21,169 - INFO - Image Paths: ['https://preview.redd.it/yg5r38ot6dme1.jpeg?auto=webp&s=0a7aa563793e08058eea6c07b8f7ff67d3f432f3']
+2025-03-03 04:19:21,169 - INFO - Video Path: 
+2025-03-03 04:19:21,318 - INFO - Downloaded media from https://preview.redd.it/yg5r38ot6dme1.jpeg?auto=webp&s=0a7aa563793e08058eea6c07b8f7ff67d3f432f3 to temp_image.jpg
+2025-03-03 04:19:22,603 - INFO - Posted content successfully. Tweet ID: 1896415075650728436
