@@ -25,3 +25,11 @@ Low key it's kinda cute and I appreciate that the devs took the time to record, 
 2025-03-03 14:14:11,460 - INFO - Video Path: 
 2025-03-03 14:14:11,844 - INFO - Downloaded media from https://preview.redd.it/j3td98xibhme1.jpeg?auto=webp&s=898d256b163f6ae3f322349be9eeac4d69eb9fd4 to temp_image.jpg
 2025-03-03 14:14:13,365 - INFO - Posted content successfully. Tweet ID: 1896564773128413277
+2025-03-03 14:40:48,114 - INFO - Content: it do be like that for rein mains [I'm one of them]
+
+2025-03-03 14:40:48,114 - INFO - Image Paths: ['https://external-preview.redd.it/YnZzOWZtMmQ2Zm1lMcb90-kO5ZvPr5Vpwu93cvOArXyRGpYGsNSKYfO8BKKc.png?format=pjpg&auto=webp&s=34060e1980ea8ee341e62326a8f74725301e8197']
+2025-03-03 14:40:48,114 - INFO - Video Path: https://v.redd.it/njbsnn2d6fme1/DASH_720.mp4?source=fallback
+2025-03-03 14:40:48,575 - INFO - Downloaded media from https://v.redd.it/njbsnn2d6fme1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-03-03 14:40:48,827 - INFO - Downloaded media from https://v.redd.it/njbsnn2d6fme1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-03-03 14:40:49,810 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-03 14:40:57,175 - INFO - Posted content successfully. Tweet ID: 1896571500557127754
