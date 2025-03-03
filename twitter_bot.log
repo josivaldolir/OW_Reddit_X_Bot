@@ -47,3 +47,11 @@ Me when, when the support that works trusts me 🗣️🔥
 2025-03-03 15:39:27,971 - INFO - Downloaded media from https://v.redd.it/kyluvvawchme1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-03-03 15:39:28,451 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-03 15:39:33,889 - INFO - Posted content successfully. Tweet ID: 1896586250792124904
+2025-03-03 16:17:29,503 - INFO - Content: Dragon lighter
+Was looking through my gallery when...
+2025-03-03 16:17:29,504 - INFO - Image Paths: ['https://preview.redd.it/zb77qm4emhme1.jpg?width=1080&format=pjpg&auto=webp&s=2c82e2835bc5b5bfd2ac8d586c73aceb4208e56e', 'https://preview.redd.it/h21ht6aemhme1.jpg?width=1080&format=pjpg&auto=webp&s=e37f0a4eec2e9bc8a902cb7718076a6c92e790a1', 'https://preview.redd.it/pksocjcemhme1.jpg?width=1080&format=pjpg&auto=webp&s=ff2b7bff8cc2361039da52b671b02162fce3c8f8']
+2025-03-03 16:17:29,504 - INFO - Video Path: 
+2025-03-03 16:17:29,645 - INFO - Downloaded media from https://preview.redd.it/zb77qm4emhme1.jpg?width=1080&format=pjpg&auto=webp&s=2c82e2835bc5b5bfd2ac8d586c73aceb4208e56e to temp_image.jpg
+2025-03-03 16:17:30,339 - INFO - Downloaded media from https://preview.redd.it/h21ht6aemhme1.jpg?width=1080&format=pjpg&auto=webp&s=e37f0a4eec2e9bc8a902cb7718076a6c92e790a1 to temp_image.jpg
+2025-03-03 16:17:30,995 - INFO - Downloaded media from https://preview.redd.it/pksocjcemhme1.jpg?width=1080&format=pjpg&auto=webp&s=ff2b7bff8cc2361039da52b671b02162fce3c8f8 to temp_image.jpg
+2025-03-03 16:17:32,028 - INFO - Posted content successfully. Tweet ID: 1896595805508977026
