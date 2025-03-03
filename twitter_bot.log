@@ -2840,3 +2840,10 @@ No we are not a free kill go away
 2025-03-03 06:47:07,218 - INFO - Downloaded media from https://preview.redd.it/97k3q2kn8dme1.png?width=2048&format=png&auto=webp&s=0354c511f29c3de8c3d3dd6f7d876f283d5ba6c0 to temp_image.jpg
 2025-03-03 06:47:07,890 - INFO - Downloaded media from https://preview.redd.it/w8zc4nnn8dme1.png?width=2048&format=png&auto=webp&s=0bb109d2e149fa23fe6d2d331569683f3d928c1a to temp_image.jpg
 2025-03-03 06:47:10,256 - INFO - Posted content successfully. Tweet ID: 1896452265281716286
+2025-03-03 07:35:42,543 - INFO - Content: The date on Deadlock cass's jacket is impossible
+It says here that it was founded in 1976, and we know B.O.B, Ashe and Cassidy founded it, but we also know that Reinhardt was canonically born in 2015, and he is older than cass and ashe, so he cannot have founded it in 1976. Perhaps deadlock torb did lol
+2025-03-03 07:35:42,543 - INFO - Image Paths: ['https://preview.redd.it/14xz1fpg9eme1.jpeg?auto=webp&s=d5375c3599d4b6560102af8e4b265a379e0271e1']
+2025-03-03 07:35:42,543 - INFO - Video Path: 
+2025-03-03 07:35:43,059 - INFO - Downloaded media from https://preview.redd.it/14xz1fpg9eme1.jpeg?auto=webp&s=d5375c3599d4b6560102af8e4b265a379e0271e1 to temp_image.jpg
+2025-03-03 07:35:44,826 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
