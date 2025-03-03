@@ -39,3 +39,11 @@ Me when, when the support that works trusts me 🗣️🔥
 2025-03-03 15:15:31,415 - INFO - Video Path: 
 2025-03-03 15:15:31,656 - INFO - Downloaded media from https://preview.redd.it/g8s06rfddhme1.jpeg?auto=webp&s=a10992f42af6f254e48767c59eb1ac75057bf6e1 to temp_image.jpg
 2025-03-03 15:15:33,019 - INFO - Posted content successfully. Tweet ID: 1896580206619488269
+2025-03-03 15:39:27,629 - INFO - Content: The Skin that we Torbjorn players NEED, and im not saying this cuz im Irish
+
+2025-03-03 15:39:27,629 - INFO - Image Paths: ['https://external-preview.redd.it/cHdkczd3YXdjaG1lMWKhkCGfoerF3LzlCno-kfJRnqZziUsBpGtMSgo3wG6Y.png?format=pjpg&auto=webp&s=23c7870f117855af0f8b83035b79df8b19bf34da']
+2025-03-03 15:39:27,629 - INFO - Video Path: https://v.redd.it/kyluvvawchme1/DASH_720.mp4?source=fallback
+2025-03-03 15:39:27,868 - INFO - Downloaded media from https://v.redd.it/kyluvvawchme1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-03-03 15:39:27,971 - INFO - Downloaded media from https://v.redd.it/kyluvvawchme1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-03-03 15:39:28,451 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-03 15:39:33,889 - INFO - Posted content successfully. Tweet ID: 1896586250792124904
