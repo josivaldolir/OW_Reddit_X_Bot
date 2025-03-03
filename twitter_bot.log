@@ -2760,3 +2760,10 @@ I just love fancy suited video game characters but nothing Max does is very- com
 2025-03-03 01:07:50,921 - INFO - Downloaded media from https://preview.redd.it/uv3sidel5cme1.jpg?width=1200&format=pjpg&auto=webp&s=57526999a457a21bffae36ce9a346512cd1f4431 to temp_image.jpg
 2025-03-03 01:07:51,823 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-03 02:41:05,968 - INFO - Content: Realistic Winston
+
+2025-03-03 02:41:05,968 - INFO - Image Paths: ['https://preview.redd.it/yg5r38ot6dme1.jpeg?auto=webp&s=0a7aa563793e08058eea6c07b8f7ff67d3f432f3']
+2025-03-03 02:41:05,968 - INFO - Video Path: 
+2025-03-03 02:41:06,319 - INFO - Downloaded media from https://preview.redd.it/yg5r38ot6dme1.jpeg?auto=webp&s=0a7aa563793e08058eea6c07b8f7ff67d3f432f3 to temp_image.jpg
+2025-03-03 02:41:07,095 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
