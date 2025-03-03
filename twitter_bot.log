@@ -157,3 +157,12 @@ Too Many Requests
 2025-03-03 23:13:31,474 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-03 23:13:37,707 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-03 23:35:57,879 - INFO - Content: There is no way the hitbox is that big
+
+2025-03-03 23:35:57,879 - INFO - Image Paths: ['https://external-preview.redd.it/eG9oZnJqNnR0am1lMepj98-uE2Y7MxshR0DLiK773T-TwLeNaK7qHkKts1Ft.png?format=pjpg&auto=webp&s=f6aa8066d86efe4450a252ca40e699854a49b801']
+2025-03-03 23:35:57,879 - INFO - Video Path: https://v.redd.it/c3thk6bttjme1/DASH_1080.mp4?source=fallback
+2025-03-03 23:35:58,102 - INFO - Downloaded media from https://v.redd.it/c3thk6bttjme1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-03 23:35:58,171 - INFO - Downloaded media from https://v.redd.it/c3thk6bttjme1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-03 23:35:58,435 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-03 23:36:04,405 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
