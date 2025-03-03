@@ -148,3 +148,12 @@ Too Many Requests
 2025-03-03 22:39:35,611 - INFO - Video Path: 
 2025-03-03 22:39:35,856 - INFO - Downloaded media from https://preview.redd.it/rjz3r624ujme1.png?auto=webp&s=c8c8eaf805385bc81a3f47e478df9b0d2082b9e5 to temp_image.jpg
 2025-03-03 22:39:37,033 - INFO - Posted content successfully. Tweet ID: 1896691958955020609
+2025-03-03 23:13:29,840 - INFO - Content: There is no way the hitbox is that big
+
+2025-03-03 23:13:29,840 - INFO - Image Paths: ['https://external-preview.redd.it/eG9oZnJqNnR0am1lMepj98-uE2Y7MxshR0DLiK773T-TwLeNaK7qHkKts1Ft.png?format=pjpg&auto=webp&s=f6aa8066d86efe4450a252ca40e699854a49b801']
+2025-03-03 23:13:29,840 - INFO - Video Path: https://v.redd.it/c3thk6bttjme1/DASH_1080.mp4?source=fallback
+2025-03-03 23:13:30,551 - INFO - Downloaded media from https://v.redd.it/c3thk6bttjme1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-03 23:13:30,998 - INFO - Downloaded media from https://v.redd.it/c3thk6bttjme1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-03 23:13:31,474 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-03 23:13:37,707 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
