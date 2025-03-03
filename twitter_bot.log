@@ -2847,3 +2847,10 @@ It says here that it was founded in 1976, and we know B.O.B, Ashe and Cassidy fo
 2025-03-03 07:35:43,059 - INFO - Downloaded media from https://preview.redd.it/14xz1fpg9eme1.jpeg?auto=webp&s=d5375c3599d4b6560102af8e4b265a379e0271e1 to temp_image.jpg
 2025-03-03 07:35:44,826 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-03 08:21:19,239 - INFO - Content: Tfw quickplay
+
+2025-03-03 08:21:19,239 - INFO - Image Paths: ['https://preview.redd.it/rng1n6hi7fme1.jpeg?auto=webp&s=8b55d98b67332c2c15a276d6ba7b47ade333a9c9']
+2025-03-03 08:21:19,239 - INFO - Video Path: 
+2025-03-03 08:21:19,390 - INFO - Downloaded media from https://preview.redd.it/rng1n6hi7fme1.jpeg?auto=webp&s=8b55d98b67332c2c15a276d6ba7b47ade333a9c9 to temp_image.jpg
+2025-03-03 08:21:20,289 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
