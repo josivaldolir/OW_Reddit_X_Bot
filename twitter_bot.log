@@ -323,3 +323,11 @@ this has to be a bug right because what am i meant to do in this situation “sh
 2025-03-04 13:00:48,423 - INFO - Downloaded media from https://v.redd.it/c3thk6bttjme1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-04 13:00:48,618 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-04 13:00:55,123 - INFO - Posted content successfully. Tweet ID: 1896908714105516084
+2025-03-04 13:31:03,986 - INFO - Content: Enjoy this clip of my Hazard sneaking a payload push behind a full team (feat. hilarious camera cuts)
+
+2025-03-04 13:31:03,987 - INFO - Image Paths: ['https://external-preview.redd.it/dXVtdGNlemMzbW1lMdPA6yaa6NBgDeu2b_STXzl8MM2gPRSuwp0BrG0jhFQp.png?format=pjpg&auto=webp&s=4ce184ac2757c59926bc59a867a8ea855fd14bb9']
+2025-03-04 13:31:03,987 - INFO - Video Path: https://v.redd.it/96i2793d3mme1/DASH_720.mp4?source=fallback
+2025-03-04 13:31:08,897 - INFO - Downloaded media from https://v.redd.it/96i2793d3mme1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-03-04 13:31:09,000 - INFO - Downloaded media from https://v.redd.it/96i2793d3mme1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-03-04 13:31:10,439 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-04 13:31:25,718 - INFO - Posted content successfully. Tweet ID: 1896916391930032567
