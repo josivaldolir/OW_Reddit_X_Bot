@@ -268,3 +268,11 @@ Too Many Requests
 2025-03-04 08:17:06,916 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-04 08:17:14,911 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-04 09:16:31,632 - INFO - Content: As legend has it, he’s still running
+
+2025-03-04 09:16:31,632 - INFO - Image Paths: ['https://external-preview.redd.it/bjU5eHhmOW9zbG1lMaWc6xMXxqIevG-5LXek8uCX91hCEyw3ELowJzW-VV2Z.png?format=pjpg&auto=webp&s=45776fd532a153b5f25cefc03ca55507a78ab0a9']
+2025-03-04 09:16:31,632 - INFO - Video Path: https://v.redd.it/d0xg7dzoslme1/DASH_1080.mp4?source=fallback
+2025-03-04 09:16:32,207 - INFO - Downloaded media from https://v.redd.it/d0xg7dzoslme1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-04 09:16:32,775 - INFO - Downloaded media from https://v.redd.it/d0xg7dzoslme1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-04 09:16:35,489 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-04 09:16:44,307 - INFO - Posted content successfully. Tweet ID: 1896852297151381992
