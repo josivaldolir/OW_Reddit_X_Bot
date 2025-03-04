@@ -381,3 +381,9 @@ I have never seen this happen before this is odd- is this normal for just trying
 2025-03-04 17:37:49,355 - INFO - Video Path: 
 2025-03-04 17:37:49,664 - INFO - Downloaded media from https://preview.redd.it/vzs98o9bepme1.jpeg?auto=webp&s=2fd4055fc8a64d83debdfcce66a03cedbb38fa4b to temp_image.jpg
 2025-03-04 17:37:51,936 - INFO - Posted content successfully. Tweet ID: 1896978407994556895
+2025-03-04 18:19:44,164 - INFO - Content: What’s happening
+Not complaining. Just confused. Why is there a queue. This is the first time I’ve ever seen this actually
+2025-03-04 18:19:44,165 - INFO - Image Paths: ['https://preview.redd.it/rf53arpudpme1.jpeg?auto=webp&s=6284b3ff580a7afcc54e39e3cb095816d731e5e9']
+2025-03-04 18:19:44,165 - INFO - Video Path: 
+2025-03-04 18:19:44,243 - INFO - Downloaded media from https://preview.redd.it/rf53arpudpme1.jpeg?auto=webp&s=6284b3ff580a7afcc54e39e3cb095816d731e5e9 to temp_image.jpg
+2025-03-04 18:19:45,935 - INFO - Posted content successfully. Tweet ID: 1896988953133375533
