@@ -375,3 +375,9 @@ What are y'all's thoughts?
 2025-03-04 17:13:32,913 - INFO - Image Paths: []
 2025-03-04 17:13:32,913 - INFO - Video Path: 
 2025-03-04 17:13:33,410 - INFO - Posted content successfully. Tweet ID: 1896972292535804222
+2025-03-04 17:37:49,355 - INFO - Content: I’m just trying to get to the menu??
+I have never seen this happen before this is odd- is this normal for just trying to get to the menus? 
+2025-03-04 17:37:49,355 - INFO - Image Paths: ['https://preview.redd.it/vzs98o9bepme1.jpeg?auto=webp&s=2fd4055fc8a64d83debdfcce66a03cedbb38fa4b']
+2025-03-04 17:37:49,355 - INFO - Video Path: 
+2025-03-04 17:37:49,664 - INFO - Downloaded media from https://preview.redd.it/vzs98o9bepme1.jpeg?auto=webp&s=2fd4055fc8a64d83debdfcce66a03cedbb38fa4b to temp_image.jpg
+2025-03-04 17:37:51,936 - INFO - Posted content successfully. Tweet ID: 1896978407994556895
