@@ -182,3 +182,9 @@ Too Many Requests
 2025-03-04 02:39:35,576 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-04 02:39:40,945 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-04 03:27:34,253 - INFO - Content: One of my friend's asked me if i liked any overwatch ships since i mentioned reading OW fanfic, and so i responded by naming off like 6 ships, and then they pointed out to me all of them had sombra, i wasn't even aware until that point.
+
+2025-03-04 03:27:34,253 - INFO - Image Paths: ['https://preview.redd.it/2qsjni6eskme1.jpeg?auto=webp&s=72f2ea009de78f362dde3a67b21ea1e568294836']
+2025-03-04 03:27:34,253 - INFO - Video Path: 
+2025-03-04 03:27:34,496 - INFO - Downloaded media from https://preview.redd.it/2qsjni6eskme1.jpeg?auto=webp&s=72f2ea009de78f362dde3a67b21ea1e568294836 to temp_image.jpg
+2025-03-04 03:27:35,676 - INFO - Posted content successfully. Tweet ID: 1896764432086360565
