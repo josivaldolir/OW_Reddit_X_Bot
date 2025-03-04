@@ -215,3 +215,11 @@ Replay code M1QNGP this happened around 03:07
 2025-03-04 04:41:55,966 - INFO - Video Path: 
 2025-03-04 04:41:56,213 - INFO - Downloaded media from https://preview.redd.it/xqgwqczrllme1.jpeg?auto=webp&s=58fa76892b872877097459524bc8477a3646985d to temp_image.jpg
 2025-03-04 04:41:57,221 - INFO - Posted content successfully. Tweet ID: 1896783145137229934
+2025-03-04 05:14:22,629 - INFO - Content: I was wondering why I wasn't getting heals... Bless his heart
+It's mystery heroes, though, so.. No biggie. 
+2025-03-04 05:14:22,629 - INFO - Image Paths: ['https://external-preview.redd.it/OW5xbDAwcXJvbG1lMTOQErrXbvNPOFdnFrvmuV7OFgqu3vzWm5dGKo_-tH6B.png?format=pjpg&auto=webp&s=57beb7df78b9200d584435cd7f2893832007990a']
+2025-03-04 05:14:22,629 - INFO - Video Path: https://v.redd.it/6fmlghsrolme1/DASH_1080.mp4?source=fallback
+2025-03-04 05:14:24,730 - INFO - Downloaded media from https://v.redd.it/6fmlghsrolme1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-04 05:14:24,865 - INFO - Downloaded media from https://v.redd.it/6fmlghsrolme1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-04 05:14:25,310 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-04 05:14:35,503 - INFO - Posted content successfully. Tweet ID: 1896791358993801554
