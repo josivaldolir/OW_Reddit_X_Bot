@@ -454,3 +454,10 @@ I know the chances Venture gets a skin here are low (STILL PRAYING FOR A RAMATTR
 2025-03-04 23:13:38,391 - INFO - Downloaded media from https://preview.redd.it/73ovibup4qme1.jpg?width=2481&format=pjpg&auto=webp&s=b79f43a32d0f02b06ea53c65dd4c29f67c9fae7c to temp_image.jpg
 2025-03-04 23:13:39,408 - INFO - Downloaded media from https://preview.redd.it/hrgazaup4qme1.jpg?width=1800&format=pjpg&auto=webp&s=ada9cdb1d50334e39774975f0470c75fe839fb88 to temp_image.jpg
 2025-03-04 23:13:40,490 - INFO - Posted content successfully. Tweet ID: 1897062918685929667
+2025-03-04 23:35:40,603 - INFO - Content: this is just empty even after restart
+
+2025-03-04 23:35:40,603 - INFO - Image Paths: ['https://preview.redd.it/3r9kq8ve8qme1.jpg?width=1920&format=pjpg&auto=webp&s=cf0d55478ce597a95fe3f29ae3572569c970174a', 'https://preview.redd.it/54ios80f8qme1.jpg?width=1920&format=pjpg&auto=webp&s=cce6203e657361072bdf7b0bb417018bcd69b13c']
+2025-03-04 23:35:40,603 - INFO - Video Path: 
+2025-03-04 23:35:40,885 - INFO - Downloaded media from https://preview.redd.it/3r9kq8ve8qme1.jpg?width=1920&format=pjpg&auto=webp&s=cf0d55478ce597a95fe3f29ae3572569c970174a to temp_image.jpg
+2025-03-04 23:35:41,581 - INFO - Downloaded media from https://preview.redd.it/54ios80f8qme1.jpg?width=1920&format=pjpg&auto=webp&s=cce6203e657361072bdf7b0bb417018bcd69b13c to temp_image.jpg
+2025-03-04 23:35:42,635 - INFO - Posted content successfully. Tweet ID: 1897068464323359088
