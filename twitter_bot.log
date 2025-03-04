@@ -387,3 +387,11 @@ Not complaining. Just confused. Why is there a queue. This is the first time Iâ€
 2025-03-04 18:19:44,165 - INFO - Video Path: 
 2025-03-04 18:19:44,243 - INFO - Downloaded media from https://preview.redd.it/rf53arpudpme1.jpeg?auto=webp&s=6284b3ff580a7afcc54e39e3cb095816d731e5e9 to temp_image.jpg
 2025-03-04 18:19:45,935 - INFO - Posted content successfully. Tweet ID: 1896988953133375533
+2025-03-04 19:11:33,780 - INFO - Content: Everywhere I go...
+I'm reminded of the game...
+2025-03-04 19:11:33,780 - INFO - Image Paths: ['https://preview.redd.it/gop3hw9swpme1.jpg?width=3000&format=pjpg&auto=webp&s=dc3b3b3d61d337ba996fbb6152012147100d8ed6', 'https://preview.redd.it/r0vo1afswpme1.jpg?width=3000&format=pjpg&auto=webp&s=c7fb586be1993226589255748bfa7d70b9adabee', 'https://preview.redd.it/074uurjswpme1.jpg?width=3000&format=pjpg&auto=webp&s=7cecd83d98ca8a825ef03cdc5781e77d8b840d94']
+2025-03-04 19:11:33,780 - INFO - Video Path: 
+2025-03-04 19:11:33,871 - INFO - Downloaded media from https://preview.redd.it/gop3hw9swpme1.jpg?width=3000&format=pjpg&auto=webp&s=dc3b3b3d61d337ba996fbb6152012147100d8ed6 to temp_image.jpg
+2025-03-04 19:11:35,285 - INFO - Downloaded media from https://preview.redd.it/r0vo1afswpme1.jpg?width=3000&format=pjpg&auto=webp&s=c7fb586be1993226589255748bfa7d70b9adabee to temp_image.jpg
+2025-03-04 19:11:36,553 - INFO - Downloaded media from https://preview.redd.it/074uurjswpme1.jpg?width=3000&format=pjpg&auto=webp&s=7cecd83d98ca8a825ef03cdc5781e77d8b840d94 to temp_image.jpg
+2025-03-04 19:11:38,654 - INFO - Posted content successfully. Tweet ID: 1897002008382726388
