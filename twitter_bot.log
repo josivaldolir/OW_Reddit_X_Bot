@@ -232,3 +232,12 @@ It's mystery heroes, though, so.. No biggie.
 2025-03-04 06:22:45,867 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-04 06:22:54,196 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-04 06:44:35,435 - INFO - Content: As legend has it, he’s still running
+
+2025-03-04 06:44:35,436 - INFO - Image Paths: ['https://external-preview.redd.it/bjU5eHhmOW9zbG1lMaWc6xMXxqIevG-5LXek8uCX91hCEyw3ELowJzW-VV2Z.png?format=pjpg&auto=webp&s=45776fd532a153b5f25cefc03ca55507a78ab0a9']
+2025-03-04 06:44:35,436 - INFO - Video Path: https://v.redd.it/d0xg7dzoslme1/DASH_1080.mp4?source=fallback
+2025-03-04 06:44:36,466 - INFO - Downloaded media from https://v.redd.it/d0xg7dzoslme1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-04 06:44:37,011 - INFO - Downloaded media from https://v.redd.it/d0xg7dzoslme1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-04 06:44:37,219 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-04 06:44:45,699 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
