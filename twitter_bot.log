@@ -276,3 +276,11 @@ Too Many Requests
 2025-03-04 09:16:32,775 - INFO - Downloaded media from https://v.redd.it/d0xg7dzoslme1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-04 09:16:35,489 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-04 09:16:44,307 - INFO - Posted content successfully. Tweet ID: 1896852297151381992
+2025-03-04 09:39:20,351 - INFO - Content: Bastion & my birb
+He's Therion, he's a bastion fan, I painted them using the last image as reference. 
+2025-03-04 09:39:20,351 - INFO - Image Paths: ['https://preview.redd.it/z9n1c1ii9lme1.jpg?width=971&format=pjpg&auto=webp&s=88670657f085434390825174914fb6203f530c88', 'https://preview.redd.it/nkudp7ki9lme1.jpg?width=4610&format=pjpg&auto=webp&s=823c029094093e6dc5203c2b193f65b0a9cb20b0', 'https://preview.redd.it/mfxonzni9lme1.jpg?width=640&format=pjpg&auto=webp&s=2956beae5348bccbae1450d3b30818db0955f681']
+2025-03-04 09:39:20,351 - INFO - Video Path: 
+2025-03-04 09:39:20,624 - INFO - Downloaded media from https://preview.redd.it/z9n1c1ii9lme1.jpg?width=971&format=pjpg&auto=webp&s=88670657f085434390825174914fb6203f530c88 to temp_image.jpg
+2025-03-04 09:39:21,595 - INFO - Downloaded media from https://preview.redd.it/nkudp7ki9lme1.jpg?width=4610&format=pjpg&auto=webp&s=823c029094093e6dc5203c2b193f65b0a9cb20b0 to temp_image.jpg
+2025-03-04 09:39:23,343 - INFO - Downloaded media from https://preview.redd.it/mfxonzni9lme1.jpg?width=640&format=pjpg&auto=webp&s=2956beae5348bccbae1450d3b30818db0955f681 to temp_image.jpg
+2025-03-04 09:39:24,603 - INFO - Posted content successfully. Tweet ID: 1896858000989495800
