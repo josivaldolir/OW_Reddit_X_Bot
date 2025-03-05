@@ -501,3 +501,11 @@ I have the og though 😮‍💨 like man....thats gotta be one of the reasons b
 2025-03-05 04:41:04,013 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-05 04:41:17,448 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-05 05:14:39,221 - INFO - Content: Torb mains, is this fun for you guys?
+
+2025-03-05 05:14:39,221 - INFO - Image Paths: ['https://external-preview.redd.it/MjV3bW84NGJ0cW1lMVkdHwKI57ieH7_oqmyylgTKnAhy6P4RsAgAACbm3HST.png?format=pjpg&auto=webp&s=39aa81b057ed6ab02c217fde9ac3877853d146b0']
+2025-03-05 05:14:39,221 - INFO - Video Path: https://v.redd.it/zpnf994btqme1/DASH_1080.mp4?source=fallback
+2025-03-05 05:14:41,092 - INFO - Downloaded media from https://v.redd.it/zpnf994btqme1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-05 05:14:41,239 - INFO - Downloaded media from https://v.redd.it/zpnf994btqme1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-05 05:14:41,559 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-05 05:14:56,829 - INFO - Posted content successfully. Tweet ID: 1897153836374213016
