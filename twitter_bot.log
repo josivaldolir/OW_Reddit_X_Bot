@@ -620,3 +620,11 @@ Why do I get only 4 instead 5 options?
 2025-03-05 14:14:02,357 - INFO - Video Path: 
 2025-03-05 14:14:02,688 - INFO - Downloaded media from https://preview.redd.it/b6r9r080lvme1.jpeg?auto=webp&s=21886bf3ec0d706a4759ab1b602bf512eed1dded to temp_image.jpg
 2025-03-05 14:14:05,233 - INFO - Posted content successfully. Tweet ID: 1897289512876957710
+2025-03-05 14:40:18,928 - INFO - Content: Beware of flying cowboy
+
+2025-03-05 14:40:18,928 - INFO - Image Paths: ['https://external-preview.redd.it/Y2Y4dm1hcWlvdm1lMZtfG-NcczYW3ky4vs34_t70MOP1tg3EmhHiZfOudqyF.png?format=pjpg&auto=webp&s=8c916ec69ceeef574d881ec8adcb018bb796b2ee']
+2025-03-05 14:40:18,928 - INFO - Video Path: https://v.redd.it/jo30236jovme1/DASH_1080.mp4?source=fallback
+2025-03-05 14:40:21,026 - INFO - Downloaded media from https://v.redd.it/jo30236jovme1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-05 14:40:21,592 - INFO - Downloaded media from https://v.redd.it/jo30236jovme1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-05 14:40:21,900 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-05 14:40:32,141 - INFO - Posted content successfully. Tweet ID: 1897296171300737227
