@@ -598,3 +598,11 @@ Happened to me yesterday and at some point I just quit trying. Anyway I still re
 2025-03-05 12:28:14,147 - INFO - Downloaded media from https://preview.redd.it/wjz1yhcy3vme1.png?width=1920&format=png&auto=webp&s=044ea75fce21bebebbab77f283a30f78f8c2227d to temp_image.jpg
 2025-03-05 12:28:14,759 - INFO - Downloaded media from https://preview.redd.it/3qdr3qry3vme1.png?width=1920&format=png&auto=webp&s=a3ce4801da0b078c1ee75c0580d8975b26c8cea4 to temp_image.jpg
 2025-03-05 12:28:16,273 - INFO - Posted content successfully. Tweet ID: 1897262883219907022
+2025-03-05 13:01:21,222 - INFO - Content: Just a nice, fat punch into team instant team wipe.
+
+2025-03-05 13:01:21,222 - INFO - Image Paths: ['https://external-preview.redd.it/OXFoZW1zZWcydW1lMfvHIIu7VGXJqAgo2qRYRN1b0tiZqUlKYW4rtnAIK9e8.png?format=pjpg&auto=webp&s=0703eda1cccf545836e7943f617c37cbb658dc57']
+2025-03-05 13:01:21,222 - INFO - Video Path: https://v.redd.it/bj7s2ueg2ume1/DASH_1080.mp4?source=fallback
+2025-03-05 13:01:22,294 - INFO - Downloaded media from https://v.redd.it/bj7s2ueg2ume1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-05 13:01:22,830 - INFO - Downloaded media from https://v.redd.it/bj7s2ueg2ume1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-05 13:01:23,172 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-05 13:01:32,492 - INFO - Posted content successfully. Tweet ID: 1897271258619764962
