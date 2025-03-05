@@ -628,3 +628,10 @@ Why do I get only 4 instead 5 options?
 2025-03-05 14:40:21,592 - INFO - Downloaded media from https://v.redd.it/jo30236jovme1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-05 14:40:21,900 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-05 14:40:32,141 - INFO - Posted content successfully. Tweet ID: 1897296171300737227
+2025-03-05 15:16:04,109 - INFO - Content: What do you think of the gift for my friend?
+I don't know if he likes Monopoly very much, but he buys everything from Overwatch and I bought it on [Amazon](https://amzn.to/3QKuPIN) 😎 
+2025-03-05 15:16:04,109 - INFO - Image Paths: ['https://preview.redd.it/vg878rpduvme1.jpg?width=1069&format=pjpg&auto=webp&s=0cdec25f5cad357c40f780efaa7bd7b843f28443', 'https://preview.redd.it/xogr50tduvme1.jpg?width=1031&format=pjpg&auto=webp&s=8c3d8c9f8b9b958f776bd9fd3e761e121a1d4028']
+2025-03-05 15:16:04,109 - INFO - Video Path: 
+2025-03-05 15:16:04,409 - INFO - Downloaded media from https://preview.redd.it/vg878rpduvme1.jpg?width=1069&format=pjpg&auto=webp&s=0cdec25f5cad357c40f780efaa7bd7b843f28443 to temp_image.jpg
+2025-03-05 15:16:05,542 - INFO - Downloaded media from https://preview.redd.it/xogr50tduvme1.jpg?width=1031&format=pjpg&auto=webp&s=8c3d8c9f8b9b958f776bd9fd3e761e121a1d4028 to temp_image.jpg
+2025-03-05 15:16:06,710 - INFO - Posted content successfully. Tweet ID: 1897305123853943063
