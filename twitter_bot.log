@@ -509,3 +509,10 @@ Too Many Requests
 2025-03-05 05:14:41,239 - INFO - Downloaded media from https://v.redd.it/zpnf994btqme1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-05 05:14:41,559 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-05 05:14:56,829 - INFO - Posted content successfully. Tweet ID: 1897153836374213016
+2025-03-05 05:39:15,726 - INFO - Content: I got Inarius Pharah for like 1007 coins !! YIPPEEE
+revealed my cards and immediately bought her no hesitation, did it so quick i already forgot how much it was. i’m so happy 😭😭 what do you guys think of this Pharah skin ? i’ve wanted her for a while now 🥹
+2025-03-05 05:39:15,726 - INFO - Image Paths: ['https://preview.redd.it/10uxp479mrme1.jpeg?auto=webp&s=049c07b86e0b205c574419bf4646a8e3417910bc']
+2025-03-05 05:39:15,726 - INFO - Video Path: 
+2025-03-05 05:39:16,050 - INFO - Downloaded media from https://preview.redd.it/10uxp479mrme1.jpeg?auto=webp&s=049c07b86e0b205c574419bf4646a8e3417910bc to temp_image.jpg
+2025-03-05 05:39:17,244 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
