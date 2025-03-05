@@ -643,3 +643,11 @@ Has there been a stealth patch for adding voice lines to old skins? I’ve been 
 2025-03-05 15:39:11,048 - INFO - Downloaded media from https://v.redd.it/f1gjyptbkvme1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-05 15:39:11,401 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-05 15:39:19,257 - INFO - Posted content successfully. Tweet ID: 1897310965085131189
+2025-03-05 16:23:23,739 - INFO - Content: Title
+
+2025-03-05 16:23:23,739 - INFO - Image Paths: ['https://external-preview.redd.it/OG1rNmI2bWY2d21lMQQwxvkOsEEspvo3qYI-OJDWU6RGX0Y40hz1I8pxy_2-.png?format=pjpg&auto=webp&s=7b680e50dcfd7e8fb12d4a733c8d0b425e66a0c6']
+2025-03-05 16:23:23,739 - INFO - Video Path: https://v.redd.it/40xba6tf6wme1/DASH_720.mp4?source=fallback
+2025-03-05 16:23:25,094 - INFO - Downloaded media from https://v.redd.it/40xba6tf6wme1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-03-05 16:23:25,544 - INFO - Downloaded media from https://v.redd.it/40xba6tf6wme1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-03-05 16:23:28,520 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-05 16:23:42,134 - INFO - Posted content successfully. Tweet ID: 1897322134013083834
