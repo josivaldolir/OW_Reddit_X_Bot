@@ -685,3 +685,11 @@ If I know a person on the other team I'd swap out widow for a target ban if they
 2025-03-05 18:45:22,955 - INFO - Downloaded media from https://v.redd.it/b1ldumy6owme1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-05 18:45:25,178 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-05 18:45:32,358 - INFO - Posted content successfully. Tweet ID: 1897357828416852442
+2025-03-05 19:36:20,386 - INFO - Content: Ah yes, catered for your most played heros...
+
+2025-03-05 19:36:20,387 - INFO - Image Paths: ['https://preview.redd.it/og0566oz3xme1.png?width=1920&format=png&auto=webp&s=67ac2fe112554581732140cc0c88a3d0b51db811', 'https://preview.redd.it/kv6dyf104xme1.png?width=1920&format=png&auto=webp&s=3bd6b6a4fc78a0bcd45a7e2369a4c7d4b77bd9c6', 'https://preview.redd.it/vuwke5a14xme1.png?width=1920&format=png&auto=webp&s=a42eff74ea44470ddc7e2ff45525dfcbdacba6ae']
+2025-03-05 19:36:20,387 - INFO - Video Path: 
+2025-03-05 19:36:20,681 - INFO - Downloaded media from https://preview.redd.it/og0566oz3xme1.png?width=1920&format=png&auto=webp&s=67ac2fe112554581732140cc0c88a3d0b51db811 to temp_image.jpg
+2025-03-05 19:36:21,533 - INFO - Downloaded media from https://preview.redd.it/kv6dyf104xme1.png?width=1920&format=png&auto=webp&s=3bd6b6a4fc78a0bcd45a7e2369a4c7d4b77bd9c6 to temp_image.jpg
+2025-03-05 19:36:22,269 - INFO - Downloaded media from https://preview.redd.it/vuwke5a14xme1.png?width=1920&format=png&auto=webp&s=a42eff74ea44470ddc7e2ff45525dfcbdacba6ae to temp_image.jpg
+2025-03-05 19:36:23,982 - INFO - Posted content successfully. Tweet ID: 1897370625427300418
