@@ -771,3 +771,10 @@ Too Many Requests
 2025-03-06 03:44:03,420 - INFO - Downloaded media from https://preview.redd.it/g9urjpd4qzme1.jpeg?auto=webp&s=e77dcc292d3d92755fdb649a300f92064b0dc921 to temp_image.jpg
 2025-03-06 03:44:04,316 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-06 04:16:59,595 - INFO - Content: Programming 101: Add a character count to the text box!!
+
+2025-03-06 04:16:59,595 - INFO - Image Paths: ['https://preview.redd.it/g9urjpd4qzme1.jpeg?auto=webp&s=e77dcc292d3d92755fdb649a300f92064b0dc921']
+2025-03-06 04:16:59,595 - INFO - Video Path: 
+2025-03-06 04:16:59,866 - INFO - Downloaded media from https://preview.redd.it/g9urjpd4qzme1.jpeg?auto=webp&s=e77dcc292d3d92755fdb649a300f92064b0dc921 to temp_image.jpg
+2025-03-06 04:17:00,686 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
