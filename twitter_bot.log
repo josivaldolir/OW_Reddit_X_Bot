@@ -927,3 +927,10 @@ I’ve been hearing great things about overwatch 2 loot boxes! Just started play
 2025-03-06 15:19:07,457 - INFO - Downloaded media from https://preview.redd.it/ndcoiynmv2ne1.jpeg?auto=webp&s=363e45bc59a64f34764303b05b465f45ab31238e to temp_image.jpg
 2025-03-06 15:19:08,894 - INFO - Posted content successfully. Tweet ID: 1897668275984855217
 2025-03-06 16:17:51,940 - ERROR - Error in main loop: 'NoneType' object is not subscriptable
+2025-03-06 16:44:30,748 - INFO - Content: I totally forgot you can get 2 to 3 legendary skins in one Loot Box :0
+
+2025-03-06 16:44:30,748 - INFO - Image Paths: ['https://preview.redd.it/md0gzwxcy2ne1.png?width=2560&format=png&auto=webp&s=28429b7d4147e58e7d153e04853e4c7e1661a31f', 'https://preview.redd.it/07i4w1ycy2ne1.png?width=2560&format=png&auto=webp&s=3b5d0f75152632fe08a014806c7cfb503ada4661']
+2025-03-06 16:44:30,748 - INFO - Video Path: 
+2025-03-06 16:44:30,966 - INFO - Downloaded media from https://preview.redd.it/md0gzwxcy2ne1.png?width=2560&format=png&auto=webp&s=28429b7d4147e58e7d153e04853e4c7e1661a31f to temp_image.jpg
+2025-03-06 16:44:32,529 - INFO - Downloaded media from https://preview.redd.it/07i4w1ycy2ne1.png?width=2560&format=png&auto=webp&s=3b5d0f75152632fe08a014806c7cfb503ada4661 to temp_image.jpg
+2025-03-06 16:44:35,122 - INFO - Posted content successfully. Tweet ID: 1897689771658670506
