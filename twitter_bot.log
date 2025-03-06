@@ -838,3 +838,12 @@ Thanks in advance!
 2025-03-06 07:37:11,851 - INFO - Video Path: 
 2025-03-06 07:37:12,071 - INFO - Downloaded media from https://preview.redd.it/itz4mr2jwyme1.jpeg?auto=webp&s=98750a859919819eb8e0c31cac6da0ed5861c6d7 to temp_image.jpg
 2025-03-06 07:37:13,585 - INFO - Posted content successfully. Tweet ID: 1897552029343699040
+2025-03-06 08:19:27,672 - INFO - Content: Why does my team always take the scenic route when a new flashpoint appears.
+
+2025-03-06 08:19:27,672 - INFO - Image Paths: ['https://external-preview.redd.it/NTAzbnQ1ZTQ4em1lMeROjvCQTgcqzWb4jEp011qB4ezJrTn95adOZXFlCXpD.png?format=pjpg&auto=webp&s=aa16bdd69a64373b5499036b8e41ae2cc9755bea']
+2025-03-06 08:19:27,672 - INFO - Video Path: https://v.redd.it/9odsm5e48zme1/DASH_1080.mp4?source=fallback
+2025-03-06 08:19:27,879 - INFO - Downloaded media from https://v.redd.it/9odsm5e48zme1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-06 08:19:28,066 - INFO - Downloaded media from https://v.redd.it/9odsm5e48zme1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-06 08:19:31,871 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-06 08:19:54,800 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
