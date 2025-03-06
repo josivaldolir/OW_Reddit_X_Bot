@@ -798,3 +798,10 @@ People have spoken, more blood, dirt and rips. Going off of my favorite Jq line 
 2025-03-06 05:39:21,204 - INFO - Video Path: 
 2025-03-06 05:39:22,279 - INFO - Downloaded media from https://preview.redd.it/721t5qcxfzme1.jpeg?auto=webp&s=06fff29c3a904752aa2686e7c5f0718deb62f292 to temp_image.jpg
 2025-03-06 05:39:23,952 - INFO - Posted content successfully. Tweet ID: 1897522376981811275
+2025-03-06 06:20:06,365 - INFO - Content: Programming 101: Add a character count to the text box!!
+
+2025-03-06 06:20:06,365 - INFO - Image Paths: ['https://preview.redd.it/g9urjpd4qzme1.jpeg?auto=webp&s=e77dcc292d3d92755fdb649a300f92064b0dc921']
+2025-03-06 06:20:06,365 - INFO - Video Path: 
+2025-03-06 06:20:06,383 - INFO - Downloaded media from https://preview.redd.it/g9urjpd4qzme1.jpeg?auto=webp&s=e77dcc292d3d92755fdb649a300f92064b0dc921 to temp_image.jpg
+2025-03-06 06:20:07,251 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
