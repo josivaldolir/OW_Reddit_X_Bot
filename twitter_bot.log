@@ -805,3 +805,17 @@ People have spoken, more blood, dirt and rips. Going off of my favorite Jq line 
 2025-03-06 06:20:06,383 - INFO - Downloaded media from https://preview.redd.it/g9urjpd4qzme1.jpeg?auto=webp&s=e77dcc292d3d92755fdb649a300f92064b0dc921 to temp_image.jpg
 2025-03-06 06:20:07,251 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-06 06:44:45,873 - INFO - Content: Blizzcon 2017 Winston skin - How rare is it?
+Hi all! I’m an Overwatch 1 player and I’ve been here from the very beginning! I bought a Blizzcon 2017 ticket for no reason in particular, and I redeemed the Blizzcon 2017 Winston skin.
+
+I actually can’t find that much recent information on the interwebs about this skin. Is it still rare or did it get a rerelease in my absence?
+
+
+I’ve also got the Pink Mercy from I believe 2018, but I heard this skin did get a rerelease.
+
+Thanks in advance!
+2025-03-06 06:44:45,873 - INFO - Image Paths: ['https://preview.redd.it/itz4mr2jwyme1.jpeg?auto=webp&s=98750a859919819eb8e0c31cac6da0ed5861c6d7']
+2025-03-06 06:44:45,873 - INFO - Video Path: 
+2025-03-06 06:44:46,142 - INFO - Downloaded media from https://preview.redd.it/itz4mr2jwyme1.jpeg?auto=webp&s=98750a859919819eb8e0c31cac6da0ed5861c6d7 to temp_image.jpg
+2025-03-06 06:44:46,919 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
