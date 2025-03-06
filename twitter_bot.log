@@ -785,3 +785,10 @@ People have spoken, more blood, dirt and rips. Going off of my favorite Jq line 
 2025-03-06 04:41:59,497 - INFO - Downloaded media from https://preview.redd.it/721t5qcxfzme1.jpeg?auto=webp&s=06fff29c3a904752aa2686e7c5f0718deb62f292 to temp_image.jpg
 2025-03-06 04:42:00,493 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-06 05:14:15,802 - INFO - Content: Upgraded Junker Bride skin (Blizzard hire me)
+People have spoken, more blood, dirt and rips. Going off of my favorite Jq line "It's not a party till someone's dead" and who knows, maybe Jq killed her groom. Added the ult voice lines, "Time for the vows!" "Let's walk 'em down the aisle!"
+2025-03-06 05:14:15,802 - INFO - Image Paths: ['https://preview.redd.it/721t5qcxfzme1.jpeg?auto=webp&s=06fff29c3a904752aa2686e7c5f0718deb62f292']
+2025-03-06 05:14:15,802 - INFO - Video Path: 
+2025-03-06 05:14:16,032 - INFO - Downloaded media from https://preview.redd.it/721t5qcxfzme1.jpeg?auto=webp&s=06fff29c3a904752aa2686e7c5f0718deb62f292 to temp_image.jpg
+2025-03-06 05:14:16,890 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
