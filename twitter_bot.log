@@ -855,3 +855,11 @@ Too Many Requests
 2025-03-06 08:42:56,612 - INFO - Downloaded media from https://v.redd.it/9odsm5e48zme1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-06 08:42:56,974 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-06 08:43:24,208 - INFO - Posted content successfully. Tweet ID: 1897568683939262820
+2025-03-06 09:39:37,586 - WARNING - Retrying due to 500 status: GET https://oauth.reddit.com/r/Overwatch/hot
+2025-03-06 09:39:39,684 - INFO - Content: Did he really just...?
+https://reddit.com/link/1j4nvnf/video/eqqq5a7v30ne1/player
+
+Fun little clip from a match I just had.
+2025-03-06 09:39:39,684 - INFO - Image Paths: []
+2025-03-06 09:39:39,684 - INFO - Video Path: 
+2025-03-06 09:39:39,974 - INFO - Posted content successfully. Tweet ID: 1897582843221688779
