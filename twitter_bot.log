@@ -819,3 +819,9 @@ Thanks in advance!
 2025-03-06 06:44:46,142 - INFO - Downloaded media from https://preview.redd.it/itz4mr2jwyme1.jpeg?auto=webp&s=98750a859919819eb8e0c31cac6da0ed5861c6d7 to temp_image.jpg
 2025-03-06 06:44:46,919 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-06 07:15:18,103 - INFO - Content: Programming 101: Add a character count to the text box!!
+
+2025-03-06 07:15:18,103 - INFO - Image Paths: ['https://preview.redd.it/g9urjpd4qzme1.jpeg?auto=webp&s=e77dcc292d3d92755fdb649a300f92064b0dc921']
+2025-03-06 07:15:18,103 - INFO - Video Path: 
+2025-03-06 07:15:18,359 - INFO - Downloaded media from https://preview.redd.it/g9urjpd4qzme1.jpeg?auto=webp&s=e77dcc292d3d92755fdb649a300f92064b0dc921 to temp_image.jpg
+2025-03-06 07:15:19,685 - INFO - Posted content successfully. Tweet ID: 1897546518712004717
