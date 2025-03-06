@@ -926,3 +926,4 @@ I’ve been hearing great things about overwatch 2 loot boxes! Just started play
 2025-03-06 15:19:07,255 - INFO - Video Path: 
 2025-03-06 15:19:07,457 - INFO - Downloaded media from https://preview.redd.it/ndcoiynmv2ne1.jpeg?auto=webp&s=363e45bc59a64f34764303b05b465f45ab31238e to temp_image.jpg
 2025-03-06 15:19:08,894 - INFO - Posted content successfully. Tweet ID: 1897668275984855217
+2025-03-06 16:17:51,940 - ERROR - Error in main loop: 'NoneType' object is not subscriptable
