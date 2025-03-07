@@ -287,3 +287,11 @@ My friend and I have discussed this and he thinks moira's fade (6h cooldown) wou
 2025-03-07 16:17:18,921 - INFO - Image Paths: []
 2025-03-07 16:17:18,921 - INFO - Video Path: 
 2025-03-07 16:17:19,339 - INFO - Posted content successfully. Tweet ID: 1898045304303169553
+2025-03-07 16:43:13,566 - INFO - Content: Just your average round start
+Good thing the video stopped or I would’ve  died 
+2025-03-07 16:43:13,566 - INFO - Image Paths: ['https://external-preview.redd.it/YzBxYTU2Y21uNm5lMTXBZ-iNm_WXN8_9WsdY9YMwfFiWZ_mPcXMMzc4UkWoC.png?format=pjpg&auto=webp&s=625e143aae82a548e36a460e6c62116476d3118e']
+2025-03-07 16:43:13,567 - INFO - Video Path: https://v.redd.it/gsq3yhfmn6ne1/DASH_1080.mp4?source=fallback
+2025-03-07 16:43:13,846 - INFO - Downloaded media from https://v.redd.it/gsq3yhfmn6ne1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-07 16:43:14,078 - INFO - Downloaded media from https://v.redd.it/gsq3yhfmn6ne1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-07 16:43:14,429 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-07 16:43:19,255 - INFO - Posted content successfully. Tweet ID: 1898051847018959072
