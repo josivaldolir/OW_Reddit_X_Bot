@@ -332,3 +332,11 @@ they were legendary skins, that got special effects... doesnt have to be mythic
 2025-03-07 19:35:36,712 - INFO - Downloaded media from https://preview.redd.it/25xeoam3bbne1.png?width=4000&format=png&auto=webp&s=e2ce84d60ef0197c6fe68b1f7a11c06fa431b4fd to temp_image.jpg
 2025-03-07 19:35:37,829 - INFO - Downloaded media from https://preview.redd.it/ny8ml9m3bbne1.png?width=4000&format=png&auto=webp&s=43b2b7ed5c1766f198832a3d2f7d903ed0940674 to temp_image.jpg
 2025-03-07 19:35:41,010 - INFO - Posted content successfully. Tweet ID: 1898095215375778281
+2025-03-07 20:15:38,702 - INFO - Content: Insane find at Salvation Army
+Got it for $11 lol. Anyone know what it’s worth?
+2025-03-07 20:15:38,703 - INFO - Image Paths: ['https://preview.redd.it/vu4jj497jbne1.jpg?width=3024&format=pjpg&auto=webp&s=086002d4a73ada23cb429d063aa6d58b59219ec7', 'https://preview.redd.it/1tfl2597jbne1.jpg?width=3024&format=pjpg&auto=webp&s=1bbe11cff9f7d46f163b9829f65e8aeb3a16ec43']
+2025-03-07 20:15:38,703 - INFO - Video Path: 
+2025-03-07 20:15:38,751 - INFO - Downloaded media from https://preview.redd.it/vu4jj497jbne1.jpg?width=3024&format=pjpg&auto=webp&s=086002d4a73ada23cb429d063aa6d58b59219ec7 to temp_image.jpg
+2025-03-07 20:15:40,325 - INFO - Downloaded media from https://preview.redd.it/1tfl2597jbne1.jpg?width=3024&format=pjpg&auto=webp&s=1bbe11cff9f7d46f163b9829f65e8aeb3a16ec43 to temp_image.jpg
+2025-03-07 20:15:42,106 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
