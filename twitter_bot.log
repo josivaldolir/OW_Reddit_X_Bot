@@ -195,3 +195,11 @@ Does anyone else miss these post-match highlights too?
 2025-03-07 10:16:27,010 - INFO - Video Path: 
 2025-03-07 10:16:27,085 - INFO - Downloaded media from https://preview.redd.it/i4u5dralo7ne1.jpeg?auto=webp&s=4f202db16068282c483a25521eb584c7d31b883a to temp_image.jpg
 2025-03-07 10:16:28,508 - INFO - Posted content successfully. Tweet ID: 1897954493590888837
+2025-03-07 10:41:16,905 - INFO - Content: AI Sombra’s Hacks Are Insane
+I was playing a game of practice vs. AI against this Sombra bot, and this happened…
+2025-03-07 10:41:16,905 - INFO - Image Paths: ['https://external-preview.redd.it/c2NlYWE1N3RkNm5lMRnfnEoFbiYMp_5EA2QRfWjHf8qrhh1YjyJCfaU1_sfi.png?format=pjpg&auto=webp&s=44f6ae9929b67fbc8a890f966f1d181fbc9c880e']
+2025-03-07 10:41:16,905 - INFO - Video Path: https://v.redd.it/lndrajutd6ne1/DASH_1080.mp4?source=fallback
+2025-03-07 10:41:17,511 - INFO - Downloaded media from https://v.redd.it/lndrajutd6ne1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-07 10:41:17,985 - INFO - Downloaded media from https://v.redd.it/lndrajutd6ne1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-07 10:41:18,400 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-07 10:41:30,897 - INFO - Posted content successfully. Tweet ID: 1897960795499106466
