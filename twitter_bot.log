@@ -303,3 +303,9 @@ Good thing the video stopped or I would’ve  died
 2025-03-07 17:12:41,759 - INFO - Downloaded media from https://v.redd.it/zi75o1sxp9ne1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-07 17:12:42,257 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-07 17:12:52,569 - INFO - Posted content successfully. Tweet ID: 1898059284845388156
+2025-03-07 17:37:05,459 - INFO - Content: My only Ashe drawing
+It wasn’t me who had the idea for this drawing I found it on Pinterest and redid it in my own way
+2025-03-07 17:37:05,459 - INFO - Image Paths: ['https://preview.redd.it/9ddnt4znvane1.jpeg?auto=webp&s=0ed36a494dcaede226be0ca162ed9626a72275bd']
+2025-03-07 17:37:05,459 - INFO - Video Path: 
+2025-03-07 17:37:05,922 - INFO - Downloaded media from https://preview.redd.it/9ddnt4znvane1.jpeg?auto=webp&s=0ed36a494dcaede226be0ca162ed9626a72275bd to temp_image.jpg
+2025-03-07 17:37:08,171 - INFO - Posted content successfully. Tweet ID: 1898065387805131156
