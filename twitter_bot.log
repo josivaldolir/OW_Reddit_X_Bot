@@ -295,3 +295,11 @@ Good thing the video stopped or I would’ve  died
 2025-03-07 16:43:14,078 - INFO - Downloaded media from https://v.redd.it/gsq3yhfmn6ne1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-07 16:43:14,429 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-07 16:43:19,255 - INFO - Posted content successfully. Tweet ID: 1898051847018959072
+2025-03-07 17:12:40,664 - INFO - Content: How the tables have turned- Zenyatta, probably
+
+2025-03-07 17:12:40,664 - INFO - Image Paths: ['https://external-preview.redd.it/am1ieTYxc3hwOW5lMZgEXAEyAsZdwFmdkTHy6v6L5ZFjspkTgCsyoteU-g7r.png?format=pjpg&auto=webp&s=f41b4b6eb9b192f69b81021034a2855bb30b5483']
+2025-03-07 17:12:40,664 - INFO - Video Path: https://v.redd.it/zi75o1sxp9ne1/DASH_1080.mp4?source=fallback
+2025-03-07 17:12:41,351 - INFO - Downloaded media from https://v.redd.it/zi75o1sxp9ne1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-07 17:12:41,759 - INFO - Downloaded media from https://v.redd.it/zi75o1sxp9ne1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-07 17:12:42,257 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-07 17:12:52,569 - INFO - Posted content successfully. Tweet ID: 1898059284845388156
