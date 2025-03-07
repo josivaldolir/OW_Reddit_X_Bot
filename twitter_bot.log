@@ -154,3 +154,12 @@ I was playing a game of practice vs. AI against this Sombra bot, and this happen
 2025-03-07 07:35:25,824 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-07 07:35:38,721 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-07 08:18:24,470 - INFO - Content: AI Sombra’s Hacks Are Insane
+I was playing a game of practice vs. AI against this Sombra bot, and this happened…
+2025-03-07 08:18:24,471 - INFO - Image Paths: ['https://external-preview.redd.it/c2NlYWE1N3RkNm5lMRnfnEoFbiYMp_5EA2QRfWjHf8qrhh1YjyJCfaU1_sfi.png?format=pjpg&auto=webp&s=44f6ae9929b67fbc8a890f966f1d181fbc9c880e']
+2025-03-07 08:18:24,471 - INFO - Video Path: https://v.redd.it/lndrajutd6ne1/DASH_1080.mp4?source=fallback
+2025-03-07 08:18:24,983 - INFO - Downloaded media from https://v.redd.it/lndrajutd6ne1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-07 08:18:25,368 - INFO - Downloaded media from https://v.redd.it/lndrajutd6ne1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-07 08:18:25,877 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-07 08:18:42,452 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
