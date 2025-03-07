@@ -163,3 +163,9 @@ I was playing a game of practice vs. AI against this Sombra bot, and this happen
 2025-03-07 08:18:25,877 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-07 08:18:42,452 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-07 08:42:29,744 - INFO - Content: Zarya meimebuss
+
+2025-03-07 08:42:29,744 - INFO - Image Paths: ['https://preview.redd.it/egco7b1278ne1.png?auto=webp&s=7f55e7eb6cf25cc0da8ae749f6b86eacbc7ca62b']
+2025-03-07 08:42:29,744 - INFO - Video Path: 
+2025-03-07 08:42:29,949 - INFO - Downloaded media from https://preview.redd.it/egco7b1278ne1.png?auto=webp&s=7f55e7eb6cf25cc0da8ae749f6b86eacbc7ca62b to temp_image.jpg
+2025-03-07 08:42:33,676 - INFO - Posted content successfully. Tweet ID: 1897930850878324737
