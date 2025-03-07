@@ -222,3 +222,17 @@ For those who are interested.
 2025-03-07 12:26:54,057 - INFO - Video Path: 
 2025-03-07 12:26:54,356 - INFO - Downloaded media from https://preview.redd.it/z78b03h929ne1.png?auto=webp&s=b24886484be99c7cbd876b814721d8955c14ebb8 to temp_image.jpg
 2025-03-07 12:26:55,553 - INFO - Posted content successfully. Tweet ID: 1897987322110431432
+2025-03-07 13:00:23,196 - INFO - Content: In 7 years we will need to repeat mythic skins
+Currently, there are 28 heroes without Mythic skins in the game. Every month and a half (one season), we get a new Mythic skin, and every three months (two seasons), we receive two Mythic skins and one new hero. If we keep up this pace (and the game still exists by then), in 7 years, all heroes in the game—including future ones—will have Mythic skins.
+
+We just need to follow the example of the next season (a month and a half), where we will get one more Mythic skin, reducing the number needed by 1 (28 - 1 = 27). However, we will also receive a new hero, adding one more needed Mythic skin (27 + 1 = 28). Then, in the following season (three months in total), we will only receive a Mythic skin, reducing the number by 1 again (28 - 1 = 27).
+
+So, every three months, we reduce the number of remaining heroes without Mythic skins by 1. Multiplying 3 months by 28 skins gives us 84 months, which, when divided by 12 months in a year, totals 7 years.
+
+I randomly thought about this while playing and found it funny, so I thought it would be cool to share. Do you think the game will still exist by then?
+
+
+Edit. It's actually about 9 years, not 7, each season has 60 days, not 45.
+2025-03-07 13:00:23,197 - INFO - Image Paths: []
+2025-03-07 13:00:23,197 - INFO - Video Path: 
+2025-03-07 13:00:23,610 - INFO - Posted content successfully. Tweet ID: 1897995745564717201
