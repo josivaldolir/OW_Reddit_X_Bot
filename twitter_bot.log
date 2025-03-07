@@ -187,3 +187,11 @@ I was playing a game of practice vs. AI against this Sombra bot, and this happen
 2025-03-07 09:37:53,108 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-07 09:38:10,376 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-07 10:16:27,010 - INFO - Content: Should we bring back Post-Match Highlight Cards?
+I really enjoyed being able to vote on the player highlights after each match in the original Overwatch, but for some reason Overwatch 2 removed this fun feature. 
+
+Does anyone else miss these post-match highlights too?
+2025-03-07 10:16:27,010 - INFO - Image Paths: ['https://preview.redd.it/i4u5dralo7ne1.jpeg?auto=webp&s=4f202db16068282c483a25521eb584c7d31b883a']
+2025-03-07 10:16:27,010 - INFO - Video Path: 
+2025-03-07 10:16:27,085 - INFO - Downloaded media from https://preview.redd.it/i4u5dralo7ne1.jpeg?auto=webp&s=4f202db16068282c483a25521eb584c7d31b883a to temp_image.jpg
+2025-03-07 10:16:28,508 - INFO - Posted content successfully. Tweet ID: 1897954493590888837
