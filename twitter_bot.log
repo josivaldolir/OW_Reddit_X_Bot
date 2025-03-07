@@ -97,3 +97,12 @@ Serious question. It takes months to years for things to be planned, developed, 
 2025-03-07 04:17:32,800 - INFO - Image Paths: []
 2025-03-07 04:17:32,800 - INFO - Video Path: 
 2025-03-07 04:17:33,211 - INFO - Posted content successfully. Tweet ID: 1897864168646062480
+2025-03-07 04:40:56,102 - INFO - Content: AI Sombra’s Hacks Are Insane
+I was playing a game of practice vs. AI against this Sombra bot, and this happened…
+2025-03-07 04:40:56,102 - INFO - Image Paths: ['https://external-preview.redd.it/c2NlYWE1N3RkNm5lMRnfnEoFbiYMp_5EA2QRfWjHf8qrhh1YjyJCfaU1_sfi.png?format=pjpg&auto=webp&s=44f6ae9929b67fbc8a890f966f1d181fbc9c880e']
+2025-03-07 04:40:56,102 - INFO - Video Path: https://v.redd.it/lndrajutd6ne1/DASH_1080.mp4?source=fallback
+2025-03-07 04:40:56,552 - INFO - Downloaded media from https://v.redd.it/lndrajutd6ne1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-07 04:40:56,984 - INFO - Downloaded media from https://v.redd.it/lndrajutd6ne1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-07 04:40:57,254 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-07 04:41:14,204 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
