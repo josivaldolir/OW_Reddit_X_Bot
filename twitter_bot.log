@@ -169,3 +169,12 @@ Too Many Requests
 2025-03-07 08:42:29,744 - INFO - Video Path: 
 2025-03-07 08:42:29,949 - INFO - Downloaded media from https://preview.redd.it/egco7b1278ne1.png?auto=webp&s=7f55e7eb6cf25cc0da8ae749f6b86eacbc7ca62b to temp_image.jpg
 2025-03-07 08:42:33,676 - INFO - Posted content successfully. Tweet ID: 1897930850878324737
+2025-03-07 09:14:55,849 - INFO - Content: AI Sombra’s Hacks Are Insane
+I was playing a game of practice vs. AI against this Sombra bot, and this happened…
+2025-03-07 09:14:55,849 - INFO - Image Paths: ['https://external-preview.redd.it/c2NlYWE1N3RkNm5lMRnfnEoFbiYMp_5EA2QRfWjHf8qrhh1YjyJCfaU1_sfi.png?format=pjpg&auto=webp&s=44f6ae9929b67fbc8a890f966f1d181fbc9c880e']
+2025-03-07 09:14:55,850 - INFO - Video Path: https://v.redd.it/lndrajutd6ne1/DASH_1080.mp4?source=fallback
+2025-03-07 09:14:56,621 - INFO - Downloaded media from https://v.redd.it/lndrajutd6ne1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-07 09:14:57,269 - INFO - Downloaded media from https://v.redd.it/lndrajutd6ne1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-07 09:14:57,622 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-07 09:15:14,012 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
