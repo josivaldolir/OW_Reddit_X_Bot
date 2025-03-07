@@ -391,3 +391,12 @@ if you say "ez" and/or spam it at the end of a match, you will receive a report 
 2025-03-07 22:34:46,097 - INFO - Video Path: 
 2025-03-07 22:34:46,305 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-07 23:13:03,420 - INFO - Content: My Juno Keychain & Stickers Came!! 🪐✨
+Hello all!! I posted a fanart of Juno I made here recently, and decided to get these made. They turned out sooo cute & I wanted to share here!!
+2025-03-07 23:13:03,420 - INFO - Image Paths: ['https://preview.redd.it/icj05r2y1cne1.jpg?width=3024&format=pjpg&auto=webp&s=53815a0e8726ca0e28c016e9c9ef913f7b883289', 'https://preview.redd.it/5wdf1r2y1cne1.jpg?width=3024&format=pjpg&auto=webp&s=9b115b399afa6ecfc14ab098d6451025eceacebd', 'https://preview.redd.it/uwgqts2y1cne1.jpg?width=4032&format=pjpg&auto=webp&s=14312ad3cc6d53332548dc62b4343cc0ff219d07']
+2025-03-07 23:13:03,420 - INFO - Video Path: 
+2025-03-07 23:13:03,721 - INFO - Downloaded media from https://preview.redd.it/icj05r2y1cne1.jpg?width=3024&format=pjpg&auto=webp&s=53815a0e8726ca0e28c016e9c9ef913f7b883289 to temp_image.jpg
+2025-03-07 23:13:05,612 - INFO - Downloaded media from https://preview.redd.it/5wdf1r2y1cne1.jpg?width=3024&format=pjpg&auto=webp&s=9b115b399afa6ecfc14ab098d6451025eceacebd to temp_image.jpg
+2025-03-07 23:13:07,376 - INFO - Downloaded media from https://preview.redd.it/uwgqts2y1cne1.jpg?width=4032&format=pjpg&auto=webp&s=14312ad3cc6d53332548dc62b4343cc0ff219d07 to temp_image.jpg
+2025-03-07 23:13:09,695 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
