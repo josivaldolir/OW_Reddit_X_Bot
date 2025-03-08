@@ -750,3 +750,12 @@ What are some of your favourites?
 2025-03-08 21:35:47,367 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-08 21:36:35,766 - ERROR - Failed to post content: 400 Bad Request
 Your media IDs are invalid.
+2025-03-08 22:11:06,324 - INFO - Content: I apparently found a T100 smurf on a high dia lobby flaming us.
+
+2025-03-08 22:11:06,324 - INFO - Image Paths: ['https://external-preview.redd.it/dnltZ2p0ZjV4aG5lMT5nsc7OVxLEUOIOI4e5I6-IFIINIwE5ocYtz06xCakX.png?format=pjpg&auto=webp&s=80b5d70d76cdf4dff03d61ed28c4a1c0f49640a2']
+2025-03-08 22:11:06,324 - INFO - Video Path: https://v.redd.it/kct7msf5xhne1/DASH_1080.mp4?source=fallback
+2025-03-08 22:11:06,986 - INFO - Downloaded media from https://v.redd.it/kct7msf5xhne1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-08 22:11:07,375 - INFO - Downloaded media from https://v.redd.it/kct7msf5xhne1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-08 22:11:07,754 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-08 22:11:55,362 - ERROR - Failed to post content: 400 Bad Request
+Your media IDs are invalid.
