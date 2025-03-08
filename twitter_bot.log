@@ -631,3 +631,9 @@ I also added a skill linked to m2, it has a 4 second cooldown and works like Rei
 2025-03-08 15:11:22,939 - INFO - Downloaded media from https://v.redd.it/bp2skudtsgne1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-03-08 15:11:23,521 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-08 15:11:32,462 - INFO - Posted content successfully. Tweet ID: 1898391137770934325
+2025-03-08 16:13:34,283 - INFO - Content: Tracer fanart
+Tracer digital art I made recently, took about 8 hours to make
+2025-03-08 16:13:34,283 - INFO - Image Paths: ['https://preview.redd.it/6l83jatgqgne1.png?auto=webp&s=617c22a6e71f25e0ec1e88b5781184dc6c6bc811']
+2025-03-08 16:13:34,283 - INFO - Video Path: 
+2025-03-08 16:13:34,465 - INFO - Downloaded media from https://preview.redd.it/6l83jatgqgne1.png?auto=webp&s=617c22a6e71f25e0ec1e88b5781184dc6c6bc811 to temp_image.jpg
+2025-03-08 16:13:35,779 - INFO - Posted content successfully. Tweet ID: 1898406753554895111
