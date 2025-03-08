@@ -610,3 +610,9 @@ I also added a skill linked to m2, it has a 4 second cooldown and works like Rei
 2025-03-08 13:34:33,653 - INFO - Video Path: 
 2025-03-08 13:34:33,946 - INFO - Downloaded media from https://preview.redd.it/9idk2h1xogne1.png?auto=webp&s=95457d311ac98ebac5e987f107d662ca40e43ef6 to temp_image.jpg
 2025-03-08 13:34:35,263 - INFO - Posted content successfully. Tweet ID: 1898366737680363842
+2025-03-08 14:10:12,564 - INFO - Content: Guess I'll die
+
+2025-03-08 14:10:12,564 - INFO - Image Paths: ['https://preview.redd.it/wwbm8t5utgne1.jpeg?auto=webp&s=a8ab6be38d1673d6997df6e85d37ca4c74e6c153']
+2025-03-08 14:10:12,564 - INFO - Video Path: 
+2025-03-08 14:10:12,706 - INFO - Downloaded media from https://preview.redd.it/wwbm8t5utgne1.jpeg?auto=webp&s=a8ab6be38d1673d6997df6e85d37ca4c74e6c153 to temp_image.jpg
+2025-03-08 14:10:13,983 - INFO - Posted content successfully. Tweet ID: 1898375708910510399
