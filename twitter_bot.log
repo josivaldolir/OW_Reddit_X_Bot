@@ -598,3 +598,9 @@ I also added a skill linked to m2, it has a 4 second cooldown and works like Rei
 2025-03-08 12:47:40,256 - INFO - Downloaded media from https://v.redd.it/to3vsoao5gne1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-03-08 12:47:41,115 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-08 12:47:49,478 - INFO - Posted content successfully. Tweet ID: 1898354970254364980
+2025-03-08 13:12:58,535 - INFO - Content: Seriously Im having a blast
+
+2025-03-08 13:12:58,535 - INFO - Image Paths: ['https://preview.redd.it/wyqzwoswmgne1.jpeg?auto=webp&s=6dc38c6651410376241b0b5d1f2b35f463b45f6c']
+2025-03-08 13:12:58,535 - INFO - Video Path: 
+2025-03-08 13:12:58,711 - INFO - Downloaded media from https://preview.redd.it/wyqzwoswmgne1.jpeg?auto=webp&s=6dc38c6651410376241b0b5d1f2b35f463b45f6c to temp_image.jpg
+2025-03-08 13:12:59,703 - INFO - Posted content successfully. Tweet ID: 1898361304424804655
