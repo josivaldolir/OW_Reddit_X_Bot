@@ -452,3 +452,10 @@ Like seriously, I want them to start matching again god dammit, I like character
 2025-03-08 03:34:37,429 - INFO - Downloaded media from https://preview.redd.it/xu0jvvlupdne1.gif?format=png8&s=98cbc926c16a6a3f86080aa51b288982bcc24441 to temp_image.jpg
 2025-03-08 03:34:38,223 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-08 04:13:47,997 - INFO - Content: Did Blizzard Forget They Were a Duo or Something?
+Like seriously, I want them to start matching again god dammit, I like characters with similar skins to match.
+2025-03-08 04:13:47,997 - INFO - Image Paths: ['https://preview.redd.it/xu0jvvlupdne1.gif?format=png8&s=98cbc926c16a6a3f86080aa51b288982bcc24441']
+2025-03-08 04:13:47,997 - INFO - Video Path: 
+2025-03-08 04:13:48,061 - INFO - Downloaded media from https://preview.redd.it/xu0jvvlupdne1.gif?format=png8&s=98cbc926c16a6a3f86080aa51b288982bcc24441 to temp_image.jpg
+2025-03-08 04:13:48,871 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
