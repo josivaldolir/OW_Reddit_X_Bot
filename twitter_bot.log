@@ -589,3 +589,12 @@ This seems unintentional considering this is a minor perk, I didn't have anyone 
 2025-03-08 12:20:04,955 - INFO - Image Paths: []
 2025-03-08 12:20:04,955 - INFO - Video Path: 
 2025-03-08 12:20:05,417 - INFO - Posted content successfully. Tweet ID: 1898347990806335663
+2025-03-08 12:47:40,052 - INFO - Content: I tried to rework Genji so he could work as a melee character.
+I changed the dash cooldown to 4 seconds because it became completely dependent on Dash, and I increased the Reflect cooldown to 10 seconds, because I reworked this skill to work in a similar way to the skill of a character from a game there whose name I won't mention. 
+I also added a skill linked to m2, it has a 4 second cooldown and works like Reinhardt's firestrake, but with critical damage
+2025-03-08 12:47:40,052 - INFO - Image Paths: ['https://external-preview.redd.it/ZGE2NmU0Nm81Z25lMQD8UqOMzbU7mMusVtsu2VBRkji-zMVqvztmx8a0hIu5.png?format=pjpg&auto=webp&s=bde822f0383fd1182c44b4af8fa647a9763bf435']
+2025-03-08 12:47:40,052 - INFO - Video Path: https://v.redd.it/to3vsoao5gne1/DASH_720.mp4?source=fallback
+2025-03-08 12:47:40,188 - INFO - Downloaded media from https://v.redd.it/to3vsoao5gne1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-03-08 12:47:40,256 - INFO - Downloaded media from https://v.redd.it/to3vsoao5gne1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-03-08 12:47:41,115 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-08 12:47:49,478 - INFO - Posted content successfully. Tweet ID: 1898354970254364980
