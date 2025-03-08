@@ -623,3 +623,11 @@ I also added a skill linked to m2, it has a 4 second cooldown and works like Rei
 2025-03-08 14:35:55,363 - INFO - Downloaded media from https://preview.redd.it/4a120dcskgne1.jpg?width=3462&format=pjpg&auto=webp&s=9bce624816184b9dbb315da505dbaa292d5c8d19 to temp_image.jpg
 2025-03-08 14:35:57,011 - INFO - Downloaded media from https://preview.redd.it/zqyw5dcskgne1.jpg?width=2156&format=pjpg&auto=webp&s=28da074b1223d3c92a742340a4cab9b3012ef09e to temp_image.jpg
 2025-03-08 14:35:58,994 - INFO - Posted content successfully. Tweet ID: 1898382187193344444
+2025-03-08 15:11:22,640 - INFO - Content: Extremely satisfying sleep
+
+2025-03-08 15:11:22,641 - INFO - Image Paths: ['https://external-preview.redd.it/eDVqcGdmYXRzZ25lMSBq2Fb3aqEV8NvruNSdGnn8Kt8kSqjps0nKLm5YCQwB.png?format=pjpg&auto=webp&s=9d247ffc2aec916a19b6d50a37ad5e32298693a6']
+2025-03-08 15:11:22,641 - INFO - Video Path: https://v.redd.it/bp2skudtsgne1/DASH_720.mp4?source=fallback
+2025-03-08 15:11:22,873 - INFO - Downloaded media from https://v.redd.it/bp2skudtsgne1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-03-08 15:11:22,939 - INFO - Downloaded media from https://v.redd.it/bp2skudtsgne1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-03-08 15:11:23,521 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-08 15:11:32,462 - INFO - Posted content successfully. Tweet ID: 1898391137770934325
