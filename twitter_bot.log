@@ -554,3 +554,11 @@ In any case, I thought this was cool and wanted to share. At this point, I’m i
 2025-03-08 09:35:47,384 - INFO - Video Path: 
 2025-03-08 09:35:47,843 - INFO - Downloaded media from https://preview.redd.it/o6by1a5ruene1.jpeg?auto=webp&s=a641f2bfaeecacb4aa44bf40a3ad396bb192b20e to temp_image.jpg
 2025-03-08 09:35:49,166 - INFO - Posted content successfully. Tweet ID: 1898306650194559270
+2025-03-08 10:12:38,715 - INFO - Content: This is why Bastion's Self-Repair is going to have the Resource Meter back
+
+2025-03-08 10:12:38,716 - INFO - Image Paths: ['https://external-preview.redd.it/enYwMHR4c21vZm5lMTs4n3-9USv5nlXIgn3DOIKaMc1126W0NLVsFyqQRV_s.png?format=pjpg&auto=webp&s=ed347a1036986dd4623593b0f3d15e190a0b1ceb']
+2025-03-08 10:12:38,716 - INFO - Video Path: https://v.redd.it/yik63mf0ofne1/DASH_720.mp4?source=fallback
+2025-03-08 10:12:38,868 - INFO - Downloaded media from https://v.redd.it/yik63mf0ofne1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-03-08 10:12:38,933 - INFO - Downloaded media from https://v.redd.it/yik63mf0ofne1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-03-08 10:12:41,075 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-08 10:12:55,316 - INFO - Posted content successfully. Tweet ID: 1898315987591856266
