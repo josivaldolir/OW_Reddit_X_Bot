@@ -695,3 +695,12 @@ You can't use the other one so its much easier to use another button
 2025-03-08 19:12:26,478 - INFO - Video Path: 
 2025-03-08 19:12:26,506 - INFO - Downloaded media from https://preview.redd.it/qtv3b4w8whne1.jpeg?auto=webp&s=8e9a33351256a77c0f2228aef03a4a29da15be2f to temp_image.jpg
 2025-03-08 19:12:27,532 - INFO - Posted content successfully. Tweet ID: 1898451766355849285
+2025-03-08 19:35:45,209 - INFO - Content: I apparently found a T100 smurf on a high dia lobby flaming us.
+
+2025-03-08 19:35:45,209 - INFO - Image Paths: ['https://external-preview.redd.it/dnltZ2p0ZjV4aG5lMT5nsc7OVxLEUOIOI4e5I6-IFIINIwE5ocYtz06xCakX.png?format=pjpg&auto=webp&s=80b5d70d76cdf4dff03d61ed28c4a1c0f49640a2']
+2025-03-08 19:35:45,209 - INFO - Video Path: https://v.redd.it/kct7msf5xhne1/DASH_1080.mp4?source=fallback
+2025-03-08 19:35:46,032 - INFO - Downloaded media from https://v.redd.it/kct7msf5xhne1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-08 19:35:46,455 - INFO - Downloaded media from https://v.redd.it/kct7msf5xhne1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-08 19:35:46,806 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-08 19:36:21,161 - ERROR - Failed to post content: 400 Bad Request
+Your media IDs are invalid.
