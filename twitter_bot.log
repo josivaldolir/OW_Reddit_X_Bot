@@ -722,3 +722,22 @@ Your media IDs are invalid.
 2025-03-08 20:35:37,561 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-08 20:36:12,155 - ERROR - Failed to post content: 400 Bad Request
 Your media IDs are invalid.
+2025-03-08 21:12:50,342 - INFO - Content: Favourite Nano Voice Line?
+Not sure if this is just me, but I really enjoy hearing some of the Nano voice lines in the game. Some of them are so cool.
+
+My favourite is Dva's "Let's go!"
+
+It doesn't seem like anything special, but the way the line is delivered, and especially playing an aggressive character like Dva, just makes it hype as hell. Not sure if I'm just crazy though.
+
+Some other personal favourites are:
+
+Reinhardt - "What a glorious feeling!"
+Mauga - "Woooooooo! Now we're talking!"
+Junker Queen - "You dare oppose Olympus?" (Mythic Skin)
+Dva - "Deombyeo bwa!" (Korean for "Come on!")
+
+What are some of your favourites?
+2025-03-08 21:12:50,342 - INFO - Image Paths: ['https://preview.redd.it/g8pau0000jne1.jpeg?auto=webp&s=8f1b4211c0c1b9ba5027dcf186d1803b8f50d0f9']
+2025-03-08 21:12:50,342 - INFO - Video Path: 
+2025-03-08 21:12:50,501 - INFO - Downloaded media from https://preview.redd.it/g8pau0000jne1.jpeg?auto=webp&s=8f1b4211c0c1b9ba5027dcf186d1803b8f50d0f9 to temp_image.jpg
+2025-03-08 21:12:51,815 - INFO - Posted content successfully. Tweet ID: 1898482067115008310
