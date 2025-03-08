@@ -418,3 +418,10 @@ I can’t wait to play this character!
 2025-03-08 00:53:34,731 - INFO - Downloaded media from https://preview.redd.it/ogqebp83tcne1.jpeg?auto=webp&s=f30bd940ccf468686e5e1ad17f246e1be51fccde to temp_image.jpg
 2025-03-08 00:53:35,757 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-08 01:55:38,098 - INFO - Content: This Just Happened Last Game
+
+2025-03-08 01:55:38,098 - INFO - Image Paths: ['https://preview.redd.it/wrzoyok37dne1.png?auto=webp&s=dcddf04824d942367372f34301341f5f6aca43f8']
+2025-03-08 01:55:38,098 - INFO - Video Path: 
+2025-03-08 01:55:38,177 - INFO - Downloaded media from https://preview.redd.it/wrzoyok37dne1.png?auto=webp&s=dcddf04824d942367372f34301341f5f6aca43f8 to temp_image.jpg
+2025-03-08 01:55:38,867 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
