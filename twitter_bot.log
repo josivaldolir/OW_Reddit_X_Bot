@@ -652,3 +652,11 @@ so i checked out maximillen's vault today and i thought he was supposed to put o
 2025-03-08 17:11:07,523 - INFO - Video Path: 
 2025-03-08 17:11:07,947 - INFO - Downloaded media from https://preview.redd.it/dpy85vg8chne1.jpeg?auto=webp&s=694a3228fb1ac3567df35689c6a7a68ef9153d1e to temp_image.jpg
 2025-03-08 17:11:09,651 - INFO - Posted content successfully. Tweet ID: 1898421239779033430
+2025-03-08 18:21:02,189 - INFO - Content: How my current Support placements are going  rn
+
+2025-03-08 18:21:02,189 - INFO - Image Paths: ['https://external-preview.redd.it/eGx5eW8zMjAxaW5lMdAZwFYBkjN0O6Mf-GjDa_DdqP50vVZBzJhZLbaaJ0tn.png?format=pjpg&auto=webp&s=c7606dc5739e7fcb59b25de0842a899354eb4a3c']
+2025-03-08 18:21:02,189 - INFO - Video Path: https://v.redd.it/hshwl5201ine1/DASH_1080.mp4?source=fallback
+2025-03-08 18:21:02,752 - INFO - Downloaded media from https://v.redd.it/hshwl5201ine1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-08 18:21:02,788 - INFO - Downloaded media from https://v.redd.it/hshwl5201ine1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-08 18:21:03,181 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-08 18:21:07,823 - INFO - Posted content successfully. Tweet ID: 1898438849476637165
