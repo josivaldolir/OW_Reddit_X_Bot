@@ -530,3 +530,9 @@ I can’t wait to play this character!
 2025-03-08 08:35:38,918 - INFO - Downloaded media from https://preview.redd.it/sp85ow3g2dne1.jpg?width=3840&format=pjpg&auto=webp&s=5c32bba5d9dafdfa4e4d98a8b9a94449d629fc2a to temp_image.jpg
 2025-03-08 08:35:40,226 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-08 09:12:18,033 - INFO - Content: Peter Parker is allegedly cracked at conesole Overwatch while playing upside down
+Bro has to be a Genji one trick, right?
+2025-03-08 09:12:18,033 - INFO - Image Paths: ['https://preview.redd.it/bnv02jiubfne1.png?auto=webp&s=bb806dc44a8e0d1a5f8274b6aeaa6b62d2056d6f']
+2025-03-08 09:12:18,033 - INFO - Video Path: 
+2025-03-08 09:12:18,195 - INFO - Downloaded media from https://preview.redd.it/bnv02jiubfne1.png?auto=webp&s=bb806dc44a8e0d1a5f8274b6aeaa6b62d2056d6f to temp_image.jpg
+2025-03-08 09:12:20,044 - INFO - Posted content successfully. Tweet ID: 1898300737739964647
