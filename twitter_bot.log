@@ -741,3 +741,12 @@ What are some of your favourites?
 2025-03-08 21:12:50,342 - INFO - Video Path: 
 2025-03-08 21:12:50,501 - INFO - Downloaded media from https://preview.redd.it/g8pau0000jne1.jpeg?auto=webp&s=8f1b4211c0c1b9ba5027dcf186d1803b8f50d0f9 to temp_image.jpg
 2025-03-08 21:12:51,815 - INFO - Posted content successfully. Tweet ID: 1898482067115008310
+2025-03-08 21:35:45,812 - INFO - Content: I apparently found a T100 smurf on a high dia lobby flaming us.
+
+2025-03-08 21:35:45,812 - INFO - Image Paths: ['https://external-preview.redd.it/dnltZ2p0ZjV4aG5lMT5nsc7OVxLEUOIOI4e5I6-IFIINIwE5ocYtz06xCakX.png?format=pjpg&auto=webp&s=80b5d70d76cdf4dff03d61ed28c4a1c0f49640a2']
+2025-03-08 21:35:45,812 - INFO - Video Path: https://v.redd.it/kct7msf5xhne1/DASH_1080.mp4?source=fallback
+2025-03-08 21:35:46,452 - INFO - Downloaded media from https://v.redd.it/kct7msf5xhne1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-08 21:35:46,912 - INFO - Downloaded media from https://v.redd.it/kct7msf5xhne1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-08 21:35:47,367 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-08 21:36:35,766 - ERROR - Failed to post content: 400 Bad Request
+Your media IDs are invalid.
