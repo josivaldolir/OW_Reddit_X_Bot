@@ -574,3 +574,11 @@ Is this an account that is sold for money or something? I mean 1,000 hours again
 2025-03-08 11:10:44,724 - INFO - Video Path: 
 2025-03-08 11:10:44,952 - INFO - Downloaded media from https://preview.redd.it/2nxxmvn75gne1.png?auto=webp&s=97ffbba912d7703564aae9c10775ea8677bb5b4d to temp_image.jpg
 2025-03-08 11:10:46,210 - INFO - Posted content successfully. Tweet ID: 1898330544532013087
+2025-03-08 11:35:18,602 - INFO - Content: I bought the 40 dollar battlepass bundle, it charged me but gave nothing to me.
+
+2025-03-08 11:35:18,602 - INFO - Image Paths: ['https://preview.redd.it/jznzyz3g2dne1.jpg?width=3840&format=pjpg&auto=webp&s=742de793a0378c6c42a100fb0f5848855c2353d3', 'https://preview.redd.it/lplsfx3g2dne1.jpg?width=3840&format=pjpg&auto=webp&s=b7ba894e6fb3a79a1162e24888e4cc184a2c1b2a', 'https://preview.redd.it/sp85ow3g2dne1.jpg?width=3840&format=pjpg&auto=webp&s=5c32bba5d9dafdfa4e4d98a8b9a94449d629fc2a']
+2025-03-08 11:35:18,602 - INFO - Video Path: 
+2025-03-08 11:35:18,684 - INFO - Downloaded media from https://preview.redd.it/jznzyz3g2dne1.jpg?width=3840&format=pjpg&auto=webp&s=742de793a0378c6c42a100fb0f5848855c2353d3 to temp_image.jpg
+2025-03-08 11:35:19,926 - INFO - Downloaded media from https://preview.redd.it/lplsfx3g2dne1.jpg?width=3840&format=pjpg&auto=webp&s=b7ba894e6fb3a79a1162e24888e4cc184a2c1b2a to temp_image.jpg
+2025-03-08 11:35:21,020 - INFO - Downloaded media from https://preview.redd.it/sp85ow3g2dne1.jpg?width=3840&format=pjpg&auto=webp&s=5c32bba5d9dafdfa4e4d98a8b9a94449d629fc2a to temp_image.jpg
+2025-03-08 11:35:22,677 - INFO - Posted content successfully. Tweet ID: 1898336737342144779
