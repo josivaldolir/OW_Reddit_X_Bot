@@ -768,3 +768,11 @@ Your media IDs are invalid.
 2025-03-08 22:34:42,079 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-08 22:35:24,672 - ERROR - Failed to post content: 400 Bad Request
 Your media IDs are invalid.
+2025-03-08 23:12:34,057 - INFO - Content: Hanzo kill any%
+
+2025-03-08 23:12:34,057 - INFO - Image Paths: ['https://external-preview.redd.it/N2p3dDluN3Btam5lMQEWeBUetGyekvMxTXczVzADoxWiZmH9KkH7maTml0Q-.png?format=pjpg&auto=webp&s=0f042c33964765c5665f8acb73e6cca6e513f995']
+2025-03-08 23:12:34,058 - INFO - Video Path: https://v.redd.it/u32tycbpmjne1/DASH_1080.mp4?source=fallback
+2025-03-08 23:12:34,829 - INFO - Downloaded media from https://v.redd.it/u32tycbpmjne1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-08 23:12:34,946 - INFO - Downloaded media from https://v.redd.it/u32tycbpmjne1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-08 23:12:35,155 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-08 23:12:44,392 - INFO - Posted content successfully. Tweet ID: 1898512235431084442
