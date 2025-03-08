@@ -776,3 +776,9 @@ Your media IDs are invalid.
 2025-03-08 23:12:34,946 - INFO - Downloaded media from https://v.redd.it/u32tycbpmjne1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-08 23:12:35,155 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-08 23:12:44,392 - INFO - Posted content successfully. Tweet ID: 1898512235431084442
+2025-03-08 23:37:24,692 - INFO - Content: The door didn't open lol
+Felt like in the squidward meme 
+2025-03-08 23:37:24,693 - INFO - Image Paths: ['https://preview.redd.it/ny6pf3qhijne1.jpeg?auto=webp&s=6ef25c85cd981f1da6b1229b33a098400b14b1ed']
+2025-03-08 23:37:24,693 - INFO - Video Path: 
+2025-03-08 23:37:25,182 - INFO - Downloaded media from https://preview.redd.it/ny6pf3qhijne1.jpeg?auto=webp&s=6ef25c85cd981f1da6b1229b33a098400b14b1ed to temp_image.jpg
+2025-03-08 23:37:26,642 - INFO - Posted content successfully. Tweet ID: 1898518451523650002
