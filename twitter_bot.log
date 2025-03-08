@@ -504,3 +504,12 @@ I can’t wait to play this character!
 2025-03-08 07:11:08,170 - INFO - Downloaded media from https://preview.redd.it/ogqebp83tcne1.jpeg?auto=webp&s=f30bd940ccf468686e5e1ad17f246e1be51fccde to temp_image.jpg
 2025-03-08 07:11:09,089 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-08 07:35:21,390 - INFO - Content: Check out this Amazing Aqua fanart!
+Credit to @tnd4015 on Twitter!! 
+
+I can’t wait to play this character!
+2025-03-08 07:35:21,390 - INFO - Image Paths: ['https://preview.redd.it/ogqebp83tcne1.jpeg?auto=webp&s=f30bd940ccf468686e5e1ad17f246e1be51fccde']
+2025-03-08 07:35:21,390 - INFO - Video Path: 
+2025-03-08 07:35:21,714 - INFO - Downloaded media from https://preview.redd.it/ogqebp83tcne1.jpeg?auto=webp&s=f30bd940ccf468686e5e1ad17f246e1be51fccde to temp_image.jpg
+2025-03-08 07:35:22,957 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
