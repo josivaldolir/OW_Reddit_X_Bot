@@ -58,3 +58,10 @@ Too Many Requests
 2025-03-09 05:36:16,783 - INFO - Downloaded media from https://preview.redd.it/b6cae6m1fjne1.jpg?width=623&format=pjpg&auto=webp&s=be4d86853ca0a93115638605bc40fc13ab85b037 to temp_image.jpg
 2025-03-09 05:36:17,409 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-09 06:15:28,991 - INFO - Content: Can someone explain…
+Why this spray is a Reaper only spray and not available for me to equip on Sigma??
+2025-03-09 06:15:28,991 - INFO - Image Paths: ['https://preview.redd.it/asvu3ni1xjne1.jpeg?auto=webp&s=1f0f7b7cc93aced3ebcb04b5fb21472ac81a0fb3']
+2025-03-09 06:15:28,991 - INFO - Video Path: 
+2025-03-09 06:15:29,343 - INFO - Downloaded media from https://preview.redd.it/asvu3ni1xjne1.jpeg?auto=webp&s=1f0f7b7cc93aced3ebcb04b5fb21472ac81a0fb3 to temp_image.jpg
+2025-03-09 06:15:30,648 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
