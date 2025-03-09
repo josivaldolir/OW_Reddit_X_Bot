@@ -140,3 +140,11 @@ When is the mid season patch so they can put that old man in his grave. Like my 
 2025-03-09 11:10:14,028 - INFO - Image Paths: []
 2025-03-09 11:10:14,028 - INFO - Video Path: 
 2025-03-09 11:10:14,376 - INFO - Posted content successfully. Tweet ID: 1898692800260239508
+2025-03-09 12:20:48,259 - INFO - Content: Yo my Reaper is CRAZY !!!! 🔥🔥🔥
+
+2025-03-09 12:20:48,259 - INFO - Image Paths: ['https://external-preview.redd.it/bTQwN2p1anZjbm5lMYOKgwZa7BpCOsqCVbdfAjW21ND2bngj9BxxxIO1xPjk.png?format=pjpg&auto=webp&s=968ec8fa19f29e108e55ed8aa038d007b96b53d5']
+2025-03-09 12:20:48,259 - INFO - Video Path: https://v.redd.it/1e6z0ujvcnne1/DASH_720.mp4?source=fallback
+2025-03-09 12:20:48,449 - INFO - Downloaded media from https://v.redd.it/1e6z0ujvcnne1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-03-09 12:20:48,465 - INFO - Downloaded media from https://v.redd.it/1e6z0ujvcnne1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-03-09 12:20:51,958 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-09 12:20:59,051 - INFO - Posted content successfully. Tweet ID: 1898710603490808285
