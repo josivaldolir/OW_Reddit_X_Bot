@@ -163,3 +163,11 @@ When is the mid season patch so they can put that old man in his grave. Like my 
 2025-03-09 13:13:03,636 - INFO - Downloaded media from https://preview.redd.it/kn43t5m1fjne1.jpg?width=3840&format=pjpg&auto=webp&s=7dec3c8d57cdbcc216aa8749a1ec304df2da7eb6 to temp_image.jpg
 2025-03-09 13:13:04,570 - INFO - Downloaded media from https://preview.redd.it/b6cae6m1fjne1.jpg?width=623&format=pjpg&auto=webp&s=be4d86853ca0a93115638605bc40fc13ab85b037 to temp_image.jpg
 2025-03-09 13:13:05,820 - INFO - Posted content successfully. Tweet ID: 1898723716801921054
+2025-03-09 14:12:01,736 - INFO - Content: Assassin Ana isn't real, she can't hurt you...Assassin Ana:
+
+2025-03-09 14:12:01,736 - INFO - Image Paths: ['https://external-preview.redd.it/OHk1cGc4bzYxb25lMfq12e3cBdqKSo0U4aSE2-YND6ENhyJ5iivFMos-MAZx.png?format=pjpg&auto=webp&s=499f9175e8235c8e656aded46d2273e2b85e2e16']
+2025-03-09 14:12:01,736 - INFO - Video Path: https://v.redd.it/hs8in8o61one1/DASH_1080.mp4?source=fallback
+2025-03-09 14:12:03,164 - INFO - Downloaded media from https://v.redd.it/hs8in8o61one1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-09 14:12:03,293 - INFO - Downloaded media from https://v.redd.it/hs8in8o61one1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-09 14:12:05,343 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-09 14:12:12,843 - INFO - Posted content successfully. Tweet ID: 1898738595449753732
