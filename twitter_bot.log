@@ -202,3 +202,11 @@ Finally, got my first play of the game let’s go!!!
 2025-03-09 18:14:16,398 - INFO - Downloaded media from https://v.redd.it/vfbh28p0fpne1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-09 18:14:16,674 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-09 18:14:28,531 - INFO - Posted content successfully. Tweet ID: 1898799562455724073
+2025-03-09 18:35:51,516 - INFO - Content: uhm
+
+2025-03-09 18:35:51,516 - INFO - Image Paths: ['https://external-preview.redd.it/OHpqZjVyZTBocG5lMdY2as5TTBuPsbSIWqfY-9b6TKfNeSycnv_rjRIAnLOv.png?format=pjpg&auto=webp&s=af6401c93996c9cae851686b9b50ad80a2f6c8ee']
+2025-03-09 18:35:51,516 - INFO - Video Path: https://v.redd.it/4sauqqe0hpne1/DASH_1080.mp4?source=fallback
+2025-03-09 18:35:51,974 - INFO - Downloaded media from https://v.redd.it/4sauqqe0hpne1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-09 18:35:52,061 - INFO - Downloaded media from https://v.redd.it/4sauqqe0hpne1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-09 18:35:52,315 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-09 18:35:59,258 - INFO - Posted content successfully. Tweet ID: 1898804976324915566
