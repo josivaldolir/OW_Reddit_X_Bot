@@ -87,3 +87,12 @@ Why this spray is a Reaper only spray and not available for me to equip on Sigma
 2025-03-09 08:15:04,060 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-09 08:15:09,466 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-09 08:34:51,385 - INFO - Content: Reins new Perk for Overhealth applies to ledge kills too
+
+2025-03-09 08:34:51,385 - INFO - Image Paths: ['https://external-preview.redd.it/dGF0NXV3eW9ua25lMezpOYwBdgwBMH6z8QwabLDA4e8W02FjnpsbKsxdNQL8.png?format=pjpg&auto=webp&s=7baa10d9a94afb409e41937a67e9b528911df6d5']
+2025-03-09 08:34:51,385 - INFO - Video Path: https://v.redd.it/h1g5ji5pnkne1/DASH_1080.mp4?source=fallback
+2025-03-09 08:34:52,122 - INFO - Downloaded media from https://v.redd.it/h1g5ji5pnkne1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-09 08:34:52,165 - INFO - Downloaded media from https://v.redd.it/h1g5ji5pnkne1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-09 08:34:52,508 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-09 08:34:59,756 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
