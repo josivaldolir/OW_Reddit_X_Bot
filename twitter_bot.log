@@ -50,3 +50,11 @@ Too Many Requests
 2025-03-09 05:12:51,336 - INFO - Downloaded media from https://preview.redd.it/b6cae6m1fjne1.jpg?width=623&format=pjpg&auto=webp&s=be4d86853ca0a93115638605bc40fc13ab85b037 to temp_image.jpg
 2025-03-09 05:12:52,020 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-09 05:36:15,575 - INFO - Content: FINALLY got to diamond (on DPS) last game was Venture in Ilios
+
+2025-03-09 05:36:15,575 - INFO - Image Paths: ['https://preview.redd.it/kn43t5m1fjne1.jpg?width=3840&format=pjpg&auto=webp&s=7dec3c8d57cdbcc216aa8749a1ec304df2da7eb6', 'https://preview.redd.it/b6cae6m1fjne1.jpg?width=623&format=pjpg&auto=webp&s=be4d86853ca0a93115638605bc40fc13ab85b037']
+2025-03-09 05:36:15,575 - INFO - Video Path: 
+2025-03-09 05:36:15,805 - INFO - Downloaded media from https://preview.redd.it/kn43t5m1fjne1.jpg?width=3840&format=pjpg&auto=webp&s=7dec3c8d57cdbcc216aa8749a1ec304df2da7eb6 to temp_image.jpg
+2025-03-09 05:36:16,783 - INFO - Downloaded media from https://preview.redd.it/b6cae6m1fjne1.jpg?width=623&format=pjpg&auto=webp&s=be4d86853ca0a93115638605bc40fc13ab85b037 to temp_image.jpg
+2025-03-09 05:36:17,409 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
