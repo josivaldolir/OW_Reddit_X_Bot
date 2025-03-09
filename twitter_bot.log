@@ -171,3 +171,4 @@ When is the mid season patch so they can put that old man in his grave. Like my 
 2025-03-09 14:12:03,293 - INFO - Downloaded media from https://v.redd.it/hs8in8o61one1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-09 14:12:05,343 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-09 14:12:12,843 - INFO - Posted content successfully. Tweet ID: 1898738595449753732
+2025-03-09 14:34:55,706 - ERROR - Error in main loop: 'u'
