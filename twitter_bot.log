@@ -219,3 +219,11 @@ Finally, got my first play of the game let’s go!!!
 2025-03-09 19:09:04,444 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-09 19:09:17,782 - INFO - Posted content successfully. Tweet ID: 1898813358725648536
 2025-03-09 19:34:25,021 - ERROR - Error in main loop: 'u'
+2025-03-09 20:14:20,446 - INFO - Content: Love knows no gender
+
+2025-03-09 20:14:20,446 - INFO - Image Paths: ['https://external-preview.redd.it/dHpoMGJ1aWF2cG5lMXcaoD642ezHiyjlV4t-33K6hJ4qFH8ghpTxNs9FqCyv.png?format=pjpg&auto=webp&s=4493d28eea7940c3cafe751f550a0684e557e2df']
+2025-03-09 20:14:20,446 - INFO - Video Path: https://v.redd.it/st2h0sravpne1/DASH_480.mp4?source=fallback
+2025-03-09 20:14:20,726 - INFO - Downloaded media from https://v.redd.it/st2h0sravpne1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-03-09 20:14:20,950 - INFO - Downloaded media from https://v.redd.it/st2h0sravpne1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-03-09 20:14:31,630 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-09 20:14:34,812 - INFO - Posted content successfully. Tweet ID: 1898829787906326896
