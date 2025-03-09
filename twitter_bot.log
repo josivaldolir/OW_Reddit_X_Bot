@@ -5,3 +5,11 @@
 2025-03-09 00:59:14,043 - INFO - Video Path: 
 2025-03-09 00:59:14,068 - INFO - Downloaded media from https://preview.redd.it/tlyd7ht66kne1.jpeg?auto=webp&s=f771df9d1bc2a26a1496a7db59d7bd633ddbb63a to temp_image.jpg
 2025-03-09 00:59:15,195 - INFO - Posted content successfully. Tweet ID: 1898539040145588560
+2025-03-09 02:03:46,131 - INFO - Content: The Train just murdered her
+Poor Echo 😭
+2025-03-09 02:03:46,131 - INFO - Image Paths: ['https://external-preview.redd.it/bHh5eWJpYmsza25lMauPIDPCTTaeCxZfEItpe0bU48VMjj9Nfew7bF7rTFwx.png?format=pjpg&auto=webp&s=4080cb0b6eb262a2f3ee43338e619a207363e446']
+2025-03-09 02:03:46,131 - INFO - Video Path: https://v.redd.it/pl0ss8ik3kne1/DASH_1080.mp4?source=fallback
+2025-03-09 02:03:46,451 - INFO - Downloaded media from https://v.redd.it/pl0ss8ik3kne1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-09 02:03:46,578 - INFO - Downloaded media from https://v.redd.it/pl0ss8ik3kne1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-09 02:03:47,066 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-09 02:03:55,279 - INFO - Posted content successfully. Tweet ID: 1898555314628173980
