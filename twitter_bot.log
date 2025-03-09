@@ -65,3 +65,10 @@ Why this spray is a Reaper only spray and not available for me to equip on Sigma
 2025-03-09 06:15:29,343 - INFO - Downloaded media from https://preview.redd.it/asvu3ni1xjne1.jpeg?auto=webp&s=1f0f7b7cc93aced3ebcb04b5fb21472ac81a0fb3 to temp_image.jpg
 2025-03-09 06:15:30,648 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-09 06:36:53,538 - INFO - Content: Can someone explain…
+Why this spray is a Reaper only spray and not available for me to equip on Sigma??
+2025-03-09 06:36:53,538 - INFO - Image Paths: ['https://preview.redd.it/asvu3ni1xjne1.jpeg?auto=webp&s=1f0f7b7cc93aced3ebcb04b5fb21472ac81a0fb3']
+2025-03-09 06:36:53,538 - INFO - Video Path: 
+2025-03-09 06:36:53,725 - INFO - Downloaded media from https://preview.redd.it/asvu3ni1xjne1.jpeg?auto=webp&s=1f0f7b7cc93aced3ebcb04b5fb21472ac81a0fb3 to temp_image.jpg
+2025-03-09 06:36:54,906 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
