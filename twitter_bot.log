@@ -240,3 +240,4 @@ Finally, got my first play of the game let’s go!!!
 2025-03-09 21:35:43,014 - INFO - Video Path: 
 2025-03-09 21:35:43,245 - INFO - Downloaded media from https://preview.redd.it/43wqze4vdqne1.png?auto=webp&s=7bc903c644ffd95e3494cca535cf47caa431a095 to temp_image.jpg
 2025-03-09 21:35:45,076 - INFO - Posted content successfully. Tweet ID: 1898850213135024330
+2025-03-09 22:12:38,807 - ERROR - Error in main loop: 'u'
