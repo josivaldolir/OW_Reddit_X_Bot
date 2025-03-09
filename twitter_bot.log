@@ -156,3 +156,10 @@ When is the mid season patch so they can put that old man in his grave. Like my 
 2025-03-09 12:46:01,744 - INFO - Downloaded media from https://v.redd.it/lfacnbxvfkne1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-09 12:46:01,953 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-09 12:46:07,972 - INFO - Posted content successfully. Tweet ID: 1898716932200894689
+2025-03-09 13:13:03,437 - INFO - Content: FINALLY got to diamond (on DPS) last game was Venture in Ilios
+
+2025-03-09 13:13:03,438 - INFO - Image Paths: ['https://preview.redd.it/kn43t5m1fjne1.jpg?width=3840&format=pjpg&auto=webp&s=7dec3c8d57cdbcc216aa8749a1ec304df2da7eb6', 'https://preview.redd.it/b6cae6m1fjne1.jpg?width=623&format=pjpg&auto=webp&s=be4d86853ca0a93115638605bc40fc13ab85b037']
+2025-03-09 13:13:03,438 - INFO - Video Path: 
+2025-03-09 13:13:03,636 - INFO - Downloaded media from https://preview.redd.it/kn43t5m1fjne1.jpg?width=3840&format=pjpg&auto=webp&s=7dec3c8d57cdbcc216aa8749a1ec304df2da7eb6 to temp_image.jpg
+2025-03-09 13:13:04,570 - INFO - Downloaded media from https://preview.redd.it/b6cae6m1fjne1.jpg?width=623&format=pjpg&auto=webp&s=be4d86853ca0a93115638605bc40fc13ab85b037 to temp_image.jpg
+2025-03-09 13:13:05,820 - INFO - Posted content successfully. Tweet ID: 1898723716801921054
