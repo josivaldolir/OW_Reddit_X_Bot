@@ -227,3 +227,9 @@ Finally, got my first play of the game let’s go!!!
 2025-03-09 20:14:20,950 - INFO - Downloaded media from https://v.redd.it/st2h0sravpne1/DASH_480.mp4?source=fallback to temp_audio.mp4
 2025-03-09 20:14:31,630 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-09 20:14:34,812 - INFO - Posted content successfully. Tweet ID: 1898829787906326896
+2025-03-09 20:35:43,056 - INFO - Content: When Bastion dies
+
+2025-03-09 20:35:43,056 - INFO - Image Paths: ['https://external-preview.redd.it/rwFNC8EjtkklwxTvay-WggLd6IDRkiMnbQGtIfZhjH0.jpg?auto=webp&s=ea2abfdf07ef5c015190b66eb42677a1c38d7f06']
+2025-03-09 20:35:43,056 - INFO - Video Path: 
+2025-03-09 20:35:43,325 - INFO - Downloaded media from https://external-preview.redd.it/rwFNC8EjtkklwxTvay-WggLd6IDRkiMnbQGtIfZhjH0.jpg?auto=webp&s=ea2abfdf07ef5c015190b66eb42677a1c38d7f06 to temp_image.jpg
+2025-03-09 20:35:44,372 - INFO - Posted content successfully. Tweet ID: 1898835112743272748
