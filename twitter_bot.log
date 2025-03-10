@@ -535,3 +535,9 @@ Also the official overwatch youtube video : https://youtu.be/G9siocBZWbA
 2025-03-10 22:13:33,813 - INFO - Downloaded media from https://v.redd.it/z2piqp74ixne1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-10 22:13:34,266 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-10 22:13:45,953 - INFO - Posted content successfully. Tweet ID: 1899222169785127051
+2025-03-10 22:39:07,613 - INFO - Content: Would he lose?
+
+2025-03-10 22:39:07,613 - INFO - Image Paths: ['https://preview.redd.it/hhgxo3vstxne1.jpeg?auto=webp&s=6ce28dab43637301d7431f512642a52a8b276dd5']
+2025-03-10 22:39:07,613 - INFO - Video Path: 
+2025-03-10 22:39:07,775 - INFO - Downloaded media from https://preview.redd.it/hhgxo3vstxne1.jpeg?auto=webp&s=6ce28dab43637301d7431f512642a52a8b276dd5 to temp_image.jpg
+2025-03-10 22:39:10,528 - INFO - Posted content successfully. Tweet ID: 1899228562772906259
