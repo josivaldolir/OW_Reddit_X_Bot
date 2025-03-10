@@ -508,3 +508,9 @@ Service Unavailable
 2025-03-10 20:16:08,593 - INFO - Video Path: 
 2025-03-10 20:16:08,677 - INFO - Downloaded media from https://preview.redd.it/fx7ybywq2xne1.jpeg?auto=webp&s=3adff6b8af74e20089246e78042ea978c3a615a5 to temp_image.jpg
 2025-03-10 20:16:09,584 - INFO - Posted content successfully. Tweet ID: 1899192573111238837
+2025-03-10 21:13:36,261 - INFO - Content: That's literally two different people
+
+2025-03-10 21:13:36,261 - INFO - Image Paths: ['https://preview.redd.it/nyyxhhc9hxne1.png?auto=webp&s=c3df1b0286a72683e95fc0831e60c4ea56a8b263']
+2025-03-10 21:13:36,261 - INFO - Video Path: 
+2025-03-10 21:13:36,399 - INFO - Downloaded media from https://preview.redd.it/nyyxhhc9hxne1.png?auto=webp&s=c3df1b0286a72683e95fc0831e60c4ea56a8b263 to temp_image.jpg
+2025-03-10 21:13:37,289 - INFO - Posted content successfully. Tweet ID: 1899207033867710600
