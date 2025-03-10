@@ -444,3 +444,12 @@ Got this screenshot as i desync at the end of a match
 2025-03-10 15:37:40,232 - INFO - Video Path: 
 2025-03-10 15:37:40,408 - INFO - Downloaded media from https://preview.redd.it/4bs8wdim9vne1.jpeg?auto=webp&s=8f9dc42d30588305674ce3dc23937d530be229ba to temp_image.jpg
 2025-03-10 15:37:43,332 - INFO - Posted content successfully. Tweet ID: 1899122500354916765
+2025-03-10 16:15:43,263 - INFO - Content: A scuffed edit to see if I could get Ashe & Illari to look more like themselves. Also bonus Juno with her original hair colours. (No hate, just for fun!)
+
+2025-03-10 16:15:43,263 - INFO - Image Paths: ['https://preview.redd.it/z7j2vg3vavne1.png?width=886&format=png&auto=webp&s=4265e9a1b7dcf29d6021146c0fac29789ecf2fcc', 'https://preview.redd.it/y1ut6f3vavne1.png?width=494&format=png&auto=webp&s=a8e9954102df4b17c37f695d6a4eca0980513b84']
+2025-03-10 16:15:43,263 - INFO - Video Path: 
+2025-03-10 16:15:43,333 - INFO - Downloaded media from https://preview.redd.it/z7j2vg3vavne1.png?width=886&format=png&auto=webp&s=4265e9a1b7dcf29d6021146c0fac29789ecf2fcc to temp_image.jpg
+2025-03-10 16:16:46,468 - ERROR - Failed to check rate limits: Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read timeout=60)
+2025-03-10 16:17:02,581 - INFO - Downloaded media from https://preview.redd.it/y1ut6f3vavne1.png?width=494&format=png&auto=webp&s=a8e9954102df4b17c37f695d6a4eca0980513b84 to temp_image.jpg
+2025-03-10 16:17:04,615 - ERROR - Failed to post content: 503 Service Unavailable
+Service Unavailable
