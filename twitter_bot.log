@@ -265,3 +265,12 @@ I was in a comp match and was disconnected. Couldn’t get the game to load back
 2025-03-10 00:56:44,665 - INFO - Video Path: 
 2025-03-10 00:56:44,816 - INFO - Downloaded media from https://preview.redd.it/kmfxywap5rne1.jpeg?auto=webp&s=fc4a752add3b605ff88db6ff27cc4231b9212991 to temp_image.jpg
 2025-03-10 00:56:48,550 - INFO - Posted content successfully. Tweet ID: 1898900809854730269
+2025-03-10 02:03:03,268 - INFO - Content: Lego Overwatch - All Characters
+
+2025-03-10 02:03:03,268 - INFO - Image Paths: ['https://preview.redd.it/ipgiesqi9rne1.jpg?width=6240&format=pjpg&auto=webp&s=745298b5ffab48eedb451f9eee856f1ea3e444d5', 'https://preview.redd.it/frwzhmqi9rne1.jpg?width=6240&format=pjpg&auto=webp&s=ecc48a12b4e0e5ad6fd2f16b7b1973ac1e93991c', 'https://preview.redd.it/v5pnmiqi9rne1.jpg?width=5983&format=pjpg&auto=webp&s=6cb5d87ee5efc54b90675cb8c0aad34fb220e8f7', 'https://preview.redd.it/dpp4sjqi9rne1.jpg?width=6094&format=pjpg&auto=webp&s=21e6bc95a98bef2d19829b404afc770bcbfe0242']
+2025-03-10 02:03:03,268 - INFO - Video Path: 
+2025-03-10 02:03:03,592 - INFO - Downloaded media from https://preview.redd.it/ipgiesqi9rne1.jpg?width=6240&format=pjpg&auto=webp&s=745298b5ffab48eedb451f9eee856f1ea3e444d5 to temp_image.jpg
+2025-03-10 02:03:05,407 - INFO - Downloaded media from https://preview.redd.it/frwzhmqi9rne1.jpg?width=6240&format=pjpg&auto=webp&s=ecc48a12b4e0e5ad6fd2f16b7b1973ac1e93991c to temp_image.jpg
+2025-03-10 02:03:07,208 - INFO - Downloaded media from https://preview.redd.it/v5pnmiqi9rne1.jpg?width=5983&format=pjpg&auto=webp&s=6cb5d87ee5efc54b90675cb8c0aad34fb220e8f7 to temp_image.jpg
+2025-03-10 02:03:09,115 - INFO - Downloaded media from https://preview.redd.it/dpp4sjqi9rne1.jpg?width=6094&format=pjpg&auto=webp&s=21e6bc95a98bef2d19829b404afc770bcbfe0242 to temp_image.jpg
+2025-03-10 02:03:11,394 - INFO - Posted content successfully. Tweet ID: 1898917516552061420
