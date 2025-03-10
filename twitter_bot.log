@@ -527,3 +527,11 @@ Also the official overwatch youtube video : https://youtu.be/G9siocBZWbA
 2025-03-10 21:36:07,725 - INFO - Downloaded media from https://preview.redd.it/z8wdsf3fowne1.jpg?width=1536&format=pjpg&auto=webp&s=a16c454b62567beea66888c8093de412ef3994f6 to temp_image.jpg
 2025-03-10 21:36:08,194 - INFO - Downloaded media from https://preview.redd.it/jxbwj17fowne1.jpg?width=1024&format=pjpg&auto=webp&s=2cb618609a96e9fac9a8a78bea26e008dab6fc47 to temp_image.jpg
 2025-03-10 21:36:09,454 - INFO - Posted content successfully. Tweet ID: 1899212703471714535
+2025-03-10 22:13:32,572 - INFO - Content: In loving memory to Ezgames02.
+
+2025-03-10 22:13:32,573 - INFO - Image Paths: ['https://external-preview.redd.it/dmRjeGZyNzRpeG5lMcLkoktk5T6ewumd9sBW_BG4ZNx2zDX4v5EC-UZOPuF2.png?format=pjpg&auto=webp&s=6885fe13eaf5c8171e3c2b32ee1ad5485dd7a679']
+2025-03-10 22:13:32,573 - INFO - Video Path: https://v.redd.it/z2piqp74ixne1/DASH_1080.mp4?source=fallback
+2025-03-10 22:13:33,300 - INFO - Downloaded media from https://v.redd.it/z2piqp74ixne1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-10 22:13:33,813 - INFO - Downloaded media from https://v.redd.it/z2piqp74ixne1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-10 22:13:34,266 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-10 22:13:45,953 - INFO - Posted content successfully. Tweet ID: 1899222169785127051
