@@ -309,3 +309,11 @@ Bußgeld= Fine
 2025-03-10 04:15:18,550 - INFO - Downloaded media from https://v.redd.it/tf58vwfz7sne1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-10 04:15:23,857 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-10 04:15:38,077 - INFO - Posted content successfully. Tweet ID: 1898950849172213872
+2025-03-10 04:37:39,860 - INFO - Content: Ramattra and Soldier 76 emotes in spawn
+I've tried to post this several times now, I guess the title has to be descriptive and not funny
+2025-03-10 04:37:39,861 - INFO - Image Paths: ['https://external-preview.redd.it/bm96ZDdiYm00c25lMR2sJFv6wNUi_mwJR9yjM5T1E84MI4AgDILt7Pt5NmYD.png?format=pjpg&auto=webp&s=5ef6df455e8fb5c7476b89605c3053c83b21bab2']
+2025-03-10 04:37:39,861 - INFO - Video Path: https://v.redd.it/pp777tfm4sne1/DASH_720.mp4?source=fallback
+2025-03-10 04:37:40,377 - INFO - Downloaded media from https://v.redd.it/pp777tfm4sne1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-03-10 04:37:40,597 - INFO - Downloaded media from https://v.redd.it/pp777tfm4sne1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-03-10 04:37:43,230 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-10 04:37:50,437 - INFO - Posted content successfully. Tweet ID: 1898956437486780587
