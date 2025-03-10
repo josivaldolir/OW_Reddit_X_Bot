@@ -368,3 +368,10 @@ Funny
 2025-03-10 09:34:48,916 - INFO - Downloaded media from https://preview.redd.it/k9ngqrklztne1.jpeg?auto=webp&s=b8285110f41a477c3026c32a52f2f41ab6b00965 to temp_image.jpg
 2025-03-10 09:34:49,827 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-10 10:14:42,756 - INFO - Content: Stolen from tiktok
+Funny
+2025-03-10 10:14:42,757 - INFO - Image Paths: ['https://preview.redd.it/k9ngqrklztne1.jpeg?auto=webp&s=b8285110f41a477c3026c32a52f2f41ab6b00965']
+2025-03-10 10:14:42,757 - INFO - Video Path: 
+2025-03-10 10:14:42,779 - INFO - Downloaded media from https://preview.redd.it/k9ngqrklztne1.jpeg?auto=webp&s=b8285110f41a477c3026c32a52f2f41ab6b00965 to temp_image.jpg
+2025-03-10 10:14:43,547 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
