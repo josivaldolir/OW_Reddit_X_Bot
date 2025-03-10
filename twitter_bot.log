@@ -461,3 +461,10 @@ Service Unavailable
 2025-03-10 16:43:34,674 - INFO - Downloaded media from https://v.redd.it/0wdvbjrhtvne1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-10 16:43:35,424 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-10 16:45:07,953 - ERROR - Failed to post content: Failed to send request: HTTPSConnectionPool(host='upload.twitter.com', port=443): Read timed out. (read timeout=60)
+2025-03-10 17:14:22,634 - INFO - Content: Overwatch 2 x LE SSERAFIM | Collaboration Trailer
+
+2025-03-10 17:14:22,635 - INFO - Image Paths: ['https://external-preview.redd.it/1PYAAhWXfqFFukYfDp9_n_Ov3-TTI3Jmx9J0YPCKFhU.jpg?auto=webp&s=2937ed89eed7fc53b1f228b22248bfb04f04431f']
+2025-03-10 17:14:22,635 - INFO - Video Path: 
+2025-03-10 17:14:22,701 - INFO - Downloaded media from https://external-preview.redd.it/1PYAAhWXfqFFukYfDp9_n_Ov3-TTI3Jmx9J0YPCKFhU.jpg?auto=webp&s=2937ed89eed7fc53b1f228b22248bfb04f04431f to temp_image.jpg
+2025-03-10 17:15:22,777 - ERROR - Failed to check rate limits: Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read timeout=60)
+2025-03-10 17:16:23,961 - ERROR - Failed to post content: Failed to send request: HTTPSConnectionPool(host='upload.twitter.com', port=443): Read timed out. (read timeout=60)
