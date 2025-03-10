@@ -352,3 +352,11 @@ Earlier today I saw a training bot walk to the railings and jump off so I tried 
 2025-03-10 08:16:19,723 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-10 08:16:26,999 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-10 08:42:45,588 - INFO - Content: Training bots offing themselves
+Earlier today I saw a training bot walk to the railings and jump off so I tried my best to reproduce this and this is the only way I found to consistently get bots to do this. If anyone has any info about this, please let me know. I am SO confused.
+2025-03-10 08:42:45,588 - INFO - Image Paths: ['https://external-preview.redd.it/NzB4Y2w0M2p6cW5lMRu_zq29Qjt0sqs6oVQnprzitxVCypsfY6p1QmDb8NOF.png?format=pjpg&auto=webp&s=f444ff07efcc84db110ae05e756d3665b5d6aab5']
+2025-03-10 08:42:45,588 - INFO - Video Path: https://v.redd.it/cd4magajzqne1/DASH_720.mp4?source=fallback
+2025-03-10 08:42:45,869 - INFO - Downloaded media from https://v.redd.it/cd4magajzqne1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-03-10 08:42:45,927 - INFO - Downloaded media from https://v.redd.it/cd4magajzqne1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-03-10 08:42:46,711 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-10 08:42:55,107 - INFO - Posted content successfully. Tweet ID: 1899018113288683599
