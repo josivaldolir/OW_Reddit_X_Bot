@@ -502,3 +502,9 @@ Service Unavailable
 2025-03-10 19:35:58,342 - INFO - Downloaded media from https://preview.redd.it/1c30i455hwne1.jpg?width=4096&format=pjpg&auto=webp&s=92e52fc713d2d3c0bb60557e4c81b57ce61b5831 to temp_image.jpg
 2025-03-10 19:35:59,559 - INFO - Downloaded media from https://preview.redd.it/wa8bthr5hwne1.jpg?width=2819&format=pjpg&auto=webp&s=83477bc2d5c14a3e4b262d774ba3e471d2c223e2 to temp_image.jpg
 2025-03-10 19:36:01,049 - INFO - Posted content successfully. Tweet ID: 1899182469997625583
+2025-03-10 20:16:08,593 - INFO - Content: Fugtrup in shambles
+
+2025-03-10 20:16:08,593 - INFO - Image Paths: ['https://preview.redd.it/fx7ybywq2xne1.jpeg?auto=webp&s=3adff6b8af74e20089246e78042ea978c3a615a5']
+2025-03-10 20:16:08,593 - INFO - Video Path: 
+2025-03-10 20:16:08,677 - INFO - Downloaded media from https://preview.redd.it/fx7ybywq2xne1.jpeg?auto=webp&s=3adff6b8af74e20089246e78042ea978c3a615a5 to temp_image.jpg
+2025-03-10 20:16:09,584 - INFO - Posted content successfully. Tweet ID: 1899192573111238837
