@@ -360,3 +360,4 @@ Earlier today I saw a training bot walk to the railings and jump off so I tried 
 2025-03-10 08:42:45,927 - INFO - Downloaded media from https://v.redd.it/cd4magajzqne1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-03-10 08:42:46,711 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-10 08:42:55,107 - INFO - Posted content successfully. Tweet ID: 1899018113288683599
+2025-03-10 09:13:43,786 - ERROR - Error in main loop: 'u'
