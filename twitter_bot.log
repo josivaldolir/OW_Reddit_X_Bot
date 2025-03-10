@@ -417,3 +417,9 @@ Got this screenshot as i desync at the end of a match
 2025-03-10 13:42:20,238 - INFO - Video Path: 
 2025-03-10 13:42:20,458 - INFO - Downloaded media from https://preview.redd.it/wt6eqmqn6vne1.jpeg?auto=webp&s=74ea70967f5bc093de5551fa20da5f1c3b28224b to temp_image.jpg
 2025-03-10 13:42:22,039 - INFO - Posted content successfully. Tweet ID: 1899093471316914314
+2025-03-10 14:15:28,446 - INFO - Content: literally unplayable
+
+2025-03-10 14:15:28,446 - INFO - Image Paths: ['https://preview.redd.it/wj4spuy5bvne1.png?width=1167&format=png&auto=webp&s=db8ae54cd40a2de2532cf349f61a47ee7582d653', 'https://preview.redd.it/ynh4xty5bvne1.png?width=1112&format=png&auto=webp&s=c6a733404e774d33d45e7ef1820b821792c17adf', 'https://preview.redd.it/8sq5ij3mbvne1.png?width=1096&format=png&auto=webp&s=79c11bde2d7e2833e6e5e073709d6db287b53bba']
+2025-03-10 14:15:28,446 - INFO - Video Path: 
+2025-03-10 14:15:28,640 - INFO - Downloaded media from https://preview.redd.it/wj4spuy5bvne1.png?width=1167&format=png&auto=webp&s=db8ae54cd40a2de2532cf349f61a47ee7582d653 to temp_image.jpg
+2025-03-10 14:17:11,033 - ERROR - Failed to post content: Failed to send request: HTTPSConnectionPool(host='upload.twitter.com', port=443): Read timed out. (read timeout=60)
