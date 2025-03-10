@@ -301,3 +301,11 @@ Bußgeld= Fine
 2025-03-10 03:14:17,029 - INFO - Downloaded media from https://preview.redd.it/z4l8icofmpne1.png?auto=webp&s=0e3aab4a3aeb0c738745f5cb9a757ee5f2d7d929 to temp_image.jpg
 2025-03-10 03:14:18,283 - INFO - Posted content successfully. Tweet ID: 1898935414028689683
 2025-03-10 03:35:57,213 - ERROR - Error in main loop: 'u'
+2025-03-10 04:15:18,126 - INFO - Content: Overwatch Counter Picker v2.0 Released - Now with Counter Tracking! Info in the comments
+
+2025-03-10 04:15:18,126 - INFO - Image Paths: ['https://external-preview.redd.it/eW03dTB3Zno3c25lMRKqMS2iWBoiGUzbEGxxJ2vpw89D4qe86EXjJ2AQN6f0.png?format=pjpg&auto=webp&s=8cb954fae7934fd43b158c18e1a8227a9ab60b66']
+2025-03-10 04:15:18,126 - INFO - Video Path: https://v.redd.it/tf58vwfz7sne1/DASH_1080.mp4?source=fallback
+2025-03-10 04:15:18,503 - INFO - Downloaded media from https://v.redd.it/tf58vwfz7sne1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-10 04:15:18,550 - INFO - Downloaded media from https://v.redd.it/tf58vwfz7sne1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-10 04:15:23,857 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-10 04:15:38,077 - INFO - Posted content successfully. Tweet ID: 1898950849172213872
