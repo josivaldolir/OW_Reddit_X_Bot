@@ -549,3 +549,10 @@ Also the official overwatch youtube video : https://youtu.be/G9siocBZWbA
 2025-03-10 23:13:29,675 - INFO - Downloaded media from https://v.redd.it/8ey3c71b3wne1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-03-10 23:13:30,541 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-10 23:13:39,202 - INFO - Posted content successfully. Tweet ID: 1899237240988954727
+2025-03-10 23:36:12,782 - INFO - Content: Another quick edit, would have loved to see him 💔
+
+2025-03-10 23:36:12,783 - INFO - Image Paths: ['https://preview.redd.it/3xqd3oa83xne1.png?width=954&format=png&auto=webp&s=cf590f81f9668cf21089c6982ecd9c888823426b', 'https://preview.redd.it/19ci4qa83xne1.png?width=1920&format=png&auto=webp&s=852d5e44331a1fdc4f16d3dc9ad327a69a92a5df']
+2025-03-10 23:36:12,783 - INFO - Video Path: 
+2025-03-10 23:36:13,048 - INFO - Downloaded media from https://preview.redd.it/3xqd3oa83xne1.png?width=954&format=png&auto=webp&s=cf590f81f9668cf21089c6982ecd9c888823426b to temp_image.jpg
+2025-03-10 23:36:13,884 - INFO - Downloaded media from https://preview.redd.it/19ci4qa83xne1.png?width=1920&format=png&auto=webp&s=852d5e44331a1fdc4f16d3dc9ad327a69a92a5df to temp_image.jpg
+2025-03-10 23:36:15,508 - INFO - Posted content successfully. Tweet ID: 1899242926603166063
