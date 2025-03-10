@@ -411,3 +411,9 @@ This is particularly bad for heroes like Cass, who rely almost exclusively on he
 2025-03-10 13:04:17,577 - INFO - Video Path: 
 2025-03-10 13:04:17,702 - INFO - Downloaded media from https://preview.redd.it/l9jcvulgzune1.jpeg?auto=webp&s=7f6ea9a2ace5156833df49225ad4c62190226c82 to temp_image.jpg
 2025-03-10 13:04:18,649 - INFO - Posted content successfully. Tweet ID: 1899083894697398624
+2025-03-10 13:42:20,237 - INFO - Content: Got this screenshot as i desync at the end of a match
+Got this screenshot as i desync at the end of a match 
+2025-03-10 13:42:20,238 - INFO - Image Paths: ['https://preview.redd.it/wt6eqmqn6vne1.jpeg?auto=webp&s=74ea70967f5bc093de5551fa20da5f1c3b28224b']
+2025-03-10 13:42:20,238 - INFO - Video Path: 
+2025-03-10 13:42:20,458 - INFO - Downloaded media from https://preview.redd.it/wt6eqmqn6vne1.jpeg?auto=webp&s=74ea70967f5bc093de5551fa20da5f1c3b28224b to temp_image.jpg
+2025-03-10 13:42:22,039 - INFO - Posted content successfully. Tweet ID: 1899093471316914314
