@@ -474,3 +474,11 @@ Service Unavailable
 2025-03-10 17:38:27,754 - INFO - Video Path: 
 2025-03-10 17:38:27,886 - INFO - Downloaded media from https://external-preview.redd.it/1PYAAhWXfqFFukYfDp9_n_Ov3-TTI3Jmx9J0YPCKFhU.jpg?auto=webp&s=2937ed89eed7fc53b1f228b22248bfb04f04431f to temp_image.jpg
 2025-03-10 17:38:28,799 - INFO - Posted content successfully. Tweet ID: 1899152891820302462
+2025-03-10 18:18:19,426 - INFO - Content: Mada Mada
+
+2025-03-10 18:18:19,426 - INFO - Image Paths: ['https://external-preview.redd.it/am9haWJra2h0dm5lMUllYxW1uBEPUO70GQNn0tBenkJ60A6UDNx2aCyJNQEL.png?format=pjpg&auto=webp&s=126e3338cdd00aa8b29c5fc68aed963df0ed1f34']
+2025-03-10 18:18:19,426 - INFO - Video Path: https://v.redd.it/0wdvbjrhtvne1/DASH_1080.mp4?source=fallback
+2025-03-10 18:18:19,537 - INFO - Downloaded media from https://v.redd.it/0wdvbjrhtvne1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-10 18:18:19,601 - INFO - Downloaded media from https://v.redd.it/0wdvbjrhtvne1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-10 18:18:19,836 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-10 18:18:24,934 - INFO - Posted content successfully. Tweet ID: 1899162941963788306
