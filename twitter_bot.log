@@ -453,3 +453,11 @@ Got this screenshot as i desync at the end of a match
 2025-03-10 16:17:02,581 - INFO - Downloaded media from https://preview.redd.it/y1ut6f3vavne1.png?width=494&format=png&auto=webp&s=a8e9954102df4b17c37f695d6a4eca0980513b84 to temp_image.jpg
 2025-03-10 16:17:04,615 - ERROR - Failed to post content: 503 Service Unavailable
 Service Unavailable
+2025-03-10 16:43:33,470 - INFO - Content: Mada Mada
+
+2025-03-10 16:43:33,470 - INFO - Image Paths: ['https://external-preview.redd.it/am9haWJra2h0dm5lMUllYxW1uBEPUO70GQNn0tBenkJ60A6UDNx2aCyJNQEL.png?format=pjpg&auto=webp&s=126e3338cdd00aa8b29c5fc68aed963df0ed1f34']
+2025-03-10 16:43:33,470 - INFO - Video Path: https://v.redd.it/0wdvbjrhtvne1/DASH_1080.mp4?source=fallback
+2025-03-10 16:43:34,204 - INFO - Downloaded media from https://v.redd.it/0wdvbjrhtvne1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-10 16:43:34,674 - INFO - Downloaded media from https://v.redd.it/0wdvbjrhtvne1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-10 16:43:35,424 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-10 16:45:07,953 - ERROR - Failed to post content: Failed to send request: HTTPSConnectionPool(host='upload.twitter.com', port=443): Read timed out. (read timeout=60)
