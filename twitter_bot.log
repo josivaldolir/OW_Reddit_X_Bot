@@ -423,3 +423,11 @@ Got this screenshot as i desync at the end of a match
 2025-03-10 14:15:28,446 - INFO - Video Path: 
 2025-03-10 14:15:28,640 - INFO - Downloaded media from https://preview.redd.it/wj4spuy5bvne1.png?width=1167&format=png&auto=webp&s=db8ae54cd40a2de2532cf349f61a47ee7582d653 to temp_image.jpg
 2025-03-10 14:17:11,033 - ERROR - Failed to post content: Failed to send request: HTTPSConnectionPool(host='upload.twitter.com', port=443): Read timed out. (read timeout=60)
+2025-03-10 14:41:44,914 - INFO - Content: literally unplayable
+
+2025-03-10 14:41:44,914 - INFO - Image Paths: ['https://preview.redd.it/wj4spuy5bvne1.png?width=1167&format=png&auto=webp&s=db8ae54cd40a2de2532cf349f61a47ee7582d653', 'https://preview.redd.it/ynh4xty5bvne1.png?width=1112&format=png&auto=webp&s=c6a733404e774d33d45e7ef1820b821792c17adf', 'https://preview.redd.it/8sq5ij3mbvne1.png?width=1096&format=png&auto=webp&s=79c11bde2d7e2833e6e5e073709d6db287b53bba']
+2025-03-10 14:41:44,914 - INFO - Video Path: 
+2025-03-10 14:41:45,087 - INFO - Downloaded media from https://preview.redd.it/wj4spuy5bvne1.png?width=1167&format=png&auto=webp&s=db8ae54cd40a2de2532cf349f61a47ee7582d653 to temp_image.jpg
+2025-03-10 14:41:45,932 - INFO - Downloaded media from https://preview.redd.it/ynh4xty5bvne1.png?width=1112&format=png&auto=webp&s=c6a733404e774d33d45e7ef1820b821792c17adf to temp_image.jpg
+2025-03-10 14:41:46,648 - INFO - Downloaded media from https://preview.redd.it/8sq5ij3mbvne1.png?width=1096&format=png&auto=webp&s=79c11bde2d7e2833e6e5e073709d6db287b53bba to temp_image.jpg
+2025-03-10 14:41:48,062 - INFO - Posted content successfully. Tweet ID: 1899108427710050484
