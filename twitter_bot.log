@@ -405,3 +405,9 @@ This is particularly bad for heroes like Cass, who rely almost exclusively on he
 2025-03-10 12:29:49,674 - INFO - Image Paths: []
 2025-03-10 12:29:49,674 - INFO - Video Path: 
 2025-03-10 12:29:50,089 - INFO - Posted content successfully. Tweet ID: 1899075218817036704
+2025-03-10 13:04:17,577 - INFO - Content: Lifeline on Overwatch now
+
+2025-03-10 13:04:17,577 - INFO - Image Paths: ['https://preview.redd.it/l9jcvulgzune1.jpeg?auto=webp&s=7f6ea9a2ace5156833df49225ad4c62190226c82']
+2025-03-10 13:04:17,577 - INFO - Video Path: 
+2025-03-10 13:04:17,702 - INFO - Downloaded media from https://preview.redd.it/l9jcvulgzune1.jpeg?auto=webp&s=7f6ea9a2ace5156833df49225ad4c62190226c82 to temp_image.jpg
+2025-03-10 13:04:18,649 - INFO - Posted content successfully. Tweet ID: 1899083894697398624
