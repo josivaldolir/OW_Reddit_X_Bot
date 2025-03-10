@@ -286,3 +286,17 @@ Anyone else want the post match chat back?
 2025-03-10 02:46:34,361 - INFO - Image Paths: []
 2025-03-10 02:46:34,361 - INFO - Video Path: 
 2025-03-10 02:46:34,801 - INFO - Posted content successfully. Tweet ID: 1898928438020301092
+2025-03-10 03:14:16,782 - INFO - Content: Eichenwald street safety
+I really hope the Payload is only moving at Schrittgeschwindigkeit. It is moving trough a Verkehrsberuhigter Bereich. If it is going faster, the Ordnungsamt will give a hefty Bußgeld. There could be children playing on the street. 
+
+
+
+Translation:
+Schrittgeschwindigkeit= Walking speed
+Verkehrsberuhigter Bereich= Traffic-Calmed area
+Ordnungsamt= public order office
+Bußgeld= Fine
+2025-03-10 03:14:16,782 - INFO - Image Paths: ['https://preview.redd.it/z4l8icofmpne1.png?auto=webp&s=0e3aab4a3aeb0c738745f5cb9a757ee5f2d7d929']
+2025-03-10 03:14:16,782 - INFO - Video Path: 
+2025-03-10 03:14:17,029 - INFO - Downloaded media from https://preview.redd.it/z4l8icofmpne1.png?auto=webp&s=0e3aab4a3aeb0c738745f5cb9a757ee5f2d7d929 to temp_image.jpg
+2025-03-10 03:14:18,283 - INFO - Posted content successfully. Tweet ID: 1898935414028689683
