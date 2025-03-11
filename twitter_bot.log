@@ -640,3 +640,10 @@ The streetwear/hypebeast theme looks so cool too, it's a shame it's only been us
 2025-03-11 07:35:41,516 - INFO - Image Paths: []
 2025-03-11 07:35:41,516 - INFO - Video Path: 
 2025-03-11 07:35:41,849 - INFO - Posted content successfully. Tweet ID: 1899363584666190186
+2025-03-11 08:18:52,954 - INFO - Content: Somehow, I made 2 Team kills
+
+2025-03-11 08:18:52,954 - INFO - Image Paths: ['https://preview.redd.it/lqe61pttq0oe1.jpeg?auto=webp&s=aab1868d6841e6fa967106564b3db012124591c2']
+2025-03-11 08:18:52,954 - INFO - Video Path: 
+2025-03-11 08:18:53,091 - INFO - Downloaded media from https://preview.redd.it/lqe61pttq0oe1.jpeg?auto=webp&s=aab1868d6841e6fa967106564b3db012124591c2 to temp_image.jpg
+2025-03-11 08:18:53,780 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
