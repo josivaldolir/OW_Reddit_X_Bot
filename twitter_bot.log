@@ -601,3 +601,11 @@ A lot of effort went into this dumpster fire 🔥🔥🔥
 2025-03-11 05:14:27,916 - INFO - Video Path: 
 2025-03-11 05:14:28,219 - INFO - Downloaded media from https://preview.redd.it/t3d5qlklszne1.png?auto=webp&s=0f5a35c85c8fcec42a6ea6bef9454aac526de4cc to temp_image.jpg
 2025-03-11 05:14:29,699 - INFO - Posted content successfully. Tweet ID: 1899328047482065256
+2025-03-11 05:38:31,308 - INFO - Content: Flying Sym turret blocks Cass ult with, gets POTG
+
+2025-03-11 05:38:31,309 - INFO - Image Paths: ['https://external-preview.redd.it/cXFyNm5oeGQ3eW5lMaXxnqALDMvStKfDHjXcBZfg1r6RbHNau91QhooK7vGI.png?format=pjpg&auto=webp&s=753eb10c829e5c519a71ce379f2fcdc425939ced']
+2025-03-11 05:38:31,309 - INFO - Video Path: https://v.redd.it/jrx83gxd7yne1/DASH_1080.mp4?source=fallback
+2025-03-11 05:38:31,905 - INFO - Downloaded media from https://v.redd.it/jrx83gxd7yne1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-11 05:38:32,386 - INFO - Downloaded media from https://v.redd.it/jrx83gxd7yne1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-11 05:38:32,678 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-11 05:38:38,998 - INFO - Posted content successfully. Tweet ID: 1899334128547287288
