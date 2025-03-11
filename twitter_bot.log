@@ -858,3 +858,10 @@ My friend has been telling me to trust him with my placement of the d.va bomb an
 2025-03-11 22:38:52,631 - INFO - Downloaded media from https://v.redd.it/tq113h7dm4oe1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-03-11 22:38:53,315 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-11 22:39:00,158 - INFO - Posted content successfully. Tweet ID: 1899590908296798458
+2025-03-11 23:13:32,456 - INFO - Content: Didn't even know this kill icon existed
+
+2025-03-11 23:13:32,456 - INFO - Image Paths: ['https://preview.redd.it/stjpeda294oe1.png?width=1920&format=png&auto=webp&s=7fb0ef0a60f044aa1075918ba8f576c93f040549', 'https://preview.redd.it/6q9bspx294oe1.png?width=417&format=png&auto=webp&s=756eba245d4b27b535a4163dbce24c9d10357ab8']
+2025-03-11 23:13:32,456 - INFO - Video Path: 
+2025-03-11 23:13:32,508 - INFO - Downloaded media from https://preview.redd.it/stjpeda294oe1.png?width=1920&format=png&auto=webp&s=7fb0ef0a60f044aa1075918ba8f576c93f040549 to temp_image.jpg
+2025-03-11 23:13:33,276 - INFO - Downloaded media from https://preview.redd.it/6q9bspx294oe1.png?width=417&format=png&auto=webp&s=756eba245d4b27b535a4163dbce24c9d10357ab8 to temp_image.jpg
+2025-03-11 23:13:34,939 - INFO - Posted content successfully. Tweet ID: 1899599608206041517
