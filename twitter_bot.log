@@ -731,3 +731,9 @@ the server was embarrassed for me
 2025-03-11 14:15:00,274 - INFO - Downloaded media from https://v.redd.it/n1av4pkzm0oe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-11 14:15:00,724 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-11 14:15:09,426 - INFO - Posted content successfully. Tweet ID: 1899464111810834518
+2025-03-11 14:41:46,216 - INFO - Content: I need this echo skin
+I absolutely need this echo skin more than anything
+2025-03-11 14:41:46,216 - INFO - Image Paths: ['https://preview.redd.it/pi8hzq78j2oe1.png?auto=webp&s=fc89a3312c010d1f7407c3498a333051185bf601']
+2025-03-11 14:41:46,216 - INFO - Video Path: 
+2025-03-11 14:41:46,533 - INFO - Downloaded media from https://preview.redd.it/pi8hzq78j2oe1.png?auto=webp&s=fc89a3312c010d1f7407c3498a333051185bf601 to temp_image.jpg
+2025-03-11 14:41:50,269 - INFO - Posted content successfully. Tweet ID: 1899470816020168857
