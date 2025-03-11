@@ -689,3 +689,9 @@ Crazy thing is, all 4 of us had ult and we all used them 😭
 2025-03-11 11:12:22,040 - INFO - Downloaded media from https://v.redd.it/fowdsue6y0oe1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-03-11 11:12:22,807 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-11 11:12:33,304 - INFO - Posted content successfully. Tweet ID: 1899418158424904037
+2025-03-11 11:35:50,193 - INFO - Content: Psychology hack
+
+2025-03-11 11:35:50,193 - INFO - Image Paths: ['https://preview.redd.it/klzj76hrn1oe1.jpeg?auto=webp&s=137eb931175943367e8b0e5d9f53fab47681c839']
+2025-03-11 11:35:50,193 - INFO - Video Path: 
+2025-03-11 11:35:50,412 - INFO - Downloaded media from https://preview.redd.it/klzj76hrn1oe1.jpeg?auto=webp&s=137eb931175943367e8b0e5d9f53fab47681c839 to temp_image.jpg
+2025-03-11 11:35:51,171 - INFO - Posted content successfully. Tweet ID: 1899424021512392956
