@@ -675,3 +675,9 @@ Too Many Requests
 2025-03-11 10:16:00,066 - INFO - Downloaded media from https://preview.redd.it/lqe61pttq0oe1.jpeg?auto=webp&s=aab1868d6841e6fa967106564b3db012124591c2 to temp_image.jpg
 2025-03-11 10:16:00,829 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-11 10:43:05,728 - INFO - Content: Somehow, I made 2 Team kills
+
+2025-03-11 10:43:05,728 - INFO - Image Paths: ['https://preview.redd.it/lqe61pttq0oe1.jpeg?auto=webp&s=aab1868d6841e6fa967106564b3db012124591c2']
+2025-03-11 10:43:05,728 - INFO - Video Path: 
+2025-03-11 10:43:06,006 - INFO - Downloaded media from https://preview.redd.it/lqe61pttq0oe1.jpeg?auto=webp&s=aab1868d6841e6fa967106564b3db012124591c2 to temp_image.jpg
+2025-03-11 10:43:06,903 - INFO - Posted content successfully. Tweet ID: 1899410749593878727
