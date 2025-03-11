@@ -615,3 +615,11 @@ A lot of effort went into this dumpster fire 🔥🔥🔥
 2025-03-11 06:20:19,415 - INFO - Video Path: 
 2025-03-11 06:20:19,565 - INFO - Downloaded media from https://preview.redd.it/hzhovrzfyzne1.jpeg?auto=webp&s=790e5e60f018eefea84c274a08321fe63d238ba0 to temp_image.jpg
 2025-03-11 06:20:20,749 - INFO - Posted content successfully. Tweet ID: 1899344621379141721
+2025-03-11 06:45:10,807 - INFO - Content: Venture's Seismic Sense is just an anti-Sombra perk and I love it
+
+2025-03-11 06:45:10,807 - INFO - Image Paths: ['https://external-preview.redd.it/YXpzbDRwZmJnem5lMW_HZ10vNDhjd7-Jgm2w_M-e5DmbNPZIa2XQfJyHH-VF.png?format=pjpg&auto=webp&s=1266b437b03bd379bdbcf124601f3d7b8d280db0']
+2025-03-11 06:45:10,807 - INFO - Video Path: https://v.redd.it/uw9wonfbgzne1/DASH_1080.mp4?source=fallback
+2025-03-11 06:45:11,073 - INFO - Downloaded media from https://v.redd.it/uw9wonfbgzne1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-11 06:45:11,299 - INFO - Downloaded media from https://v.redd.it/uw9wonfbgzne1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-11 06:45:11,681 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-11 06:45:33,928 - INFO - Posted content successfully. Tweet ID: 1899350968388489519
