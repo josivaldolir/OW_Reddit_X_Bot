@@ -865,3 +865,11 @@ My friend has been telling me to trust him with my placement of the d.va bomb an
 2025-03-11 23:13:32,508 - INFO - Downloaded media from https://preview.redd.it/stjpeda294oe1.png?width=1920&format=png&auto=webp&s=7fb0ef0a60f044aa1075918ba8f576c93f040549 to temp_image.jpg
 2025-03-11 23:13:33,276 - INFO - Downloaded media from https://preview.redd.it/6q9bspx294oe1.png?width=417&format=png&auto=webp&s=756eba245d4b27b535a4163dbce24c9d10357ab8 to temp_image.jpg
 2025-03-11 23:13:34,939 - INFO - Posted content successfully. Tweet ID: 1899599608206041517
+2025-03-11 23:35:55,452 - INFO - Content: this was the Rein's 4th attempt of trying to pin me off the map, i think he finally snapped
+
+2025-03-11 23:35:55,452 - INFO - Image Paths: ['https://external-preview.redd.it/NWJpNXJpbGUyNW9lMTKa0sXELVYeZJumJTg26XADr6pNLQwNyg4oRMsKt0FI.png?format=pjpg&auto=webp&s=a565a8a51a1ac84bd4d6ddc893fa01de2b7f58f0']
+2025-03-11 23:35:55,452 - INFO - Video Path: https://v.redd.it/poqiunle25oe1/DASH_720.mp4?source=fallback
+2025-03-11 23:35:55,652 - INFO - Downloaded media from https://v.redd.it/poqiunle25oe1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-03-11 23:35:55,710 - INFO - Downloaded media from https://v.redd.it/poqiunle25oe1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-03-11 23:35:56,542 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-11 23:36:05,387 - INFO - Posted content successfully. Tweet ID: 1899605275092635694
