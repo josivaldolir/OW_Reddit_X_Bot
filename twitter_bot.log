@@ -752,3 +752,11 @@ I absolutely need this echo skin more than anything
 2025-03-11 15:40:10,574 - INFO - Downloaded media from https://v.redd.it/k8zes7as32oe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-11 15:40:13,295 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-11 15:40:26,794 - INFO - Posted content successfully. Tweet ID: 1899485575473700908
+2025-03-11 16:18:38,172 - INFO - Content: Feel kinda bad for locking in with Symm and bullying this Mercy but also had a good laugh because I got away with it. 😅
+
+2025-03-11 16:18:38,172 - INFO - Image Paths: ['https://external-preview.redd.it/ZG9oejVzY3J3Mm9lMcX3Gid6TA2qrLWkabkFPdC2b2xcXJJZLr2h8mNZuVt0.png?format=pjpg&auto=webp&s=d8c2384d59dc1ad46de78328369745f6a00f8d9c']
+2025-03-11 16:18:38,172 - INFO - Video Path: https://v.redd.it/rwcubxerw2oe1/DASH_1080.mp4?source=fallback
+2025-03-11 16:18:39,130 - INFO - Downloaded media from https://v.redd.it/rwcubxerw2oe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-11 16:18:39,179 - INFO - Downloaded media from https://v.redd.it/rwcubxerw2oe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-11 16:18:39,422 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-11 16:18:45,807 - INFO - Posted content successfully. Tweet ID: 1899495218178584655
