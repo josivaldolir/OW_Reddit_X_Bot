@@ -647,3 +647,10 @@ The streetwear/hypebeast theme looks so cool too, it's a shame it's only been us
 2025-03-11 08:18:53,091 - INFO - Downloaded media from https://preview.redd.it/lqe61pttq0oe1.jpeg?auto=webp&s=aab1868d6841e6fa967106564b3db012124591c2 to temp_image.jpg
 2025-03-11 08:18:53,780 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-11 08:42:54,318 - INFO - Content: I finally hit diamond!!
+Been stuck in Plat for a little over a year now, but with the help of a buddy of mine, I finally reached diamond!! I'm so happy right now, I can't stop staring at my new shiny rank :)
+2025-03-11 08:42:54,318 - INFO - Image Paths: ['https://preview.redd.it/jbq7lcelgzne1.jpeg?auto=webp&s=be066299ce4b519ac8729af388f7bb588ed63d72']
+2025-03-11 08:42:54,318 - INFO - Video Path: 
+2025-03-11 08:42:54,756 - INFO - Downloaded media from https://preview.redd.it/jbq7lcelgzne1.jpeg?auto=webp&s=be066299ce4b519ac8729af388f7bb588ed63d72 to temp_image.jpg
+2025-03-11 08:42:57,157 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
