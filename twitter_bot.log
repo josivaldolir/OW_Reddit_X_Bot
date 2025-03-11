@@ -802,3 +802,11 @@ Just a fire strike in a comp game earlier. Thought it was particularly juicy ðŸ˜
 2025-03-11 18:46:32,764 - INFO - Video Path: 
 2025-03-11 18:46:33,030 - INFO - Downloaded media from https://preview.redd.it/8k64z77sv3oe1.jpeg?auto=webp&s=69021cb30daaff68f6e81e9bdef4ec3634ab7a81 to temp_image.jpg
 2025-03-11 18:46:33,978 - INFO - Posted content successfully. Tweet ID: 1899532414172745980
+2025-03-11 19:12:10,544 - INFO - Content: Blizzard won't make LeSserafim Mei ?! Fine i'll do it myself !
+
+2025-03-11 19:12:10,544 - INFO - Image Paths: ['https://external-preview.redd.it/ZnY2dnIzcDdzM29lMYl6jx9nRl_PCXVROyz87PAxDSoM9H_42utx_2uOlZxO.png?format=pjpg&auto=webp&s=d8510caadd2e6cb8ed7aac118ecc4de05760cbbb']
+2025-03-11 19:12:10,544 - INFO - Video Path: https://v.redd.it/btztx5p7s3oe1/DASH_1080.mp4?source=fallback
+2025-03-11 19:12:10,968 - INFO - Downloaded media from https://v.redd.it/btztx5p7s3oe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-11 19:12:11,290 - INFO - Downloaded media from https://v.redd.it/btztx5p7s3oe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-11 19:12:11,606 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-11 19:12:18,472 - INFO - Posted content successfully. Tweet ID: 1899538892136624417
