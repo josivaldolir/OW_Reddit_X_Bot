@@ -810,3 +810,9 @@ Just a fire strike in a comp game earlier. Thought it was particularly juicy ðŸ˜
 2025-03-11 19:12:11,290 - INFO - Downloaded media from https://v.redd.it/btztx5p7s3oe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-11 19:12:11,606 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-11 19:12:18,472 - INFO - Posted content successfully. Tweet ID: 1899538892136624417
+2025-03-11 19:36:13,181 - INFO - Content: The game is fun but I need 6v6 desperately
+
+2025-03-11 19:36:13,181 - INFO - Image Paths: ['https://preview.redd.it/d3f6f31w04oe1.jpeg?auto=webp&s=267596b69c7a974825782936201bf9917245f823']
+2025-03-11 19:36:13,181 - INFO - Video Path: 
+2025-03-11 19:36:13,321 - INFO - Downloaded media from https://preview.redd.it/d3f6f31w04oe1.jpeg?auto=webp&s=267596b69c7a974825782936201bf9917245f823 to temp_image.jpg
+2025-03-11 19:36:14,679 - INFO - Posted content successfully. Tweet ID: 1899544915060875453
