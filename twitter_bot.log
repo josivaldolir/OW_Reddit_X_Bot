@@ -844,3 +844,9 @@ My friend has been telling me to trust him with my placement of the d.va bomb an
 2025-03-11 21:35:57,041 - INFO - Downloaded media from https://v.redd.it/cy6uax0ix3oe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-11 21:35:57,420 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-11 21:36:05,199 - INFO - Posted content successfully. Tweet ID: 1899575075311169900
+2025-03-11 22:13:19,020 - INFO - Content: First day in Overwatch be like:
+
+2025-03-11 22:13:19,020 - INFO - Image Paths: ['https://preview.redd.it/eq2891bd24oe1.jpeg?auto=webp&s=225ab72ffb2fe6a8761fe4aa4c886a6271288d88']
+2025-03-11 22:13:19,020 - INFO - Video Path: 
+2025-03-11 22:13:19,286 - INFO - Downloaded media from https://preview.redd.it/eq2891bd24oe1.jpeg?auto=webp&s=225ab72ffb2fe6a8761fe4aa4c886a6271288d88 to temp_image.jpg
+2025-03-11 22:13:21,353 - INFO - Posted content successfully. Tweet ID: 1899584453334224964
