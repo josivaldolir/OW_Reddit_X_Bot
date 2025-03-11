@@ -744,3 +744,11 @@ I absolutely need this echo skin more than anything
 2025-03-11 15:16:03,257 - INFO - Downloaded media from https://preview.redd.it/q9b2uf78r2oe1.png?width=1920&format=png&auto=webp&s=dad2f2b57db5d8ebfcfb761dbdcedc0234d00fc6 to temp_image.jpg
 2025-03-11 15:16:04,189 - INFO - Downloaded media from https://preview.redd.it/4qoj6o68r2oe1.png?width=1920&format=png&auto=webp&s=de5cdedeb72287e5c31122a7f97466f7cf7e3680 to temp_image.jpg
 2025-03-11 15:16:05,686 - INFO - Posted content successfully. Tweet ID: 1899479444810563709
+2025-03-11 15:40:08,674 - INFO - Content: TP-maxxing defense
+
+2025-03-11 15:40:08,674 - INFO - Image Paths: ['https://external-preview.redd.it/Z24wNG03YXMzMm9lMUsLxQRn_T_sIz4Nu4L48ulBH-UqI3K8s2VQQfAqM0PY.png?format=pjpg&auto=webp&s=4536b59c4548412062975b97b2dc2d6a6a538794']
+2025-03-11 15:40:08,674 - INFO - Video Path: https://v.redd.it/k8zes7as32oe1/DASH_1080.mp4?source=fallback
+2025-03-11 15:40:10,141 - INFO - Downloaded media from https://v.redd.it/k8zes7as32oe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-11 15:40:10,574 - INFO - Downloaded media from https://v.redd.it/k8zes7as32oe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-11 15:40:13,295 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-11 15:40:26,794 - INFO - Posted content successfully. Tweet ID: 1899485575473700908
