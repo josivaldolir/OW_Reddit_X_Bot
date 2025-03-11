@@ -723,3 +723,11 @@ Is there any IPs you adore dearly and mean lots to you that you'd love to see?  
 2025-03-11 13:41:40,967 - INFO - Image Paths: []
 2025-03-11 13:41:40,967 - INFO - Video Path: 
 2025-03-11 13:41:41,365 - INFO - Posted content successfully. Tweet ID: 1899455689480679690
+2025-03-11 14:14:58,858 - INFO - Content: play so bad the game closed
+the server was embarrassed for me
+2025-03-11 14:14:58,858 - INFO - Image Paths: ['https://external-preview.redd.it/NWV0N3BtOXptMG9lMW6wiF_--JvFsmFVgV8zE_VQdW9ttXgeqP6dCsVhsodP.png?format=pjpg&auto=webp&s=e4883e0cc867c317b8645809b553289ee0d596e2']
+2025-03-11 14:14:58,858 - INFO - Video Path: https://v.redd.it/n1av4pkzm0oe1/DASH_1080.mp4?source=fallback
+2025-03-11 14:14:59,754 - INFO - Downloaded media from https://v.redd.it/n1av4pkzm0oe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-11 14:15:00,274 - INFO - Downloaded media from https://v.redd.it/n1av4pkzm0oe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-11 14:15:00,724 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-11 14:15:09,426 - INFO - Posted content successfully. Tweet ID: 1899464111810834518
