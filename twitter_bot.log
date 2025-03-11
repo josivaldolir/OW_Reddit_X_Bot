@@ -760,3 +760,9 @@ I absolutely need this echo skin more than anything
 2025-03-11 16:18:39,179 - INFO - Downloaded media from https://v.redd.it/rwcubxerw2oe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-11 16:18:39,422 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-11 16:18:45,807 - INFO - Posted content successfully. Tweet ID: 1899495218178584655
+2025-03-11 16:45:57,286 - INFO - Content: BLIZZCON CONFIRMED (please new proper Pixar looking animated short🥺)
+
+2025-03-11 16:45:57,286 - INFO - Image Paths: ['https://external-preview.redd.it/DQpg4urSIvEKN3mme4kk9gcsFnvsBeMalEZ_XYjuCK0.jpg?auto=webp&s=20bbb3ebcf57bd58348b71468c4e6b7e310be27d']
+2025-03-11 16:45:57,286 - INFO - Video Path: 
+2025-03-11 16:45:57,369 - INFO - Downloaded media from https://external-preview.redd.it/DQpg4urSIvEKN3mme4kk9gcsFnvsBeMalEZ_XYjuCK0.jpg?auto=webp&s=20bbb3ebcf57bd58348b71468c4e6b7e310be27d to temp_image.jpg
+2025-03-11 16:45:58,632 - INFO - Posted content successfully. Tweet ID: 1899502066361684299
