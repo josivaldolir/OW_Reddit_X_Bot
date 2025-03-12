@@ -1026,3 +1026,9 @@ I swear like 9 times out of 10 whenever I queue for all roles, I get put in as a
 2025-03-12 13:43:42,186 - INFO - Video Path: 
 2025-03-12 13:43:42,260 - INFO - Downloaded media from https://preview.redd.it/jmpx080wm7oe1.jpeg?auto=webp&s=8280ce88cd04ab735c3a22c83e2f4a3e0f58dc68 to temp_image.jpg
 2025-03-12 13:43:43,177 - INFO - Posted content successfully. Tweet ID: 1899818587885543503
+2025-03-12 14:14:17,589 - INFO - Content: Highest match range ever?
+Yes it was open queue, I queued solo and it gave 1% progress. Makes no sense to me that this is even a thing
+2025-03-12 14:14:17,590 - INFO - Image Paths: ['https://preview.redd.it/vuoigfyzc7oe1.jpeg?auto=webp&s=7883423eae9fdac678419a1db202b041f9cc0e74']
+2025-03-12 14:14:17,590 - INFO - Video Path: 
+2025-03-12 14:14:17,627 - INFO - Downloaded media from https://preview.redd.it/vuoigfyzc7oe1.jpeg?auto=webp&s=7883423eae9fdac678419a1db202b041f9cc0e74 to temp_image.jpg
+2025-03-12 14:14:18,658 - INFO - Posted content successfully. Tweet ID: 1899826286610075769
