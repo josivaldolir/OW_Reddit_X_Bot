@@ -886,3 +886,10 @@ My friend has been telling me to trust him with my placement of the d.va bomb an
 2025-03-12 02:39:59,534 - INFO - Downloaded media from https://preview.redd.it/gv1eeao5x5oe1.jpeg?auto=webp&s=61bccc7362a459d3a39a13c52cec30cd0b1246e2 to temp_image.jpg
 2025-03-12 02:40:01,297 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-12 03:23:37,101 - INFO - Content: How ya'll tryna be 😛🤤
+
+2025-03-12 03:23:37,101 - INFO - Image Paths: ['https://preview.redd.it/gv1eeao5x5oe1.jpeg?auto=webp&s=61bccc7362a459d3a39a13c52cec30cd0b1246e2']
+2025-03-12 03:23:37,101 - INFO - Video Path: 
+2025-03-12 03:23:37,267 - INFO - Downloaded media from https://preview.redd.it/gv1eeao5x5oe1.jpeg?auto=webp&s=61bccc7362a459d3a39a13c52cec30cd0b1246e2 to temp_image.jpg
+2025-03-12 03:23:39,165 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
