@@ -975,3 +975,10 @@ HES MINE MINE MINE MINE MINE  MINE MINE MINE MINE. MIWN MINE MINE MINE MINE MINE
 2025-03-12 09:16:31,367 - INFO - Downloaded media from https://preview.redd.it/jk92bck1g6oe1.gif?format=png8&s=aa346e4cd387c766d6c7e7af62223f2ae4ec16ca to temp_image.jpg
 2025-03-12 09:16:32,036 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-12 09:38:37,535 - INFO - Content: Asked my friend, who stopped playing shortly after OW2 launched, to guess the Le Sserafim skins
+
+2025-03-12 09:38:37,535 - INFO - Image Paths: ['https://preview.redd.it/6038qhj5r6oe1.jpeg?auto=webp&s=d22b09b543bdda227b433788c93b5da6f2fe9f51']
+2025-03-12 09:38:37,535 - INFO - Video Path: 
+2025-03-12 09:38:37,563 - INFO - Downloaded media from https://preview.redd.it/6038qhj5r6oe1.jpeg?auto=webp&s=d22b09b543bdda227b433788c93b5da6f2fe9f51 to temp_image.jpg
+2025-03-12 09:38:38,316 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
