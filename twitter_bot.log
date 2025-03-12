@@ -1143,3 +1143,12 @@ I'm so glad we have them but truly no one cares what you got in your lootbox.
 2025-03-12 22:39:00,461 - INFO - Downloaded media from https://v.redd.it/pw90ixsqpboe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-12 22:39:01,031 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-12 22:39:13,638 - INFO - Posted content successfully. Tweet ID: 1899953353041367430
+2025-03-12 23:13:37,849 - INFO - Content: Tell me truthfully whether u can say this is balanced or not 😭
+Like I had no beef with the Zarya, js had to tbag bc this was way too funny. Even joked about it towards the end of the game
+2025-03-12 23:13:37,849 - INFO - Image Paths: ['https://external-preview.redd.it/dDV5dzZkbjcxY29lMS08gOuGVMY6YJY3cr7Ce1anHzjFLwKhO3Z0CY9vtNLi.png?format=pjpg&auto=webp&s=3e7c85f148f9351fb441510b8e254e54904eac84']
+2025-03-12 23:13:37,849 - INFO - Video Path: https://v.redd.it/e9b5a7z71coe1/DASH_720.mp4?source=fallback
+2025-03-12 23:13:38,619 - INFO - Downloaded media from https://v.redd.it/e9b5a7z71coe1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-03-12 23:13:38,908 - INFO - Downloaded media from https://v.redd.it/e9b5a7z71coe1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-03-12 23:13:40,122 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-12 23:13:49,336 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
