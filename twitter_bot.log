@@ -920,3 +920,10 @@ HES MINE MINE MINE MINE MINE  MINE MINE MINE MINE. MIWN MINE MINE MINE MINE MINE
 2025-03-12 05:14:35,405 - INFO - Downloaded media from https://preview.redd.it/jk92bck1g6oe1.gif?format=png8&s=aa346e4cd387c766d6c7e7af62223f2ae4ec16ca to temp_image.jpg
 2025-03-12 05:14:36,219 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-12 05:38:53,435 - INFO - Content: I've got him right where I want him
+
+2025-03-12 05:38:53,435 - INFO - Image Paths: ['https://preview.redd.it/mtr3vte4g6oe1.gif?format=png8&s=c57450bc8580908ca2339551f8b5cddc2795dfe1']
+2025-03-12 05:38:53,436 - INFO - Video Path: 
+2025-03-12 05:38:53,534 - INFO - Downloaded media from https://preview.redd.it/mtr3vte4g6oe1.gif?format=png8&s=c57450bc8580908ca2339551f8b5cddc2795dfe1 to temp_image.jpg
+2025-03-12 05:38:54,316 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
