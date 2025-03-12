@@ -1152,3 +1152,12 @@ Like I had no beef with the Zarya, js had to tbag bc this was way too funny. Eve
 2025-03-12 23:13:40,122 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-12 23:13:49,336 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-12 23:37:11,382 - INFO - Content: Tell me truthfully whether u can say this is balanced or not 😭
+Like I had no beef with the Zarya, js had to tbag bc this was way too funny. Even joked about it towards the end of the game
+2025-03-12 23:37:11,383 - INFO - Image Paths: ['https://external-preview.redd.it/dDV5dzZkbjcxY29lMS08gOuGVMY6YJY3cr7Ce1anHzjFLwKhO3Z0CY9vtNLi.png?format=pjpg&auto=webp&s=3e7c85f148f9351fb441510b8e254e54904eac84']
+2025-03-12 23:37:11,383 - INFO - Video Path: https://v.redd.it/e9b5a7z71coe1/DASH_720.mp4?source=fallback
+2025-03-12 23:37:11,563 - INFO - Downloaded media from https://v.redd.it/e9b5a7z71coe1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-03-12 23:37:11,586 - INFO - Downloaded media from https://v.redd.it/e9b5a7z71coe1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-03-12 23:37:13,041 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-12 23:37:22,131 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
