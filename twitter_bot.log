@@ -1002,3 +1002,9 @@ Too Many Requests
 2025-03-12 11:12:17,562 - INFO - Video Path: 
 2025-03-12 11:12:17,778 - INFO - Downloaded media from https://preview.redd.it/6038qhj5r6oe1.jpeg?auto=webp&s=d22b09b543bdda227b433788c93b5da6f2fe9f51 to temp_image.jpg
 2025-03-12 11:12:18,922 - INFO - Posted content successfully. Tweet ID: 1899780485653631139
+2025-03-12 11:35:55,608 - INFO - Content: Booping Dva/Lucio/WB off the ledge and waiting for the killfeed
+
+2025-03-12 11:35:55,608 - INFO - Image Paths: ['https://preview.redd.it/xwcd1gg4s7oe1.gif?format=png8&s=af1c5573fd183171966d45f6166b6baeec8a8d63']
+2025-03-12 11:35:55,608 - INFO - Video Path: 
+2025-03-12 11:35:55,864 - INFO - Downloaded media from https://preview.redd.it/xwcd1gg4s7oe1.gif?format=png8&s=af1c5573fd183171966d45f6166b6baeec8a8d63 to temp_image.jpg
+2025-03-12 11:35:56,823 - INFO - Posted content successfully. Tweet ID: 1899786432874455156
