@@ -1135,3 +1135,11 @@ I'm so glad we have them but truly no one cares what you got in your lootbox.
 2025-03-12 22:13:40,376 - INFO - Image Paths: []
 2025-03-12 22:13:40,376 - INFO - Video Path: 
 2025-03-12 22:13:40,716 - INFO - Posted content successfully. Tweet ID: 1899946923689156663
+2025-03-12 22:38:59,179 - INFO - Content: Cheeky flying Flankyatta spot on Nepal.
+
+2025-03-12 22:38:59,179 - INFO - Image Paths: ['https://external-preview.redd.it/NjVjdG43dTdxYm9lMdZrYPupBZJG6u3vhf5IlS_O3GO8ZC1StxzAbGW8S57C.png?format=pjpg&auto=webp&s=c39f32c764f102756c01cc6080d751cc9fde6949']
+2025-03-12 22:38:59,179 - INFO - Video Path: https://v.redd.it/pw90ixsqpboe1/DASH_1080.mp4?source=fallback
+2025-03-12 22:39:00,074 - INFO - Downloaded media from https://v.redd.it/pw90ixsqpboe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-12 22:39:00,461 - INFO - Downloaded media from https://v.redd.it/pw90ixsqpboe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-12 22:39:01,031 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-12 22:39:13,638 - INFO - Posted content successfully. Tweet ID: 1899953353041367430
