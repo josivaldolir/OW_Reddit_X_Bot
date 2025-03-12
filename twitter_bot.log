@@ -1122,3 +1122,11 @@ part of some... band??  and I can't do those fan skin concept things y'all talen
 2025-03-12 21:13:22,784 - INFO - Downloaded media from https://preview.redd.it/8prvb8ib7aoe1.png?width=1500&format=png&auto=webp&s=da9f3c7add120cc20f4ad7be9956233317c6dc30 to temp_image.jpg
 2025-03-12 21:13:23,781 - INFO - Downloaded media from https://preview.redd.it/zho1mgac7aoe1.png?width=720&format=png&auto=webp&s=87c25c88b8899c4e9c780a7593489cdf39737318 to temp_image.jpg
 2025-03-12 21:13:25,527 - INFO - Posted content successfully. Tweet ID: 1899931756700033357
+2025-03-12 21:36:52,962 - INFO - Content: Killing sleeping Tracers is a luck based task -.-
+
+2025-03-12 21:36:52,962 - INFO - Image Paths: ['https://external-preview.redd.it/NDBkbXI3aHVpYm9lMZPCfKRXQESeLoDHveg6huAgog85ul_68UzFg5d4MleX.png?format=pjpg&auto=webp&s=68271fa811c774fdf736dd26a07efe7289a8afd1']
+2025-03-12 21:36:52,962 - INFO - Video Path: https://v.redd.it/pklb57huiboe1/DASH_1080.mp4?source=fallback
+2025-03-12 21:36:53,437 - INFO - Downloaded media from https://v.redd.it/pklb57huiboe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-12 21:36:53,505 - INFO - Downloaded media from https://v.redd.it/pklb57huiboe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-12 21:36:54,516 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-12 21:37:02,264 - INFO - Posted content successfully. Tweet ID: 1899937702583173365
