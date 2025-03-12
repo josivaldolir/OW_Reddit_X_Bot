@@ -961,3 +961,10 @@ Too Many Requests
 2025-03-12 08:19:41,152 - INFO - Downloaded media from https://preview.redd.it/6038qhj5r6oe1.jpeg?auto=webp&s=d22b09b543bdda227b433788c93b5da6f2fe9f51 to temp_image.jpg
 2025-03-12 08:19:42,109 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-12 08:43:40,517 - INFO - Content: Asked my friend, who stopped playing shortly after OW2 launched, to guess the Le Sserafim skins
+
+2025-03-12 08:43:40,517 - INFO - Image Paths: ['https://preview.redd.it/6038qhj5r6oe1.jpeg?auto=webp&s=d22b09b543bdda227b433788c93b5da6f2fe9f51']
+2025-03-12 08:43:40,517 - INFO - Video Path: 
+2025-03-12 08:43:40,709 - INFO - Downloaded media from https://preview.redd.it/6038qhj5r6oe1.jpeg?auto=webp&s=d22b09b543bdda227b433788c93b5da6f2fe9f51 to temp_image.jpg
+2025-03-12 08:43:41,727 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
