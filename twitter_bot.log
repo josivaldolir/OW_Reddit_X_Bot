@@ -1370,3 +1370,11 @@ Your media IDs are invalid.
 2025-03-13 16:19:27,400 - INFO - Downloaded media from https://preview.redd.it/191vzdcnzboe1.png?width=1200&format=png&auto=webp&s=874eae4e44659b1803d780e50390146c9ff48f1d to temp_image.jpg
 2025-03-13 16:19:28,562 - ERROR - Failed to post content: 400 Bad Request
 Your media IDs are invalid.
+2025-03-13 16:47:06,070 - INFO - Content: I have a feeling that Aqua will be the male counterpart of Kiriko "skin-wise". I see the concept art and can feel the skin potential.
+
+2025-03-13 16:47:06,070 - INFO - Image Paths: ['https://preview.redd.it/2rvc09qmzboe1.jpg?width=8500&format=pjpg&auto=webp&s=04c33ab44151c31f6e17db30922adb5cb659ac01', 'https://preview.redd.it/191vzdcnzboe1.png?width=1200&format=png&auto=webp&s=874eae4e44659b1803d780e50390146c9ff48f1d']
+2025-03-13 16:47:06,070 - INFO - Video Path: 
+2025-03-13 16:47:06,269 - INFO - Downloaded media from https://preview.redd.it/2rvc09qmzboe1.jpg?width=8500&format=pjpg&auto=webp&s=04c33ab44151c31f6e17db30922adb5cb659ac01 to temp_image.jpg
+2025-03-13 16:47:09,112 - INFO - Downloaded media from https://preview.redd.it/191vzdcnzboe1.png?width=1200&format=png&auto=webp&s=874eae4e44659b1803d780e50390146c9ff48f1d to temp_image.jpg
+2025-03-13 16:47:10,313 - ERROR - Failed to post content: 400 Bad Request
+Your media IDs are invalid.
