@@ -1354,3 +1354,11 @@ Your media IDs are invalid.
 2025-03-13 15:16:42,915 - INFO - Downloaded media from https://v.redd.it/czqsmwl0dgoe1/DASH_480.mp4?source=fallback to temp_audio.mp4
 2025-03-13 15:16:43,305 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-13 15:16:48,469 - INFO - Posted content successfully. Tweet ID: 1900204402465480940
+2025-03-13 15:40:11,961 - INFO - Content: "Why does every tank play Zarya?"
+
+2025-03-13 15:40:11,961 - INFO - Image Paths: ['https://external-preview.redd.it/aXRydnpyZzBxZ29lMWkkNIJ2xa_5WRXmq00Pod6aowmzb_4avNILmdqmY4yX.png?format=pjpg&auto=webp&s=95c7c9fc880f12546eb4adeedee1f5d16e86971a']
+2025-03-13 15:40:11,961 - INFO - Video Path: https://v.redd.it/ntmqutg0qgoe1/DASH_720.mp4?source=fallback
+2025-03-13 15:40:12,251 - INFO - Downloaded media from https://v.redd.it/ntmqutg0qgoe1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-03-13 15:40:12,404 - INFO - Downloaded media from https://v.redd.it/ntmqutg0qgoe1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-03-13 15:40:12,860 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-13 15:40:17,555 - INFO - Posted content successfully. Tweet ID: 1900210312621478167
