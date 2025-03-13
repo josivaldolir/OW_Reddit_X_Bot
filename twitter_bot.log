@@ -1304,3 +1304,11 @@ Like I had no beef with the Zarya, js had to tbag bc this was way too funny. Eve
 2025-03-13 11:13:58,562 - INFO - Downloaded media from https://preview.redd.it/191vzdcnzboe1.png?width=1200&format=png&auto=webp&s=874eae4e44659b1803d780e50390146c9ff48f1d to temp_image.jpg
 2025-03-13 11:13:59,212 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-13 11:35:42,423 - INFO - Content: I have a feeling that Aqua will be the male counterpart of Kiriko "skin-wise". I see the concept art and can feel the skin potential.
+
+2025-03-13 11:35:42,423 - INFO - Image Paths: ['https://preview.redd.it/2rvc09qmzboe1.jpg?width=8500&format=pjpg&auto=webp&s=04c33ab44151c31f6e17db30922adb5cb659ac01', 'https://preview.redd.it/191vzdcnzboe1.png?width=1200&format=png&auto=webp&s=874eae4e44659b1803d780e50390146c9ff48f1d']
+2025-03-13 11:35:42,423 - INFO - Video Path: 
+2025-03-13 11:35:42,745 - INFO - Downloaded media from https://preview.redd.it/2rvc09qmzboe1.jpg?width=8500&format=pjpg&auto=webp&s=04c33ab44151c31f6e17db30922adb5cb659ac01 to temp_image.jpg
+2025-03-13 11:35:45,133 - INFO - Downloaded media from https://preview.redd.it/191vzdcnzboe1.png?width=1200&format=png&auto=webp&s=874eae4e44659b1803d780e50390146c9ff48f1d to temp_image.jpg
+2025-03-13 11:35:45,821 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
