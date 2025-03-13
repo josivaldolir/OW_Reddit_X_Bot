@@ -1468,3 +1468,11 @@ David would be perfect for Venture I think
 2025-03-13 23:13:40,576 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-13 23:13:47,024 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-13 23:35:50,575 - INFO - Content: "Your teammates aren't that bad." My teammates:
+
+2025-03-13 23:35:50,575 - INFO - Image Paths: ['https://external-preview.redd.it/cWgwa3BoZDllam9lMabZJqTzO4CeAxbMJPBqALqHGPL_2rXoCpgGY1RJ_uAT.png?format=pjpg&auto=webp&s=052a733d7075d14b99db920424140e0977bbbb6f']
+2025-03-13 23:35:50,575 - INFO - Video Path: https://v.redd.it/r9h4eag9ejoe1/DASH_360.mp4?source=fallback
+2025-03-13 23:35:50,680 - INFO - Downloaded media from https://v.redd.it/r9h4eag9ejoe1/DASH_360.mp4?source=fallback to temp_video.mp4
+2025-03-13 23:35:50,738 - INFO - Downloaded media from https://v.redd.it/r9h4eag9ejoe1/DASH_360.mp4?source=fallback to temp_audio.mp4
+2025-03-13 23:35:51,033 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-13 23:35:53,269 - INFO - Posted content successfully. Tweet ID: 1900330000060170590
