@@ -1378,3 +1378,15 @@ Your media IDs are invalid.
 2025-03-13 16:47:09,112 - INFO - Downloaded media from https://preview.redd.it/191vzdcnzboe1.png?width=1200&format=png&auto=webp&s=874eae4e44659b1803d780e50390146c9ff48f1d to temp_image.jpg
 2025-03-13 16:47:10,313 - ERROR - Failed to post content: 400 Bad Request
 Your media IDs are invalid.
+2025-03-13 17:11:57,315 - INFO - Content: band Widowmaker again except uh
+someone shaved half her head 🗣️ also ..more hairstyles (that probably suck but whatever)
+
+Apolagies for my last piece fr </3
+
+
+2025-03-13 17:11:57,315 - INFO - Image Paths: ['https://preview.redd.it/e4c2j4s9jhoe1.png?width=1500&format=png&auto=webp&s=70f3ce443d544982f948a3625bda09d813dcccb4', 'https://preview.redd.it/ptcale7ajhoe1.png?width=1800&format=png&auto=webp&s=edd4a863dd2dd0e8b14e14155b5b15de471f66cf', 'https://preview.redd.it/pr9nk5eajhoe1.png?width=720&format=png&auto=webp&s=644f4e044d6ed8bb976c5e63f84ddcc347428928']
+2025-03-13 17:11:57,315 - INFO - Video Path: 
+2025-03-13 17:11:57,429 - INFO - Downloaded media from https://preview.redd.it/e4c2j4s9jhoe1.png?width=1500&format=png&auto=webp&s=70f3ce443d544982f948a3625bda09d813dcccb4 to temp_image.jpg
+2025-03-13 17:11:58,242 - INFO - Downloaded media from https://preview.redd.it/ptcale7ajhoe1.png?width=1800&format=png&auto=webp&s=edd4a863dd2dd0e8b14e14155b5b15de471f66cf to temp_image.jpg
+2025-03-13 17:11:58,982 - INFO - Downloaded media from https://preview.redd.it/pr9nk5eajhoe1.png?width=720&format=png&auto=webp&s=644f4e044d6ed8bb976c5e63f84ddcc347428928 to temp_image.jpg
+2025-03-13 17:12:00,852 - INFO - Posted content successfully. Tweet ID: 1900233390999105852
