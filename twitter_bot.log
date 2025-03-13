@@ -1175,3 +1175,10 @@ Too Many Requests
 2025-03-13 02:41:58,512 - INFO - Downloaded media from https://external-preview.redd.it/0ZYbpBbi1lBKdwiGdjG3oDrLSjImEl7nT_NQulF6s2Y.png?auto=webp&s=0574472cd5b586928be4f71b002d851cbb66ee8c to temp_image.jpg
 2025-03-13 02:41:59,309 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-13 03:25:52,541 - INFO - Content: Overwatch Matchmaking Issues? I was kicked to queue in the middle of a game.
+
+2025-03-13 03:25:52,541 - INFO - Image Paths: ['https://external-preview.redd.it/0ZYbpBbi1lBKdwiGdjG3oDrLSjImEl7nT_NQulF6s2Y.png?auto=webp&s=0574472cd5b586928be4f71b002d851cbb66ee8c']
+2025-03-13 03:25:52,541 - INFO - Video Path: 
+2025-03-13 03:25:52,880 - INFO - Downloaded media from https://external-preview.redd.it/0ZYbpBbi1lBKdwiGdjG3oDrLSjImEl7nT_NQulF6s2Y.png?auto=webp&s=0574472cd5b586928be4f71b002d851cbb66ee8c to temp_image.jpg
+2025-03-13 03:25:53,912 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
