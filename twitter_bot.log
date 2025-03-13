@@ -1332,3 +1332,11 @@ Your media IDs are invalid.
 2025-03-13 13:41:37,268 - INFO - Video Path: 
 2025-03-13 13:41:37,416 - INFO - Downloaded media from https://preview.redd.it/6gdcbrn8ggoe1.jpeg?auto=webp&s=88a4119710239c314a97b3b2a4fe02ae1f622296 to temp_image.jpg
 2025-03-13 13:41:38,511 - INFO - Posted content successfully. Tweet ID: 1900180453069385960
+2025-03-13 14:14:04,084 - INFO - Content: 9 player saves within 30 seconds, wish things like this would get POTG
+
+2025-03-13 14:14:04,084 - INFO - Image Paths: ['https://external-preview.redd.it/aGN0ajFnZmE3Z29lMWuWYrKtNOSoNZQS4mOZgJO4f6DszuLbkF705kts8Zx4.png?format=pjpg&auto=webp&s=94075e608c27f63379f754c4d1b287ec7d0bdcc5']
+2025-03-13 14:14:04,084 - INFO - Video Path: https://v.redd.it/9m0yhefa7goe1/DASH_1080.mp4?source=fallback
+2025-03-13 14:14:04,893 - INFO - Downloaded media from https://v.redd.it/9m0yhefa7goe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-13 14:14:05,276 - INFO - Downloaded media from https://v.redd.it/9m0yhefa7goe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-13 14:14:05,656 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-13 14:14:16,496 - INFO - Posted content successfully. Tweet ID: 1900188665432719517
