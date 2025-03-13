@@ -1422,3 +1422,9 @@ I'm sold. Sign me up, coach.
 2025-03-13 19:36:11,773 - INFO - Downloaded media from https://v.redd.it/e2a5zhxf8ioe1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-03-13 19:36:12,274 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-13 19:36:16,635 - INFO - Posted content successfully. Tweet ID: 1900269699952185826
+2025-03-13 20:15:51,551 - INFO - Content: What do you think about the upcoming Hero?
+Im really excited to play Freja. The q times are gonna be so long
+2025-03-13 20:15:51,551 - INFO - Image Paths: ['https://preview.redd.it/zv6v004b2ioe1.jpeg?auto=webp&s=232032945fa97df57bb4d825b19d3be62e334696']
+2025-03-13 20:15:51,551 - INFO - Video Path: 
+2025-03-13 20:15:51,608 - INFO - Downloaded media from https://preview.redd.it/zv6v004b2ioe1.jpeg?auto=webp&s=232032945fa97df57bb4d825b19d3be62e334696 to temp_image.jpg
+2025-03-13 20:15:52,706 - INFO - Posted content successfully. Tweet ID: 1900279665517904008
