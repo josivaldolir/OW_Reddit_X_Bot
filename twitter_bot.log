@@ -1484,3 +1484,10 @@ Too Many Requests
 2025-03-14 01:06:33,104 - INFO - Downloaded media from https://v.redd.it/bbel6wm8uioe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-14 01:06:35,795 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-14 01:06:44,664 - INFO - Posted content successfully. Tweet ID: 1900352864876454040
+2025-03-14 02:39:34,987 - INFO - Content: bring back torb turret damage stat
+i miss looking at the turret damage stat. why remove it from me
+2025-03-14 02:39:34,987 - INFO - Image Paths: ['https://preview.redd.it/aq7vc91eakoe1.jpeg?auto=webp&s=3c372735299d7cf1cabfd9a30eb1731c9502dac8']
+2025-03-14 02:39:34,987 - INFO - Video Path: 
+2025-03-14 02:39:35,078 - INFO - Downloaded media from https://preview.redd.it/aq7vc91eakoe1.jpeg?auto=webp&s=3c372735299d7cf1cabfd9a30eb1731c9502dac8 to temp_image.jpg
+2025-03-14 02:39:35,850 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
