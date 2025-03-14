@@ -1648,3 +1648,11 @@ Hoping Symmetra also gets a cute Doki skin next season so here’s my take on it
 2025-03-14 14:13:25,638 - INFO - Video Path: 
 2025-03-14 14:13:25,935 - INFO - Downloaded media from https://preview.redd.it/ap77j0kwokoe1.jpeg?auto=webp&s=0a9950882887f6bb728204c0db3660eda768314c to temp_image.jpg
 2025-03-14 14:13:28,431 - INFO - Posted content successfully. Tweet ID: 1900550849782272336
+2025-03-14 14:39:25,356 - INFO - Content: Wood 5 - the rank I stuck in
+
+2025-03-14 14:39:25,356 - INFO - Image Paths: ['https://external-preview.redd.it/MHh5ZHJ2dTV5bm9lMY1wU88N3674PVN0UwY9PM23MTDbBSTmUNzWIbDx353H.png?format=pjpg&auto=webp&s=69340eeb750c6b3c23c9bb203d28076c12721ee0']
+2025-03-14 14:39:25,356 - INFO - Video Path: https://v.redd.it/842vjuu5ynoe1/DASH_1080.mp4?source=fallback
+2025-03-14 14:39:25,693 - INFO - Downloaded media from https://v.redd.it/842vjuu5ynoe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-14 14:39:25,726 - INFO - Downloaded media from https://v.redd.it/842vjuu5ynoe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-14 14:39:26,319 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-14 14:39:31,317 - INFO - Posted content successfully. Tweet ID: 1900557407069086086
