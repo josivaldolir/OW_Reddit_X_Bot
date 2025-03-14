@@ -1692,3 +1692,12 @@ Your media IDs are invalid.
 2025-03-14 17:36:35,991 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-14 17:37:09,127 - ERROR - Failed to post content: 400 Bad Request
 Your media IDs are invalid.
+2025-03-14 18:19:08,277 - INFO - Content: Overwatch 2 x LE SSERAFIM | Full Song: "So Cynical (Badum)" (New Release)
+
+2025-03-14 18:19:08,277 - INFO - Image Paths: ['https://external-preview.redd.it/NzI5bTYwNzZob29lMXCAZed3_8BKzb-algAgjFTPBGCIwVK7KkA2S36upn-A.png?format=pjpg&auto=webp&s=432e8c8f1a0741c3295fcd40ce236b3bd33e6a58']
+2025-03-14 18:19:08,277 - INFO - Video Path: https://v.redd.it/cosq7176hooe1/DASH_1080.mp4?source=fallback
+2025-03-14 18:19:10,194 - INFO - Downloaded media from https://v.redd.it/cosq7176hooe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-14 18:19:11,170 - INFO - Downloaded media from https://v.redd.it/cosq7176hooe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-14 18:19:11,599 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-14 18:19:47,153 - ERROR - Failed to post content: 400 Bad Request
+Your media IDs are invalid.
