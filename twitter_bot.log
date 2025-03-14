@@ -1505,3 +1505,10 @@ i miss looking at the turret damage stat. why remove it from me
 2025-03-14 03:48:05,565 - INFO - Downloaded media from https://preview.redd.it/aq7vc91eakoe1.jpeg?auto=webp&s=3c372735299d7cf1cabfd9a30eb1731c9502dac8 to temp_image.jpg
 2025-03-14 03:48:06,431 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-14 04:17:08,438 - INFO - Content: bring back torb turret damage stat
+i miss looking at the turret damage stat. why remove it from me
+2025-03-14 04:17:08,438 - INFO - Image Paths: ['https://preview.redd.it/aq7vc91eakoe1.jpeg?auto=webp&s=3c372735299d7cf1cabfd9a30eb1731c9502dac8']
+2025-03-14 04:17:08,438 - INFO - Video Path: 
+2025-03-14 04:17:08,613 - INFO - Downloaded media from https://preview.redd.it/aq7vc91eakoe1.jpeg?auto=webp&s=3c372735299d7cf1cabfd9a30eb1731c9502dac8 to temp_image.jpg
+2025-03-14 04:17:09,358 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
