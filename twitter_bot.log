@@ -1559,3 +1559,12 @@ Hoping Symmetra also gets a cute Doki skin next season so here’s my take on it
 2025-03-14 08:19:26,072 - INFO - Downloaded media from https://preview.redd.it/ap77j0kwokoe1.jpeg?auto=webp&s=0a9950882887f6bb728204c0db3660eda768314c to temp_image.jpg
 2025-03-14 08:19:27,609 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-14 08:42:11,239 - INFO - Content: i downloaded the wrong version
+
+2025-03-14 08:42:11,239 - INFO - Image Paths: ['https://external-preview.redd.it/bmpzcWtoMzkzbW9lMUGnlRa-NkIDD09JG7JHaveMstzwbLc9PJ4g0bdm6nXM.png?format=pjpg&auto=webp&s=1b568e452a485647fcd667905d290727d700c888']
+2025-03-14 08:42:11,239 - INFO - Video Path: https://v.redd.it/1yug93c93moe1/DASH_480.mp4?source=fallback
+2025-03-14 08:42:11,925 - INFO - Downloaded media from https://v.redd.it/1yug93c93moe1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-03-14 08:42:12,223 - INFO - Downloaded media from https://v.redd.it/1yug93c93moe1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-03-14 08:42:12,480 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-14 08:42:15,919 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
