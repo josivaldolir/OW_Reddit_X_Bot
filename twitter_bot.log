@@ -1772,3 +1772,11 @@ Service Unavailable
 2025-03-14 22:38:15,645 - INFO - Downloaded media from https://preview.redd.it/4mowegh4fpoe1.png?width=3000&format=png&auto=webp&s=fcc9abbfa75fe22614c8af92481accedcfc8b091 to temp_image.jpg
 2025-03-14 22:38:16,565 - INFO - Downloaded media from https://preview.redd.it/bwjyijh4fpoe1.png?width=3000&format=png&auto=webp&s=b0625efe477958beae499a8d07a711aabf84f3d2 to temp_image.jpg
 2025-03-14 22:38:20,577 - INFO - Posted content successfully. Tweet ID: 1900677894382514446
+2025-03-14 23:13:32,090 - INFO - Content: dont let anyone tell you this perk is useless
+
+2025-03-14 23:13:32,090 - INFO - Image Paths: ['https://external-preview.redd.it/cnpoMG50MXozcW9lMbcWqRcCAJb32-SjNJwv_1BVF-Ny3uzDxHPGjyBglmVJ.png?format=pjpg&auto=webp&s=39435a4b414c992bf1be64111a3e184daf9457a9']
+2025-03-14 23:13:32,090 - INFO - Video Path: https://v.redd.it/lrfs5s1z3qoe1/DASH_1080.mp4?source=fallback
+2025-03-14 23:13:32,210 - INFO - Downloaded media from https://v.redd.it/lrfs5s1z3qoe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-14 23:13:32,295 - INFO - Downloaded media from https://v.redd.it/lrfs5s1z3qoe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-14 23:13:32,851 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-14 23:13:46,551 - INFO - Posted content successfully. Tweet ID: 1900686822864224404
