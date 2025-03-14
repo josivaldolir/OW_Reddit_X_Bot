@@ -1722,3 +1722,12 @@ Your media IDs are invalid.
 2025-03-14 19:35:08,090 - INFO - Video Path: 
 2025-03-14 19:35:08,175 - INFO - Downloaded media from https://preview.redd.it/hrhj4vxohpoe1.jpeg?auto=webp&s=cd06592b71ac09788623a89f731061c245413e5a to temp_image.jpg
 2025-03-14 19:35:09,220 - INFO - Posted content successfully. Tweet ID: 1900631804832276629
+2025-03-14 20:15:24,257 - INFO - Content: Happy white day! (OC)
+
+2025-03-14 20:15:24,257 - INFO - Image Paths: ['https://preview.redd.it/vv6hgfh4fpoe1.png?width=3000&format=png&auto=webp&s=d882aa5a8af3a84cfc4de3d66f7bb5c0e9b7a92c', 'https://preview.redd.it/4mowegh4fpoe1.png?width=3000&format=png&auto=webp&s=fcc9abbfa75fe22614c8af92481accedcfc8b091', 'https://preview.redd.it/bwjyijh4fpoe1.png?width=3000&format=png&auto=webp&s=b0625efe477958beae499a8d07a711aabf84f3d2']
+2025-03-14 20:15:24,257 - INFO - Video Path: 
+2025-03-14 20:15:24,609 - INFO - Downloaded media from https://preview.redd.it/vv6hgfh4fpoe1.png?width=3000&format=png&auto=webp&s=d882aa5a8af3a84cfc4de3d66f7bb5c0e9b7a92c to temp_image.jpg
+2025-03-14 20:15:25,612 - INFO - Downloaded media from https://preview.redd.it/4mowegh4fpoe1.png?width=3000&format=png&auto=webp&s=fcc9abbfa75fe22614c8af92481accedcfc8b091 to temp_image.jpg
+2025-03-14 20:15:26,651 - INFO - Downloaded media from https://preview.redd.it/bwjyijh4fpoe1.png?width=3000&format=png&auto=webp&s=b0625efe477958beae499a8d07a711aabf84f3d2 to temp_image.jpg
+2025-03-14 20:15:30,603 - ERROR - Failed to post content: 503 Service Unavailable
+Service Unavailable
