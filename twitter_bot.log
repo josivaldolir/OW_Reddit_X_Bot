@@ -1804,3 +1804,10 @@ Recently someone posted about Freja being the same as widow, and it was said tha
 2025-03-15 02:37:30,103 - INFO - Downloaded media from https://preview.redd.it/cz5d7dmtmqoe1.png?width=1920&format=png&auto=webp&s=ccfa385228089e1fce73f8e2498731bd953fcb04 to temp_image.jpg
 2025-03-15 02:37:30,794 - INFO - Downloaded media from https://preview.redd.it/jakflcmtmqoe1.png?width=1920&format=png&auto=webp&s=1bd0dd82a2abe0d275bbde18d853ed99a0db2889 to temp_image.jpg
 2025-03-15 02:37:32,303 - INFO - Posted content successfully. Tweet ID: 1900738099216609482
+2025-03-15 03:22:59,651 - INFO - Content: Does Ana have same reason?
+
+2025-03-15 03:22:59,651 - INFO - Image Paths: ['https://preview.redd.it/3nfyfebfzqoe1.jpeg?auto=webp&s=da284625814f67ea5132e277cc5b12dadbb98918']
+2025-03-15 03:22:59,651 - INFO - Video Path: 
+2025-03-15 03:22:59,791 - INFO - Downloaded media from https://preview.redd.it/3nfyfebfzqoe1.jpeg?auto=webp&s=da284625814f67ea5132e277cc5b12dadbb98918 to temp_image.jpg
+2025-03-15 03:23:00,877 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
