@@ -2141,3 +2141,10 @@ I just had a match where the enemy team left and ping reach like 140-150 ms.
 2025-03-15 22:13:47,955 - INFO - Downloaded media from https://preview.redd.it/9xbwv91rxwoe1.jpeg?auto=webp&s=066c2a36e4e6b98af584b08589741b184748873b to temp_image.jpg
 2025-03-15 22:13:49,783 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-15 22:38:16,632 - INFO - Content: POV: You peak a corner as Tank for 0.1 seconds
+Did anyone see where my HP went?
+2025-03-15 22:38:16,633 - INFO - Image Paths: ['https://preview.redd.it/v1udvzsw8woe1.jpeg?auto=webp&s=4e20fae5ed120384c59a2bcbe630504a4ddbe2a6']
+2025-03-15 22:38:16,633 - INFO - Video Path: 
+2025-03-15 22:38:16,846 - INFO - Downloaded media from https://preview.redd.it/v1udvzsw8woe1.jpeg?auto=webp&s=4e20fae5ed120384c59a2bcbe630504a4ddbe2a6 to temp_image.jpg
+2025-03-15 22:38:17,954 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
