@@ -1817,3 +1817,15 @@ Too Many Requests
 2025-03-15 03:45:45,604 - INFO - Video Path: 
 2025-03-15 03:45:45,754 - INFO - Downloaded media from https://preview.redd.it/3nfyfebfzqoe1.jpeg?auto=webp&s=da284625814f67ea5132e277cc5b12dadbb98918 to temp_image.jpg
 2025-03-15 03:45:46,862 - INFO - Posted content successfully. Tweet ID: 1900755274895683612
+2025-03-15 04:16:21,435 - INFO - Content: my ow is lagging like CRAZY
+i dont even know what to do anymore everyone obviously absolutely hates me "L TANK WTF"  even if i say sorry im lagging 😭 ive seen that some other ppl are also experiencing this on ps4  so idk if it's the game or what🥲 rlly sucks. it doesnt always lag but when it does it just hits randomly and the lag is BAD (usually not this bad though, mostly it's just throwing me in places and then the game throws me out etc)  
+
+anyone have any tips? is this happening to anyone else?
+also shouldnt be my internet bc other games work normally🙃 rlly feel bad abt ruining other ppls ranks  but like i dont wanna stop playing comp just bc i lag like 20% of the time  but gawhh the chat rage is getting to me sometimes😭
+2025-03-15 04:16:21,435 - INFO - Image Paths: ['https://external-preview.redd.it/cWE3dmV5MW1ycW9lMV742qS9yCYkpHa8Sty41QisvE58Utbimydfofb_nQ-t.png?format=pjpg&auto=webp&s=1b20917294bdeaab917034ed38079448691f53d1']
+2025-03-15 04:16:21,435 - INFO - Video Path: https://v.redd.it/0uglzn7mrqoe1/DASH_480.mp4?source=fallback
+2025-03-15 04:16:21,713 - INFO - Downloaded media from https://v.redd.it/0uglzn7mrqoe1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-03-15 04:16:21,967 - INFO - Downloaded media from https://v.redd.it/0uglzn7mrqoe1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-03-15 04:16:22,277 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-15 04:16:26,170 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
