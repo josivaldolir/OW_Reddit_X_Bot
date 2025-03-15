@@ -1985,3 +1985,11 @@ I knew mercy got paid minimum wage. Smh
 2025-03-15 12:25:37,443 - INFO - Video Path: 
 2025-03-15 12:25:37,470 - INFO - Downloaded media from https://preview.redd.it/ubiuyjtpwtoe1.png?auto=webp&s=f115e2927a6f8f93e1b5f9040beadea4bdb3523d to temp_image.jpg
 2025-03-15 12:25:38,638 - INFO - Posted content successfully. Tweet ID: 1900886102166433853
+2025-03-15 12:55:01,846 - INFO - Content: Bastion ulting
+
+2025-03-15 12:55:01,846 - INFO - Image Paths: ['https://external-preview.redd.it/OWFsYTZ4eTRidG9lMX5Ke3ESIYzTv46aQxQckhre9NyfbbWFjQx2SSqLii-D.png?format=pjpg&auto=webp&s=bb661a6819796919fb613a2943d43269ee845d8f']
+2025-03-15 12:55:01,846 - INFO - Video Path: https://v.redd.it/0qhsnr25btoe1/DASH_720.mp4?source=fallback
+2025-03-15 12:55:02,005 - INFO - Downloaded media from https://v.redd.it/0qhsnr25btoe1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-03-15 12:55:02,048 - INFO - Downloaded media from https://v.redd.it/0qhsnr25btoe1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-03-15 12:55:02,748 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-15 12:55:10,186 - INFO - Posted content successfully. Tweet ID: 1900893533437129110
