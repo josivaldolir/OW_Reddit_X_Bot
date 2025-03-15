@@ -2105,3 +2105,10 @@ I reached an awesome milestone in my overwatch 2 career be sure to look me up on
 2025-03-15 19:35:20,885 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-15 19:35:29,480 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-15 20:14:26,324 - INFO - Content: Nice servers overwatch
+Is this the third time this has happened this week?
+2025-03-15 20:14:26,324 - INFO - Image Paths: ['https://preview.redd.it/wm0k48wgrwoe1.jpeg?auto=webp&s=3ba7c6a6ed59a29613e9edf4b3bd6207fa7900cb']
+2025-03-15 20:14:26,324 - INFO - Video Path: 
+2025-03-15 20:14:26,591 - INFO - Downloaded media from https://preview.redd.it/wm0k48wgrwoe1.jpeg?auto=webp&s=3ba7c6a6ed59a29613e9edf4b3bd6207fa7900cb to temp_image.jpg
+2025-03-15 20:14:27,998 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
