@@ -2031,3 +2031,11 @@ As someone who plays all of the 3 heroes I can totally understad each point of v
 2025-03-15 13:36:34,719 - INFO - Video Path: 
 2025-03-15 13:36:34,981 - INFO - Downloaded media from https://preview.redd.it/9ja6t82ntuoe1.jpeg?auto=webp&s=7fedbeb7db34ef187857e9bbfb8c20a42591a427 to temp_image.jpg
 2025-03-15 13:36:36,418 - INFO - Posted content successfully. Tweet ID: 1900903961198272562
+2025-03-15 14:13:42,254 - INFO - Content: Seconds away from losing and game starts a new match with same players 😅
+
+2025-03-15 14:13:42,254 - INFO - Image Paths: ['https://external-preview.redd.it/YmlocDAxY21mdG9lMZLKKTnKQMgAm_uhh5WgLCXlUAQ9ZUlxnyCcJzxIVTe3.png?format=pjpg&auto=webp&s=74bd559da3d6deec840456da73815139cf96c3fd']
+2025-03-15 14:13:42,254 - INFO - Video Path: https://v.redd.it/5rnt8jemftoe1/DASH_1080.mp4?source=fallback
+2025-03-15 14:13:42,882 - INFO - Downloaded media from https://v.redd.it/5rnt8jemftoe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-15 14:13:43,189 - INFO - Downloaded media from https://v.redd.it/5rnt8jemftoe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-15 14:13:43,513 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-15 14:13:50,880 - INFO - Posted content successfully. Tweet ID: 1900913333751975972
