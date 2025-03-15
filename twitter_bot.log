@@ -2096,3 +2096,12 @@ Too Many Requests
 2025-03-15 19:10:27,627 - INFO - Video Path: 
 2025-03-15 19:10:27,853 - INFO - Downloaded media from https://external-preview.redd.it/QP5j9IqSFkA_t90rFiEp3YB-OGgoIcRB2uZKlOX5Ie0.jpg?auto=webp&s=d5eb53e6108baf8e542eaacf9fddefa230b3dc8e to temp_image.jpg
 2025-03-15 19:10:28,904 - INFO - Posted content successfully. Tweet ID: 1900987983743820037
+2025-03-15 19:35:20,116 - INFO - Content: I reach Top 500!!! So cool!!!
+I reached an awesome milestone in my overwatch 2 career be sure to look me up on the leaderboard haha did anyone reach top 500 before what was your reaction? I was like finally!!
+2025-03-15 19:35:20,116 - INFO - Image Paths: ['https://external-preview.redd.it/bzkycmo0dnM3d29lMc2cMrU7k3jaGjubQEuEry-UfG0xwNUApMGKJyPXccZL.png?format=pjpg&auto=webp&s=2d61540d34633602e17dcd314a511525c565ef99']
+2025-03-15 19:35:20,116 - INFO - Video Path: https://v.redd.it/d1mxx6zs7woe1/DASH_1080.mp4?source=fallback
+2025-03-15 19:35:20,464 - INFO - Downloaded media from https://v.redd.it/d1mxx6zs7woe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-15 19:35:20,515 - INFO - Downloaded media from https://v.redd.it/d1mxx6zs7woe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-15 19:35:20,885 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-15 19:35:29,480 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
