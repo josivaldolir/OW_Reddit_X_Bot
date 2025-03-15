@@ -2062,3 +2062,11 @@ Idk the whole idea that I need to stick to the same person I picked at the begin
 2025-03-15 16:16:23,888 - INFO - Image Paths: []
 2025-03-15 16:16:23,888 - INFO - Video Path: 
 2025-03-15 16:16:24,422 - INFO - Posted content successfully. Tweet ID: 1900944176633819499
+2025-03-15 16:40:42,297 - INFO - Content: Nice match start
+
+2025-03-15 16:40:42,297 - INFO - Image Paths: ['https://external-preview.redd.it/aWttdzdlMG02dW9lMRPwcXIO6z4XJUWhgoPfqGojR4vHC1gjYQopH3vtxIcA.png?format=pjpg&auto=webp&s=c9c7d0d540b31842ca7d817cf5ae0fe52c92db38']
+2025-03-15 16:40:42,297 - INFO - Video Path: https://v.redd.it/fix1tq0m6uoe1/DASH_1080.mp4?source=fallback
+2025-03-15 16:40:42,554 - INFO - Downloaded media from https://v.redd.it/fix1tq0m6uoe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-15 16:40:42,605 - INFO - Downloaded media from https://v.redd.it/fix1tq0m6uoe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-15 16:40:42,885 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-15 16:40:52,713 - INFO - Posted content successfully. Tweet ID: 1900950335205621919
