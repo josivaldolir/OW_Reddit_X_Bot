@@ -2083,3 +2083,10 @@ Lol imagine there can be a season called battle of the bands and give Lucio a my
 2025-03-15 18:19:25,908 - INFO - Downloaded media from https://preview.redd.it/8qnje4gotvoe1.jpeg?auto=webp&s=665d6e487597d7e134f92455cc62529b6771e4fa to temp_image.jpg
 2025-03-15 18:19:27,012 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-15 18:41:30,804 - INFO - Content: RIP
+
+2025-03-15 18:41:30,804 - INFO - Image Paths: ['https://external-preview.redd.it/QP5j9IqSFkA_t90rFiEp3YB-OGgoIcRB2uZKlOX5Ie0.jpg?auto=webp&s=d5eb53e6108baf8e542eaacf9fddefa230b3dc8e']
+2025-03-15 18:41:30,804 - INFO - Video Path: 
+2025-03-15 18:41:30,997 - INFO - Downloaded media from https://external-preview.redd.it/QP5j9IqSFkA_t90rFiEp3YB-OGgoIcRB2uZKlOX5Ie0.jpg?auto=webp&s=d5eb53e6108baf8e542eaacf9fddefa230b3dc8e to temp_image.jpg
+2025-03-15 18:41:31,836 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
