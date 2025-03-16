@@ -2293,3 +2293,11 @@ I didn’t know this existed… I wish I could go back to then 😌🤧
 2025-03-16 11:35:33,260 - INFO - Downloaded media from https://preview.redd.it/dtn4c13id0pe1.jpg?width=1206&format=pjpg&auto=webp&s=5db55bc534714c8beabed8158873c647f1dcb66a to temp_image.jpg
 2025-03-16 11:35:34,272 - INFO - Downloaded media from https://preview.redd.it/c6srr13id0pe1.jpg?width=1206&format=pjpg&auto=webp&s=584454f1356efce06e783f36b015ec13266f848c to temp_image.jpg
 2025-03-16 11:35:36,026 - INFO - Posted content successfully. Tweet ID: 1901235896453628067
+2025-03-16 13:19:29,620 - INFO - Content: I might've accidentally jumpscared our Ashe with this sleep
+ (｡•́︿•̀｡) was a bit confused why they dropped down before I saw this replay
+2025-03-16 13:19:29,620 - INFO - Image Paths: ['https://external-preview.redd.it/Mmhqb2c1c2loMXBlMQbMlsahxL4bC7KZGkPVWy9C1L9_8XRcaTAaAoiy5QW6.png?format=pjpg&auto=webp&s=80098c029bc5688f4c5ff6c23499ea4237c2db09']
+2025-03-16 13:19:29,620 - INFO - Video Path: https://v.redd.it/p2klx6sih1pe1/DASH_1080.mp4?source=fallback
+2025-03-16 13:19:30,281 - INFO - Downloaded media from https://v.redd.it/p2klx6sih1pe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-16 13:19:30,324 - INFO - Downloaded media from https://v.redd.it/p2klx6sih1pe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-16 13:19:33,740 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-16 13:19:43,421 - INFO - Posted content successfully. Tweet ID: 1901262100376240183
