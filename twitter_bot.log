@@ -2176,3 +2176,11 @@ Did anyone see where my HP went?
 2025-03-16 02:45:24,658 - INFO - Video Path: 
 2025-03-16 02:45:25,088 - INFO - Downloaded media from https://preview.redd.it/nkuyfs24ayoe1.jpeg?auto=webp&s=4c2ee30942b03bb1dc2d3b9e6954702d56565ead to temp_image.jpg
 2025-03-16 02:45:26,396 - INFO - Posted content successfully. Tweet ID: 1901102477635912187
+2025-03-16 03:28:23,464 - INFO - Content: Torb wall turret is broken
+
+2025-03-16 03:28:23,464 - INFO - Image Paths: ['https://external-preview.redd.it/ajlmMWExMTdjeG9lMZoj7vepT55YyYAlT_4EPytVEDxWqHYKkrOdsu-tFSK4.png?format=pjpg&auto=webp&s=c949f719136a1e7ad7b068e171aee9eaac89bdab']
+2025-03-16 03:28:23,464 - INFO - Video Path: https://v.redd.it/j2em2117cxoe1/DASH_1080.mp4?source=fallback
+2025-03-16 03:28:24,749 - INFO - Downloaded media from https://v.redd.it/j2em2117cxoe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-16 03:28:24,824 - INFO - Downloaded media from https://v.redd.it/j2em2117cxoe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-16 03:28:25,026 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-16 03:28:34,445 - INFO - Posted content successfully. Tweet ID: 1901113333266477185
