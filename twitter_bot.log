@@ -2234,3 +2234,10 @@ Just wondering because this Kiriko skin may be my all-time favourite and I’ve 
 2025-03-16 06:42:27,131 - INFO - Downloaded media from https://v.redd.it/669uhqzn2zoe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-16 06:42:27,419 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-16 06:42:35,100 - INFO - Posted content successfully. Tweet ID: 1901162157640962181
+2025-03-16 07:13:19,806 - INFO - Content: I made a Juno meme last time, now here's a Mercy one as promised!
+
+2025-03-16 07:13:19,806 - INFO - Image Paths: ['https://preview.redd.it/1a8a007nbyoe1.png?width=1280&format=png&auto=webp&s=e7c46a63379e92029d08a08ea18f292809062a07', 'https://preview.redd.it/36sy7eu5eyoe1.jpg?width=736&format=pjpg&auto=webp&s=0298b8f2b9f1d8158c7842f4629c271975c7657b']
+2025-03-16 07:13:19,806 - INFO - Video Path: 
+2025-03-16 07:13:19,978 - INFO - Downloaded media from https://preview.redd.it/1a8a007nbyoe1.png?width=1280&format=png&auto=webp&s=e7c46a63379e92029d08a08ea18f292809062a07 to temp_image.jpg
+2025-03-16 07:13:20,794 - INFO - Downloaded media from https://preview.redd.it/36sy7eu5eyoe1.jpg?width=736&format=pjpg&auto=webp&s=0298b8f2b9f1d8158c7842f4629c271975c7657b to temp_image.jpg
+2025-03-16 07:13:22,140 - INFO - Posted content successfully. Tweet ID: 1901169902150709698
