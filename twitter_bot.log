@@ -2285,3 +2285,11 @@ at first i assumed i was lagging out without it dropping frames but the second c
 2025-03-16 11:12:43,969 - INFO - Downloaded media from https://v.redd.it/5mfipxj841pe1/DASH_480.mp4?source=fallback to temp_audio.mp4
 2025-03-16 11:12:44,419 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-16 11:12:50,228 - INFO - Posted content successfully. Tweet ID: 1901230168712290321
+2025-03-16 11:35:31,958 - INFO - Content: Pls Take it Back 😭 Not The Merica’ssidy 💀
+I didn’t know this existed… I wish I could go back to then 😌🤧
+2025-03-16 11:35:31,958 - INFO - Image Paths: ['https://preview.redd.it/p3c0r43id0pe1.jpg?width=1206&format=pjpg&auto=webp&s=2bf849ee4dab8a6f205db177d2855d725c515065', 'https://preview.redd.it/dtn4c13id0pe1.jpg?width=1206&format=pjpg&auto=webp&s=5db55bc534714c8beabed8158873c647f1dcb66a', 'https://preview.redd.it/c6srr13id0pe1.jpg?width=1206&format=pjpg&auto=webp&s=584454f1356efce06e783f36b015ec13266f848c']
+2025-03-16 11:35:31,958 - INFO - Video Path: 
+2025-03-16 11:35:32,270 - INFO - Downloaded media from https://preview.redd.it/p3c0r43id0pe1.jpg?width=1206&format=pjpg&auto=webp&s=2bf849ee4dab8a6f205db177d2855d725c515065 to temp_image.jpg
+2025-03-16 11:35:33,260 - INFO - Downloaded media from https://preview.redd.it/dtn4c13id0pe1.jpg?width=1206&format=pjpg&auto=webp&s=5db55bc534714c8beabed8158873c647f1dcb66a to temp_image.jpg
+2025-03-16 11:35:34,272 - INFO - Downloaded media from https://preview.redd.it/c6srr13id0pe1.jpg?width=1206&format=pjpg&auto=webp&s=584454f1356efce06e783f36b015ec13266f848c to temp_image.jpg
+2025-03-16 11:35:36,026 - INFO - Posted content successfully. Tweet ID: 1901235896453628067
