@@ -2412,3 +2412,9 @@ Too Many Requests
 2025-03-16 19:35:18,916 - INFO - Downloaded media from https://v.redd.it/zd8xg7vik3pe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-16 19:35:19,202 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-16 19:35:31,419 - INFO - Posted content successfully. Tweet ID: 1901356674012614724
+2025-03-16 20:15:56,479 - INFO - Content: Does this do anything?
+Does endorsment level do anything?
+2025-03-16 20:15:56,479 - INFO - Image Paths: ['https://preview.redd.it/asqcd64813pe1.jpeg?auto=webp&s=56f519d9adaf8d02b362afe646cad570899306ad']
+2025-03-16 20:15:56,479 - INFO - Video Path: 
+2025-03-16 20:15:56,635 - INFO - Downloaded media from https://preview.redd.it/asqcd64813pe1.jpeg?auto=webp&s=56f519d9adaf8d02b362afe646cad570899306ad to temp_image.jpg
+2025-03-16 20:15:58,663 - INFO - Posted content successfully. Tweet ID: 1901366853059875178
