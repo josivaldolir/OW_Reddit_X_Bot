@@ -2277,3 +2277,11 @@ Since all the ddos hacking and the servers being down I thought of sombra hehe W
 2025-03-16 10:38:36,861 - INFO - Downloaded media from https://v.redd.it/44byhezix0pe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-16 10:38:37,060 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-16 10:38:53,776 - INFO - Posted content successfully. Tweet ID: 1901221626974236833
+2025-03-16 11:12:43,601 - INFO - Content: why did this happen
+at first i assumed i was lagging out without it dropping frames but the second clip was part of play of the game and i realized others were seeing me fly up in the air too. does anyone know why i started flying like this, no perks i know of would make this happen? i even wondered if the zen had the knockback perk or something but he was using transcendence and not near me when i first started flying so i’m not sure 
+2025-03-16 11:12:43,601 - INFO - Image Paths: ['https://external-preview.redd.it/a3JmNXJsZzg0MXBlMdP8HyGpPJevbWsr2awWL0e2UjzjkhEgR2dPDnq_okqH.png?format=pjpg&auto=webp&s=56cc5ba11ef8ab91680903d1c0ae46896ec50157']
+2025-03-16 11:12:43,601 - INFO - Video Path: https://v.redd.it/5mfipxj841pe1/DASH_480.mp4?source=fallback
+2025-03-16 11:12:43,894 - INFO - Downloaded media from https://v.redd.it/5mfipxj841pe1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-03-16 11:12:43,969 - INFO - Downloaded media from https://v.redd.it/5mfipxj841pe1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-03-16 11:12:44,419 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-16 11:12:50,228 - INFO - Posted content successfully. Tweet ID: 1901230168712290321
