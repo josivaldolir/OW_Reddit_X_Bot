@@ -2255,3 +2255,11 @@ Just wondering because this Kiriko skin may be my all-time favourite and I’ve 
 2025-03-16 08:41:34,233 - INFO - Video Path: 
 2025-03-16 08:41:34,543 - INFO - Downloaded media from https://external-preview.redd.it/bI-u1b7Ci89hDMq9yS-h89c8I-cwk1IDa6Ogs1XOkNg.jpg?auto=webp&s=75af4e689938db4cbc094e8ee65138d0414692fa to temp_image.jpg
 2025-03-16 08:41:35,989 - INFO - Posted content successfully. Tweet ID: 1901192107802710340
+2025-03-16 09:13:43,651 - INFO - Content: Thanks for taxi, mate
+
+2025-03-16 09:13:43,652 - INFO - Image Paths: ['https://external-preview.redd.it/M3Rlbm53czdrd29lMWnIrvbDKrojAUv6NSZ81OGmcGW2ZPLqzCzSI7scNhob.png?format=pjpg&auto=webp&s=a98d2555c517347df53fd2f6308549d7a52ac705']
+2025-03-16 09:13:43,652 - INFO - Video Path: https://v.redd.it/68a5oxs7kwoe1/DASH_1080.mp4?source=fallback
+2025-03-16 09:13:44,706 - INFO - Downloaded media from https://v.redd.it/68a5oxs7kwoe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-16 09:13:44,820 - INFO - Downloaded media from https://v.redd.it/68a5oxs7kwoe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-16 09:13:45,185 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-16 09:13:52,410 - INFO - Posted content successfully. Tweet ID: 1901200230718255131
