@@ -2269,3 +2269,11 @@ Since all the ddos hacking and the servers being down I thought of sombra hehe W
 2025-03-16 09:34:56,143 - INFO - Video Path: 
 2025-03-16 09:34:56,310 - INFO - Downloaded media from https://preview.redd.it/0fqctjf4nzoe1.jpeg?auto=webp&s=ee1d866c948f7bb186a0c33f3ace39a89fbb3e42 to temp_image.jpg
 2025-03-16 09:34:58,937 - INFO - Posted content successfully. Tweet ID: 1901205541050814673
+2025-03-16 10:38:35,952 - INFO - Content: Certified Doom moment
+
+2025-03-16 10:38:35,952 - INFO - Image Paths: ['https://external-preview.redd.it/cDljaTZkeml4MHBlMY0TBAvsiYCuiv8xAp9PhX5iMFkOF5kAfS3mwpI3y4Mp.png?format=pjpg&auto=webp&s=b38e164411233f10f39c91f898aebcd1c3d1cc9c']
+2025-03-16 10:38:35,952 - INFO - Video Path: https://v.redd.it/44byhezix0pe1/DASH_1080.mp4?source=fallback
+2025-03-16 10:38:36,766 - INFO - Downloaded media from https://v.redd.it/44byhezix0pe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-16 10:38:36,861 - INFO - Downloaded media from https://v.redd.it/44byhezix0pe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-16 10:38:37,060 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-16 10:38:53,776 - INFO - Posted content successfully. Tweet ID: 1901221626974236833
