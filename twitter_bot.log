@@ -2440,3 +2440,9 @@ List might not be perfect but this was just my take on it.
 2025-03-16 21:12:27,340 - INFO - Downloaded media from https://preview.redd.it/zgo95aw703pe1.png?auto=webp&s=80e7aa0dac882e4aeed35fc14cfc26cc783b2641 to temp_image.jpg
 2025-03-16 21:12:28,137 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-16 21:35:10,900 - INFO - Content: Working on an Overwatch Cosmetics database site
+Not fully completed, just want to see what people think/if they would use this
+2025-03-16 21:35:10,901 - INFO - Image Paths: ['https://preview.redd.it/65madiz544pe1.jpeg?auto=webp&s=fa5b5d5547986de5449164c1bf0ff2a68d4543cd']
+2025-03-16 21:35:10,901 - INFO - Video Path: 
+2025-03-16 21:35:11,144 - INFO - Downloaded media from https://preview.redd.it/65madiz544pe1.jpeg?auto=webp&s=fa5b5d5547986de5449164c1bf0ff2a68d4543cd to temp_image.jpg
+2025-03-16 21:35:12,241 - INFO - Posted content successfully. Tweet ID: 1901386792093249698
