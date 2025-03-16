@@ -2184,3 +2184,10 @@ Did anyone see where my HP went?
 2025-03-16 03:28:24,824 - INFO - Downloaded media from https://v.redd.it/j2em2117cxoe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-16 03:28:25,026 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-16 03:28:34,445 - INFO - Posted content successfully. Tweet ID: 1901113333266477185
+2025-03-16 03:48:48,292 - INFO - Content: Cool to see the anti-cheat at work. A 0-3 draw because the game was canceled
+
+2025-03-16 03:48:48,292 - INFO - Image Paths: ['https://preview.redd.it/vq50nxymrxoe1.png?width=1920&format=png&auto=webp&s=78d1c789546a7e9abb12d85bf6f9959128fa8e99', 'https://preview.redd.it/ebkl06bnrxoe1.png?width=1920&format=png&auto=webp&s=c5ac4dc4fdf5c6807c20b1d7bb6a035c950bf88e']
+2025-03-16 03:48:48,292 - INFO - Video Path: 
+2025-03-16 03:48:48,324 - INFO - Downloaded media from https://preview.redd.it/vq50nxymrxoe1.png?width=1920&format=png&auto=webp&s=78d1c789546a7e9abb12d85bf6f9959128fa8e99 to temp_image.jpg
+2025-03-16 03:48:49,248 - INFO - Downloaded media from https://preview.redd.it/ebkl06bnrxoe1.png?width=1920&format=png&auto=webp&s=c5ac4dc4fdf5c6807c20b1d7bb6a035c950bf88e to temp_image.jpg
+2025-03-16 03:48:50,984 - INFO - Posted content successfully. Tweet ID: 1901118433154007072
