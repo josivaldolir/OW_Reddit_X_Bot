@@ -2170,3 +2170,9 @@ Did anyone see where my HP went?
 2025-03-16 01:12:08,703 - INFO - Downloaded media from https://v.redd.it/qi4n9k4wjxoe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-16 01:12:08,949 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-16 01:12:17,114 - INFO - Posted content successfully. Tweet ID: 1901079035033289063
+2025-03-16 02:45:24,658 - INFO - Content: Route 66, where the monorail is king!
+
+2025-03-16 02:45:24,658 - INFO - Image Paths: ['https://preview.redd.it/nkuyfs24ayoe1.jpeg?auto=webp&s=4c2ee30942b03bb1dc2d3b9e6954702d56565ead']
+2025-03-16 02:45:24,658 - INFO - Video Path: 
+2025-03-16 02:45:25,088 - INFO - Downloaded media from https://preview.redd.it/nkuyfs24ayoe1.jpeg?auto=webp&s=4c2ee30942b03bb1dc2d3b9e6954702d56565ead to temp_image.jpg
+2025-03-16 02:45:26,396 - INFO - Posted content successfully. Tweet ID: 1901102477635912187
