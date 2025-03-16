@@ -2418,3 +2418,14 @@ Does endorsment level do anything?
 2025-03-16 20:15:56,479 - INFO - Video Path: 
 2025-03-16 20:15:56,635 - INFO - Downloaded media from https://preview.redd.it/asqcd64813pe1.jpeg?auto=webp&s=56f519d9adaf8d02b362afe646cad570899306ad to temp_image.jpg
 2025-03-16 20:15:58,663 - INFO - Posted content successfully. Tweet ID: 1901366853059875178
+2025-03-16 20:37:13,356 - INFO - Content: Tier list: How cold is each hero's ultimate voice line (Any POV)
+Based on a poll made earlier by u/ImperialViking_, this poll is meant to capture Ult voice lines from ANY POV, friendly or enemy.  
+  
+I also took into account some Mythic voice lines in this (e.g. Ana "You're powered up, DESTROY them". 
+
+List might not be perfect but this was just my take on it.
+2025-03-16 20:37:13,356 - INFO - Image Paths: ['https://preview.redd.it/zgo95aw703pe1.png?auto=webp&s=80e7aa0dac882e4aeed35fc14cfc26cc783b2641']
+2025-03-16 20:37:13,356 - INFO - Video Path: 
+2025-03-16 20:37:13,433 - INFO - Downloaded media from https://preview.redd.it/zgo95aw703pe1.png?auto=webp&s=80e7aa0dac882e4aeed35fc14cfc26cc783b2641 to temp_image.jpg
+2025-03-16 20:37:14,498 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
