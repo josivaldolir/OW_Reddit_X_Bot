@@ -2429,3 +2429,14 @@ List might not be perfect but this was just my take on it.
 2025-03-16 20:37:13,433 - INFO - Downloaded media from https://preview.redd.it/zgo95aw703pe1.png?auto=webp&s=80e7aa0dac882e4aeed35fc14cfc26cc783b2641 to temp_image.jpg
 2025-03-16 20:37:14,498 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-16 21:12:27,261 - INFO - Content: Tier list: How cold is each hero's ultimate voice line (Any POV)
+Based on a poll made earlier by u/ImperialViking_, this poll is meant to capture Ult voice lines from ANY POV, friendly or enemy.  
+  
+I also took into account some Mythic voice lines in this (e.g. Ana "You're powered up, DESTROY them". 
+
+List might not be perfect but this was just my take on it.
+2025-03-16 21:12:27,261 - INFO - Image Paths: ['https://preview.redd.it/zgo95aw703pe1.png?auto=webp&s=80e7aa0dac882e4aeed35fc14cfc26cc783b2641']
+2025-03-16 21:12:27,262 - INFO - Video Path: 
+2025-03-16 21:12:27,340 - INFO - Downloaded media from https://preview.redd.it/zgo95aw703pe1.png?auto=webp&s=80e7aa0dac882e4aeed35fc14cfc26cc783b2641 to temp_image.jpg
+2025-03-16 21:12:28,137 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
