@@ -2241,3 +2241,11 @@ Just wondering because this Kiriko skin may be my all-time favourite and I’ve 
 2025-03-16 07:13:19,978 - INFO - Downloaded media from https://preview.redd.it/1a8a007nbyoe1.png?width=1280&format=png&auto=webp&s=e7c46a63379e92029d08a08ea18f292809062a07 to temp_image.jpg
 2025-03-16 07:13:20,794 - INFO - Downloaded media from https://preview.redd.it/36sy7eu5eyoe1.jpg?width=736&format=pjpg&auto=webp&s=0298b8f2b9f1d8158c7842f4629c271975c7657b to temp_image.jpg
 2025-03-16 07:13:22,140 - INFO - Posted content successfully. Tweet ID: 1901169902150709698
+2025-03-16 08:17:10,772 - INFO - Content: Moments like this make you want to close the game and never open it again.
+
+2025-03-16 08:17:10,772 - INFO - Image Paths: ['https://external-preview.redd.it/ajc3OW8zMTJ5eG9lMWemEhxTxjxCxch5nlXOBloWD3HGQ4HvTEJ1CnXVRisr.png?format=pjpg&auto=webp&s=ea86eca959460be3659822d879f01575218df39d']
+2025-03-16 08:17:10,772 - INFO - Video Path: https://v.redd.it/ul3cy212yxoe1/DASH_1080.mp4?source=fallback
+2025-03-16 08:17:11,672 - INFO - Downloaded media from https://v.redd.it/ul3cy212yxoe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-16 08:17:11,724 - INFO - Downloaded media from https://v.redd.it/ul3cy212yxoe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-16 08:17:12,068 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-16 08:17:18,899 - INFO - Posted content successfully. Tweet ID: 1901185997272215606
