@@ -2644,3 +2644,11 @@ Your media IDs are invalid.
 2025-03-17 16:19:14,408 - INFO - Downloaded media from https://v.redd.it/xa4jjq1qm9pe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-17 16:19:14,602 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-17 16:19:22,461 - INFO - Posted content successfully. Tweet ID: 1901669698833440908
+2025-03-17 16:45:29,030 - INFO - Content: Overwatch 2 X LE SSERAFIM Livestream Event will be live in 12 hours! Catch the Livestream Event on March 17 at 8:30pm PST for an exclusive preview of the brand new skins!
+
+2025-03-17 16:45:29,030 - INFO - Image Paths: ['https://external-preview.redd.it/NTkyYzVyMThxOXBlMcigKVrlaK9Jr_Sx7LoI0RL3L4s_6THgJrUMB_EZFrKs.png?format=pjpg&auto=webp&s=1e43b0b9d703426f328a300a3cf24e8b83359da1']
+2025-03-17 16:45:29,030 - INFO - Video Path: https://v.redd.it/fqbf0r18q9pe1/DASH_1080.mp4?source=fallback
+2025-03-17 16:45:29,322 - INFO - Downloaded media from https://v.redd.it/fqbf0r18q9pe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-17 16:45:29,410 - INFO - Downloaded media from https://v.redd.it/fqbf0r18q9pe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-17 16:45:29,931 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-17 16:45:47,753 - INFO - Posted content successfully. Tweet ID: 1901676348369670536
