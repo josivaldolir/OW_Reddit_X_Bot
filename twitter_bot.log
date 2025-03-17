@@ -2625,3 +2625,14 @@ rip this loss though T\_T
 2025-03-17 15:15:34,142 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-17 15:16:36,229 - ERROR - Failed to post content: 400 Bad Request
 Your media IDs are invalid.
+2025-03-17 15:39:28,580 - INFO - Content: Latency during our attack: 200ms+ Latency during our def: 44ms... you just ran out of things to blame huh?
+You ever just get...Latency diffed? xD
+
+rip this loss though T\_T
+2025-03-17 15:39:28,580 - INFO - Image Paths: ['https://external-preview.redd.it/cnhuODZvZHZxOHBlMeKG5oLdTtqpzwjm11OJRpw0WaR2EVcIWRRkbBhrc2KH.png?format=pjpg&auto=webp&s=ab8f02bcc3cd1c1d8e1b303dc35e5d8655710490']
+2025-03-17 15:39:28,580 - INFO - Video Path: https://v.redd.it/pewolcdvq8pe1/DASH_1080.mp4?source=fallback
+2025-03-17 15:39:31,357 - INFO - Downloaded media from https://v.redd.it/pewolcdvq8pe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-17 15:39:32,408 - INFO - Downloaded media from https://v.redd.it/pewolcdvq8pe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-17 15:39:33,002 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-17 15:40:51,751 - ERROR - Failed to post content: 400 Bad Request
+Your media IDs are invalid.
