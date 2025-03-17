@@ -2711,3 +2711,11 @@ rip this loss though T\_T
 2025-03-17 20:16:01,325 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-17 20:17:11,207 - ERROR - Failed to post content: 400 Bad Request
 Your media IDs are invalid.
+2025-03-17 20:40:22,243 - INFO - Content: First in game look at Le Sserafim Bob (perfect night for reference)
+It looks like he asked bastion for fashion advice.
+2025-03-17 20:40:22,243 - INFO - Image Paths: ['https://preview.redd.it/qff308n41bpe1.png?width=940&format=png&auto=webp&s=ea620f95dd33f59c8983337eb319d4e8feda3d24', 'https://preview.redd.it/xvklqiq41bpe1.png?width=945&format=png&auto=webp&s=50bf95abe48d89384e4789682b4bf00a93f842ac']
+2025-03-17 20:40:22,243 - INFO - Video Path: 
+2025-03-17 20:40:22,384 - INFO - Downloaded media from https://preview.redd.it/qff308n41bpe1.png?width=940&format=png&auto=webp&s=ea620f95dd33f59c8983337eb319d4e8feda3d24 to temp_image.jpg
+2025-03-17 20:40:22,957 - INFO - Downloaded media from https://preview.redd.it/xvklqiq41bpe1.png?width=945&format=png&auto=webp&s=50bf95abe48d89384e4789682b4bf00a93f842ac to temp_image.jpg
+2025-03-17 20:40:23,586 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
