@@ -2669,3 +2669,9 @@ Your media IDs are invalid.
 2025-03-17 17:38:30,826 - INFO - Video Path: 
 2025-03-17 17:38:30,849 - INFO - Downloaded media from https://preview.redd.it/qe9f5r688ape1.jpeg?auto=webp&s=5ee37a94bde6af6be666d8a58ae396256fe7c164 to temp_image.jpg
 2025-03-17 17:38:32,166 - INFO - Posted content successfully. Tweet ID: 1901689620053811433
+2025-03-17 18:20:02,557 - INFO - Content: When you’re in a hallway and a tank starts charging toward you
+I say this from experience
+2025-03-17 18:20:02,557 - INFO - Image Paths: ['https://preview.redd.it/c6r4s76bcape1.jpeg?auto=webp&s=788081d4cc6ed11110540ad4bae0b7ad89b56670']
+2025-03-17 18:20:02,557 - INFO - Video Path: 
+2025-03-17 18:20:02,628 - INFO - Downloaded media from https://preview.redd.it/c6r4s76bcape1.jpeg?auto=webp&s=788081d4cc6ed11110540ad4bae0b7ad89b56670 to temp_image.jpg
+2025-03-17 18:20:04,185 - INFO - Posted content successfully. Tweet ID: 1901700072674398620
