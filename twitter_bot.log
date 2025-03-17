@@ -2552,3 +2552,11 @@ I told our tank he was good at half time. I guess that means it was my fault we 
 2025-03-17 08:20:43,059 - INFO - Video Path: 
 2025-03-17 08:20:43,333 - INFO - Downloaded media from https://preview.redd.it/v6plrqbl46pe1.jpeg?auto=webp&s=08bd25571321adb0d93188f4d2c0c15435c57040 to temp_image.jpg
 2025-03-17 08:20:45,021 - INFO - Posted content successfully. Tweet ID: 1901549248321347733
+2025-03-17 09:39:26,642 - INFO - Content: Glitched lootbox??
+
+2025-03-17 09:39:26,642 - INFO - Image Paths: ['https://external-preview.redd.it/ZDFwMTNsZzBpN3BlMSvTIJS8aB755-yp-DX7had3EQVZ6Zs1zQ2flsTI5G8r.png?format=pjpg&auto=webp&s=f78b199a2f3e72900584f98db0c45d329e3aa5ff']
+2025-03-17 09:39:26,642 - INFO - Video Path: https://v.redd.it/jrgzyfg0i7pe1/DASH_1080.mp4?source=fallback
+2025-03-17 09:39:27,167 - INFO - Downloaded media from https://v.redd.it/jrgzyfg0i7pe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-17 09:39:27,273 - INFO - Downloaded media from https://v.redd.it/jrgzyfg0i7pe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-17 09:39:27,664 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-17 09:39:33,325 - INFO - Posted content successfully. Tweet ID: 1901569081582743964
