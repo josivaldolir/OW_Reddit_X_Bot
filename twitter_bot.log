@@ -2735,3 +2735,11 @@ It looks like he asked bastion for fashion advice.
 2025-03-17 21:37:10,108 - INFO - Downloaded media from https://preview.redd.it/xvklqiq41bpe1.png?width=945&format=png&auto=webp&s=50bf95abe48d89384e4789682b4bf00a93f842ac to temp_image.jpg
 2025-03-17 21:37:10,713 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-17 22:15:27,183 - INFO - Content: Twitch drops (March 17-30)
+
+2025-03-17 22:15:27,184 - INFO - Image Paths: ['https://preview.redd.it/lg9xf5vwebpe1.jpg?width=1920&format=pjpg&auto=webp&s=9680723f948032b8628a640378232dc2dc6d2275', 'https://preview.redd.it/snoai7wwebpe1.jpg?width=778&format=pjpg&auto=webp&s=7dc6d45ae13fcdca0c43306bd4cd6123b375609d']
+2025-03-17 22:15:27,184 - INFO - Video Path: 
+2025-03-17 22:15:27,500 - INFO - Downloaded media from https://preview.redd.it/lg9xf5vwebpe1.jpg?width=1920&format=pjpg&auto=webp&s=9680723f948032b8628a640378232dc2dc6d2275 to temp_image.jpg
+2025-03-17 22:15:28,173 - INFO - Downloaded media from https://preview.redd.it/snoai7wwebpe1.jpg?width=778&format=pjpg&auto=webp&s=7dc6d45ae13fcdca0c43306bd4cd6123b375609d to temp_image.jpg
+2025-03-17 22:15:28,933 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
