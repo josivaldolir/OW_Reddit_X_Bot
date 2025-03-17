@@ -2503,3 +2503,10 @@ Torb, Bastion, Zarya - what a lovely meta lmao.
 2025-03-17 02:44:21,483 - INFO - Downloaded media from https://v.redd.it/ib9f8n93t4pe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-17 02:44:21,689 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-17 02:44:32,047 - INFO - Posted content successfully. Tweet ID: 1901464638115750148
+2025-03-17 03:28:03,103 - INFO - Content: Being annoying irl and in game 😎
+
+2025-03-17 03:28:03,103 - INFO - Image Paths: ['https://preview.redd.it/wzdh4hr174pe1.jpg?width=1170&format=pjpg&auto=webp&s=ad23079e426a532d5d28e3b8e5a5f6ae5aa63d10', 'https://preview.redd.it/x79gnar174pe1.jpg?width=1170&format=pjpg&auto=webp&s=41541c7bb4fb987fbe8b408cbfe3d0614bcebe77']
+2025-03-17 03:28:03,103 - INFO - Video Path: 
+2025-03-17 03:28:03,462 - INFO - Downloaded media from https://preview.redd.it/wzdh4hr174pe1.jpg?width=1170&format=pjpg&auto=webp&s=ad23079e426a532d5d28e3b8e5a5f6ae5aa63d10 to temp_image.jpg
+2025-03-17 03:28:04,535 - INFO - Downloaded media from https://preview.redd.it/x79gnar174pe1.jpg?width=1170&format=pjpg&auto=webp&s=41541c7bb4fb987fbe8b408cbfe3d0614bcebe77 to temp_image.jpg
+2025-03-17 03:28:05,774 - INFO - Posted content successfully. Tweet ID: 1901475599526572414
