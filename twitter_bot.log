@@ -2539,3 +2539,10 @@ Pick your poison... Either way, you're dead.
 2025-03-17 06:21:59,960 - INFO - Video Path: 
 2025-03-17 06:22:00,004 - INFO - Downloaded media from https://preview.redd.it/sm9nhb42d4pe1.jpeg?auto=webp&s=b8ba2bf5e70581c75d32278c81fc5424ac5e2f5a to temp_image.jpg
 2025-03-17 06:22:01,491 - INFO - Posted content successfully. Tweet ID: 1901519370016169986
+2025-03-17 06:45:41,852 - INFO - Content: Our tank spawned in on the previous point?
+We were so confused about where our tank was. When I died it showed me the tank’s pov and at first I thought they were hiding in spawn, me and my duo went to look for them and they weren’t there. I watched the replay and they were stuck at the previous point 😭 I also just thought the realization they had that nobody was there with them pretty funny lol.
+2025-03-17 06:45:41,852 - INFO - Image Paths: ['https://external-preview.redd.it/dnN3Y21jM2tzNnBlMbOW7n8vHWTn6ZvX_M1yN4WhpYPy-CJUr332TjtLQwL2.png?format=pjpg&auto=webp&s=c4d14a7afade04422fd48f1b376d7b052630e3ec']
+2025-03-17 06:45:41,853 - INFO - Video Path: https://v.redd.it/d6t7cqeks6pe1/DASH_720.mp4?source=fallback
+2025-03-17 06:45:42,482 - INFO - Downloaded media from https://v.redd.it/d6t7cqeks6pe1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-03-17 06:45:42,612 - ERROR - Failed to download media from https://v.redd.it/d6t7cqeks6pe1/DASH_AUDIO_128.mp4?source=fallback: 403 Client Error: Forbidden for url: https://v.redd.it/d6t7cqeks6pe1/DASH_AUDIO_128.mp4?source=fallback
+2025-03-17 06:45:43,369 - INFO - Posted content successfully. Tweet ID: 1901525334648103190
