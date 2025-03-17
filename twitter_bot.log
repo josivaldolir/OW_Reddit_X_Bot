@@ -2652,3 +2652,14 @@ Your media IDs are invalid.
 2025-03-17 16:45:29,410 - INFO - Downloaded media from https://v.redd.it/fqbf0r18q9pe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-17 16:45:29,931 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-17 16:45:47,753 - INFO - Posted content successfully. Tweet ID: 1901676348369670536
+2025-03-17 17:13:43,050 - INFO - Content: Latency during our attack: 200ms+ Latency during our def: 44ms... you just ran out of things to blame huh?
+You ever just get...Latency diffed? xD
+
+rip this loss though T\_T
+2025-03-17 17:13:43,050 - INFO - Image Paths: ['https://external-preview.redd.it/cnhuODZvZHZxOHBlMeKG5oLdTtqpzwjm11OJRpw0WaR2EVcIWRRkbBhrc2KH.png?format=pjpg&auto=webp&s=ab8f02bcc3cd1c1d8e1b303dc35e5d8655710490']
+2025-03-17 17:13:43,050 - INFO - Video Path: https://v.redd.it/pewolcdvq8pe1/DASH_1080.mp4?source=fallback
+2025-03-17 17:13:44,606 - INFO - Downloaded media from https://v.redd.it/pewolcdvq8pe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-17 17:13:45,094 - INFO - Downloaded media from https://v.redd.it/pewolcdvq8pe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-17 17:13:45,487 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-17 17:14:26,820 - ERROR - Failed to post content: 400 Bad Request
+Your media IDs are invalid.
