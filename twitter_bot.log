@@ -2719,3 +2719,11 @@ It looks like he asked bastion for fashion advice.
 2025-03-17 20:40:22,957 - INFO - Downloaded media from https://preview.redd.it/xvklqiq41bpe1.png?width=945&format=png&auto=webp&s=50bf95abe48d89384e4789682b4bf00a93f842ac to temp_image.jpg
 2025-03-17 20:40:23,586 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-17 21:13:28,761 - INFO - Content: Never saw the Sigma trailer it goes hard asf !
+Almost saw all trailers till Doomfist came out never looked others but omg this VA is something else. I'm maining this no matter what.
+2025-03-17 21:13:28,761 - INFO - Image Paths: ['https://external-preview.redd.it/bjFocGNyY2I0YnBlMeOwxEKY_BwUmvv0yJlvuSQnrkHkZJuTTKSVmRt4UrhV.png?format=pjpg&auto=webp&s=d3dfdc589f1822f517ffbcfe4c73ab7408faecf4']
+2025-03-17 21:13:28,761 - INFO - Video Path: https://v.redd.it/m0wiwbhb4bpe1/DASH_1080.mp4?source=fallback
+2025-03-17 21:13:28,890 - INFO - Downloaded media from https://v.redd.it/m0wiwbhb4bpe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-17 21:13:28,979 - INFO - Downloaded media from https://v.redd.it/m0wiwbhb4bpe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-17 21:13:29,555 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-17 21:13:33,453 - INFO - Posted content successfully. Tweet ID: 1901743732803723632
