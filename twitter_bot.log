@@ -2663,3 +2663,9 @@ rip this loss though T\_T
 2025-03-17 17:13:45,487 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-17 17:14:26,820 - ERROR - Failed to post content: 400 Bad Request
 Your media IDs are invalid.
+2025-03-17 17:38:30,826 - INFO - Content: I love green Winston
+
+2025-03-17 17:38:30,826 - INFO - Image Paths: ['https://preview.redd.it/qe9f5r688ape1.jpeg?auto=webp&s=5ee37a94bde6af6be666d8a58ae396256fe7c164']
+2025-03-17 17:38:30,826 - INFO - Video Path: 
+2025-03-17 17:38:30,849 - INFO - Downloaded media from https://preview.redd.it/qe9f5r688ape1.jpeg?auto=webp&s=5ee37a94bde6af6be666d8a58ae396256fe7c164 to temp_image.jpg
+2025-03-17 17:38:32,166 - INFO - Posted content successfully. Tweet ID: 1901689620053811433
