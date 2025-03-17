@@ -2525,3 +2525,11 @@ Pick your poison... Either way, you're dead.
 2025-03-17 04:42:37,579 - INFO - Downloaded media from https://v.redd.it/xeh8yie7l3pe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-17 04:42:37,902 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-17 04:42:51,461 - INFO - Posted content successfully. Tweet ID: 1901494415165960316
+2025-03-17 05:39:03,462 - INFO - Content: From "Overwatch 2 x Le Sserafim" collaboration trailer directed by Daniel Cuervo Arévalo with the help of Titmouse & many other artists.
+
+2025-03-17 05:39:03,462 - INFO - Image Paths: ['https://external-preview.redd.it/anR4ZmE5Z2RqNnBlMT0VJaZyxB-qKrEHxXyTIu9YhZ19t5XvXMZqvAIvnpg1.png?format=pjpg&auto=webp&s=ac2b8aecc0c89455039b1f9e8085aaae04bc505c']
+2025-03-17 05:39:03,462 - INFO - Video Path: https://v.redd.it/hyreypfdj6pe1/DASH_1080.mp4?source=fallback
+2025-03-17 05:39:04,062 - INFO - Downloaded media from https://v.redd.it/hyreypfdj6pe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-17 05:39:04,413 - INFO - Downloaded media from https://v.redd.it/hyreypfdj6pe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-17 05:39:04,736 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-17 05:39:15,981 - INFO - Posted content successfully. Tweet ID: 1901508610234241079
