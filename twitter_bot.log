@@ -2675,3 +2675,11 @@ I say this from experience
 2025-03-17 18:20:02,557 - INFO - Video Path: 
 2025-03-17 18:20:02,628 - INFO - Downloaded media from https://preview.redd.it/c6r4s76bcape1.jpeg?auto=webp&s=788081d4cc6ed11110540ad4bae0b7ad89b56670 to temp_image.jpg
 2025-03-17 18:20:04,185 - INFO - Posted content successfully. Tweet ID: 1901700072674398620
+2025-03-17 18:43:49,867 - INFO - Content: How'd I do????
+
+2025-03-17 18:43:49,867 - INFO - Image Paths: ['https://external-preview.redd.it/czYwaGRyZnI1YXBlMfE09X4H_dofVsaEtNbuO8k59YyqnsrTOe_6Dqi1rtM-.png?format=pjpg&auto=webp&s=4d60a63a4f6891b03ed2732960e62e67979531e8']
+2025-03-17 18:43:49,867 - INFO - Video Path: https://v.redd.it/ceq1t4qr5ape1/DASH_720.mp4?source=fallback
+2025-03-17 18:43:50,111 - INFO - Downloaded media from https://v.redd.it/ceq1t4qr5ape1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-03-17 18:43:50,307 - INFO - Downloaded media from https://v.redd.it/ceq1t4qr5ape1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-03-17 18:43:51,147 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-17 18:44:02,478 - INFO - Posted content successfully. Tweet ID: 1901706105769865574
