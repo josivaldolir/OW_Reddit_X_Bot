@@ -2560,3 +2560,10 @@ I told our tank he was good at half time. I guess that means it was my fault we 
 2025-03-17 09:39:27,273 - INFO - Downloaded media from https://v.redd.it/jrgzyfg0i7pe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-17 09:39:27,664 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-17 09:39:33,325 - INFO - Posted content successfully. Tweet ID: 1901569081582743964
+2025-03-17 10:42:42,602 - INFO - Content: Next Guilded color?
+
+2025-03-17 10:42:42,602 - INFO - Image Paths: ['https://preview.redd.it/i4pk36rl37pe1.png?width=1648&format=png&auto=webp&s=6cfa7cdeac200dcede515105c06db66df5d4b3b7', 'https://preview.redd.it/75pmpchr37pe1.png?width=1379&format=png&auto=webp&s=965df49d5acba3e78b04019a36c785766f16377c']
+2025-03-17 10:42:42,602 - INFO - Video Path: 
+2025-03-17 10:42:42,636 - INFO - Downloaded media from https://preview.redd.it/i4pk36rl37pe1.png?width=1648&format=png&auto=webp&s=6cfa7cdeac200dcede515105c06db66df5d4b3b7 to temp_image.jpg
+2025-03-17 10:42:43,466 - INFO - Downloaded media from https://preview.redd.it/75pmpchr37pe1.png?width=1379&format=png&auto=webp&s=965df49d5acba3e78b04019a36c785766f16377c to temp_image.jpg
+2025-03-17 10:42:45,561 - INFO - Posted content successfully. Tweet ID: 1901584984479248661
