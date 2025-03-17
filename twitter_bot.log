@@ -2683,3 +2683,9 @@ I say this from experience
 2025-03-17 18:43:50,307 - INFO - Downloaded media from https://v.redd.it/ceq1t4qr5ape1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-03-17 18:43:51,147 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-17 18:44:02,478 - INFO - Posted content successfully. Tweet ID: 1901706105769865574
+2025-03-17 19:14:33,863 - INFO - Content: You are about to check-in for a long flight. What free seat do you choose?
+
+2025-03-17 19:14:33,863 - INFO - Image Paths: ['https://external-preview.redd.it/Twzhkn_TVk69YU23GOx4gJsVnKLd6zaaUmYe88tqY5U.jpg?auto=webp&s=6fc4cbe50d1a1f2834a30d1ef0e29b660a6d867c']
+2025-03-17 19:14:33,863 - INFO - Video Path: 
+2025-03-17 19:14:33,918 - INFO - Downloaded media from https://external-preview.redd.it/Twzhkn_TVk69YU23GOx4gJsVnKLd6zaaUmYe88tqY5U.jpg?auto=webp&s=6fc4cbe50d1a1f2834a30d1ef0e29b660a6d867c to temp_image.jpg
+2025-03-17 19:14:35,042 - INFO - Posted content successfully. Tweet ID: 1901713792083558890
