@@ -3026,3 +3026,13 @@ They also added an Orisa flying one but that's not as good as smallga
 2025-03-18 21:13:32,612 - INFO - Downloaded media from https://preview.redd.it/xz9duwam5ipe1.png?width=772&format=png&auto=webp&s=87a0c5e7660e7807dcbc1526d97ec2ba04fd99f3 to temp_image.jpg
 2025-03-18 21:13:33,447 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-18 21:35:52,816 - INFO - Content: April fools rewards 🤣
+
+2025-03-18 21:35:52,816 - INFO - Image Paths: ['https://preview.redd.it/0fsqzsok5ipe1.png?width=786&format=png&auto=webp&s=9a01aa7f0cc595b9d3479451338092e915587fb0', 'https://preview.redd.it/ubocoaol5ipe1.png?width=682&format=png&auto=webp&s=48fd78b52384e0ac72c4c75ebea6e0b2724e171f', 'https://preview.redd.it/n31msw1m5ipe1.png?width=737&format=png&auto=webp&s=570790eab25276beea1093f616ab6b643d0e2c62', 'https://preview.redd.it/xz9duwam5ipe1.png?width=772&format=png&auto=webp&s=87a0c5e7660e7807dcbc1526d97ec2ba04fd99f3']
+2025-03-18 21:35:52,816 - INFO - Video Path: 
+2025-03-18 21:35:52,873 - INFO - Downloaded media from https://preview.redd.it/0fsqzsok5ipe1.png?width=786&format=png&auto=webp&s=9a01aa7f0cc595b9d3479451338092e915587fb0 to temp_image.jpg
+2025-03-18 21:35:53,787 - INFO - Downloaded media from https://preview.redd.it/ubocoaol5ipe1.png?width=682&format=png&auto=webp&s=48fd78b52384e0ac72c4c75ebea6e0b2724e171f to temp_image.jpg
+2025-03-18 21:35:54,277 - INFO - Downloaded media from https://preview.redd.it/n31msw1m5ipe1.png?width=737&format=png&auto=webp&s=570790eab25276beea1093f616ab6b643d0e2c62 to temp_image.jpg
+2025-03-18 21:35:54,830 - INFO - Downloaded media from https://preview.redd.it/xz9duwam5ipe1.png?width=772&format=png&auto=webp&s=87a0c5e7660e7807dcbc1526d97ec2ba04fd99f3 to temp_image.jpg
+2025-03-18 21:35:55,475 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
