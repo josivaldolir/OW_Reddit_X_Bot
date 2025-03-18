@@ -2974,3 +2974,10 @@ The next time you see your teammate "overextend" just think to yourself "I shoul
 2025-03-18 17:38:24,132 - INFO - Downloaded media from https://preview.redd.it/cy82ofkldfpe1.jpg?width=2316&format=pjpg&auto=webp&s=6aae83c8222efd20c28c1869c7277a28e100942a to temp_image.jpg
 2025-03-18 17:38:24,908 - INFO - Downloaded media from https://preview.redd.it/9quhtylldfpe1.jpg?width=1294&format=pjpg&auto=webp&s=22d240734a9c5e8edb4410a0b49b621f8bedc7c6 to temp_image.jpg
 2025-03-18 17:38:26,284 - INFO - Posted content successfully. Tweet ID: 1902051983399452713
+2025-03-18 18:20:38,516 - INFO - Content: Hey guys i made a tierlist rating what i think the attractiveness of the players of each hero is. Let me know what you think
+
+2025-03-18 18:20:38,516 - INFO - Image Paths: ['https://preview.redd.it/0kaf6xrpnhpe1.jpeg?auto=webp&s=ebc2bde165ae40951464f3ee105f7234edae5f01']
+2025-03-18 18:20:38,516 - INFO - Video Path: 
+2025-03-18 18:20:38,631 - INFO - Downloaded media from https://preview.redd.it/0kaf6xrpnhpe1.jpeg?auto=webp&s=ebc2bde165ae40951464f3ee105f7234edae5f01 to temp_image.jpg
+2025-03-18 18:20:39,531 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
