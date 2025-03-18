@@ -2783,3 +2783,11 @@ My take if Hero 44 / 'Aqua' got a LESSERSFIM skin! This is my first time making 
 2025-03-18 03:48:03,474 - INFO - Video Path: 
 2025-03-18 03:48:03,529 - INFO - Downloaded media from https://preview.redd.it/y33x07whabpe1.jpeg?auto=webp&s=2fc538da1a6e749a8f60926caa90366ece96954b to temp_image.jpg
 2025-03-18 03:48:04,584 - INFO - Posted content successfully. Tweet ID: 1901843016249434613
+2025-03-18 04:17:39,968 - INFO - Content: I didnt think this through...
+
+2025-03-18 04:17:39,969 - INFO - Image Paths: ['https://external-preview.redd.it/Z2Rqbmw4ano5Y3BlMdesM3HRfo3ElpjDvYq15n3yLZWV2DwtfBREv-pqnZP6.png?format=pjpg&auto=webp&s=2762b29ce0e686370262c3b5e74a27f6a95038d3']
+2025-03-18 04:17:39,969 - INFO - Video Path: https://v.redd.it/bi5fm8jz9cpe1/DASH_1080.mp4?source=fallback
+2025-03-18 04:17:40,628 - INFO - Downloaded media from https://v.redd.it/bi5fm8jz9cpe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-18 04:17:40,946 - INFO - Downloaded media from https://v.redd.it/bi5fm8jz9cpe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-18 04:17:41,282 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-18 04:17:51,677 - INFO - Posted content successfully. Tweet ID: 1901850512477114483
