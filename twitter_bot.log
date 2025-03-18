@@ -2856,3 +2856,11 @@ Anyone else excited to open some loot boxes again?
 2025-03-18 08:44:19,303 - INFO - Video Path: 
 2025-03-18 08:44:19,534 - INFO - Downloaded media from https://preview.redd.it/hw4dojz5pbpe1.png?auto=webp&s=26d8f9f9933b2b5a6090e5da8a2af51859cfe7b7 to temp_image.jpg
 2025-03-18 08:44:20,803 - INFO - Posted content successfully. Tweet ID: 1901917574503284748
+2025-03-18 09:16:23,245 - INFO - Content: Silly Sombra hasn't heard of this spam spot
+
+2025-03-18 09:16:23,245 - INFO - Image Paths: ['https://external-preview.redd.it/YnNoeXR0MWhhZXBlMWyc3rA_HRKZ3VyYjrw2qmi_MfsowvzYbDQEhlTVlIvE.png?format=pjpg&auto=webp&s=728bd6964fc3507e66359ee9f8ebcf712b8da627']
+2025-03-18 09:16:23,245 - INFO - Video Path: https://v.redd.it/nrx4bx1haepe1/DASH_1080.mp4?source=fallback
+2025-03-18 09:16:24,469 - INFO - Downloaded media from https://v.redd.it/nrx4bx1haepe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-18 09:16:24,515 - INFO - Downloaded media from https://v.redd.it/nrx4bx1haepe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-18 09:16:24,981 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-18 09:16:36,016 - INFO - Posted content successfully. Tweet ID: 1901925692121776170
