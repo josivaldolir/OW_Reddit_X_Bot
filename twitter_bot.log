@@ -2944,3 +2944,13 @@ Imo I think part 1 is much pretty then part 2 🔥🔥
 2025-03-18 16:19:12,812 - INFO - Video Path: 
 2025-03-18 16:19:12,938 - INFO - Downloaded media from https://preview.redd.it/ccwi9ne3zgpe1.jpeg?auto=webp&s=3d1d6d92a60ab08921691d4da4a16e5d7eb6aaaa to temp_image.jpg
 2025-03-18 16:19:14,029 - INFO - Posted content successfully. Tweet ID: 1902032051299299482
+2025-03-18 16:45:16,335 - INFO - Content: Anyone lagging intensely on first 30-60 seconds of each game?
+Plays like fuck for a bit then goes back to normal, happens each time I start a gaming. Not the console though because if I open the PS menu that doesn't lag at all, just ow in the background still chugging along at 3fps
+
+Playing on ps5
+2025-03-18 16:45:16,335 - INFO - Image Paths: ['https://external-preview.redd.it/a2RxdGxtNjhxZnBlMRQ9qRHORknoNYP5yVmuSQqIkIQ_uOB48FJPIF5KYxHu.png?format=pjpg&auto=webp&s=66bbeba5d2d629ca5d13dc8fc3ddfc056805748f']
+2025-03-18 16:45:16,335 - INFO - Video Path: https://v.redd.it/he8850a8qfpe1/DASH_1080.mp4?source=fallback
+2025-03-18 16:45:16,721 - INFO - Downloaded media from https://v.redd.it/he8850a8qfpe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-18 16:45:16,777 - INFO - Downloaded media from https://v.redd.it/he8850a8qfpe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-18 16:45:17,248 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-18 16:45:26,528 - INFO - Posted content successfully. Tweet ID: 1902038647165087951
