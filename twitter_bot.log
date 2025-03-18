@@ -3036,3 +3036,12 @@ Too Many Requests
 2025-03-18 21:35:54,830 - INFO - Downloaded media from https://preview.redd.it/xz9duwam5ipe1.png?width=772&format=png&auto=webp&s=87a0c5e7660e7807dcbc1526d97ec2ba04fd99f3 to temp_image.jpg
 2025-03-18 21:35:55,475 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-18 22:13:43,431 - INFO - Content: April fools rewards 🤣
+
+2025-03-18 22:13:43,431 - INFO - Image Paths: ['https://preview.redd.it/0fsqzsok5ipe1.png?width=786&format=png&auto=webp&s=9a01aa7f0cc595b9d3479451338092e915587fb0', 'https://preview.redd.it/ubocoaol5ipe1.png?width=682&format=png&auto=webp&s=48fd78b52384e0ac72c4c75ebea6e0b2724e171f', 'https://preview.redd.it/n31msw1m5ipe1.png?width=737&format=png&auto=webp&s=570790eab25276beea1093f616ab6b643d0e2c62', 'https://preview.redd.it/xz9duwam5ipe1.png?width=772&format=png&auto=webp&s=87a0c5e7660e7807dcbc1526d97ec2ba04fd99f3']
+2025-03-18 22:13:43,431 - INFO - Video Path: 
+2025-03-18 22:13:43,689 - INFO - Downloaded media from https://preview.redd.it/0fsqzsok5ipe1.png?width=786&format=png&auto=webp&s=9a01aa7f0cc595b9d3479451338092e915587fb0 to temp_image.jpg
+2025-03-18 22:13:44,519 - INFO - Downloaded media from https://preview.redd.it/ubocoaol5ipe1.png?width=682&format=png&auto=webp&s=48fd78b52384e0ac72c4c75ebea6e0b2724e171f to temp_image.jpg
+2025-03-18 22:13:45,106 - INFO - Downloaded media from https://preview.redd.it/n31msw1m5ipe1.png?width=737&format=png&auto=webp&s=570790eab25276beea1093f616ab6b643d0e2c62 to temp_image.jpg
+2025-03-18 22:13:45,827 - INFO - Downloaded media from https://preview.redd.it/xz9duwam5ipe1.png?width=772&format=png&auto=webp&s=87a0c5e7660e7807dcbc1526d97ec2ba04fd99f3 to temp_image.jpg
+2025-03-18 22:13:47,118 - INFO - Posted content successfully. Tweet ID: 1902121276073771276
