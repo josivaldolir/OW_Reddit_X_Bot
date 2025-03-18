@@ -2881,3 +2881,14 @@ Tracer's is my favorite. Kinda wish junkrat got one.
 2025-03-18 10:42:02,940 - INFO - Downloaded media from https://v.redd.it/fg4pb0et2fpe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-18 10:42:03,395 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-18 10:42:14,495 - INFO - Posted content successfully. Tweet ID: 1901947244951073102
+2025-03-18 11:36:03,897 - INFO - Content: This is Kalb-Sayaad, an Overwatch Hero I designed.
+You can check the HD version here :)
+
+[https://www.artstation.com/artwork/XJz4gR](https://www.artstation.com/artwork/XJz4gR)
+2025-03-18 11:36:03,897 - INFO - Image Paths: ['https://preview.redd.it/sypjqy47nfpe1.png?width=5161&format=png&auto=webp&s=d70527f2898c47e6f364f414bc1b4f19eb58c267', 'https://preview.redd.it/vffj1ft7nfpe1.png?width=5161&format=png&auto=webp&s=5768d1b8338a77108f05b1dca4610b810703359d', 'https://preview.redd.it/nrmhtsm8nfpe1.png?width=5161&format=png&auto=webp&s=7f5416b3b995e67ff352289cb3449e603e06dd3b', 'https://preview.redd.it/6g646k79nfpe1.png?width=5161&format=png&auto=webp&s=c6164e56d171f6a5c11ce19bd2e600b6278a5776']
+2025-03-18 11:36:03,897 - INFO - Video Path: 
+2025-03-18 11:36:04,760 - INFO - Downloaded media from https://preview.redd.it/sypjqy47nfpe1.png?width=5161&format=png&auto=webp&s=d70527f2898c47e6f364f414bc1b4f19eb58c267 to temp_image.jpg
+2025-03-18 11:36:06,133 - INFO - Downloaded media from https://preview.redd.it/vffj1ft7nfpe1.png?width=5161&format=png&auto=webp&s=5768d1b8338a77108f05b1dca4610b810703359d to temp_image.jpg
+2025-03-18 11:36:07,641 - INFO - Downloaded media from https://preview.redd.it/nrmhtsm8nfpe1.png?width=5161&format=png&auto=webp&s=7f5416b3b995e67ff352289cb3449e603e06dd3b to temp_image.jpg
+2025-03-18 11:36:09,014 - INFO - Downloaded media from https://preview.redd.it/6g646k79nfpe1.png?width=5161&format=png&auto=webp&s=c6164e56d171f6a5c11ce19bd2e600b6278a5776 to temp_image.jpg
+2025-03-18 11:36:12,322 - INFO - Posted content successfully. Tweet ID: 1901960818402763147
