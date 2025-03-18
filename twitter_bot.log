@@ -2764,3 +2764,10 @@ I got myself a custom Fat Hammond mousepad
 2025-03-18 01:07:24,702 - INFO - Downloaded media from https://preview.redd.it/rp3iav1tsbpe1.jpeg?auto=webp&s=ede4430aab22b3d0d7cf99cab61c6ac9b5ed4b10 to temp_image.jpg
 2025-03-18 01:07:27,411 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-18 02:43:45,587 - INFO - Content: Fat Hammond Mousepad
+I got myself a custom Fat Hammond mousepad
+2025-03-18 02:43:45,587 - INFO - Image Paths: ['https://preview.redd.it/rp3iav1tsbpe1.jpeg?auto=webp&s=ede4430aab22b3d0d7cf99cab61c6ac9b5ed4b10']
+2025-03-18 02:43:45,587 - INFO - Video Path: 
+2025-03-18 02:43:45,796 - INFO - Downloaded media from https://preview.redd.it/rp3iav1tsbpe1.jpeg?auto=webp&s=ede4430aab22b3d0d7cf99cab61c6ac9b5ed4b10 to temp_image.jpg
+2025-03-18 02:43:47,542 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
