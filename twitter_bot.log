@@ -2839,3 +2839,10 @@ Enemy ball and I refused to die/swap, kept playing no matter what, and the teams
 2025-03-18 07:36:36,065 - INFO - Downloaded media from https://v.redd.it/mxpkluiwncpe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-18 07:36:36,381 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-18 07:36:43,648 - INFO - Posted content successfully. Tweet ID: 1901900558749020600
+2025-03-18 08:19:22,990 - INFO - Content: This is the funniest auto-generated AI chat summary I've seen
+
+2025-03-18 08:19:22,990 - INFO - Image Paths: ['https://preview.redd.it/31fbb1vl9dpe1.jpg?width=1170&format=pjpg&auto=webp&s=5f21393f500b1c78d2327fa79fa789a5110b5763', 'https://preview.redd.it/tjej11vl9dpe1.jpg?width=1079&format=pjpg&auto=webp&s=1c3a10c4416614f7e47400d62f9930fbef9b1e05']
+2025-03-18 08:19:22,990 - INFO - Video Path: 
+2025-03-18 08:19:23,217 - INFO - Downloaded media from https://preview.redd.it/31fbb1vl9dpe1.jpg?width=1170&format=pjpg&auto=webp&s=5f21393f500b1c78d2327fa79fa789a5110b5763 to temp_image.jpg
+2025-03-18 08:19:23,788 - INFO - Downloaded media from https://preview.redd.it/tjej11vl9dpe1.jpg?width=1079&format=pjpg&auto=webp&s=1c3a10c4416614f7e47400d62f9930fbef9b1e05 to temp_image.jpg
+2025-03-18 08:19:24,733 - INFO - Posted content successfully. Tweet ID: 1901911300328054995
