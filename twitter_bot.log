@@ -2831,3 +2831,11 @@ Enemy ball and I refused to die/swap, kept playing no matter what, and the teams
 2025-03-18 06:45:50,898 - INFO - Downloaded media from https://preview.redd.it/32amwtudmdpe1.png?width=1920&format=png&auto=webp&s=4bb48f79298c6a0673fad671d9d1b977f3ff800d to temp_image.jpg
 2025-03-18 06:45:51,776 - INFO - Downloaded media from https://preview.redd.it/isdcbr6emdpe1.png?width=1920&format=png&auto=webp&s=b48313420d6ba8f6a17ea312737aa611717b0507 to temp_image.jpg
 2025-03-18 06:45:53,785 - INFO - Posted content successfully. Tweet ID: 1901887764213453121
+2025-03-18 07:36:35,342 - INFO - Content: I didn't mean to tear THAT down...oops.
+
+2025-03-18 07:36:35,342 - INFO - Image Paths: ['https://external-preview.redd.it/MGduY3J1ZXduY3BlMQN2wKGOWCoTbHZ9BKaHR-uSb4Zr7K9-CKN769wrm5SG.png?format=pjpg&auto=webp&s=fda23aa3e0848e9bc5f630b9a2d882c33b16ec1f']
+2025-03-18 07:36:35,342 - INFO - Video Path: https://v.redd.it/mxpkluiwncpe1/DASH_1080.mp4?source=fallback
+2025-03-18 07:36:35,974 - INFO - Downloaded media from https://v.redd.it/mxpkluiwncpe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-18 07:36:36,065 - INFO - Downloaded media from https://v.redd.it/mxpkluiwncpe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-18 07:36:36,381 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-18 07:36:43,648 - INFO - Posted content successfully. Tweet ID: 1901900558749020600
