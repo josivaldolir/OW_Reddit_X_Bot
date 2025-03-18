@@ -2811,3 +2811,11 @@ Long have we waited. Meta can suck my overballs, it’s time for nostalgia comps
 2025-03-18 05:40:57,802 - INFO - Downloaded media from https://preview.redd.it/pjuv3zklubpe1.jpg?width=2560&format=pjpg&auto=webp&s=8a3f3b62b77db164e0e4e6d8ecf0cd1263e93f61 to temp_image.jpg
 2025-03-18 05:40:58,535 - INFO - Downloaded media from https://preview.redd.it/cm0z9zklubpe1.jpg?width=2400&format=pjpg&auto=webp&s=fb1122df740ef7edd13cf82c8a2e3dfaa2d8fbcf to temp_image.jpg
 2025-03-18 05:40:59,782 - INFO - Posted content successfully. Tweet ID: 1901871433006911503
+2025-03-18 06:20:49,024 - INFO - Content: I never thought I'd make this play at a game-defining moment, but it worked beautifully.
+
+2025-03-18 06:20:49,024 - INFO - Image Paths: ['https://external-preview.redd.it/cGg2OXp2ZTFiYnBlMTPnmn_cGeggEV2oG5W6YIG5R8SzoCLOnuQdWv9R_q4m.png?format=pjpg&auto=webp&s=038682d545e217d010bbe9c293c74bb56343f901']
+2025-03-18 06:20:49,024 - INFO - Video Path: https://v.redd.it/ioahhyf1bbpe1/DASH_1080.mp4?source=fallback
+2025-03-18 06:20:50,371 - INFO - Downloaded media from https://v.redd.it/ioahhyf1bbpe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-18 06:20:50,506 - INFO - Downloaded media from https://v.redd.it/ioahhyf1bbpe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-18 06:20:50,772 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-18 06:21:05,104 - INFO - Posted content successfully. Tweet ID: 1901881522782900339
