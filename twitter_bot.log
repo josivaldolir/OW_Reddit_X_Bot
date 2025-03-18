@@ -2965,3 +2965,12 @@ The next time you see your teammate "overextend" just think to yourself "I shoul
 2025-03-18 17:13:36,186 - INFO - Image Paths: []
 2025-03-18 17:13:36,186 - INFO - Video Path: 
 2025-03-18 17:13:36,582 - INFO - Posted content successfully. Tweet ID: 1902045736042102993
+2025-03-18 17:38:22,162 - INFO - Content: How would you feel if Illari got this Collab skin whenever the next season of Arcane releases?
+
+2025-03-18 17:38:22,162 - INFO - Image Paths: ['https://preview.redd.it/se9p26fldfpe1.jpg?width=1200&format=pjpg&auto=webp&s=19691e0bcd24c7c24d1db2f8c0c1856da00a09b6', 'https://preview.redd.it/cblxlohldfpe1.jpg?width=1600&format=pjpg&auto=webp&s=273a7f2eac4841021a9d45f8a51207852c10199a', 'https://preview.redd.it/cy82ofkldfpe1.jpg?width=2316&format=pjpg&auto=webp&s=6aae83c8222efd20c28c1869c7277a28e100942a', 'https://preview.redd.it/9quhtylldfpe1.jpg?width=1294&format=pjpg&auto=webp&s=22d240734a9c5e8edb4410a0b49b621f8bedc7c6']
+2025-03-18 17:38:22,162 - INFO - Video Path: 
+2025-03-18 17:38:22,197 - INFO - Downloaded media from https://preview.redd.it/se9p26fldfpe1.jpg?width=1200&format=pjpg&auto=webp&s=19691e0bcd24c7c24d1db2f8c0c1856da00a09b6 to temp_image.jpg
+2025-03-18 17:38:23,046 - INFO - Downloaded media from https://preview.redd.it/cblxlohldfpe1.jpg?width=1600&format=pjpg&auto=webp&s=273a7f2eac4841021a9d45f8a51207852c10199a to temp_image.jpg
+2025-03-18 17:38:24,132 - INFO - Downloaded media from https://preview.redd.it/cy82ofkldfpe1.jpg?width=2316&format=pjpg&auto=webp&s=6aae83c8222efd20c28c1869c7277a28e100942a to temp_image.jpg
+2025-03-18 17:38:24,908 - INFO - Downloaded media from https://preview.redd.it/9quhtylldfpe1.jpg?width=1294&format=pjpg&auto=webp&s=22d240734a9c5e8edb4410a0b49b621f8bedc7c6 to temp_image.jpg
+2025-03-18 17:38:26,284 - INFO - Posted content successfully. Tweet ID: 1902051983399452713
