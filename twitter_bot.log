@@ -3274,3 +3274,9 @@ Too Many Requests
 2025-03-19 17:13:40,281 - INFO - Video Path: 
 2025-03-19 17:13:40,350 - INFO - Downloaded media from https://external-preview.redd.it/jam_mR4yBP59WlqWbYL9WOPjlVgL_iEgAon4IZgT3cQ.jpg?auto=webp&s=bc8717ea087e01eea101c10e9a5d5e6671d0c3f6 to temp_image.jpg
 2025-03-19 17:13:41,395 - INFO - Posted content successfully. Tweet ID: 1902408144002658472
+2025-03-19 17:38:43,922 - INFO - Content: Still not enough to afford the Le Sserafim bundle
+
+2025-03-19 17:38:43,923 - INFO - Image Paths: ['https://preview.redd.it/jg3e292fgope1.png?auto=webp&s=3b0bc8385098d6a24db1d1f2e8c0152bdeb0cdf0']
+2025-03-19 17:38:43,923 - INFO - Video Path: 
+2025-03-19 17:38:44,172 - INFO - Downloaded media from https://preview.redd.it/jg3e292fgope1.png?auto=webp&s=3b0bc8385098d6a24db1d1f2e8c0152bdeb0cdf0 to temp_image.jpg
+2025-03-19 17:38:45,620 - INFO - Posted content successfully. Tweet ID: 1902414451711824263
