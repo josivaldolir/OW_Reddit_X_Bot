@@ -3238,3 +3238,9 @@ I love this Colab
 2025-03-19 14:15:49,581 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-19 14:15:56,861 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-19 14:41:52,507 - INFO - Content: And Kaiju in s11 and Thrall and s12 respectively
+
+2025-03-19 14:41:52,507 - INFO - Image Paths: ['https://preview.redd.it/39wrww9eqnpe1.jpeg?auto=webp&s=9f716e843a765e76faee5bcd5ad62c7f86eb77cf']
+2025-03-19 14:41:52,507 - INFO - Video Path: 
+2025-03-19 14:41:52,724 - INFO - Downloaded media from https://preview.redd.it/39wrww9eqnpe1.jpeg?auto=webp&s=9f716e843a765e76faee5bcd5ad62c7f86eb77cf to temp_image.jpg
+2025-03-19 14:41:54,642 - INFO - Posted content successfully. Tweet ID: 1902369946212167934
