@@ -3137,3 +3137,11 @@ That's underwhelming. Tbh they should add stan Hog to the pair.
 2025-03-19 06:46:44,799 - INFO - Downloaded media from https://preview.redd.it/hygsa92k4ipe1.png?width=864&format=png&auto=webp&s=f13803eb1bf8c1293eb7c87446f007c9d4261074 to temp_image.jpg
 2025-03-19 06:46:45,511 - INFO - Downloaded media from https://preview.redd.it/evdeu3t95ipe1.png?width=768&format=png&auto=webp&s=6fc8cf993fd52023e17b8e60ac7969143d4992ed to temp_image.jpg
 2025-03-19 06:46:46,606 - INFO - Posted content successfully. Tweet ID: 1902250375043854374
+2025-03-19 07:14:16,185 - INFO - Content: juno touches the ground for the first time *caught in 4k*
+
+2025-03-19 07:14:16,186 - INFO - Image Paths: ['https://external-preview.redd.it/dG8ydGlqbGJiaXBlMbfL7vzl-KZVZiRZnwEAGS7I4ktcED9vxO1CqmNgMCR1.png?format=pjpg&auto=webp&s=e380209c66e8bf89f8ee9822508d675341ae2228']
+2025-03-19 07:14:16,186 - INFO - Video Path: https://v.redd.it/1mys0ilbbipe1/DASH_1080.mp4?source=fallback
+2025-03-19 07:14:16,684 - INFO - Downloaded media from https://v.redd.it/1mys0ilbbipe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-19 07:14:16,750 - INFO - Downloaded media from https://v.redd.it/1mys0ilbbipe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-19 07:14:16,991 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-19 07:14:28,438 - INFO - Posted content successfully. Tweet ID: 1902257346404888839
