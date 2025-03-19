@@ -3216,3 +3216,10 @@ Makes some characters just feel like shit when some of them get amazing perks wi
 2025-03-19 12:29:16,143 - INFO - Downloaded media from https://preview.redd.it/l9mvgy542npe1.png?auto=webp&s=c7bd4b88261efc0793575d0628288cc638eedc9d to temp_image.jpg
 2025-03-19 12:29:17,222 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-19 13:05:30,656 - INFO - Content: A silly little comic I made
+
+2025-03-19 13:05:30,656 - INFO - Image Paths: ['https://preview.redd.it/pp3ap3jkympe1.jpg?width=1773&format=pjpg&auto=webp&s=84f687336932ef770b3b7b2eb33d4b671c419395', 'https://preview.redd.it/va7688jkympe1.jpg?width=2096&format=pjpg&auto=webp&s=8a34f935f7574792f6d2ea776df5bbe79045cf04']
+2025-03-19 13:05:30,656 - INFO - Video Path: 
+2025-03-19 13:05:30,781 - INFO - Downloaded media from https://preview.redd.it/pp3ap3jkympe1.jpg?width=1773&format=pjpg&auto=webp&s=84f687336932ef770b3b7b2eb33d4b671c419395 to temp_image.jpg
+2025-03-19 13:05:32,049 - INFO - Downloaded media from https://preview.redd.it/va7688jkympe1.jpg?width=2096&format=pjpg&auto=webp&s=8a34f935f7574792f6d2ea776df5bbe79045cf04 to temp_image.jpg
+2025-03-19 13:05:33,842 - INFO - Posted content successfully. Tweet ID: 1902345699276288031
