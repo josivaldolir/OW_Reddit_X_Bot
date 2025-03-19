@@ -3312,3 +3312,11 @@ Like tf she's gonna buy with that? Rare recolors?
 2025-03-19 20:17:16,533 - INFO - Downloaded media from https://preview.redd.it/w5akarn0cope1.jpg?width=1458&format=pjpg&auto=webp&s=f39e6a536eeaf7b92b03e5e84de8423facb1938c to temp_image.jpg
 2025-03-19 20:17:17,159 - INFO - Downloaded media from https://preview.redd.it/92d5exs0cope1.png?width=1080&format=png&auto=webp&s=13c8dc8eb9ca597cf66dddf1c1f10130eefb96f6 to temp_image.jpg
 2025-03-19 20:17:18,779 - INFO - Posted content successfully. Tweet ID: 1902454352784073155
+2025-03-19 20:41:02,474 - INFO - Content: 1ms counter swap😭
+
+2025-03-19 20:41:02,474 - INFO - Image Paths: ['https://external-preview.redd.it/ZGcxZnd6aWF5bnBlMabdKZfQlwIr3oJI5BuVmOZh7d5pumjfEIfa08WyeSO-.png?format=pjpg&auto=webp&s=1d95e2e2b6a4813b6b43321c126183b9a5d91e0c']
+2025-03-19 20:41:02,474 - INFO - Video Path: https://v.redd.it/9i3rrqoaynpe1/DASH_1080.mp4?source=fallback
+2025-03-19 20:41:02,917 - INFO - Downloaded media from https://v.redd.it/9i3rrqoaynpe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-19 20:41:03,023 - INFO - Downloaded media from https://v.redd.it/9i3rrqoaynpe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-19 20:41:09,837 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-19 20:41:15,951 - INFO - Posted content successfully. Tweet ID: 1902460382285009144
