@@ -3209,3 +3209,10 @@ Makes some characters just feel like shit when some of them get amazing perks wi
 2025-03-19 11:35:51,525 - INFO - Image Paths: []
 2025-03-19 11:35:51,525 - INFO - Video Path: 
 2025-03-19 11:35:51,894 - INFO - Posted content successfully. Tweet ID: 1902323127717069017
+2025-03-19 12:29:15,825 - INFO - Content: all around me are familiar faces
+
+2025-03-19 12:29:15,825 - INFO - Image Paths: ['https://preview.redd.it/l9mvgy542npe1.png?auto=webp&s=c7bd4b88261efc0793575d0628288cc638eedc9d']
+2025-03-19 12:29:15,825 - INFO - Video Path: 
+2025-03-19 12:29:16,143 - INFO - Downloaded media from https://preview.redd.it/l9mvgy542npe1.png?auto=webp&s=c7bd4b88261efc0793575d0628288cc638eedc9d to temp_image.jpg
+2025-03-19 12:29:17,222 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
