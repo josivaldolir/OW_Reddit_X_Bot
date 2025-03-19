@@ -3083,3 +3083,10 @@ Too Many Requests
 2025-03-19 02:42:39,123 - INFO - Video Path: 
 2025-03-19 02:42:39,358 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-19 03:27:37,411 - INFO - Content: New Black Myth Wukong Game Is Insane 🤯🤯🤯
+
+2025-03-19 03:27:37,412 - INFO - Image Paths: ['https://preview.redd.it/0zfdelffdkpe1.png?auto=webp&s=5ae3b5a7ce221033ab9bad2e5646c0d4eb16cc5b']
+2025-03-19 03:27:37,412 - INFO - Video Path: 
+2025-03-19 03:27:37,775 - INFO - Downloaded media from https://preview.redd.it/0zfdelffdkpe1.png?auto=webp&s=5ae3b5a7ce221033ab9bad2e5646c0d4eb16cc5b to temp_image.jpg
+2025-03-19 03:27:38,892 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
