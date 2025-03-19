@@ -3164,3 +3164,10 @@ Ty for reading my TED write.
 2025-03-19 08:19:27,278 - INFO - Image Paths: []
 2025-03-19 08:19:27,278 - INFO - Video Path: 
 2025-03-19 08:19:27,656 - INFO - Posted content successfully. Tweet ID: 1902273700902400391
+2025-03-19 09:16:42,377 - INFO - Content: OWCS Ember Juno
+
+2025-03-19 09:16:42,377 - INFO - Image Paths: ['https://preview.redd.it/gckfjgnmykpe1.png?width=2560&format=png&auto=webp&s=0da7efab495be0bf8a152d099123faa919faddc3', 'https://preview.redd.it/y5p6l98fykpe1.jpg?width=2824&format=pjpg&auto=webp&s=d1ee1e45543d7c44e7dd49f5c7240e1617aa08a7']
+2025-03-19 09:16:42,377 - INFO - Video Path: 
+2025-03-19 09:16:42,604 - INFO - Downloaded media from https://preview.redd.it/gckfjgnmykpe1.png?width=2560&format=png&auto=webp&s=0da7efab495be0bf8a152d099123faa919faddc3 to temp_image.jpg
+2025-03-19 09:16:43,492 - INFO - Downloaded media from https://preview.redd.it/y5p6l98fykpe1.jpg?width=2824&format=pjpg&auto=webp&s=d1ee1e45543d7c44e7dd49f5c7240e1617aa08a7 to temp_image.jpg
+2025-03-19 09:16:46,438 - INFO - Posted content successfully. Tweet ID: 1902288118340055333
