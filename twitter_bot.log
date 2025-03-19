@@ -3190,3 +3190,11 @@ For some reason the moderator deleted my last post. I dont get it how they dont 
 2025-03-19 10:42:31,079 - INFO - Video Path: 
 2025-03-19 10:42:31,168 - INFO - Downloaded media from https://preview.redd.it/70ntlnfiimpe1.jpeg?auto=webp&s=8f7290b3154fc4f45da3b0450cc5116e2c83f477 to temp_image.jpg
 2025-03-19 10:42:32,280 - INFO - Posted content successfully. Tweet ID: 1902309706816794688
+2025-03-19 11:12:51,492 - INFO - Content: Be their shield 💔
+
+2025-03-19 11:12:51,492 - INFO - Image Paths: ['https://external-preview.redd.it/eGZreGRwMjNpbHBlMWUCwsZUJr_9CovAgozGZZrHc_L1VuHvIMhSnX2yF599.png?format=pjpg&auto=webp&s=93c4c4faedddca463ed3cb9a5176e7ae26cfe5f0']
+2025-03-19 11:12:51,492 - INFO - Video Path: https://v.redd.it/jdz19963ilpe1/DASH_1080.mp4?source=fallback
+2025-03-19 11:12:52,488 - INFO - Downloaded media from https://v.redd.it/jdz19963ilpe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-19 11:12:52,583 - INFO - Downloaded media from https://v.redd.it/jdz19963ilpe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-19 11:12:53,008 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-19 11:13:01,573 - INFO - Posted content successfully. Tweet ID: 1902317379885121932
