@@ -3069,3 +3069,11 @@ Too Many Requests
 2025-03-18 23:35:57,963 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-18 23:36:10,661 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-19 01:08:01,713 - INFO - Content: Orb always finds the way 👁️👁️
+
+2025-03-19 01:08:01,713 - INFO - Image Paths: ['https://external-preview.redd.it/cjF2bzNlMW5hanBlMeBnwzo3Rqg1KsQKpiqKfPB9DYq3xVjpPtroQ3kv7wk7.png?format=pjpg&auto=webp&s=0ee84d87f53a39aef83458ddcb3fb3bb25dc28ec']
+2025-03-19 01:08:01,713 - INFO - Video Path: https://v.redd.it/tfluuc1najpe1/DASH_1080.mp4?source=fallback
+2025-03-19 01:08:03,567 - INFO - Downloaded media from https://v.redd.it/tfluuc1najpe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-19 01:08:04,014 - INFO - Downloaded media from https://v.redd.it/tfluuc1najpe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-19 01:08:04,351 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-19 01:08:16,560 - INFO - Posted content successfully. Tweet ID: 1902165189253849423
