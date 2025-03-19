@@ -3171,3 +3171,9 @@ Ty for reading my TED write.
 2025-03-19 09:16:42,604 - INFO - Downloaded media from https://preview.redd.it/gckfjgnmykpe1.png?width=2560&format=png&auto=webp&s=0da7efab495be0bf8a152d099123faa919faddc3 to temp_image.jpg
 2025-03-19 09:16:43,492 - INFO - Downloaded media from https://preview.redd.it/y5p6l98fykpe1.jpg?width=2824&format=pjpg&auto=webp&s=d1ee1e45543d7c44e7dd49f5c7240e1617aa08a7 to temp_image.jpg
 2025-03-19 09:16:46,438 - INFO - Posted content successfully. Tweet ID: 1902288118340055333
+2025-03-19 09:41:49,390 - INFO - Content: 6v6 Unranked gone already ??
+Was just in queue for 6v6 Open Queue, got removed from the queue and now it’s just regular open queue? What a day lol bug maybe?
+2025-03-19 09:41:49,390 - INFO - Image Paths: ['https://preview.redd.it/kb67toir5jpe1.jpeg?auto=webp&s=2852530e879e34d11d5498687a77a75852d1a608']
+2025-03-19 09:41:49,390 - INFO - Video Path: 
+2025-03-19 09:41:49,548 - INFO - Downloaded media from https://preview.redd.it/kb67toir5jpe1.jpeg?auto=webp&s=2852530e879e34d11d5498687a77a75852d1a608 to temp_image.jpg
+2025-03-19 09:41:51,744 - INFO - Posted content successfully. Tweet ID: 1902294436018897171
