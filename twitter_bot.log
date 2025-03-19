@@ -3145,3 +3145,9 @@ That's underwhelming. Tbh they should add stan Hog to the pair.
 2025-03-19 07:14:16,750 - INFO - Downloaded media from https://v.redd.it/1mys0ilbbipe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-19 07:14:16,991 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-19 07:14:28,438 - INFO - Posted content successfully. Tweet ID: 1902257346404888839
+2025-03-19 07:36:41,401 - INFO - Content: Cold cocoa ?
+
+2025-03-19 07:36:41,402 - INFO - Image Paths: ['https://preview.redd.it/wob8qslonlpe1.png?auto=webp&s=5d7d37d21557b56ee4b42b49cb36814f47f60ce9']
+2025-03-19 07:36:41,402 - INFO - Video Path: 
+2025-03-19 07:36:41,541 - INFO - Downloaded media from https://preview.redd.it/wob8qslonlpe1.png?auto=webp&s=5d7d37d21557b56ee4b42b49cb36814f47f60ce9 to temp_image.jpg
+2025-03-19 07:36:42,354 - INFO - Posted content successfully. Tweet ID: 1902262941132464580
