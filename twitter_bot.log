@@ -3229,3 +3229,12 @@ Too Many Requests
 2025-03-19 13:47:17,624 - INFO - Video Path: 
 2025-03-19 13:47:17,746 - INFO - Downloaded media from https://preview.redd.it/l9mvgy542npe1.png?auto=webp&s=c7bd4b88261efc0793575d0628288cc638eedc9d to temp_image.jpg
 2025-03-19 13:47:18,593 - INFO - Posted content successfully. Tweet ID: 1902356206636953649
+2025-03-19 14:15:43,914 - INFO - Content: Bob living his dream
+I love this Colab 
+2025-03-19 14:15:43,914 - INFO - Image Paths: ['https://external-preview.redd.it/Y2o2Z3diZDVmbXBlMVJA5TQ6z9vW-4CsKwpYU-Aeg_ztubruo4p-O4wIPyWH.png?format=pjpg&auto=webp&s=26ce3801639f2f6a105713b4cfc66e3cde0f0f00']
+2025-03-19 14:15:43,914 - INFO - Video Path: https://v.redd.it/oex5rch5fmpe1/DASH_1080.mp4?source=fallback
+2025-03-19 14:15:44,424 - INFO - Downloaded media from https://v.redd.it/oex5rch5fmpe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-19 14:15:44,768 - INFO - Downloaded media from https://v.redd.it/oex5rch5fmpe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-19 14:15:49,581 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-19 14:15:56,861 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
