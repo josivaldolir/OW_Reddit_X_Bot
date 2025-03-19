@@ -3244,3 +3244,9 @@ Too Many Requests
 2025-03-19 14:41:52,507 - INFO - Video Path: 
 2025-03-19 14:41:52,724 - INFO - Downloaded media from https://preview.redd.it/39wrww9eqnpe1.jpeg?auto=webp&s=9f716e843a765e76faee5bcd5ad62c7f86eb77cf to temp_image.jpg
 2025-03-19 14:41:54,642 - INFO - Posted content successfully. Tweet ID: 1902369946212167934
+2025-03-19 15:15:41,064 - INFO - Content: What is swapping?
+
+2025-03-19 15:15:41,064 - INFO - Image Paths: ['https://preview.redd.it/n404wv8trnpe1.jpeg?auto=webp&s=8082d647275f43839e425e12b24fa26c3a69ae33']
+2025-03-19 15:15:41,064 - INFO - Video Path: 
+2025-03-19 15:15:41,158 - INFO - Downloaded media from https://preview.redd.it/n404wv8trnpe1.jpeg?auto=webp&s=8082d647275f43839e425e12b24fa26c3a69ae33 to temp_image.jpg
+2025-03-19 15:15:41,907 - INFO - Posted content successfully. Tweet ID: 1902378450528432614
