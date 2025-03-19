@@ -3090,3 +3090,10 @@ Too Many Requests
 2025-03-19 03:27:37,775 - INFO - Downloaded media from https://preview.redd.it/0zfdelffdkpe1.png?auto=webp&s=5ae3b5a7ce221033ab9bad2e5646c0d4eb16cc5b to temp_image.jpg
 2025-03-19 03:27:38,892 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-19 03:47:09,839 - INFO - Content: Welcome back
+Abay9vaoyva9yva9yvw9ycwu0v0ysv0ysv9ysv9ysv07vsu0bs body text
+2025-03-19 03:47:09,839 - INFO - Image Paths: ['https://preview.redd.it/uocp9ip2dipe1.jpeg?auto=webp&s=bce4fe7a8a1d356dffba534d976a11cc0e359347']
+2025-03-19 03:47:09,839 - INFO - Video Path: 
+2025-03-19 03:47:10,066 - INFO - Downloaded media from https://preview.redd.it/uocp9ip2dipe1.jpeg?auto=webp&s=bce4fe7a8a1d356dffba534d976a11cc0e359347 to temp_image.jpg
+2025-03-19 03:47:10,949 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
