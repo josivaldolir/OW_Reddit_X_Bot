@@ -3077,3 +3077,9 @@ Too Many Requests
 2025-03-19 01:08:04,014 - INFO - Downloaded media from https://v.redd.it/tfluuc1najpe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-19 01:08:04,351 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-19 01:08:16,560 - INFO - Posted content successfully. Tweet ID: 1902165189253849423
+2025-03-19 02:42:39,123 - INFO - Content: Welcome back, 2017 Roadhog !
+
+2025-03-19 02:42:39,123 - INFO - Image Paths: []
+2025-03-19 02:42:39,123 - INFO - Video Path: 
+2025-03-19 02:42:39,358 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
