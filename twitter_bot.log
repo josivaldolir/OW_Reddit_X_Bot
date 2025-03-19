@@ -3333,3 +3333,11 @@ I was buzzing to try 6v6 again in this new comp mode, but most of my games so fa
 2025-03-19 21:37:09,773 - INFO - Downloaded media from https://v.redd.it/wnfn4ty6rppe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-19 21:37:10,273 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-19 21:37:17,828 - INFO - Posted content successfully. Tweet ID: 1902474483002417652
+2025-03-19 22:15:32,626 - INFO - Content: I recreated how I think Cassidy's "Past Noon" perk should work using the Workshop
+
+2025-03-19 22:15:32,626 - INFO - Image Paths: ['https://external-preview.redd.it/bW04YW0zYWFncHBlMaGvuEiUXn1LR8T4-vjzBj7CFFbZyiv5smRzzUMRfcA3.png?format=pjpg&auto=webp&s=a5697f96df76adaf9db11980f3943afd1d80bffa']
+2025-03-19 22:15:32,626 - INFO - Video Path: https://v.redd.it/uap2u4aagppe1/DASH_1080.mp4?source=fallback
+2025-03-19 22:15:33,958 - INFO - Downloaded media from https://v.redd.it/uap2u4aagppe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-19 22:15:34,094 - INFO - Downloaded media from https://v.redd.it/uap2u4aagppe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-19 22:15:38,891 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-19 22:15:48,743 - INFO - Posted content successfully. Tweet ID: 1902484175539880181
