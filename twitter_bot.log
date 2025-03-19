@@ -3355,3 +3355,9 @@ I love this Colab
 2025-03-19 23:14:28,045 - INFO - Downloaded media from https://v.redd.it/oex5rch5fmpe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-19 23:14:28,564 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-19 23:14:39,964 - INFO - Posted content successfully. Tweet ID: 1902498986667217308
+2025-03-19 23:37:21,027 - INFO - Content: I LOVE BUBBLE
+
+2025-03-19 23:37:21,027 - INFO - Image Paths: ['https://preview.redd.it/slxaq3ub2qpe1.jpeg?auto=webp&s=42227f012bd7325f8140882d0a7d1c9a910beed9']
+2025-03-19 23:37:21,027 - INFO - Video Path: 
+2025-03-19 23:37:21,080 - INFO - Downloaded media from https://preview.redd.it/slxaq3ub2qpe1.jpeg?auto=webp&s=42227f012bd7325f8140882d0a7d1c9a910beed9 to temp_image.jpg
+2025-03-19 23:37:22,549 - INFO - Posted content successfully. Tweet ID: 1902504701293154687
