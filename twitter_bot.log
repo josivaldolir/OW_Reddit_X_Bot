@@ -3130,3 +3130,10 @@ Abay9vaoyva9yva9yvw9ycwu0v0ysv0ysv9ysv9ysv07vsu0bs body text
 2025-03-19 06:20:14,199 - INFO - Image Paths: []
 2025-03-19 06:20:14,199 - INFO - Video Path: 
 2025-03-19 06:20:14,488 - INFO - Posted content successfully. Tweet ID: 1902243698475188505
+2025-03-19 06:46:44,405 - INFO - Content: Free reward from event is the same as the last time
+That's underwhelming. Tbh they should add stan Hog to the pair. 
+2025-03-19 06:46:44,406 - INFO - Image Paths: ['https://preview.redd.it/hygsa92k4ipe1.png?width=864&format=png&auto=webp&s=f13803eb1bf8c1293eb7c87446f007c9d4261074', 'https://preview.redd.it/evdeu3t95ipe1.png?width=768&format=png&auto=webp&s=6fc8cf993fd52023e17b8e60ac7969143d4992ed']
+2025-03-19 06:46:44,406 - INFO - Video Path: 
+2025-03-19 06:46:44,799 - INFO - Downloaded media from https://preview.redd.it/hygsa92k4ipe1.png?width=864&format=png&auto=webp&s=f13803eb1bf8c1293eb7c87446f007c9d4261074 to temp_image.jpg
+2025-03-19 06:46:45,511 - INFO - Downloaded media from https://preview.redd.it/evdeu3t95ipe1.png?width=768&format=png&auto=webp&s=6fc8cf993fd52023e17b8e60ac7969143d4992ed to temp_image.jpg
+2025-03-19 06:46:46,606 - INFO - Posted content successfully. Tweet ID: 1902250375043854374
