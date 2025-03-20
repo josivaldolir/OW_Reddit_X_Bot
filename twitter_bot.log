@@ -3492,3 +3492,11 @@ I have like 1 hour on Lifeweaver on total
 2025-03-20 10:15:37,020 - INFO - Video Path: 
 2025-03-20 10:15:37,115 - INFO - Downloaded media from https://preview.redd.it/3mg05xmjetpe1.jpeg?auto=webp&s=2973ac6577648b04cabb6db5a427d8e1a6bc783f to temp_image.jpg
 2025-03-20 10:15:38,486 - INFO - Posted content successfully. Tweet ID: 1902665326057468200
+2025-03-20 10:42:28,071 - INFO - Content: Tank asked me to switch to Rein my least played tank and we won...And everyone got to see my embarrassing potg.....
+
+2025-03-20 10:42:28,071 - INFO - Image Paths: ['https://external-preview.redd.it/cng3OHB6NDB5c3BlMSWS3i1IePCQcW_vmxR71LClYuawUu2XL41V-2S6KiJY.png?format=pjpg&auto=webp&s=44b51f6eed14c6d1fc520945e9616f2b2bba097f']
+2025-03-20 10:42:28,071 - INFO - Video Path: https://v.redd.it/dt2ppz40yspe1/DASH_1080.mp4?source=fallback
+2025-03-20 10:42:29,201 - INFO - Downloaded media from https://v.redd.it/dt2ppz40yspe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-20 10:42:29,304 - INFO - Downloaded media from https://v.redd.it/dt2ppz40yspe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-20 10:42:29,593 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-20 10:42:39,116 - INFO - Posted content successfully. Tweet ID: 1902672123849855465
