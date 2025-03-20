@@ -3476,3 +3476,13 @@ Literally 2 days ago, I went on a loss streak so bad I dropped to 1 game from go
 2025-03-20 09:16:39,324 - INFO - Downloaded media from https://preview.redd.it/0vh76gpx0ppe1.jpg?width=4672&format=pjpg&auto=webp&s=0fb13527c345cca23ce5903115d78ee190563beb to temp_image.jpg
 2025-03-20 09:16:46,163 - ERROR - Failed to post content: 400 Bad Request
 Your media IDs are invalid.
+2025-03-20 09:39:23,130 - INFO - Content: My LESSERAFIM D.Va cosplay is done! by @8bitpink & shot by wk.tora
+
+2025-03-20 09:39:23,130 - INFO - Image Paths: ['https://preview.redd.it/ezs9j4nx0ppe1.jpg?width=4672&format=pjpg&auto=webp&s=e10e9498c3d2eb22fbf70afb4554f0e3a44a36e8', 'https://preview.redd.it/7fchnvnx0ppe1.jpg?width=4672&format=pjpg&auto=webp&s=a7de88c4281fab8bda4f936968c9cc1fdecf7c9f', 'https://preview.redd.it/ku6hzkpx0ppe1.jpg?width=4672&format=pjpg&auto=webp&s=72a2dbff9c361b5fc2b8e48fca3ff9b384c8d0c6', 'https://preview.redd.it/0vh76gpx0ppe1.jpg?width=4672&format=pjpg&auto=webp&s=0fb13527c345cca23ce5903115d78ee190563beb']
+2025-03-20 09:39:23,130 - INFO - Video Path: 
+2025-03-20 09:39:23,548 - INFO - Downloaded media from https://preview.redd.it/ezs9j4nx0ppe1.jpg?width=4672&format=pjpg&auto=webp&s=e10e9498c3d2eb22fbf70afb4554f0e3a44a36e8 to temp_image.jpg
+2025-03-20 09:39:31,256 - INFO - Downloaded media from https://preview.redd.it/7fchnvnx0ppe1.jpg?width=4672&format=pjpg&auto=webp&s=a7de88c4281fab8bda4f936968c9cc1fdecf7c9f to temp_image.jpg
+2025-03-20 09:39:34,942 - INFO - Downloaded media from https://preview.redd.it/ku6hzkpx0ppe1.jpg?width=4672&format=pjpg&auto=webp&s=72a2dbff9c361b5fc2b8e48fca3ff9b384c8d0c6 to temp_image.jpg
+2025-03-20 09:39:41,866 - INFO - Downloaded media from https://preview.redd.it/0vh76gpx0ppe1.jpg?width=4672&format=pjpg&auto=webp&s=0fb13527c345cca23ce5903115d78ee190563beb to temp_image.jpg
+2025-03-20 09:39:49,413 - ERROR - Failed to post content: 400 Bad Request
+Your media IDs are invalid.
