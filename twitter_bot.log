@@ -3695,3 +3695,10 @@ I hope we get it in the future with the perks being changed 🤞
 2025-03-20 22:39:02,620 - INFO - Downloaded media from https://preview.redd.it/s5j8idq5twpe1.jpeg?auto=webp&s=e6db58bb2f6da2b10b2ceceed2067eaaa9fbb8fb to temp_image.jpg
 2025-03-20 22:39:03,266 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-20 23:14:02,226 - INFO - Content: Zarya main till the day I die
+
+2025-03-20 23:14:02,226 - INFO - Image Paths: ['https://preview.redd.it/83hkbf2m4xpe1.jpeg?auto=webp&s=84948e98972dd05b97eb83d8a04e926eb6e15f1d']
+2025-03-20 23:14:02,226 - INFO - Video Path: 
+2025-03-20 23:14:02,507 - INFO - Downloaded media from https://preview.redd.it/83hkbf2m4xpe1.jpeg?auto=webp&s=84948e98972dd05b97eb83d8a04e926eb6e15f1d to temp_image.jpg
+2025-03-20 23:14:03,491 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
