@@ -3558,3 +3558,9 @@ I posted this cosplay here before but it was awhile ago and on my other account 
 2025-03-20 15:16:11,743 - INFO - Downloaded media from https://preview.redd.it/ijbbrdipuupe1.jpeg?auto=webp&s=223e12f6597ae4c61f8c2271b9b0d8259b715b28 to temp_image.jpg
 2025-03-20 15:16:12,571 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-20 15:40:32,162 - INFO - Content: Ashe’s cat ears on her kpop skin prompted me to make this
+
+2025-03-20 15:40:32,162 - INFO - Image Paths: ['https://preview.redd.it/ijbbrdipuupe1.jpeg?auto=webp&s=223e12f6597ae4c61f8c2271b9b0d8259b715b28']
+2025-03-20 15:40:32,162 - INFO - Video Path: 
+2025-03-20 15:40:32,218 - INFO - Downloaded media from https://preview.redd.it/ijbbrdipuupe1.jpeg?auto=webp&s=223e12f6597ae4c61f8c2271b9b0d8259b715b28 to temp_image.jpg
+2025-03-20 15:40:33,329 - INFO - Posted content successfully. Tweet ID: 1902747093648965826
