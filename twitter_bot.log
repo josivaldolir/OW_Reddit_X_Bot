@@ -3388,3 +3388,15 @@ I went 50-38 in quickplay and still got this
 2025-03-20 03:47:43,471 - INFO - Downloaded media from https://preview.redd.it/uuuow1yohqpe1.jpeg?auto=webp&s=23d3c9fcef1d95440619c2e2d6cad433fbf16ca6 to temp_image.jpg
 2025-03-20 03:47:44,275 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-20 04:18:36,941 - INFO - Content: (I'm the Torb) I was trying to get my Juno ult charge. I didn't see that there were two mines...
+In my defense those bombs were literally inside one another, from my POV it was only one bomb.
+
+Lesson learned: being a good teammate gets you killed
+
+The "goodbye" as well... why
+2025-03-20 04:18:36,941 - INFO - Image Paths: ['https://external-preview.redd.it/d29xbm13YzE4cnBlMV401wm85WQ5UpSGIWwZufqQ5v3Aje6Hbe9uLCfluk7w.png?format=pjpg&auto=webp&s=b50c265baf0f790d31d564db4ff1db131dc01382']
+2025-03-20 04:18:36,941 - INFO - Video Path: https://v.redd.it/d7jpjnh18rpe1/DASH_1080.mp4?source=fallback
+2025-03-20 04:18:37,233 - INFO - Downloaded media from https://v.redd.it/d7jpjnh18rpe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-20 04:18:37,354 - INFO - Downloaded media from https://v.redd.it/d7jpjnh18rpe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-20 04:18:40,701 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-20 04:18:50,397 - INFO - Posted content successfully. Tweet ID: 1902575534401257864
