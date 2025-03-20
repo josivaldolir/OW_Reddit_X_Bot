@@ -3593,3 +3593,12 @@ So, I joined this game because someone left. I noticed the game had been going o
 2025-03-20 17:38:26,736 - INFO - Video Path: 
 2025-03-20 17:38:26,865 - INFO - Downloaded media from https://preview.redd.it/y3p9e1pckvpe1.png?auto=webp&s=2fef2d614b18fdeb6bfeec64d933ac9c8470ad2f to temp_image.jpg
 2025-03-20 17:38:28,668 - INFO - Posted content successfully. Tweet ID: 1902776766764290174
+2025-03-20 18:20:59,905 - INFO - Content: That's a lot of Emre right there (Freja Storytime/Origin Story Comic)
+
+2025-03-20 18:20:59,905 - INFO - Image Paths: ['https://preview.redd.it/w0gwvol6hvpe1.jpg?width=1882&format=pjpg&auto=webp&s=53b51ebdca82b42a3d6256e14c4f086997c0b15a', 'https://preview.redd.it/jah1y3o6hvpe1.jpg?width=1920&format=pjpg&auto=webp&s=9283ae6b2412fec5128ec332f18e76f861fedd28', 'https://preview.redd.it/7y6your6hvpe1.jpg?width=1920&format=pjpg&auto=webp&s=39fbb27bb20e8fb00d3e9170caa5d472edf7c291', 'https://preview.redd.it/mb44c7u6hvpe1.jpg?width=1920&format=pjpg&auto=webp&s=9752205981aca00197e93fd7cc1997a7038daf3b']
+2025-03-20 18:20:59,906 - INFO - Video Path: 
+2025-03-20 18:21:00,256 - INFO - Downloaded media from https://preview.redd.it/w0gwvol6hvpe1.jpg?width=1882&format=pjpg&auto=webp&s=53b51ebdca82b42a3d6256e14c4f086997c0b15a to temp_image.jpg
+2025-03-20 18:21:01,335 - INFO - Downloaded media from https://preview.redd.it/jah1y3o6hvpe1.jpg?width=1920&format=pjpg&auto=webp&s=9283ae6b2412fec5128ec332f18e76f861fedd28 to temp_image.jpg
+2025-03-20 18:21:02,290 - INFO - Downloaded media from https://preview.redd.it/7y6your6hvpe1.jpg?width=1920&format=pjpg&auto=webp&s=39fbb27bb20e8fb00d3e9170caa5d472edf7c291 to temp_image.jpg
+2025-03-20 18:21:03,770 - INFO - Downloaded media from https://preview.redd.it/mb44c7u6hvpe1.jpg?width=1920&format=pjpg&auto=webp&s=9752205981aca00197e93fd7cc1997a7038daf3b to temp_image.jpg
+2025-03-20 18:21:05,422 - INFO - Posted content successfully. Tweet ID: 1902787493025468732
