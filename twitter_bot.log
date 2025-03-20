@@ -3579,3 +3579,11 @@ From the new comic.
 2025-03-20 16:45:28,960 - INFO - Video Path: 
 2025-03-20 16:45:29,030 - INFO - Downloaded media from https://preview.redd.it/pdhobuijevpe1.jpeg?auto=webp&s=d508e23e05350123e231bdf25612eace000b3023 to temp_image.jpg
 2025-03-20 16:45:30,333 - INFO - Posted content successfully. Tweet ID: 1902763437765300723
+2025-03-20 17:14:53,847 - INFO - Content: People sabotaging Quick Play by Roleplaying
+So, I joined this game because someone left. I noticed the game had been going on for 30+ minutes, I wanted to finish it since I'm playing QP not for Role-Playing in quick play. They hated me for trying to end the match. What do you think of this? Should I have left the game, giving myself a penalty for leaving, or are they wrong? Ps. I told them to go play experiment instead
+2025-03-20 17:14:53,847 - INFO - Image Paths: ['https://external-preview.redd.it/aXpsZmJlYm8zdnBlMeVPn-xl5brZqNOIIMe8YfDHbkREpcnXam-XOzfAi-Jn.png?format=pjpg&auto=webp&s=ee6afb457eade4a5d19dd751c8730a647e4f68a7']
+2025-03-20 17:14:53,847 - INFO - Video Path: https://v.redd.it/y30erhbo3vpe1/DASH_480.mp4?source=fallback
+2025-03-20 17:14:54,075 - INFO - Downloaded media from https://v.redd.it/y30erhbo3vpe1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-03-20 17:14:54,117 - INFO - Downloaded media from https://v.redd.it/y30erhbo3vpe1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-03-20 17:14:59,426 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-20 17:15:11,833 - INFO - Posted content successfully. Tweet ID: 1902770911041740872
