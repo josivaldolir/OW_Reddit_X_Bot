@@ -3460,3 +3460,9 @@ Literally 2 days ago, I went on a loss streak so bad I dropped to 1 game from go
 2025-03-20 08:20:57,492 - INFO - Downloaded media from https://v.redd.it/5wds2f4usspe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-20 08:21:04,104 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-20 08:21:14,211 - INFO - Posted content successfully. Tweet ID: 1902636535721120125
+2025-03-20 08:43:08,502 - INFO - Content: Illari can’t dance the depression away 😔
+
+2025-03-20 08:43:08,502 - INFO - Image Paths: ['https://preview.redd.it/7c05knvetspe1.jpeg?auto=webp&s=e4f904c613021953f121dd1918cd64e2964d3187']
+2025-03-20 08:43:08,502 - INFO - Video Path: 
+2025-03-20 08:43:08,662 - INFO - Downloaded media from https://preview.redd.it/7c05knvetspe1.jpeg?auto=webp&s=e4f904c613021953f121dd1918cd64e2964d3187 to temp_image.jpg
+2025-03-20 08:43:09,669 - INFO - Posted content successfully. Tweet ID: 1902642052736631009
