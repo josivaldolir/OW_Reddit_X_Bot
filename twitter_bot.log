@@ -3618,3 +3618,9 @@ In Denmark we use a period symbol to show numbers like one-hundred-thousand and 
 2025-03-20 19:11:49,421 - INFO - Video Path: 
 2025-03-20 19:11:49,566 - INFO - Downloaded media from https://external-preview.redd.it/IyVMR6VEXf_TsCs4qB141CGdH8y-GZxqH41u7lLK3-E.jpg?auto=webp&s=5df38cdfe0f21e1e48459f16b672b003c2e94ae2 to temp_image.jpg
 2025-03-20 19:11:50,537 - INFO - Posted content successfully. Tweet ID: 1902800265327284659
+2025-03-20 19:36:34,030 - INFO - Content: can't believe she invented sparkling water
+this is so dumb
+2025-03-20 19:36:34,030 - INFO - Image Paths: ['https://preview.redd.it/5ydzshroqvpe1.png?auto=webp&s=dfae814db1954265b39b0f669d26b8dff172e3cd']
+2025-03-20 19:36:34,030 - INFO - Video Path: 
+2025-03-20 19:36:34,058 - INFO - Downloaded media from https://preview.redd.it/5ydzshroqvpe1.png?auto=webp&s=dfae814db1954265b39b0f669d26b8dff172e3cd to temp_image.jpg
+2025-03-20 19:36:35,518 - INFO - Posted content successfully. Tweet ID: 1902806493356835198
