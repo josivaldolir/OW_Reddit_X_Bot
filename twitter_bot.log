@@ -3543,3 +3543,11 @@ I posted this cosplay here before but it was awhile ago and on my other account 
 2025-03-20 14:14:44,211 - INFO - Downloaded media from https://preview.redd.it/8dxj8ujn4upe1.jpg?width=1170&format=pjpg&auto=webp&s=5ac54f4190e7f291fdbb06dc93b10dcca5c8bf05 to temp_image.jpg
 2025-03-20 14:14:45,140 - INFO - Downloaded media from https://preview.redd.it/7adhbwjn4upe1.jpg?width=1170&format=pjpg&auto=webp&s=3fc42d3ab12d929a9b9e480fa5adef36e11e40ad to temp_image.jpg
 2025-03-20 14:14:46,084 - INFO - Posted content successfully. Tweet ID: 1902725504240845196
+2025-03-20 14:47:29,058 - INFO - Content: Haha never had this happen before
+
+2025-03-20 14:47:29,058 - INFO - Image Paths: ['https://external-preview.redd.it/emJvM2o1ZGdidXBlMWplVb1PUeDsvZwIyEBAU4SFqpL9Og3JYme232fCCmaJ.png?format=pjpg&auto=webp&s=529b7dd55c497b33c5c07c7cc89942c017cfbcaf']
+2025-03-20 14:47:29,058 - INFO - Video Path: https://v.redd.it/ohaig7qgbupe1/DASH_1080.mp4?source=fallback
+2025-03-20 14:47:29,981 - INFO - Downloaded media from https://v.redd.it/ohaig7qgbupe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-20 14:47:30,016 - INFO - Downloaded media from https://v.redd.it/ohaig7qgbupe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-20 14:47:45,143 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-20 14:47:53,346 - INFO - Posted content successfully. Tweet ID: 1902733839836869065
