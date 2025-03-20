@@ -3431,3 +3431,11 @@ I can't even imagine Ashe doing any of those dances or dressing that way. Mei on
 2025-03-20 06:21:13,877 - INFO - Video Path: 
 2025-03-20 06:21:14,032 - INFO - Downloaded media from https://preview.redd.it/iwqiyepchrpe1.gif?format=png8&s=8608863744c10b798ae10b3fb49fc0794d1f611e to temp_image.jpg
 2025-03-20 06:21:15,303 - INFO - Posted content successfully. Tweet ID: 1902606339781595397
+2025-03-20 06:49:03,211 - INFO - Content: If you never got outplayed by a lifeweaver, dont worry, it will happen to you eventually
+
+2025-03-20 06:49:03,211 - INFO - Image Paths: ['https://external-preview.redd.it/eXlnbjE3cXQ5cnBlMW1J8HR4_RqVk7M_CwA2JGcSEoEUvO4ULRJYxEO55JkH.png?format=pjpg&auto=webp&s=96ee60a07913b8df5cc6d0775639aa158033ace6']
+2025-03-20 06:49:03,211 - INFO - Video Path: https://v.redd.it/hj4xllst9rpe1/DASH_720.mp4?source=fallback
+2025-03-20 06:49:03,804 - INFO - Downloaded media from https://v.redd.it/hj4xllst9rpe1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-03-20 06:49:04,049 - INFO - Downloaded media from https://v.redd.it/hj4xllst9rpe1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-03-20 06:49:17,895 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-20 06:49:24,385 - INFO - Posted content successfully. Tweet ID: 1902613425496146250
