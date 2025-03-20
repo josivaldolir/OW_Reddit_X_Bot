@@ -3573,3 +3573,9 @@ So, I joined this game because someone left. I noticed the game had been going o
 2025-03-20 16:18:55,035 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-20 16:19:01,283 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-20 16:45:28,960 - INFO - Content: Smol Freja
+From the new comic.
+2025-03-20 16:45:28,960 - INFO - Image Paths: ['https://preview.redd.it/pdhobuijevpe1.jpeg?auto=webp&s=d508e23e05350123e231bdf25612eace000b3023']
+2025-03-20 16:45:28,960 - INFO - Video Path: 
+2025-03-20 16:45:29,030 - INFO - Downloaded media from https://preview.redd.it/pdhobuijevpe1.jpeg?auto=webp&s=d508e23e05350123e231bdf25612eace000b3023 to temp_image.jpg
+2025-03-20 16:45:30,333 - INFO - Posted content successfully. Tweet ID: 1902763437765300723
