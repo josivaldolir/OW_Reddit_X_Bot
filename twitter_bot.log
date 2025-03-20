@@ -3677,3 +3677,11 @@ Too Many Requests
 2025-03-20 21:36:14,004 - INFO - Downloaded media from https://v.redd.it/loya9dql8wpe1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-03-20 21:36:14,704 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-20 21:36:22,575 - INFO - Posted content successfully. Tweet ID: 1902836639061155986
+2025-03-20 22:13:37,493 - INFO - Content: Was I really throwing or was this team just overly toxic?
+This was in QP. I'm trying to get better with various heroes, but it's scenarios like this that make me go back into my comfort zone. 
+2025-03-20 22:13:37,493 - INFO - Image Paths: ['https://preview.redd.it/btub5spviwpe1.png?width=419&format=png&auto=webp&s=0e5be01772d1100964e947ac1d7623119a955784', 'https://preview.redd.it/5myvbwrwiwpe1.png?width=518&format=png&auto=webp&s=8caa87b2b952a6801f815cde2c64cf53ee581693', 'https://preview.redd.it/pjfsdfj1jwpe1.png?width=2560&format=png&auto=webp&s=a37048946bac4b5f1c6e3e59e67d10ea4f46ea5e']
+2025-03-20 22:13:37,493 - INFO - Video Path: 
+2025-03-20 22:13:37,573 - INFO - Downloaded media from https://preview.redd.it/btub5spviwpe1.png?width=419&format=png&auto=webp&s=0e5be01772d1100964e947ac1d7623119a955784 to temp_image.jpg
+2025-03-20 22:13:38,107 - INFO - Downloaded media from https://preview.redd.it/5myvbwrwiwpe1.png?width=518&format=png&auto=webp&s=8caa87b2b952a6801f815cde2c64cf53ee581693 to temp_image.jpg
+2025-03-20 22:13:38,733 - INFO - Downloaded media from https://preview.redd.it/pjfsdfj1jwpe1.png?width=2560&format=png&auto=webp&s=a37048946bac4b5f1c6e3e59e67d10ea4f46ea5e to temp_image.jpg
+2025-03-20 22:13:42,037 - INFO - Posted content successfully. Tweet ID: 1902846024718090632
