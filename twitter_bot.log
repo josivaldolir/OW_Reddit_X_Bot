@@ -3381,3 +3381,10 @@ I went 50-38 in quickplay and still got this
 2025-03-20 03:25:31,499 - INFO - Video Path: 
 2025-03-20 03:25:31,608 - INFO - Downloaded media from https://preview.redd.it/tr65i3spfppe1.png?auto=webp&s=d2f171fa1032ae28f19b06b31defbb9cd52ae9fa to temp_image.jpg
 2025-03-20 03:25:33,348 - INFO - Posted content successfully. Tweet ID: 1902562123194019882
+2025-03-20 03:47:43,264 - INFO - Content: 25 % aint enough
+
+2025-03-20 03:47:43,264 - INFO - Image Paths: ['https://preview.redd.it/uuuow1yohqpe1.jpeg?auto=webp&s=23d3c9fcef1d95440619c2e2d6cad433fbf16ca6']
+2025-03-20 03:47:43,264 - INFO - Video Path: 
+2025-03-20 03:47:43,471 - INFO - Downloaded media from https://preview.redd.it/uuuow1yohqpe1.jpeg?auto=webp&s=23d3c9fcef1d95440619c2e2d6cad433fbf16ca6 to temp_image.jpg
+2025-03-20 03:47:44,275 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
