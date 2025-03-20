@@ -3452,3 +3452,11 @@ Literally 2 days ago, I went on a loss streak so bad I dropped to 1 game from go
 2025-03-20 07:35:24,423 - INFO - Video Path: 
 2025-03-20 07:35:24,574 - INFO - Downloaded media from https://preview.redd.it/f5wz4fx6xqpe1.jpeg?auto=webp&s=371066f6c85a36a2763ab913112528362458c4c2 to temp_image.jpg
 2025-03-20 07:35:26,217 - INFO - Posted content successfully. Tweet ID: 1902625008859676829
+2025-03-20 08:20:56,299 - INFO - Content: Absolutely INSANE LW pull, I have no idea how the Ashe didn’t die before I got her 😭
+
+2025-03-20 08:20:56,299 - INFO - Image Paths: ['https://external-preview.redd.it/cmNzYWZqdXRzc3BlMfTnXD4RfYBQIFo_PWeyoH-NUcPJKcGXxzQE6ILiHHWG.png?format=pjpg&auto=webp&s=567422446dd56bf9eb8aa6499a9d21393c03d308']
+2025-03-20 08:20:56,299 - INFO - Video Path: https://v.redd.it/5wds2f4usspe1/DASH_1080.mp4?source=fallback
+2025-03-20 08:20:57,437 - INFO - Downloaded media from https://v.redd.it/5wds2f4usspe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-20 08:20:57,492 - INFO - Downloaded media from https://v.redd.it/5wds2f4usspe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-20 08:21:04,104 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-20 08:21:14,211 - INFO - Posted content successfully. Tweet ID: 1902636535721120125
