@@ -3513,3 +3513,9 @@ When it's 1 tank and any other variation. You lose. They put a cap on tanks for 
 2025-03-20 11:36:00,160 - INFO - Downloaded media from https://v.redd.it/se3njzifktpe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-20 11:36:00,832 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-20 11:36:18,518 - INFO - Posted content successfully. Tweet ID: 1902685626924990591
+2025-03-20 12:28:47,625 - INFO - Content: Coincidence? I think not!
+
+2025-03-20 12:28:47,625 - INFO - Image Paths: ['https://preview.redd.it/04epkmvv4upe1.png?auto=webp&s=c61005722320e73e89ffab2289ef6f379ce4d881']
+2025-03-20 12:28:47,625 - INFO - Video Path: 
+2025-03-20 12:28:47,750 - INFO - Downloaded media from https://preview.redd.it/04epkmvv4upe1.png?auto=webp&s=c61005722320e73e89ffab2289ef6f379ce4d881 to temp_image.jpg
+2025-03-20 12:28:49,134 - INFO - Posted content successfully. Tweet ID: 1902698840727445733
