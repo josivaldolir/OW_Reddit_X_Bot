@@ -4024,3 +4024,9 @@ Too Many Requests
 2025-03-21 22:38:50,940 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-21 22:38:58,759 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-21 23:13:16,114 - INFO - Content: And Monday is Moira's day
+
+2025-03-21 23:13:16,114 - INFO - Image Paths: ['https://preview.redd.it/mzukn8jx44qe1.jpeg?auto=webp&s=2a086137360ba36b09b029259c3989b33c1a3647']
+2025-03-21 23:13:16,114 - INFO - Video Path: 
+2025-03-21 23:13:16,469 - INFO - Downloaded media from https://preview.redd.it/mzukn8jx44qe1.jpeg?auto=webp&s=2a086137360ba36b09b029259c3989b33c1a3647 to temp_image.jpg
+2025-03-21 23:13:17,530 - INFO - Posted content successfully. Tweet ID: 1903223416225747300
