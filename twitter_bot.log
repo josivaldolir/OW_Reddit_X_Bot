@@ -3876,3 +3876,12 @@ Too Many Requests
 2025-03-21 13:01:55,765 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-21 13:03:18,457 - ERROR - Failed to post content: 400 Bad Request
 Your media IDs are invalid.
+2025-03-21 13:41:23,291 - INFO - Content: Impractical Zen rollouts pt 1
+
+2025-03-21 13:41:23,291 - INFO - Image Paths: ['https://external-preview.redd.it/ZHg4MzR4OGp0enBlMVWKYQBuvvo3UKaM3vaMXxU5bGbij0tFz-dUj8tPu4an.png?format=pjpg&auto=webp&s=03215a39379739a63f3bc2d533a553367d6b4851']
+2025-03-21 13:41:23,291 - INFO - Video Path: https://v.redd.it/e12hb5tgtzpe1/DASH_1080.mp4?source=fallback
+2025-03-21 13:41:34,163 - INFO - Downloaded media from https://v.redd.it/e12hb5tgtzpe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-21 13:41:34,804 - INFO - Downloaded media from https://v.redd.it/e12hb5tgtzpe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-21 13:41:35,217 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-21 13:42:24,308 - ERROR - Failed to post content: 400 Bad Request
+Your media IDs are invalid.
