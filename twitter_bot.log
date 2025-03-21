@@ -3761,3 +3761,11 @@ Too Many Requests
 2025-03-21 05:14:02,853 - INFO - Video Path: 
 2025-03-21 05:14:02,935 - INFO - Downloaded media from https://preview.redd.it/atmgbd9tkxpe1.png?auto=webp&s=1e4652f8ce304a488308cf596923c875750fd634 to temp_image.jpg
 2025-03-21 05:14:04,342 - INFO - Posted content successfully. Tweet ID: 1902951821838258350
+2025-03-21 05:38:44,096 - INFO - Content: Play of the game jumpscare glitch
+
+2025-03-21 05:38:44,096 - INFO - Image Paths: ['https://external-preview.redd.it/NjUzbXNwcGk1eHBlMdUW1WJkTedhMul9Oa-KLEq0I43vFiVr9bF5wnAMgY_I.png?format=pjpg&auto=webp&s=1eee6c3a2be3f74bdc31e7aaa720f5903158a144']
+2025-03-21 05:38:44,096 - INFO - Video Path: https://v.redd.it/td3f9ppi5xpe1/DASH_720.mp4?source=fallback
+2025-03-21 05:38:44,255 - INFO - Downloaded media from https://v.redd.it/td3f9ppi5xpe1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-03-21 05:38:44,272 - INFO - Downloaded media from https://v.redd.it/td3f9ppi5xpe1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-03-21 05:38:45,501 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-21 05:38:50,279 - INFO - Posted content successfully. Tweet ID: 1902958054053908881
