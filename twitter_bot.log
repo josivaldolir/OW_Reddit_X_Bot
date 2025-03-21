@@ -3894,3 +3894,10 @@ Your media IDs are invalid.
 2025-03-21 14:13:38,253 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-21 14:13:41,831 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-21 14:39:50,531 - INFO - Content: do Gamer Gremlins count as pets?
+
+2025-03-21 14:39:50,531 - INFO - Image Paths: ['https://preview.redd.it/0g1bmwugw1qe1.png?auto=webp&s=4886454d23a4aae3861d21c23bdd468d8d4ccbe9']
+2025-03-21 14:39:50,531 - INFO - Video Path: 
+2025-03-21 14:39:50,835 - INFO - Downloaded media from https://preview.redd.it/0g1bmwugw1qe1.png?auto=webp&s=4886454d23a4aae3861d21c23bdd468d8d4ccbe9 to temp_image.jpg
+2025-03-21 14:39:51,727 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
