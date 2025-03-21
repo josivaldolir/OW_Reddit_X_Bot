@@ -3814,3 +3814,11 @@ After six months I have reached diamond! 😭 feels like just yesterday I starte
 2025-03-21 08:43:28,643 - INFO - Video Path: 
 2025-03-21 08:43:28,674 - INFO - Downloaded media from https://preview.redd.it/et2da1kgvwpe1.jpeg?auto=webp&s=2c226ba7a82ca7394d623a5ef46b064dccb99d9c to temp_image.jpg
 2025-03-21 08:43:30,152 - INFO - Posted content successfully. Tweet ID: 1903004525792829874
+2025-03-21 09:15:28,690 - INFO - Content: I'm never playing Wifeleaver again.
+
+2025-03-21 09:15:28,690 - INFO - Image Paths: ['https://external-preview.redd.it/cXlpZTk0eDlid3BlMQM2VhCpb4QKPBXpZjl1TvKQscUwnLAOKzZS2gE5Uyl1.png?format=pjpg&auto=webp&s=3bb3f144e843ef5ded6a0692b21ef4e3308a6eae']
+2025-03-21 09:15:28,690 - INFO - Video Path: https://v.redd.it/bnwkj4x9bwpe1/DASH_1080.mp4?source=fallback
+2025-03-21 09:15:29,229 - INFO - Downloaded media from https://v.redd.it/bnwkj4x9bwpe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-21 09:15:29,498 - INFO - Downloaded media from https://v.redd.it/bnwkj4x9bwpe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-21 09:15:30,280 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-21 09:15:40,808 - INFO - Posted content successfully. Tweet ID: 1903012624637284737
