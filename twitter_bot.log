@@ -3938,3 +3938,9 @@ Your media IDs are invalid.
 2025-03-21 17:12:59,514 - INFO - Downloaded media from https://preview.redd.it/w7i029phc2qe1.jpeg?auto=webp&s=733c6c3fbf429c47e8885e495098fdb27f5a45e8 to temp_image.jpg
 2025-03-21 17:13:00,575 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-21 17:37:53,064 - INFO - Content: Happy in concept art, still the same edgelord Illari and gruff Ashe in game
+
+2025-03-21 17:37:53,065 - INFO - Image Paths: ['https://preview.redd.it/w7i029phc2qe1.jpeg?auto=webp&s=733c6c3fbf429c47e8885e495098fdb27f5a45e8']
+2025-03-21 17:37:53,065 - INFO - Video Path: 
+2025-03-21 17:37:53,115 - INFO - Downloaded media from https://preview.redd.it/w7i029phc2qe1.jpeg?auto=webp&s=733c6c3fbf429c47e8885e495098fdb27f5a45e8 to temp_image.jpg
+2025-03-21 17:37:54,769 - INFO - Posted content successfully. Tweet ID: 1903139015127339104
