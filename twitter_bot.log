@@ -3925,3 +3925,9 @@ Your media IDs are invalid.
 2025-03-21 16:18:34,237 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-21 16:19:28,352 - ERROR - Failed to post content: 400 Bad Request
 Your media IDs are invalid.
+2025-03-21 16:45:22,158 - INFO - Content: I nEeD hEaLiNg!
+
+2025-03-21 16:45:22,158 - INFO - Image Paths: ['https://preview.redd.it/4wis1oibg2qe1.jpeg?auto=webp&s=19a3028a2012ff7c04acc87ba8a828e028d647cc']
+2025-03-21 16:45:22,158 - INFO - Video Path: 
+2025-03-21 16:45:22,207 - INFO - Downloaded media from https://preview.redd.it/4wis1oibg2qe1.jpeg?auto=webp&s=19a3028a2012ff7c04acc87ba8a828e028d647cc to temp_image.jpg
+2025-03-21 16:45:23,539 - INFO - Posted content successfully. Tweet ID: 1903125797143290177
