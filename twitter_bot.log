@@ -3843,3 +3843,9 @@ I hate when I choose the wrong perk, and it should let me immediately switch to 
 2025-03-21 10:41:24,518 - INFO - Image Paths: []
 2025-03-21 10:41:24,518 - INFO - Video Path: 
 2025-03-21 10:41:24,891 - INFO - Posted content successfully. Tweet ID: 1903034200590021077
+2025-03-21 11:12:27,058 - INFO - Content: Who is the brown one?
+
+2025-03-21 11:12:27,058 - INFO - Image Paths: ['https://preview.redd.it/aety0v3xd0qe1.png?auto=webp&s=a1ebb4ee1c61344e2154bf2e9deff610c9e98fc9']
+2025-03-21 11:12:27,058 - INFO - Video Path: 
+2025-03-21 11:12:27,426 - INFO - Downloaded media from https://preview.redd.it/aety0v3xd0qe1.png?auto=webp&s=a1ebb4ee1c61344e2154bf2e9deff610c9e98fc9 to temp_image.jpg
+2025-03-21 11:12:29,785 - INFO - Posted content successfully. Tweet ID: 1903042017313116585
