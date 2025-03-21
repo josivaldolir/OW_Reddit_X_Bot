@@ -3885,3 +3885,12 @@ Your media IDs are invalid.
 2025-03-21 13:41:35,217 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-21 13:42:24,308 - ERROR - Failed to post content: 400 Bad Request
 Your media IDs are invalid.
+2025-03-21 14:13:37,284 - INFO - Content: I must ponder my choice with a great deal of thinking.
+
+2025-03-21 14:13:37,285 - INFO - Image Paths: ['https://external-preview.redd.it/bzIydnpiZ2puMXFlMdmAKZKOFfRiGS1Ume8kd5sv-JkO9IqtjqUSQG5VW0wd.png?format=pjpg&auto=webp&s=c9189d397b02d8ff5a94ad3265f35d356891229c']
+2025-03-21 14:13:37,285 - INFO - Video Path: https://v.redd.it/4x77qxpjn1qe1/DASH_480.mp4?source=fallback
+2025-03-21 14:13:37,743 - INFO - Downloaded media from https://v.redd.it/4x77qxpjn1qe1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-03-21 14:13:38,014 - INFO - Downloaded media from https://v.redd.it/4x77qxpjn1qe1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-03-21 14:13:38,253 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-21 14:13:41,831 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
