@@ -3755,3 +3755,9 @@ Too Many Requests
 2025-03-21 04:41:42,405 - INFO - Video Path: 
 2025-03-21 04:41:42,463 - INFO - Downloaded media from https://preview.redd.it/83hkbf2m4xpe1.jpeg?auto=webp&s=84948e98972dd05b97eb83d8a04e926eb6e15f1d to temp_image.jpg
 2025-03-21 04:41:43,624 - INFO - Posted content successfully. Tweet ID: 1902943681201799498
+2025-03-21 05:14:02,852 - INFO - Content: It always will be the healbotting ones
+
+2025-03-21 05:14:02,853 - INFO - Image Paths: ['https://preview.redd.it/atmgbd9tkxpe1.png?auto=webp&s=1e4652f8ce304a488308cf596923c875750fd634']
+2025-03-21 05:14:02,853 - INFO - Video Path: 
+2025-03-21 05:14:02,935 - INFO - Downloaded media from https://preview.redd.it/atmgbd9tkxpe1.png?auto=webp&s=1e4652f8ce304a488308cf596923c875750fd634 to temp_image.jpg
+2025-03-21 05:14:04,342 - INFO - Posted content successfully. Tweet ID: 1902951821838258350
