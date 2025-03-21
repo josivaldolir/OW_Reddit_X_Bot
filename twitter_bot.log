@@ -4030,3 +4030,9 @@ Too Many Requests
 2025-03-21 23:13:16,114 - INFO - Video Path: 
 2025-03-21 23:13:16,469 - INFO - Downloaded media from https://preview.redd.it/mzukn8jx44qe1.jpeg?auto=webp&s=2a086137360ba36b09b029259c3989b33c1a3647 to temp_image.jpg
 2025-03-21 23:13:17,530 - INFO - Posted content successfully. Tweet ID: 1903223416225747300
+2025-03-21 23:35:36,827 - INFO - Content: What really happened
+
+2025-03-21 23:35:36,827 - INFO - Image Paths: ['https://preview.redd.it/1oq2pi8eh4qe1.jpeg?auto=webp&s=6543ae7628de9e68478dd960125ae39974c4b2c6']
+2025-03-21 23:35:36,827 - INFO - Video Path: 
+2025-03-21 23:35:37,115 - INFO - Downloaded media from https://preview.redd.it/1oq2pi8eh4qe1.jpeg?auto=webp&s=6543ae7628de9e68478dd960125ae39974c4b2c6 to temp_image.jpg
+2025-03-21 23:35:38,332 - INFO - Posted content successfully. Tweet ID: 1903229039881466232
