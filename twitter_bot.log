@@ -3950,3 +3950,12 @@ Too Many Requests
 2025-03-21 18:19:28,653 - INFO - Video Path: 
 2025-03-21 18:19:28,805 - INFO - Downloaded media from https://external-preview.redd.it/M4mY_Qs3_wupFhtLe4cXToVliCKbYxrWU8SEFY0RYPc.jpg?auto=webp&s=ba7a52d564b7e4e6f9b23f1358c1cc12a24e2261 to temp_image.jpg
 2025-03-21 18:19:30,150 - INFO - Posted content successfully. Tweet ID: 1903149481866203326
+2025-03-21 18:44:39,186 - INFO - Content: Secure the point with Mercy, then escort the payload to the end WITHOUT dying.
+
+2025-03-21 18:44:39,186 - INFO - Image Paths: ['https://external-preview.redd.it/NGZvMW94N2JrMXFlMSwXenL-HxICXcINI8INyTMBPfbMv0haibGF9SDJ3ral.png?format=pjpg&auto=webp&s=b005b76fca0ded8b6a8666073926988ed2ee7414']
+2025-03-21 18:44:39,186 - INFO - Video Path: https://v.redd.it/y1qjx88bk1qe1/DASH_1080.mp4?source=fallback
+2025-03-21 18:44:40,417 - INFO - Downloaded media from https://v.redd.it/y1qjx88bk1qe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-21 18:44:41,049 - INFO - Downloaded media from https://v.redd.it/y1qjx88bk1qe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-21 18:44:41,781 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-21 18:45:13,863 - ERROR - Failed to post content: 400 Bad Request
+Your media IDs are invalid.
