@@ -4272,3 +4272,9 @@ Need some advice! Everyone keeps telling me that PC is the optimal way to play O
 2025-03-22 18:41:39,347 - INFO - Downloaded media from https://v.redd.it/70f1kvjm2aqe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-22 18:41:39,765 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-22 18:41:47,796 - INFO - Posted content successfully. Tweet ID: 1903517480284553426
+2025-03-22 19:11:07,027 - INFO - Content: You look like you are from the Westerns my father brought to Mars 🤓
+
+2025-03-22 19:11:07,028 - INFO - Image Paths: ['https://preview.redd.it/fh9g4qywgaqe1.png?auto=webp&s=c8889b084213e70b12a28bc7b7e8ad04dde75320']
+2025-03-22 19:11:07,028 - INFO - Video Path: 
+2025-03-22 19:11:07,194 - INFO - Downloaded media from https://preview.redd.it/fh9g4qywgaqe1.png?auto=webp&s=c8889b084213e70b12a28bc7b7e8ad04dde75320 to temp_image.jpg
+2025-03-22 19:11:08,921 - INFO - Posted content successfully. Tweet ID: 1903524865711263866
