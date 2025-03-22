@@ -4199,3 +4199,11 @@ I can't even play Sojourn properly and I'm winning games by switching to her, de
 2025-03-22 13:18:37,600 - INFO - Image Paths: []
 2025-03-22 13:18:37,600 - INFO - Video Path: 
 2025-03-22 13:18:37,928 - INFO - Posted content successfully. Tweet ID: 1903436153447133463
+2025-03-22 13:35:59,814 - INFO - Content: Zen can do crazy rollouts now
+
+2025-03-22 13:35:59,814 - INFO - Image Paths: ['https://external-preview.redd.it/YmpscWMyZW9oNHFlMVF5sKyCs-IWXG51CIQPKNYCMB6GC2B0Ug_lxdrMM4KV.png?format=pjpg&auto=webp&s=38dde634b7ee0585779927b9cbed4489934fbdaf']
+2025-03-22 13:35:59,814 - INFO - Video Path: https://v.redd.it/1rr414eoh4qe1/DASH_1080.mp4?source=fallback
+2025-03-22 13:36:02,046 - INFO - Downloaded media from https://v.redd.it/1rr414eoh4qe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-22 13:36:03,137 - INFO - Downloaded media from https://v.redd.it/1rr414eoh4qe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-22 13:36:03,460 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-22 13:36:48,119 - INFO - Posted content successfully. Tweet ID: 1903440725389594728
