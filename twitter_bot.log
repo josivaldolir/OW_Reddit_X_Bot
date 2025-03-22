@@ -4058,3 +4058,10 @@ Too Many Requests
 2025-03-22 03:28:12,102 - INFO - Downloaded media from https://preview.redd.it/pargqur984qe1.jpeg?auto=webp&s=5bf2a50de05f204e48e6156da3a5551dda2611f2 to temp_image.jpg
 2025-03-22 03:28:12,961 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-22 03:48:50,652 - INFO - Content: Who's this for you?
+
+2025-03-22 03:48:50,653 - INFO - Image Paths: ['https://preview.redd.it/pargqur984qe1.jpeg?auto=webp&s=5bf2a50de05f204e48e6156da3a5551dda2611f2']
+2025-03-22 03:48:50,653 - INFO - Video Path: 
+2025-03-22 03:48:50,814 - INFO - Downloaded media from https://preview.redd.it/pargqur984qe1.jpeg?auto=webp&s=5bf2a50de05f204e48e6156da3a5551dda2611f2 to temp_image.jpg
+2025-03-22 03:48:51,476 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
