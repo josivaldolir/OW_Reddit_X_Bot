@@ -4096,3 +4096,9 @@ is right one winston leap?
 2025-03-22 06:19:19,738 - INFO - Video Path: 
 2025-03-22 06:19:19,808 - INFO - Downloaded media from https://preview.redd.it/h2y7708816qe1.jpeg?auto=webp&s=b85b706484ed21130822a8c96f0af4d3026d8a78 to temp_image.jpg
 2025-03-22 06:19:20,927 - INFO - Posted content successfully. Tweet ID: 1903330636703957265
+2025-03-22 06:42:31,428 - INFO - Content: For the UK fans.
+
+2025-03-22 06:42:31,428 - INFO - Image Paths: ['https://preview.redd.it/zjftqsnzz5qe1.png?auto=webp&s=ae645b61c61f75a174eedc4d8a363663720b4d8f']
+2025-03-22 06:42:31,428 - INFO - Video Path: 
+2025-03-22 06:42:31,587 - INFO - Downloaded media from https://preview.redd.it/zjftqsnzz5qe1.png?auto=webp&s=ae645b61c61f75a174eedc4d8a363663720b4d8f to temp_image.jpg
+2025-03-22 06:42:33,615 - INFO - Posted content successfully. Tweet ID: 1903336474243895800
