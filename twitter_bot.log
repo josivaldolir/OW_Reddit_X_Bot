@@ -4258,3 +4258,9 @@ I will never stop waiting. I will never stop hoping. I will never stop begging. 
 2025-03-22 17:35:33,864 - INFO - Image Paths: []
 2025-03-22 17:35:33,864 - INFO - Video Path: 
 2025-03-22 17:35:34,250 - INFO - Posted content successfully. Tweet ID: 1903500814259294211
+2025-03-22 18:17:44,403 - INFO - Content: Help! My PC Doesn’t Run Overwatch 2!
+Need some advice! Everyone keeps telling me that PC is the optimal way to play Overwatch 2 and me being a console guy I thought I should give it a try, so I bought an older PC on the cheap and downloaded the best version of the game I could find for my hardware but just can’t seem to get it to load, I have 64kb of ram but I guess that’s not enough for todays gaming landscape! Unsure on how to proceed, Appreciate any advice! 
+2025-03-22 18:17:44,403 - INFO - Image Paths: ['https://preview.redd.it/ocmyxxw4v9qe1.jpeg?auto=webp&s=934bf96ef2b4e06ea2f6474f63a4d1107ae2906c']
+2025-03-22 18:17:44,403 - INFO - Video Path: 
+2025-03-22 18:17:45,360 - INFO - Downloaded media from https://preview.redd.it/ocmyxxw4v9qe1.jpeg?auto=webp&s=934bf96ef2b4e06ea2f6474f63a4d1107ae2906c to temp_image.jpg
+2025-03-22 18:17:48,421 - INFO - Posted content successfully. Tweet ID: 1903511440931045657
