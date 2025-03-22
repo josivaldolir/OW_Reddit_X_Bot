@@ -4224,3 +4224,11 @@ We can be annoying.
 2025-03-22 14:37:33,743 - INFO - Downloaded media from https://preview.redd.it/523j8yvlf8qe1.png?width=2048&format=png&auto=webp&s=b4d770c5f86c17f477fceb632c149e103074a3fe to temp_image.jpg
 2025-03-22 14:37:34,365 - INFO - Downloaded media from https://preview.redd.it/0aign8zlf8qe1.png?width=1080&format=png&auto=webp&s=836703c19d3cd88c86596bfbae423c375dd5fc55 to temp_image.jpg
 2025-03-22 14:37:35,510 - INFO - Posted content successfully. Tweet ID: 1903456022636966138
+2025-03-22 15:13:04,765 - INFO - Content: Ashe punches faster with her perk
+I recently discovered that Ashe’s perk that makes her shoot faster unscoped also affects her melee. Not sure if anyone has made a post about this anywhere else or if its even useful. might be a bug tbh
+2025-03-22 15:13:04,765 - INFO - Image Paths: ['https://external-preview.redd.it/a24yajNvcW9mNnFlMRuDd19iWX0I4bgOY5-yh3UnYhe2rTFQNeIrbzB8yDRk.png?format=pjpg&auto=webp&s=7097be8feca32bcc94a92d524e4137fd00b63628']
+2025-03-22 15:13:04,765 - INFO - Video Path: https://v.redd.it/euv4uqsof6qe1/DASH_1080.mp4?source=fallback
+2025-03-22 15:13:04,949 - INFO - Downloaded media from https://v.redd.it/euv4uqsof6qe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-22 15:13:05,051 - INFO - Downloaded media from https://v.redd.it/euv4uqsof6qe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-22 15:13:07,450 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-22 15:13:13,382 - INFO - Posted content successfully. Tweet ID: 1903464991056871640
