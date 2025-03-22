@@ -4145,3 +4145,11 @@ Description for the autoMod: it's a text conversation where I sent my kid a vide
 2025-03-22 10:15:40,713 - INFO - Video Path: 
 2025-03-22 10:15:40,954 - INFO - Downloaded media from https://preview.redd.it/l4prpl1m35qe1.png?auto=webp&s=997d9bf67d9df8c4e80bc3ef869b061cf6bac75b to temp_image.jpg
 2025-03-22 10:15:42,869 - INFO - Posted content successfully. Tweet ID: 1903390116695228861
+2025-03-22 10:41:28,870 - INFO - Content: Parkour! Parkour!
+Tell me I'm not only one that sees Frejas potential in costom parkour maps and "Insane flanks compilation" edits
+2025-03-22 10:41:28,870 - INFO - Image Paths: ['https://external-preview.redd.it/NW5paDFwaDV4NHFlMUOD-VuVJzgyTdTJeP9s9jcRlDH_DqX3tEbQEuNNvyn0.png?format=pjpg&auto=webp&s=a676d022d64866aba7336f140d191148d69491b2']
+2025-03-22 10:41:28,870 - INFO - Video Path: https://v.redd.it/wsak2pl5x4qe1/DASH_720.mp4?source=fallback
+2025-03-22 10:41:29,103 - INFO - Downloaded media from https://v.redd.it/wsak2pl5x4qe1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-03-22 10:41:29,166 - INFO - Downloaded media from https://v.redd.it/wsak2pl5x4qe1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-03-22 10:41:30,221 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-22 10:41:41,426 - INFO - Posted content successfully. Tweet ID: 1903396657355485487
