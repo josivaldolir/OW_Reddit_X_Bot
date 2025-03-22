@@ -4332,3 +4332,10 @@ i was in the middle of a competitive game and it said “lost connection 20 play
 2025-03-22 22:13:04,814 - INFO - Downloaded media from https://preview.redd.it/dpdxwoxp4bqe1.jpeg?auto=webp&s=b5181f5f5aacfe735265d4b9708dfeeec9586a7f to temp_image.jpg
 2025-03-22 22:13:07,391 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-22 22:38:09,682 - INFO - Content: B.O.B! KILL THEM!
+
+2025-03-22 22:38:09,682 - INFO - Image Paths: ['https://preview.redd.it/f2hfojc1abqe1.png?auto=webp&s=b5d53c9a02cc5f6ffe3196166069b5a761ecc53c']
+2025-03-22 22:38:09,682 - INFO - Video Path: 
+2025-03-22 22:38:09,998 - INFO - Downloaded media from https://preview.redd.it/f2hfojc1abqe1.png?auto=webp&s=b5d53c9a02cc5f6ffe3196166069b5a761ecc53c to temp_image.jpg
+2025-03-22 22:38:10,922 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
