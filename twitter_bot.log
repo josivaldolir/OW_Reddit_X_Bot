@@ -4318,3 +4318,10 @@ I'm from Apex, and i just discovered your magnificent Maximilian in the lastest 
 2025-03-22 21:12:32,285 - INFO - Downloaded media from https://preview.redd.it/cc6q24b05aqe1.png?auto=webp&s=bdde0f7ff961726993aa5f477129e453fbdb2267 to temp_image.jpg
 2025-03-22 21:12:33,778 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-22 21:35:17,310 - INFO - Content: what just happened !
+i was in the middle of a competitive game and it said “lost connection 20 players ahead of you” what is that about? my wifi has always been pretty good and i’ve never lost connection like that before?
+2025-03-22 21:35:17,310 - INFO - Image Paths: ['https://preview.redd.it/dpdxwoxp4bqe1.jpeg?auto=webp&s=b5181f5f5aacfe735265d4b9708dfeeec9586a7f']
+2025-03-22 21:35:17,310 - INFO - Video Path: 
+2025-03-22 21:35:17,622 - INFO - Downloaded media from https://preview.redd.it/dpdxwoxp4bqe1.jpeg?auto=webp&s=b5181f5f5aacfe735265d4b9708dfeeec9586a7f to temp_image.jpg
+2025-03-22 21:35:20,308 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
