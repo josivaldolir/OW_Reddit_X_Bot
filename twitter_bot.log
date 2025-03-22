@@ -4346,3 +4346,11 @@ Too Many Requests
 2025-03-22 23:13:53,494 - INFO - Downloaded media from https://preview.redd.it/ucntd2uh5bqe1.jpg?width=1920&format=pjpg&auto=webp&s=eb54065bc26fcc145b28e6b95139bffb530c9aa1 to temp_image.jpg
 2025-03-22 23:13:54,562 - INFO - Downloaded media from https://preview.redd.it/waebs1ai5bqe1.jpg?width=1920&format=pjpg&auto=webp&s=a0f52d6fd8ab35d0b99bb8d7a6995fc1fb8c09dd to temp_image.jpg
 2025-03-22 23:13:55,723 - INFO - Posted content successfully. Tweet ID: 1903585963449733570
+2025-03-22 23:35:52,517 - INFO - Content: Freja's thumb
+She seems to have a clubbed thumb just like Megan Fox, which is a cool detail.
+2025-03-22 23:35:52,517 - INFO - Image Paths: ['https://preview.redd.it/0r05cp77jaqe1.png?width=484&format=png&auto=webp&s=091fa9155a89c75d078d03125b10878aa8bc35bd', 'https://preview.redd.it/mtjhs3p7jaqe1.png?width=325&format=png&auto=webp&s=e4a58d28ec91e8b142cbb3ad291e0a4840513b51']
+2025-03-22 23:35:52,517 - INFO - Video Path: 
+2025-03-22 23:35:52,729 - INFO - Downloaded media from https://preview.redd.it/0r05cp77jaqe1.png?width=484&format=png&auto=webp&s=091fa9155a89c75d078d03125b10878aa8bc35bd to temp_image.jpg
+2025-03-22 23:35:53,531 - INFO - Downloaded media from https://preview.redd.it/mtjhs3p7jaqe1.png?width=325&format=png&auto=webp&s=e4a58d28ec91e8b142cbb3ad291e0a4840513b51 to temp_image.jpg
+2025-03-22 23:35:54,404 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
