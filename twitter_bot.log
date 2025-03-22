@@ -4102,3 +4102,9 @@ is right one winston leap?
 2025-03-22 06:42:31,428 - INFO - Video Path: 
 2025-03-22 06:42:31,587 - INFO - Downloaded media from https://preview.redd.it/zjftqsnzz5qe1.png?auto=webp&s=ae645b61c61f75a174eedc4d8a363663720b4d8f to temp_image.jpg
 2025-03-22 06:42:33,615 - INFO - Posted content successfully. Tweet ID: 1903336474243895800
+2025-03-22 07:14:00,976 - INFO - Content: Mad Juno Skills
+
+2025-03-22 07:14:00,976 - INFO - Image Paths: ['https://preview.redd.it/ikouhoufz3qe1.png?auto=webp&s=6c8e3257763a487e790c59d08cf5e42682a6ff6a']
+2025-03-22 07:14:00,976 - INFO - Video Path: 
+2025-03-22 07:14:01,059 - INFO - Downloaded media from https://preview.redd.it/ikouhoufz3qe1.png?auto=webp&s=6c8e3257763a487e790c59d08cf5e42682a6ff6a to temp_image.jpg
+2025-03-22 07:14:02,376 - INFO - Posted content successfully. Tweet ID: 1903344399268098453
