@@ -4325,3 +4325,10 @@ i was in the middle of a competitive game and it said “lost connection 20 play
 2025-03-22 21:35:17,622 - INFO - Downloaded media from https://preview.redd.it/dpdxwoxp4bqe1.jpeg?auto=webp&s=b5181f5f5aacfe735265d4b9708dfeeec9586a7f to temp_image.jpg
 2025-03-22 21:35:20,308 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-22 22:13:04,477 - INFO - Content: what just happened !
+i was in the middle of a competitive game and it said “lost connection 20 players ahead of you” what is that about? my wifi has always been pretty good and i’ve never lost connection like that before?
+2025-03-22 22:13:04,477 - INFO - Image Paths: ['https://preview.redd.it/dpdxwoxp4bqe1.jpeg?auto=webp&s=b5181f5f5aacfe735265d4b9708dfeeec9586a7f']
+2025-03-22 22:13:04,477 - INFO - Video Path: 
+2025-03-22 22:13:04,814 - INFO - Downloaded media from https://preview.redd.it/dpdxwoxp4bqe1.jpeg?auto=webp&s=b5181f5f5aacfe735265d4b9708dfeeec9586a7f to temp_image.jpg
+2025-03-22 22:13:07,391 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
