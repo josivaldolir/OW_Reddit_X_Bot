@@ -112,3 +112,9 @@ She also hate speaks the push bot
 2025-03-23 09:36:10,416 - INFO - Downloaded media from https://v.redd.it/y0k07ngqvcqe1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-03-23 09:36:12,827 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-23 09:36:17,621 - INFO - Posted content successfully. Tweet ID: 1903742587900715059
+2025-03-23 10:13:47,535 - INFO - Content: Do the Overwatch heroes like their country’s Eurovision 2025 song?
+
+2025-03-23 10:13:47,535 - INFO - Image Paths: ['https://preview.redd.it/sstjkn8pyeqe1.jpeg?auto=webp&s=4fca97df283abcf35d0686fe71279f90e921ba5b']
+2025-03-23 10:13:47,535 - INFO - Video Path: 
+2025-03-23 10:13:47,623 - INFO - Downloaded media from https://preview.redd.it/sstjkn8pyeqe1.jpeg?auto=webp&s=4fca97df283abcf35d0686fe71279f90e921ba5b to temp_image.jpg
+2025-03-23 10:13:48,677 - INFO - Posted content successfully. Tweet ID: 1903752028918325563
