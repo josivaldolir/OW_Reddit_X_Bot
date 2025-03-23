@@ -137,3 +137,11 @@ Had so much fun play testing her I had to draw fanart
 2025-03-23 12:57:14,969 - INFO - Video Path: 
 2025-03-23 12:57:15,280 - INFO - Downloaded media from https://preview.redd.it/rkgeg5ykjcqe1.jpeg?auto=webp&s=878b3f6b8f8fc7caf15f2f5383430b5206ff573b to temp_image.jpg
 2025-03-23 12:57:16,497 - INFO - Posted content successfully. Tweet ID: 1903793165913792634
+2025-03-23 13:19:45,632 - INFO - Content: Total mayhem Freja is umm..
+
+2025-03-23 13:19:45,633 - INFO - Image Paths: ['https://external-preview.redd.it/ZDB0ZzBrdml1ZHFlMahR8PPvR8h8z57UfWMK1jaugmc_J1FsmA_oLdPelCNN.png?format=pjpg&auto=webp&s=20d51e1f9eafd7707e94b5f3d1c9b388e0237517']
+2025-03-23 13:19:45,633 - INFO - Video Path: https://v.redd.it/1l3j1e5judqe1/DASH_1080.mp4?source=fallback
+2025-03-23 13:19:45,875 - INFO - Downloaded media from https://v.redd.it/1l3j1e5judqe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-23 13:19:46,020 - INFO - Downloaded media from https://v.redd.it/1l3j1e5judqe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-23 13:19:46,481 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-23 13:19:58,714 - INFO - Posted content successfully. Tweet ID: 1903798879729918459
