@@ -164,3 +164,11 @@ Stop being an asshole about everyone being on mic on 6v6. Maybe the one tank doe
 2025-03-23 15:14:18,349 - INFO - Image Paths: []
 2025-03-23 15:14:18,349 - INFO - Video Path: 
 2025-03-23 15:14:18,654 - INFO - Posted content successfully. Tweet ID: 1903827652911460857
+2025-03-23 15:36:16,455 - INFO - Content: What is happening here!?
+Was playing around in the firing range using the KovaaKs room and they randomly stopped spawning. I then went out to the rest of the practice range to find this.
+2025-03-23 15:36:16,455 - INFO - Image Paths: ['https://preview.redd.it/i2qyzvzxieqe1.jpg?width=3840&format=pjpg&auto=webp&s=d2de04ec0ae6b8973f2c1444c7714908ba2794b9', 'https://preview.redd.it/4nrvnwayieqe1.jpg?width=3840&format=pjpg&auto=webp&s=6f4a57206b198c41972b6a9e8084a4e5a2f9f498', 'https://preview.redd.it/4rbmoukyieqe1.jpg?width=3840&format=pjpg&auto=webp&s=354c6868b77ae148c26fde1a37c817a7966e0cd1']
+2025-03-23 15:36:16,455 - INFO - Video Path: 
+2025-03-23 15:36:16,727 - INFO - Downloaded media from https://preview.redd.it/i2qyzvzxieqe1.jpg?width=3840&format=pjpg&auto=webp&s=d2de04ec0ae6b8973f2c1444c7714908ba2794b9 to temp_image.jpg
+2025-03-23 15:36:17,722 - INFO - Downloaded media from https://preview.redd.it/4nrvnwayieqe1.jpg?width=3840&format=pjpg&auto=webp&s=6f4a57206b198c41972b6a9e8084a4e5a2f9f498 to temp_image.jpg
+2025-03-23 15:36:18,620 - INFO - Downloaded media from https://preview.redd.it/4rbmoukyieqe1.jpg?width=3840&format=pjpg&auto=webp&s=354c6868b77ae148c26fde1a37c817a7966e0cd1 to temp_image.jpg
+2025-03-23 15:36:20,217 - INFO - Posted content successfully. Tweet ID: 1903833194283340005
