@@ -278,3 +278,11 @@ Overwatch servers and all other Blizzard games going down is just a byproduct of
 2025-03-23 23:12:58,549 - INFO - Downloaded media from https://preview.redd.it/i59lj0mh9iqe1.png?width=1920&format=png&auto=webp&s=36a5702ed212e1758f8934a6f85ab0c64857a582 to temp_image.jpg
 2025-03-23 23:12:59,858 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-23 23:36:27,980 - INFO - Content: Custom Lego Venture
+
+2025-03-23 23:36:27,980 - INFO - Image Paths: ['https://preview.redd.it/xvwdo3xf9iqe1.png?width=1920&format=png&auto=webp&s=6f9ed949253b50ab9eb6a100e82566f80e6c5e7a', 'https://preview.redd.it/zpm8xebh9iqe1.png?width=1920&format=png&auto=webp&s=410890f7a73703ecdd957e885a299462be70a638', 'https://preview.redd.it/i59lj0mh9iqe1.png?width=1920&format=png&auto=webp&s=36a5702ed212e1758f8934a6f85ab0c64857a582']
+2025-03-23 23:36:27,980 - INFO - Video Path: 
+2025-03-23 23:36:28,534 - INFO - Downloaded media from https://preview.redd.it/xvwdo3xf9iqe1.png?width=1920&format=png&auto=webp&s=6f9ed949253b50ab9eb6a100e82566f80e6c5e7a to temp_image.jpg
+2025-03-23 23:36:29,863 - INFO - Downloaded media from https://preview.redd.it/zpm8xebh9iqe1.png?width=1920&format=png&auto=webp&s=410890f7a73703ecdd957e885a299462be70a638 to temp_image.jpg
+2025-03-23 23:36:31,204 - INFO - Downloaded media from https://preview.redd.it/i59lj0mh9iqe1.png?width=1920&format=png&auto=webp&s=36a5702ed212e1758f8934a6f85ab0c64857a582 to temp_image.jpg
+2025-03-23 23:36:33,578 - INFO - Posted content successfully. Tweet ID: 1903954042994213086
