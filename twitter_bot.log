@@ -228,3 +228,11 @@ I don't think I've ever been in a situation where I've thought, "You know what w
 2025-03-23 20:14:19,305 - INFO - Video Path: 
 2025-03-23 20:14:19,387 - INFO - Downloaded media from https://preview.redd.it/geaqnnlxahqe1.jpeg?auto=webp&s=75f055447ee82bb10f95eeca618ac7fcbf615164 to temp_image.jpg
 2025-03-23 20:14:21,203 - INFO - Posted content successfully. Tweet ID: 1903903159392539003
+2025-03-23 20:38:20,059 - INFO - Content: So happy I can try the new hero
+This was after 3 games in a row of not selecting her fast enought, all of wich had a 4 to 6 minutes que. At least my friend got a chuckle out of my misfortune. 
+2025-03-23 20:38:20,059 - INFO - Image Paths: ['https://external-preview.redd.it/NWdpbjhveW9laHFlMQYJLuggKJLQR1qMh0d1IV7s3RPsbtxN62UD7ApqbYSW.png?format=pjpg&auto=webp&s=c568ffb96f561d2c9858bbb27709c57fafd1fa1d']
+2025-03-23 20:38:20,059 - INFO - Video Path: https://v.redd.it/fr3nmc2pehqe1/DASH_1080.mp4?source=fallback
+2025-03-23 20:38:20,648 - INFO - Downloaded media from https://v.redd.it/fr3nmc2pehqe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-23 20:38:20,764 - INFO - Downloaded media from https://v.redd.it/fr3nmc2pehqe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-23 20:38:21,084 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-23 20:38:27,447 - INFO - Posted content successfully. Tweet ID: 1903909226889797971
