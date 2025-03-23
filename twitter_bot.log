@@ -5,3 +5,10 @@
 2025-03-23 01:13:57,424 - INFO - Video Path: 
 2025-03-23 01:13:57,459 - INFO - Downloaded media from https://preview.redd.it/t29xcu18mbqe1.jpeg?auto=webp&s=1598eef9f5f77d364bfd9ccead2e1be69809cc94 to temp_image.jpg
 2025-03-23 01:13:59,431 - INFO - Posted content successfully. Tweet ID: 1903616177621901783
+2025-03-23 02:48:02,542 - INFO - Content: B.O.B! KILL THEM!
+
+2025-03-23 02:48:02,542 - INFO - Image Paths: ['https://preview.redd.it/f2hfojc1abqe1.png?auto=webp&s=b5d53c9a02cc5f6ffe3196166069b5a761ecc53c']
+2025-03-23 02:48:02,542 - INFO - Video Path: 
+2025-03-23 02:48:02,738 - INFO - Downloaded media from https://preview.redd.it/f2hfojc1abqe1.png?auto=webp&s=b5d53c9a02cc5f6ffe3196166069b5a761ecc53c to temp_image.jpg
+2025-03-23 02:48:03,631 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
