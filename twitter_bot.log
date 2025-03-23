@@ -41,3 +41,10 @@ It's nothing personal Ana players. Love you really. Just don't want to be slept 
 2025-03-23 04:40:01,063 - INFO - Downloaded media from https://preview.redd.it/n9673mx6ocqe1.jpeg?auto=webp&s=83da677f9345db763fa487d847d6c9d5dab57154 to temp_image.jpg
 2025-03-23 04:40:02,189 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-23 05:13:35,049 - INFO - Content: Me after losing several games trying to use Freja (I just wanted to have fun)
+Stupid drawing made by me.
+2025-03-23 05:13:35,049 - INFO - Image Paths: ['https://preview.redd.it/gvilrkrp6dqe1.png?auto=webp&s=a07c812120c1b5162d9c9a8ebb339938176adadf']
+2025-03-23 05:13:35,049 - INFO - Video Path: 
+2025-03-23 05:13:35,347 - INFO - Downloaded media from https://preview.redd.it/gvilrkrp6dqe1.png?auto=webp&s=a07c812120c1b5162d9c9a8ebb339938176adadf to temp_image.jpg
+2025-03-23 05:13:36,727 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
