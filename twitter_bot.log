@@ -12,3 +12,11 @@
 2025-03-23 02:48:02,738 - INFO - Downloaded media from https://preview.redd.it/f2hfojc1abqe1.png?auto=webp&s=b5d53c9a02cc5f6ffe3196166069b5a761ecc53c to temp_image.jpg
 2025-03-23 02:48:03,631 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-23 03:31:16,166 - INFO - Content: Emre Sarioglu - Support hero concept
+
+2025-03-23 03:31:16,166 - INFO - Image Paths: ['https://preview.redd.it/muk3qm69qbqe1.jpg?width=1920&format=pjpg&auto=webp&s=bbc7e3d165988411682c688f5df7ce58314edf2f', 'https://preview.redd.it/tfs8ajoaqbqe1.jpg?width=1920&format=pjpg&auto=webp&s=f09333237a80464e0feb939cd2351b19c9701f68']
+2025-03-23 03:31:16,166 - INFO - Video Path: 
+2025-03-23 03:31:16,313 - INFO - Downloaded media from https://preview.redd.it/muk3qm69qbqe1.jpg?width=1920&format=pjpg&auto=webp&s=bbc7e3d165988411682c688f5df7ce58314edf2f to temp_image.jpg
+2025-03-23 03:31:17,153 - INFO - Downloaded media from https://preview.redd.it/tfs8ajoaqbqe1.jpg?width=1920&format=pjpg&auto=webp&s=f09333237a80464e0feb939cd2351b19c9701f68 to temp_image.jpg
+2025-03-23 03:31:18,145 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
