@@ -1,9 +1,4 @@
-import tweepy
-import logging
-import requests
-import os
-import time
-import subprocess
+import tweepy, logging, requests, os, time, subprocess
 from oauth import *
 from reddit import *
 
