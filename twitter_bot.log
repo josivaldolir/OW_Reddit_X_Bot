@@ -257,3 +257,15 @@ Freja says "Én kanelbullar mindre i kampen", where she uses the swedish word fo
 2025-03-23 22:14:21,272 - INFO - Downloaded media from https://v.redd.it/cy1iv2g0diqe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-23 22:14:21,597 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-23 22:14:32,423 - INFO - Posted content successfully. Tweet ID: 1903933406666191114
+2025-03-23 22:39:19,945 - INFO - Content: Blizzard Servers Down due to DDOS Targeted Attacks on World of Warcraft Hardcore
+Seen many posts the past couple weeks and as a player of both Overwatch and World of Warcraft, wanted to share some explaination why Blizzard servers keep going down.
+
+This Wowhead article linked explains a bit more on how the DDOS attacks the past three weeks have overlapped with the Race to World First (RWF) events for retail and hardcore versions. For retail, Liquid (the leasing U.S. based team) was unable to even log into the game for a few hours each day (yet still ended up winning!) due to the attacks, which also affected Overwatch. 
+
+Today and yesterday was the most punishing attack for classic Hardcore players (a mode in World of Warcraft which if you die, you have to start over from scratch) which can take weeks of playtime to get to the raid that the OnlyFangs streamer guild was attempting to compete today. Unfortunately, 1/3 - 1/2 of their guild was wiped due to the DDOS attack and they're most likely disbanding due to a lack of any rollbacks from Blizzard's end. 
+
+Overwatch servers and all other Blizzard games going down is just a byproduct of this attack. Targeted DDOS attacks like this are notorious for being difficult to defend against, which sucks for all of us :( Hopefully we will see some less of these, but it's still a sucky situation to be in for everyone! 
+2025-03-23 22:39:19,946 - INFO - Image Paths: ['https://external-preview.redd.it/bgjSsunI_g3sbr3rosWVctEU8P3err4YFnTFhfRzlkE.jpg?auto=webp&s=ea5a0de489b6d1070daa2f0294f55f0a1f429b71']
+2025-03-23 22:39:19,946 - INFO - Video Path: 
+2025-03-23 22:39:20,238 - INFO - Downloaded media from https://external-preview.redd.it/bgjSsunI_g3sbr3rosWVctEU8P3err4YFnTFhfRzlkE.jpg?auto=webp&s=ea5a0de489b6d1070daa2f0294f55f0a1f429b71 to temp_image.jpg
+2025-03-23 22:39:21,536 - INFO - Posted content successfully. Tweet ID: 1903939652249358419
