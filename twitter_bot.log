@@ -236,3 +236,9 @@ This was after 3 games in a row of not selecting her fast enought, all of wich h
 2025-03-23 20:38:20,764 - INFO - Downloaded media from https://v.redd.it/fr3nmc2pehqe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-23 20:38:21,084 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-23 20:38:27,447 - INFO - Posted content successfully. Tweet ID: 1903909226889797971
+2025-03-23 21:13:28,397 - INFO - Content: Guess we're not playing today either
+
+2025-03-23 21:13:28,397 - INFO - Image Paths: ['https://preview.redd.it/6686l1cayhqe1.jpeg?auto=webp&s=72075b2092290fdb877afa08620061d09afc494f']
+2025-03-23 21:13:28,397 - INFO - Video Path: 
+2025-03-23 21:13:28,543 - INFO - Downloaded media from https://preview.redd.it/6686l1cayhqe1.jpeg?auto=webp&s=72075b2092290fdb877afa08620061d09afc494f to temp_image.jpg
+2025-03-23 21:13:30,264 - INFO - Posted content successfully. Tweet ID: 1903918045510479948
