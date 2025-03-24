@@ -516,3 +516,9 @@ Your media IDs are invalid.
 2025-03-24 18:46:05,469 - INFO - Video Path: 
 2025-03-24 18:46:05,786 - INFO - Downloaded media from https://preview.redd.it/c8ltym84doqe1.jpeg?auto=webp&s=f6bbd948f6701d76e6874efe2c47e7650c4d0d8c to temp_image.jpg
 2025-03-24 18:46:07,420 - INFO - Posted content successfully. Tweet ID: 1904243344139489776
+2025-03-24 19:11:50,984 - INFO - Content: And dey say and dey say
+
+2025-03-24 19:11:50,984 - INFO - Image Paths: ['https://preview.redd.it/flcoaboxcoqe1.jpeg?auto=webp&s=f697ff778e47eb2a77edddacc7ca9db5c15e1215']
+2025-03-24 19:11:50,984 - INFO - Video Path: 
+2025-03-24 19:11:51,155 - INFO - Downloaded media from https://preview.redd.it/flcoaboxcoqe1.jpeg?auto=webp&s=f697ff778e47eb2a77edddacc7ca9db5c15e1215 to temp_image.jpg
+2025-03-24 19:11:52,157 - INFO - Posted content successfully. Tweet ID: 1904249823559065744
