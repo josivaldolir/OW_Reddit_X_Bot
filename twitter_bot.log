@@ -528,3 +528,12 @@ We met playing comp in Overwatch 1, who could’ve guessed this is where we’d 
 2025-03-24 19:36:05,024 - INFO - Video Path: 
 2025-03-24 19:36:05,278 - INFO - Downloaded media from https://preview.redd.it/2u3bic3neoqe1.jpeg?auto=webp&s=807f685f8e96624d82b1eb9a1d771dfb3fa2220b to temp_image.jpg
 2025-03-24 19:36:07,573 - INFO - Posted content successfully. Tweet ID: 1904255926942552200
+2025-03-24 20:15:09,608 - INFO - Content: I've added Freja to the collection of Overwatch icons ive been making
+I'm just finishing off the Mythic set and I'm up to date :) Download anything you like. I made a new gallery to store everything, the links on my profile if anyone is interested 
+2025-03-24 20:15:09,608 - INFO - Image Paths: ['https://preview.redd.it/5sxwapj5rnqe1.png?width=8729&format=png&auto=webp&s=f16e4aef940c6caaef7faecc82fbbcc0d8864691', 'https://preview.redd.it/oeswfho5rnqe1.png?width=8362&format=png&auto=webp&s=b9de426b47c0cf360fa5b7392df9ccdd07f8991c', 'https://preview.redd.it/vxy88lu5rnqe1.png?width=9791&format=png&auto=webp&s=f69dab5d4f6d85d9f6271e51d00280f76067b9a5']
+2025-03-24 20:15:09,608 - INFO - Video Path: 
+2025-03-24 20:15:09,901 - INFO - Downloaded media from https://preview.redd.it/5sxwapj5rnqe1.png?width=8729&format=png&auto=webp&s=f16e4aef940c6caaef7faecc82fbbcc0d8864691 to temp_image.jpg
+2025-03-24 20:15:12,695 - INFO - Downloaded media from https://preview.redd.it/oeswfho5rnqe1.png?width=8362&format=png&auto=webp&s=b9de426b47c0cf360fa5b7392df9ccdd07f8991c to temp_image.jpg
+2025-03-24 20:15:15,493 - INFO - Downloaded media from https://preview.redd.it/vxy88lu5rnqe1.png?width=9791&format=png&auto=webp&s=f69dab5d4f6d85d9f6271e51d00280f76067b9a5 to temp_image.jpg
+2025-03-24 20:15:18,752 - ERROR - Failed to post content: 400 Bad Request
+Your media IDs are invalid.
