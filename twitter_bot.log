@@ -510,3 +510,9 @@ I'm just finishing off the Mythic set and I'm up to date :) Download anything yo
 2025-03-24 18:20:31,383 - INFO - Downloaded media from https://preview.redd.it/vxy88lu5rnqe1.png?width=9791&format=png&auto=webp&s=f69dab5d4f6d85d9f6271e51d00280f76067b9a5 to temp_image.jpg
 2025-03-24 18:20:34,654 - ERROR - Failed to post content: 400 Bad Request
 Your media IDs are invalid.
+2025-03-24 18:46:05,468 - INFO - Content: Learn to take an L
+
+2025-03-24 18:46:05,469 - INFO - Image Paths: ['https://preview.redd.it/c8ltym84doqe1.jpeg?auto=webp&s=f6bbd948f6701d76e6874efe2c47e7650c4d0d8c']
+2025-03-24 18:46:05,469 - INFO - Video Path: 
+2025-03-24 18:46:05,786 - INFO - Downloaded media from https://preview.redd.it/c8ltym84doqe1.jpeg?auto=webp&s=f6bbd948f6701d76e6874efe2c47e7650c4d0d8c to temp_image.jpg
+2025-03-24 18:46:07,420 - INFO - Posted content successfully. Tweet ID: 1904243344139489776
