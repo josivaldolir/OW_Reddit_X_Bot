@@ -468,3 +468,12 @@ We need more Venture skins, stop with the kiriko 😭🙏💔
 2025-03-24 15:39:59,034 - INFO - Downloaded media from https://v.redd.it/dsyojs8vwjqe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-24 15:39:59,308 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-24 15:40:05,845 - INFO - Posted content successfully. Tweet ID: 1904196529776455848
+2025-03-24 16:20:46,376 - INFO - Content: I've added Freja to the collection of Overwatch icons ive been making
+I'm just finishing off the Mythic set and I'm up to date :) Download anything you like. I made a new gallery to store everything, the links on my profile if anyone is interested 
+2025-03-24 16:20:46,376 - INFO - Image Paths: ['https://preview.redd.it/5sxwapj5rnqe1.png?width=8729&format=png&auto=webp&s=f16e4aef940c6caaef7faecc82fbbcc0d8864691', 'https://preview.redd.it/oeswfho5rnqe1.png?width=8362&format=png&auto=webp&s=b9de426b47c0cf360fa5b7392df9ccdd07f8991c', 'https://preview.redd.it/vxy88lu5rnqe1.png?width=9791&format=png&auto=webp&s=f69dab5d4f6d85d9f6271e51d00280f76067b9a5']
+2025-03-24 16:20:46,376 - INFO - Video Path: 
+2025-03-24 16:20:46,443 - INFO - Downloaded media from https://preview.redd.it/5sxwapj5rnqe1.png?width=8729&format=png&auto=webp&s=f16e4aef940c6caaef7faecc82fbbcc0d8864691 to temp_image.jpg
+2025-03-24 16:20:49,446 - INFO - Downloaded media from https://preview.redd.it/oeswfho5rnqe1.png?width=8362&format=png&auto=webp&s=b9de426b47c0cf360fa5b7392df9ccdd07f8991c to temp_image.jpg
+2025-03-24 16:20:51,313 - INFO - Downloaded media from https://preview.redd.it/vxy88lu5rnqe1.png?width=9791&format=png&auto=webp&s=f69dab5d4f6d85d9f6271e51d00280f76067b9a5 to temp_image.jpg
+2025-03-24 16:20:54,345 - ERROR - Failed to post content: 400 Bad Request
+Your media IDs are invalid.
