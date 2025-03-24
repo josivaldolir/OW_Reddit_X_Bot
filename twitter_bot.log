@@ -495,3 +495,9 @@ I'm just finishing off the Mythic set and I'm up to date :) Download anything yo
 2025-03-24 17:13:27,078 - INFO - Downloaded media from https://preview.redd.it/vxy88lu5rnqe1.png?width=9791&format=png&auto=webp&s=f69dab5d4f6d85d9f6271e51d00280f76067b9a5 to temp_image.jpg
 2025-03-24 17:13:30,033 - ERROR - Failed to post content: 400 Bad Request
 Your media IDs are invalid.
+2025-03-24 17:38:41,755 - INFO - Content: Its fine if you like it obviously but its not for everyone
+
+2025-03-24 17:38:41,755 - INFO - Image Paths: ['https://preview.redd.it/sd5vtfv88oqe1.jpeg?auto=webp&s=e9568a31cf0bf3dcd2fb60f970896b41d8fed9b3']
+2025-03-24 17:38:41,755 - INFO - Video Path: 
+2025-03-24 17:38:42,109 - INFO - Downloaded media from https://preview.redd.it/sd5vtfv88oqe1.jpeg?auto=webp&s=e9568a31cf0bf3dcd2fb60f970896b41d8fed9b3 to temp_image.jpg
+2025-03-24 17:38:43,153 - INFO - Posted content successfully. Tweet ID: 1904226382034436197
