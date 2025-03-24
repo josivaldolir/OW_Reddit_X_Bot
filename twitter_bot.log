@@ -561,3 +561,12 @@ I'm just finishing off the Mythic set and I'm up to date :) Download anything yo
 2025-03-24 21:36:18,216 - INFO - Downloaded media from https://preview.redd.it/vxy88lu5rnqe1.png?width=9791&format=png&auto=webp&s=f69dab5d4f6d85d9f6271e51d00280f76067b9a5 to temp_image.jpg
 2025-03-24 21:36:21,556 - ERROR - Failed to post content: 400 Bad Request
 Your media IDs are invalid.
+2025-03-24 22:14:38,994 - INFO - Content: Fly me to the moon...
+
+2025-03-24 22:14:38,994 - INFO - Image Paths: ['https://external-preview.redd.it/dm90bjA1YXNvcHFlMb44hXFf6PYxk2rFpawJAYL8JwfX4aZxryDk1BYrWoc3.png?format=pjpg&auto=webp&s=dea7ccc4b2537b5cbc01a3df5316bb50ebcec322']
+2025-03-24 22:14:38,994 - INFO - Video Path: https://v.redd.it/kni20edsopqe1/DASH_1080.mp4?source=fallback
+2025-03-24 22:14:39,884 - INFO - Downloaded media from https://v.redd.it/kni20edsopqe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-24 22:14:40,009 - INFO - Downloaded media from https://v.redd.it/kni20edsopqe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-24 22:14:40,357 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-24 22:14:49,092 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
