@@ -295,3 +295,9 @@ Too Many Requests
 2025-03-24 01:10:29,755 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-24 01:10:39,661 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-24 02:48:27,186 - INFO - Content: Wait a damn minute….
+Werent people saying this skin is for someone else?? But the resemblance is uncanny 
+2025-03-24 02:48:27,186 - INFO - Image Paths: ['https://preview.redd.it/kq4n24nxyiqe1.jpeg?auto=webp&s=dcd6fc233591e9e8df79048df2c2723264954557']
+2025-03-24 02:48:27,186 - INFO - Video Path: 
+2025-03-24 02:48:27,334 - INFO - Downloaded media from https://preview.redd.it/kq4n24nxyiqe1.jpeg?auto=webp&s=dcd6fc233591e9e8df79048df2c2723264954557 to temp_image.jpg
+2025-03-24 02:48:28,321 - INFO - Posted content successfully. Tweet ID: 1904002343852544356
