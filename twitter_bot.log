@@ -570,3 +570,20 @@ Your media IDs are invalid.
 2025-03-24 22:14:40,357 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-24 22:14:49,092 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-24 22:39:47,814 - INFO - Content: After 20 hours of "all roles" this season, more than 96% of my games were on tank
+[here is the distribution](https://i.imgur.com/2jXb0XD.jpeg) Tank rank is mid plat and DPS/Healer are all high silver.
+
+105 tank games, 2 DPS games, 2 Healer games.
+
+Every season I mostly queue "all roles" since I don't like queue times but eventually I'd throw in a couple of healer/dps queues for variety. This season I decided to see what the distribution was over a longer period of play time.
+
+I don't think it was this extreme in how much tank I got, in previous seasons. It's not even a complaint for me personally, just in case the title gave that impression.
+
+Also, there is only 1 tank and 2 dps/healer spots on every team in role queue, so it is *really* skewed with that in mind as well. I don't know statistics well enough to make a calculation on how many people don't select tank.
+
+Edit: maybe good to mention that this season I've always queued alone, and my ranks are similar to previous seasons.
+2025-03-24 22:39:47,814 - INFO - Image Paths: ['https://external-preview.redd.it/4pELKYoFo8P7uY1HdlOi8q0xdOJJzKa4Nt8oNjIDsxY.jpg?auto=webp&s=0c4f7a196f2312435beb063cf7cf6be2981d7210']
+2025-03-24 22:39:47,814 - INFO - Video Path: 
+2025-03-24 22:39:47,880 - INFO - Downloaded media from https://external-preview.redd.it/4pELKYoFo8P7uY1HdlOi8q0xdOJJzKa4Nt8oNjIDsxY.jpg?auto=webp&s=0c4f7a196f2312435beb063cf7cf6be2981d7210 to temp_image.jpg
+2025-03-24 22:39:48,652 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
