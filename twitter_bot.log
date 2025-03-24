@@ -537,3 +537,9 @@ I'm just finishing off the Mythic set and I'm up to date :) Download anything yo
 2025-03-24 20:15:15,493 - INFO - Downloaded media from https://preview.redd.it/vxy88lu5rnqe1.png?width=9791&format=png&auto=webp&s=f69dab5d4f6d85d9f6271e51d00280f76067b9a5 to temp_image.jpg
 2025-03-24 20:15:18,752 - ERROR - Failed to post content: 400 Bad Request
 Your media IDs are invalid.
+2025-03-24 20:37:47,413 - INFO - Content: Lootbox is life
+I need the legendary skins for heroes I don't play
+2025-03-24 20:37:47,413 - INFO - Image Paths: ['https://preview.redd.it/39vyp8qosoqe1.png?auto=webp&s=ce2536095a287ebd3f08464d27a2fafe1a5fa955']
+2025-03-24 20:37:47,413 - INFO - Video Path: 
+2025-03-24 20:37:47,608 - INFO - Downloaded media from https://preview.redd.it/39vyp8qosoqe1.png?auto=webp&s=ce2536095a287ebd3f08464d27a2fafe1a5fa955 to temp_image.jpg
+2025-03-24 20:37:48,751 - INFO - Posted content successfully. Tweet ID: 1904271451299160475
