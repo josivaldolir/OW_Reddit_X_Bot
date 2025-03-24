@@ -587,3 +587,12 @@ Edit: maybe good to mention that this season I've always queued alone, and my ra
 2025-03-24 22:39:47,880 - INFO - Downloaded media from https://external-preview.redd.it/4pELKYoFo8P7uY1HdlOi8q0xdOJJzKa4Nt8oNjIDsxY.jpg?auto=webp&s=0c4f7a196f2312435beb063cf7cf6be2981d7210 to temp_image.jpg
 2025-03-24 22:39:48,652 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-24 23:13:55,089 - INFO - Content: Fly me to the moon...
+
+2025-03-24 23:13:55,089 - INFO - Image Paths: ['https://external-preview.redd.it/dm90bjA1YXNvcHFlMb44hXFf6PYxk2rFpawJAYL8JwfX4aZxryDk1BYrWoc3.png?format=pjpg&auto=webp&s=dea7ccc4b2537b5cbc01a3df5316bb50ebcec322']
+2025-03-24 23:13:55,089 - INFO - Video Path: https://v.redd.it/kni20edsopqe1/DASH_1080.mp4?source=fallback
+2025-03-24 23:13:55,539 - INFO - Downloaded media from https://v.redd.it/kni20edsopqe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-24 23:13:55,820 - INFO - Downloaded media from https://v.redd.it/kni20edsopqe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-24 23:13:56,214 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-24 23:14:03,289 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
