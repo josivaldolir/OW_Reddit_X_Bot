@@ -436,3 +436,9 @@ Image sources: [image 1](https://www.reddit.com/r/Overwatch/comments/11t8abd/pos
 2025-03-24 13:04:48,860 - INFO - Downloaded media from https://v.redd.it/xqo0pri9jkqe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-24 13:04:49,228 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-24 13:05:04,421 - INFO - Posted content successfully. Tweet ID: 1904157516919087279
+2025-03-24 13:43:10,498 - INFO - Content: Seems like he is missing Juno, she is locked. 🐎
+Added the question mark btw
+2025-03-24 13:43:10,498 - INFO - Image Paths: ['https://preview.redd.it/kglw55a0nmqe1.png?auto=webp&s=d01cdfbb92029717fe47b7ad7a93d824402cf37c']
+2025-03-24 13:43:10,498 - INFO - Video Path: 
+2025-03-24 13:43:10,664 - INFO - Downloaded media from https://preview.redd.it/kglw55a0nmqe1.png?auto=webp&s=d01cdfbb92029717fe47b7ad7a93d824402cf37c to temp_image.jpg
+2025-03-24 13:43:13,018 - INFO - Posted content successfully. Tweet ID: 1904167113251782768
