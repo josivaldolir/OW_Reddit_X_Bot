@@ -336,3 +336,10 @@ Service Unavailable
 2025-03-24 05:39:26,789 - INFO - Video Path: 
 2025-03-24 05:39:26,971 - INFO - Downloaded media from https://preview.redd.it/1m4w3b59akqe1.png?auto=webp&s=f8b7d27c468c8e97075f743668181211c4b77de7 to temp_image.jpg
 2025-03-24 05:39:27,839 - INFO - Posted content successfully. Tweet ID: 1904045375402484014
+2025-03-24 06:21:05,171 - INFO - Content: Who's the best hero in the game rn?
+IMO Ana is pound for pound the best hero in the game right now. Devs must wanted us to experience Lore accurate Ana bc I fear for my life everytime I see her on the enemy team. She is terrifying 
+2025-03-24 06:21:05,171 - INFO - Image Paths: ['https://preview.redd.it/quzg30cr7jqe1.png?auto=webp&s=95889287b38a188905b64b2436e6bb7287e8b5e4']
+2025-03-24 06:21:05,171 - INFO - Video Path: 
+2025-03-24 06:21:05,658 - INFO - Downloaded media from https://preview.redd.it/quzg30cr7jqe1.png?auto=webp&s=95889287b38a188905b64b2436e6bb7287e8b5e4 to temp_image.jpg
+2025-03-24 06:21:10,283 - ERROR - Failed to post content: 503 Service Unavailable
+Service Unavailable
