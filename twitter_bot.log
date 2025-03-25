@@ -880,3 +880,10 @@ when you select him, he’s dps but if you check the score board he’s listed a
 2025-03-25 21:13:19,430 - INFO - Downloaded media from https://preview.redd.it/cs43f9ii8wqe1.jpg?width=2018&format=pjpg&auto=webp&s=f30da6434d393f0c8ea5dba37fd8ee7962fb1672 to temp_image.jpg
 2025-03-25 21:13:20,273 - INFO - Downloaded media from https://preview.redd.it/r6h4ndii8wqe1.jpg?width=520&format=pjpg&auto=webp&s=055a4a43d8f40c4b46ddf482d894562ae636ea62 to temp_image.jpg
 2025-03-25 21:13:21,230 - INFO - Posted content successfully. Tweet ID: 1904642784050487636
+2025-03-25 21:35:53,437 - INFO - Content: happy tuesday
+
+2025-03-25 21:35:53,437 - INFO - Image Paths: ['https://preview.redd.it/8joe9majvvqe1.png?auto=webp&s=6b466a4a7cd606ddadb68fba9e94feba201982e9']
+2025-03-25 21:35:53,437 - INFO - Video Path: 
+2025-03-25 21:35:53,487 - INFO - Downloaded media from https://preview.redd.it/8joe9majvvqe1.png?auto=webp&s=6b466a4a7cd606ddadb68fba9e94feba201982e9 to temp_image.jpg
+2025-03-25 21:35:54,110 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
