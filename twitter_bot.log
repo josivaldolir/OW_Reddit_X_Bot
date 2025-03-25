@@ -697,3 +697,10 @@ Too Many Requests
 2025-03-25 07:16:37,504 - INFO - Video Path: 
 2025-03-25 07:16:37,862 - INFO - Downloaded media from https://preview.redd.it/jipuc3b8asqe1.jpeg?auto=webp&s=a92e494dcedd111cc5bc3f2113871fb03a5a85a3 to temp_image.jpg
 2025-03-25 07:16:38,900 - INFO - Posted content successfully. Tweet ID: 1904432220355379541
+2025-03-25 07:37:38,402 - INFO - Content: Coca warrior
+
+2025-03-25 07:37:38,402 - INFO - Image Paths: ['https://preview.redd.it/n7d5tqqy9sqe1.jpeg?auto=webp&s=4645520e9549a8492c3dd4c49e637913d0788631']
+2025-03-25 07:37:38,402 - INFO - Video Path: 
+2025-03-25 07:37:38,690 - INFO - Downloaded media from https://preview.redd.it/n7d5tqqy9sqe1.jpeg?auto=webp&s=4645520e9549a8492c3dd4c49e637913d0788631 to temp_image.jpg
+2025-03-25 07:37:39,362 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
