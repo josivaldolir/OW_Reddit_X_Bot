@@ -682,3 +682,12 @@ Too Many Requests
 2025-03-25 06:22:06,669 - INFO - Downloaded media from https://v.redd.it/2dypdp89wqqe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-25 06:22:11,634 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-25 06:22:18,215 - INFO - Posted content successfully. Tweet ID: 1904418544420311134
+2025-03-25 06:46:02,903 - INFO - Content: Fly me to the moon...
+
+2025-03-25 06:46:02,903 - INFO - Image Paths: ['https://external-preview.redd.it/dm90bjA1YXNvcHFlMb44hXFf6PYxk2rFpawJAYL8JwfX4aZxryDk1BYrWoc3.png?format=pjpg&auto=webp&s=dea7ccc4b2537b5cbc01a3df5316bb50ebcec322']
+2025-03-25 06:46:02,903 - INFO - Video Path: https://v.redd.it/kni20edsopqe1/DASH_1080.mp4?source=fallback
+2025-03-25 06:46:03,115 - INFO - Downloaded media from https://v.redd.it/kni20edsopqe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-25 06:46:03,215 - INFO - Downloaded media from https://v.redd.it/kni20edsopqe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-25 06:46:04,542 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-25 06:46:10,526 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
