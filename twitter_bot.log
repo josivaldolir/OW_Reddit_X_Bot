@@ -656,3 +656,12 @@ Too Many Requests
 2025-03-25 04:43:04,294 - INFO - Video Path: 
 2025-03-25 04:43:04,500 - INFO - Downloaded media from https://preview.redd.it/2k5lut60grqe1.png?auto=webp&s=56b1245f0b307e600891176e2f3bc6895196d108 to temp_image.jpg
 2025-03-25 04:43:05,640 - INFO - Posted content successfully. Tweet ID: 1904393576873656716
+2025-03-25 05:15:51,642 - INFO - Content: Reinhardt shield bash makes him sliiiightly faster
+
+2025-03-25 05:15:51,642 - INFO - Image Paths: ['https://external-preview.redd.it/dDVxb3ptODl3cXFlMXrVq-1wyH-rAwTLPoG0NdpcbSUJb7BQWiMnQ2SoyU9j.png?format=pjpg&auto=webp&s=e86d9f0a88e9e22f138fdb69dbb18b83906233a6']
+2025-03-25 05:15:51,643 - INFO - Video Path: https://v.redd.it/2dypdp89wqqe1/DASH_1080.mp4?source=fallback
+2025-03-25 05:15:52,384 - INFO - Downloaded media from https://v.redd.it/2dypdp89wqqe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-25 05:15:52,571 - INFO - Downloaded media from https://v.redd.it/2dypdp89wqqe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-25 05:15:53,067 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-25 05:15:59,606 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
