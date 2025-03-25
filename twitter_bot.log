@@ -641,3 +641,12 @@ I made some improvements on the wig after this con, but I don't have new photos.
 2025-03-25 03:49:07,369 - INFO - Video Path: 
 2025-03-25 03:49:07,567 - INFO - Downloaded media from https://preview.redd.it/7w3qpdx6mpqe1.jpeg?auto=webp&s=af9dbe4ed8870eb9dcf8df11d5c6b424314d3fd7 to temp_image.jpg
 2025-03-25 03:49:08,740 - INFO - Posted content successfully. Tweet ID: 1904380000641376394
+2025-03-25 04:17:24,649 - INFO - Content: Fly me to the moon...
+
+2025-03-25 04:17:24,649 - INFO - Image Paths: ['https://external-preview.redd.it/dm90bjA1YXNvcHFlMb44hXFf6PYxk2rFpawJAYL8JwfX4aZxryDk1BYrWoc3.png?format=pjpg&auto=webp&s=dea7ccc4b2537b5cbc01a3df5316bb50ebcec322']
+2025-03-25 04:17:24,649 - INFO - Video Path: https://v.redd.it/kni20edsopqe1/DASH_1080.mp4?source=fallback
+2025-03-25 04:17:24,859 - INFO - Downloaded media from https://v.redd.it/kni20edsopqe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-25 04:17:24,970 - INFO - Downloaded media from https://v.redd.it/kni20edsopqe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-25 04:17:25,376 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-25 04:17:31,855 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
