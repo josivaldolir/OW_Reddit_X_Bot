@@ -635,3 +635,9 @@ Bro
 2025-03-25 03:29:13,664 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-25 03:29:18,584 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-25 03:49:07,369 - INFO - Content: My Mercy cosplay
+I made some improvements on the wig after this con, but I don't have new photos.
+2025-03-25 03:49:07,369 - INFO - Image Paths: ['https://preview.redd.it/7w3qpdx6mpqe1.jpeg?auto=webp&s=af9dbe4ed8870eb9dcf8df11d5c6b424314d3fd7']
+2025-03-25 03:49:07,369 - INFO - Video Path: 
+2025-03-25 03:49:07,567 - INFO - Downloaded media from https://preview.redd.it/7w3qpdx6mpqe1.jpeg?auto=webp&s=af9dbe4ed8870eb9dcf8df11d5c6b424314d3fd7 to temp_image.jpg
+2025-03-25 03:49:08,740 - INFO - Posted content successfully. Tweet ID: 1904380000641376394
