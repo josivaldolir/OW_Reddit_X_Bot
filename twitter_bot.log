@@ -861,3 +861,9 @@ I remember in ow1 it was always a race to play dps and nobody wanted to play sup
 2025-03-25 19:36:02,818 - INFO - Image Paths: []
 2025-03-25 19:36:02,818 - INFO - Video Path: 
 2025-03-25 19:36:03,174 - INFO - Posted content successfully. Tweet ID: 1904618298181861594
+2025-03-25 20:16:08,835 - INFO - Content: You people are sick!
+
+2025-03-25 20:16:08,835 - INFO - Image Paths: ['https://preview.redd.it/8fx6c0mqtvqe1.jpeg?auto=webp&s=6a10ca5de103e0c2154065a918fb1e7eba0999a6']
+2025-03-25 20:16:08,835 - INFO - Video Path: 
+2025-03-25 20:16:09,223 - INFO - Downloaded media from https://preview.redd.it/8fx6c0mqtvqe1.jpeg?auto=webp&s=6a10ca5de103e0c2154065a918fb1e7eba0999a6 to temp_image.jpg
+2025-03-25 20:16:10,204 - INFO - Posted content successfully. Tweet ID: 1904628393569902775
