@@ -620,3 +620,9 @@ Bro
 2025-03-25 01:08:55,115 - INFO - Downloaded media from https://preview.redd.it/0797zpbt4qqe1.png?auto=webp&s=85c879d7efb2a49ede9604cff59c6ab53f0a3afb to temp_image.jpg
 2025-03-25 01:08:55,875 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-25 02:44:09,203 - INFO - Content: The fuck did I just draw bro 😭
+Bro
+2025-03-25 02:44:09,203 - INFO - Image Paths: ['https://preview.redd.it/0797zpbt4qqe1.png?auto=webp&s=85c879d7efb2a49ede9604cff59c6ab53f0a3afb']
+2025-03-25 02:44:09,203 - INFO - Video Path: 
+2025-03-25 02:44:09,657 - INFO - Downloaded media from https://preview.redd.it/0797zpbt4qqe1.png?auto=webp&s=85c879d7efb2a49ede9604cff59c6ab53f0a3afb to temp_image.jpg
+2025-03-25 02:44:11,090 - INFO - Posted content successfully. Tweet ID: 1904363651286339758
