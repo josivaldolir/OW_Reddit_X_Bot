@@ -613,3 +613,10 @@ Edit: maybe good to mention that this season I've always queued alone, and my ra
 2025-03-24 23:37:18,944 - INFO - Downloaded media from https://external-preview.redd.it/4pELKYoFo8P7uY1HdlOi8q0xdOJJzKa4Nt8oNjIDsxY.jpg?auto=webp&s=0c4f7a196f2312435beb063cf7cf6be2981d7210 to temp_image.jpg
 2025-03-24 23:37:19,812 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-25 01:08:54,949 - INFO - Content: The fuck did I just draw bro 😭
+Bro
+2025-03-25 01:08:54,949 - INFO - Image Paths: ['https://preview.redd.it/0797zpbt4qqe1.png?auto=webp&s=85c879d7efb2a49ede9604cff59c6ab53f0a3afb']
+2025-03-25 01:08:54,949 - INFO - Video Path: 
+2025-03-25 01:08:55,115 - INFO - Downloaded media from https://preview.redd.it/0797zpbt4qqe1.png?auto=webp&s=85c879d7efb2a49ede9604cff59c6ab53f0a3afb to temp_image.jpg
+2025-03-25 01:08:55,875 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
