@@ -650,3 +650,9 @@ I made some improvements on the wig after this con, but I don't have new photos.
 2025-03-25 04:17:25,376 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-25 04:17:31,855 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-25 04:43:04,294 - INFO - Content: bro this ad 😭
+
+2025-03-25 04:43:04,294 - INFO - Image Paths: ['https://preview.redd.it/2k5lut60grqe1.png?auto=webp&s=56b1245f0b307e600891176e2f3bc6895196d108']
+2025-03-25 04:43:04,294 - INFO - Video Path: 
+2025-03-25 04:43:04,500 - INFO - Downloaded media from https://preview.redd.it/2k5lut60grqe1.png?auto=webp&s=56b1245f0b307e600891176e2f3bc6895196d108 to temp_image.jpg
+2025-03-25 04:43:05,640 - INFO - Posted content successfully. Tweet ID: 1904393576873656716
