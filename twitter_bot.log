@@ -742,3 +742,11 @@ What do you think of Hazard?
 2025-03-25 09:38:52,459 - INFO - Downloaded media from https://v.redd.it/6gxj613gtoqe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-25 09:38:52,892 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-25 09:39:08,665 - INFO - Posted content successfully. Tweet ID: 1904468080933446054
+2025-03-25 10:15:40,962 - INFO - Content: That Ana cursed me with a sleep paralysis demon on her way down
+
+2025-03-25 10:15:40,962 - INFO - Image Paths: ['https://external-preview.redd.it/Z3ZqOW03OTVwcnFlMXHj2zAi81x2LZXV_tDNz4DCOLans7qnGhpQj0BNIJRr.png?format=pjpg&auto=webp&s=1a1442269179c4105dd3a0408e17dc3244b05463']
+2025-03-25 10:15:40,962 - INFO - Video Path: https://v.redd.it/cpsmm8c3prqe1/DASH_1080.mp4?source=fallback
+2025-03-25 10:15:41,153 - INFO - Downloaded media from https://v.redd.it/cpsmm8c3prqe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-25 10:15:41,271 - INFO - Downloaded media from https://v.redd.it/cpsmm8c3prqe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-25 10:15:44,312 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-25 10:15:51,995 - INFO - Posted content successfully. Tweet ID: 1904477322159570962
