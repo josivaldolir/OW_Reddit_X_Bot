@@ -1049,3 +1049,12 @@ I’ve been trying to figure out how I died in this clip. My only guess is that 
 2025-03-26 13:43:28,246 - INFO - Video Path: 
 2025-03-26 13:43:28,460 - INFO - Downloaded media from https://external-preview.redd.it/QeACLpQwHaZcLGAY4aOJcbB-cXsq9HVYHUmnXSc9C7Y.jpg?auto=webp&s=66f7975b7b00b04a50ec59964f134cf666e43479 to temp_image.jpg
 2025-03-26 13:43:29,788 - INFO - Posted content successfully. Tweet ID: 1904891962177839293
+2025-03-26 14:14:54,369 - INFO - Content: Just checked this post on Reddit so I clicked on the link and found MUCH more stuff we could have gotten and might still get. ARCTIC DOOMFIST SKIN and Arctic Talon (Link to see the artist's work)
+https://www.artstation.com/artwork/gRyYgx
+2025-03-26 14:14:54,369 - INFO - Image Paths: ['https://preview.redd.it/r9zehsitv0re1.jpg?width=800&format=pjpg&auto=webp&s=a86bf1bd282e4006937acfa47f07868214e60e82', 'https://preview.redd.it/2qjy7dktv0re1.jpg?width=800&format=pjpg&auto=webp&s=a2478f7b1e439cb059800fd5e5388c4a893c97b2', 'https://preview.redd.it/7k7jdoltv0re1.jpg?width=800&format=pjpg&auto=webp&s=3c872c583411c5f5164428ed315756b7694fc56a', 'https://preview.redd.it/k0rrv1ntv0re1.jpg?width=800&format=pjpg&auto=webp&s=56833d017dd60def1e3da9159b8366ef41e8f19e']
+2025-03-26 14:14:54,369 - INFO - Video Path: 
+2025-03-26 14:14:54,654 - INFO - Downloaded media from https://preview.redd.it/r9zehsitv0re1.jpg?width=800&format=pjpg&auto=webp&s=a86bf1bd282e4006937acfa47f07868214e60e82 to temp_image.jpg
+2025-03-26 14:14:55,464 - INFO - Downloaded media from https://preview.redd.it/2qjy7dktv0re1.jpg?width=800&format=pjpg&auto=webp&s=a2478f7b1e439cb059800fd5e5388c4a893c97b2 to temp_image.jpg
+2025-03-26 14:14:56,248 - INFO - Downloaded media from https://preview.redd.it/7k7jdoltv0re1.jpg?width=800&format=pjpg&auto=webp&s=3c872c583411c5f5164428ed315756b7694fc56a to temp_image.jpg
+2025-03-26 14:14:56,759 - INFO - Downloaded media from https://preview.redd.it/k0rrv1ntv0re1.jpg?width=800&format=pjpg&auto=webp&s=56833d017dd60def1e3da9159b8366ef41e8f19e to temp_image.jpg
+2025-03-26 14:14:57,647 - INFO - Posted content successfully. Tweet ID: 1904899879916495191
