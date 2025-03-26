@@ -914,3 +914,9 @@ There's absolutely no way this isn't an april fools patch, this has got to be a 
 2025-03-25 23:36:17,275 - INFO - Downloaded media from https://preview.redd.it/l2hyqw3dowqe1.png?auto=webp&s=5de214b0a2fe32b9d93fe96624315eb5c7eb2742 to temp_image.jpg
 2025-03-25 23:36:17,853 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-26 01:08:38,797 - INFO - Content: Have they finally lost their minds?
+There's absolutely no way this isn't an april fools patch, this has got to be a joke
+2025-03-26 01:08:38,797 - INFO - Image Paths: ['https://preview.redd.it/l2hyqw3dowqe1.png?auto=webp&s=5de214b0a2fe32b9d93fe96624315eb5c7eb2742']
+2025-03-26 01:08:38,797 - INFO - Video Path: 
+2025-03-26 01:08:38,930 - INFO - Downloaded media from https://preview.redd.it/l2hyqw3dowqe1.png?auto=webp&s=5de214b0a2fe32b9d93fe96624315eb5c7eb2742 to temp_image.jpg
+2025-03-26 01:08:39,959 - INFO - Posted content successfully. Tweet ID: 1904702002623635778
