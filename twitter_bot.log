@@ -967,3 +967,9 @@ this is an extremely descriptive text of the attached image
 2025-03-26 05:39:44,941 - INFO - Downloaded media from https://v.redd.it/bplofs9uuwqe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-26 05:39:45,461 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-26 05:39:52,673 - INFO - Posted content successfully. Tweet ID: 1904770255680913496
+2025-03-26 06:45:38,380 - INFO - Content: Shout out to guy in front of me at McD's
+Glad to see the Philly Fusion still representing!!!
+2025-03-26 06:45:38,380 - INFO - Image Paths: ['https://preview.redd.it/zyv58gl1fyqe1.jpeg?auto=webp&s=13c473c6caa69ac3e337ae0b1e1b69254dca77be']
+2025-03-26 06:45:38,380 - INFO - Video Path: 
+2025-03-26 06:45:38,621 - INFO - Downloaded media from https://preview.redd.it/zyv58gl1fyqe1.jpeg?auto=webp&s=13c473c6caa69ac3e337ae0b1e1b69254dca77be to temp_image.jpg
+2025-03-26 06:45:40,253 - INFO - Posted content successfully. Tweet ID: 1904786811290882338
