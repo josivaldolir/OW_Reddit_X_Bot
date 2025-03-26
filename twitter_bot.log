@@ -1130,3 +1130,9 @@ Too Many Requests
 2025-03-26 19:12:26,564 - INFO - Video Path: 
 2025-03-26 19:12:26,669 - INFO - Downloaded media from https://preview.redd.it/y39s818k22re1.jpeg?auto=webp&s=2d57c1e8aca25a75900b8a3aa107acbd86fd1473 to temp_image.jpg
 2025-03-26 19:12:27,795 - INFO - Posted content successfully. Tweet ID: 1904974749190812010
+2025-03-26 19:36:01,371 - INFO - Content: Where the GOATS at?
+
+2025-03-26 19:36:01,371 - INFO - Image Paths: ['https://preview.redd.it/sjznqjwng2re1.jpeg?auto=webp&s=62d6e460aa81f79e1661c6bf40d891f5a13e16b5']
+2025-03-26 19:36:01,371 - INFO - Video Path: 
+2025-03-26 19:36:01,519 - INFO - Downloaded media from https://preview.redd.it/sjznqjwng2re1.jpeg?auto=webp&s=62d6e460aa81f79e1661c6bf40d891f5a13e16b5 to temp_image.jpg
+2025-03-26 19:36:02,650 - INFO - Posted content successfully. Tweet ID: 1904980683589840931
