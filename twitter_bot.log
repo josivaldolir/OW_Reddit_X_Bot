@@ -1028,3 +1028,10 @@ May flair has mercy in it but I main ana.
 2025-03-26 11:35:57,762 - INFO - Image Paths: []
 2025-03-26 11:35:57,762 - INFO - Video Path: 
 2025-03-26 11:35:58,139 - INFO - Posted content successfully. Tweet ID: 1904859868986585308
+2025-03-26 12:28:47,785 - INFO - Content: "At least 1 rare or better guaranteed in every box"
+It's said in lootbox section opening screen that there should be at least 1 rare or better item guaranteed per box and this week I received 3 boxes with 4 common rarity (grey) only. Is this a bug or something was changed this patch?
+2025-03-26 12:28:47,785 - INFO - Image Paths: ['https://preview.redd.it/7r7fm7o4o0re1.png?width=688&format=png&auto=webp&s=3c2ca788dbbc933c21a5c0cae544bc6a47251c1e', 'https://preview.redd.it/1p21713ao0re1.png?width=1746&format=png&auto=webp&s=0c5ca3e9d27c7dd79b41ac372766e7eca0056af8']
+2025-03-26 12:28:47,785 - INFO - Video Path: 
+2025-03-26 12:28:47,950 - INFO - Downloaded media from https://preview.redd.it/7r7fm7o4o0re1.png?width=688&format=png&auto=webp&s=3c2ca788dbbc933c21a5c0cae544bc6a47251c1e to temp_image.jpg
+2025-03-26 12:28:48,599 - INFO - Downloaded media from https://preview.redd.it/1p21713ao0re1.png?width=1746&format=png&auto=webp&s=0c5ca3e9d27c7dd79b41ac372766e7eca0056af8 to temp_image.jpg
+2025-03-26 12:28:49,917 - INFO - Posted content successfully. Tweet ID: 1904873170206597453
