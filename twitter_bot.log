@@ -1058,3 +1058,11 @@ https://www.artstation.com/artwork/gRyYgx
 2025-03-26 14:14:56,248 - INFO - Downloaded media from https://preview.redd.it/7k7jdoltv0re1.jpg?width=800&format=pjpg&auto=webp&s=3c872c583411c5f5164428ed315756b7694fc56a to temp_image.jpg
 2025-03-26 14:14:56,759 - INFO - Downloaded media from https://preview.redd.it/k0rrv1ntv0re1.jpg?width=800&format=pjpg&auto=webp&s=56833d017dd60def1e3da9159b8366ef41e8f19e to temp_image.jpg
 2025-03-26 14:14:57,647 - INFO - Posted content successfully. Tweet ID: 1904899879916495191
+2025-03-26 14:42:07,222 - INFO - Content: really wish i had a nano here for my glorious hero
+
+2025-03-26 14:42:07,223 - INFO - Image Paths: ['https://external-preview.redd.it/ZWpjOTRsYzVjMXJlMeznKrRCHoS78YT9hkwLvChIXR02UzIDQ2DvzyR2wgn6.png?format=pjpg&auto=webp&s=d4970c59e3eef238c92e4b66d7853f92595b4a7d']
+2025-03-26 14:42:07,223 - INFO - Video Path: https://v.redd.it/piy39lc5c1re1/DASH_1080.mp4?source=fallback
+2025-03-26 14:42:07,972 - INFO - Downloaded media from https://v.redd.it/piy39lc5c1re1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-26 14:42:08,309 - INFO - Downloaded media from https://v.redd.it/piy39lc5c1re1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-26 14:42:08,767 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-26 14:42:18,140 - INFO - Posted content successfully. Tweet ID: 1904906760193716633
