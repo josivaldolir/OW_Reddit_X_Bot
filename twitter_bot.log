@@ -1159,3 +1159,10 @@ I'm half-joking but for real, Blizzard, please crank up the impact of that winst
 2025-03-26 21:13:28,769 - INFO - Video Path: 
 2025-03-26 21:13:28,956 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-26 21:36:09,184 - INFO - Content: My go-to every time, no argument
+
+2025-03-26 21:36:09,185 - INFO - Image Paths: ['https://preview.redd.it/n171nwcue3re1.png?auto=webp&s=49ec4020022de88000d592b5fc60099e0f3b02f5']
+2025-03-26 21:36:09,185 - INFO - Video Path: 
+2025-03-26 21:36:09,400 - INFO - Downloaded media from https://preview.redd.it/n171nwcue3re1.png?auto=webp&s=49ec4020022de88000d592b5fc60099e0f3b02f5 to temp_image.jpg
+2025-03-26 21:36:10,144 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
