@@ -1111,3 +1111,9 @@ Too Many Requests
 2025-03-26 17:38:43,135 - INFO - Downloaded media from https://preview.redd.it/y39s818k22re1.jpeg?auto=webp&s=2d57c1e8aca25a75900b8a3aa107acbd86fd1473 to temp_image.jpg
 2025-03-26 17:38:44,008 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-26 18:20:26,749 - INFO - Content: Summing up the two previous OW Classic events
+I am writing text in here as required by subreddit rules.
+2025-03-26 18:20:26,749 - INFO - Image Paths: ['https://preview.redd.it/9h18hfwra2re1.png?auto=webp&s=a13f5c1b07c943cb135d71e3f276dff52c1153d4']
+2025-03-26 18:20:26,749 - INFO - Video Path: 
+2025-03-26 18:20:26,853 - INFO - Downloaded media from https://preview.redd.it/9h18hfwra2re1.png?auto=webp&s=a13f5c1b07c943cb135d71e3f276dff52c1153d4 to temp_image.jpg
+2025-03-26 18:20:29,617 - INFO - Posted content successfully. Tweet ID: 1904961664182821234
