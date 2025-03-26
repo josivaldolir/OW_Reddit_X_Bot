@@ -1104,3 +1104,10 @@ Too Many Requests
 2025-03-26 17:13:19,549 - INFO - Downloaded media from https://preview.redd.it/y39s818k22re1.jpeg?auto=webp&s=2d57c1e8aca25a75900b8a3aa107acbd86fd1473 to temp_image.jpg
 2025-03-26 17:13:20,200 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-26 17:38:42,897 - INFO - Content: This is the REAL glass cannon
+
+2025-03-26 17:38:42,898 - INFO - Image Paths: ['https://preview.redd.it/y39s818k22re1.jpeg?auto=webp&s=2d57c1e8aca25a75900b8a3aa107acbd86fd1473']
+2025-03-26 17:38:42,898 - INFO - Video Path: 
+2025-03-26 17:38:43,135 - INFO - Downloaded media from https://preview.redd.it/y39s818k22re1.jpeg?auto=webp&s=2d57c1e8aca25a75900b8a3aa107acbd86fd1473 to temp_image.jpg
+2025-03-26 17:38:44,008 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
