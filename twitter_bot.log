@@ -973,3 +973,11 @@ Glad to see the Philly Fusion still representing!!!
 2025-03-26 06:45:38,380 - INFO - Video Path: 
 2025-03-26 06:45:38,621 - INFO - Downloaded media from https://preview.redd.it/zyv58gl1fyqe1.jpeg?auto=webp&s=13c473c6caa69ac3e337ae0b1e1b69254dca77be to temp_image.jpg
 2025-03-26 06:45:40,253 - INFO - Posted content successfully. Tweet ID: 1904786811290882338
+2025-03-26 07:14:25,603 - INFO - Content: I think my luck just peaked with this box
+
+2025-03-26 07:14:25,603 - INFO - Image Paths: ['https://preview.redd.it/lqwvmzxv6wqe1.png?width=1920&format=png&auto=webp&s=224694d5043debee2315a3a44197c5831400adbb', 'https://preview.redd.it/6gdwa21w6wqe1.png?width=1920&format=png&auto=webp&s=045dbb8bc0acce2397b97ef852cff746ebe32438', 'https://preview.redd.it/2cu9654w6wqe1.png?width=1920&format=png&auto=webp&s=2ad3ee03adf9dc956622ba6943f034f4b88a8c7b']
+2025-03-26 07:14:25,603 - INFO - Video Path: 
+2025-03-26 07:14:25,840 - INFO - Downloaded media from https://preview.redd.it/lqwvmzxv6wqe1.png?width=1920&format=png&auto=webp&s=224694d5043debee2315a3a44197c5831400adbb to temp_image.jpg
+2025-03-26 07:14:27,873 - INFO - Downloaded media from https://preview.redd.it/6gdwa21w6wqe1.png?width=1920&format=png&auto=webp&s=045dbb8bc0acce2397b97ef852cff746ebe32438 to temp_image.jpg
+2025-03-26 07:14:28,604 - INFO - Downloaded media from https://preview.redd.it/2cu9654w6wqe1.png?width=1920&format=png&auto=webp&s=2ad3ee03adf9dc956622ba6943f034f4b88a8c7b to temp_image.jpg
+2025-03-26 07:14:29,922 - INFO - Posted content successfully. Tweet ID: 1904794065473851646
