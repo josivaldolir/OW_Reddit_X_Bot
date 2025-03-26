@@ -1043,3 +1043,9 @@ I’ve been trying to figure out how I died in this clip. My only guess is that 
 2025-03-26 13:04:12,559 - INFO - Downloaded media from https://v.redd.it/z0uhrvoqx0re1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-26 13:04:12,857 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-26 13:04:20,745 - INFO - Posted content successfully. Tweet ID: 1904882109514449057
+2025-03-26 13:43:28,246 - INFO - Content: Overwatch x LE SSERAFIM Cosplay - 'CRAZY' Dance Cover
+
+2025-03-26 13:43:28,246 - INFO - Image Paths: ['https://external-preview.redd.it/QeACLpQwHaZcLGAY4aOJcbB-cXsq9HVYHUmnXSc9C7Y.jpg?auto=webp&s=66f7975b7b00b04a50ec59964f134cf666e43479']
+2025-03-26 13:43:28,246 - INFO - Video Path: 
+2025-03-26 13:43:28,460 - INFO - Downloaded media from https://external-preview.redd.it/QeACLpQwHaZcLGAY4aOJcbB-cXsq9HVYHUmnXSc9C7Y.jpg?auto=webp&s=66f7975b7b00b04a50ec59964f134cf666e43479 to temp_image.jpg
+2025-03-26 13:43:29,788 - INFO - Posted content successfully. Tweet ID: 1904891962177839293
