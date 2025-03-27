@@ -103,3 +103,10 @@ Too Many Requests
 2025-03-27 22:13:46,135 - INFO - Downloaded media from https://preview.redd.it/djp4p9k4lare1.jpeg?auto=webp&s=4a683bfc42982ebd60be0e0c63fbf299b8eddb10 to temp_image.jpg
 2025-03-27 22:13:47,116 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-27 22:39:20,736 - INFO - Content: This is why I don’t play support
+
+2025-03-27 22:39:20,736 - INFO - Image Paths: ['https://preview.redd.it/djp4p9k4lare1.jpeg?auto=webp&s=4a683bfc42982ebd60be0e0c63fbf299b8eddb10']
+2025-03-27 22:39:20,736 - INFO - Video Path: 
+2025-03-27 22:39:20,897 - INFO - Downloaded media from https://preview.redd.it/djp4p9k4lare1.jpeg?auto=webp&s=4a683bfc42982ebd60be0e0c63fbf299b8eddb10 to temp_image.jpg
+2025-03-27 22:39:21,720 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
