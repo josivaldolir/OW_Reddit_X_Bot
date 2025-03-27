@@ -1329,3 +1329,9 @@ the flair is me
 2025-03-27 14:14:47,371 - INFO - Downloaded media from https://v.redd.it/mqdsnqoyj8re1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-27 14:14:51,709 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-27 14:15:00,514 - INFO - Posted content successfully. Tweet ID: 1905262280276946961
+2025-03-27 14:44:32,852 - INFO - Content: Ramattra: it's free real estate
+
+2025-03-27 14:44:32,852 - INFO - Image Paths: ['https://preview.redd.it/0m9darual8re1.png?auto=webp&s=904116abfcddcdae208be6722acf8cd56931879b']
+2025-03-27 14:44:32,852 - INFO - Video Path: 
+2025-03-27 14:44:32,924 - INFO - Downloaded media from https://preview.redd.it/0m9darual8re1.png?auto=webp&s=904116abfcddcdae208be6722acf8cd56931879b to temp_image.jpg
+2025-03-27 14:44:34,271 - INFO - Posted content successfully. Tweet ID: 1905269718518235534
