@@ -1240,3 +1240,9 @@ I'm half-joking but for real, Blizzard, please crank up the impact of that winst
 2025-03-27 05:15:08,649 - INFO - Downloaded media from https://v.redd.it/t8fw9b2pj4re1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-27 05:15:09,111 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-27 05:15:14,279 - INFO - Posted content successfully. Tweet ID: 1905126442649956622
+2025-03-27 05:39:54,310 - INFO - Content: My go-to every time, no argument
+
+2025-03-27 05:39:54,311 - INFO - Image Paths: ['https://preview.redd.it/n171nwcue3re1.png?auto=webp&s=49ec4020022de88000d592b5fc60099e0f3b02f5']
+2025-03-27 05:39:54,311 - INFO - Video Path: 
+2025-03-27 05:39:54,552 - INFO - Downloaded media from https://preview.redd.it/n171nwcue3re1.png?auto=webp&s=49ec4020022de88000d592b5fc60099e0f3b02f5 to temp_image.jpg
+2025-03-27 05:39:55,599 - INFO - Posted content successfully. Tweet ID: 1905132654720352329
