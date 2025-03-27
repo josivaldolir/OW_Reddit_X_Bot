@@ -1194,3 +1194,10 @@ Too Many Requests
 2025-03-26 23:36:38,719 - INFO - Downloaded media from https://preview.redd.it/n171nwcue3re1.png?auto=webp&s=49ec4020022de88000d592b5fc60099e0f3b02f5 to temp_image.jpg
 2025-03-26 23:36:39,391 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-27 01:08:50,423 - INFO - Content: What an amazing perk
+I don't even think about it, I go straight for Fortune Teller every single time.
+2025-03-27 01:08:50,424 - INFO - Image Paths: ['https://preview.redd.it/0wzuzq1un3re1.png?auto=webp&s=5256be8d84267e68f7b5e454f70c419ec8bad274']
+2025-03-27 01:08:50,424 - INFO - Video Path: 
+2025-03-27 01:08:50,520 - INFO - Downloaded media from https://preview.redd.it/0wzuzq1un3re1.png?auto=webp&s=5256be8d84267e68f7b5e454f70c419ec8bad274 to temp_image.jpg
+2025-03-27 01:08:51,146 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
