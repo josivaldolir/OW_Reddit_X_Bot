@@ -1287,3 +1287,9 @@ I couldn't get it to line up perfectly, but genuinely the first time this has ev
 2025-03-27 09:16:01,542 - INFO - Video Path: 
 2025-03-27 09:16:01,904 - INFO - Downloaded media from https://preview.redd.it/rzkmcxwoe3re1.png?auto=webp&s=4a70aae05dcbb6e32b55b1523fc18ff2fefd7aed to temp_image.jpg
 2025-03-27 09:16:03,511 - INFO - Posted content successfully. Tweet ID: 1905187044688576923
+2025-03-27 09:39:55,413 - INFO - Content: Say no to skill-less "tanks"
+
+2025-03-27 09:39:55,413 - INFO - Image Paths: ['https://preview.redd.it/15tjvyx2e2re1.jpeg?auto=webp&s=0b2381d3b34790a5b1a70332508389ae6ccf8d68']
+2025-03-27 09:39:55,413 - INFO - Video Path: 
+2025-03-27 09:39:55,455 - INFO - Downloaded media from https://preview.redd.it/15tjvyx2e2re1.jpeg?auto=webp&s=0b2381d3b34790a5b1a70332508389ae6ccf8d68 to temp_image.jpg
+2025-03-27 09:39:56,269 - INFO - Posted content successfully. Tweet ID: 1905193056132829234
