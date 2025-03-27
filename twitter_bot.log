@@ -1321,3 +1321,11 @@ the flair is me
 2025-03-27 13:43:01,944 - INFO - Video Path: 
 2025-03-27 13:43:02,320 - INFO - Downloaded media from https://preview.redd.it/odnpm70zd8re1.png?auto=webp&s=96fa8213833c629ee8403efea3d53451cd4ae753 to temp_image.jpg
 2025-03-27 13:43:04,029 - INFO - Posted content successfully. Tweet ID: 1905254238953079212
+2025-03-27 14:14:46,436 - INFO - Content: Decided to play the GOATS Brig for the first time... Guess, people really don't like her
+
+2025-03-27 14:14:46,436 - INFO - Image Paths: ['https://external-preview.redd.it/bXFoczZ2cHlqOHJlMYym9SNcw85mFePlZivMUu3QbYtc9xUQOhzcytRY5Wnh.png?format=pjpg&auto=webp&s=f1dfa702888443202838b053988661d99b766e24']
+2025-03-27 14:14:46,436 - INFO - Video Path: https://v.redd.it/mqdsnqoyj8re1/DASH_1080.mp4?source=fallback
+2025-03-27 14:14:47,273 - INFO - Downloaded media from https://v.redd.it/mqdsnqoyj8re1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-27 14:14:47,371 - INFO - Downloaded media from https://v.redd.it/mqdsnqoyj8re1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-27 14:14:51,709 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-27 14:15:00,514 - INFO - Posted content successfully. Tweet ID: 1905262280276946961
