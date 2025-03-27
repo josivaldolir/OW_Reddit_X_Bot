@@ -1232,3 +1232,11 @@ I'm half-joking but for real, Blizzard, please crank up the impact of that winst
 2025-03-27 04:43:09,918 - INFO - Video Path: 
 2025-03-27 04:43:10,009 - INFO - Downloaded media from https://preview.redd.it/jz3oj7ihc4re1.jpeg?auto=webp&s=9e0047ff841f7c356f891b848e3005fe7707aa25 to temp_image.jpg
 2025-03-27 04:43:10,940 - INFO - Posted content successfully. Tweet ID: 1905118375342223402
+2025-03-27 05:15:07,878 - INFO - Content: The Cassidy Patch notes experience™
+
+2025-03-27 05:15:07,878 - INFO - Image Paths: ['https://external-preview.redd.it/MGxlaTllMnBqNHJlMUsK8zrOHyO3AKcGbRsQMrEXw1lvnyM-OjeDvP2SBcPF.png?format=pjpg&auto=webp&s=cf0f3eec42ed9e7f7b83c6940d727426ee493da9']
+2025-03-27 05:15:07,878 - INFO - Video Path: https://v.redd.it/t8fw9b2pj4re1/DASH_1080.mp4?source=fallback
+2025-03-27 05:15:08,608 - INFO - Downloaded media from https://v.redd.it/t8fw9b2pj4re1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-27 05:15:08,649 - INFO - Downloaded media from https://v.redd.it/t8fw9b2pj4re1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-27 05:15:09,111 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-27 05:15:14,279 - INFO - Posted content successfully. Tweet ID: 1905126442649956622
