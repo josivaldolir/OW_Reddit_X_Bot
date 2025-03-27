@@ -13,3 +13,11 @@ Y’all see him??
 2025-03-27 16:19:07,567 - INFO - Video Path: 
 2025-03-27 16:19:07,651 - INFO - Downloaded media from https://preview.redd.it/hpim00b849re1.jpeg?auto=webp&s=390a7b5e820065fa67dec6aab50c8c324ae91031 to temp_image.jpg
 2025-03-27 16:19:09,895 - INFO - Posted content successfully. Tweet ID: 1905293523391217739
+2025-03-27 16:45:47,770 - INFO - Content: Thus, With a Kiss, I Die
+
+2025-03-27 16:45:47,770 - INFO - Image Paths: ['https://external-preview.redd.it/MHNlNHd2MHd1OHJlMeWGWhFwD0voALXK7Qr0Xh5STYkKusUbQYp8RXt0RFWI.png?format=pjpg&auto=webp&s=f62d9f116eb2193ab9278bbf65ad36b3e0aed0cc']
+2025-03-27 16:45:47,770 - INFO - Video Path: https://v.redd.it/i6lsit4wu8re1/DASH_1080.mp4?source=fallback
+2025-03-27 16:45:48,342 - INFO - Downloaded media from https://v.redd.it/i6lsit4wu8re1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-27 16:45:48,609 - INFO - Downloaded media from https://v.redd.it/i6lsit4wu8re1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-27 16:45:48,896 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-27 16:45:54,124 - INFO - Posted content successfully. Tweet ID: 1905300253823168852
