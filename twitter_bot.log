@@ -1335,3 +1335,11 @@ the flair is me
 2025-03-27 14:44:32,852 - INFO - Video Path: 
 2025-03-27 14:44:32,924 - INFO - Downloaded media from https://preview.redd.it/0m9darual8re1.png?auto=webp&s=904116abfcddcdae208be6722acf8cd56931879b to temp_image.jpg
 2025-03-27 14:44:34,271 - INFO - Posted content successfully. Tweet ID: 1905269718518235534
+2025-03-27 15:17:08,199 - INFO - Content: I hacked an enemy sombra’s EMP
+The hack was not meant for her… You can see the moment I realize what I did 😭
+2025-03-27 15:17:08,199 - INFO - Image Paths: ['https://external-preview.redd.it/eDB4YmN0NGhxOHJlMYyJ_8EB2L5dnd9KfNhoD9aHeVr967-ziH0cvPzAidKZ.png?format=pjpg&auto=webp&s=a21fea2042d031f173407b92e6e83135bab549ed']
+2025-03-27 15:17:08,199 - INFO - Video Path: https://v.redd.it/9nnkmwehq8re1/DASH_720.mp4?source=fallback
+2025-03-27 15:17:08,387 - INFO - Downloaded media from https://v.redd.it/9nnkmwehq8re1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-03-27 15:17:08,408 - INFO - Downloaded media from https://v.redd.it/9nnkmwehq8re1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-03-27 15:17:09,347 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-27 15:17:15,943 - INFO - Posted content successfully. Tweet ID: 1905277947642061061
