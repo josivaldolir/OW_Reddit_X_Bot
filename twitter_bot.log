@@ -1281,3 +1281,9 @@ insert body text here
 2025-03-27 08:43:43,131 - INFO - Video Path: 
 2025-03-27 08:43:43,217 - INFO - Downloaded media from https://preview.redd.it/kcx0um91k2re1.png?auto=webp&s=8b7d7c5f68e7a40f3f6c2893e80328b473e8ce7b to temp_image.jpg
 2025-03-27 08:43:44,418 - INFO - Posted content successfully. Tweet ID: 1905178912977539336
+2025-03-27 09:16:01,542 - INFO - Content: A Zarya and I did the thing in OW Classic
+I couldn't get it to line up perfectly, but genuinely the first time this has ever happened in OW2. So happy
+2025-03-27 09:16:01,542 - INFO - Image Paths: ['https://preview.redd.it/rzkmcxwoe3re1.png?auto=webp&s=4a70aae05dcbb6e32b55b1523fc18ff2fefd7aed']
+2025-03-27 09:16:01,542 - INFO - Video Path: 
+2025-03-27 09:16:01,904 - INFO - Downloaded media from https://preview.redd.it/rzkmcxwoe3re1.png?auto=webp&s=4a70aae05dcbb6e32b55b1523fc18ff2fefd7aed to temp_image.jpg
+2025-03-27 09:16:03,511 - INFO - Posted content successfully. Tweet ID: 1905187044688576923
