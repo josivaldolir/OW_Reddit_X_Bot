@@ -57,3 +57,12 @@ I signed for Queen Brigitte... I got DPS Doom absolutely everywhere
 2025-03-27 19:12:02,718 - INFO - Video Path: 
 2025-03-27 19:12:02,966 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-27 19:35:42,721 - INFO - Content: Best Defense is Offense
+
+2025-03-27 19:35:42,721 - INFO - Image Paths: ['https://external-preview.redd.it/NmJ5MWdnMHJyOXJlMdV_G0FkJHllVJzNrPocbHlD2_rIEb77XC-oZF5V93de.png?format=pjpg&auto=webp&s=c21ea5baa3a33845a414f3dc49b83c90c76571c2']
+2025-03-27 19:35:42,721 - INFO - Video Path: https://v.redd.it/capqk67rr9re1/DASH_1080.mp4?source=fallback
+2025-03-27 19:35:43,351 - INFO - Downloaded media from https://v.redd.it/capqk67rr9re1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-27 19:35:43,630 - INFO - Downloaded media from https://v.redd.it/capqk67rr9re1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-27 19:35:43,961 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-27 19:35:59,577 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
