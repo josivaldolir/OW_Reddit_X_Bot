@@ -66,3 +66,11 @@ Too Many Requests
 2025-03-27 19:35:43,961 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-27 19:35:59,577 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-27 20:15:40,937 - INFO - Content: Best Defense is Offense
+
+2025-03-27 20:15:40,937 - INFO - Image Paths: ['https://external-preview.redd.it/NmJ5MWdnMHJyOXJlMdV_G0FkJHllVJzNrPocbHlD2_rIEb77XC-oZF5V93de.png?format=pjpg&auto=webp&s=c21ea5baa3a33845a414f3dc49b83c90c76571c2']
+2025-03-27 20:15:40,937 - INFO - Video Path: https://v.redd.it/capqk67rr9re1/DASH_1080.mp4?source=fallback
+2025-03-27 20:15:41,086 - INFO - Downloaded media from https://v.redd.it/capqk67rr9re1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-27 20:15:41,224 - INFO - Downloaded media from https://v.redd.it/capqk67rr9re1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-27 20:15:41,722 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-27 20:15:51,645 - INFO - Posted content successfully. Tweet ID: 1905353091714777311
