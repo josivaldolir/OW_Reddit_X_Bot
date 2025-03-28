@@ -156,3 +156,9 @@ It may sound dumb but im extremely thankful to Zenyatta specifically for setting
 2025-03-28 04:17:51,632 - INFO - Downloaded media from https://v.redd.it/1za0xem7pare1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-28 04:17:51,941 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-28 04:17:59,199 - INFO - Posted content successfully. Tweet ID: 1905474422737076352
+2025-03-28 04:42:05,627 - INFO - Content: Yup, all me. I carried.  No need to thank me!
+
+2025-03-28 04:42:05,627 - INFO - Image Paths: ['https://preview.redd.it/c67ub8vcgcre1.jpeg?auto=webp&s=987c810d79cf9cbfab730909857d905e59bfcd99']
+2025-03-28 04:42:05,627 - INFO - Video Path: 
+2025-03-28 04:42:05,866 - INFO - Downloaded media from https://preview.redd.it/c67ub8vcgcre1.jpeg?auto=webp&s=987c810d79cf9cbfab730909857d905e59bfcd99 to temp_image.jpg
+2025-03-28 04:42:07,091 - INFO - Posted content successfully. Tweet ID: 1905480495267184872
