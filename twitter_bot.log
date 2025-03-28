@@ -227,3 +227,11 @@ Deploy Ravenous Vortex + Activate Nemesis Form = Have a field day!
 2025-03-28 09:16:10,742 - INFO - Video Path: 
 2025-03-28 09:16:11,007 - INFO - Downloaded media from https://preview.redd.it/0ytphrd76ere1.png?auto=webp&s=242e2110e0c4dcbfd4d99b620d04f765e8d6b90b to temp_image.jpg
 2025-03-28 09:16:12,223 - INFO - Posted content successfully. Tweet ID: 1905549471121056075
+2025-03-28 09:39:48,989 - INFO - Content: Goats mode is going well
+
+2025-03-28 09:39:48,989 - INFO - Image Paths: ['https://external-preview.redd.it/bjZnbHdmcnVqYXJlMYmXYa9gs1mRgDYAzToqx3FhcECXXAwAFiJE-rMQ3dqq.png?format=pjpg&auto=webp&s=1d14968261b283ab5213f20a1e75608d0ceada03']
+2025-03-28 09:39:48,989 - INFO - Video Path: https://v.redd.it/vftuqfrujare1/DASH_1080.mp4?source=fallback
+2025-03-28 09:39:49,206 - INFO - Downloaded media from https://v.redd.it/vftuqfrujare1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-28 09:39:49,289 - INFO - Downloaded media from https://v.redd.it/vftuqfrujare1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-28 09:39:51,692 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-28 09:40:00,430 - INFO - Posted content successfully. Tweet ID: 1905555461832585630
