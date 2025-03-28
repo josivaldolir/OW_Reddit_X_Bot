@@ -184,3 +184,13 @@ It may sound dumb but im extremely thankful to Zenyatta specifically for setting
 2025-03-28 06:21:10,059 - INFO - Downloaded media from https://preview.redd.it/8pyus09ibbre1.png?width=2560&format=png&auto=webp&s=e977fd22edd0734e2b52e0a146d17d86e8b8bd9e to temp_image.jpg
 2025-03-28 06:21:10,909 - INFO - Downloaded media from https://preview.redd.it/tejetrbjbbre1.png?width=2560&format=png&auto=webp&s=6fefc364fa4a06ce311cc5fdbb768e837de67065 to temp_image.jpg
 2025-03-28 06:21:13,571 - INFO - Posted content successfully. Tweet ID: 1905505430731706448
+2025-03-28 06:47:15,600 - INFO - Content: What playing Overwatch does to Support players
+I uh... I think they'd given up. Fair. 
+
+As a tank player, it felt right to join them in the endless pit at the end.
+2025-03-28 06:47:15,600 - INFO - Image Paths: ['https://external-preview.redd.it/N2xjZnljYWR5Y3JlMdN9k0xO_yfwfJeetROMKPbBlfH3GWDoMV6P5NRCoDn3.png?format=pjpg&auto=webp&s=4d4420d7c8fc31172208032ea5402200b454bc8d']
+2025-03-28 06:47:15,600 - INFO - Video Path: https://v.redd.it/49e8giddycre1/DASH_1080.mp4?source=fallback
+2025-03-28 06:47:16,462 - INFO - Downloaded media from https://v.redd.it/49e8giddycre1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-28 06:47:16,586 - INFO - Downloaded media from https://v.redd.it/49e8giddycre1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-28 06:47:16,953 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-28 06:47:24,084 - INFO - Posted content successfully. Tweet ID: 1905512024060428709
