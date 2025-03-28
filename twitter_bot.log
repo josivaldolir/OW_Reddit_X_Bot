@@ -354,3 +354,12 @@ That's all :3
 2025-03-28 17:38:19,041 - INFO - Video Path: 
 2025-03-28 17:38:19,191 - INFO - Downloaded media from https://preview.redd.it/x0d4ccesogre1.png?auto=webp&s=6965381dc103e76ad22b8b83bfbac1f3c1ba3a71 to temp_image.jpg
 2025-03-28 17:38:21,470 - INFO - Posted content successfully. Tweet ID: 1905675836965236915
+2025-03-28 18:47:28,044 - INFO - Content: FEARLESS Widowmaker by me in Blender
+
+2025-03-28 18:47:28,044 - INFO - Image Paths: ['https://preview.redd.it/7cb3dt6qzgre1.jpg?width=2200&format=pjpg&auto=webp&s=a975454c0276db989dcb1cb8529d192f90051574', 'https://preview.redd.it/t50fameqzgre1.jpg?width=2200&format=pjpg&auto=webp&s=258665406617088104d6006ed7bfd12f949b6d3c', 'https://preview.redd.it/0u8psylqzgre1.jpg?width=2200&format=pjpg&auto=webp&s=23d3f008b07f9a30497f8b750ebefe5527585153', 'https://preview.redd.it/7vnloynqzgre1.jpg?width=2200&format=pjpg&auto=webp&s=8d4405a89d41b5fcf971ca0a91650e140701a1bb']
+2025-03-28 18:47:28,044 - INFO - Video Path: 
+2025-03-28 18:47:28,080 - INFO - Downloaded media from https://preview.redd.it/7cb3dt6qzgre1.jpg?width=2200&format=pjpg&auto=webp&s=a975454c0276db989dcb1cb8529d192f90051574 to temp_image.jpg
+2025-03-28 18:47:29,117 - INFO - Downloaded media from https://preview.redd.it/t50fameqzgre1.jpg?width=2200&format=pjpg&auto=webp&s=258665406617088104d6006ed7bfd12f949b6d3c to temp_image.jpg
+2025-03-28 18:47:30,038 - INFO - Downloaded media from https://preview.redd.it/0u8psylqzgre1.jpg?width=2200&format=pjpg&auto=webp&s=23d3f008b07f9a30497f8b750ebefe5527585153 to temp_image.jpg
+2025-03-28 18:47:30,925 - INFO - Downloaded media from https://preview.redd.it/7vnloynqzgre1.jpg?width=2200&format=pjpg&auto=webp&s=8d4405a89d41b5fcf971ca0a91650e140701a1bb to temp_image.jpg
+2025-03-28 18:47:32,472 - INFO - Posted content successfully. Tweet ID: 1905693251438518440
