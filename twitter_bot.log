@@ -403,3 +403,11 @@ Lil' fan render I made of the new skins.
 2025-03-28 21:35:51,904 - INFO - Downloaded media from https://preview.redd.it/8j061qvusgre1.png?auto=webp&s=a7a04106430334df607b0b05f75ace997e79b800 to temp_image.jpg
 2025-03-28 21:35:57,940 - ERROR - Failed to post content: 503 Service Unavailable
 Service Unavailable
+2025-03-28 22:13:54,432 - INFO - Content: Reminder to all Lifeweavers out there - YOU CAN CANCEL YOUR ULT
+
+2025-03-28 22:13:54,432 - INFO - Image Paths: ['https://external-preview.redd.it/bnM3amgzNHp4aHJlMdrgxAohxTWvf3bgM_T9Xu_YffhuFfykDMjalASBMNjk.png?format=pjpg&auto=webp&s=b41cead0da692b9456b70a78ac1b3f9285016eb4']
+2025-03-28 22:13:54,432 - INFO - Video Path: https://v.redd.it/booja64zxhre1/DASH_480.mp4?source=fallback
+2025-03-28 22:13:54,600 - INFO - Downloaded media from https://v.redd.it/booja64zxhre1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-03-28 22:13:54,655 - INFO - Downloaded media from https://v.redd.it/booja64zxhre1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-03-28 22:13:55,025 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-28 22:14:02,358 - INFO - Posted content successfully. Tweet ID: 1905745219620147546
