@@ -201,3 +201,11 @@ I signed for Queen Brigitte... I got DPS Doom absolutely everywhere
 2025-03-28 07:14:45,162 - INFO - Image Paths: []
 2025-03-28 07:14:45,162 - INFO - Video Path: 
 2025-03-28 07:14:45,468 - INFO - Posted content successfully. Tweet ID: 1905518908800721322
+2025-03-28 07:36:38,754 - INFO - Content: new bastion tech just dropped
+
+2025-03-28 07:36:38,755 - INFO - Image Paths: ['https://external-preview.redd.it/MTd1ajRlc2ZqY3JlMaFyUaT5t9H-LeEhJBiMs0amN84GvsT-SHbpFlVtEofY.png?format=pjpg&auto=webp&s=3e8db22fd0f4e37a9e0973658a89ffc3fcbf9fac']
+2025-03-28 07:36:38,755 - INFO - Video Path: https://v.redd.it/d0x1resfjcre1/DASH_1080.mp4?source=fallback
+2025-03-28 07:36:39,354 - INFO - Downloaded media from https://v.redd.it/d0x1resfjcre1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-28 07:36:39,648 - INFO - Downloaded media from https://v.redd.it/d0x1resfjcre1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-28 07:36:40,068 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-28 07:36:46,919 - INFO - Posted content successfully. Tweet ID: 1905524451283743097
