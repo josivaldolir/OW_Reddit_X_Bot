@@ -148,3 +148,11 @@ It may sound dumb but im extremely thankful to Zenyatta specifically for setting
 2025-03-28 03:50:21,174 - INFO - Image Paths: []
 2025-03-28 03:50:21,174 - INFO - Video Path: 
 2025-03-28 03:50:21,539 - INFO - Posted content successfully. Tweet ID: 1905467470070112628
+2025-03-28 04:17:50,674 - INFO - Content: This Ilari literally left me for dead to go waste the sunrise
+
+2025-03-28 04:17:50,674 - INFO - Image Paths: ['https://external-preview.redd.it/eThzMHd6aTdwYXJlMU7gsOiqx2iOUY62vPy56Dhuum7gGcUKMaHTI6tEAQhs.png?format=pjpg&auto=webp&s=6379a22d8524b9bca8151c15aaadddd46e1e1041']
+2025-03-28 04:17:50,674 - INFO - Video Path: https://v.redd.it/1za0xem7pare1/DASH_1080.mp4?source=fallback
+2025-03-28 04:17:51,291 - INFO - Downloaded media from https://v.redd.it/1za0xem7pare1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-28 04:17:51,632 - INFO - Downloaded media from https://v.redd.it/1za0xem7pare1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-28 04:17:51,941 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-28 04:17:59,199 - INFO - Posted content successfully. Tweet ID: 1905474422737076352
