@@ -241,3 +241,11 @@ I don't know what flair this fits under, But does anyone know when / how this is
 2025-03-28 10:15:13,801 - INFO - Video Path: 
 2025-03-28 10:15:13,909 - INFO - Downloaded media from https://preview.redd.it/b1nnhom6sdre1.png?auto=webp&s=639407f86a9839ff83b6e5825e0ea8ea0a72499d to temp_image.jpg
 2025-03-28 10:15:14,682 - INFO - Posted content successfully. Tweet ID: 1905564329505947671
+2025-03-28 10:41:57,224 - INFO - Content: Romeo and Juliet
+Romantic tragedy in OW
+2025-03-28 10:41:57,224 - INFO - Image Paths: ['https://external-preview.redd.it/cDlidnNqbjZ0YXJlMSePGWL4Aw6PvKlU8c7_O-PwZv8Q3lnwWbvjsUpDYKx1.png?format=pjpg&auto=webp&s=d0695ddef66e66dc54f0c0bc5beda82f42a33366']
+2025-03-28 10:41:57,224 - INFO - Video Path: https://v.redd.it/i7o2u5i6tare1/DASH_1080.mp4?source=fallback
+2025-03-28 10:41:57,411 - INFO - Downloaded media from https://v.redd.it/i7o2u5i6tare1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-28 10:41:57,476 - INFO - Downloaded media from https://v.redd.it/i7o2u5i6tare1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-28 10:41:57,799 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-28 10:42:04,990 - INFO - Posted content successfully. Tweet ID: 1905571083756933392
