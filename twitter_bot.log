@@ -123,3 +123,9 @@ Too Many Requests
 2025-03-27 23:37:45,849 - INFO - Downloaded media from https://preview.redd.it/pustrvafvare1.jpeg?auto=webp&s=76db9f3e0fb05fbf8803d4cb9738186b439a921b to temp_image.jpg
 2025-03-27 23:37:46,822 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-28 01:08:17,348 - INFO - Content: Kiriko tattoo I did 😊 (@Tamagothchick on ig)
+So far I’ve only done Torbjorn and Kiriko and would absolutely love to do more Overwatch tattoos 🥹 thanks for looking! 🥰
+2025-03-28 01:08:17,348 - INFO - Image Paths: ['https://preview.redd.it/9qd590nitare1.jpeg?auto=webp&s=d4145463265c40c8be901b99094100352ce77c4b']
+2025-03-28 01:08:17,348 - INFO - Video Path: 
+2025-03-28 01:08:17,432 - INFO - Downloaded media from https://preview.redd.it/9qd590nitare1.jpeg?auto=webp&s=d4145463265c40c8be901b99094100352ce77c4b to temp_image.jpg
+2025-03-28 01:08:19,212 - INFO - Posted content successfully. Tweet ID: 1905426689871806874
