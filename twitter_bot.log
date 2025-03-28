@@ -168,3 +168,12 @@ It may sound dumb but im extremely thankful to Zenyatta specifically for setting
 2025-03-28 05:14:29,951 - INFO - Video Path: 
 2025-03-28 05:14:30,382 - INFO - Downloaded media from https://preview.redd.it/jtcr6sw1sbre1.png?auto=webp&s=4227f934bbbf508391ecdee9d52dfa8711379499 to temp_image.jpg
 2025-03-28 05:14:31,804 - INFO - Posted content successfully. Tweet ID: 1905488650210509259
+2025-03-28 05:41:58,502 - INFO - Content: lectures are boring lately. drawing ramattra is not 🌸
+
+2025-03-28 05:41:58,502 - INFO - Image Paths: ['https://preview.redd.it/vrljct368bre1.jpg?width=4000&format=pjpg&auto=webp&s=33a028f28037e3b57ebd9be23ab5f2d32cc0dc38', 'https://preview.redd.it/rsakwt368bre1.jpg?width=4000&format=pjpg&auto=webp&s=9a29ca74b74cce831de9ab10b991a30fdb5b70ab', 'https://preview.redd.it/l06n9v368bre1.jpg?width=4000&format=pjpg&auto=webp&s=b2f74911864ac0ecca923f22c2722437c4e43f11', 'https://preview.redd.it/da5pvu368bre1.jpg?width=4000&format=pjpg&auto=webp&s=20b1115dfc97a3228bfd96e8546a756a37edb3b5']
+2025-03-28 05:41:58,502 - INFO - Video Path: 
+2025-03-28 05:41:58,679 - INFO - Downloaded media from https://preview.redd.it/vrljct368bre1.jpg?width=4000&format=pjpg&auto=webp&s=33a028f28037e3b57ebd9be23ab5f2d32cc0dc38 to temp_image.jpg
+2025-03-28 05:42:00,305 - INFO - Downloaded media from https://preview.redd.it/rsakwt368bre1.jpg?width=4000&format=pjpg&auto=webp&s=9a29ca74b74cce831de9ab10b991a30fdb5b70ab to temp_image.jpg
+2025-03-28 05:42:01,897 - INFO - Downloaded media from https://preview.redd.it/l06n9v368bre1.jpg?width=4000&format=pjpg&auto=webp&s=b2f74911864ac0ecca923f22c2722437c4e43f11 to temp_image.jpg
+2025-03-28 05:42:03,540 - INFO - Downloaded media from https://preview.redd.it/da5pvu368bre1.jpg?width=4000&format=pjpg&auto=webp&s=20b1115dfc97a3228bfd96e8546a756a37edb3b5 to temp_image.jpg
+2025-03-28 05:42:06,027 - INFO - Posted content successfully. Tweet ID: 1905495588533354497
