@@ -283,3 +283,9 @@ BEER!
 2025-03-28 12:28:19,463 - INFO - Downloaded media from https://v.redd.it/do23kkte2cre1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-28 12:28:19,794 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-28 12:28:27,461 - INFO - Posted content successfully. Tweet ID: 1905597853533086070
+2025-03-28 13:02:01,719 - INFO - Content: Why are we still here? Just to suffer?
+
+2025-03-28 13:02:01,719 - INFO - Image Paths: ['https://preview.redd.it/2hxufd3ohfre1.jpeg?auto=webp&s=fb94ffe5680a009baa81a87a4088182a50466447']
+2025-03-28 13:02:01,719 - INFO - Video Path: 
+2025-03-28 13:02:01,772 - INFO - Downloaded media from https://preview.redd.it/2hxufd3ohfre1.jpeg?auto=webp&s=fb94ffe5680a009baa81a87a4088182a50466447 to temp_image.jpg
+2025-03-28 13:02:03,083 - INFO - Posted content successfully. Tweet ID: 1905606307521896812
