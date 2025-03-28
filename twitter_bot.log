@@ -275,3 +275,11 @@ I am a mid/high gold in all roles, so I was fairly in the middle of this range, 
 2025-03-28 11:36:03,087 - INFO - Video Path: 
 2025-03-28 11:36:03,357 - INFO - Downloaded media from https://preview.redd.it/5z5yxxnukdre1.jpeg?auto=webp&s=daa0008056f4856d1a6de4aeb99990cf583683c7 to temp_image.jpg
 2025-03-28 11:36:05,659 - INFO - Posted content successfully. Tweet ID: 1905584673889419597
+2025-03-28 12:28:19,051 - INFO - Content: 0 luck involved.
+BEER!
+2025-03-28 12:28:19,051 - INFO - Image Paths: ['https://external-preview.redd.it/bmJzcXc0cWUyY3JlMaaAnepwYPE4H95XGB3l0pgYjPjNjitQPel9o93L_NlJ.png?format=pjpg&auto=webp&s=877a6b855adf681686244a175f70608f83bee91b']
+2025-03-28 12:28:19,051 - INFO - Video Path: https://v.redd.it/do23kkte2cre1/DASH_1080.mp4?source=fallback
+2025-03-28 12:28:19,337 - INFO - Downloaded media from https://v.redd.it/do23kkte2cre1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-28 12:28:19,463 - INFO - Downloaded media from https://v.redd.it/do23kkte2cre1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-28 12:28:19,794 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-28 12:28:27,461 - INFO - Posted content successfully. Tweet ID: 1905597853533086070
