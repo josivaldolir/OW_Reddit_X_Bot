@@ -308,3 +308,9 @@ To me, that perk is what every perk should strive to achieve: not oppressively p
 2025-03-28 14:40:27,371 - INFO - Image Paths: []
 2025-03-28 14:40:27,372 - INFO - Video Path: 
 2025-03-28 14:40:27,697 - INFO - Posted content successfully. Tweet ID: 1905631073788195019
+2025-03-28 15:15:23,162 - INFO - Content: I miss her
+
+2025-03-28 15:15:23,162 - INFO - Image Paths: ['https://preview.redd.it/b3mdkjds0gre1.png?auto=webp&s=4fb9d5ac67242b8f50b52cef2270237130c3aaa7']
+2025-03-28 15:15:23,162 - INFO - Video Path: 
+2025-03-28 15:15:23,280 - INFO - Downloaded media from https://preview.redd.it/b3mdkjds0gre1.png?auto=webp&s=4fb9d5ac67242b8f50b52cef2270237130c3aaa7 to temp_image.jpg
+2025-03-28 15:15:24,553 - INFO - Posted content successfully. Tweet ID: 1905639867402367099
