@@ -545,3 +545,10 @@ Every game it’s a zarya and it’s just so boring and makes me want to jump we
 2025-03-29 10:41:04,872 - INFO - Downloaded media from https://v.redd.it/0yp3yz6ndkre1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-03-29 10:41:05,334 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-29 10:41:11,482 - INFO - Posted content successfully. Tweet ID: 1905933247206375763
+2025-03-29 11:12:28,080 - INFO - Content: I LOVE 6v6 Open
+Been hardstuck Plat Diamond on Role queue, but 6v6 made the game infinitely more fun. 
+2025-03-29 11:12:28,080 - INFO - Image Paths: ['https://preview.redd.it/3liytty3alre1.jpeg?auto=webp&s=416d885008f2bd695b7678ef761332a65b303f6f']
+2025-03-29 11:12:28,080 - INFO - Video Path: 
+2025-03-29 11:12:28,300 - INFO - Downloaded media from https://preview.redd.it/3liytty3alre1.jpeg?auto=webp&s=416d885008f2bd695b7678ef761332a65b303f6f to temp_image.jpg
+2025-03-29 11:12:29,038 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
