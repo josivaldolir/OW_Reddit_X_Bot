@@ -773,3 +773,12 @@ To main Mauga calls upon such a deep part of your brain. You have to train for y
 2025-03-29 22:38:36,639 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-29 22:38:43,889 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-29 23:13:09,363 - INFO - Content: I love this perk
+
+2025-03-29 23:13:09,363 - INFO - Image Paths: ['https://external-preview.redd.it/N2dhemtmdXQybnJlMfXnpQROjO4eE5foIWfutmbVFCr41ukFfntlkECsufTg.png?format=pjpg&auto=webp&s=bbc4a6e084a06f7583ca59b64239f0a623057b8e']
+2025-03-29 23:13:09,363 - INFO - Video Path: https://v.redd.it/kokqreut2nre1/DASH_1080.mp4?source=fallback
+2025-03-29 23:13:09,525 - INFO - Downloaded media from https://v.redd.it/kokqreut2nre1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-29 23:13:09,567 - INFO - Downloaded media from https://v.redd.it/kokqreut2nre1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-29 23:13:09,924 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-29 23:13:16,181 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
