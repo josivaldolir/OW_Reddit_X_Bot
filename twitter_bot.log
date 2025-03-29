@@ -531,3 +531,9 @@ Every game it’s a zarya and it’s just so boring and makes me want to jump we
 2025-03-29 09:36:09,829 - INFO - Image Paths: []
 2025-03-29 09:36:09,829 - INFO - Video Path: 
 2025-03-29 09:36:10,111 - INFO - Posted content successfully. Tweet ID: 1905916883817136540
+2025-03-29 10:13:48,732 - INFO - Content: In light of recent news.
+
+2025-03-29 10:13:48,732 - INFO - Image Paths: ['https://preview.redd.it/pgsnq95iolre1.jpeg?auto=webp&s=a590dff10f963d500b1cd8986b4135cff4435ec5']
+2025-03-29 10:13:48,732 - INFO - Video Path: 
+2025-03-29 10:13:48,897 - INFO - Downloaded media from https://preview.redd.it/pgsnq95iolre1.jpeg?auto=webp&s=a590dff10f963d500b1cd8986b4135cff4435ec5 to temp_image.jpg
+2025-03-29 10:13:49,805 - INFO - Posted content successfully. Tweet ID: 1905926361539105144
