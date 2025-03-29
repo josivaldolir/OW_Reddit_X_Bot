@@ -565,3 +565,10 @@ Been hardstuck Plat Diamond on Role queue, but 6v6 made the game infinitely more
 2025-03-29 12:26:36,438 - INFO - Downloaded media from https://preview.redd.it/4tql3p4p9mre1.jpeg?auto=webp&s=80899f0914298a66683f0cfe106193d18d610d75 to temp_image.jpg
 2025-03-29 12:26:37,311 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-29 12:57:23,131 - INFO - Content: People rarely see the whole picture here
+
+2025-03-29 12:57:23,131 - INFO - Image Paths: ['https://preview.redd.it/0sdb92gpemre1.jpeg?auto=webp&s=1f07f97fb84d04ec90e5b80ebc8d8591b701edac']
+2025-03-29 12:57:23,131 - INFO - Video Path: 
+2025-03-29 12:57:23,391 - INFO - Downloaded media from https://preview.redd.it/0sdb92gpemre1.jpeg?auto=webp&s=1f07f97fb84d04ec90e5b80ebc8d8591b701edac to temp_image.jpg
+2025-03-29 12:57:24,530 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
