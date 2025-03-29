@@ -665,3 +665,14 @@ Too Many Requests
 2025-03-29 17:37:08,786 - INFO - Downloaded media from https://v.redd.it/6179ntn53nre1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-03-29 17:37:09,341 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-29 17:37:14,108 - INFO - Posted content successfully. Tweet ID: 1906037947981545963
+2025-03-29 18:19:00,115 - INFO - Content: Enemy ping showing Sombra's location whilst invisible?
+I pinged an enemy sombra and the ping icon showing her avatar was following her whilst invisible?
+
+This is a new bug?
+2025-03-29 18:19:00,115 - INFO - Image Paths: ['https://external-preview.redd.it/ZXpxYmc4MTVrbXJlMZzlzdjdju5U8yZbrN2voO2RSRjH988MoJHYxnNtbb9f.png?format=pjpg&auto=webp&s=df62fc947b24964fdbc8b05d35997ac53ebbf35b']
+2025-03-29 18:19:00,115 - INFO - Video Path: https://v.redd.it/slb76915kmre1/DASH_720.mp4?source=fallback
+2025-03-29 18:19:00,220 - INFO - Downloaded media from https://v.redd.it/slb76915kmre1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-03-29 18:19:00,230 - INFO - Downloaded media from https://v.redd.it/slb76915kmre1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-03-29 18:19:03,714 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-29 18:19:09,041 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
