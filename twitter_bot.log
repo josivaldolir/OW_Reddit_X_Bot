@@ -512,3 +512,11 @@ Too Many Requests
 2025-03-29 07:35:24,301 - INFO - Video Path: 
 2025-03-29 07:35:24,329 - INFO - Downloaded media from https://preview.redd.it/z66g9vyrqkre1.png?auto=webp&s=1c1d03c2e3174559ca0145d319551bf548359094 to temp_image.jpg
 2025-03-29 07:35:25,569 - INFO - Posted content successfully. Tweet ID: 1905886496072020014
+2025-03-29 08:17:23,816 - INFO - Content: Male Kiriko players when magical girl skin
+
+2025-03-29 08:17:23,816 - INFO - Image Paths: ['https://external-preview.redd.it/OWNmZGJqanh6anJlMSDzyA6csqQDogi8qapyUUv115ibmxowXIxIjNO2nnhs.png?format=pjpg&auto=webp&s=c06e0d716cb0e44d7de34bc91a801268492d694c']
+2025-03-29 08:17:23,816 - INFO - Video Path: https://v.redd.it/kvl4shpxzjre1/DASH_720.mp4?source=fallback
+2025-03-29 08:17:24,043 - INFO - Downloaded media from https://v.redd.it/kvl4shpxzjre1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-03-29 08:17:24,106 - INFO - Downloaded media from https://v.redd.it/kvl4shpxzjre1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-03-29 08:17:24,712 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-29 08:17:30,507 - INFO - Posted content successfully. Tweet ID: 1905897088249995515
