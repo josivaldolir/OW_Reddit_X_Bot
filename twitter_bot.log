@@ -468,3 +468,11 @@ Next seasons mythic looks familiar...
 2025-03-29 04:43:20,104 - INFO - Video Path: 
 2025-03-29 04:43:20,154 - INFO - Downloaded media from https://preview.redd.it/3pqsyosabjre1.jpeg?auto=webp&s=763d18e9dbfa7ec06cf0c23c2f952fc48d30b356 to temp_image.jpg
 2025-03-29 04:43:21,119 - INFO - Posted content successfully. Tweet ID: 1905843193825853924
+2025-03-29 05:13:35,250 - INFO - Content: Hot wheels bastion bug
+
+2025-03-29 05:13:35,250 - INFO - Image Paths: ['https://external-preview.redd.it/bWtrbW42bTM5anJlMUjTv7xDmxuhFZzZzavuZorUpwl5Bo7ORrWO1cLIxseh.png?format=pjpg&auto=webp&s=5a10ce22e664077479addf675c99683effbbb22f']
+2025-03-29 05:13:35,250 - INFO - Video Path: https://v.redd.it/e39oyvq39jre1/DASH_480.mp4?source=fallback
+2025-03-29 05:13:35,334 - INFO - Downloaded media from https://v.redd.it/e39oyvq39jre1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-03-29 05:13:35,366 - INFO - Downloaded media from https://v.redd.it/e39oyvq39jre1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-03-29 05:13:37,986 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-29 05:13:49,076 - INFO - Posted content successfully. Tweet ID: 1905850860904534019
