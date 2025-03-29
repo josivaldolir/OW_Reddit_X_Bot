@@ -694,3 +694,20 @@ This is a new bug?
 2025-03-29 19:11:27,716 - INFO - Downloaded media from https://v.redd.it/slb76915kmre1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-03-29 19:11:28,234 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-29 19:11:34,290 - INFO - Posted content successfully. Tweet ID: 1906061688526471310
+2025-03-29 19:35:48,283 - INFO - Content: 30 mythic prisms disappeared from my account
+First picture: I have 90 prisms after activating gamepass
+
+  
+Second picture: somehow i got 60 after restarting the game
+
+  
+Third Picture: I only ever bought the tracer lvl 1 so its impossible for me to spend exactly 30, it just disappeared
+
+  
+I already sent a support ticket to blizzard but im not expecting much. Does anyone know any explanation? 
+2025-03-29 19:35:48,283 - INFO - Image Paths: ['https://preview.redd.it/jkckdn09rnre1.png?width=2560&format=png&auto=webp&s=2aafbf306d82400f1dde9e891c659aa217cf9d27', 'https://preview.redd.it/82pvol09rnre1.png?width=2560&format=png&auto=webp&s=5838cb9e70c6fad0a85f19af3e7283ceaa180f81', 'https://preview.redd.it/nvilxo09rnre1.png?width=2560&format=png&auto=webp&s=1be07bd16bf886d2963f19601acc2d35f76b6fc8']
+2025-03-29 19:35:48,283 - INFO - Video Path: 
+2025-03-29 19:35:48,577 - INFO - Downloaded media from https://preview.redd.it/jkckdn09rnre1.png?width=2560&format=png&auto=webp&s=2aafbf306d82400f1dde9e891c659aa217cf9d27 to temp_image.jpg
+2025-03-29 19:35:49,379 - INFO - Downloaded media from https://preview.redd.it/82pvol09rnre1.png?width=2560&format=png&auto=webp&s=5838cb9e70c6fad0a85f19af3e7283ceaa180f81 to temp_image.jpg
+2025-03-29 19:35:50,169 - INFO - Downloaded media from https://preview.redd.it/nvilxo09rnre1.png?width=2560&format=png&auto=webp&s=1be07bd16bf886d2963f19601acc2d35f76b6fc8 to temp_image.jpg
+2025-03-29 19:35:52,806 - INFO - Posted content successfully. Tweet ID: 1906067798562161096
