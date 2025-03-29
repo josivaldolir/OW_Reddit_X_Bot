@@ -676,3 +676,11 @@ This is a new bug?
 2025-03-29 18:19:03,714 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-29 18:19:09,041 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-29 18:42:29,563 - INFO - Content: Mauga is just as stealthy as Sombra if you play him right
+
+2025-03-29 18:42:29,563 - INFO - Image Paths: ['https://external-preview.redd.it/cnJsczA1MjgxbnJlMYSYpO34v9Zg8tf5VAPtiCBc8aVXHFdNZHAuE6CNeiCS.png?format=pjpg&auto=webp&s=7a86db0c35f612c4ea25bbe1196f999d7dd6a05d']
+2025-03-29 18:42:29,563 - INFO - Video Path: https://v.redd.it/fyrsg7281nre1/DASH_1080.mp4?source=fallback
+2025-03-29 18:42:30,806 - INFO - Downloaded media from https://v.redd.it/fyrsg7281nre1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-29 18:42:30,875 - INFO - Downloaded media from https://v.redd.it/fyrsg7281nre1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-29 18:42:31,218 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-29 18:42:40,342 - INFO - Posted content successfully. Tweet ID: 1906054415607554386
