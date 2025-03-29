@@ -436,3 +436,12 @@ I’m not one to report someone saying ggez or anything diff, but unfortunately 
 2025-03-29 01:08:15,250 - INFO - Video Path: 
 2025-03-29 01:08:15,551 - INFO - Downloaded media from https://external-preview.redd.it/BwxUIBECN6TT_wGv9tGoM6i-c-H_6LXc9LmG-K1AtBs.jpg?auto=webp&s=ab6222676be6aeca62c0856a213639cdfd2ac03c to temp_image.jpg
 2025-03-29 01:08:16,661 - INFO - Posted content successfully. Tweet ID: 1905789068392214905
+2025-03-29 02:42:03,716 - INFO - Content: new leaks for s16
+
+2025-03-29 02:42:03,716 - INFO - Image Paths: ['https://preview.redd.it/lc9le7r91jre1.jpg?width=1611&format=pjpg&auto=webp&s=a863a2ab6b5792e24e6b75df77338431f30dca86', 'https://preview.redd.it/lfn3y7r91jre1.jpg?width=553&format=pjpg&auto=webp&s=45b21d77942a51abd2e504dee8c84e9b8be79790', 'https://preview.redd.it/qzjl97r91jre1.jpg?width=553&format=pjpg&auto=webp&s=e8d2546209cee7ba0b0d67444cda29af2dacc126', 'https://preview.redd.it/imdex8r91jre1.jpg?width=553&format=pjpg&auto=webp&s=cc5be4c17e4820294401f1d3be08dbfc639c70cb']
+2025-03-29 02:42:03,716 - INFO - Video Path: 
+2025-03-29 02:42:03,921 - INFO - Downloaded media from https://preview.redd.it/lc9le7r91jre1.jpg?width=1611&format=pjpg&auto=webp&s=a863a2ab6b5792e24e6b75df77338431f30dca86 to temp_image.jpg
+2025-03-29 02:42:04,539 - INFO - Downloaded media from https://preview.redd.it/lfn3y7r91jre1.jpg?width=553&format=pjpg&auto=webp&s=45b21d77942a51abd2e504dee8c84e9b8be79790 to temp_image.jpg
+2025-03-29 02:42:05,150 - INFO - Downloaded media from https://preview.redd.it/qzjl97r91jre1.jpg?width=553&format=pjpg&auto=webp&s=e8d2546209cee7ba0b0d67444cda29af2dacc126 to temp_image.jpg
+2025-03-29 02:42:05,789 - INFO - Downloaded media from https://preview.redd.it/imdex8r91jre1.jpg?width=553&format=pjpg&auto=webp&s=cc5be4c17e4820294401f1d3be08dbfc639c70cb to temp_image.jpg
+2025-03-29 02:42:06,628 - INFO - Posted content successfully. Tweet ID: 1905812682231468349
