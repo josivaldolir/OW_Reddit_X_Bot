@@ -499,3 +499,10 @@ We were getting rolled, then our dps swapped to support and tank and that was it
 2025-03-29 06:43:16,132 - INFO - Downloaded media from https://preview.redd.it/r5zr9m85cjre1.jpg?width=2500&format=pjpg&auto=webp&s=7c728df081f57e24573fdac3e4a4ada91016883f to temp_image.jpg
 2025-03-29 06:43:16,991 - INFO - Downloaded media from https://preview.redd.it/1oufe747cjre1.jpg?width=2200&format=pjpg&auto=webp&s=a206899a5b6ab1b14ad00aa48a0f7ca7c9cb96cf to temp_image.jpg
 2025-03-29 06:43:18,307 - INFO - Posted content successfully. Tweet ID: 1905873379942453613
+2025-03-29 07:13:07,080 - INFO - Content: People have no respect for classics.
+
+2025-03-29 07:13:07,080 - INFO - Image Paths: ['https://preview.redd.it/z66g9vyrqkre1.png?auto=webp&s=1c1d03c2e3174559ca0145d319551bf548359094']
+2025-03-29 07:13:07,080 - INFO - Video Path: 
+2025-03-29 07:13:07,314 - INFO - Downloaded media from https://preview.redd.it/z66g9vyrqkre1.png?auto=webp&s=1c1d03c2e3174559ca0145d319551bf548359094 to temp_image.jpg
+2025-03-29 07:13:07,900 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
