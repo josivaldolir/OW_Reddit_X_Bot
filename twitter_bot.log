@@ -476,3 +476,11 @@ Next seasons mythic looks familiar...
 2025-03-29 05:13:35,366 - INFO - Downloaded media from https://v.redd.it/e39oyvq39jre1/DASH_480.mp4?source=fallback to temp_audio.mp4
 2025-03-29 05:13:37,986 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-29 05:13:49,076 - INFO - Posted content successfully. Tweet ID: 1905850860904534019
+2025-03-29 05:37:47,641 - INFO - Content: My best LW pull of all time
+
+2025-03-29 05:37:47,641 - INFO - Image Paths: ['https://external-preview.redd.it/czljcXZoOXVlaXJlMZ2eMVXYzLvzWfPlOWg9ca9zlCO0kQ331n6B-rP72keA.png?format=pjpg&auto=webp&s=d3b1840eee77d89c309f9ea3efd91922b89f2f10']
+2025-03-29 05:37:47,641 - INFO - Video Path: https://v.redd.it/9l13af9ueire1/DASH_1080.mp4?source=fallback
+2025-03-29 05:37:47,852 - INFO - Downloaded media from https://v.redd.it/9l13af9ueire1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-29 05:37:47,879 - INFO - Downloaded media from https://v.redd.it/9l13af9ueire1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-29 05:37:48,481 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-29 05:37:54,214 - INFO - Posted content successfully. Tweet ID: 1905856922365862381
