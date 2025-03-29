@@ -657,3 +657,11 @@ This is a new bug?
 2025-03-29 17:11:56,952 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-29 17:12:01,481 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-29 17:37:08,114 - INFO - Content: keep rollin rollin rollin rollin (what)
+
+2025-03-29 17:37:08,114 - INFO - Image Paths: ['https://external-preview.redd.it/endkZmJ0bjUzbnJlMcZILrJGU8qiZSyAaHFYaOD8f4a-ImTbLVK33yOnI6S0.png?format=pjpg&auto=webp&s=cecf9031cf1e3d67341196ca4a0beacdc15dbfbc']
+2025-03-29 17:37:08,114 - INFO - Video Path: https://v.redd.it/6179ntn53nre1/DASH_720.mp4?source=fallback
+2025-03-29 17:37:08,658 - INFO - Downloaded media from https://v.redd.it/6179ntn53nre1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-03-29 17:37:08,786 - INFO - Downloaded media from https://v.redd.it/6179ntn53nre1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-03-29 17:37:09,341 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-29 17:37:14,108 - INFO - Posted content successfully. Tweet ID: 1906037947981545963
