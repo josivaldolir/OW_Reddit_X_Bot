@@ -430,3 +430,9 @@ I’m not one to report someone saying ggez or anything diff, but unfortunately 
 2025-03-28 23:36:35,420 - INFO - Video Path: 
 2025-03-28 23:36:35,738 - INFO - Downloaded media from https://preview.redd.it/k4b8f8s6eire1.jpeg?auto=webp&s=73968758a374f05efc64678cb91f004c2ef65d97 to temp_image.jpg
 2025-03-28 23:36:37,932 - INFO - Posted content successfully. Tweet ID: 1905766003302441285
+2025-03-29 01:08:15,250 - INFO - Content: Someone leaked the Juno Mythic
+
+2025-03-29 01:08:15,250 - INFO - Image Paths: ['https://external-preview.redd.it/BwxUIBECN6TT_wGv9tGoM6i-c-H_6LXc9LmG-K1AtBs.jpg?auto=webp&s=ab6222676be6aeca62c0856a213639cdfd2ac03c']
+2025-03-29 01:08:15,250 - INFO - Video Path: 
+2025-03-29 01:08:15,551 - INFO - Downloaded media from https://external-preview.redd.it/BwxUIBECN6TT_wGv9tGoM6i-c-H_6LXc9LmG-K1AtBs.jpg?auto=webp&s=ab6222676be6aeca62c0856a213639cdfd2ac03c to temp_image.jpg
+2025-03-29 01:08:16,661 - INFO - Posted content successfully. Tweet ID: 1905789068392214905
