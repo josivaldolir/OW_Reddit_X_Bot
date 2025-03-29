@@ -520,3 +520,9 @@ Too Many Requests
 2025-03-29 08:17:24,106 - INFO - Downloaded media from https://v.redd.it/kvl4shpxzjre1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-03-29 08:17:24,712 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-29 08:17:30,507 - INFO - Posted content successfully. Tweet ID: 1905897088249995515
+2025-03-29 08:41:01,821 - INFO - Content: Me and my ggnt getting dragged into the post match mess:
+
+2025-03-29 08:41:01,821 - INFO - Image Paths: ['https://preview.redd.it/dr9mcox1alre1.jpeg?auto=webp&s=ca421df364c64972caef9951c0f1f7f1705bc5f2']
+2025-03-29 08:41:01,821 - INFO - Video Path: 
+2025-03-29 08:41:01,981 - INFO - Downloaded media from https://preview.redd.it/dr9mcox1alre1.jpeg?auto=webp&s=ca421df364c64972caef9951c0f1f7f1705bc5f2 to temp_image.jpg
+2025-03-29 08:41:02,910 - INFO - Posted content successfully. Tweet ID: 1905903011974512673
