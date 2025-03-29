@@ -585,3 +585,9 @@ Too Many Requests
 2025-03-29 13:37:35,673 - INFO - Video Path: 
 2025-03-29 13:37:35,835 - INFO - Downloaded media from https://preview.redd.it/0sdb92gpemre1.jpeg?auto=webp&s=1f07f97fb84d04ec90e5b80ebc8d8591b701edac to temp_image.jpg
 2025-03-29 13:37:38,001 - INFO - Posted content successfully. Tweet ID: 1905977647600914764
+2025-03-29 14:13:27,548 - INFO - Content: Oh YEAH! Would you like to see my BEER!
+
+2025-03-29 14:13:27,548 - INFO - Image Paths: ['https://preview.redd.it/4tql3p4p9mre1.jpeg?auto=webp&s=80899f0914298a66683f0cfe106193d18d610d75']
+2025-03-29 14:13:27,548 - INFO - Video Path: 
+2025-03-29 14:13:27,656 - INFO - Downloaded media from https://preview.redd.it/4tql3p4p9mre1.jpeg?auto=webp&s=80899f0914298a66683f0cfe106193d18d610d75 to temp_image.jpg
+2025-03-29 14:13:28,545 - INFO - Posted content successfully. Tweet ID: 1905986669884346383
