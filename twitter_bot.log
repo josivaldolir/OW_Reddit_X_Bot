@@ -881,3 +881,11 @@ I made out of the trenches I'm gonna tell my mom to quit her job and everything 
 2025-03-30 09:15:16,548 - INFO - Downloaded media from https://preview.redd.it/woo1qssesmre1.png?width=3840&format=png&auto=webp&s=148a0fc01e920f5b0b95be202c06097fa3077f2e to temp_image.jpg
 2025-03-30 09:15:17,457 - INFO - Downloaded media from https://preview.redd.it/b4mghoi1smre1.png?width=820&format=png&auto=webp&s=46837ae7dfa63aa04d09340845cb13999d9ad438 to temp_image.jpg
 2025-03-30 09:15:20,315 - INFO - Posted content successfully. Tweet ID: 1906274020686807495
+2025-03-30 11:12:15,584 - INFO - Content: The Magical Girl Lucio by me
+I saw the leaked Juno skin and decided to draw Lucio in it because he was the only original support without a Mythic ✨
+2025-03-30 11:12:15,584 - INFO - Image Paths: ['https://preview.redd.it/swh3g0gmssre1.png?width=3492&format=png&auto=webp&s=393b386967cd969c5810c51a62eefea3e7aa10f0', 'https://preview.redd.it/pl7lv9qmssre1.png?width=3024&format=png&auto=webp&s=5d43210079c4cdae34b5f487e5828169ad9e4fbf']
+2025-03-30 11:12:15,584 - INFO - Video Path: 
+2025-03-30 11:12:15,618 - INFO - Downloaded media from https://preview.redd.it/swh3g0gmssre1.png?width=3492&format=png&auto=webp&s=393b386967cd969c5810c51a62eefea3e7aa10f0 to temp_image.jpg
+2025-03-30 11:12:16,538 - INFO - Downloaded media from https://preview.redd.it/pl7lv9qmssre1.png?width=3024&format=png&auto=webp&s=5d43210079c4cdae34b5f487e5828169ad9e4fbf to temp_image.jpg
+2025-03-30 11:12:20,759 - ERROR - Failed to post content: 503 Service Unavailable
+Service Unavailable
