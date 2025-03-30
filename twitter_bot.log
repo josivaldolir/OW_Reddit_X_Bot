@@ -824,3 +824,11 @@ Had to make a silly lil doodle for the birthday boy :))
 2025-03-30 04:43:12,889 - INFO - Video Path: 
 2025-03-30 04:43:13,035 - INFO - Downloaded media from https://preview.redd.it/6lshxbwfcqre1.jpeg?auto=webp&s=7b0427c1c2c19c4adb8b49a00fbcb46fbb6943d9 to temp_image.jpg
 2025-03-30 04:43:15,064 - INFO - Posted content successfully. Tweet ID: 1906205553896177761
+2025-03-30 05:13:49,637 - INFO - Content: Funniest nade kill I've ever gotten 😭 (Sorry Genji)
+
+2025-03-30 05:13:49,637 - INFO - Image Paths: ['https://external-preview.redd.it/eW82bWw5aXMxcXJlMZk3ztemxcY6BBoKwCEHWZTgqXoK8ggYMFHrJUSzTgKy.png?format=pjpg&auto=webp&s=9f17b1ad2edbbd245e27deacbea110e127c19251']
+2025-03-30 05:13:49,637 - INFO - Video Path: https://v.redd.it/g21629is1qre1/DASH_720.mp4?source=fallback
+2025-03-30 05:13:49,908 - INFO - Downloaded media from https://v.redd.it/g21629is1qre1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-03-30 05:13:49,945 - INFO - Downloaded media from https://v.redd.it/g21629is1qre1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-03-30 05:13:50,687 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-30 05:13:59,268 - INFO - Posted content successfully. Tweet ID: 1906213291661119900
