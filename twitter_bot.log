@@ -992,3 +992,10 @@ Too Many Requests
 2025-03-30 18:18:11,436 - INFO - Downloaded media from https://v.redd.it/qg1l7op8stre1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-30 18:18:11,875 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-30 18:18:22,134 - INFO - Posted content successfully. Tweet ID: 1906410687334854819
+2025-03-30 18:42:09,299 - INFO - Content: Baseball, huh?
+
+2025-03-30 18:42:09,299 - INFO - Image Paths: ['https://preview.redd.it/894mwnylvure1.jpeg?auto=webp&s=eea1d962d7fa319913be4843f0333b9253e5cb56']
+2025-03-30 18:42:09,299 - INFO - Video Path: 
+2025-03-30 18:42:09,423 - INFO - Downloaded media from https://preview.redd.it/894mwnylvure1.jpeg?auto=webp&s=eea1d962d7fa319913be4843f0333b9253e5cb56 to temp_image.jpg
+2025-03-30 18:42:10,157 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
