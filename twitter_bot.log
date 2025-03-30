@@ -928,3 +928,11 @@ GJ OW Team?!
 2025-03-30 13:22:30,649 - INFO - Image Paths: []
 2025-03-30 13:22:30,649 - INFO - Video Path: 
 2025-03-30 13:22:30,985 - INFO - Posted content successfully. Tweet ID: 1906336233954918848
+2025-03-30 13:37:47,871 - INFO - Content: Enemy Tank might be low HP but my accuracy is lower
+
+2025-03-30 13:37:47,871 - INFO - Image Paths: ['https://external-preview.redd.it/cm9td2M5ZGZ1dHJlMfhJ4YXsPqjLu2t6TQ5ytd9HBktgIql5r-VBbpdfSd0F.png?format=pjpg&auto=webp&s=baed8706cfa8a672a365e77d83daccf2f1dad04b']
+2025-03-30 13:37:47,871 - INFO - Video Path: https://v.redd.it/to0jp7gfutre1/DASH_1080.mp4?source=fallback
+2025-03-30 13:37:47,981 - INFO - Downloaded media from https://v.redd.it/to0jp7gfutre1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-30 13:37:48,015 - INFO - Downloaded media from https://v.redd.it/to0jp7gfutre1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-30 13:37:48,491 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-30 13:37:54,291 - INFO - Posted content successfully. Tweet ID: 1906340106467750150
