@@ -977,3 +977,10 @@ Is Mercy secretly a competent duelist?  Is it her hitbox?  Her movement?  Does t
 2025-03-30 17:12:00,781 - INFO - Downloaded media from https://preview.redd.it/894mwnylvure1.jpeg?auto=webp&s=eea1d962d7fa319913be4843f0333b9253e5cb56 to temp_image.jpg
 2025-03-30 17:12:01,385 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-30 17:36:57,463 - INFO - Content: Baseball, huh?
+
+2025-03-30 17:36:57,463 - INFO - Image Paths: ['https://preview.redd.it/894mwnylvure1.jpeg?auto=webp&s=eea1d962d7fa319913be4843f0333b9253e5cb56']
+2025-03-30 17:36:57,463 - INFO - Video Path: 
+2025-03-30 17:36:57,631 - INFO - Downloaded media from https://preview.redd.it/894mwnylvure1.jpeg?auto=webp&s=eea1d962d7fa319913be4843f0333b9253e5cb56 to temp_image.jpg
+2025-03-30 17:36:58,472 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
