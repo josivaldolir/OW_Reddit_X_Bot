@@ -889,3 +889,10 @@ I saw the leaked Juno skin and decided to draw Lucio in it because he was the on
 2025-03-30 11:12:16,538 - INFO - Downloaded media from https://preview.redd.it/pl7lv9qmssre1.png?width=3024&format=png&auto=webp&s=5d43210079c4cdae34b5f487e5828169ad9e4fbf to temp_image.jpg
 2025-03-30 11:12:20,759 - ERROR - Failed to post content: 503 Service Unavailable
 Service Unavailable
+2025-03-30 11:35:32,908 - INFO - Content: The Magical Girl Lucio by me
+I saw the leaked Juno skin and decided to draw Lucio in it because he was the only original support without a Mythic ✨
+2025-03-30 11:35:32,909 - INFO - Image Paths: ['https://preview.redd.it/swh3g0gmssre1.png?width=3492&format=png&auto=webp&s=393b386967cd969c5810c51a62eefea3e7aa10f0', 'https://preview.redd.it/pl7lv9qmssre1.png?width=3024&format=png&auto=webp&s=5d43210079c4cdae34b5f487e5828169ad9e4fbf']
+2025-03-30 11:35:32,909 - INFO - Video Path: 
+2025-03-30 11:35:33,232 - INFO - Downloaded media from https://preview.redd.it/swh3g0gmssre1.png?width=3492&format=png&auto=webp&s=393b386967cd969c5810c51a62eefea3e7aa10f0 to temp_image.jpg
+2025-03-30 11:35:34,239 - INFO - Downloaded media from https://preview.redd.it/pl7lv9qmssre1.png?width=3024&format=png&auto=webp&s=5d43210079c4cdae34b5f487e5828169ad9e4fbf to temp_image.jpg
+2025-03-30 11:35:37,412 - INFO - Posted content successfully. Tweet ID: 1906309325427278285
