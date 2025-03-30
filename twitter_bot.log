@@ -796,3 +796,11 @@ I ran into this instalock tracer a couple of times in my 6v6 competitive games a
 2025-03-30 01:14:54,189 - INFO - Video Path: 
 2025-03-30 01:14:54,498 - INFO - Downloaded media from https://preview.redd.it/xm6xeturepre1.png?auto=webp&s=a1f96ff3a08596466b3b069557f5972d77fcb951 to temp_image.jpg
 2025-03-30 01:14:56,080 - INFO - Posted content successfully. Tweet ID: 1906153129600590282
+2025-03-30 02:50:28,243 - INFO - Content: Ah yes, that's who I intended to nano
+
+2025-03-30 02:50:28,243 - INFO - Image Paths: ['https://external-preview.redd.it/NDFhYnN2bWYzcXJlMa0D_sf0CdojdgZTcyC_CeqfZILmmB1E7ADfRJ7KEQkY.png?format=pjpg&auto=webp&s=4fb2b266ad2309713615919bb2b8b1f43bcd105b']
+2025-03-30 02:50:28,243 - INFO - Video Path: https://v.redd.it/t5ehovmf3qre1/DASH_1080.mp4?source=fallback
+2025-03-30 02:50:28,412 - INFO - Downloaded media from https://v.redd.it/t5ehovmf3qre1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-30 02:50:28,452 - INFO - Downloaded media from https://v.redd.it/t5ehovmf3qre1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-30 02:50:28,859 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-30 02:50:33,593 - INFO - Posted content successfully. Tweet ID: 1906177196764352548
