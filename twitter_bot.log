@@ -936,3 +936,9 @@ GJ OW Team?!
 2025-03-30 13:37:48,015 - INFO - Downloaded media from https://v.redd.it/to0jp7gfutre1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-30 13:37:48,491 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-30 13:37:54,291 - INFO - Posted content successfully. Tweet ID: 1906340106467750150
+2025-03-30 15:13:57,154 - INFO - Content: Your bravery frightens me
+
+2025-03-30 15:13:57,154 - INFO - Image Paths: ['https://preview.redd.it/t6axa6kh9ure1.png?auto=webp&s=7a21ff8b460f26b8b343225103f5e172b741f37d']
+2025-03-30 15:13:57,154 - INFO - Video Path: 
+2025-03-30 15:13:57,180 - INFO - Downloaded media from https://preview.redd.it/t6axa6kh9ure1.png?auto=webp&s=7a21ff8b460f26b8b343225103f5e172b741f37d to temp_image.jpg
+2025-03-30 15:13:58,370 - INFO - Posted content successfully. Tweet ID: 1906364281773330733
