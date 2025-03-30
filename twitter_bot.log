@@ -850,3 +850,11 @@ Denied doom an epic 3k punch
 2025-03-30 07:13:50,282 - INFO - Downloaded media from https://v.redd.it/a8reful15pre1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-30 07:13:50,571 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-30 07:13:55,133 - INFO - Posted content successfully. Tweet ID: 1906243473256149359
+2025-03-30 07:35:30,660 - INFO - Content: Where do you think you're going?
+
+2025-03-30 07:35:30,660 - INFO - Image Paths: ['https://external-preview.redd.it/cjN5NnRrd25wb3JlMYJ5XjzicsMXkwnP_tyoIjl0-E-KeBzjKQSVK_KzpWZ8.png?format=pjpg&auto=webp&s=b5e08e771ed1c7fc3a0956dd6c3a6d10d54e42e3']
+2025-03-30 07:35:30,660 - INFO - Video Path: https://v.redd.it/w4bn6kwnpore1/DASH_720.mp4?source=fallback
+2025-03-30 07:35:30,699 - INFO - Downloaded media from https://v.redd.it/w4bn6kwnpore1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-03-30 07:35:30,715 - INFO - Downloaded media from https://v.redd.it/w4bn6kwnpore1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-03-30 07:35:31,332 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-30 07:35:37,265 - INFO - Posted content successfully. Tweet ID: 1906248934680297666
