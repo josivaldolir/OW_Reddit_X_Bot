@@ -1025,3 +1025,11 @@ Too Many Requests
 2025-03-30 20:37:16,427 - INFO - Downloaded media from https://preview.redd.it/9bbsbyhl6vre1.png?auto=webp&s=25fe722c90d8e053b67e9815cba08ca39e5b34f4 to temp_image.jpg
 2025-03-30 20:37:17,205 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-30 21:13:32,240 - INFO - Content: Call me crazy but I don’t think Widowmaker and Freja actually look that similar
+
+2025-03-30 21:13:32,240 - INFO - Image Paths: ['https://preview.redd.it/jirnldwqwvre1.png?width=1243&format=png&auto=webp&s=b4a4c93b3e051ba2d8a7e88243c033df6528208f', 'https://preview.redd.it/tmxj1x14xvre1.png?width=975&format=png&auto=webp&s=cbb41bafe942e708c870965ef86ef6d60757bf6c']
+2025-03-30 21:13:32,241 - INFO - Video Path: 
+2025-03-30 21:13:32,364 - INFO - Downloaded media from https://preview.redd.it/jirnldwqwvre1.png?width=1243&format=png&auto=webp&s=b4a4c93b3e051ba2d8a7e88243c033df6528208f to temp_image.jpg
+2025-03-30 21:13:33,031 - INFO - Downloaded media from https://preview.redd.it/tmxj1x14xvre1.png?width=975&format=png&auto=webp&s=cbb41bafe942e708c870965ef86ef6d60757bf6c to temp_image.jpg
+2025-03-30 21:13:34,147 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
