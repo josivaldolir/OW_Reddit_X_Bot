@@ -1196,3 +1196,11 @@ the base skins too blue imo it’s doing too much.
 2025-03-31 11:36:52,908 - INFO - Video Path: 
 2025-03-31 11:36:53,043 - INFO - Downloaded media from https://preview.redd.it/wkfh4bcob0se1.jpeg?auto=webp&s=b62a6e760428a8aa1d141be38d660adb60466466 to temp_image.jpg
 2025-03-31 11:36:53,925 - INFO - Posted content successfully. Tweet ID: 1906672041673052630
+2025-03-31 12:29:31,852 - INFO - Content: Juno are you ok?
+
+2025-03-31 12:29:31,853 - INFO - Image Paths: ['https://external-preview.redd.it/bjVteml0ajMwMHNlMQDLBZ7KjyZQw7Db3ZQyAMeFH0m9b9XKkfzpog0zZUBS.png?format=pjpg&auto=webp&s=14a3848bcd1dc998f7b59d7d3fe3b588c834dd34']
+2025-03-31 12:29:31,853 - INFO - Video Path: https://v.redd.it/y57cwqg300se1/DASH_720.mp4?source=fallback
+2025-03-31 12:29:31,896 - INFO - Downloaded media from https://v.redd.it/y57cwqg300se1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-03-31 12:29:31,909 - INFO - Downloaded media from https://v.redd.it/y57cwqg300se1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-03-31 12:29:32,602 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-31 12:29:37,035 - INFO - Posted content successfully. Tweet ID: 1906685309204521390
