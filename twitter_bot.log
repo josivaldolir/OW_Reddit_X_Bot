@@ -1133,3 +1133,10 @@ End of the final round, blocks both doors sealing our victory! I'm pretty lucky
 2025-03-31 06:47:12,592 - INFO - Downloaded media from https://v.redd.it/v55atkfceyre1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-03-31 06:47:13,209 - INFO - Combined video and audio into temp_combined.mp4
 2025-03-31 06:47:20,255 - INFO - Posted content successfully. Tweet ID: 1906599171479499226
+2025-03-31 07:37:03,377 - INFO - Content: Probably the best box pull I’ve gotten.
+
+2025-03-31 07:37:03,377 - INFO - Image Paths: ['https://preview.redd.it/5r359gqarxre1.jpg?width=405&format=pjpg&auto=webp&s=3f79ebd77d086970d283b6b99b68ee1df9250db5', 'https://preview.redd.it/db1rggqarxre1.jpg?width=414&format=pjpg&auto=webp&s=6940e8419bd3752c6a2669ce0b027f2f04130d8a']
+2025-03-31 07:37:03,377 - INFO - Video Path: 
+2025-03-31 07:37:03,595 - INFO - Downloaded media from https://preview.redd.it/5r359gqarxre1.jpg?width=405&format=pjpg&auto=webp&s=3f79ebd77d086970d283b6b99b68ee1df9250db5 to temp_image.jpg
+2025-03-31 07:37:04,159 - INFO - Downloaded media from https://preview.redd.it/db1rggqarxre1.jpg?width=414&format=pjpg&auto=webp&s=6940e8419bd3752c6a2669ce0b027f2f04130d8a to temp_image.jpg
+2025-03-31 07:37:04,898 - INFO - Posted content successfully. Tweet ID: 1906611690046959925
