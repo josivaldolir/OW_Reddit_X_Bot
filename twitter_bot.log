@@ -1261,3 +1261,15 @@ Is it just me or has the big monkey man fallen out of relevancy?
 2025-03-31 17:12:55,927 - INFO - Downloaded media from https://preview.redd.it/eeu0rlqkw1se1.jpeg?auto=webp&s=af1f277cc4e05468a32cf00876c4ce42d2aee6d5 to temp_image.jpg
 2025-03-31 17:12:56,632 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-31 17:38:32,781 - INFO - Content: So... are we getting Unranked 6v6 (QP open queue) like the dev blog mentioned? Or sticking w/ only Comp 6v6?
+of course there is still time, but dev blog says ranked and unranked for whole duration (thru april 21)
+
+im enjoying it, but im also a big QP player and it would be really nice to play 6's in unranked! plus, i cant even queue w my friends in comp cuz of our ranks so we cant even play 6v6 together lol
+
+is there a chance they are doing it for data reasons? ie only comp means more people will play comp, and they get more "balanced" data - idk!
+2025-03-31 17:38:32,781 - INFO - Image Paths: ['https://preview.redd.it/l9x651zit1se1.jpg?width=810&format=pjpg&auto=webp&s=d5a66bc50a225191f90a4c556dbf8773efe7d62d', 'https://preview.redd.it/xwgzjryjt1se1.jpg?width=2744&format=pjpg&auto=webp&s=30dd8c7711e3f308b549b320391dc2a7a1c39310']
+2025-03-31 17:38:32,781 - INFO - Video Path: 
+2025-03-31 17:38:32,957 - INFO - Downloaded media from https://preview.redd.it/l9x651zit1se1.jpg?width=810&format=pjpg&auto=webp&s=d5a66bc50a225191f90a4c556dbf8773efe7d62d to temp_image.jpg
+2025-03-31 17:38:33,669 - INFO - Downloaded media from https://preview.redd.it/xwgzjryjt1se1.jpg?width=2744&format=pjpg&auto=webp&s=30dd8c7711e3f308b549b320391dc2a7a1c39310 to temp_image.jpg
+2025-03-31 17:38:34,647 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
