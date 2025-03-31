@@ -1314,3 +1314,13 @@ please tell me i’m not the only one who wants this. his highlight intro could 
 2025-03-31 20:16:47,838 - INFO - Downloaded media from https://preview.redd.it/xxjtouody2se1.jpg?width=3024&format=pjpg&auto=webp&s=bd5fe7cde8aa17725c252b81fff7358454393925 to temp_image.jpg
 2025-03-31 20:16:49,452 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-31 20:39:23,176 - INFO - Content: Hello!! I cosplayed Juno last weekend ! I hope you like it! :D
+
+2025-03-31 20:39:23,176 - INFO - Image Paths: ['https://preview.redd.it/qpty9sody2se1.jpg?width=2160&format=pjpg&auto=webp&s=923d7730af9d5d2de00434c94c895d6972c5b9d0', 'https://preview.redd.it/lwfetdpdy2se1.jpg?width=2160&format=pjpg&auto=webp&s=2acf9d2213163037417154379f9ed60b5671b946', 'https://preview.redd.it/s8hzasody2se1.jpg?width=2160&format=pjpg&auto=webp&s=1acb3b94a0dce9ca107362337f726abb52ed721d', 'https://preview.redd.it/xxjtouody2se1.jpg?width=3024&format=pjpg&auto=webp&s=bd5fe7cde8aa17725c252b81fff7358454393925']
+2025-03-31 20:39:23,176 - INFO - Video Path: 
+2025-03-31 20:39:23,218 - INFO - Downloaded media from https://preview.redd.it/qpty9sody2se1.jpg?width=2160&format=pjpg&auto=webp&s=923d7730af9d5d2de00434c94c895d6972c5b9d0 to temp_image.jpg
+2025-03-31 20:39:24,149 - INFO - Downloaded media from https://preview.redd.it/lwfetdpdy2se1.jpg?width=2160&format=pjpg&auto=webp&s=2acf9d2213163037417154379f9ed60b5671b946 to temp_image.jpg
+2025-03-31 20:39:24,950 - INFO - Downloaded media from https://preview.redd.it/s8hzasody2se1.jpg?width=2160&format=pjpg&auto=webp&s=1acb3b94a0dce9ca107362337f726abb52ed721d to temp_image.jpg
+2025-03-31 20:39:25,835 - INFO - Downloaded media from https://preview.redd.it/xxjtouody2se1.jpg?width=3024&format=pjpg&auto=webp&s=bd5fe7cde8aa17725c252b81fff7358454393925 to temp_image.jpg
+2025-03-31 20:39:27,505 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
