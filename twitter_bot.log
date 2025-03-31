@@ -1233,3 +1233,9 @@ You can try running away, but the bastard is kinda fast while in Nemesis form
 2025-03-31 15:16:59,169 - INFO - Image Paths: []
 2025-03-31 15:16:59,169 - INFO - Video Path: 
 2025-03-31 15:16:59,562 - INFO - Posted content successfully. Tweet ID: 1906727430615879873
+2025-03-31 15:39:47,320 - INFO - Content: They censored Zen
+
+2025-03-31 15:39:47,320 - INFO - Image Paths: ['https://preview.redd.it/ik48wan7l1se1.png?auto=webp&s=6e65a97eeddcfe8b18c6e78aae793ead03eb6369']
+2025-03-31 15:39:47,320 - INFO - Video Path: 
+2025-03-31 15:39:47,390 - INFO - Downloaded media from https://preview.redd.it/ik48wan7l1se1.png?auto=webp&s=6e65a97eeddcfe8b18c6e78aae793ead03eb6369 to temp_image.jpg
+2025-03-31 15:39:48,796 - INFO - Posted content successfully. Tweet ID: 1906733172454502895
