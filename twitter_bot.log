@@ -1210,3 +1210,9 @@ the base skins too blue imo it’s doing too much.
 2025-03-31 13:04:50,564 - INFO - Video Path: 
 2025-03-31 13:04:50,596 - INFO - Downloaded media from https://preview.redd.it/pagca474w0se1.jpeg?auto=webp&s=96ea9531c0e1eb145dc81cdc1d73f1784e335173 to temp_image.jpg
 2025-03-31 13:04:51,542 - INFO - Posted content successfully. Tweet ID: 1906694177687028019
+2025-03-31 13:43:30,506 - INFO - Content: That's fucking terrifying
+
+2025-03-31 13:43:30,506 - INFO - Image Paths: ['https://preview.redd.it/w8eg1pbhy0se1.jpeg?auto=webp&s=dd5b36c0ada710cded419ae52a68e0b6164ed226']
+2025-03-31 13:43:30,506 - INFO - Video Path: 
+2025-03-31 13:43:30,619 - INFO - Downloaded media from https://preview.redd.it/w8eg1pbhy0se1.jpeg?auto=webp&s=dd5b36c0ada710cded419ae52a68e0b6164ed226 to temp_image.jpg
+2025-03-31 13:43:32,590 - INFO - Posted content successfully. Tweet ID: 1906703911399870548
