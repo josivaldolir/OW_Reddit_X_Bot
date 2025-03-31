@@ -1146,3 +1146,11 @@ So happy the controller is so pretty and matches my theme so wellllll!!!
 2025-03-31 08:21:54,136 - INFO - Video Path: 
 2025-03-31 08:21:54,425 - INFO - Downloaded media from https://preview.redd.it/nrjvtlb4czre1.jpeg?auto=webp&s=dce1dc93118ae72aaaeb74616a3369943f15273c to temp_image.jpg
 2025-03-31 08:21:55,495 - INFO - Posted content successfully. Tweet ID: 1906622975148736804
+2025-03-31 08:45:29,722 - INFO - Content: The way Mauga dies is so funny, why isn't it memed more
+AGHHH- *just fucking falls over like a pancake*
+2025-03-31 08:45:29,722 - INFO - Image Paths: ['https://external-preview.redd.it/aTZvZTBtZHZ5eHJlMS2sXIHYQvEEHQ2eNA3SbLI9FzfKaXFcAoBBSVsj2czT.png?format=pjpg&auto=webp&s=0f2157fc796e177154cc0053601a260e57ae6929']
+2025-03-31 08:45:29,722 - INFO - Video Path: https://v.redd.it/je2mk1kvyxre1/DASH_1080.mp4?source=fallback
+2025-03-31 08:45:30,164 - INFO - Downloaded media from https://v.redd.it/je2mk1kvyxre1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-31 08:45:30,254 - INFO - Downloaded media from https://v.redd.it/je2mk1kvyxre1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-31 08:45:30,540 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-31 08:45:35,171 - INFO - Posted content successfully. Tweet ID: 1906628929877848163
