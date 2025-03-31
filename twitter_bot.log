@@ -1373,3 +1373,10 @@ Too Many Requests
 2025-03-31 23:14:11,390 - INFO - Downloaded media from https://preview.redd.it/s8hzasody2se1.jpg?width=2160&format=pjpg&auto=webp&s=1acb3b94a0dce9ca107362337f726abb52ed721d to temp_image.jpg
 2025-03-31 23:14:12,232 - INFO - Downloaded media from https://preview.redd.it/xxjtouody2se1.jpg?width=3024&format=pjpg&auto=webp&s=bd5fe7cde8aa17725c252b81fff7358454393925 to temp_image.jpg
 2025-03-31 23:14:14,709 - INFO - Posted content successfully. Tweet ID: 1906847532673884275
+2025-03-31 23:36:31,601 - INFO - Content: Mega Pro Hacker Sombra skin concept
+
+2025-03-31 23:36:31,601 - INFO - Image Paths: ['https://preview.redd.it/mmramfs6e3se1.png?width=4129&format=png&auto=webp&s=8f1831511afd9c66995f4595f8d5e336049a75d8', 'https://preview.redd.it/501z64o7e3se1.png?width=1500&format=png&auto=webp&s=dcad7b89defbad403da1d7cb2ac7d0df691ee23e']
+2025-03-31 23:36:31,601 - INFO - Video Path: 
+2025-03-31 23:36:31,870 - INFO - Downloaded media from https://preview.redd.it/mmramfs6e3se1.png?width=4129&format=png&auto=webp&s=8f1831511afd9c66995f4595f8d5e336049a75d8 to temp_image.jpg
+2025-03-31 23:36:32,966 - INFO - Downloaded media from https://preview.redd.it/501z64o7e3se1.png?width=1500&format=png&auto=webp&s=dcad7b89defbad403da1d7cb2ac7d0df691ee23e to temp_image.jpg
+2025-03-31 23:36:36,353 - INFO - Posted content successfully. Tweet ID: 1906853152030384610
