@@ -1069,3 +1069,9 @@ Too Many Requests
 2025-03-30 23:37:21,938 - INFO - Downloaded media from https://preview.redd.it/9bbsbyhl6vre1.png?auto=webp&s=25fe722c90d8e053b67e9815cba08ca39e5b34f4 to temp_image.jpg
 2025-03-30 23:37:22,765 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-31 01:12:26,586 - INFO - Content: Risa, you good?
+
+2025-03-31 01:12:26,586 - INFO - Image Paths: ['https://preview.redd.it/9bbsbyhl6vre1.png?auto=webp&s=25fe722c90d8e053b67e9815cba08ca39e5b34f4']
+2025-03-31 01:12:26,586 - INFO - Video Path: 
+2025-03-31 01:12:26,831 - INFO - Downloaded media from https://preview.redd.it/9bbsbyhl6vre1.png?auto=webp&s=25fe722c90d8e053b67e9815cba08ca39e5b34f4 to temp_image.jpg
+2025-03-31 01:12:28,215 - INFO - Posted content successfully. Tweet ID: 1906514897481114097
