@@ -1125,3 +1125,11 @@ Apparently I need some words here. I tried a funny joke and the bro picked it up
 2025-03-31 06:21:44,757 - INFO - Video Path: 
 2025-03-31 06:21:45,076 - INFO - Downloaded media from https://preview.redd.it/qn7qwhg25yre1.png?auto=webp&s=e00f915dd5a9c42de24652cc81764acaca4fbcbe to temp_image.jpg
 2025-03-31 06:21:46,109 - INFO - Posted content successfully. Tweet ID: 1906592736712528115
+2025-03-31 06:47:12,158 - INFO - Content: My wife is fantastic (Mei)
+End of the final round, blocks both doors sealing our victory! I'm pretty lucky
+2025-03-31 06:47:12,158 - INFO - Image Paths: ['https://external-preview.redd.it/ZWxjNmtsZmNleXJlMahII6zk7blqesRTnawBzjJtaaaDvSxp46erh8p_TW_G.png?format=pjpg&auto=webp&s=0119694fb9fea746a7ea5dd1287ee5617c095c27']
+2025-03-31 06:47:12,158 - INFO - Video Path: https://v.redd.it/v55atkfceyre1/DASH_1080.mp4?source=fallback
+2025-03-31 06:47:12,543 - INFO - Downloaded media from https://v.redd.it/v55atkfceyre1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-03-31 06:47:12,592 - INFO - Downloaded media from https://v.redd.it/v55atkfceyre1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-03-31 06:47:13,209 - INFO - Combined video and audio into temp_combined.mp4
+2025-03-31 06:47:20,255 - INFO - Posted content successfully. Tweet ID: 1906599171479499226
