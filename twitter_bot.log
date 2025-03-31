@@ -1216,3 +1216,9 @@ the base skins too blue imo it’s doing too much.
 2025-03-31 13:43:30,506 - INFO - Video Path: 
 2025-03-31 13:43:30,619 - INFO - Downloaded media from https://preview.redd.it/w8eg1pbhy0se1.jpeg?auto=webp&s=dd5b36c0ada710cded419ae52a68e0b6164ed226 to temp_image.jpg
 2025-03-31 13:43:32,590 - INFO - Posted content successfully. Tweet ID: 1906703911399870548
+2025-03-31 14:15:14,125 - INFO - Content: Wario
+
+2025-03-31 14:15:14,125 - INFO - Image Paths: ['https://preview.redd.it/n1mvw7qfz0se1.jpeg?auto=webp&s=c7f2c245b4e4523ebdfbb13642402c984ded15d1']
+2025-03-31 14:15:14,125 - INFO - Video Path: 
+2025-03-31 14:15:14,183 - INFO - Downloaded media from https://preview.redd.it/n1mvw7qfz0se1.jpeg?auto=webp&s=c7f2c245b4e4523ebdfbb13642402c984ded15d1 to temp_image.jpg
+2025-03-31 14:15:15,038 - INFO - Posted content successfully. Tweet ID: 1906711892598591743
