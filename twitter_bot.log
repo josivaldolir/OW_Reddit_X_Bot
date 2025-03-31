@@ -1273,3 +1273,9 @@ is there a chance they are doing it for data reasons? ie only comp means more pe
 2025-03-31 17:38:33,669 - INFO - Downloaded media from https://preview.redd.it/xwgzjryjt1se1.jpg?width=2744&format=pjpg&auto=webp&s=30dd8c7711e3f308b549b320391dc2a7a1c39310 to temp_image.jpg
 2025-03-31 17:38:34,647 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-03-31 18:20:32,755 - INFO - Content: Please be in shop tomorrow
+
+2025-03-31 18:20:32,755 - INFO - Image Paths: ['https://preview.redd.it/eeu0rlqkw1se1.jpeg?auto=webp&s=af1f277cc4e05468a32cf00876c4ce42d2aee6d5']
+2025-03-31 18:20:32,755 - INFO - Video Path: 
+2025-03-31 18:20:33,051 - INFO - Downloaded media from https://preview.redd.it/eeu0rlqkw1se1.jpeg?auto=webp&s=af1f277cc4e05468a32cf00876c4ce42d2aee6d5 to temp_image.jpg
+2025-03-31 18:20:34,077 - INFO - Posted content successfully. Tweet ID: 1906773628441829658
