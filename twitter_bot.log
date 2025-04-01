@@ -1553,3 +1553,11 @@ Any idea when the update releases? I’m looking forward to playing all day whil
 2025-04-01 15:15:55,103 - INFO - Image Paths: []
 2025-04-01 15:15:55,103 - INFO - Video Path: 
 2025-04-01 15:15:55,443 - INFO - Posted content successfully. Tweet ID: 1907089549655716119
+2025-04-01 16:17:54,294 - INFO - Content: Torbjörn Magical Girl Skin because he is the best boi
+After my last skin I decided Torbjörn needed a magical girl skin, too. Reaper is next. 
+2025-04-01 16:17:54,294 - INFO - Image Paths: ['https://preview.redd.it/4kc71dlit8se1.png?width=2056&format=png&auto=webp&s=3892f64746bc1ba5517404684746e6b3e934193f', 'https://preview.redd.it/ip8uzsyit8se1.png?width=3368&format=png&auto=webp&s=9641a08e1ad0db4f592808e2153e91e9b6d5eecb']
+2025-04-01 16:17:54,294 - INFO - Video Path: 
+2025-04-01 16:17:54,459 - INFO - Downloaded media from https://preview.redd.it/4kc71dlit8se1.png?width=2056&format=png&auto=webp&s=3892f64746bc1ba5517404684746e6b3e934193f to temp_image.jpg
+2025-04-01 16:17:55,287 - INFO - Downloaded media from https://preview.redd.it/ip8uzsyit8se1.png?width=3368&format=png&auto=webp&s=9641a08e1ad0db4f592808e2153e91e9b6d5eecb to temp_image.jpg
+2025-04-01 16:17:59,373 - ERROR - Failed to post content: 503 Service Unavailable
+Service Unavailable
