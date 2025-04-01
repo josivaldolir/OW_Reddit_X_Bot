@@ -1663,3 +1663,10 @@ Too Many Requests
 2025-04-01 22:39:54,263 - INFO - Downloaded media from https://preview.redd.it/l16tma3mrase1.png?auto=webp&s=3d72ebfe022ec18d4485d1c85b06fba650b55d0c to temp_image.jpg
 2025-04-01 22:39:55,116 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-01 23:14:11,978 - INFO - Content: THE SHIP IS REAAAAAL
+
+2025-04-01 23:14:11,978 - INFO - Image Paths: ['https://preview.redd.it/l16tma3mrase1.png?auto=webp&s=3d72ebfe022ec18d4485d1c85b06fba650b55d0c']
+2025-04-01 23:14:11,978 - INFO - Video Path: 
+2025-04-01 23:14:12,060 - INFO - Downloaded media from https://preview.redd.it/l16tma3mrase1.png?auto=webp&s=3d72ebfe022ec18d4485d1c85b06fba650b55d0c to temp_image.jpg
+2025-04-01 23:14:12,827 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
