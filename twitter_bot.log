@@ -1542,3 +1542,9 @@ Not saying that's *exactly* how it went, but I think we can all agree it's mostl
 2025-04-01 14:14:42,637 - INFO - Downloaded media from https://v.redd.it/phm8t58cv7se1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-04-01 14:14:42,979 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-01 14:14:49,564 - INFO - Posted content successfully. Tweet ID: 1907074173723111765
+2025-04-01 14:42:30,012 - INFO - Content: Cosplay from some guy on a meme.
+
+2025-04-01 14:42:30,012 - INFO - Image Paths: ['https://preview.redd.it/6sjwb2c598se1.png?auto=webp&s=31182371f07985701208759f8fd28300cacf6518']
+2025-04-01 14:42:30,012 - INFO - Video Path: 
+2025-04-01 14:42:30,100 - INFO - Downloaded media from https://preview.redd.it/6sjwb2c598se1.png?auto=webp&s=31182371f07985701208759f8fd28300cacf6518 to temp_image.jpg
+2025-04-01 14:42:33,854 - INFO - Posted content successfully. Tweet ID: 1907081145973403868
