@@ -1419,3 +1419,21 @@ Juno: Drugs r bad mmkay, Hazard: 420 blaze it, and Freja: Like once or twice in 
 2025-04-01 04:44:03,052 - INFO - Downloaded media from https://v.redd.it/apsrx72ap3se1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-04-01 04:44:07,902 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-01 04:44:16,336 - INFO - Posted content successfully. Tweet ID: 1906930589107655031
+2025-04-01 05:15:23,277 - INFO - Content: The results my hero bans survey
+I asked every hero subreddit who they want to ban. And I gave them these rules:
+
+1. By counting how many times a character was mentioned(specifically to be banned, not just any random mention or agreeing that a character is “annoying” because that can be vague whether they are or aren’t annoyed enough to ban said character.) in the comment section of my posts.
+2. Each subreddit will have their top 3 most mentioned characters listed.
+3. If 2 or more characters have the same amount of mentions, they will share the same spot.
+4. Characters only mentioned once will not be listed
+5. I will list all heroes and how many times they were mentioned in the list, from highest to lowest.
+6. I will also mention the most upvoted answer (MU=Most upvoted)
+7. Take these results with a grain of salt. It’s obvious that they wouldn’t be accurate but this is meant to get an idea even if it’s not a 100% accurate one
+
+Note: I realized the way I calculated this probably isn’t the best way too late. I was thinking of just cancelling it all and never posting this, but then I changed my mind and decided that I got too far to cancel. So I would understand if you’re not satisfied with the way the results were calculated, and I apologize.
+2025-04-01 05:15:23,277 - INFO - Image Paths: ['https://preview.redd.it/y7b8d0ux85se1.jpg?width=1285&format=pjpg&auto=webp&s=bc2316f7cec302c608927d4c88bbdfeae16c2020', 'https://preview.redd.it/9eh6h0ux85se1.jpg?width=1274&format=pjpg&auto=webp&s=32c60426a27d299d96a35a91e4d1fddc3ccdfdec', 'https://preview.redd.it/xznwj0ux85se1.jpg?width=955&format=pjpg&auto=webp&s=a5945a648d9e1f946cd682c39b981a0a6df48ce5']
+2025-04-01 05:15:23,277 - INFO - Video Path: 
+2025-04-01 05:15:23,436 - INFO - Downloaded media from https://preview.redd.it/y7b8d0ux85se1.jpg?width=1285&format=pjpg&auto=webp&s=bc2316f7cec302c608927d4c88bbdfeae16c2020 to temp_image.jpg
+2025-04-01 05:15:24,142 - INFO - Downloaded media from https://preview.redd.it/9eh6h0ux85se1.jpg?width=1274&format=pjpg&auto=webp&s=32c60426a27d299d96a35a91e4d1fddc3ccdfdec to temp_image.jpg
+2025-04-01 05:15:24,776 - INFO - Downloaded media from https://preview.redd.it/xznwj0ux85se1.jpg?width=955&format=pjpg&auto=webp&s=a5945a648d9e1f946cd682c39b981a0a6df48ce5 to temp_image.jpg
+2025-04-01 05:15:25,708 - INFO - Posted content successfully. Tweet ID: 1906938429033832623
