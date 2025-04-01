@@ -1411,3 +1411,11 @@ Juno: Drugs r bad mmkay, Hazard: 420 blaze it, and Freja: Like once or twice in 
 2025-04-01 04:18:17,659 - INFO - Video Path: 
 2025-04-01 04:18:17,880 - INFO - Downloaded media from https://preview.redd.it/inyvj0ikv4se1.jpeg?auto=webp&s=f8543ce7a25125c0c67b79abab6df900b780bbdf to temp_image.jpg
 2025-04-01 04:18:18,835 - INFO - Posted content successfully. Tweet ID: 1906924056169079021
+2025-04-01 04:44:02,805 - INFO - Content: Forgot i saved this during christmas, how do aim botters not vomit?
+
+2025-04-01 04:44:02,806 - INFO - Image Paths: ['https://external-preview.redd.it/amEzemk3MmFwM3NlMZ_EI3ywzCkKnA5fK5dZAxG5aJb6cVPaNPmJPibRvP9c.png?format=pjpg&auto=webp&s=4d165367e51f7aca88f2c3b3a11ef566aa00fc8d']
+2025-04-01 04:44:02,806 - INFO - Video Path: https://v.redd.it/apsrx72ap3se1/DASH_720.mp4?source=fallback
+2025-04-01 04:44:03,011 - INFO - Downloaded media from https://v.redd.it/apsrx72ap3se1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-04-01 04:44:03,052 - INFO - Downloaded media from https://v.redd.it/apsrx72ap3se1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-04-01 04:44:07,902 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-01 04:44:16,336 - INFO - Posted content successfully. Tweet ID: 1906930589107655031
