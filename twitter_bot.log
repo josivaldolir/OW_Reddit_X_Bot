@@ -1611,3 +1611,12 @@ After my last skin I decided Torbjörn needed a magical girl skin, too. Reaper i
 2025-04-01 19:13:16,648 - INFO - Downloaded media from https://preview.redd.it/ip8uzsyit8se1.png?width=3368&format=png&auto=webp&s=9641a08e1ad0db4f592808e2153e91e9b6d5eecb to temp_image.jpg
 2025-04-01 19:13:20,624 - ERROR - Failed to post content: 503 Service Unavailable
 Service Unavailable
+2025-04-01 19:37:15,530 - INFO - Content: "I got chu homie" ahh D.Va 😭🙏
+
+2025-04-01 19:37:15,530 - INFO - Image Paths: ['https://external-preview.redd.it/YzhvcDJ6ZjBoOXNlMREOpz2GEC1TAigYKqiYCIZURE_DBLrlCmaOb79oZoEm.png?format=pjpg&auto=webp&s=8ffd10e2bba4907e2925bb39e797ef0a3e6ee5be']
+2025-04-01 19:37:15,530 - INFO - Video Path: https://v.redd.it/rtxklsf0h9se1/DASH_1080.mp4?source=fallback
+2025-04-01 19:37:16,181 - INFO - Downloaded media from https://v.redd.it/rtxklsf0h9se1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-01 19:37:16,292 - INFO - Downloaded media from https://v.redd.it/rtxklsf0h9se1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-01 19:37:16,938 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-01 19:37:29,399 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
