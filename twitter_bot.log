@@ -1640,3 +1640,12 @@ What the hell does it mean?
 2025-04-01 21:13:49,690 - INFO - Downloaded media from https://preview.redd.it/1r0v33pf1ase1.png?auto=webp&s=88634beb3eb70e4563242760b068df32512f17a9 to temp_image.jpg
 2025-04-01 21:13:50,563 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-01 21:36:26,393 - INFO - Content: Moira has been reworked into DPS
+As you seen in the picture, moira has now been reworked into a dps, what do you think about this change, for the good or for the bad? 
+
+
+2025-04-01 21:36:26,393 - INFO - Image Paths: ['https://preview.redd.it/bqugf8man9se1.png?auto=webp&s=33a5b18bf1b2f73b024eaa56031ac1f380d9d29d']
+2025-04-01 21:36:26,393 - INFO - Video Path: 
+2025-04-01 21:36:26,455 - INFO - Downloaded media from https://preview.redd.it/bqugf8man9se1.png?auto=webp&s=33a5b18bf1b2f73b024eaa56031ac1f380d9d29d to temp_image.jpg
+2025-04-01 21:36:27,188 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
