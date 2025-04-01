@@ -1514,3 +1514,11 @@ I was the Mauga here. Felt so bad when our LW made the noble sacrifice to keep m
 2025-04-01 11:12:47,319 - INFO - Downloaded media from https://v.redd.it/s9eoy252r2se1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-04-01 11:12:49,671 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-01 11:12:58,887 - INFO - Posted content successfully. Tweet ID: 1907028410955686221
+2025-04-01 11:36:11,137 - INFO - Content: Widow Rollout lmao
+
+2025-04-01 11:36:11,137 - INFO - Image Paths: ['https://external-preview.redd.it/bWxhMjllc29kN3NlMZZGy7Zq3gSDVwfvEPTEVgsLTcLFDef2p2GuOQ1XEgyL.png?format=pjpg&auto=webp&s=8f5ef219c232a53a14be1b7c3b6686ff719710d9']
+2025-04-01 11:36:11,137 - INFO - Video Path: https://v.redd.it/ja4wsksod7se1/DASH_1080.mp4?source=fallback
+2025-04-01 11:36:11,583 - INFO - Downloaded media from https://v.redd.it/ja4wsksod7se1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-01 11:36:11,644 - INFO - Downloaded media from https://v.redd.it/ja4wsksod7se1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-01 11:36:12,354 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-01 11:36:20,548 - INFO - Posted content successfully. Tweet ID: 1907034290019266737
