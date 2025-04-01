@@ -1603,3 +1603,11 @@ Too Many Requests
 2025-04-01 18:46:25,485 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-01 18:46:36,127 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-01 19:13:15,867 - INFO - Content: Torbjörn Magical Girl Skin because he is the best boi
+After my last skin I decided Torbjörn needed a magical girl skin, too. Reaper is next. 
+2025-04-01 19:13:15,868 - INFO - Image Paths: ['https://preview.redd.it/4kc71dlit8se1.png?width=2056&format=png&auto=webp&s=3892f64746bc1ba5517404684746e6b3e934193f', 'https://preview.redd.it/ip8uzsyit8se1.png?width=3368&format=png&auto=webp&s=9641a08e1ad0db4f592808e2153e91e9b6d5eecb']
+2025-04-01 19:13:15,868 - INFO - Video Path: 
+2025-04-01 19:13:15,897 - INFO - Downloaded media from https://preview.redd.it/4kc71dlit8se1.png?width=2056&format=png&auto=webp&s=3892f64746bc1ba5517404684746e6b3e934193f to temp_image.jpg
+2025-04-01 19:13:16,648 - INFO - Downloaded media from https://preview.redd.it/ip8uzsyit8se1.png?width=3368&format=png&auto=webp&s=9641a08e1ad0db4f592808e2153e91e9b6d5eecb to temp_image.jpg
+2025-04-01 19:13:20,624 - ERROR - Failed to post content: 503 Service Unavailable
+Service Unavailable
