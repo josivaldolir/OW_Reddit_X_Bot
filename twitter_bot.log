@@ -1534,3 +1534,11 @@ Not saying that's *exactly* how it went, but I think we can all agree it's mostl
 2025-04-01 13:06:05,195 - INFO - Video Path: 
 2025-04-01 13:06:05,361 - INFO - Downloaded media from https://preview.redd.it/mmyiseuwu7se1.jpeg?auto=webp&s=0ceac6f059831753472c3deef5e82aa7fbd03c14 to temp_image.jpg
 2025-04-01 13:06:07,317 - INFO - Posted content successfully. Tweet ID: 1907056881434079417
+2025-04-01 14:14:42,471 - INFO - Content: A brig boop assist I'm proud of
+
+2025-04-01 14:14:42,471 - INFO - Image Paths: ['https://external-preview.redd.it/bzN2ZHR3emJ2N3NlMZf8-yIDXLaRTa7bTfOCT3liFPyOG01BXmqEBaunzVCr.png?format=pjpg&auto=webp&s=18168afcdabe289329ec236695ffe0261de2e4d8']
+2025-04-01 14:14:42,471 - INFO - Video Path: https://v.redd.it/phm8t58cv7se1/DASH_1080.mp4?source=fallback
+2025-04-01 14:14:42,572 - INFO - Downloaded media from https://v.redd.it/phm8t58cv7se1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-01 14:14:42,637 - INFO - Downloaded media from https://v.redd.it/phm8t58cv7se1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-01 14:14:42,979 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-01 14:14:49,564 - INFO - Posted content successfully. Tweet ID: 1907074173723111765
