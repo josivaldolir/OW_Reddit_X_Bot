@@ -1627,3 +1627,9 @@ What the hell does it mean?
 2025-04-01 20:16:56,603 - INFO - Downloaded media from https://preview.redd.it/sou6q4x70ase1.jpeg?auto=webp&s=2f7e4c80835037229892faf761a6763edb74c165 to temp_image.jpg
 2025-04-01 20:16:57,398 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-01 20:40:20,744 - INFO - Content: Is this a cult message?
+What the hell does it mean?
+2025-04-01 20:40:20,744 - INFO - Image Paths: ['https://preview.redd.it/sou6q4x70ase1.jpeg?auto=webp&s=2f7e4c80835037229892faf761a6763edb74c165']
+2025-04-01 20:40:20,744 - INFO - Video Path: 
+2025-04-01 20:40:20,799 - INFO - Downloaded media from https://preview.redd.it/sou6q4x70ase1.jpeg?auto=webp&s=2f7e4c80835037229892faf761a6763edb74c165 to temp_image.jpg
+2025-04-01 20:40:21,700 - INFO - Posted content successfully. Tweet ID: 1907171196761972926
