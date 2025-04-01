@@ -1387,3 +1387,9 @@ Too Many Requests
 2025-04-01 01:16:55,499 - INFO - Downloaded media from https://preview.redd.it/b8yvr4p9g4se1.jpeg?auto=webp&s=6e8bb248d470126f1403654e4cf32594f881b3be to temp_image.jpg
 2025-04-01 01:16:56,792 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-01 02:58:42,649 - INFO - Content: Is this canon?
+
+2025-04-01 02:58:42,649 - INFO - Image Paths: ['https://preview.redd.it/b8yvr4p9g4se1.jpeg?auto=webp&s=6e8bb248d470126f1403654e4cf32594f881b3be']
+2025-04-01 02:58:42,649 - INFO - Video Path: 
+2025-04-01 02:58:42,906 - INFO - Downloaded media from https://preview.redd.it/b8yvr4p9g4se1.jpeg?auto=webp&s=6e8bb248d470126f1403654e4cf32594f881b3be to temp_image.jpg
+2025-04-01 02:58:44,658 - INFO - Posted content successfully. Tweet ID: 1906904030678594024
