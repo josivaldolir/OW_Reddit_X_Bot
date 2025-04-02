@@ -1942,3 +1942,11 @@ Too Many Requests
 2025-04-02 20:39:10,199 - INFO - Downloaded media from https://preview.redd.it/kdlp85s34hse1.jpg?width=3472&format=pjpg&auto=webp&s=3b8a1f70f1e0ee1593c92a16084f9f33e87908cf to temp_image.jpg
 2025-04-02 20:39:11,886 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-02 21:13:55,046 - INFO - Content: Casual Kiriko I painted with watercolors ✨
+
+2025-04-02 21:13:55,046 - INFO - Image Paths: ['https://preview.redd.it/1mhbu6a34hse1.jpg?width=3295&format=pjpg&auto=webp&s=277899360046fcb7e95f6196f650354a9092ae69', 'https://preview.redd.it/kdlp85s34hse1.jpg?width=3472&format=pjpg&auto=webp&s=3b8a1f70f1e0ee1593c92a16084f9f33e87908cf']
+2025-04-02 21:13:55,046 - INFO - Video Path: 
+2025-04-02 21:13:55,138 - INFO - Downloaded media from https://preview.redd.it/1mhbu6a34hse1.jpg?width=3295&format=pjpg&auto=webp&s=277899360046fcb7e95f6196f650354a9092ae69 to temp_image.jpg
+2025-04-02 21:13:56,567 - INFO - Downloaded media from https://preview.redd.it/kdlp85s34hse1.jpg?width=3472&format=pjpg&auto=webp&s=3b8a1f70f1e0ee1593c92a16084f9f33e87908cf to temp_image.jpg
+2025-04-02 21:13:58,380 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
