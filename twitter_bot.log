@@ -1875,3 +1875,11 @@ I love it so much because the actual eyes look the same but this is just cute an
 2025-04-02 16:47:07,284 - INFO - Video Path: 
 2025-04-02 16:47:07,422 - INFO - Downloaded media from https://preview.redd.it/hqo4flfq3gse1.png?auto=webp&s=34a3af1a2b77d6754efcab082e6c7e4fad0fbf03 to temp_image.jpg
 2025-04-02 16:47:09,166 - INFO - Posted content successfully. Tweet ID: 1907474892762788287
+2025-04-02 17:13:00,264 - INFO - Content: Symmetry VA talks about how Overwatch has connected people from all over the world!
+
+2025-04-02 17:13:00,264 - INFO - Image Paths: ['https://external-preview.redd.it/cjc0bTEwbmd2ZXNlMf-6G1vQ4dLyIwVTwfibTxWpxjBcB-jzlwqPwFbPoWAx.png?format=pjpg&auto=webp&s=d003107722ca2c0c722cb4f120a318c689bacb57']
+2025-04-02 17:13:00,264 - INFO - Video Path: https://v.redd.it/fyct4rqgvese1/DASH_480.mp4?source=fallback
+2025-04-02 17:13:00,441 - INFO - Downloaded media from https://v.redd.it/fyct4rqgvese1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-04-02 17:13:00,557 - INFO - Downloaded media from https://v.redd.it/fyct4rqgvese1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-04-02 17:13:00,900 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-02 17:13:11,527 - INFO - Posted content successfully. Tweet ID: 1907481448807903710
