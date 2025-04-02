@@ -1833,3 +1833,11 @@ It's in Nairobi Kenya. Loads of them with nice art around here
 2025-04-02 13:05:07,002 - INFO - Downloaded media from https://v.redd.it/uaohxis8vase1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-04-02 13:05:07,315 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-02 13:05:24,595 - INFO - Posted content successfully. Tweet ID: 1907419092375818382
+2025-04-02 13:43:48,386 - INFO - Content: Taking the German Rein Express
+
+2025-04-02 13:43:48,386 - INFO - Image Paths: ['https://external-preview.redd.it/ZWM1M3BuYzc3ZHNlMSwaPGxsCGBgJzWO2uIHKWV4BPqOpiOFQioAyZyvUJ6L.png?format=pjpg&auto=webp&s=33cdbca6287fffb9289049bb6752ddc86760f801']
+2025-04-02 13:43:48,386 - INFO - Video Path: https://v.redd.it/rj0isoc77dse1/DASH_1080.mp4?source=fallback
+2025-04-02 13:43:48,658 - INFO - Downloaded media from https://v.redd.it/rj0isoc77dse1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-02 13:43:48,805 - INFO - Downloaded media from https://v.redd.it/rj0isoc77dse1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-02 13:43:49,182 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-02 13:44:06,685 - INFO - Posted content successfully. Tweet ID: 1907428831847235861
