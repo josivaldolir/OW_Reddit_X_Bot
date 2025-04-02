@@ -1901,3 +1901,12 @@ Too Many Requests
 2025-04-02 18:21:18,599 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-02 18:21:27,220 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-02 18:45:58,659 - INFO - Content: He's a silly billy
+
+2025-04-02 18:45:58,659 - INFO - Image Paths: ['https://external-preview.redd.it/OHVxNTdlZ2w5Z3NlMfOYYXRhU_ARzU0hpsiQd75oBfISQTmT_q9hAPuUEuoc.jpeg?format=pjpg&auto=webp&s=8b2071d0ad33887d8cc0c218577e94b032e08339']
+2025-04-02 18:45:58,659 - INFO - Video Path: https://v.redd.it/kvms4zih9gse1/DASH_1080.mp4?source=fallback
+2025-04-02 18:45:58,856 - INFO - Downloaded media from https://v.redd.it/kvms4zih9gse1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-02 18:45:58,951 - INFO - Downloaded media from https://v.redd.it/kvms4zih9gse1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-02 18:45:59,275 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-02 18:46:04,372 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
