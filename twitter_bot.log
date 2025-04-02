@@ -1910,3 +1910,11 @@ Too Many Requests
 2025-04-02 18:45:59,275 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-02 18:46:04,372 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-02 19:15:36,871 - INFO - Content: You've heard of Reins touring services, now let me introduce Maugas dog walking
+
+2025-04-02 19:15:36,871 - INFO - Image Paths: ['https://external-preview.redd.it/NHBjZjByYjBwZ3NlMUvNWPCgXU-v9Yey-gBNo5vvX-08m23ioeA-drwCffxZ.png?format=pjpg&auto=webp&s=9f6ff819de70febe460a66e15bbcad4a15d6ee88']
+2025-04-02 19:15:36,871 - INFO - Video Path: https://v.redd.it/j3vub7m0pgse1/DASH_720.mp4?source=fallback
+2025-04-02 19:15:37,015 - INFO - Downloaded media from https://v.redd.it/j3vub7m0pgse1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-04-02 19:15:37,072 - INFO - Downloaded media from https://v.redd.it/j3vub7m0pgse1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-04-02 19:15:45,748 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-02 19:15:53,143 - INFO - Posted content successfully. Tweet ID: 1907512325701247340
