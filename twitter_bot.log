@@ -1776,3 +1776,11 @@ Could of gone on for longer but it will do
 2025-04-02 08:20:06,612 - INFO - Downloaded media from https://v.redd.it/phe27mkuaase1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-04-02 08:20:08,954 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-02 08:20:18,324 - INFO - Posted content successfully. Tweet ID: 1907347343583629452
+2025-04-02 08:45:22,094 - INFO - Content: "I got chu homie" ahh D.Va 😭🙏
+
+2025-04-02 08:45:22,094 - INFO - Image Paths: ['https://external-preview.redd.it/YzhvcDJ6ZjBoOXNlMREOpz2GEC1TAigYKqiYCIZURE_DBLrlCmaOb79oZoEm.png?format=pjpg&auto=webp&s=8ffd10e2bba4907e2925bb39e797ef0a3e6ee5be']
+2025-04-02 08:45:22,094 - INFO - Video Path: https://v.redd.it/rtxklsf0h9se1/DASH_1080.mp4?source=fallback
+2025-04-02 08:45:22,524 - INFO - Downloaded media from https://v.redd.it/rtxklsf0h9se1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-02 08:45:22,642 - INFO - Downloaded media from https://v.redd.it/rtxklsf0h9se1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-02 08:45:23,038 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-02 08:45:32,028 - INFO - Posted content successfully. Tweet ID: 1907353692522557788
