@@ -1883,3 +1883,12 @@ I love it so much because the actual eyes look the same but this is just cute an
 2025-04-02 17:13:00,557 - INFO - Downloaded media from https://v.redd.it/fyct4rqgvese1/DASH_480.mp4?source=fallback to temp_audio.mp4
 2025-04-02 17:13:00,900 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-02 17:13:11,527 - INFO - Posted content successfully. Tweet ID: 1907481448807903710
+2025-04-02 17:38:41,706 - INFO - Content: Great minds think alike
+
+2025-04-02 17:38:41,707 - INFO - Image Paths: ['https://external-preview.redd.it/YmI0bnd6a2U2ZnNlMaEh8jYq9zbSIXo1ZLYB8gVQaSEXJX4b6ZDplkGiZFpr.png?format=pjpg&auto=webp&s=b806b4b3be37a1d3a37cc6c5b0e635c4905117f6']
+2025-04-02 17:38:41,707 - INFO - Video Path: https://v.redd.it/yne8asse6fse1/DASH_1080.mp4?source=fallback
+2025-04-02 17:38:42,936 - INFO - Downloaded media from https://v.redd.it/yne8asse6fse1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-02 17:38:43,523 - INFO - Downloaded media from https://v.redd.it/yne8asse6fse1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-02 17:38:44,074 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-02 17:38:53,560 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
