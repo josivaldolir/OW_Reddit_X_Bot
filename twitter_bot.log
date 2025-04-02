@@ -1676,3 +1676,12 @@ Too Many Requests
 2025-04-01 23:37:06,313 - INFO - Video Path: 
 2025-04-01 23:37:06,377 - INFO - Downloaded media from https://preview.redd.it/l16tma3mrase1.png?auto=webp&s=3d72ebfe022ec18d4485d1c85b06fba650b55d0c to temp_image.jpg
 2025-04-01 23:37:07,559 - INFO - Posted content successfully. Tweet ID: 1907215679939567968
+2025-04-02 01:09:32,330 - INFO - Content: Ok, I love this mode
+
+2025-04-02 01:09:32,330 - INFO - Image Paths: ['https://external-preview.redd.it/MjY2ZXNocDNzOXNlMTr8eXD8kBaKzniNU64XU0YZ2dxNbH7zWxAYe8Zhr06J.png?format=pjpg&auto=webp&s=6de8d388feca98d13dae29d55cb87fb572eada6c']
+2025-04-02 01:09:32,330 - INFO - Video Path: https://v.redd.it/5rhkffp3s9se1/DASH_1080.mp4?source=fallback
+2025-04-02 01:09:32,823 - INFO - Downloaded media from https://v.redd.it/5rhkffp3s9se1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-02 01:09:33,401 - INFO - Downloaded media from https://v.redd.it/5rhkffp3s9se1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-02 01:09:33,994 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-02 01:09:43,881 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
