@@ -1950,3 +1950,12 @@ Too Many Requests
 2025-04-02 21:13:56,567 - INFO - Downloaded media from https://preview.redd.it/kdlp85s34hse1.jpg?width=3472&format=pjpg&auto=webp&s=3b8a1f70f1e0ee1593c92a16084f9f33e87908cf to temp_image.jpg
 2025-04-02 21:13:58,380 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-02 21:36:33,466 - INFO - Content: when my teammates tell me to swap off zen and go mercy
+
+2025-04-02 21:36:33,466 - INFO - Image Paths: ['https://external-preview.redd.it/NTRjdG83eW9oaHNlMeoV10870Wckfr-H-5JtmUkyvDNhI2ggPEf1fhTn5C1V.png?format=pjpg&auto=webp&s=c53e306a62ed80a68cb6cc7d971c9d634360dee8']
+2025-04-02 21:36:33,466 - INFO - Video Path: https://v.redd.it/jabjx4yohhse1/DASH_1080.mp4?source=fallback
+2025-04-02 21:36:33,657 - INFO - Downloaded media from https://v.redd.it/jabjx4yohhse1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-02 21:36:33,765 - INFO - Downloaded media from https://v.redd.it/jabjx4yohhse1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-02 21:36:34,151 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-02 21:36:41,582 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
