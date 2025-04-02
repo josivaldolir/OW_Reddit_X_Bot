@@ -1848,3 +1848,11 @@ It's in Nairobi Kenya. Loads of them with nice art around here
 2025-04-02 14:14:39,380 - INFO - Video Path: 
 2025-04-02 14:14:39,425 - INFO - Downloaded media from https://preview.redd.it/lq5jzv69ffse1.jpeg?auto=webp&s=b9ba854777b1a0cabd449cfc692aad18d8106ad7 to temp_image.jpg
 2025-04-02 14:14:40,255 - INFO - Posted content successfully. Tweet ID: 1907436522325901383
+2025-04-02 14:41:52,386 - INFO - Content: Lana Del Rey calls. I must answer.
+This is this best April fools change EVER
+2025-04-02 14:41:52,386 - INFO - Image Paths: ['https://external-preview.redd.it/MTZ6d2Z5eWswZnNlMTnKH25ZJTneOm8qElyThN5g8o1bkLE5PFyPscBB3dxj.png?format=pjpg&auto=webp&s=49243c7c6a39d866cb1dd6994f4e8cea22f01018']
+2025-04-02 14:41:52,386 - INFO - Video Path: https://v.redd.it/jtdqmk3l0fse1/DASH_1080.mp4?source=fallback
+2025-04-02 14:41:52,766 - INFO - Downloaded media from https://v.redd.it/jtdqmk3l0fse1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-02 14:41:53,067 - INFO - Downloaded media from https://v.redd.it/jtdqmk3l0fse1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-02 14:41:53,613 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-02 14:42:16,390 - INFO - Posted content successfully. Tweet ID: 1907443468797931935
