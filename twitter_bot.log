@@ -1856,3 +1856,10 @@ This is this best April fools change EVER
 2025-04-02 14:41:53,067 - INFO - Downloaded media from https://v.redd.it/jtdqmk3l0fse1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-04-02 14:41:53,613 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-02 14:42:16,390 - INFO - Posted content successfully. Tweet ID: 1907443468797931935
+2025-04-02 15:41:19,562 - INFO - Content: Saying anything as Rein makes it sound like him
+
+2025-04-02 15:41:19,562 - INFO - Image Paths: ['https://preview.redd.it/sglvwd14mfse1.png?width=351&format=png&auto=webp&s=2d2fc3f1d8007b199154440da6823123050d27cd', 'https://preview.redd.it/suqx0cv6mfse1.png?width=351&format=png&auto=webp&s=5918f269a99a89ae13033f5aa0f641f82189725a']
+2025-04-02 15:41:19,562 - INFO - Video Path: 
+2025-04-02 15:41:19,818 - INFO - Downloaded media from https://preview.redd.it/sglvwd14mfse1.png?width=351&format=png&auto=webp&s=2d2fc3f1d8007b199154440da6823123050d27cd to temp_image.jpg
+2025-04-02 15:41:20,326 - INFO - Downloaded media from https://preview.redd.it/suqx0cv6mfse1.png?width=351&format=png&auto=webp&s=5918f269a99a89ae13033f5aa0f641f82189725a to temp_image.jpg
+2025-04-02 15:41:21,047 - INFO - Posted content successfully. Tweet ID: 1907458336121123306
