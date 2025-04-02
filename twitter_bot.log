@@ -1703,3 +1703,11 @@ Too Many Requests
 2025-04-02 03:30:28,264 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-02 03:30:36,886 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-02 03:53:11,819 - INFO - Content: April Fools update is already perfect.
+
+2025-04-02 03:53:11,819 - INFO - Image Paths: ['https://external-preview.redd.it/MnIzajJxdWNmYXNlMa3fnrJK8bfs-581wo5-NvG7ka6e4KCeru2VgyNcnJ1F.png?format=pjpg&auto=webp&s=9bf99748361a778eb21c11dd5c42a6de0f1f42eb']
+2025-04-02 03:53:11,819 - INFO - Video Path: https://v.redd.it/jxoqg60dfase1/DASH_1080.mp4?source=fallback
+2025-04-02 03:53:12,161 - INFO - Downloaded media from https://v.redd.it/jxoqg60dfase1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-02 03:53:12,337 - INFO - Downloaded media from https://v.redd.it/jxoqg60dfase1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-02 03:53:12,730 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-02 03:53:33,394 - INFO - Posted content successfully. Tweet ID: 1907280213974655439
