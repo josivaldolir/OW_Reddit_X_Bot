@@ -1694,3 +1694,12 @@ Too Many Requests
 2025-04-02 02:46:12,828 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-02 02:46:20,419 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-02 03:30:27,567 - INFO - Content: Got them a Delta airplane ticket 🤣
+
+2025-04-02 03:30:27,567 - INFO - Image Paths: ['https://external-preview.redd.it/MTY5ZDlqMXNmYXNlMWyLdZsq5XrKgXNJwh1ZN2a13iNfUISmwvFWZ08TlrY1.png?format=pjpg&auto=webp&s=0d904e6f537feab6272c067a604e0c3088d7b618']
+2025-04-02 03:30:27,567 - INFO - Video Path: https://v.redd.it/bukt0j1sfase1/DASH_1080.mp4?source=fallback
+2025-04-02 03:30:27,847 - INFO - Downloaded media from https://v.redd.it/bukt0j1sfase1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-02 03:30:27,972 - INFO - Downloaded media from https://v.redd.it/bukt0j1sfase1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-02 03:30:28,264 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-02 03:30:36,886 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
