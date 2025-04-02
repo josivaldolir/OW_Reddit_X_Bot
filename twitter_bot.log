@@ -1768,3 +1768,11 @@ If we didn't before, we do now!
 2025-04-02 07:36:44,231 - INFO - Video Path: 
 2025-04-02 07:36:44,301 - INFO - Downloaded media from https://preview.redd.it/80plg5n3zcse1.png?auto=webp&s=03935a4ef01f8f30e484f9ecc00e836d85ba77b1 to temp_image.jpg
 2025-04-02 07:36:45,142 - INFO - Posted content successfully. Tweet ID: 1907336382718058680
+2025-04-02 08:20:06,037 - INFO - Content: Beautifully executed
+Could of gone on for longer but it will do
+2025-04-02 08:20:06,037 - INFO - Image Paths: ['https://external-preview.redd.it/bnYwcGwxZXVhYXNlMUQoSCEyUBX3Fin80s1FiRBquavHsaDlq6F5FcYX7uny.png?format=pjpg&auto=webp&s=44eddaf4c7dbf8e4745485f9654f6011806276c6']
+2025-04-02 08:20:06,037 - INFO - Video Path: https://v.redd.it/phe27mkuaase1/DASH_1080.mp4?source=fallback
+2025-04-02 08:20:06,467 - INFO - Downloaded media from https://v.redd.it/phe27mkuaase1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-02 08:20:06,612 - INFO - Downloaded media from https://v.redd.it/phe27mkuaase1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-02 08:20:08,954 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-02 08:20:18,324 - INFO - Posted content successfully. Tweet ID: 1907347343583629452
