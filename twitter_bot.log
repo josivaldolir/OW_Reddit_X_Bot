@@ -1784,3 +1784,11 @@ Could of gone on for longer but it will do
 2025-04-02 08:45:22,642 - INFO - Downloaded media from https://v.redd.it/rtxklsf0h9se1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-04-02 08:45:23,038 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-02 08:45:32,028 - INFO - Posted content successfully. Tweet ID: 1907353692522557788
+2025-04-02 09:17:03,689 - INFO - Content: Moira has been reworked into DPS
+As you seen in the picture, moira has now been reworked into a dps, what do you think about this change, for the good or for the bad? 
+
+
+2025-04-02 09:17:03,689 - INFO - Image Paths: ['https://preview.redd.it/bqugf8man9se1.png?auto=webp&s=33a5b18bf1b2f73b024eaa56031ac1f380d9d29d']
+2025-04-02 09:17:03,689 - INFO - Video Path: 
+2025-04-02 09:17:03,863 - INFO - Downloaded media from https://preview.redd.it/bqugf8man9se1.png?auto=webp&s=33a5b18bf1b2f73b024eaa56031ac1f380d9d29d to temp_image.jpg
+2025-04-02 09:17:05,019 - INFO - Posted content successfully. Tweet ID: 1907361631438602320
