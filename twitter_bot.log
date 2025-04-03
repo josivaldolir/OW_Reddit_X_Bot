@@ -2040,3 +2040,11 @@ Yes
 2025-04-03 05:40:46,230 - INFO - Video Path: 
 2025-04-03 05:40:46,450 - INFO - Downloaded media from https://preview.redd.it/sco772m10kse1.jpeg?auto=webp&s=c2fd688a98c79f52c61368b4a16087d07b4b1d7e to temp_image.jpg
 2025-04-03 05:40:47,816 - INFO - Posted content successfully. Tweet ID: 1907669589124649323
+2025-04-03 06:21:22,787 - INFO - Content: Poor genji...
+
+2025-04-03 06:21:22,787 - INFO - Image Paths: ['https://external-preview.redd.it/ejE1cGs0NDl2aHNlMWxziCzCRNOl8b28ywjaxKao7LIfZg42BLDBGwJ4R6HN.png?format=pjpg&auto=webp&s=3a29e6de1f852b289437b22dd7a634b35d9baf45']
+2025-04-03 06:21:22,787 - INFO - Video Path: https://v.redd.it/zmw44149vhse1/DASH_1080.mp4?source=fallback
+2025-04-03 06:21:24,419 - INFO - Downloaded media from https://v.redd.it/zmw44149vhse1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-03 06:21:24,570 - INFO - Downloaded media from https://v.redd.it/zmw44149vhse1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-03 06:21:24,929 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-03 06:21:33,857 - INFO - Posted content successfully. Tweet ID: 1907679849222910223
