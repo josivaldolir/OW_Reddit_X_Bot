@@ -2217,3 +2217,9 @@ As a humble Juno main, I really cannot understand the venture mains that weep fo
 2025-04-03 18:45:19,861 - INFO - Downloaded media from https://preview.redd.it/9txinaavtnse1.png?auto=webp&s=24e52e518fc7a9230fcff201742fbd7eb3de7a5e to temp_image.jpg
 2025-04-03 18:45:20,566 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-03 19:12:22,219 - INFO - Content: What letting Reinhardt have fun for 99 games looks like
+
+2025-04-03 19:12:22,219 - INFO - Image Paths: ['https://preview.redd.it/9txinaavtnse1.png?auto=webp&s=24e52e518fc7a9230fcff201742fbd7eb3de7a5e']
+2025-04-03 19:12:22,219 - INFO - Video Path: 
+2025-04-03 19:12:22,291 - INFO - Downloaded media from https://preview.redd.it/9txinaavtnse1.png?auto=webp&s=24e52e518fc7a9230fcff201742fbd7eb3de7a5e to temp_image.jpg
+2025-04-03 19:12:23,281 - INFO - Posted content successfully. Tweet ID: 1907873832507158974
