@@ -2099,3 +2099,11 @@ In an unlisted change, Sombra is able to see Wrecking Ball no matter where he is
 2025-04-03 10:16:04,447 - INFO - Video Path: 
 2025-04-03 10:16:04,567 - INFO - Downloaded media from https://preview.redd.it/cpxeuu8kojse1.png?auto=webp&s=df40e3d56f4ef2239c9ddf518bf00d61d88f8e2f to temp_image.jpg
 2025-04-03 10:16:05,932 - INFO - Posted content successfully. Tweet ID: 1907738869920919563
+2025-04-03 10:44:57,087 - INFO - Content: I Think We Should Mauga's New Ability
+The entire lobby burst in laughter as I flew them to their deaths
+2025-04-03 10:44:57,088 - INFO - Image Paths: ['https://external-preview.redd.it/bHJ0emo5NmUyanNlMQfh2GiNfF529KjJUN3UpNUvcYU9Teq2GR3wDtMAKdom.png?format=pjpg&auto=webp&s=efc511d148a243ef451e06671bc9153070873d85']
+2025-04-03 10:44:57,088 - INFO - Video Path: https://v.redd.it/bsp9ha6e2jse1/DASH_1080.mp4?source=fallback
+2025-04-03 10:44:57,279 - INFO - Downloaded media from https://v.redd.it/bsp9ha6e2jse1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-03 10:44:57,337 - INFO - Downloaded media from https://v.redd.it/bsp9ha6e2jse1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-03 10:45:03,168 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-03 10:45:11,045 - INFO - Posted content successfully. Tweet ID: 1907746191250452748
