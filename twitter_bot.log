@@ -2020,3 +2020,9 @@ Too Many Requests
 2025-04-03 04:18:29,564 - INFO - Video Path: 
 2025-04-03 04:18:29,651 - INFO - Downloaded media from https://preview.redd.it/bt07oj4o0jse1.png?auto=webp&s=f6271af07ccb0fcd5e7cf662cf5c6d9839b855c2 to temp_image.jpg
 2025-04-03 04:18:30,882 - INFO - Posted content successfully. Tweet ID: 1907648881703137364
+2025-04-03 04:43:29,416 - INFO - Content: me, loading up my dive tanks with turrets before they run in
+at one point we had an Orisa with 3 Sym turrets attached to her and a Hanzo on her back 
+2025-04-03 04:43:29,416 - INFO - Image Paths: ['https://preview.redd.it/mym9xt484jse1.jpeg?auto=webp&s=47f9de74de148c1d34a933d88be61fb1e9712451']
+2025-04-03 04:43:29,416 - INFO - Video Path: 
+2025-04-03 04:43:29,605 - INFO - Downloaded media from https://preview.redd.it/mym9xt484jse1.jpeg?auto=webp&s=47f9de74de148c1d34a933d88be61fb1e9712451 to temp_image.jpg
+2025-04-03 04:43:30,528 - INFO - Posted content successfully. Tweet ID: 1907655172438040708
