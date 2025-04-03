@@ -2249,3 +2249,12 @@ Too Many Requests
 2025-04-03 20:16:29,980 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-03 20:16:37,922 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-03 20:39:47,167 - INFO - Content: Saving my kidnapped sym with a spiketrap
+
+2025-04-03 20:39:47,167 - INFO - Image Paths: ['https://external-preview.redd.it/Mmdtbzl0MWk4b3NlMa1O0jz7XSoZPcAoEIWTGMMOo5xlhwUFIeGyhxqXs9r-.png?format=pjpg&auto=webp&s=ce56f05a3fb73f5e2c732eabfd136619033520dd']
+2025-04-03 20:39:47,167 - INFO - Video Path: https://v.redd.it/wgv0v10i8ose1/DASH_480.mp4?source=fallback
+2025-04-03 20:39:47,813 - INFO - Downloaded media from https://v.redd.it/wgv0v10i8ose1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-04-03 20:39:48,283 - INFO - Downloaded media from https://v.redd.it/wgv0v10i8ose1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-04-03 20:39:51,678 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-03 20:39:57,964 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
