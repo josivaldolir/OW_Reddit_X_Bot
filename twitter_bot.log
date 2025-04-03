@@ -2077,3 +2077,11 @@ And she's in every game since they made her so much easier to play in every way 
 2025-04-03 08:19:27,815 - INFO - Image Paths: []
 2025-04-03 08:19:27,815 - INFO - Video Path: 
 2025-04-03 08:19:28,140 - INFO - Posted content successfully. Tweet ID: 1907709521054564605
+2025-04-03 09:16:17,792 - INFO - Content: Imma need this to be a permanent feature please
+
+2025-04-03 09:16:17,793 - INFO - Image Paths: ['https://external-preview.redd.it/eTVha3oyZDlkZ3NlMV8fnYs4iKzqpoB4Yl-DqLh6p1aOZyDGD4t0nT6bgrrS.png?format=pjpg&auto=webp&s=6c44ddb22f2658a27f3005fa6fb2a2376808daa8']
+2025-04-03 09:16:17,793 - INFO - Video Path: https://v.redd.it/3zahjki9dgse1/DASH_720.mp4?source=fallback
+2025-04-03 09:16:18,067 - INFO - Downloaded media from https://v.redd.it/3zahjki9dgse1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-04-03 09:16:18,133 - INFO - Downloaded media from https://v.redd.it/3zahjki9dgse1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-04-03 09:16:18,821 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-03 09:16:25,893 - INFO - Posted content successfully. Tweet ID: 1907723856032444917
