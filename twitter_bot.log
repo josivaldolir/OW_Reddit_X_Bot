@@ -2195,3 +2195,10 @@ As a humble Juno main, I really cannot understand the venture mains that weep fo
 2025-04-03 17:13:38,974 - INFO - Video Path: 
 2025-04-03 17:13:39,031 - INFO - Downloaded media from https://preview.redd.it/12oslipihnse1.png?auto=webp&s=1127eb09c51449b7d545e5c11f5aae57f2dc821b to temp_image.jpg
 2025-04-03 17:13:39,951 - INFO - Posted content successfully. Tweet ID: 1907843955859087869
+2025-04-03 17:40:21,139 - INFO - Content: Wth guys
+
+2025-04-03 17:40:21,139 - INFO - Image Paths: ['https://preview.redd.it/19m6m0ky9nse1.jpeg?auto=webp&s=0282e795d188f84c72ed0dd5b3cf09d14d7089f9']
+2025-04-03 17:40:21,139 - INFO - Video Path: 
+2025-04-03 17:40:21,233 - INFO - Downloaded media from https://preview.redd.it/19m6m0ky9nse1.jpeg?auto=webp&s=0282e795d188f84c72ed0dd5b3cf09d14d7089f9 to temp_image.jpg
+2025-04-03 17:40:29,555 - ERROR - Failed to post content: 500 Internal Server Error
+131 - Internal error
