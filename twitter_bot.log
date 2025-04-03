@@ -2202,3 +2202,11 @@ As a humble Juno main, I really cannot understand the venture mains that weep fo
 2025-04-03 17:40:21,233 - INFO - Downloaded media from https://preview.redd.it/19m6m0ky9nse1.jpeg?auto=webp&s=0282e795d188f84c72ed0dd5b3cf09d14d7089f9 to temp_image.jpg
 2025-04-03 17:40:29,555 - ERROR - Failed to post content: 500 Internal Server Error
 131 - Internal error
+2025-04-03 18:19:53,871 - INFO - Content: question, how does rein have a flying blue shell in first place?
+
+2025-04-03 18:19:53,871 - INFO - Image Paths: ['https://external-preview.redd.it/dTJzamk0dm5wbXNlMYB300U7LJpI59Ov4QtiHZHYvCTBCMdQf3riiQumeqhx.png?format=pjpg&auto=webp&s=ce8e54e682a0cbbf698cba92b3690a127ea9b228']
+2025-04-03 18:19:53,871 - INFO - Video Path: https://v.redd.it/u8ddxvynpmse1/DASH_1080.mp4?source=fallback
+2025-04-03 18:19:54,074 - INFO - Downloaded media from https://v.redd.it/u8ddxvynpmse1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-03 18:19:54,180 - INFO - Downloaded media from https://v.redd.it/u8ddxvynpmse1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-03 18:19:54,569 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-03 18:20:03,825 - INFO - Posted content successfully. Tweet ID: 1907860665475191254
