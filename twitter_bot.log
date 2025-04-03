@@ -2299,3 +2299,9 @@ Inspired by a post I just read. Literally just put them where my first instinct 
 2025-04-03 23:14:40,416 - INFO - Downloaded media from https://preview.redd.it/98c2w68hhose1.png?auto=webp&s=f741d3f88a307fdd979997eac91833d8055b12e9 to temp_image.jpg
 2025-04-03 23:14:41,111 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-03 23:38:06,643 - INFO - Content: Cute or Edgy Tierlist
+Inspired by a post I just read. Literally just put them where my first instinct wanted them to go, don't really care if it's accurate. Discuss!
+2025-04-03 23:38:06,643 - INFO - Image Paths: ['https://preview.redd.it/98c2w68hhose1.png?auto=webp&s=f741d3f88a307fdd979997eac91833d8055b12e9']
+2025-04-03 23:38:06,643 - INFO - Video Path: 
+2025-04-03 23:38:06,732 - INFO - Downloaded media from https://preview.redd.it/98c2w68hhose1.png?auto=webp&s=f741d3f88a307fdd979997eac91833d8055b12e9 to temp_image.jpg
+2025-04-03 23:38:08,164 - INFO - Posted content successfully. Tweet ID: 1907940709161922778
