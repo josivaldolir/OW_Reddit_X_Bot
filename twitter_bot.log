@@ -2240,3 +2240,12 @@ twitter is @/cyl\_linder if u want to drop a follow
 2025-04-03 19:36:08,676 - INFO - Downloaded media from https://external-preview.redd.it/j4zA5C6L958Zqu_WouLdh6jyHKEcUgCio9rdjX0kZqk.jpg?auto=webp&s=2420b1d119219df07dbda0d07de579997383cf5f to temp_image.jpg
 2025-04-03 19:36:10,572 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-03 20:16:29,292 - INFO - Content: Saving my kidnapped sym with a spiketrap
+
+2025-04-03 20:16:29,292 - INFO - Image Paths: ['https://external-preview.redd.it/Mmdtbzl0MWk4b3NlMa1O0jz7XSoZPcAoEIWTGMMOo5xlhwUFIeGyhxqXs9r-.png?format=pjpg&auto=webp&s=ce56f05a3fb73f5e2c732eabfd136619033520dd']
+2025-04-03 20:16:29,292 - INFO - Video Path: https://v.redd.it/wgv0v10i8ose1/DASH_480.mp4?source=fallback
+2025-04-03 20:16:29,475 - INFO - Downloaded media from https://v.redd.it/wgv0v10i8ose1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-04-03 20:16:29,577 - INFO - Downloaded media from https://v.redd.it/wgv0v10i8ose1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-04-03 20:16:29,980 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-03 20:16:37,922 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
