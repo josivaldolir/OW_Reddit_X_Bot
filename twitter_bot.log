@@ -2014,3 +2014,9 @@ Too Many Requests
 2025-04-03 03:52:35,529 - INFO - Downloaded media from https://preview.redd.it/bt07oj4o0jse1.png?auto=webp&s=f6271af07ccb0fcd5e7cf662cf5c6d9839b855c2 to temp_image.jpg
 2025-04-03 03:52:36,427 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-03 04:18:29,563 - INFO - Content: Hanzo out here this April Fools event like
+
+2025-04-03 04:18:29,564 - INFO - Image Paths: ['https://preview.redd.it/bt07oj4o0jse1.png?auto=webp&s=f6271af07ccb0fcd5e7cf662cf5c6d9839b855c2']
+2025-04-03 04:18:29,564 - INFO - Video Path: 
+2025-04-03 04:18:29,651 - INFO - Downloaded media from https://preview.redd.it/bt07oj4o0jse1.png?auto=webp&s=f6271af07ccb0fcd5e7cf662cf5c6d9839b855c2 to temp_image.jpg
+2025-04-03 04:18:30,882 - INFO - Posted content successfully. Tweet ID: 1907648881703137364
