@@ -2469,3 +2469,11 @@ Marvels trying to lure me back and I'm trying to resist but I don't know if I ha
 2025-04-04 14:40:43,388 - INFO - Video Path: 
 2025-04-04 14:40:43,415 - INFO - Downloaded media from https://preview.redd.it/3qh89r8yntse1.png?auto=webp&s=9a6d451fd0092a560b246fb85e3ad0b972182809 to temp_image.jpg
 2025-04-04 14:40:44,916 - INFO - Posted content successfully. Tweet ID: 1908167859047641207
+2025-04-04 15:15:23,926 - INFO - Content: I have found the forbidden Reinhardt tech in the April Fools game mode.
+Possibly game breaking...
+2025-04-04 15:15:23,926 - INFO - Image Paths: ['https://external-preview.redd.it/eHdxZWxyeHZydHNlMeL6JPSG3nSW37Wdxmt87MBP2Eb-3hYPZx1KqmhtgiU1.png?format=pjpg&auto=webp&s=f5f43bd7472d99c533af0e477c651994d5151cfe']
+2025-04-04 15:15:23,926 - INFO - Video Path: https://v.redd.it/rp7i4txvrtse1/DASH_1080.mp4?source=fallback
+2025-04-04 15:15:24,297 - INFO - Downloaded media from https://v.redd.it/rp7i4txvrtse1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-04 15:15:24,462 - INFO - Downloaded media from https://v.redd.it/rp7i4txvrtse1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-04 15:15:24,834 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-04 15:15:36,740 - INFO - Posted content successfully. Tweet ID: 1908176634596954305
