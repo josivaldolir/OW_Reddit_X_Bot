@@ -2332,3 +2332,9 @@ Too Many Requests
 2025-04-04 03:49:29,725 - INFO - Downloaded media from https://v.redd.it/ka2rktgcuose1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-04-04 03:49:30,212 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-04 03:49:52,529 - INFO - Posted content successfully. Tweet ID: 1908004063326990786
+2025-04-04 04:17:35,676 - INFO - Content: Servers down again
+Disconnected from the game at the start of a comp game for no reason, did the servers go down again or is it just me?
+2025-04-04 04:17:35,676 - INFO - Image Paths: []
+2025-04-04 04:17:35,676 - INFO - Video Path: 
+2025-04-04 04:17:35,848 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
