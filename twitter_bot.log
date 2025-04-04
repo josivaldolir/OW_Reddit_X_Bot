@@ -2324,3 +2324,11 @@ Too Many Requests
 2025-04-04 03:29:25,498 - INFO - Video Path: 
 2025-04-04 03:29:25,567 - INFO - Downloaded media from https://preview.redd.it/p5en50isxpse1.png?auto=webp&s=ee809f551e8de6edfa8a1862ced88c9a8a4f2f05 to temp_image.jpg
 2025-04-04 03:29:26,424 - INFO - Posted content successfully. Tweet ID: 1907998920598536529
+2025-04-04 03:49:28,744 - INFO - Content: New Mauga tech dropped
+
+2025-04-04 03:49:28,744 - INFO - Image Paths: ['https://external-preview.redd.it/Nmt2Mmd3Z2N1b3NlMasakSH52yAeLbByUS0QkUkd12MaOSmepz4cYNRQfRJt.png?format=pjpg&auto=webp&s=8f0504f11a2ff9825ead15d2f583c8684f9cd944']
+2025-04-04 03:49:28,744 - INFO - Video Path: https://v.redd.it/ka2rktgcuose1/DASH_1080.mp4?source=fallback
+2025-04-04 03:49:29,263 - INFO - Downloaded media from https://v.redd.it/ka2rktgcuose1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-04 03:49:29,725 - INFO - Downloaded media from https://v.redd.it/ka2rktgcuose1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-04 03:49:30,212 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-04 03:49:52,529 - INFO - Posted content successfully. Tweet ID: 1908004063326990786
