@@ -2569,3 +2569,10 @@ Too Many Requests
 2025-04-04 20:38:34,893 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-04 20:39:17,976 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-04 21:37:24,409 - INFO - Content: Almost every game, even in Master Rank ...
+
+2025-04-04 21:37:24,409 - INFO - Image Paths: ['https://external-preview.redd.it/DHsL0jBEvot_0It15AbPrml41FT-BCHVrQ93t-IRfDk.png?auto=webp&s=c90e2d711fd270c1438485f1860c72d5984d66cb']
+2025-04-04 21:37:24,409 - INFO - Video Path: 
+2025-04-04 21:37:24,562 - INFO - Downloaded media from https://external-preview.redd.it/DHsL0jBEvot_0It15AbPrml41FT-BCHVrQ93t-IRfDk.png?auto=webp&s=c90e2d711fd270c1438485f1860c72d5984d66cb to temp_image.jpg
+2025-04-04 21:37:25,271 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
