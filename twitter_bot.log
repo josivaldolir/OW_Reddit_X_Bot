@@ -2355,3 +2355,11 @@ Played Mystery Heroes and pretty much only Mystery Heroes for years at this poin
 2025-04-04 05:39:53,286 - INFO - Video Path: 
 2025-04-04 05:39:53,479 - INFO - Downloaded media from https://preview.redd.it/lia77pabhpse1.jpeg?auto=webp&s=f1b28cde6271c1334e63fce7525893da340a4bba to temp_image.jpg
 2025-04-04 05:39:54,647 - INFO - Posted content successfully. Tweet ID: 1908031754251690333
+2025-04-04 06:21:40,349 - INFO - Content: The reports of my death are greatly exaggerated
+
+2025-04-04 06:21:40,350 - INFO - Image Paths: ['https://external-preview.redd.it/ZmY5YzV0YjVocXNlMVvQ9Hw7VoJYt0XoP6FqFvKxSjRGc6fW9Ow607BLt70l.png?format=pjpg&auto=webp&s=3e9e0d360ba0143b7ebe3d6165bf864677aad066']
+2025-04-04 06:21:40,350 - INFO - Video Path: https://v.redd.it/93bhzqb5hqse1/DASH_1080.mp4?source=fallback
+2025-04-04 06:21:40,740 - INFO - Downloaded media from https://v.redd.it/93bhzqb5hqse1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-04 06:21:40,821 - INFO - Downloaded media from https://v.redd.it/93bhzqb5hqse1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-04 06:21:43,783 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-04 06:21:51,149 - INFO - Posted content successfully. Tweet ID: 1908042309729419434
