@@ -2434,3 +2434,11 @@ Thank you for letting me go <3
 2025-04-04 11:37:13,526 - INFO - Downloaded media from https://v.redd.it/cto5kkftbsse1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-04-04 11:37:13,968 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-04 11:37:20,668 - INFO - Posted content successfully. Tweet ID: 1908121705681174659
+2025-04-04 12:28:37,079 - INFO - Content: I had to watch the replay to understand what happened lol
+
+2025-04-04 12:28:37,079 - INFO - Image Paths: ['https://external-preview.redd.it/bnIwNm9iMngwdHNlMV3fxN2umQQI6DvRsHjGuUxV-stUYg5EpmlFPIpFEdu0.png?format=pjpg&auto=webp&s=9544c0788ba37284853f4ed634dd36256e496274']
+2025-04-04 12:28:37,079 - INFO - Video Path: https://v.redd.it/n8q0ic2x0tse1/DASH_1080.mp4?source=fallback
+2025-04-04 12:28:37,407 - INFO - Downloaded media from https://v.redd.it/n8q0ic2x0tse1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-04 12:28:37,493 - INFO - Downloaded media from https://v.redd.it/n8q0ic2x0tse1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-04 12:28:37,980 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-04 12:28:44,894 - INFO - Posted content successfully. Tweet ID: 1908134641950757267
