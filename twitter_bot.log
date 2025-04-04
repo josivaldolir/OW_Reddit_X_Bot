@@ -2318,3 +2318,9 @@ Inspired by a post I just read. Literally just put them where my first instinct 
 2025-04-04 02:44:20,546 - INFO - Downloaded media from https://preview.redd.it/p5en50isxpse1.png?auto=webp&s=ee809f551e8de6edfa8a1862ced88c9a8a4f2f05 to temp_image.jpg
 2025-04-04 02:44:21,155 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-04 03:29:25,498 - INFO - Content: Just use the loot boxes bro
+
+2025-04-04 03:29:25,498 - INFO - Image Paths: ['https://preview.redd.it/p5en50isxpse1.png?auto=webp&s=ee809f551e8de6edfa8a1862ced88c9a8a4f2f05']
+2025-04-04 03:29:25,498 - INFO - Video Path: 
+2025-04-04 03:29:25,567 - INFO - Downloaded media from https://preview.redd.it/p5en50isxpse1.png?auto=webp&s=ee809f551e8de6edfa8a1862ced88c9a8a4f2f05 to temp_image.jpg
+2025-04-04 03:29:26,424 - INFO - Posted content successfully. Tweet ID: 1907998920598536529
