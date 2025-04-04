@@ -2457,3 +2457,9 @@ Here’s one of how I view each hero in my team and how much they value my exist
 2025-04-04 13:42:18,349 - INFO - Downloaded media from https://v.redd.it/4xgp8rawtrse1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-04-04 13:42:18,892 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-04 13:42:27,209 - INFO - Posted content successfully. Tweet ID: 1908153190240976959
+2025-04-04 14:15:02,898 - INFO - Content: 2 Choices Lie Ahead of You
+
+2025-04-04 14:15:02,898 - INFO - Image Paths: ['https://preview.redd.it/p04s86mfotse1.png?auto=webp&s=6611d664d9b1bacca581468b0cecb8e94165052d']
+2025-04-04 14:15:02,898 - INFO - Video Path: 
+2025-04-04 14:15:02,921 - INFO - Downloaded media from https://preview.redd.it/p04s86mfotse1.png?auto=webp&s=6611d664d9b1bacca581468b0cecb8e94165052d to temp_image.jpg
+2025-04-04 14:15:04,431 - INFO - Posted content successfully. Tweet ID: 1908161398116331638
