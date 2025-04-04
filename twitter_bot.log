@@ -2375,3 +2375,11 @@ Upcoming skin collab with the Department of Corrections 🤣 fr tho like I at le
 2025-04-04 07:15:48,898 - INFO - Video Path: 
 2025-04-04 07:15:49,033 - INFO - Downloaded media from https://preview.redd.it/cg9j4qlierse1.jpeg?auto=webp&s=be91dbbc4290bd11aa20d97a12108876d5b620a3 to temp_image.jpg
 2025-04-04 07:15:50,182 - INFO - Posted content successfully. Tweet ID: 1908055894295752936
+2025-04-04 07:36:59,852 - INFO - Content: Guys I just found a clip I made in 2017. Just wanted to show you
+
+2025-04-04 07:36:59,853 - INFO - Image Paths: ['https://external-preview.redd.it/NnZzc3NqeWpzb3NlMfp7rIh4FjIuCH1VsFDtm31l3zOwZK7miaxmYYKwMh49.png?format=pjpg&auto=webp&s=1433ffb5368d73874668cde706daaf22591dd189']
+2025-04-04 07:36:59,853 - INFO - Video Path: https://v.redd.it/iqf2wgyjsose1/DASH_720.mp4?source=fallback
+2025-04-04 07:37:00,151 - INFO - Downloaded media from https://v.redd.it/iqf2wgyjsose1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-04-04 07:37:00,166 - INFO - Downloaded media from https://v.redd.it/iqf2wgyjsose1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-04-04 07:37:01,036 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-04 07:37:08,977 - INFO - Posted content successfully. Tweet ID: 1908061258789847212
