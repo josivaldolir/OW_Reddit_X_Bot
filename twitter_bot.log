@@ -2449,3 +2449,11 @@ Here’s one of how I view each hero in my team and how much they value my exist
 2025-04-04 13:05:31,003 - INFO - Video Path: 
 2025-04-04 13:05:31,107 - INFO - Downloaded media from https://preview.redd.it/82epb5bo5tse1.jpeg?auto=webp&s=d3434d0cbcfa4ae8069a75a6c01eff3fed74ca0a to temp_image.jpg
 2025-04-04 13:05:32,273 - INFO - Posted content successfully. Tweet ID: 1908143900088324252
+2025-04-04 13:42:18,050 - INFO - Content: New rein tech dropped for Ilios! You can even let go, relax, and grab some popcorn!
+
+2025-04-04 13:42:18,051 - INFO - Image Paths: ['https://external-preview.redd.it/Nndza2ZxYXd0cnNlMS5Hkh8VeVnJ8lJ8Nz0rgt3y0JgpWRQtIKmjubdPgqJU.png?format=pjpg&auto=webp&s=d54b7cf5f0f5408be8069a50f1bbabe67f60a042']
+2025-04-04 13:42:18,051 - INFO - Video Path: https://v.redd.it/4xgp8rawtrse1/DASH_1080.mp4?source=fallback
+2025-04-04 13:42:18,262 - INFO - Downloaded media from https://v.redd.it/4xgp8rawtrse1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-04 13:42:18,349 - INFO - Downloaded media from https://v.redd.it/4xgp8rawtrse1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-04 13:42:18,892 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-04 13:42:27,209 - INFO - Posted content successfully. Tweet ID: 1908153190240976959
