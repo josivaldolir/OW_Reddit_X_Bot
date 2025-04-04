@@ -2426,3 +2426,11 @@ Thank you for letting me go <3
 2025-04-04 11:13:23,724 - INFO - Video Path: 
 2025-04-04 11:13:23,858 - INFO - Downloaded media from https://preview.redd.it/043pn92otsse1.png?auto=webp&s=8d756e303310d4d4458539bca2ae4022184cc649 to temp_image.jpg
 2025-04-04 11:13:25,220 - INFO - Posted content successfully. Tweet ID: 1908115684006982111
+2025-04-04 11:37:12,662 - INFO - Content: As someone who grew up with console, I never really understood what "auto-aim" was until just yesterday when I was testing out the April Fool's mode...
+
+2025-04-04 11:37:12,662 - INFO - Image Paths: ['https://external-preview.redd.it/amgxMHl0Y3Ric3NlMV6fAW8fJQAZiJM9CBKmPIHJ8MniKUlH2ZrqYyARStD4.png?format=pjpg&auto=webp&s=d9528ba111c24ede4bfb71809f471e4c776362b9']
+2025-04-04 11:37:12,662 - INFO - Video Path: https://v.redd.it/cto5kkftbsse1/DASH_1080.mp4?source=fallback
+2025-04-04 11:37:13,455 - INFO - Downloaded media from https://v.redd.it/cto5kkftbsse1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-04 11:37:13,526 - INFO - Downloaded media from https://v.redd.it/cto5kkftbsse1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-04 11:37:13,968 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-04 11:37:20,668 - INFO - Posted content successfully. Tweet ID: 1908121705681174659
