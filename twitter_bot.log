@@ -2411,3 +2411,12 @@ Thank you for letting me go <3
 2025-04-04 10:16:13,525 - INFO - Downloaded media from https://v.redd.it/sqrskyjuynse1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-04-04 10:16:16,264 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-04 10:16:27,975 - INFO - Posted content successfully. Tweet ID: 1908101351810195520
+2025-04-04 10:42:25,242 - INFO - Content: what are u hoping to get from lootboxes?
+
+2025-04-04 10:42:25,242 - INFO - Image Paths: ['https://preview.redd.it/vfynh87jmrse1.jpg?width=1200&format=pjpg&auto=webp&s=aa2efddddceb37717f85456a56f1188e3fd31f41', 'https://preview.redd.it/ycxg1xa2nrse1.jpg?width=1410&format=pjpg&auto=webp&s=e186fd88b6248d9fd7391439718f4df37c22972a', 'https://preview.redd.it/wc5qubhcnrse1.jpg?width=686&format=pjpg&auto=webp&s=b4f0c77742f1f07f7e7ff49b6a8a7eb20c37b2ef', 'https://preview.redd.it/iskdbw2mnrse1.jpg?width=686&format=pjpg&auto=webp&s=d1f2228058c47357f7391e3de76e1782164a20f0']
+2025-04-04 10:42:25,242 - INFO - Video Path: 
+2025-04-04 10:42:25,377 - INFO - Downloaded media from https://preview.redd.it/vfynh87jmrse1.jpg?width=1200&format=pjpg&auto=webp&s=aa2efddddceb37717f85456a56f1188e3fd31f41 to temp_image.jpg
+2025-04-04 10:42:26,161 - INFO - Downloaded media from https://preview.redd.it/ycxg1xa2nrse1.jpg?width=1410&format=pjpg&auto=webp&s=e186fd88b6248d9fd7391439718f4df37c22972a to temp_image.jpg
+2025-04-04 10:42:26,831 - INFO - Downloaded media from https://preview.redd.it/wc5qubhcnrse1.jpg?width=686&format=pjpg&auto=webp&s=b4f0c77742f1f07f7e7ff49b6a8a7eb20c37b2ef to temp_image.jpg
+2025-04-04 10:42:27,454 - INFO - Downloaded media from https://preview.redd.it/iskdbw2mnrse1.jpg?width=686&format=pjpg&auto=webp&s=d1f2228058c47357f7391e3de76e1782164a20f0 to temp_image.jpg
+2025-04-04 10:42:28,415 - INFO - Posted content successfully. Tweet ID: 1908107896019427384
