@@ -2498,3 +2498,12 @@ I always hear about life grip needing a better option to cancel it. Rez can be j
 2025-04-04 16:44:41,211 - INFO - Downloaded media from https://v.redd.it/z00pc2f7huse1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-04-04 16:44:41,608 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-04 16:44:48,580 - INFO - Posted content successfully. Tweet ID: 1908199081903595879
+2025-04-04 17:38:08,578 - INFO - Content: Happens To Everyone
+Song: Trap Queen (Royalty)
+2025-04-04 17:38:08,578 - INFO - Image Paths: ['https://external-preview.redd.it/dTNtbTM3aGNsdXNlMYp03UNr72iLbSIeV0wB8BQbOGUdWQGa3eqxsZ3ijoXF.png?format=pjpg&auto=webp&s=de68a0c9674c4fd651f938e0e76b5f89b719dbab']
+2025-04-04 17:38:08,578 - INFO - Video Path: https://v.redd.it/zk918ckcluse1/DASH_1080.mp4?source=fallback
+2025-04-04 17:38:08,887 - INFO - Downloaded media from https://v.redd.it/zk918ckcluse1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-04 17:38:09,024 - INFO - Downloaded media from https://v.redd.it/zk918ckcluse1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-04 17:38:09,574 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-04 17:38:27,896 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
