@@ -2596,3 +2596,10 @@ Too Many Requests
 2025-04-04 23:14:01,057 - INFO - Video Path: 
 2025-04-04 23:14:01,135 - INFO - Downloaded media from https://preview.redd.it/0rlinqcz1wse1.jpeg?auto=webp&s=d6c7d5166162a6d93d149424ab3c0455b16e84d6 to temp_image.jpg
 2025-04-04 23:14:02,775 - INFO - Posted content successfully. Tweet ID: 1908297035633344519
+2025-04-04 23:36:12,207 - INFO - Content: So how DO you deal with Zarya anyway?
+Not actually looking for advice, just memeing on the advice given in every Zarya rant post lol
+2025-04-04 23:36:12,207 - INFO - Image Paths: ['https://preview.redd.it/nj7xnw803wse1.jpeg?auto=webp&s=c6a4c897cd04b0d27d992b9d5b212260970ad551']
+2025-04-04 23:36:12,207 - INFO - Video Path: 
+2025-04-04 23:36:12,229 - INFO - Downloaded media from https://preview.redd.it/nj7xnw803wse1.jpeg?auto=webp&s=c6a4c897cd04b0d27d992b9d5b212260970ad551 to temp_image.jpg
+2025-04-04 23:36:13,049 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
