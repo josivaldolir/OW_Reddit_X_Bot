@@ -2522,3 +2522,9 @@ q ; whats your favourite mercy skin ? ^^
 2025-04-04 18:19:51,987 - INFO - Downloaded media from https://preview.redd.it/7xt1ee0bsuse1.jpg?width=3070&format=pjpg&auto=webp&s=30f41081c2bc1dd4bce9bba9b0e9b1fcc20f7763 to temp_image.jpg
 2025-04-04 18:19:53,319 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-04 18:45:05,017 - INFO - Content: Bill Petras, Overwatch Art Director and long time Blizzard alumnus, has passed away
+
+2025-04-04 18:45:05,017 - INFO - Image Paths: ['https://external-preview.redd.it/YriOA2nfefDfMM1OViYN6nn-BWtPPq8QnoIc7zQzdc4.png?auto=webp&s=fc2ed58768371fd969a103249669811eda0d7d0b']
+2025-04-04 18:45:05,017 - INFO - Video Path: 
+2025-04-04 18:45:05,091 - INFO - Downloaded media from https://external-preview.redd.it/YriOA2nfefDfMM1OViYN6nn-BWtPPq8QnoIc7zQzdc4.png?auto=webp&s=fc2ed58768371fd969a103249669811eda0d7d0b to temp_image.jpg
+2025-04-04 18:45:06,258 - INFO - Posted content successfully. Tweet ID: 1908229353923915874
