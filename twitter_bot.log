@@ -2482,3 +2482,11 @@ I always hear about life grip needing a better option to cancel it. Rez can be j
 2025-04-04 15:40:19,891 - INFO - Image Paths: []
 2025-04-04 15:40:19,891 - INFO - Video Path: 
 2025-04-04 15:40:20,211 - INFO - Posted content successfully. Tweet ID: 1908182856968671517
+2025-04-04 16:18:54,163 - INFO - Content: This has gotta be one of my favourite things to do in the April Fools Event
+
+2025-04-04 16:18:54,163 - INFO - Image Paths: ['https://external-preview.redd.it/MjhoZHNxdDZvdHNlMbS6qC1jN-8-c6RpRWHYeesWCvKQPEgA8BwsSghzZC59.png?format=pjpg&auto=webp&s=a5639dee88fc76db90002f1150b7eec8315ccfa6']
+2025-04-04 16:18:54,163 - INFO - Video Path: https://v.redd.it/69ruufw6otse1/DASH_720.mp4?source=fallback
+2025-04-04 16:18:54,771 - INFO - Downloaded media from https://v.redd.it/69ruufw6otse1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-04-04 16:18:54,831 - INFO - Downloaded media from https://v.redd.it/69ruufw6otse1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-04-04 16:18:58,205 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-04 16:19:05,671 - INFO - Posted content successfully. Tweet ID: 1908192610495402177
