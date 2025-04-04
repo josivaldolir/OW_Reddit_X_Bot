@@ -2551,3 +2551,12 @@ q ; whats your favourite mercy skin ? ^^
 2025-04-04 19:35:52,829 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-04 19:36:36,587 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-04 20:15:43,708 - INFO - Content: Totally normal Junker Queen montage ft totally normal knife moves
+
+2025-04-04 20:15:43,708 - INFO - Image Paths: ['https://external-preview.redd.it/bjJuY2J1NjN1dXNlMXm-gZwVBHsBKkgBJREwEFmMm87WP1NMRG_KXiO-8YkY.png?format=pjpg&auto=webp&s=fe54432202d6cfa5d6057408527fa47d334d42d8']
+2025-04-04 20:15:43,708 - INFO - Video Path: https://v.redd.it/43j3px63uuse1/DASH_1080.mp4?source=fallback
+2025-04-04 20:15:44,772 - INFO - Downloaded media from https://v.redd.it/43j3px63uuse1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-04 20:15:45,519 - INFO - Downloaded media from https://v.redd.it/43j3px63uuse1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-04 20:15:45,861 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-04 20:16:26,485 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
