@@ -2583,3 +2583,10 @@ Too Many Requests
 2025-04-04 22:14:31,519 - INFO - Downloaded media from https://preview.redd.it/0rlinqcz1wse1.jpeg?auto=webp&s=d6c7d5166162a6d93d149424ab3c0455b16e84d6 to temp_image.jpg
 2025-04-04 22:14:32,733 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-04 22:39:34,744 - INFO - Content: Yeah, I've seen this kind of people
+
+2025-04-04 22:39:34,744 - INFO - Image Paths: ['https://preview.redd.it/0rlinqcz1wse1.jpeg?auto=webp&s=d6c7d5166162a6d93d149424ab3c0455b16e84d6']
+2025-04-04 22:39:34,744 - INFO - Video Path: 
+2025-04-04 22:39:34,910 - INFO - Downloaded media from https://preview.redd.it/0rlinqcz1wse1.jpeg?auto=webp&s=d6c7d5166162a6d93d149424ab3c0455b16e84d6 to temp_image.jpg
+2025-04-04 22:39:36,044 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
