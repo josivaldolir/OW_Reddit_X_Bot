@@ -3052,3 +3052,11 @@ I never in my life have thought "man I really need to TP onto of the banner" but
 2025-04-05 17:37:48,847 - INFO - Downloaded media from https://preview.redd.it/yjsuvfswr1te1.jpg?width=4284&format=pjpg&auto=webp&s=5d7ec1812e5331a9078983d0c8a312dde9c8567f to temp_image.jpg
 2025-04-05 17:37:51,351 - INFO - Downloaded media from https://preview.redd.it/1l9ejhswr1te1.jpg?width=3024&format=pjpg&auto=webp&s=d794aadadf1196a5c163518a30e4801cbd9ee019 to temp_image.jpg
 2025-04-05 17:37:53,598 - INFO - Posted content successfully. Tweet ID: 1908574825817288912
+2025-04-05 18:17:37,826 - INFO - Content: Is this xim?
+
+2025-04-05 18:17:37,826 - INFO - Image Paths: ['https://external-preview.redd.it/Z2E1MnF0aXdoMXRlMWWv0bMUuyxXzfy9zwEBhgrM0cnohqbEwovnJalVYK1r.png?format=pjpg&auto=webp&s=0091ca31adcead174097974bc1b43d0895f1cc03']
+2025-04-05 18:17:37,826 - INFO - Video Path: https://v.redd.it/oi87g7gwh1te1/DASH_1080.mp4?source=fallback
+2025-04-05 18:17:38,182 - INFO - Downloaded media from https://v.redd.it/oi87g7gwh1te1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-05 18:17:38,556 - INFO - Downloaded media from https://v.redd.it/oi87g7gwh1te1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-05 18:17:38,860 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-05 18:18:06,598 - INFO - Posted content successfully. Tweet ID: 1908584949524947342
