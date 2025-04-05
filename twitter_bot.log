@@ -2944,3 +2944,9 @@ Your media IDs are invalid.
 2025-04-05 10:14:29,468 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-05 10:15:10,573 - ERROR - Failed to post content: 400 Bad Request
 Your media IDs are invalid.
+2025-04-05 10:39:21,551 - INFO - Content: Numbani was a missed opportunity for googly eyes placement. Meet Efi ◉ ̫ ◉
+
+2025-04-05 10:39:21,551 - INFO - Image Paths: ['https://preview.redd.it/awzxeb8qlzse1.png?auto=webp&s=03866d695ff8501ee350db08db062078a7106bd8']
+2025-04-05 10:39:21,551 - INFO - Video Path: 
+2025-04-05 10:39:22,088 - INFO - Downloaded media from https://preview.redd.it/awzxeb8qlzse1.png?auto=webp&s=03866d695ff8501ee350db08db062078a7106bd8 to temp_image.jpg
+2025-04-05 10:39:23,388 - INFO - Posted content successfully. Tweet ID: 1908469507342885266
