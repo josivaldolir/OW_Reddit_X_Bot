@@ -3045,3 +3045,10 @@ I never in my life have thought "man I really need to TP onto of the banner" but
 2025-04-05 17:11:21,511 - INFO - Downloaded media from https://v.redd.it/kfgy5n3s51te1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-04-05 17:11:22,225 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-05 17:11:28,297 - INFO - Posted content successfully. Tweet ID: 1908568179426590871
+2025-04-05 17:37:48,783 - INFO - Content: Which reaper left their spray in my kids doctor office?
+
+2025-04-05 17:37:48,783 - INFO - Image Paths: ['https://preview.redd.it/yjsuvfswr1te1.jpg?width=4284&format=pjpg&auto=webp&s=5d7ec1812e5331a9078983d0c8a312dde9c8567f', 'https://preview.redd.it/1l9ejhswr1te1.jpg?width=3024&format=pjpg&auto=webp&s=d794aadadf1196a5c163518a30e4801cbd9ee019']
+2025-04-05 17:37:48,783 - INFO - Video Path: 
+2025-04-05 17:37:48,847 - INFO - Downloaded media from https://preview.redd.it/yjsuvfswr1te1.jpg?width=4284&format=pjpg&auto=webp&s=5d7ec1812e5331a9078983d0c8a312dde9c8567f to temp_image.jpg
+2025-04-05 17:37:51,351 - INFO - Downloaded media from https://preview.redd.it/1l9ejhswr1te1.jpg?width=3024&format=pjpg&auto=webp&s=d794aadadf1196a5c163518a30e4801cbd9ee019 to temp_image.jpg
+2025-04-05 17:37:53,598 - INFO - Posted content successfully. Tweet ID: 1908574825817288912
