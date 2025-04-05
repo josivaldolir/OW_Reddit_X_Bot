@@ -3019,3 +3019,9 @@ Matches are usually between 3 or max 4 divisions but this is crazy!
 2025-04-05 15:14:14,558 - INFO - Downloaded media from https://v.redd.it/9de5jmhin0te1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-04-05 15:14:14,965 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-05 15:14:22,767 - INFO - Posted content successfully. Tweet ID: 1908538711865778654
+2025-04-05 15:36:21,222 - INFO - Content: *Eurobeat intensifies*
+
+2025-04-05 15:36:21,222 - INFO - Image Paths: ['https://preview.redd.it/39v0k8itx0te1.jpeg?auto=webp&s=fa6afd7bbbd818c44a23de6bcfcfb6fe6166a8c8']
+2025-04-05 15:36:21,222 - INFO - Video Path: 
+2025-04-05 15:36:21,513 - INFO - Downloaded media from https://preview.redd.it/39v0k8itx0te1.jpeg?auto=webp&s=fa6afd7bbbd818c44a23de6bcfcfb6fe6166a8c8 to temp_image.jpg
+2025-04-05 15:36:22,681 - INFO - Posted content successfully. Tweet ID: 1908544247642701829
