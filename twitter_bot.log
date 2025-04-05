@@ -3011,3 +3011,11 @@ Matches are usually between 3 or max 4 divisions but this is crazy!
 2025-04-05 14:37:08,894 - INFO - Video Path: 
 2025-04-05 14:37:09,000 - INFO - Downloaded media from https://preview.redd.it/qpqf4jnn01te1.jpeg?auto=webp&s=f2a970389c5d6733de8c654b5294c45f28029be5 to temp_image.jpg
 2025-04-05 14:37:10,017 - INFO - Posted content successfully. Tweet ID: 1908529347176153283
+2025-04-05 15:14:14,311 - INFO - Content: Dva to Ana: REACH THIS!
+
+2025-04-05 15:14:14,311 - INFO - Image Paths: ['https://external-preview.redd.it/dXQ5eWltaGluMHRlMWYKPtP5lE-Pk6_KBQpsvcFDJ6OgOh95EU82gf5M5B8G.png?format=pjpg&auto=webp&s=e673bf1a0b3617116f43ae7a5f891ac19f65be5a']
+2025-04-05 15:14:14,311 - INFO - Video Path: https://v.redd.it/9de5jmhin0te1/DASH_1080.mp4?source=fallback
+2025-04-05 15:14:14,476 - INFO - Downloaded media from https://v.redd.it/9de5jmhin0te1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-05 15:14:14,558 - INFO - Downloaded media from https://v.redd.it/9de5jmhin0te1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-05 15:14:14,965 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-05 15:14:22,767 - INFO - Posted content successfully. Tweet ID: 1908538711865778654
