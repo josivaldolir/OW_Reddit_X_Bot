@@ -2655,3 +2655,49 @@ Full concept on YT 😌
 2025-04-05 02:41:52,478 - INFO - Downloaded media from https://preview.redd.it/3svvfnd7ywse1.jpg?width=3840&format=pjpg&auto=webp&s=676fc68e6edcf448948e44a9547ff0bb71fc8e70 to temp_image.jpg
 2025-04-05 02:41:53,624 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-05 03:27:49,691 - INFO - Content: Support Hero Concept | Gecko
+A world renowned thief that signs all his heists with graffiti.
+
+Some extra notes:
+- 10 Ammo max (even if ammo changes).
+- 0.5 second attack speed (like zen)
+- 1.25 recharge speed.
+- Can change between ammo instantly.
+- Paint splatters linger on targets for 1.5 seconds. 
+
+Painter Rifle:
+- Red Paint deals extra burn damage for 1.5 secs.
+- Blue Paint slows or buffs enemies/allies speed by 5% per shot (stackable) though cap is 25%.
+- Yellow Paint heals for 35 health per shot. Contagious, deals splash healing to nearby allies for 20 health each. 
+
+Canister Bomb:
+- 6 meter splatter effect zone once lands.
+- Canister paint color depends on weapon setting.
+- Directly heals 120 health with yellow paint and 80 splash health.
+- Deals similar affects as primary weapon across multiple targets.
+- Bonus Magenta effect that explodes targets already splattered in either red or blue and the opposite Canister Bomb color hits.
+- 8 sec cooldown.
+
+Paint Shift:
+- Gecko gains boosted speed for 5 seconds.
+- Leaves lingering blue paint on ground that lasts 5 seconds. 
+- Buffs or debuffs allies or enemies speed inside his trail for primary weapon blue paint effects.
+- Effects stop immediately once targets leave the trail.
+- 6 second cooldown.
+
+Paint Golem:
+- Essentially a bulkier B.O.B that can heal enemies close to it.
+- 1800 health.
+- Slow attacks but big and can debuff enemies hit with primary weapon paint effects for further stacks and damage.
+- Attacks nearby enemies at random with blue or red paint.
+
+Cleanse can neutralise paint splatters & paint cannot penetrate shields.
+
+Full concept on YT 😌
+2025-04-05 03:27:49,691 - INFO - Image Paths: ['https://preview.redd.it/2lbjvid7ywse1.jpg?width=2827&format=pjpg&auto=webp&s=013dfa714905e42b9cdaa2e7a19fae8d6ab611e5', 'https://preview.redd.it/j3lmojd7ywse1.jpg?width=3840&format=pjpg&auto=webp&s=ed1538d8e932aa0545ec0818db269a767c0266da', 'https://preview.redd.it/3svvfnd7ywse1.jpg?width=3840&format=pjpg&auto=webp&s=676fc68e6edcf448948e44a9547ff0bb71fc8e70']
+2025-04-05 03:27:49,691 - INFO - Video Path: 
+2025-04-05 03:27:49,740 - INFO - Downloaded media from https://preview.redd.it/2lbjvid7ywse1.jpg?width=2827&format=pjpg&auto=webp&s=013dfa714905e42b9cdaa2e7a19fae8d6ab611e5 to temp_image.jpg
+2025-04-05 03:27:50,457 - INFO - Downloaded media from https://preview.redd.it/j3lmojd7ywse1.jpg?width=3840&format=pjpg&auto=webp&s=ed1538d8e932aa0545ec0818db269a767c0266da to temp_image.jpg
+2025-04-05 03:27:51,365 - INFO - Downloaded media from https://preview.redd.it/3svvfnd7ywse1.jpg?width=3840&format=pjpg&auto=webp&s=676fc68e6edcf448948e44a9547ff0bb71fc8e70 to temp_image.jpg
+2025-04-05 03:27:52,427 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
