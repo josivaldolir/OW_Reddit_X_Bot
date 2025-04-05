@@ -2983,3 +2983,9 @@ they were all pretty low but i’m still happy about it lol. i went 31 & 0 that 
 2025-04-05 12:57:26,152 - INFO - Downloaded media from https://v.redd.it/wvzn1oz6uyse1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-04-05 12:57:28,662 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-05 12:57:38,323 - INFO - Posted content successfully. Tweet ID: 1908504300235730945
+2025-04-05 13:20:55,754 - INFO - Content: What is this rank range in this match?!
+Matches are usually between 3 or max 4 divisions but this is crazy!
+2025-04-05 13:20:55,754 - INFO - Image Paths: ['https://preview.redd.it/6vb9e18sb0te1.jpeg?auto=webp&s=687e5d8614088c1939da83d2ebd8fc0b175db412']
+2025-04-05 13:20:55,754 - INFO - Video Path: 
+2025-04-05 13:20:55,988 - INFO - Downloaded media from https://preview.redd.it/6vb9e18sb0te1.jpeg?auto=webp&s=687e5d8614088c1939da83d2ebd8fc0b175db412 to temp_image.jpg
+2025-04-05 13:20:57,329 - INFO - Posted content successfully. Tweet ID: 1908510167110726124
