@@ -2989,3 +2989,11 @@ Matches are usually between 3 or max 4 divisions but this is crazy!
 2025-04-05 13:20:55,754 - INFO - Video Path: 
 2025-04-05 13:20:55,988 - INFO - Downloaded media from https://preview.redd.it/6vb9e18sb0te1.jpeg?auto=webp&s=687e5d8614088c1939da83d2ebd8fc0b175db412 to temp_image.jpg
 2025-04-05 13:20:57,329 - INFO - Posted content successfully. Tweet ID: 1908510167110726124
+2025-04-05 13:37:35,506 - INFO - Content: This was pretty nice
+
+2025-04-05 13:37:35,506 - INFO - Image Paths: ['https://external-preview.redd.it/b2l2NWdqYXdqMHRlMeQiNz2pyUuZLQMDe-iQRSSMzVUMd60iBe85nJBlZKoS.png?format=pjpg&auto=webp&s=18901689f8ca1df606659736748d5691c9ef2a8f']
+2025-04-05 13:37:35,506 - INFO - Video Path: https://v.redd.it/87pa7hawj0te1/DASH_1080.mp4?source=fallback
+2025-04-05 13:37:35,689 - INFO - Downloaded media from https://v.redd.it/87pa7hawj0te1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-05 13:37:35,763 - INFO - Downloaded media from https://v.redd.it/87pa7hawj0te1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-05 13:37:36,215 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-05 13:37:44,244 - INFO - Posted content successfully. Tweet ID: 1908514391500144873
