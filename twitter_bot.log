@@ -3025,3 +3025,9 @@ Matches are usually between 3 or max 4 divisions but this is crazy!
 2025-04-05 15:36:21,222 - INFO - Video Path: 
 2025-04-05 15:36:21,513 - INFO - Downloaded media from https://preview.redd.it/39v0k8itx0te1.jpeg?auto=webp&s=fa6afd7bbbd818c44a23de6bcfcfb6fe6166a8c8 to temp_image.jpg
 2025-04-05 15:36:22,681 - INFO - Posted content successfully. Tweet ID: 1908544247642701829
+2025-04-05 16:17:04,648 - INFO - Content: Virgin Winston vs Chad Hammond
+
+2025-04-05 16:17:04,648 - INFO - Image Paths: ['https://preview.redd.it/81zisft8y0te1.png?auto=webp&s=731da582972f5e698ab5f861f5dae6448d1b9f05']
+2025-04-05 16:17:04,648 - INFO - Video Path: 
+2025-04-05 16:17:04,723 - INFO - Downloaded media from https://preview.redd.it/81zisft8y0te1.png?auto=webp&s=731da582972f5e698ab5f861f5dae6448d1b9f05 to temp_image.jpg
+2025-04-05 16:17:06,091 - INFO - Posted content successfully. Tweet ID: 1908554494767714385
