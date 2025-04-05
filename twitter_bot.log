@@ -3121,3 +3121,11 @@ With 5v5 and 6v6 both up, my game quality has declined severely.
 2025-04-05 22:14:04,063 - INFO - Downloaded media from https://preview.redd.it/oyjpd9p393te1.jpg?width=564&format=pjpg&auto=webp&s=f34dfb69d5a3cd3566d4f284f8dfc61967daa97e to temp_image.jpg
 2025-04-05 22:14:04,582 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-05 22:38:18,004 - INFO - Content: Totally Normalwatch Moira:
+
+2025-04-05 22:38:18,005 - INFO - Image Paths: ['https://preview.redd.it/t6gfl9p393te1.jpg?width=1079&format=pjpg&auto=webp&s=db573cad17bdb8f3707500b35dc1d2790a3fd254', 'https://preview.redd.it/oyjpd9p393te1.jpg?width=564&format=pjpg&auto=webp&s=f34dfb69d5a3cd3566d4f284f8dfc61967daa97e']
+2025-04-05 22:38:18,005 - INFO - Video Path: 
+2025-04-05 22:38:18,189 - INFO - Downloaded media from https://preview.redd.it/t6gfl9p393te1.jpg?width=1079&format=pjpg&auto=webp&s=db573cad17bdb8f3707500b35dc1d2790a3fd254 to temp_image.jpg
+2025-04-05 22:38:18,869 - INFO - Downloaded media from https://preview.redd.it/oyjpd9p393te1.jpg?width=564&format=pjpg&auto=webp&s=f34dfb69d5a3cd3566d4f284f8dfc61967daa97e to temp_image.jpg
+2025-04-05 22:38:19,350 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
