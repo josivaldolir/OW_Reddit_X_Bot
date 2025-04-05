@@ -3105,3 +3105,11 @@ With 5v5 and 6v6 both up, my game quality has declined severely.
 2025-04-05 21:13:33,508 - INFO - Image Paths: []
 2025-04-05 21:13:33,508 - INFO - Video Path: 
 2025-04-05 21:13:33,790 - INFO - Posted content successfully. Tweet ID: 1908629103973978479
+2025-04-05 21:35:29,649 - INFO - Content: Decided to hitch a ride
+
+2025-04-05 21:35:29,649 - INFO - Image Paths: ['https://external-preview.redd.it/dnNtbjVycmNmMnRlMUcweCULrDCz1grC1EtX-HQPcXVlSOGEd-XL5c_xrDUS.png?format=pjpg&auto=webp&s=84c580965d2e2e0bf15794b8f8595fd7a8ad549f']
+2025-04-05 21:35:29,649 - INFO - Video Path: https://v.redd.it/k6dka3r2f2te1/DASH_1080.mp4?source=fallback
+2025-04-05 21:35:30,414 - INFO - Downloaded media from https://v.redd.it/k6dka3r2f2te1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-05 21:35:30,515 - INFO - Downloaded media from https://v.redd.it/k6dka3r2f2te1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-05 21:35:32,569 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-05 21:35:40,085 - INFO - Posted content successfully. Tweet ID: 1908634666669858998
