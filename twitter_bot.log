@@ -3037,3 +3037,11 @@ it’s rare to see any in the wild still in good shape, let alone at a great pri
 2025-04-05 16:42:09,976 - INFO - Video Path: 
 2025-04-05 16:42:10,060 - INFO - Downloaded media from https://preview.redd.it/cqwaswsz91te1.jpeg?auto=webp&s=4f19476993fc14aa9f73a19863e7839f48d77e4e to temp_image.jpg
 2025-04-05 16:42:11,128 - INFO - Posted content successfully. Tweet ID: 1908560808893722886
+2025-04-05 17:11:21,443 - INFO - Content: Has this always been a TP spot?
+I never in my life have thought "man I really need to TP onto of the banner" but you know.. maybe I might. 
+2025-04-05 17:11:21,443 - INFO - Image Paths: ['https://external-preview.redd.it/bDgxamc3d3I1MXRlMbuZQc_SWcjJ8VVA22t02TXxUnUdWQzgeDhhl1764Z3g.png?format=pjpg&auto=webp&s=e516c1094f499cd7aa4255a84d0950c3e1eaa15c']
+2025-04-05 17:11:21,443 - INFO - Video Path: https://v.redd.it/kfgy5n3s51te1/DASH_720.mp4?source=fallback
+2025-04-05 17:11:21,492 - INFO - Downloaded media from https://v.redd.it/kfgy5n3s51te1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-04-05 17:11:21,511 - INFO - Downloaded media from https://v.redd.it/kfgy5n3s51te1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-04-05 17:11:22,225 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-05 17:11:28,297 - INFO - Posted content successfully. Tweet ID: 1908568179426590871
