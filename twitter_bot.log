@@ -3113,3 +3113,11 @@ With 5v5 and 6v6 both up, my game quality has declined severely.
 2025-04-05 21:35:30,515 - INFO - Downloaded media from https://v.redd.it/k6dka3r2f2te1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-04-05 21:35:32,569 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-05 21:35:40,085 - INFO - Posted content successfully. Tweet ID: 1908634666669858998
+2025-04-05 22:14:03,172 - INFO - Content: Totally Normalwatch Moira:
+
+2025-04-05 22:14:03,172 - INFO - Image Paths: ['https://preview.redd.it/t6gfl9p393te1.jpg?width=1079&format=pjpg&auto=webp&s=db573cad17bdb8f3707500b35dc1d2790a3fd254', 'https://preview.redd.it/oyjpd9p393te1.jpg?width=564&format=pjpg&auto=webp&s=f34dfb69d5a3cd3566d4f284f8dfc61967daa97e']
+2025-04-05 22:14:03,172 - INFO - Video Path: 
+2025-04-05 22:14:03,379 - INFO - Downloaded media from https://preview.redd.it/t6gfl9p393te1.jpg?width=1079&format=pjpg&auto=webp&s=db573cad17bdb8f3707500b35dc1d2790a3fd254 to temp_image.jpg
+2025-04-05 22:14:04,063 - INFO - Downloaded media from https://preview.redd.it/oyjpd9p393te1.jpg?width=564&format=pjpg&auto=webp&s=f34dfb69d5a3cd3566d4f284f8dfc61967daa97e to temp_image.jpg
+2025-04-05 22:14:04,582 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
