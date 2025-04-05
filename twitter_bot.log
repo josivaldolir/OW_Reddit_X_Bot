@@ -2997,3 +2997,11 @@ Matches are usually between 3 or max 4 divisions but this is crazy!
 2025-04-05 13:37:35,763 - INFO - Downloaded media from https://v.redd.it/87pa7hawj0te1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-04-05 13:37:36,215 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-05 13:37:44,244 - INFO - Posted content successfully. Tweet ID: 1908514391500144873
+2025-04-05 14:12:11,060 - INFO - Content: Riveting Winston Gameplay
+10/10 Winston Moments
+2025-04-05 14:12:11,060 - INFO - Image Paths: ['https://external-preview.redd.it/bXZhcjU1NGluMHRlMT6iEJiDLjN8PuUIlAlciF7ASAqlFlvLA_7JMg1yGu3N.png?format=pjpg&auto=webp&s=3d3000e6c56d3bcdab43ae013371a4f8b1fcd17c']
+2025-04-05 14:12:11,060 - INFO - Video Path: https://v.redd.it/i3xw744in0te1/DASH_480.mp4?source=fallback
+2025-04-05 14:12:11,836 - INFO - Downloaded media from https://v.redd.it/i3xw744in0te1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-04-05 14:12:11,929 - INFO - Downloaded media from https://v.redd.it/i3xw744in0te1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-04-05 14:12:12,218 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-05 14:12:19,694 - INFO - Posted content successfully. Tweet ID: 1908523096509968437
