@@ -2959,3 +2959,12 @@ Your media IDs are invalid.
 2025-04-05 11:12:00,522 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-05 11:12:40,743 - ERROR - Failed to post content: 400 Bad Request
 Your media IDs are invalid.
+2025-04-05 11:35:56,802 - INFO - Content: Totally normal Junker Queen montage ft totally normal knife moves
+
+2025-04-05 11:35:56,803 - INFO - Image Paths: ['https://external-preview.redd.it/bjJuY2J1NjN1dXNlMXm-gZwVBHsBKkgBJREwEFmMm87WP1NMRG_KXiO-8YkY.png?format=pjpg&auto=webp&s=fe54432202d6cfa5d6057408527fa47d334d42d8']
+2025-04-05 11:35:56,803 - INFO - Video Path: https://v.redd.it/43j3px63uuse1/DASH_1080.mp4?source=fallback
+2025-04-05 11:35:57,521 - INFO - Downloaded media from https://v.redd.it/43j3px63uuse1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-05 11:35:58,104 - INFO - Downloaded media from https://v.redd.it/43j3px63uuse1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-05 11:35:58,556 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-05 11:36:37,044 - ERROR - Failed to post content: 400 Bad Request
+Your media IDs are invalid.
