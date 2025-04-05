@@ -2920,3 +2920,9 @@ I feel like maining this guy is going to give me carpal tunnel. Just because of 
 2025-04-05 08:43:09,723 - INFO - Downloaded media from https://v.redd.it/ggp1phzhcwse1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-04-05 08:43:11,796 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-05 08:43:22,502 - INFO - Posted content successfully. Tweet ID: 1908440312810209507
+2025-04-05 09:13:47,357 - INFO - Content: I love Zarya, I love Zarya, I love Zarya, I love Zarya, I love Zarya.
+
+2025-04-05 09:13:47,358 - INFO - Image Paths: ['https://preview.redd.it/fk7l10u1dzse1.gif?format=png8&s=82aeba5630650a668fa5fd876ce27b83089fe4da']
+2025-04-05 09:13:47,358 - INFO - Video Path: 
+2025-04-05 09:13:47,501 - INFO - Downloaded media from https://preview.redd.it/fk7l10u1dzse1.gif?format=png8&s=82aeba5630650a668fa5fd876ce27b83089fe4da to temp_image.jpg
+2025-04-05 09:13:48,525 - INFO - Posted content successfully. Tweet ID: 1908447971655528883
