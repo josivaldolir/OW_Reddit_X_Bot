@@ -3181,3 +3181,10 @@ Too Many Requests
 2025-04-06 04:45:15,572 - INFO - Downloaded media from https://preview.redd.it/t6gfl9p393te1.jpg?width=1079&format=pjpg&auto=webp&s=db573cad17bdb8f3707500b35dc1d2790a3fd254 to temp_image.jpg
 2025-04-06 04:45:16,274 - INFO - Downloaded media from https://preview.redd.it/oyjpd9p393te1.jpg?width=564&format=pjpg&auto=webp&s=f34dfb69d5a3cd3566d4f284f8dfc61967daa97e to temp_image.jpg
 2025-04-06 04:45:17,277 - INFO - Posted content successfully. Tweet ID: 1908742783894229443
+2025-04-06 05:13:51,890 - INFO - Content: You do not need to complete 55 games of Normalwatch for the Orisa skin nor 99 for Bottom 500 Title
+55 games is strictly for the Silly Goose Title. The 99 games challenge is not specific to Normalwatch. You only need to complete 25 matches in Normalwatch to complete the 15 challenges for the Orisa skin. 
+2025-04-06 05:13:51,890 - INFO - Image Paths: ['https://preview.redd.it/t018366ia3te1.jpeg?auto=webp&s=6f1a981afa3c20c0a346ac1e61b3fd3b9b972019']
+2025-04-06 05:13:51,890 - INFO - Video Path: 
+2025-04-06 05:13:52,099 - INFO - Downloaded media from https://preview.redd.it/t018366ia3te1.jpeg?auto=webp&s=6f1a981afa3c20c0a346ac1e61b3fd3b9b972019 to temp_image.jpg
+2025-04-06 05:13:53,022 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
