@@ -3153,3 +3153,10 @@ Too Many Requests
 2025-04-06 01:13:11,701 - INFO - Downloaded media from https://preview.redd.it/oyjpd9p393te1.jpg?width=564&format=pjpg&auto=webp&s=f34dfb69d5a3cd3566d4f284f8dfc61967daa97e to temp_image.jpg
 2025-04-06 01:13:12,294 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-06 02:48:50,041 - INFO - Content: On a positive note, avoiding will feel like a 2 for 1 deal
+
+2025-04-06 02:48:50,041 - INFO - Image Paths: ['https://preview.redd.it/aqxj8s7ja4te1.png?auto=webp&s=229ebe8984356849de1efec7cf9d55a019341767']
+2025-04-06 02:48:50,041 - INFO - Video Path: 
+2025-04-06 02:48:50,213 - INFO - Downloaded media from https://preview.redd.it/aqxj8s7ja4te1.png?auto=webp&s=229ebe8984356849de1efec7cf9d55a019341767 to temp_image.jpg
+2025-04-06 02:48:50,948 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
