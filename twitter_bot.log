@@ -3388,3 +3388,12 @@ Too Many Requests
 2025-04-06 21:36:10,085 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-06 21:36:16,612 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-06 22:13:09,591 - INFO - Content: This is the best season we've gotten so far and it's going to get better bros. I believe it.
+
+2025-04-06 22:13:09,591 - INFO - Image Paths: ['https://external-preview.redd.it/N2JhcnB2dGM5YXRlMZtX2XNSJ8NdUjH-Odd2MlKkxm8t_9wvj2OW3wd4TV5L.png?format=pjpg&auto=webp&s=98b37cca272c0a400096c79ded46e51a3f7f7e70']
+2025-04-06 22:13:09,591 - INFO - Video Path: https://v.redd.it/zqabovtc9ate1/DASH_720.mp4?source=fallback
+2025-04-06 22:13:09,883 - INFO - Downloaded media from https://v.redd.it/zqabovtc9ate1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-04-06 22:13:09,930 - INFO - Downloaded media from https://v.redd.it/zqabovtc9ate1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-04-06 22:13:10,879 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-06 22:13:18,574 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
