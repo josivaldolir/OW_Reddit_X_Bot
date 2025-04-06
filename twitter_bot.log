@@ -3270,3 +3270,9 @@ I wish I had a way to visualize the annoying sound too
 2025-04-06 13:23:02,867 - INFO - Downloaded media from https://v.redd.it/jpcbats697te1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-04-06 13:23:04,986 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-06 13:23:09,539 - INFO - Posted content successfully. Tweet ID: 1908873110620676132
+2025-04-06 13:38:54,990 - INFO - Content: Every ult is the worst ult.
+
+2025-04-06 13:38:54,990 - INFO - Image Paths: ['https://preview.redd.it/kcqrx3oiq7te1.jpeg?auto=webp&s=1b43f6eb5eb48edd9000579d926a979a9a37ccd8']
+2025-04-06 13:38:54,990 - INFO - Video Path: 
+2025-04-06 13:38:55,240 - INFO - Downloaded media from https://preview.redd.it/kcqrx3oiq7te1.jpeg?auto=webp&s=1b43f6eb5eb48edd9000579d926a979a9a37ccd8 to temp_image.jpg
+2025-04-06 13:38:56,237 - INFO - Posted content successfully. Tweet ID: 1908877081167237378
