@@ -3284,3 +3284,11 @@ I wish I had a way to visualize the annoying sound too
 2025-04-06 14:12:57,101 - INFO - Downloaded media from https://v.redd.it/xtzpcvsmx6te1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-04-06 14:12:57,596 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-06 14:13:03,457 - INFO - Posted content successfully. Tweet ID: 1908885667989299250
+2025-04-06 14:38:43,252 - INFO - Content: Poor reaper lost his guns. He looks so sad 😢
+
+2025-04-06 14:38:43,252 - INFO - Image Paths: ['https://external-preview.redd.it/MTc1MTQxeG5tN3RlMe-ALvcsHrWuO3bA-v5M-L4BbpF99OenyvcqMNb0SBGP.png?format=pjpg&auto=webp&s=10fa5fc3e51ffd6dbe1b45893b7b147e116c2fe5']
+2025-04-06 14:38:43,252 - INFO - Video Path: https://v.redd.it/inask3wnm7te1/DASH_1080.mp4?source=fallback
+2025-04-06 14:38:43,454 - INFO - Downloaded media from https://v.redd.it/inask3wnm7te1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-06 14:38:43,541 - INFO - Downloaded media from https://v.redd.it/inask3wnm7te1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-06 14:38:46,815 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-06 14:38:58,976 - INFO - Posted content successfully. Tweet ID: 1908892192208286048
