@@ -3340,3 +3340,11 @@ This never gets old! lmao.
 2025-04-06 18:42:25,827 - INFO - Downloaded media from https://preview.redd.it/xlb3t1ycv8te1.jpg?width=2016&format=pjpg&auto=webp&s=2fdf65b8abcbbfc5c4d7df208bebeb4095081343 to temp_image.jpg
 2025-04-06 18:42:26,475 - INFO - Downloaded media from https://preview.redd.it/nxgoh2zcv8te1.jpg?width=2016&format=pjpg&auto=webp&s=c78808a3de5495b4a14b5b8a70b70d8a08916f0d to temp_image.jpg
 2025-04-06 18:42:27,720 - INFO - Posted content successfully. Tweet ID: 1908953465176441206
+2025-04-06 19:11:06,404 - INFO - Content: Reaper's shotguns are ulting by themselves
+
+2025-04-06 19:11:06,404 - INFO - Image Paths: ['https://external-preview.redd.it/bGc4NzFxbDY1OXRlMZuQGyb7rTbCoBHbbcD1J4XsI4Qjn5YY5ZegiVKAFZnD.png?format=pjpg&auto=webp&s=25e54dfba7605523f6462925545b71669c14d7b6']
+2025-04-06 19:11:06,404 - INFO - Video Path: https://v.redd.it/v43jzpl659te1/DASH_1080.mp4?source=fallback
+2025-04-06 19:11:07,419 - INFO - Downloaded media from https://v.redd.it/v43jzpl659te1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-06 19:11:07,543 - INFO - Downloaded media from https://v.redd.it/v43jzpl659te1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-06 19:11:10,128 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-06 19:11:17,104 - INFO - Posted content successfully. Tweet ID: 1908960719325773844
