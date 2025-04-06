@@ -3354,3 +3354,12 @@ After 10 hrs and 63 games, I would think he would have more assists. Does anyone
 2025-04-06 19:38:19,984 - INFO - Video Path: 
 2025-04-06 19:38:20,064 - INFO - Downloaded media from https://preview.redd.it/b2dx75hi39te1.png?auto=webp&s=1e81bf008fd5467d0ce74b69a11dd57e32820958 to temp_image.jpg
 2025-04-06 19:38:21,137 - INFO - Posted content successfully. Tweet ID: 1908967530200244736
+2025-04-06 20:14:49,321 - INFO - Content: That reaper was so confused on why his guns were gone. Chat was hilarious.
+Normalwatch is some of the most fun I've had in this game.
+2025-04-06 20:14:49,321 - INFO - Image Paths: ['https://external-preview.redd.it/dHVscDNla2puN3RlMTmFwNVuHLbTlE40U1LRsGg4H-Dj9pEVTqfSn1AKTx6P.png?format=pjpg&auto=webp&s=f6ffa813112232f2647c7d8f78f0927da42812ed']
+2025-04-06 20:14:49,321 - INFO - Video Path: https://v.redd.it/hmisqckjn7te1/DASH_1080.mp4?source=fallback
+2025-04-06 20:14:49,793 - INFO - Downloaded media from https://v.redd.it/hmisqckjn7te1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-06 20:14:50,101 - INFO - Downloaded media from https://v.redd.it/hmisqckjn7te1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-06 20:14:50,612 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-06 20:15:06,576 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
