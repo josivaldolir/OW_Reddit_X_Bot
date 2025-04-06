@@ -3262,3 +3262,11 @@ I wish I had a way to visualize the annoying sound too
 2025-04-06 12:56:37,692 - INFO - Video Path: 
 2025-04-06 12:56:37,819 - INFO - Downloaded media from https://preview.redd.it/x05ryasjl7te1.jpeg?auto=webp&s=d388a2dd643d29e9827c420fe85c69c710d2caf3 to temp_image.jpg
 2025-04-06 12:56:38,913 - INFO - Posted content successfully. Tweet ID: 1908866438636388391
+2025-04-06 13:23:02,644 - INFO - Content: she looks so stupid 😭 protect googly appa at all costs
+
+2025-04-06 13:23:02,644 - INFO - Image Paths: ['https://external-preview.redd.it/Mjdqd2MzNmM5N3RlMRYdC6nvpAzgAq8oaddUwk17Gseq2YILoGtdVZ4dEnvm.png?format=pjpg&auto=webp&s=28a65d2ebc4bbdbfc69df63fe21ed3b0d4398406']
+2025-04-06 13:23:02,644 - INFO - Video Path: https://v.redd.it/jpcbats697te1/DASH_1080.mp4?source=fallback
+2025-04-06 13:23:02,814 - INFO - Downloaded media from https://v.redd.it/jpcbats697te1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-06 13:23:02,867 - INFO - Downloaded media from https://v.redd.it/jpcbats697te1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-06 13:23:04,986 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-06 13:23:09,539 - INFO - Posted content successfully. Tweet ID: 1908873110620676132
