@@ -3166,3 +3166,11 @@ Too Many Requests
 2025-04-06 03:31:37,337 - INFO - Video Path: 
 2025-04-06 03:31:37,549 - INFO - Downloaded media from https://preview.redd.it/aqxj8s7ja4te1.png?auto=webp&s=229ebe8984356849de1efec7cf9d55a019341767 to temp_image.jpg
 2025-04-06 03:31:38,556 - INFO - Posted content successfully. Tweet ID: 1908724250443424231
+2025-04-06 04:17:05,862 - INFO - Content: Totally Normalwatch Moira:
+
+2025-04-06 04:17:05,862 - INFO - Image Paths: ['https://preview.redd.it/t6gfl9p393te1.jpg?width=1079&format=pjpg&auto=webp&s=db573cad17bdb8f3707500b35dc1d2790a3fd254', 'https://preview.redd.it/oyjpd9p393te1.jpg?width=564&format=pjpg&auto=webp&s=f34dfb69d5a3cd3566d4f284f8dfc61967daa97e']
+2025-04-06 04:17:05,862 - INFO - Video Path: 
+2025-04-06 04:17:06,015 - INFO - Downloaded media from https://preview.redd.it/t6gfl9p393te1.jpg?width=1079&format=pjpg&auto=webp&s=db573cad17bdb8f3707500b35dc1d2790a3fd254 to temp_image.jpg
+2025-04-06 04:17:06,530 - INFO - Downloaded media from https://preview.redd.it/oyjpd9p393te1.jpg?width=564&format=pjpg&auto=webp&s=f34dfb69d5a3cd3566d4f284f8dfc61967daa97e to temp_image.jpg
+2025-04-06 04:17:07,256 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
