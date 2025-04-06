@@ -3413,3 +3413,10 @@ Too Many Requests
 2025-04-06 23:14:17,559 - INFO - Downloaded media from https://preview.redd.it/y0vj7cplgate1.jpeg?auto=webp&s=99c674d49326c019152ca94dbf0bc1f036bc2897 to temp_image.jpg
 2025-04-06 23:14:18,083 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-06 23:35:15,364 - INFO - Content: today’s german lesson is:
+
+2025-04-06 23:35:15,364 - INFO - Image Paths: ['https://preview.redd.it/y0vj7cplgate1.jpeg?auto=webp&s=99c674d49326c019152ca94dbf0bc1f036bc2897']
+2025-04-06 23:35:15,364 - INFO - Video Path: 
+2025-04-06 23:35:15,510 - INFO - Downloaded media from https://preview.redd.it/y0vj7cplgate1.jpeg?auto=webp&s=99c674d49326c019152ca94dbf0bc1f036bc2897 to temp_image.jpg
+2025-04-06 23:35:16,073 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
