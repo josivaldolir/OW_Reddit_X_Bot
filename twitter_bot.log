@@ -3372,3 +3372,10 @@ Normalwatch is some of the most fun I've had in this game.
 2025-04-06 20:37:08,769 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-06 20:37:22,062 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-06 21:13:00,625 - INFO - Content: I thought I had an epic screenshot and then I noticed Genji's expression
+"Pwease don't life gwip me when I'm ulting the backline 1v5"
+2025-04-06 21:13:00,625 - INFO - Image Paths: ['https://preview.redd.it/rsr3q91oy9te1.png?width=1661&format=png&auto=webp&s=3cec46004c06bb3ae739f871c992ac4a0f1ac7a3', 'https://preview.redd.it/vns5yr9oy9te1.png?width=472&format=png&auto=webp&s=80c0de8155f4ef8133f3b69070d288004178314e']
+2025-04-06 21:13:00,625 - INFO - Video Path: 
+2025-04-06 21:13:00,890 - INFO - Downloaded media from https://preview.redd.it/rsr3q91oy9te1.png?width=1661&format=png&auto=webp&s=3cec46004c06bb3ae739f871c992ac4a0f1ac7a3 to temp_image.jpg
+2025-04-06 21:13:01,643 - INFO - Downloaded media from https://preview.redd.it/vns5yr9oy9te1.png?width=472&format=png&auto=webp&s=80c0de8155f4ef8133f3b69070d288004178314e to temp_image.jpg
+2025-04-06 21:13:03,489 - INFO - Posted content successfully. Tweet ID: 1908991361313013859
