@@ -3363,3 +3363,12 @@ Normalwatch is some of the most fun I've had in this game.
 2025-04-06 20:14:50,612 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-06 20:15:06,576 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-06 20:37:07,870 - INFO - Content: That reaper was so confused on why his guns were gone. Chat was hilarious.
+Normalwatch is some of the most fun I've had in this game.
+2025-04-06 20:37:07,870 - INFO - Image Paths: ['https://external-preview.redd.it/dHVscDNla2puN3RlMTmFwNVuHLbTlE40U1LRsGg4H-Dj9pEVTqfSn1AKTx6P.png?format=pjpg&auto=webp&s=f6ffa813112232f2647c7d8f78f0927da42812ed']
+2025-04-06 20:37:07,870 - INFO - Video Path: https://v.redd.it/hmisqckjn7te1/DASH_1080.mp4?source=fallback
+2025-04-06 20:37:08,214 - INFO - Downloaded media from https://v.redd.it/hmisqckjn7te1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-06 20:37:08,466 - INFO - Downloaded media from https://v.redd.it/hmisqckjn7te1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-06 20:37:08,769 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-06 20:37:22,062 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
