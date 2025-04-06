@@ -3379,3 +3379,12 @@ Too Many Requests
 2025-04-06 21:13:00,890 - INFO - Downloaded media from https://preview.redd.it/rsr3q91oy9te1.png?width=1661&format=png&auto=webp&s=3cec46004c06bb3ae739f871c992ac4a0f1ac7a3 to temp_image.jpg
 2025-04-06 21:13:01,643 - INFO - Downloaded media from https://preview.redd.it/vns5yr9oy9te1.png?width=472&format=png&auto=webp&s=80c0de8155f4ef8133f3b69070d288004178314e to temp_image.jpg
 2025-04-06 21:13:03,489 - INFO - Posted content successfully. Tweet ID: 1908991361313013859
+2025-04-06 21:36:08,775 - INFO - Content: This is the best season we've gotten so far and it's going to get better bros. I believe it.
+
+2025-04-06 21:36:08,775 - INFO - Image Paths: ['https://external-preview.redd.it/N2JhcnB2dGM5YXRlMZtX2XNSJ8NdUjH-Odd2MlKkxm8t_9wvj2OW3wd4TV5L.png?format=pjpg&auto=webp&s=98b37cca272c0a400096c79ded46e51a3f7f7e70']
+2025-04-06 21:36:08,775 - INFO - Video Path: https://v.redd.it/zqabovtc9ate1/DASH_720.mp4?source=fallback
+2025-04-06 21:36:09,077 - INFO - Downloaded media from https://v.redd.it/zqabovtc9ate1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-04-06 21:36:09,181 - INFO - Downloaded media from https://v.redd.it/zqabovtc9ate1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-04-06 21:36:10,085 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-06 21:36:16,612 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
