@@ -3665,3 +3665,12 @@ Alt+F4 can mean both going against or trying to play the hero, likewise for hila
 2025-04-07 19:11:47,771 - INFO - Video Path: 
 2025-04-07 19:11:47,878 - INFO - Downloaded media from https://preview.redd.it/wljh65w1yfte1.png?auto=webp&s=a4034f32e92fce618a6d6cb278d245b0d1a514b6 to temp_image.jpg
 2025-04-07 19:11:49,045 - INFO - Posted content successfully. Tweet ID: 1909323240255676715
+2025-04-07 19:36:08,231 - INFO - Content: Is this bullying?
+
+2025-04-07 19:36:08,231 - INFO - Image Paths: ['https://external-preview.redd.it/cDZteXBjMHg2Z3RlMQMhtHQ-WK3g6V5WmTqRnLG4e3_mYbEud2xNOXlshiHB.png?format=pjpg&auto=webp&s=48834e7ce1a7dbc00f3a447cb9cad17f346cf311']
+2025-04-07 19:36:08,231 - INFO - Video Path: https://v.redd.it/gwpiidzw6gte1/DASH_1080.mp4?source=fallback
+2025-04-07 19:36:08,418 - INFO - Downloaded media from https://v.redd.it/gwpiidzw6gte1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-07 19:36:08,560 - INFO - Downloaded media from https://v.redd.it/gwpiidzw6gte1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-07 19:36:08,896 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-07 19:36:19,425 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
