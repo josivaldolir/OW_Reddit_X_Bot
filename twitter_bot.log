@@ -3549,3 +3549,9 @@ Absolute gold expressions right here
 2025-04-07 10:43:24,613 - INFO - Video Path: 
 2025-04-07 10:43:24,726 - INFO - Downloaded media from https://preview.redd.it/7s9tp55kmbte1.png?auto=webp&s=ee113ef2ddf03a8d9715799ca214582102fb0cba to temp_image.jpg
 2025-04-07 10:43:25,558 - INFO - Posted content successfully. Tweet ID: 1909195299987276075
+2025-04-07 11:13:03,498 - INFO - Content: "be not afraid" looking ahh turret
+I have no idea what causes this bug man is it just perfect
+2025-04-07 11:13:03,498 - INFO - Image Paths: ['https://preview.redd.it/joat6wowgbte1.png?auto=webp&s=67c7667c7556cecd9099b85ed04704984e33fb77']
+2025-04-07 11:13:03,498 - INFO - Video Path: 
+2025-04-07 11:13:03,635 - INFO - Downloaded media from https://preview.redd.it/joat6wowgbte1.png?auto=webp&s=67c7667c7556cecd9099b85ed04704984e33fb77 to temp_image.jpg
+2025-04-07 11:13:05,385 - INFO - Posted content successfully. Tweet ID: 1909202762711114167
