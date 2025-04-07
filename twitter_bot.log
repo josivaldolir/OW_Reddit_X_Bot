@@ -3451,3 +3451,9 @@ i dont know what causes this and to be honest i cant tell if its a bug or a feat
 2025-04-07 04:18:10,235 - INFO - Downloaded media from https://preview.redd.it/0au6tkmmibte1.png?auto=webp&s=517e4cfa21191115782ace165a78ed37de06e561 to temp_image.jpg
 2025-04-07 04:18:11,242 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-07 04:42:25,685 - INFO - Content: "be not afraid" lookin ahh turret
+i dont know what causes this and to be honest i cant tell if its a bug or a feature  
+2025-04-07 04:42:25,685 - INFO - Image Paths: ['https://preview.redd.it/0au6tkmmibte1.png?auto=webp&s=517e4cfa21191115782ace165a78ed37de06e561']
+2025-04-07 04:42:25,685 - INFO - Video Path: 
+2025-04-07 04:42:25,786 - INFO - Downloaded media from https://preview.redd.it/0au6tkmmibte1.png?auto=webp&s=517e4cfa21191115782ace165a78ed37de06e561 to temp_image.jpg
+2025-04-07 04:42:27,685 - INFO - Posted content successfully. Tweet ID: 1909104456832323768
