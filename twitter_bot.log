@@ -3535,3 +3535,11 @@ Absolute gold expressions right here
 2025-04-07 09:39:38,761 - INFO - Video Path: 
 2025-04-07 09:39:39,009 - INFO - Downloaded media from https://preview.redd.it/atxty9w8rbte1.png?auto=webp&s=a73e2f385277e89ec81544f11ea3c6cb2e0cc3c4 to temp_image.jpg
 2025-04-07 09:39:40,666 - INFO - Posted content successfully. Tweet ID: 1909179254991880437
+2025-04-07 10:16:47,035 - INFO - Content: The most noble thing a man can do
+
+2025-04-07 10:16:47,035 - INFO - Image Paths: ['https://external-preview.redd.it/bDZ3bTdtbmxzZHRlMVbm4MenYmi0pWUGHHSmZ-1-h_944zobxoxBu5Y7uPnL.png?format=pjpg&auto=webp&s=cb1b7332f2b519dd30d075b581708db446256625']
+2025-04-07 10:16:47,035 - INFO - Video Path: https://v.redd.it/ncd970tlsdte1/DASH_1080.mp4?source=fallback
+2025-04-07 10:16:47,455 - INFO - Downloaded media from https://v.redd.it/ncd970tlsdte1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-07 10:16:47,516 - INFO - Downloaded media from https://v.redd.it/ncd970tlsdte1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-07 10:16:47,783 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-07 10:16:53,961 - INFO - Posted content successfully. Tweet ID: 1909188624698036374
