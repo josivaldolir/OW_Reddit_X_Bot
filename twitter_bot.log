@@ -3466,3 +3466,11 @@ i dont know what causes this and to be honest i cant tell if its a bug or a feat
 2025-04-07 05:15:53,013 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-07 05:15:59,816 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-07 05:40:38,902 - INFO - Content: This is the best season we've gotten so far and it's going to get better bros. I believe it.
+
+2025-04-07 05:40:38,902 - INFO - Image Paths: ['https://external-preview.redd.it/N2JhcnB2dGM5YXRlMZtX2XNSJ8NdUjH-Odd2MlKkxm8t_9wvj2OW3wd4TV5L.png?format=pjpg&auto=webp&s=98b37cca272c0a400096c79ded46e51a3f7f7e70']
+2025-04-07 05:40:38,902 - INFO - Video Path: https://v.redd.it/zqabovtc9ate1/DASH_720.mp4?source=fallback
+2025-04-07 05:40:39,156 - INFO - Downloaded media from https://v.redd.it/zqabovtc9ate1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-04-07 05:40:39,214 - INFO - Downloaded media from https://v.redd.it/zqabovtc9ate1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-04-07 05:40:40,342 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-07 05:40:47,479 - INFO - Posted content successfully. Tweet ID: 1909119139760971999
