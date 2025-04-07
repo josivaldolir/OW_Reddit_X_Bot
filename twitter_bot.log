@@ -3645,3 +3645,11 @@ We did in fact hurt each other, but we cool 😎
 2025-04-07 17:38:23,309 - INFO - Downloaded media from https://v.redd.it/cdsmuwl4rete1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-04-07 17:38:24,043 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-07 17:38:31,417 - INFO - Posted content successfully. Tweet ID: 1909299763067207996
+2025-04-07 18:20:33,777 - INFO - Content: Lol i think i just got my laziest POTG ever, But hey 4k's a 4k.
+Remember back in 2016 when people would complain that the "POTG algorithm" was unfair? ah, good times.
+2025-04-07 18:20:33,777 - INFO - Image Paths: ['https://external-preview.redd.it/azByZzF4ajA3ZnRlMeK_BPM-yzt-R33Ui96w3iXjRt9e_A3RzE8PJEQ42jym.png?format=pjpg&auto=webp&s=c80a73991dd71bb32e7e8f0baf4303ee0523229e']
+2025-04-07 18:20:33,777 - INFO - Video Path: https://v.redd.it/y2s01yj07fte1/DASH_1080.mp4?source=fallback
+2025-04-07 18:20:34,406 - INFO - Downloaded media from https://v.redd.it/y2s01yj07fte1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-07 18:20:34,529 - INFO - Downloaded media from https://v.redd.it/y2s01yj07fte1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-07 18:20:34,904 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-07 18:20:44,556 - INFO - Posted content successfully. Tweet ID: 1909310387503136825
