@@ -3563,3 +3563,11 @@ I have no idea what causes this bug man is it just perfect
 2025-04-07 12:30:21,292 - INFO - Downloaded media from https://v.redd.it/4pvuazl76ete1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-04-07 12:30:21,595 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-07 12:30:28,727 - INFO - Posted content successfully. Tweet ID: 1909222241021100049
+2025-04-07 13:06:46,029 - INFO - Content: "That remech is gonna kill m-" Sombra:
+I love you random purple hacker girl 
+2025-04-07 13:06:46,029 - INFO - Image Paths: ['https://external-preview.redd.it/cG83M3Q1am5uYXRlMZhJ2aPLHROgE4CNeHgFTBIwTtMZ5B5fYLRe5ViIcaJQ.png?format=pjpg&auto=webp&s=b09a29ba76cbc8866accefd14f7d0e74f1bbd9c7']
+2025-04-07 13:06:46,029 - INFO - Video Path: https://v.redd.it/7vn50nnnnate1/DASH_1080.mp4?source=fallback
+2025-04-07 13:06:46,357 - INFO - Downloaded media from https://v.redd.it/7vn50nnnnate1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-07 13:06:46,415 - INFO - Downloaded media from https://v.redd.it/7vn50nnnnate1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-07 13:06:47,481 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-07 13:06:53,509 - INFO - Posted content successfully. Tweet ID: 1909231404707176946
