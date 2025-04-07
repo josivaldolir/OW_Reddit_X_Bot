@@ -3435,3 +3435,12 @@ Too Many Requests
 2025-04-07 02:49:02,530 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-07 02:49:10,138 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-07 03:32:51,366 - INFO - Content: Genji getting a taste of cryo-Storm
+
+2025-04-07 03:32:51,367 - INFO - Image Paths: ['https://external-preview.redd.it/Z2lmYmVlb2xjYXRlMRZEFhMcOKnlixIbJBXl96QqNS3Q14kcM_-VmFdP3IGf.png?format=pjpg&auto=webp&s=55e58e19bb31f8db199aa9c807b52ff9eea8394e']
+2025-04-07 03:32:51,367 - INFO - Video Path: https://v.redd.it/3h0v9eolcate1/DASH_1080.mp4?source=fallback
+2025-04-07 03:32:51,565 - INFO - Downloaded media from https://v.redd.it/3h0v9eolcate1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-07 03:32:51,688 - INFO - Downloaded media from https://v.redd.it/3h0v9eolcate1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-07 03:32:53,651 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-07 03:33:00,566 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
