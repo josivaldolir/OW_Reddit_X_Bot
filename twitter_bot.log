@@ -3653,3 +3653,9 @@ Remember back in 2016 when people would complain that the "POTG algorithm" was u
 2025-04-07 18:20:34,529 - INFO - Downloaded media from https://v.redd.it/y2s01yj07fte1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-04-07 18:20:34,904 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-07 18:20:44,556 - INFO - Posted content successfully. Tweet ID: 1909310387503136825
+2025-04-07 18:43:31,006 - INFO - Content: Petition to declutter the spray screen? More consistant sorting and a seperate tab to view all hero specific sprays?
+
+2025-04-07 18:43:31,006 - INFO - Image Paths: ['https://external-preview.redd.it/x62hZjKxCAQ3_V2Eq5Gd6Abhv5zLEPk_9GnaO_2PBRo.jpg?auto=webp&s=9de4ad2451392d24e2ff26e32580a8012edcf1b4']
+2025-04-07 18:43:31,006 - INFO - Video Path: 
+2025-04-07 18:43:31,157 - INFO - Downloaded media from https://external-preview.redd.it/x62hZjKxCAQ3_V2Eq5Gd6Abhv5zLEPk_9GnaO_2PBRo.jpg?auto=webp&s=9de4ad2451392d24e2ff26e32580a8012edcf1b4 to temp_image.jpg
+2025-04-07 18:43:32,503 - INFO - Posted content successfully. Tweet ID: 1909316124459643291
