@@ -3501,3 +3501,11 @@ Too Many Requests
 2025-04-07 07:15:22,460 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-07 07:15:29,084 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-07 07:38:02,223 - INFO - Content: His new change is alright
+
+2025-04-07 07:38:02,224 - INFO - Image Paths: ['https://external-preview.redd.it/bnY5NDFrZ3l1YXRlMTpijVZAl1paGKmCu5EGpKdsLcarPud_Vtn_7cRnC_nX.png?format=pjpg&auto=webp&s=1416b274be2d3d53240ac199062993a16ae5c6f1']
+2025-04-07 07:38:02,224 - INFO - Video Path: https://v.redd.it/yvyndziyuate1/DASH_720.mp4?source=fallback
+2025-04-07 07:38:02,468 - INFO - Downloaded media from https://v.redd.it/yvyndziyuate1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-04-07 07:38:02,500 - INFO - Downloaded media from https://v.redd.it/yvyndziyuate1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-04-07 07:38:03,040 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-07 07:38:06,140 - INFO - Posted content successfully. Tweet ID: 1909148662157967387
