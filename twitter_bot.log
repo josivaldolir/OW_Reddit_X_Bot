@@ -3444,3 +3444,10 @@ Too Many Requests
 2025-04-07 03:32:53,651 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-07 03:33:00,566 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-07 04:18:09,974 - INFO - Content: "be not afraid" lookin ahh turret
+i dont know what causes this and to be honest i cant tell if its a bug or a feature  
+2025-04-07 04:18:09,974 - INFO - Image Paths: ['https://preview.redd.it/0au6tkmmibte1.png?auto=webp&s=517e4cfa21191115782ace165a78ed37de06e561']
+2025-04-07 04:18:09,974 - INFO - Video Path: 
+2025-04-07 04:18:10,235 - INFO - Downloaded media from https://preview.redd.it/0au6tkmmibte1.png?auto=webp&s=517e4cfa21191115782ace165a78ed37de06e561 to temp_image.jpg
+2025-04-07 04:18:11,242 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
