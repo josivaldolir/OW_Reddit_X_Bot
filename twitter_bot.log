@@ -3543,3 +3543,9 @@ Absolute gold expressions right here
 2025-04-07 10:16:47,516 - INFO - Downloaded media from https://v.redd.it/ncd970tlsdte1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-04-07 10:16:47,783 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-07 10:16:53,961 - INFO - Posted content successfully. Tweet ID: 1909188624698036374
+2025-04-07 10:43:24,613 - INFO - Content: overwatch movie was so goated winston said ''first we over then we watch lets overwatch!!''
+
+2025-04-07 10:43:24,613 - INFO - Image Paths: ['https://preview.redd.it/7s9tp55kmbte1.png?auto=webp&s=ee113ef2ddf03a8d9715799ca214582102fb0cba']
+2025-04-07 10:43:24,613 - INFO - Video Path: 
+2025-04-07 10:43:24,726 - INFO - Downloaded media from https://preview.redd.it/7s9tp55kmbte1.png?auto=webp&s=ee113ef2ddf03a8d9715799ca214582102fb0cba to temp_image.jpg
+2025-04-07 10:43:25,558 - INFO - Posted content successfully. Tweet ID: 1909195299987276075
