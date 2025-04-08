@@ -51,3 +51,12 @@ Too Many Requests
 2025-04-08 03:50:44,092 - INFO - Downloaded media from https://preview.redd.it/0wvt2b0e8jte1.jpeg?auto=webp&s=a4623091ffae507ef42d5eb74d3f49b3ec89352b to temp_image.jpg
 2025-04-08 03:50:44,744 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-08 04:17:36,010 - INFO - Content: best lucio rollout in april fools
+insane lucio rollout in april fools event killed all 8 enemies in 3 seconds
+2025-04-08 04:17:36,010 - INFO - Image Paths: ['https://external-preview.redd.it/anB2OXcxaTF0Z3RlMVMlFw4RRvtFslWDmMc0Hy9ygBEoet7uqHxA1_QDcjSJ.png?format=pjpg&auto=webp&s=e542bb7dfad97454cff1e2de0718c150bb94a8b6']
+2025-04-08 04:17:36,010 - INFO - Video Path: https://v.redd.it/zpqjh2i1tgte1/DASH_1080.mp4?source=fallback
+2025-04-08 04:17:36,098 - INFO - Downloaded media from https://v.redd.it/zpqjh2i1tgte1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-08 04:17:36,161 - INFO - Downloaded media from https://v.redd.it/zpqjh2i1tgte1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-08 04:17:36,492 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-08 04:17:42,742 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
