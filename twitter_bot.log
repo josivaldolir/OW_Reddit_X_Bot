@@ -311,3 +311,11 @@ Just died as an Ana to a Mei who cryo-froze on top, while I dropped to below. I 
 2025-04-08 21:37:18,526 - INFO - Video Path: 
 2025-04-08 21:37:18,649 - INFO - Downloaded media from https://preview.redd.it/7mpbye26gote1.jpeg?auto=webp&s=7c72857be38ec10ad908c015bb6e230a68a5f2dc to temp_image.jpg
 2025-04-08 21:37:19,536 - INFO - Posted content successfully. Tweet ID: 1909722247251870083
+2025-04-08 22:14:20,398 - INFO - Content: I didn't even know a punch could hit two people at once, let alone kill them both.
+They both just walked straight into my cowboy hand and died tragically.
+2025-04-08 22:14:20,398 - INFO - Image Paths: ['https://external-preview.redd.it/MW5vdHM0aXMyb3RlMXhW-yzstggOGOgrqIloESAsCh7eunD2bNlLOMtvGKRw.png?format=pjpg&auto=webp&s=0908f7548229f6d2dabae6e98dbaa31223675ad1']
+2025-04-08 22:14:20,398 - INFO - Video Path: https://v.redd.it/k3kzocis2ote1/DASH_720.mp4?source=fallback
+2025-04-08 22:14:20,665 - INFO - Downloaded media from https://v.redd.it/k3kzocis2ote1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-04-08 22:14:20,680 - INFO - Downloaded media from https://v.redd.it/k3kzocis2ote1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-04-08 22:14:21,488 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-08 22:14:29,828 - INFO - Posted content successfully. Tweet ID: 1909731601757675897
