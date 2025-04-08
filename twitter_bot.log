@@ -67,3 +67,10 @@ Too Many Requests
 2025-04-08 04:43:19,516 - INFO - Downloaded media from https://preview.redd.it/0wvt2b0e8jte1.jpeg?auto=webp&s=a4623091ffae507ef42d5eb74d3f49b3ec89352b to temp_image.jpg
 2025-04-08 04:43:20,171 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-08 05:14:44,376 - INFO - Content: cursed_hammond
+
+2025-04-08 05:14:44,376 - INFO - Image Paths: ['https://preview.redd.it/0wvt2b0e8jte1.jpeg?auto=webp&s=a4623091ffae507ef42d5eb74d3f49b3ec89352b']
+2025-04-08 05:14:44,376 - INFO - Video Path: 
+2025-04-08 05:14:44,617 - INFO - Downloaded media from https://preview.redd.it/0wvt2b0e8jte1.jpeg?auto=webp&s=a4623091ffae507ef42d5eb74d3f49b3ec89352b to temp_image.jpg
+2025-04-08 05:14:45,386 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
