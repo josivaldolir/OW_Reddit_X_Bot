@@ -104,3 +104,12 @@ insane lucio rollout in april fools event killed all 8 enemies in 3 seconds
 2025-04-08 07:16:25,553 - INFO - Downloaded media from https://preview.redd.it/7jl6cokgehte1.jpg?width=1487&format=pjpg&auto=webp&s=a9797d33c0a14d2b7e9fa2566628145d276c3795 to temp_image.jpg
 2025-04-08 07:16:26,327 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-08 07:36:54,784 - INFO - Content: i can’t with this mode
+
+2025-04-08 07:36:54,784 - INFO - Image Paths: ['https://preview.redd.it/z0b6nokgehte1.jpg?width=4000&format=pjpg&auto=webp&s=f8e3b7b5f75beec4270081b120870d118323a20d', 'https://preview.redd.it/262qmokgehte1.jpg?width=4000&format=pjpg&auto=webp&s=9733ca70ef49eeb1a2971837046bcc2ccb5739c7', 'https://preview.redd.it/7jl6cokgehte1.jpg?width=1487&format=pjpg&auto=webp&s=a9797d33c0a14d2b7e9fa2566628145d276c3795']
+2025-04-08 07:36:54,784 - INFO - Video Path: 
+2025-04-08 07:36:54,878 - INFO - Downloaded media from https://preview.redd.it/z0b6nokgehte1.jpg?width=4000&format=pjpg&auto=webp&s=f8e3b7b5f75beec4270081b120870d118323a20d to temp_image.jpg
+2025-04-08 07:36:56,514 - INFO - Downloaded media from https://preview.redd.it/262qmokgehte1.jpg?width=4000&format=pjpg&auto=webp&s=9733ca70ef49eeb1a2971837046bcc2ccb5739c7 to temp_image.jpg
+2025-04-08 07:36:58,007 - INFO - Downloaded media from https://preview.redd.it/7jl6cokgehte1.jpg?width=1487&format=pjpg&auto=webp&s=a9797d33c0a14d2b7e9fa2566628145d276c3795 to temp_image.jpg
+2025-04-08 07:36:58,834 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
