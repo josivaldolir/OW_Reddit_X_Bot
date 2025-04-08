@@ -124,3 +124,11 @@ I know next season won’t be as “charitable” but damn I hope they let us ha
 2025-04-08 08:20:40,593 - INFO - Video Path: 
 2025-04-08 08:20:40,792 - INFO - Downloaded media from https://preview.redd.it/5p1w2dv78jte1.jpeg?auto=webp&s=1f1b3b982cdc2f79ca48b8c6c196fe80b5610f4d to temp_image.jpg
 2025-04-08 08:20:44,640 - INFO - Posted content successfully. Tweet ID: 1909521778864799843
+2025-04-08 08:45:23,256 - INFO - Content: i can’t with this mode
+
+2025-04-08 08:45:23,256 - INFO - Image Paths: ['https://preview.redd.it/z0b6nokgehte1.jpg?width=4000&format=pjpg&auto=webp&s=f8e3b7b5f75beec4270081b120870d118323a20d', 'https://preview.redd.it/262qmokgehte1.jpg?width=4000&format=pjpg&auto=webp&s=9733ca70ef49eeb1a2971837046bcc2ccb5739c7', 'https://preview.redd.it/7jl6cokgehte1.jpg?width=1487&format=pjpg&auto=webp&s=a9797d33c0a14d2b7e9fa2566628145d276c3795']
+2025-04-08 08:45:23,256 - INFO - Video Path: 
+2025-04-08 08:45:23,517 - INFO - Downloaded media from https://preview.redd.it/z0b6nokgehte1.jpg?width=4000&format=pjpg&auto=webp&s=f8e3b7b5f75beec4270081b120870d118323a20d to temp_image.jpg
+2025-04-08 08:45:25,123 - INFO - Downloaded media from https://preview.redd.it/262qmokgehte1.jpg?width=4000&format=pjpg&auto=webp&s=9733ca70ef49eeb1a2971837046bcc2ccb5739c7 to temp_image.jpg
+2025-04-08 08:45:26,617 - INFO - Downloaded media from https://preview.redd.it/7jl6cokgehte1.jpg?width=1487&format=pjpg&auto=webp&s=a9797d33c0a14d2b7e9fa2566628145d276c3795 to temp_image.jpg
+2025-04-08 08:45:28,135 - INFO - Posted content successfully. Tweet ID: 1909528001316110418
