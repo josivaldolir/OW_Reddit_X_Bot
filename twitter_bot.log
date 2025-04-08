@@ -305,3 +305,9 @@ Just died as an Ana to a Mei who cryo-froze on top, while I dropped to below. I 
 2025-04-08 21:13:54,089 - INFO - Downloaded media from https://v.redd.it/4302dyq76mte1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-04-08 21:13:54,388 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-08 21:14:01,803 - INFO - Posted content successfully. Tweet ID: 1909716384881197451
+2025-04-08 21:37:18,526 - INFO - Content: I have learned a lot about the extra space maps have this past week
+
+2025-04-08 21:37:18,526 - INFO - Image Paths: ['https://preview.redd.it/7mpbye26gote1.jpeg?auto=webp&s=7c72857be38ec10ad908c015bb6e230a68a5f2dc']
+2025-04-08 21:37:18,526 - INFO - Video Path: 
+2025-04-08 21:37:18,649 - INFO - Downloaded media from https://preview.redd.it/7mpbye26gote1.jpeg?auto=webp&s=7c72857be38ec10ad908c015bb6e230a68a5f2dc to temp_image.jpg
+2025-04-08 21:37:19,536 - INFO - Posted content successfully. Tweet ID: 1909722247251870083
