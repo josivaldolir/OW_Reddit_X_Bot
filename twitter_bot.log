@@ -250,3 +250,11 @@ I’m confused, I thought overwatch was a free to play style game?
 2025-04-08 17:13:30,573 - INFO - Video Path: 
 2025-04-08 17:13:30,694 - INFO - Downloaded media from https://preview.redd.it/zcszs9hzfmte1.png?auto=webp&s=b88d6b66e763bd7cdb64a91fe4545c23a90448ac to temp_image.jpg
 2025-04-08 17:13:34,000 - INFO - Posted content successfully. Tweet ID: 1909655862332870869
+2025-04-08 17:39:10,189 - INFO - Content: Someone needs to nerf this MF smile
+
+2025-04-08 17:39:10,189 - INFO - Image Paths: ['https://external-preview.redd.it/c3dvdGZucDQ2bnRlMSf5u7Fk0JibNdEmcSMTRUHQltcNv89l3LWrCnUEfoYx.png?format=pjpg&auto=webp&s=90a3b35f5aa58928488b5c57a25465a8e9cb02eb']
+2025-04-08 17:39:10,189 - INFO - Video Path: https://v.redd.it/5rzcjjv46nte1/DASH_1080.mp4?source=fallback
+2025-04-08 17:39:10,552 - INFO - Downloaded media from https://v.redd.it/5rzcjjv46nte1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-08 17:39:10,654 - INFO - Downloaded media from https://v.redd.it/5rzcjjv46nte1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-08 17:39:11,065 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-08 17:39:15,985 - INFO - Posted content successfully. Tweet ID: 1909662337801531428
