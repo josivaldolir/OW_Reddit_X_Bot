@@ -325,3 +325,9 @@ xD
 2025-04-08 22:39:48,197 - INFO - Video Path: 
 2025-04-08 22:39:48,286 - INFO - Downloaded media from https://preview.redd.it/akabbda7uote1.jpeg?auto=webp&s=5af476ee3c7e831f0c37d9564dfb8c8a764436b7 to temp_image.jpg
 2025-04-08 22:39:49,389 - INFO - Posted content successfully. Tweet ID: 1909737974989758837
+2025-04-08 23:13:54,836 - INFO - Content: I’ve waited so long
+
+2025-04-08 23:13:54,836 - INFO - Image Paths: ['https://preview.redd.it/kaw81cmdzote1.jpeg?auto=webp&s=f0277bd870e42501de870aaa51f4cfc9e6096c66']
+2025-04-08 23:13:54,836 - INFO - Video Path: 
+2025-04-08 23:13:54,898 - INFO - Downloaded media from https://preview.redd.it/kaw81cmdzote1.jpeg?auto=webp&s=f0277bd870e42501de870aaa51f4cfc9e6096c66 to temp_image.jpg
+2025-04-08 23:13:55,927 - INFO - Posted content successfully. Tweet ID: 1909746558905557073
