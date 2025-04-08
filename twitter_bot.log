@@ -89,3 +89,9 @@ insane lucio rollout in april fools event killed all 8 enemies in 3 seconds
 2025-04-08 06:21:07,541 - INFO - Downloaded media from https://v.redd.it/zpqjh2i1tgte1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-04-08 06:21:07,783 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-08 06:21:14,059 - INFO - Posted content successfully. Tweet ID: 1909491705440768296
+2025-04-08 06:46:45,354 - INFO - Content: cursed_hammond
+
+2025-04-08 06:46:45,354 - INFO - Image Paths: ['https://preview.redd.it/0wvt2b0e8jte1.jpeg?auto=webp&s=a4623091ffae507ef42d5eb74d3f49b3ec89352b']
+2025-04-08 06:46:45,354 - INFO - Video Path: 
+2025-04-08 06:46:45,563 - INFO - Downloaded media from https://preview.redd.it/0wvt2b0e8jte1.jpeg?auto=webp&s=a4623091ffae507ef42d5eb74d3f49b3ec89352b to temp_image.jpg
+2025-04-08 06:46:46,649 - INFO - Posted content successfully. Tweet ID: 1909498133463417313
