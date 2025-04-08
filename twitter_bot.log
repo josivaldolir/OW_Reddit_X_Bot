@@ -203,3 +203,11 @@ I had 2 main goals for overwatch. to get every gold gun and reach platinum borde
 2025-04-08 13:43:56,791 - INFO - Downloaded media from https://preview.redd.it/4743nx2kyhte1.jpeg?auto=webp&s=6c072773d1f15da973fe4199a01f7e78406fd1a8 to temp_image.jpg
 2025-04-08 13:44:05,322 - ERROR - Failed to post content: 500 Internal Server Error
 131 - Internal error
+2025-04-08 14:15:38,731 - INFO - Content: Reinhardt epic race
+Idk I just found this really funny when it happened lol
+2025-04-08 14:15:38,731 - INFO - Image Paths: ['https://external-preview.redd.it/N2lkZTEydjExbXRlMXFpOI1EZZNeKJreK9iTY9zAgw3LJcF61CoZThhroVKi.png?format=pjpg&auto=webp&s=6f27a50c8d0dd573eb808c61f5287b697e29ea19']
+2025-04-08 14:15:38,731 - INFO - Video Path: https://v.redd.it/fr7lef421mte1/DASH_480.mp4?source=fallback
+2025-04-08 14:15:38,857 - INFO - Downloaded media from https://v.redd.it/fr7lef421mte1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-04-08 14:15:38,912 - INFO - Downloaded media from https://v.redd.it/fr7lef421mte1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-04-08 14:15:46,186 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-08 14:15:52,440 - INFO - Posted content successfully. Tweet ID: 1909611152499171360
