@@ -297,3 +297,11 @@ Just died as an Ana to a Mei who cryo-froze on top, while I dropped to below. I 
 2025-04-08 20:39:51,616 - INFO - Downloaded media from https://preview.redd.it/f1mo9cpj1ote1.jpg?width=1720&format=pjpg&auto=webp&s=7e574388a115b63e558c1e0d237e8bb1229b29c3 to temp_image.jpg
 2025-04-08 20:39:52,725 - INFO - Downloaded media from https://preview.redd.it/8ppckcpj1ote1.jpg?width=2530&format=pjpg&auto=webp&s=e36f131b4258705f17bbc5e31e877208cdaecf32 to temp_image.jpg
 2025-04-08 20:39:54,476 - INFO - Posted content successfully. Tweet ID: 1909707796087816291
+2025-04-08 21:13:53,799 - INFO - Content: This game ended at 0m...
+
+2025-04-08 21:13:53,799 - INFO - Image Paths: ['https://external-preview.redd.it/YXZlaGV5cTc2bXRlMdlk4V6oNCBVDOLF_u83DiNx1fuS_baJ6mCTq2t6-7-9.png?format=pjpg&auto=webp&s=fa8d4352ecf2c0118bdcd257d00ba89f46e41d38']
+2025-04-08 21:13:53,799 - INFO - Video Path: https://v.redd.it/4302dyq76mte1/DASH_1080.mp4?source=fallback
+2025-04-08 21:13:54,013 - INFO - Downloaded media from https://v.redd.it/4302dyq76mte1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-08 21:13:54,089 - INFO - Downloaded media from https://v.redd.it/4302dyq76mte1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-08 21:13:54,388 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-08 21:14:01,803 - INFO - Posted content successfully. Tweet ID: 1909716384881197451
