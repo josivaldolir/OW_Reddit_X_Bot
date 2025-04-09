@@ -623,3 +623,9 @@ Posted this a couple weeks back but with just the fan skin. Now I made a player 
 2025-04-09 23:13:58,767 - INFO - Downloaded media from https://preview.redd.it/3lkdden5jvte1.png?width=2708&format=png&auto=webp&s=84c4599e31a58e368590d3af40a6f9f16ebd0c0e to temp_image.jpg
 2025-04-09 23:13:59,530 - INFO - Downloaded media from https://preview.redd.it/vdos38m6jvte1.png?width=4236&format=png&auto=webp&s=c539f92c15e475f4e67afe09d1c985b4f3fc9673 to temp_image.jpg
 2025-04-09 23:14:03,164 - INFO - Posted content successfully. Tweet ID: 1910108966769844561
+2025-04-09 23:36:22,196 - INFO - Content: Is this canon?
+
+2025-04-09 23:36:22,196 - INFO - Image Paths: ['https://preview.redd.it/qy9n2h5b7wte1.jpeg?auto=webp&s=b90d196a3a3224eaeb92cd4f4502182657e48b65']
+2025-04-09 23:36:22,196 - INFO - Video Path: 
+2025-04-09 23:36:22,359 - INFO - Downloaded media from https://preview.redd.it/qy9n2h5b7wte1.jpeg?auto=webp&s=b90d196a3a3224eaeb92cd4f4502182657e48b65 to temp_image.jpg
+2025-04-09 23:36:23,540 - INFO - Posted content successfully. Tweet ID: 1910114598994301039
