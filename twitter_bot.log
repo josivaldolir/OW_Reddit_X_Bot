@@ -567,3 +567,11 @@ I really enjoy the bai ze skin currently
 2025-04-09 19:12:29,964 - INFO - Downloaded media from https://v.redd.it/gbjrj36rrute1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-04-09 19:12:33,174 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-09 19:12:45,240 - INFO - Posted content successfully. Tweet ID: 1910048252256256101
+2025-04-09 20:16:16,378 - INFO - Content: we are so backkkk
+
+2025-04-09 20:16:16,379 - INFO - Image Paths: ['https://external-preview.redd.it/YjR3eG1kcXY0dnRlMdxDNAB__8npz8M4zm_-hQI3brrhxciAAW_3fbBTwZjr.png?format=pjpg&auto=webp&s=2bf802a7167b74b2e21d847a2de04a90aee9aa9d']
+2025-04-09 20:16:16,379 - INFO - Video Path: https://v.redd.it/n3k4jvxv4vte1/DASH_480.mp4?source=fallback
+2025-04-09 20:16:17,076 - INFO - Downloaded media from https://v.redd.it/n3k4jvxv4vte1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-04-09 20:16:17,155 - INFO - Downloaded media from https://v.redd.it/n3k4jvxv4vte1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-04-09 20:16:17,781 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-09 20:16:22,593 - INFO - Posted content successfully. Tweet ID: 1910064263701606752
