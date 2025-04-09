@@ -559,3 +559,11 @@ I really enjoy the bai ze skin currently
 2025-04-09 18:45:40,301 - INFO - Image Paths: []
 2025-04-09 18:45:40,301 - INFO - Video Path: 
 2025-04-09 18:45:40,685 - INFO - Posted content successfully. Tweet ID: 1910041438894649475
+2025-04-09 19:12:26,768 - INFO - Content: Oh, hello enemy Widow!
+
+2025-04-09 19:12:26,769 - INFO - Image Paths: ['https://external-preview.redd.it/MzlpbWQ5NnJydXRlMXzB6_N5wsjeb1j98W92t6l4rfqPKkGaTdxXSj1yQt-W.png?format=pjpg&auto=webp&s=4a758d3a3dd4361c0c131e0efd4d12c13cadbc4b']
+2025-04-09 19:12:26,769 - INFO - Video Path: https://v.redd.it/gbjrj36rrute1/DASH_1080.mp4?source=fallback
+2025-04-09 19:12:29,770 - INFO - Downloaded media from https://v.redd.it/gbjrj36rrute1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-09 19:12:29,964 - INFO - Downloaded media from https://v.redd.it/gbjrj36rrute1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-09 19:12:33,174 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-09 19:12:45,240 - INFO - Posted content successfully. Tweet ID: 1910048252256256101
