@@ -486,3 +486,11 @@ Widow headshots are satisfying, flanking a team with a Sombra, winning an 1 on 1
 2025-04-09 14:44:46,828 - INFO - Image Paths: []
 2025-04-09 14:44:46,828 - INFO - Video Path: 
 2025-04-09 14:44:47,171 - INFO - Posted content successfully. Tweet ID: 1909980816454598664
+2025-04-09 15:18:23,077 - INFO - Content: Classic lemmingwatch spawn camp
+
+2025-04-09 15:18:23,077 - INFO - Image Paths: ['https://external-preview.redd.it/MWZkMGlweDVudHRlMUSVCtqyNdmkw_kDeh2EBeCIORAUGVL00CLHFg8K7zLV.png?format=pjpg&auto=webp&s=36d312e8502e550c514221edbacec1f558e52315']
+2025-04-09 15:18:23,077 - INFO - Video Path: https://v.redd.it/modauox5ntte1/DASH_1080.mp4?source=fallback
+2025-04-09 15:18:23,608 - INFO - Downloaded media from https://v.redd.it/modauox5ntte1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-09 15:18:23,716 - INFO - Downloaded media from https://v.redd.it/modauox5ntte1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-09 15:18:24,158 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-09 15:18:35,201 - INFO - Posted content successfully. Tweet ID: 1909989322347991109
