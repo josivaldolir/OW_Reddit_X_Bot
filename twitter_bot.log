@@ -374,3 +374,11 @@ I know this has been discussed before but I still haven’t seen or heard anythi
 2025-04-09 04:17:40,129 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-09 04:17:44,596 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-09 04:43:26,482 - INFO - Content: You can't convince me these 2 don't work together
+
+2025-04-09 04:43:26,482 - INFO - Image Paths: ['https://external-preview.redd.it/MDVxNWllZmxscHRlMWNN57K1cDvcriAaeLL9lUbRPbNPimGZW6vwHqD3GDlY.png?format=pjpg&auto=webp&s=ab3f681709f25a7ea88ed3ef629300334f0f8da0']
+2025-04-09 04:43:26,482 - INFO - Video Path: https://v.redd.it/w9ve8gfllpte1/DASH_1080.mp4?source=fallback
+2025-04-09 04:43:26,764 - INFO - Downloaded media from https://v.redd.it/w9ve8gfllpte1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-09 04:43:26,856 - INFO - Downloaded media from https://v.redd.it/w9ve8gfllpte1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-09 04:43:27,317 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-09 04:43:31,805 - INFO - Posted content successfully. Tweet ID: 1909829505302380716
