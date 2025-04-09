@@ -473,3 +473,11 @@ After threating that he would be next I finally finished this piece. Look at my 
 2025-04-09 13:47:05,802 - INFO - Downloaded media from https://preview.redd.it/znx6fyjdbtte1.png?width=3233&format=png&auto=webp&s=a456825c9773f539cabad536961070fe06e87add to temp_image.jpg
 2025-04-09 13:47:06,955 - INFO - Downloaded media from https://preview.redd.it/se5w3sqdbtte1.png?width=6268&format=png&auto=webp&s=e82fd4247a0c2a091ff3c45eecd27051c509a30b to temp_image.jpg
 2025-04-09 13:47:12,126 - INFO - Posted content successfully. Tweet ID: 1909966313402868066
+2025-04-09 14:16:07,494 - INFO - Content: The rarest of POTGs: My first Ana Comp POTG since OW1
+It'll never happen again
+2025-04-09 14:16:07,495 - INFO - Image Paths: ['https://external-preview.redd.it/cW1xeXIxaXhjdHRlMTKwPlnCKXqHazk_Fcd42HYCU8BxrbLHFES7GHZ3UWYO.png?format=pjpg&auto=webp&s=4237d461d7077d1f56c3044b38d2a2e9658de1b5']
+2025-04-09 14:16:07,495 - INFO - Video Path: https://v.redd.it/ruqruelxctte1/DASH_1080.mp4?source=fallback
+2025-04-09 14:16:09,374 - INFO - Downloaded media from https://v.redd.it/ruqruelxctte1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-09 14:16:09,494 - INFO - Downloaded media from https://v.redd.it/ruqruelxctte1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-09 14:16:14,938 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-09 14:16:23,597 - INFO - Posted content successfully. Tweet ID: 1909973670971523252
