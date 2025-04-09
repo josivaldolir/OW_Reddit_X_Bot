@@ -539,3 +539,11 @@ I was opening my lootboxes last night and came across this and was just curious 
 2025-04-09 17:13:15,138 - INFO - Downloaded media from https://v.redd.it/zy2umeyzaute1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-04-09 17:13:15,663 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-09 17:13:35,921 - INFO - Posted content successfully. Tweet ID: 1910018266166178272
+2025-04-09 17:39:43,995 - INFO - Content: nooooo fix the bug
+aaaa uh
+2025-04-09 17:39:43,995 - INFO - Image Paths: ['https://external-preview.redd.it/ZGoydjY1ajVzdHRlMes_0lC22m_gK5NeZzdv5GWJPpWEakEJryN5loiGfkjx.png?format=pjpg&auto=webp&s=3c3aafb2889933bd015222f342e240e068c1614a']
+2025-04-09 17:39:43,995 - INFO - Video Path: https://v.redd.it/5usfkss5stte1/DASH_1080.mp4?source=fallback
+2025-04-09 17:39:44,265 - INFO - Downloaded media from https://v.redd.it/5usfkss5stte1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-09 17:39:44,303 - INFO - Downloaded media from https://v.redd.it/5usfkss5stte1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-09 17:39:44,868 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-09 17:39:51,230 - INFO - Posted content successfully. Tweet ID: 1910024873549713589
