@@ -358,3 +358,10 @@ I like being the raid boss. I like charging in and not immediately exploding. Yo
 2025-04-09 03:31:23,447 - INFO - Image Paths: []
 2025-04-09 03:31:23,447 - INFO - Video Path: 
 2025-04-09 03:31:23,728 - INFO - Posted content successfully. Tweet ID: 1909811352127840456
+2025-04-09 03:51:06,685 - INFO - Content: Does anyone know the EXACT amount of duplicates needed to get the extra lootbox?
+I know this has been discussed before but I still haven’t seen or heard anything official about the amount of duplicates or the worth of each duplicate (common vs. uncommon) needed to get the free box. 
+2025-04-09 03:51:06,685 - INFO - Image Paths: ['https://preview.redd.it/j32maglhfote1.jpg?width=432&format=pjpg&auto=webp&s=a498464a8a940d930fbab9a97b84082fd0ca04a1', 'https://preview.redd.it/s674uflhfote1.jpg?width=428&format=pjpg&auto=webp&s=50f0d0fa81813af2f17732ae811460b297cbb850']
+2025-04-09 03:51:06,685 - INFO - Video Path: 
+2025-04-09 03:51:06,769 - INFO - Downloaded media from https://preview.redd.it/j32maglhfote1.jpg?width=432&format=pjpg&auto=webp&s=a498464a8a940d930fbab9a97b84082fd0ca04a1 to temp_image.jpg
+2025-04-09 03:51:07,288 - INFO - Downloaded media from https://preview.redd.it/s674uflhfote1.jpg?width=428&format=pjpg&auto=webp&s=50f0d0fa81813af2f17732ae811460b297cbb850 to temp_image.jpg
+2025-04-09 03:51:08,081 - INFO - Posted content successfully. Tweet ID: 1909816319479857170
