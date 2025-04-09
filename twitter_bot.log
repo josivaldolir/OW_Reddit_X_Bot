@@ -398,3 +398,11 @@ My hubs had to tweak the key cap but I love it
 2025-04-09 06:48:30,684 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-09 06:48:34,864 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-09 07:15:22,329 - INFO - Content: Love nerfing on my keyboard
+My hubs had to tweak the key cap but I love it
+2025-04-09 07:15:22,329 - INFO - Image Paths: ['https://external-preview.redd.it/NHViNDF3OG9tcHRlMbx8HEytDzwVJ0Nc38oZxRwgJ4TF2ii-AJgsiDbGta6t.png?format=pjpg&auto=webp&s=20d09512937667552729beb85a92935b0bc77871']
+2025-04-09 07:15:22,330 - INFO - Video Path: https://v.redd.it/w95g2scompte1/DASH_1080.mp4?source=fallback
+2025-04-09 07:15:22,767 - INFO - Downloaded media from https://v.redd.it/w95g2scompte1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-09 07:15:22,858 - INFO - Downloaded media from https://v.redd.it/w95g2scompte1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-09 07:15:23,345 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-09 07:15:27,791 - INFO - Posted content successfully. Tweet ID: 1909867740531507317
