@@ -450,3 +450,11 @@ I started playing with overwatch 2, so I’ve always played 5v5. I was trying to
 2025-04-09 11:35:45,814 - INFO - Image Paths: []
 2025-04-09 11:35:45,814 - INFO - Video Path: 
 2025-04-09 11:35:46,125 - INFO - Posted content successfully. Tweet ID: 1909933248664264790
+2025-04-09 12:30:26,650 - INFO - Content: Read that Lw like a book
+
+2025-04-09 12:30:26,650 - INFO - Image Paths: ['https://external-preview.redd.it/a3gyenRwemZ2c3RlMRE4Q711vg8CgAY_r6AQt0sorc_ToNHK6399fPGJaZ1N.png?format=pjpg&auto=webp&s=d4d0d0647eb4bea28b933a2bc6dece18a1edce12']
+2025-04-09 12:30:26,650 - INFO - Video Path: https://v.redd.it/w0581x1gvste1/DASH_1080.mp4?source=fallback
+2025-04-09 12:30:28,784 - INFO - Downloaded media from https://v.redd.it/w0581x1gvste1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-09 12:30:28,906 - INFO - Downloaded media from https://v.redd.it/w0581x1gvste1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-09 12:30:31,935 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-09 12:30:43,202 - INFO - Posted content successfully. Tweet ID: 1909947077356114250
