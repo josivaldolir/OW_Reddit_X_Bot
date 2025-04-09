@@ -427,3 +427,9 @@ She didn't have a cup to raise, so she improvised.
 2025-04-09 09:41:00,694 - INFO - Downloaded media from https://v.redd.it/5haib2goqrte1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-04-09 09:41:01,075 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-09 09:41:06,856 - INFO - Posted content successfully. Tweet ID: 1909904394851938537
+2025-04-09 10:19:29,885 - INFO - Content: OW x Monster High (xpost)
+Kiri & Juno in Monster High style :-)
+2025-04-09 10:19:29,886 - INFO - Image Paths: ['https://preview.redd.it/jxz22a5ogqte1.jpeg?auto=webp&s=13cce8562d10b786d8d05e742b1f095906f039fc']
+2025-04-09 10:19:29,886 - INFO - Video Path: 
+2025-04-09 10:19:29,998 - INFO - Downloaded media from https://preview.redd.it/jxz22a5ogqte1.jpeg?auto=webp&s=13cce8562d10b786d8d05e742b1f095906f039fc to temp_image.jpg
+2025-04-09 10:19:31,262 - INFO - Posted content successfully. Tweet ID: 1909914059274948881
