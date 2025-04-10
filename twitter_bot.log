@@ -694,3 +694,10 @@ Said “found game”, didn’t load me in then banned me 💀 holy fix your gam
 2025-04-10 06:46:41,577 - INFO - Downloaded media from https://preview.redd.it/nrf1kcfayxte1.jpeg?auto=webp&s=cccc8775d55bb520c8a2ec20b9e2494eda69ec6c to temp_image.jpg
 2025-04-10 06:46:42,459 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-10 07:14:58,142 - INFO - Content: Got banned for not connecting to server…
+Said “found game”, didn’t load me in then banned me 💀 holy fix your game
+2025-04-10 07:14:58,142 - INFO - Image Paths: ['https://preview.redd.it/nrf1kcfayxte1.jpeg?auto=webp&s=cccc8775d55bb520c8a2ec20b9e2494eda69ec6c']
+2025-04-10 07:14:58,142 - INFO - Video Path: 
+2025-04-10 07:14:58,226 - INFO - Downloaded media from https://preview.redd.it/nrf1kcfayxte1.jpeg?auto=webp&s=cccc8775d55bb520c8a2ec20b9e2494eda69ec6c to temp_image.jpg
+2025-04-10 07:14:59,045 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
