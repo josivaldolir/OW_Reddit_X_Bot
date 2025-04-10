@@ -759,3 +759,12 @@ Feel free to roast me in the comments. I absolutely deserve it
 2025-04-10 10:44:07,985 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-10 10:44:15,326 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-10 11:12:47,853 - INFO - Content: The enemy dps as soon as I’m doing well on Junkrat.
+
+2025-04-10 11:12:47,853 - INFO - Image Paths: ['https://external-preview.redd.it/Y3R2bWdiMjVmeXRlMQaaPSKL9_IwT82M-EyyRQxr8mcwdsO3LxJTZ2nYvKR8.png?format=pjpg&auto=webp&s=6bf86b7ef3967dee26add0b5cadaaf069b4112d5']
+2025-04-10 11:12:47,853 - INFO - Video Path: https://v.redd.it/aehe7r95fyte1/DASH_360.mp4?source=fallback
+2025-04-10 11:12:47,925 - INFO - Downloaded media from https://v.redd.it/aehe7r95fyte1/DASH_360.mp4?source=fallback to temp_video.mp4
+2025-04-10 11:12:47,961 - INFO - Downloaded media from https://v.redd.it/aehe7r95fyte1/DASH_360.mp4?source=fallback to temp_audio.mp4
+2025-04-10 11:12:48,417 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-10 11:12:50,300 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
