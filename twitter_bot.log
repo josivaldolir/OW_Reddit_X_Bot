@@ -808,3 +808,11 @@ Tracer upside down line art drawing
 2025-04-10 14:41:22,785 - INFO - Video Path: 
 2025-04-10 14:41:22,895 - INFO - Downloaded media from https://preview.redd.it/std4yvhsd0ue1.png?auto=webp&s=b8248de0c05dd6bb50bfdc108221e244f63f74d4 to temp_image.jpg
 2025-04-10 14:41:24,017 - INFO - Posted content successfully. Tweet ID: 1910342351135920583
+2025-04-10 15:16:42,923 - INFO - Content: Not my proudest moment in Totally Normalwatch
+Feel free to roast me in the comments. I absolutely deserve it
+2025-04-10 15:16:42,923 - INFO - Image Paths: ['https://external-preview.redd.it/d2FuMHZnc3ZheHRlMR43V2KhRNTgHfqHr1XunQX8JQRau_OyinyY5saK87D4.png?format=pjpg&auto=webp&s=01c157030907979a0ed74764dc622b39d89aad0e']
+2025-04-10 15:16:42,923 - INFO - Video Path: https://v.redd.it/byspng3waxte1/DASH_1080.mp4?source=fallback
+2025-04-10 15:16:43,789 - INFO - Downloaded media from https://v.redd.it/byspng3waxte1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-10 15:16:43,893 - INFO - Downloaded media from https://v.redd.it/byspng3waxte1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-10 15:16:44,301 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-10 15:16:52,305 - INFO - Posted content successfully. Tweet ID: 1910351278678691946
