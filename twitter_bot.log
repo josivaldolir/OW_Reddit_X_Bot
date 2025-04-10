@@ -920,3 +920,11 @@ Could this winston spray be a reference to steins;gate?
 2025-04-10 21:36:28,951 - INFO - Video Path: 
 2025-04-10 21:36:29,110 - INFO - Downloaded media from https://preview.redd.it/fy6wibu2k2ue1.jpeg?auto=webp&s=ebb1778751c31f041da8d022b903c10eb370de0e to temp_image.jpg
 2025-04-10 21:36:30,301 - INFO - Posted content successfully. Tweet ID: 1910446816539140197
+2025-04-10 22:15:21,017 - INFO - Content: Can anyone explain what happened here?
+I got launched to the side lol
+2025-04-10 22:15:21,017 - INFO - Image Paths: ['https://external-preview.redd.it/ZXFmejNyazc3MXVlMS3tPTMfG4Tk8RRpRY9ve33ZYHPSNlJ6LIb7ZNVC7yAI.png?format=pjpg&auto=webp&s=9928d726fbf4b1a768ccd88a829cfa8efdd29878']
+2025-04-10 22:15:21,017 - INFO - Video Path: https://v.redd.it/l8qpz9i771ue1/DASH_1080.mp4?source=fallback
+2025-04-10 22:15:22,441 - INFO - Downloaded media from https://v.redd.it/l8qpz9i771ue1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-10 22:15:22,581 - INFO - Downloaded media from https://v.redd.it/l8qpz9i771ue1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-10 22:15:22,885 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-10 22:15:34,807 - INFO - Posted content successfully. Tweet ID: 1910456650156433419
