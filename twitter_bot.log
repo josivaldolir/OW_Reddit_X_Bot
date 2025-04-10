@@ -750,3 +750,12 @@ Too Many Requests
 2025-04-10 10:16:41,044 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-10 10:16:42,963 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-10 10:43:58,718 - INFO - Content: Not my proudest moment in Totally Normalwatch
+Feel free to roast me in the comments. I absolutely deserve it
+2025-04-10 10:43:58,718 - INFO - Image Paths: ['https://external-preview.redd.it/d2FuMHZnc3ZheHRlMR43V2KhRNTgHfqHr1XunQX8JQRau_OyinyY5saK87D4.png?format=pjpg&auto=webp&s=01c157030907979a0ed74764dc622b39d89aad0e']
+2025-04-10 10:43:58,718 - INFO - Video Path: https://v.redd.it/byspng3waxte1/DASH_1080.mp4?source=fallback
+2025-04-10 10:43:58,802 - INFO - Downloaded media from https://v.redd.it/byspng3waxte1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-10 10:43:58,849 - INFO - Downloaded media from https://v.redd.it/byspng3waxte1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-10 10:44:07,985 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-10 10:44:15,326 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
