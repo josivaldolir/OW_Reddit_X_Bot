@@ -732,3 +732,12 @@ Said “found game”, didn’t load me in then banned me 💀 holy fix your gam
 2025-04-10 09:16:17,230 - INFO - Video Path: 
 2025-04-10 09:16:17,256 - INFO - Downloaded media from https://preview.redd.it/nrf1kcfayxte1.jpeg?auto=webp&s=cccc8775d55bb520c8a2ec20b9e2494eda69ec6c to temp_image.jpg
 2025-04-10 09:16:18,477 - INFO - Posted content successfully. Tweet ID: 1910260539164684719
+2025-04-10 09:40:02,726 - INFO - Content: Not my proudest moment in Totally Normalwatch
+Feel free to roast me in the comments. I absolutely deserve it
+2025-04-10 09:40:02,727 - INFO - Image Paths: ['https://external-preview.redd.it/d2FuMHZnc3ZheHRlMR43V2KhRNTgHfqHr1XunQX8JQRau_OyinyY5saK87D4.png?format=pjpg&auto=webp&s=01c157030907979a0ed74764dc622b39d89aad0e']
+2025-04-10 09:40:02,727 - INFO - Video Path: https://v.redd.it/byspng3waxte1/DASH_1080.mp4?source=fallback
+2025-04-10 09:40:03,858 - INFO - Downloaded media from https://v.redd.it/byspng3waxte1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-10 09:40:04,410 - INFO - Downloaded media from https://v.redd.it/byspng3waxte1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-10 09:40:07,025 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-10 09:40:14,724 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
