@@ -639,3 +639,11 @@ What do you think?
 2025-04-10 01:09:07,007 - INFO - Video Path: 
 2025-04-10 01:09:07,198 - INFO - Downloaded media from https://preview.redd.it/t49zfte5rvte1.jpeg?auto=webp&s=96e56cf78793c3260d87e4c391cd21721988e2c8 to temp_image.jpg
 2025-04-10 01:09:08,323 - INFO - Posted content successfully. Tweet ID: 1910137939297788199
+2025-04-10 02:45:53,951 - INFO - Content: Why are full teams leaving matches in competitive?
+I just had three games in a row where about 5-7 people leave the match the moment they load in and the game gets cancelled. Why is this happening?
+2025-04-10 02:45:53,951 - INFO - Image Paths: ['https://external-preview.redd.it/bjUweWMzanBzdnRlMfbn-rOajCR57YsLGXNmPMUwR0VtDwkCUNcHTS2tRODl.png?format=pjpg&auto=webp&s=a5ce949b15e115b82fa90384d91a5b2465d14319']
+2025-04-10 02:45:53,951 - INFO - Video Path: https://v.redd.it/gsn9gslpsvte1/DASH_1080.mp4?source=fallback
+2025-04-10 02:45:54,371 - INFO - Downloaded media from https://v.redd.it/gsn9gslpsvte1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-10 02:45:54,490 - INFO - Downloaded media from https://v.redd.it/gsn9gslpsvte1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-10 02:45:59,971 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-10 02:46:06,263 - INFO - Posted content successfully. Tweet ID: 1910162341976559843
