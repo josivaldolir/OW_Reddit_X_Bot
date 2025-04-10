@@ -661,3 +661,10 @@ Fr
 2025-04-10 04:18:41,654 - INFO - Downloaded media from https://preview.redd.it/k739y5axnxte1.jpeg?auto=webp&s=8bded47612afca07a60935d1a91a4b2a3cd28e2e to temp_image.jpg
 2025-04-10 04:18:42,407 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-10 04:44:18,045 - INFO - Content: Me too fr
+Fr
+2025-04-10 04:44:18,045 - INFO - Image Paths: ['https://preview.redd.it/k739y5axnxte1.jpeg?auto=webp&s=8bded47612afca07a60935d1a91a4b2a3cd28e2e']
+2025-04-10 04:44:18,045 - INFO - Video Path: 
+2025-04-10 04:44:18,204 - INFO - Downloaded media from https://preview.redd.it/k739y5axnxte1.jpeg?auto=webp&s=8bded47612afca07a60935d1a91a4b2a3cd28e2e to temp_image.jpg
+2025-04-10 04:44:19,001 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
