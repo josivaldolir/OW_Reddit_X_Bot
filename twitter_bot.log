@@ -726,3 +726,9 @@ Too Many Requests
 2025-04-10 08:45:01,009 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-10 08:45:02,834 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-10 09:16:17,230 - INFO - Content: Got banned for not connecting to server…
+Said “found game”, didn’t load me in then banned me 💀 holy fix your game
+2025-04-10 09:16:17,230 - INFO - Image Paths: ['https://preview.redd.it/nrf1kcfayxte1.jpeg?auto=webp&s=cccc8775d55bb520c8a2ec20b9e2494eda69ec6c']
+2025-04-10 09:16:17,230 - INFO - Video Path: 
+2025-04-10 09:16:17,256 - INFO - Downloaded media from https://preview.redd.it/nrf1kcfayxte1.jpeg?auto=webp&s=cccc8775d55bb520c8a2ec20b9e2494eda69ec6c to temp_image.jpg
+2025-04-10 09:16:18,477 - INFO - Posted content successfully. Tweet ID: 1910260539164684719
