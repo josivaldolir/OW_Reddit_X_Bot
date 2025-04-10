@@ -708,3 +708,12 @@ Said “found game”, didn’t load me in then banned me 💀 holy fix your gam
 2025-04-10 07:38:29,276 - INFO - Downloaded media from https://preview.redd.it/nrf1kcfayxte1.jpeg?auto=webp&s=cccc8775d55bb520c8a2ec20b9e2494eda69ec6c to temp_image.jpg
 2025-04-10 07:38:30,146 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-10 08:20:46,889 - INFO - Content: The enemy dps as soon as I’m doing well on Junkrat.
+
+2025-04-10 08:20:46,890 - INFO - Image Paths: ['https://external-preview.redd.it/Y3R2bWdiMjVmeXRlMQaaPSKL9_IwT82M-EyyRQxr8mcwdsO3LxJTZ2nYvKR8.png?format=pjpg&auto=webp&s=6bf86b7ef3967dee26add0b5cadaaf069b4112d5']
+2025-04-10 08:20:46,890 - INFO - Video Path: https://v.redd.it/aehe7r95fyte1/DASH_360.mp4?source=fallback
+2025-04-10 08:20:47,100 - INFO - Downloaded media from https://v.redd.it/aehe7r95fyte1/DASH_360.mp4?source=fallback to temp_video.mp4
+2025-04-10 08:20:47,119 - INFO - Downloaded media from https://v.redd.it/aehe7r95fyte1/DASH_360.mp4?source=fallback to temp_audio.mp4
+2025-04-10 08:20:51,823 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-10 08:20:53,696 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
