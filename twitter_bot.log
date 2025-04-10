@@ -647,3 +647,10 @@ I just had three games in a row where about 5-7 people leave the match the momen
 2025-04-10 02:45:54,490 - INFO - Downloaded media from https://v.redd.it/gsn9gslpsvte1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-04-10 02:45:59,971 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-10 02:46:06,263 - INFO - Posted content successfully. Tweet ID: 1910162341976559843
+2025-04-10 03:30:52,077 - INFO - Content: Is this about Aqua or am I crazy?
+So, this is from the Samoa map. I don't know if it's always been there, I only noticed it after the reveal for Aqua. Do y'all think maybe this is from him? He seemed like some kind of water bender so it'd be cool for him to be from a tropical region like Samoa even if he isn't directly Samoan. 
+2025-04-10 03:30:52,078 - INFO - Image Paths: ['https://preview.redd.it/c0616mpicvte1.png?auto=webp&s=60082345941e1c150e65b4af5b7bc8750619f0e0']
+2025-04-10 03:30:52,078 - INFO - Video Path: 
+2025-04-10 03:30:52,222 - INFO - Downloaded media from https://preview.redd.it/c0616mpicvte1.png?auto=webp&s=60082345941e1c150e65b4af5b7bc8750619f0e0 to temp_image.jpg
+2025-04-10 03:30:52,955 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
