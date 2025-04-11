@@ -1155,3 +1155,11 @@ Recently started playing Juno and this skin is awsome :0
 2025-04-11 17:21:50,409 - INFO - Video Path: 
 2025-04-11 17:21:50,458 - INFO - Downloaded media from https://preview.redd.it/cdw4ddz4v7ue1.jpeg?auto=webp&s=71174f513ba80a87c49e07d0e850330b9471da30 to temp_image.jpg
 2025-04-11 17:21:51,717 - INFO - Posted content successfully. Tweet ID: 1910745120775037183
+2025-04-11 17:38:57,331 - INFO - Content: How is this possible
+
+2025-04-11 17:38:57,331 - INFO - Image Paths: ['https://external-preview.redd.it/Z2tocjgxNjhoOHVlMdKJSznOQkRiqgfNZlr2wt4W9Y6GThux79Vgsivs5Xlr.png?format=pjpg&auto=webp&s=203081c4d7a7dc2aa9c965cf2d714324b5109469']
+2025-04-11 17:38:57,331 - INFO - Video Path: https://v.redd.it/48j7h4d8h8ue1/DASH_1080.mp4?source=fallback
+2025-04-11 17:38:58,083 - INFO - Downloaded media from https://v.redd.it/48j7h4d8h8ue1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-11 17:38:58,186 - INFO - Downloaded media from https://v.redd.it/48j7h4d8h8ue1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-11 17:38:58,747 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-11 17:39:05,154 - INFO - Posted content successfully. Tweet ID: 1910749456066384080
