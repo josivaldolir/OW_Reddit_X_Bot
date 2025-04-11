@@ -1098,3 +1098,10 @@ Too Many Requests
 2025-04-11 12:29:04,069 - INFO - Downloaded media from https://preview.redd.it/2g1o2qf757ue1.jpeg?auto=webp&s=638d1bb7f7454f0664e716638f2157c1ace8246e to temp_image.jpg
 2025-04-11 12:29:05,375 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-11 13:04:26,594 - INFO - Content: Juno is the new face of Overwatch
+Juno made it through with the Iconic characters besides with Master chief in Xbox 50th Anniversary. Why did they picked Juno as a Overwatch representative? Does Tracer and DVa fell off? But I'm happy to see juno here with one of the Icon characters ngl.
+2025-04-11 13:04:26,594 - INFO - Image Paths: ['https://preview.redd.it/vmix1p3t16ue1.png?auto=webp&s=15ab4e5c99ed3493dfddfe472e14a20b7a8165fe']
+2025-04-11 13:04:26,594 - INFO - Video Path: 
+2025-04-11 13:04:26,687 - INFO - Downloaded media from https://preview.redd.it/vmix1p3t16ue1.png?auto=webp&s=15ab4e5c99ed3493dfddfe472e14a20b7a8165fe to temp_image.jpg
+2025-04-11 13:04:27,424 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
