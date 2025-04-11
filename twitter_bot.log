@@ -995,3 +995,10 @@ I've been seeing this bolt and this box for 2 days idk what it means and I haven
 2025-04-11 05:41:41,969 - INFO - Downloaded media from https://preview.redd.it/gixfer19g3ue1.jpeg?auto=webp&s=f2f0e79413dcf486536696f0fce186a5438c8d8b to temp_image.jpg
 2025-04-11 05:41:43,365 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-11 06:21:09,633 - INFO - Content: I've been seeing this bolt and this box for 2 days idk what it means and I haven't been able to join a game in 2 days either does anyone know what to do ?
+I've been seeing this bolt and this box for 2 days idk what it means and I haven't been able to join a game in 2 days either does anyone know what to do?
+2025-04-11 06:21:09,633 - INFO - Image Paths: ['https://preview.redd.it/gixfer19g3ue1.jpeg?auto=webp&s=f2f0e79413dcf486536696f0fce186a5438c8d8b']
+2025-04-11 06:21:09,633 - INFO - Video Path: 
+2025-04-11 06:21:09,661 - INFO - Downloaded media from https://preview.redd.it/gixfer19g3ue1.jpeg?auto=webp&s=f2f0e79413dcf486536696f0fce186a5438c8d8b to temp_image.jpg
+2025-04-11 06:21:11,196 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
