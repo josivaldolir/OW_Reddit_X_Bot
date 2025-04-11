@@ -1091,3 +1091,10 @@ Too Many Requests
 2025-04-11 11:36:00,012 - INFO - Video Path: 
 2025-04-11 11:36:00,327 - INFO - Downloaded media from https://preview.redd.it/7rv6nogdx6ue1.jpeg?auto=webp&s=9a98eb887009b329e36543a7df46439120f8b363 to temp_image.jpg
 2025-04-11 11:36:01,421 - INFO - Posted content successfully. Tweet ID: 1910658088157483077
+2025-04-11 12:29:03,848 - INFO - Content: What were the odds?
+
+2025-04-11 12:29:03,848 - INFO - Image Paths: ['https://preview.redd.it/2g1o2qf757ue1.jpeg?auto=webp&s=638d1bb7f7454f0664e716638f2157c1ace8246e']
+2025-04-11 12:29:03,848 - INFO - Video Path: 
+2025-04-11 12:29:04,069 - INFO - Downloaded media from https://preview.redd.it/2g1o2qf757ue1.jpeg?auto=webp&s=638d1bb7f7454f0664e716638f2157c1ace8246e to temp_image.jpg
+2025-04-11 12:29:05,375 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
