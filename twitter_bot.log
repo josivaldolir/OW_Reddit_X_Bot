@@ -957,3 +957,11 @@ And they were all good ones, too! I think I've had this happen once in seven yea
 2025-04-11 02:46:43,023 - INFO - Video Path: 
 2025-04-11 02:46:43,152 - INFO - Downloaded media from https://preview.redd.it/wpc8x6vrw3ue1.jpeg?auto=webp&s=5c69c348f25f481b9c2730c4f911c22ad3d41f49 to temp_image.jpg
 2025-04-11 02:46:45,115 - INFO - Posted content successfully. Tweet ID: 1910524891100590559
+2025-04-11 03:31:47,066 - INFO - Content: Recalled and went straight through the floor
+
+2025-04-11 03:31:47,066 - INFO - Image Paths: ['https://external-preview.redd.it/NmMyamgzc3c2M3VlMbaTJOMv0rAWF_C1YzVLnQAIU8EMgPJxUarvpuPxlp9m.png?format=pjpg&auto=webp&s=09f63d27e9300a9b6be72dcf7d7dc3d589e059ea']
+2025-04-11 03:31:47,066 - INFO - Video Path: https://v.redd.it/0u42g4sw63ue1/DASH_720.mp4?source=fallback
+2025-04-11 03:31:47,341 - INFO - Downloaded media from https://v.redd.it/0u42g4sw63ue1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-04-11 03:31:47,388 - INFO - Downloaded media from https://v.redd.it/0u42g4sw63ue1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-04-11 03:31:50,767 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-11 03:31:55,297 - INFO - Posted content successfully. Tweet ID: 1910536260164411796
