@@ -1085,3 +1085,9 @@ Juno made it through with the Iconic characters besides with Master chief in Xbo
 2025-04-11 11:12:32,583 - INFO - Downloaded media from https://preview.redd.it/vmix1p3t16ue1.png?auto=webp&s=15ab4e5c99ed3493dfddfe472e14a20b7a8165fe to temp_image.jpg
 2025-04-11 11:12:33,421 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-11 11:36:00,012 - INFO - Content: Getting into a lobby is winning half the battle already
+
+2025-04-11 11:36:00,012 - INFO - Image Paths: ['https://preview.redd.it/7rv6nogdx6ue1.jpeg?auto=webp&s=9a98eb887009b329e36543a7df46439120f8b363']
+2025-04-11 11:36:00,012 - INFO - Video Path: 
+2025-04-11 11:36:00,327 - INFO - Downloaded media from https://preview.redd.it/7rv6nogdx6ue1.jpeg?auto=webp&s=9a98eb887009b329e36543a7df46439120f8b363 to temp_image.jpg
+2025-04-11 11:36:01,421 - INFO - Posted content successfully. Tweet ID: 1910658088157483077
