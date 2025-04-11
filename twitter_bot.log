@@ -1201,3 +1201,11 @@ They had already announced it would happen april 15-21 on a previous blue post b
 2025-04-11 20:17:36,246 - INFO - Image Paths: []
 2025-04-11 20:17:36,246 - INFO - Video Path: 
 2025-04-11 20:17:36,561 - INFO - Posted content successfully. Tweet ID: 1910789349933015415
+2025-04-11 21:14:00,771 - INFO - Content: You're in for a rollercoaster ride when playing this game...sometimes, a bit too literally
+
+2025-04-11 21:14:00,771 - INFO - Image Paths: ['https://external-preview.redd.it/NGhycXE4NXA1OXVlMfJc5DoYfJXebaaB_5-3M5VElWS4SHXa-JSTMcbROW0_.png?format=pjpg&auto=webp&s=8eeb21a9ca7acf3bfc9ad2a2c52e1af45f3ba85f']
+2025-04-11 21:14:00,771 - INFO - Video Path: https://v.redd.it/a4hu5d4p59ue1/DASH_1080.mp4?source=fallback
+2025-04-11 21:14:01,127 - INFO - Downloaded media from https://v.redd.it/a4hu5d4p59ue1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-11 21:14:01,211 - INFO - Downloaded media from https://v.redd.it/a4hu5d4p59ue1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-11 21:14:01,632 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-11 21:14:07,299 - INFO - Posted content successfully. Tweet ID: 1910803571140157743
