@@ -988,3 +988,10 @@ Too Many Requests
 2025-04-11 05:16:19,365 - INFO - Downloaded media from https://v.redd.it/vnjfdogse4ue1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-04-11 05:16:19,788 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-11 05:16:27,533 - INFO - Posted content successfully. Tweet ID: 1910562567833170164
+2025-04-11 05:41:41,918 - INFO - Content: I've been seeing this bolt and this box for 2 days idk what it means and I haven't been able to join a game in 2 days either does anyone know what to do ?
+I've been seeing this bolt and this box for 2 days idk what it means and I haven't been able to join a game in 2 days either does anyone know what to do?
+2025-04-11 05:41:41,918 - INFO - Image Paths: ['https://preview.redd.it/gixfer19g3ue1.jpeg?auto=webp&s=f2f0e79413dcf486536696f0fce186a5438c8d8b']
+2025-04-11 05:41:41,918 - INFO - Video Path: 
+2025-04-11 05:41:41,969 - INFO - Downloaded media from https://preview.redd.it/gixfer19g3ue1.jpeg?auto=webp&s=f2f0e79413dcf486536696f0fce186a5438c8d8b to temp_image.jpg
+2025-04-11 05:41:43,365 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
