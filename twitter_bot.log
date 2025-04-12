@@ -1493,3 +1493,12 @@ Bonus if it came with a ranking like endorsements, but for avoids only.
 2025-04-12 19:36:00,438 - INFO - Downloaded media from https://v.redd.it/0jyopcttebue1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-04-12 19:36:00,698 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-12 19:36:12,979 - INFO - Posted content successfully. Tweet ID: 1911141320439304450
+2025-04-12 20:16:40,598 - INFO - Content: Warpath: NOWHERE TO RUN (Full Comic, TRUE COLOR VER.)
+Hey! So I made this version to match the aesthetic of Happy Nation and further add some details here and there. This is what I’d consider my true vision for the book’s look. I’m gonna place the full comic in the comments below, as the last four pages couldn’t fit in the entire post. 
+2025-04-12 20:16:40,599 - INFO - Image Paths: ['https://preview.redd.it/5ohzchui3gue1.jpg?width=2750&format=pjpg&auto=webp&s=98eb2a1a4be703e1a580c0039303d0e3c3564883', 'https://preview.redd.it/oyigh4vi3gue1.jpg?width=2750&format=pjpg&auto=webp&s=7aef629555035d897cd78314e29214d335adc7ed', 'https://preview.redd.it/quggugui3gue1.jpg?width=2750&format=pjpg&auto=webp&s=51af90c1d82cb6b10a575b0f71057c74d63b0559', 'https://preview.redd.it/yjrd6iui3gue1.jpg?width=2750&format=pjpg&auto=webp&s=388c53abf395ee8c60d1937f7e76b32b3bb92ceb']
+2025-04-12 20:16:40,599 - INFO - Video Path: 
+2025-04-12 20:16:40,914 - INFO - Downloaded media from https://preview.redd.it/5ohzchui3gue1.jpg?width=2750&format=pjpg&auto=webp&s=98eb2a1a4be703e1a580c0039303d0e3c3564883 to temp_image.jpg
+2025-04-12 20:16:42,832 - INFO - Downloaded media from https://preview.redd.it/oyigh4vi3gue1.jpg?width=2750&format=pjpg&auto=webp&s=7aef629555035d897cd78314e29214d335adc7ed to temp_image.jpg
+2025-04-12 20:16:45,616 - INFO - Downloaded media from https://preview.redd.it/quggugui3gue1.jpg?width=2750&format=pjpg&auto=webp&s=51af90c1d82cb6b10a575b0f71057c74d63b0559 to temp_image.jpg
+2025-04-12 20:16:47,997 - INFO - Downloaded media from https://preview.redd.it/yjrd6iui3gue1.jpg?width=2750&format=pjpg&auto=webp&s=388c53abf395ee8c60d1937f7e76b32b3bb92ceb to temp_image.jpg
+2025-04-12 20:16:50,663 - INFO - Posted content successfully. Tweet ID: 1911151543241638318
