@@ -1341,3 +1341,10 @@ Too Many Requests
 2025-04-12 08:41:10,186 - INFO - Video Path: 
 2025-04-12 08:41:10,469 - INFO - Downloaded media from https://preview.redd.it/dikc5hjenaue1.jpeg?auto=webp&s=4d9e08c98e105eaa37001f448d5b443b729717fb to temp_image.jpg
 2025-04-12 08:41:11,694 - INFO - Posted content successfully. Tweet ID: 1910976478722113868
+2025-04-12 09:16:49,629 - INFO - Content: Cyberpunk 2077 x Overwatch 2 Fan collab concept!!
+I LOVE Cyberpunk 2077 and Overwatch, and thought it would be fun to draw a few concept skins for a collab for them!! I'll probably make more of these eventually, because i have plans for Panam DVA, and Adam Smasher Ramattra, but for now I only drew these 4!! hope y'all like them :3
+2025-04-12 09:16:49,629 - INFO - Image Paths: ['https://preview.redd.it/kfyasjhez9ue1.png?auto=webp&s=5ec7295112b8b6d33819e6719aec0f917622cbaf']
+2025-04-12 09:16:49,629 - INFO - Video Path: 
+2025-04-12 09:16:49,685 - INFO - Downloaded media from https://preview.redd.it/kfyasjhez9ue1.png?auto=webp&s=5ec7295112b8b6d33819e6719aec0f917622cbaf to temp_image.jpg
+2025-04-12 09:16:51,281 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
