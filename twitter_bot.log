@@ -1485,3 +1485,11 @@ Bonus if it came with a ranking like endorsements, but for avoids only.
 2025-04-12 19:12:58,582 - INFO - Image Paths: []
 2025-04-12 19:12:58,582 - INFO - Video Path: 
 2025-04-12 19:12:58,937 - INFO - Posted content successfully. Tweet ID: 1911135473818312947
+2025-04-12 19:35:59,422 - INFO - Content: Calculated.
+
+2025-04-12 19:35:59,422 - INFO - Image Paths: ['https://external-preview.redd.it/dGNxeHZubnRlYnVlMcPO31B_sKYVshRmld-yr2tnFdugt_32y0qj3cp2msJg.png?format=pjpg&auto=webp&s=68c9914888f49ac75c6d941f7b2f54757390eca5']
+2025-04-12 19:35:59,422 - INFO - Video Path: https://v.redd.it/0jyopcttebue1/DASH_1080.mp4?source=fallback
+2025-04-12 19:36:00,317 - INFO - Downloaded media from https://v.redd.it/0jyopcttebue1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-12 19:36:00,438 - INFO - Downloaded media from https://v.redd.it/0jyopcttebue1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-12 19:36:00,698 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-12 19:36:12,979 - INFO - Posted content successfully. Tweet ID: 1911141320439304450
