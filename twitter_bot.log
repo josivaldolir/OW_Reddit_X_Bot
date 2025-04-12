@@ -1390,3 +1390,9 @@ Too Many Requests
 2025-04-12 12:28:12,627 - INFO - Downloaded media from https://preview.redd.it/wgyevp9raeue1.jpeg?auto=webp&s=0e1915715dcc112132ddc8e986abfc24b024d2c7 to temp_image.jpg
 2025-04-12 12:28:13,295 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-12 12:57:11,172 - INFO - Content: Soldierception
+
+2025-04-12 12:57:11,172 - INFO - Image Paths: ['https://preview.redd.it/wgyevp9raeue1.jpeg?auto=webp&s=0e1915715dcc112132ddc8e986abfc24b024d2c7']
+2025-04-12 12:57:11,172 - INFO - Video Path: 
+2025-04-12 12:57:11,455 - INFO - Downloaded media from https://preview.redd.it/wgyevp9raeue1.jpeg?auto=webp&s=0e1915715dcc112132ddc8e986abfc24b024d2c7 to temp_image.jpg
+2025-04-12 12:57:13,075 - INFO - Posted content successfully. Tweet ID: 1911040908885397764
