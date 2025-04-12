@@ -1369,3 +1369,10 @@ Echo? Check. Wrecking Ball? Double check. Aimbotting Paharah? Seems excesive, bu
 2025-04-12 10:38:38,732 - INFO - Downloaded media from https://preview.redd.it/575jcr778due1.jpeg?auto=webp&s=a4ab01a168ef9b86ef97b1ce1a5382a6d59b4301 to temp_image.jpg
 2025-04-12 10:38:39,466 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-12 11:11:13,657 - INFO - Content: It’s just Arcade guys
+Echo? Check. Wrecking Ball? Double check. Aimbotting Paharah? Seems excesive, but yep, check.
+2025-04-12 11:11:13,657 - INFO - Image Paths: ['https://preview.redd.it/575jcr778due1.jpeg?auto=webp&s=a4ab01a168ef9b86ef97b1ce1a5382a6d59b4301']
+2025-04-12 11:11:13,657 - INFO - Video Path: 
+2025-04-12 11:11:13,729 - INFO - Downloaded media from https://preview.redd.it/575jcr778due1.jpeg?auto=webp&s=a4ab01a168ef9b86ef97b1ce1a5382a6d59b4301 to temp_image.jpg
+2025-04-12 11:11:14,333 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
