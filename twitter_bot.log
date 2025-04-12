@@ -1454,3 +1454,11 @@ It's important to keep chat enabled to get the true, holistic experience of play
 2025-04-12 17:13:01,523 - INFO - Image Paths: []
 2025-04-12 17:13:01,523 - INFO - Video Path: 
 2025-04-12 17:13:01,857 - INFO - Posted content successfully. Tweet ID: 1911105287089422642
+2025-04-12 17:38:50,561 - INFO - Content: New mauga flank route discovered!
+
+2025-04-12 17:38:50,561 - INFO - Image Paths: ['https://external-preview.redd.it/YTZ3bGU0d2dkZnVlMVm3NaAJG0qR1w9IONNVC8CDEdNqr5BtY_wNvubJvcZp.png?format=pjpg&auto=webp&s=b7652a685ae424a20e57a1761458995c24b49de2']
+2025-04-12 17:38:50,561 - INFO - Video Path: https://v.redd.it/nqb93iygdfue1/DASH_720.mp4?source=fallback
+2025-04-12 17:38:50,804 - INFO - Downloaded media from https://v.redd.it/nqb93iygdfue1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-04-12 17:38:50,844 - INFO - Downloaded media from https://v.redd.it/nqb93iygdfue1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-04-12 17:38:51,526 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-12 17:38:57,902 - INFO - Posted content successfully. Tweet ID: 1911111813200286013
