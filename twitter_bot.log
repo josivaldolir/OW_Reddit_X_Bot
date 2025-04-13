@@ -1764,3 +1764,11 @@ Just DPS Moira tings
 2025-04-13 18:19:14,029 - INFO - Downloaded media from https://v.redd.it/ats5ygocllue1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-04-13 18:19:19,237 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-13 18:19:25,744 - INFO - Posted content successfully. Tweet ID: 1911484384475074862
+2025-04-13 18:42:53,283 - INFO - Content: "If I go, you go" ahh moment
+
+2025-04-13 18:42:53,283 - INFO - Image Paths: ['https://external-preview.redd.it/YnUwNm1sazd3bXVlMbSO900r-mTlDSwyvaMbMiMyE2bkHhnIFttm9SEkhNXC.png?format=pjpg&auto=webp&s=90bd8f9f6a5d5243ff1ee2e325260633199bd797']
+2025-04-13 18:42:53,283 - INFO - Video Path: https://v.redd.it/rkn82pk7wmue1/DASH_480.mp4?source=fallback
+2025-04-13 18:42:53,463 - INFO - Downloaded media from https://v.redd.it/rkn82pk7wmue1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-04-13 18:42:53,544 - INFO - Downloaded media from https://v.redd.it/rkn82pk7wmue1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-04-13 18:42:53,725 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-13 18:42:56,766 - INFO - Posted content successfully. Tweet ID: 1911490302751154371
