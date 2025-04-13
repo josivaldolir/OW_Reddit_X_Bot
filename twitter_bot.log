@@ -1589,3 +1589,11 @@ Picked up Overwatch on November 23rd 2016, finally got the platinum today, with 
 2025-04-13 06:19:35,828 - INFO - Video Path: 
 2025-04-13 06:19:35,921 - INFO - Downloaded media from https://preview.redd.it/e3e3ozkacjue1.png?auto=webp&s=ee4df4a97b256470197c9b981f2d663db492dbef to temp_image.jpg
 2025-04-13 06:19:37,104 - INFO - Posted content successfully. Tweet ID: 1911303237258432742
+2025-04-13 06:45:31,757 - INFO - Content: Happened to me today
+
+2025-04-13 06:45:31,757 - INFO - Image Paths: ['https://external-preview.redd.it/Z2MwMXEzMmttaXVlMSkKmX1dJ9y-0P9MoRMQxp9tkalm0JvCrUDxZFjbF6ip.png?format=pjpg&auto=webp&s=d704c6eb71b1447b4c06e7282a272dd614229c82']
+2025-04-13 06:45:31,757 - INFO - Video Path: https://v.redd.it/x9xg892kmiue1/DASH_1080.mp4?source=fallback
+2025-04-13 06:45:32,149 - INFO - Downloaded media from https://v.redd.it/x9xg892kmiue1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-13 06:45:32,347 - INFO - Downloaded media from https://v.redd.it/x9xg892kmiue1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-13 06:45:35,723 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-13 06:46:13,206 - INFO - Posted content successfully. Tweet ID: 1911309932332531811
