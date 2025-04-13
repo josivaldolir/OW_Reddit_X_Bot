@@ -1772,3 +1772,10 @@ Just DPS Moira tings
 2025-04-13 18:42:53,544 - INFO - Downloaded media from https://v.redd.it/rkn82pk7wmue1/DASH_480.mp4?source=fallback to temp_audio.mp4
 2025-04-13 18:42:53,725 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-13 18:42:56,766 - INFO - Posted content successfully. Tweet ID: 1911490302751154371
+2025-04-13 19:11:11,396 - INFO - Content: Found At Ollie's
+Decided to go to Ollie's and found a relic from the past. 
+2025-04-13 19:11:11,396 - INFO - Image Paths: ['https://preview.redd.it/4z6hazi4dnue1.jpg?width=3072&format=pjpg&auto=webp&s=515d06c59e98b4b1a2019a0303f28e05727ce5f4', 'https://preview.redd.it/dbgdj5o4dnue1.jpg?width=2808&format=pjpg&auto=webp&s=4a469ed5e05f362203c1142af7d48ddff52648b9']
+2025-04-13 19:11:11,396 - INFO - Video Path: 
+2025-04-13 19:11:11,516 - INFO - Downloaded media from https://preview.redd.it/4z6hazi4dnue1.jpg?width=3072&format=pjpg&auto=webp&s=515d06c59e98b4b1a2019a0303f28e05727ce5f4 to temp_image.jpg
+2025-04-13 19:11:12,832 - INFO - Downloaded media from https://preview.redd.it/dbgdj5o4dnue1.jpg?width=2808&format=pjpg&auto=webp&s=4a469ed5e05f362203c1142af7d48ddff52648b9 to temp_image.jpg
+2025-04-13 19:11:14,826 - INFO - Posted content successfully. Tweet ID: 1911497422909436293
