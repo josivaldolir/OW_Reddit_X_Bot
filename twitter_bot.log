@@ -1740,3 +1740,11 @@ Normalwatch be like
 2025-04-13 16:43:44,574 - INFO - Downloaded media from https://v.redd.it/u1rbh15i6mue1/DASH_480.mp4?source=fallback to temp_audio.mp4
 2025-04-13 16:43:44,893 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-13 16:43:46,917 - INFO - Posted content successfully. Tweet ID: 1911460313867727265
+2025-04-13 17:12:42,380 - INFO - Content: Celestial Moira illustration by me (@rues_garden on instagram)
+it took 25 hours, probably has so many mistakes but oh well! i hope you like it. last image is to show the character without all the effects
+2025-04-13 17:12:42,381 - INFO - Image Paths: ['https://preview.redd.it/toj8dmx2amue1.png?width=1080&format=png&auto=webp&s=b827eafc31b74ab2863da1afb958f65215edb634', 'https://preview.redd.it/y2qzfmx2amue1.png?width=1080&format=png&auto=webp&s=720dc0d5a7025a2031849523e1c2b962de13a2c5', 'https://preview.redd.it/zcuicqy2amue1.png?width=1080&format=png&auto=webp&s=604cc560a343c12ee2a6562d5d2a0577e78c8f71']
+2025-04-13 17:12:42,381 - INFO - Video Path: 
+2025-04-13 17:12:42,550 - INFO - Downloaded media from https://preview.redd.it/toj8dmx2amue1.png?width=1080&format=png&auto=webp&s=b827eafc31b74ab2863da1afb958f65215edb634 to temp_image.jpg
+2025-04-13 17:12:43,196 - INFO - Downloaded media from https://preview.redd.it/y2qzfmx2amue1.png?width=1080&format=png&auto=webp&s=720dc0d5a7025a2031849523e1c2b962de13a2c5 to temp_image.jpg
+2025-04-13 17:12:43,802 - INFO - Downloaded media from https://preview.redd.it/zcuicqy2amue1.png?width=1080&format=png&auto=webp&s=604cc560a343c12ee2a6562d5d2a0577e78c8f71 to temp_image.jpg
+2025-04-13 17:12:45,344 - INFO - Posted content successfully. Tweet ID: 1911467603844808821
