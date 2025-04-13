@@ -1562,3 +1562,10 @@ Mei deserved it.
 2025-04-13 01:56:41,868 - INFO - Downloaded media from https://v.redd.it/61vgjavk8iue1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-04-13 01:56:42,145 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-13 01:56:45,500 - INFO - Posted content successfully. Tweet ID: 1911237087338049684
+2025-04-13 04:06:38,787 - INFO - Content: Made a list of who understands and who doesn’t understand Bastion
+LMK if I missed anything/got anything wrong
+2025-04-13 04:06:38,787 - INFO - Image Paths: ['https://preview.redd.it/hbwx1b4pihue1.jpg?width=950&format=pjpg&auto=webp&s=e0cd16a2664ae33fbdc9aa2a1a60dfdccf10ad65', 'https://preview.redd.it/q1iayb4pihue1.jpg?width=950&format=pjpg&auto=webp&s=23148a7cb34231c8f4dfe121590a660ca6a53632']
+2025-04-13 04:06:38,787 - INFO - Video Path: 
+2025-04-13 04:06:38,842 - INFO - Downloaded media from https://preview.redd.it/hbwx1b4pihue1.jpg?width=950&format=pjpg&auto=webp&s=e0cd16a2664ae33fbdc9aa2a1a60dfdccf10ad65 to temp_image.jpg
+2025-04-13 04:06:39,520 - INFO - Downloaded media from https://preview.redd.it/q1iayb4pihue1.jpg?width=950&format=pjpg&auto=webp&s=23148a7cb34231c8f4dfe121590a660ca6a53632 to temp_image.jpg
+2025-04-13 04:06:40,529 - INFO - Posted content successfully. Tweet ID: 1911269781732250046
