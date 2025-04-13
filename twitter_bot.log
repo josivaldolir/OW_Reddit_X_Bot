@@ -1690,3 +1690,10 @@ Normalwatch be like
 2025-04-13 13:27:31,617 - INFO - Downloaded media from https://preview.redd.it/luhef6wyalue1.jpeg?auto=webp&s=c516972b1e383b64c04c99ea69bf2ad1a2d57410 to temp_image.jpg
 2025-04-13 13:27:32,302 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-13 13:43:45,477 - INFO - Content: So, what do we think of the Overwatch movie?
+Normalwatch be like
+2025-04-13 13:43:45,477 - INFO - Image Paths: ['https://preview.redd.it/luhef6wyalue1.jpeg?auto=webp&s=c516972b1e383b64c04c99ea69bf2ad1a2d57410']
+2025-04-13 13:43:45,477 - INFO - Video Path: 
+2025-04-13 13:43:45,534 - INFO - Downloaded media from https://preview.redd.it/luhef6wyalue1.jpeg?auto=webp&s=c516972b1e383b64c04c99ea69bf2ad1a2d57410 to temp_image.jpg
+2025-04-13 13:43:46,430 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
