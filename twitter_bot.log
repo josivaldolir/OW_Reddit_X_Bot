@@ -1609,3 +1609,13 @@ I have a few quibbles with every map, but I totally "Get it" and I can accept, t
 2025-04-13 07:35:00,079 - INFO - Video Path: 
 2025-04-13 07:35:00,147 - INFO - Downloaded media from https://preview.redd.it/nh54i24h9jue1.png?auto=webp&s=9d44ab341a7397086c7625883ed2469fddb8d7aa to temp_image.jpg
 2025-04-13 07:35:01,746 - INFO - Posted content successfully. Tweet ID: 1911322213870964960
+2025-04-13 08:19:02,609 - INFO - Content: yeehan short..comic? idek
+trying to draw men more and who could be better candidates than the cowbow and the Asian with a bow. He hasn't perfected his craft yet 
+2025-04-13 08:19:02,609 - INFO - Image Paths: ['https://preview.redd.it/pa1citzzniue1.jpg?width=1600&format=pjpg&auto=webp&s=e58af330ca342d124aeea7debd4564b1fe00a08f', 'https://preview.redd.it/7z5q8k50oiue1.png?width=1600&format=png&auto=webp&s=1006af82b2ef75d9e0350ffd27b3c326eaab4f30', 'https://preview.redd.it/21glqv90oiue1.png?width=1600&format=png&auto=webp&s=aef631ee9b1816a04c23083e35451c30bb4a4b94', 'https://preview.redd.it/o2f22td0oiue1.png?width=1600&format=png&auto=webp&s=17d278a0968bf687ea853f836825d7b671a38473']
+2025-04-13 08:19:02,609 - INFO - Video Path: 
+2025-04-13 08:19:02,774 - INFO - Downloaded media from https://preview.redd.it/pa1citzzniue1.jpg?width=1600&format=pjpg&auto=webp&s=e58af330ca342d124aeea7debd4564b1fe00a08f to temp_image.jpg
+2025-04-13 08:19:03,403 - INFO - Downloaded media from https://preview.redd.it/7z5q8k50oiue1.png?width=1600&format=png&auto=webp&s=1006af82b2ef75d9e0350ffd27b3c326eaab4f30 to temp_image.jpg
+2025-04-13 08:19:04,221 - INFO - Downloaded media from https://preview.redd.it/21glqv90oiue1.png?width=1600&format=png&auto=webp&s=aef631ee9b1816a04c23083e35451c30bb4a4b94 to temp_image.jpg
+2025-04-13 08:19:04,804 - INFO - Downloaded media from https://preview.redd.it/o2f22td0oiue1.png?width=1600&format=png&auto=webp&s=17d278a0968bf687ea853f836825d7b671a38473 to temp_image.jpg
+2025-04-13 08:19:05,445 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
