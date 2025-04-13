@@ -1718,3 +1718,9 @@ Normalwatch be like
 2025-04-13 15:15:43,583 - INFO - Downloaded media from https://v.redd.it/esitcl9bmjue1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-04-13 15:15:47,149 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-13 15:15:55,466 - INFO - Posted content successfully. Tweet ID: 1911438203879301189
+2025-04-13 15:38:00,259 - INFO - Content: Hanzo’s entire character development arc explained in one image
+
+2025-04-13 15:38:00,260 - INFO - Image Paths: ['https://preview.redd.it/ucut00gw1mue1.jpeg?auto=webp&s=fd99c58288a039c0d92f5732b8e4b21dcd82f801']
+2025-04-13 15:38:00,260 - INFO - Video Path: 
+2025-04-13 15:38:00,393 - INFO - Downloaded media from https://preview.redd.it/ucut00gw1mue1.jpeg?auto=webp&s=fd99c58288a039c0d92f5732b8e4b21dcd82f801 to temp_image.jpg
+2025-04-13 15:38:01,994 - INFO - Posted content successfully. Tweet ID: 1911443767242211605
