@@ -1628,3 +1628,11 @@ trying to draw men more and who could be better candidates than the cowbow and t
 2025-04-13 08:41:55,523 - INFO - Downloaded media from https://preview.redd.it/21glqv90oiue1.png?width=1600&format=png&auto=webp&s=aef631ee9b1816a04c23083e35451c30bb4a4b94 to temp_image.jpg
 2025-04-13 08:41:56,614 - INFO - Downloaded media from https://preview.redd.it/o2f22td0oiue1.png?width=1600&format=png&auto=webp&s=17d278a0968bf687ea853f836825d7b671a38473 to temp_image.jpg
 2025-04-13 08:41:58,581 - INFO - Posted content successfully. Tweet ID: 1911339060557463590
+2025-04-13 09:16:33,836 - INFO - Content: Tierlist of who understands Bastion - Tweaked
+
+2025-04-13 09:16:33,836 - INFO - Image Paths: ['https://preview.redd.it/upi8bisjujue1.jpg?width=1140&format=pjpg&auto=webp&s=a11ccc77645321feeec8fc0cfbead662a769fc3e', 'https://preview.redd.it/0i3tajsjujue1.jpg?width=1140&format=pjpg&auto=webp&s=e922b0165b1d9430af39526bb5d70ab203431487']
+2025-04-13 09:16:33,836 - INFO - Video Path: 
+2025-04-13 09:16:33,943 - INFO - Downloaded media from https://preview.redd.it/upi8bisjujue1.jpg?width=1140&format=pjpg&auto=webp&s=a11ccc77645321feeec8fc0cfbead662a769fc3e to temp_image.jpg
+2025-04-13 09:16:34,813 - INFO - Downloaded media from https://preview.redd.it/0i3tajsjujue1.jpg?width=1140&format=pjpg&auto=webp&s=e922b0165b1d9430af39526bb5d70ab203431487 to temp_image.jpg
+2025-04-13 09:16:35,614 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
