@@ -1660,3 +1660,12 @@ Too Many Requests
 2025-04-13 11:11:11,584 - INFO - Downloaded media from https://preview.redd.it/0i3tajsjujue1.jpg?width=1140&format=pjpg&auto=webp&s=e922b0165b1d9430af39526bb5d70ab203431487 to temp_image.jpg
 2025-04-13 11:11:12,199 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-13 11:36:05,195 - INFO - Content: Well that's just unlucky...
+
+2025-04-13 11:36:05,195 - INFO - Image Paths: ['https://external-preview.redd.it/bzhoenFqOWJtanVlMaqRrh5FhBDpSk_JLNl789KcIVC9ULuVVfa7L-ebfhwI.png?format=pjpg&auto=webp&s=9b4d77eb7ca48a9e8fbbef94e21f66976e50733e']
+2025-04-13 11:36:05,195 - INFO - Video Path: https://v.redd.it/esitcl9bmjue1/DASH_720.mp4?source=fallback
+2025-04-13 11:36:05,336 - INFO - Downloaded media from https://v.redd.it/esitcl9bmjue1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-04-13 11:36:05,387 - INFO - Downloaded media from https://v.redd.it/esitcl9bmjue1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-04-13 11:36:06,325 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-13 11:36:12,203 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
