@@ -2074,3 +2074,11 @@ First look at Stadium ranks and ranked skins. Will you be using them?
 2025-04-14 18:20:42,093 - INFO - Posted content successfully. Tweet ID: 1911847090935771250
 2025-04-14 19:12:16,420 - ERROR - Error in main loop: 's'
 2025-04-14 19:36:02,508 - ERROR - Error in main loop: 's'
+2025-04-14 20:39:59,594 - INFO - Content: Unfortunate Genji...
+
+2025-04-14 20:39:59,594 - INFO - Image Paths: ['https://external-preview.redd.it/eHY5amhreWVqdXVlMUOFp-Qxw9jIYJ-SO6kTdSMe5GDcn78hVoVcSUV7opK_.png?format=pjpg&auto=webp&s=ed98356dcb6cb03f48b466eebef8f7466a6d1587']
+2025-04-14 20:39:59,594 - INFO - Video Path: https://v.redd.it/k31m0ouejuue1/DASH_1080.mp4?source=fallback
+2025-04-14 20:39:59,842 - INFO - Downloaded media from https://v.redd.it/k31m0ouejuue1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-14 20:39:59,988 - INFO - Downloaded media from https://v.redd.it/k31m0ouejuue1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-14 20:40:00,379 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-14 20:40:11,804 - INFO - Posted content successfully. Tweet ID: 1911882197637669086
