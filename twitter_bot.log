@@ -1892,3 +1892,12 @@ I am TERRIBLE at OW but at least here's something, hahahaha.
 2025-04-14 04:18:05,602 - INFO - Downloaded media from https://v.redd.it/9fezxeyehpue1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-04-14 04:18:07,714 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-14 04:18:28,144 - INFO - Posted content successfully. Tweet ID: 1911635137458262518
+2025-04-14 04:42:54,964 - INFO - Content: Galactic fits Hazard so well
+As a Hazard enjoyer I may be biased, but man, that's one of the best weapons for the galactic varient in the entire game.
+
+
+2025-04-14 04:42:54,965 - INFO - Image Paths: ['https://preview.redd.it/nkijryox2que1.png?width=720&format=png&auto=webp&s=d435b8f36b78fbad3120c7be630fe02138269444', 'https://preview.redd.it/iqq3z5sx2que1.png?width=720&format=png&auto=webp&s=39f6f8724990e7e8bb9e35743d9a5b875bd476a8']
+2025-04-14 04:42:54,965 - INFO - Video Path: 
+2025-04-14 04:42:55,014 - INFO - Downloaded media from https://preview.redd.it/nkijryox2que1.png?width=720&format=png&auto=webp&s=d435b8f36b78fbad3120c7be630fe02138269444 to temp_image.jpg
+2025-04-14 04:42:55,706 - INFO - Downloaded media from https://preview.redd.it/iqq3z5sx2que1.png?width=720&format=png&auto=webp&s=39f6f8724990e7e8bb9e35743d9a5b875bd476a8 to temp_image.jpg
+2025-04-14 04:42:56,836 - INFO - Posted content successfully. Tweet ID: 1911641296537592253
