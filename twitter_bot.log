@@ -2016,3 +2016,10 @@ I see people hating on Torb's turret all the time, but somehow Symmetra deployin
 2025-04-14 13:45:16,698 - INFO - Downloaded media from https://preview.redd.it/9i79ac7ussue1.jpeg?auto=webp&s=f421a6f21668f90a8d8cfd3d2b8f675b0012166e to temp_image.jpg
 2025-04-14 13:45:18,263 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-14 14:43:00,361 - INFO - Content: Double standards, perhaps?
+I see people hating on Torb's turret all the time, but somehow Symmetra deploying 4 turrets behind the exit door is okay?
+2025-04-14 14:43:00,361 - INFO - Image Paths: ['https://preview.redd.it/9i79ac7ussue1.jpeg?auto=webp&s=f421a6f21668f90a8d8cfd3d2b8f675b0012166e']
+2025-04-14 14:43:00,361 - INFO - Video Path: 
+2025-04-14 14:43:00,583 - INFO - Downloaded media from https://preview.redd.it/9i79ac7ussue1.jpeg?auto=webp&s=f421a6f21668f90a8d8cfd3d2b8f675b0012166e to temp_image.jpg
+2025-04-14 14:43:02,025 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
