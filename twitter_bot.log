@@ -1961,3 +1961,11 @@ I can't believe I was blessed enough to witness this with my own two eyes
 2025-04-14 09:17:22,242 - INFO - Downloaded media from https://v.redd.it/7ao96wyx9que1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-04-14 09:17:22,823 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-14 09:17:35,214 - INFO - Posted content successfully. Tweet ID: 1911710412858593343
+2025-04-14 10:19:28,091 - INFO - Content: Gattling Gull skin for Mauga if they ever do an Enter the Gungeon collab
+
+2025-04-14 10:19:28,092 - INFO - Image Paths: ['https://preview.redd.it/5g5z7kpvtrue1.jpg?width=1528&format=pjpg&auto=webp&s=c4c3218f51c75518be74bc4707a58c7d40e48e42', 'https://preview.redd.it/eiakhxdwtrue1.jpg?width=686&format=pjpg&auto=webp&s=d9a5acbf1ed2d322d8575508744d7a47e019d7a0']
+2025-04-14 10:19:28,092 - INFO - Video Path: 
+2025-04-14 10:19:28,221 - INFO - Downloaded media from https://preview.redd.it/5g5z7kpvtrue1.jpg?width=1528&format=pjpg&auto=webp&s=c4c3218f51c75518be74bc4707a58c7d40e48e42 to temp_image.jpg
+2025-04-14 10:19:28,725 - INFO - Downloaded media from https://preview.redd.it/eiakhxdwtrue1.jpg?width=686&format=pjpg&auto=webp&s=d9a5acbf1ed2d322d8575508744d7a47e019d7a0 to temp_image.jpg
+2025-04-14 10:19:29,348 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
