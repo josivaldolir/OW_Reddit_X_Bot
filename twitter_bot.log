@@ -2090,3 +2090,4 @@ First look at Stadium ranks and ranked skins. Will you be using them?
 2025-04-14 21:14:06,483 - INFO - Downloaded media from https://v.redd.it/7pxw7v42buue1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-04-14 21:14:06,967 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-14 21:14:11,619 - INFO - Posted content successfully. Tweet ID: 1911890753262850165
+2025-04-14 21:37:16,234 - ERROR - Error in main loop: 's'
