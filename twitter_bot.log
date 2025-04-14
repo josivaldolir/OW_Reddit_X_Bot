@@ -2082,3 +2082,11 @@ First look at Stadium ranks and ranked skins. Will you be using them?
 2025-04-14 20:39:59,988 - INFO - Downloaded media from https://v.redd.it/k31m0ouejuue1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-04-14 20:40:00,379 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-14 20:40:11,804 - INFO - Posted content successfully. Tweet ID: 1911882197637669086
+2025-04-14 21:14:06,401 - INFO - Content: My Disappointment Is Immeasurable And My Day Is Ruined
+
+2025-04-14 21:14:06,402 - INFO - Image Paths: ['https://external-preview.redd.it/c2Iyaml1NDJidXVlMS7adGoR46Rr1PdQghAx6IKA89VvqnRgI3kGVSzTU7W_.png?format=pjpg&auto=webp&s=7481ef45b7aa9d383e07eb0460225ff4d74d0681']
+2025-04-14 21:14:06,402 - INFO - Video Path: https://v.redd.it/7pxw7v42buue1/DASH_1080.mp4?source=fallback
+2025-04-14 21:14:06,449 - INFO - Downloaded media from https://v.redd.it/7pxw7v42buue1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-14 21:14:06,483 - INFO - Downloaded media from https://v.redd.it/7pxw7v42buue1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-14 21:14:06,967 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-14 21:14:11,619 - INFO - Posted content successfully. Tweet ID: 1911890753262850165
