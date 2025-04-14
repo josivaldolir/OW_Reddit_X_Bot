@@ -1995,3 +1995,11 @@ So what was your first hero to get Play of the game?
 2025-04-14 11:36:09,686 - INFO - Image Paths: []
 2025-04-14 11:36:09,686 - INFO - Video Path: 
 2025-04-14 11:36:09,975 - INFO - Posted content successfully. Tweet ID: 1911745288076927395
+2025-04-14 12:29:58,082 - INFO - Content: Brigitte Shield Bash Cooldown is tied to Barrier Shield Cooldown Time and not Shield Bash Cooldown Time
+
+2025-04-14 12:29:58,082 - INFO - Image Paths: ['https://external-preview.redd.it/eDk5NnF3cDlqc3VlMQ9WksZooqmXISnPEeJa6atveUdBwYLAWPgWPW0mxYtW.png?format=pjpg&auto=webp&s=4ccae52e20b8e0f0af80ff597d03af919737fa1d']
+2025-04-14 12:29:58,082 - INFO - Video Path: https://v.redd.it/sumhaxo9jsue1/DASH_1080.mp4?source=fallback
+2025-04-14 12:29:59,410 - INFO - Downloaded media from https://v.redd.it/sumhaxo9jsue1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-14 12:29:59,528 - INFO - Downloaded media from https://v.redd.it/sumhaxo9jsue1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-14 12:30:02,969 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-14 12:30:18,550 - INFO - Posted content successfully. Tweet ID: 1911758912984125826
