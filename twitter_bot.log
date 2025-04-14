@@ -1944,3 +1944,12 @@ The " Here lies Jack Morrison,Grave" would be so funny to see fall out on killin
 2025-04-14 07:38:50,175 - INFO - Image Paths: []
 2025-04-14 07:38:50,175 - INFO - Video Path: 
 2025-04-14 07:38:50,468 - INFO - Posted content successfully. Tweet ID: 1911685563251662971
+2025-04-14 08:24:34,705 - INFO - Content: The most impressive doomfist POTG I’ve ever seen, in arcade too
+I can't believe I was blessed enough to witness this with my own two eyes 
+2025-04-14 08:24:34,705 - INFO - Image Paths: ['https://external-preview.redd.it/c2EzeHF3eXg5cXVlMUAUs-iJBBPxxvnGRELTC-lthfbIIMhQVrvbRva3se2Z.png?format=pjpg&auto=webp&s=14a4c3ce71155f725e4abb87ee558816d13b8ab0']
+2025-04-14 08:24:34,705 - INFO - Video Path: https://v.redd.it/7ao96wyx9que1/DASH_1080.mp4?source=fallback
+2025-04-14 08:24:34,983 - INFO - Downloaded media from https://v.redd.it/7ao96wyx9que1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-14 08:24:35,069 - INFO - Downloaded media from https://v.redd.it/7ao96wyx9que1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-14 08:24:43,781 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-14 08:24:50,213 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
