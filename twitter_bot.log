@@ -2038,3 +2038,11 @@ Art made by me, [u/t0ska369](https://www.reddit.com/user/t0ska369/) \- OW x Wo
 2025-04-14 15:39:33,235 - INFO - Downloaded media from https://preview.redd.it/in3oqtca5tue1.png?width=1920&format=png&auto=webp&s=17b0dd96afdb0f3441906f7305921600e73a1c8c to temp_image.jpg
 2025-04-14 15:39:33,842 - INFO - Downloaded media from https://preview.redd.it/53kufuca5tue1.png?width=1920&format=png&auto=webp&s=18af24c067908e61e2ab76a5cde4f632de62ace4 to temp_image.jpg
 2025-04-14 15:39:35,820 - INFO - Posted content successfully. Tweet ID: 1911806545228157238
+2025-04-14 16:18:41,536 - INFO - Content: Greatest game mode since OW1
+Your uber is arriving!
+2025-04-14 16:18:41,536 - INFO - Image Paths: ['https://external-preview.redd.it/NHBzZThqZmZkdHVlMYOcgYt1JUVvibmsX7h4TZGwPjd5H6emaQZiTwaNuhWy.png?format=pjpg&auto=webp&s=ea954e27b63e0901f086ed34b2d058ea5fe8a9f7']
+2025-04-14 16:18:41,536 - INFO - Video Path: https://v.redd.it/63n7siffdtue1/DASH_1080.mp4?source=fallback
+2025-04-14 16:18:42,378 - INFO - Downloaded media from https://v.redd.it/63n7siffdtue1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-14 16:18:42,459 - INFO - Downloaded media from https://v.redd.it/63n7siffdtue1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-14 16:18:42,818 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-14 16:18:56,964 - INFO - Posted content successfully. Tweet ID: 1911816452283539967
