@@ -1867,3 +1867,11 @@ Whenever I play solo, if I have a bad game, I swear, people in the text chat leg
 2025-04-14 01:13:24,597 - INFO - Downloaded media from https://v.redd.it/rne1ojb84pue1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-04-14 01:13:24,922 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-14 01:13:31,896 - INFO - Posted content successfully. Tweet ID: 1911588596789674107
+2025-04-14 02:51:10,088 - INFO - Content: Ball Gaming
+
+2025-04-14 02:51:10,088 - INFO - Image Paths: ['https://external-preview.redd.it/cW5iN3Bud201cHVlMTafyVuai6iLIP93QUkhdvwWRosPOAc0AXuuBkgTxP7-.png?format=pjpg&auto=webp&s=78cb7159eaa26b408cf0eb8841bea95daa0babe6']
+2025-04-14 02:51:10,088 - INFO - Video Path: https://v.redd.it/v114hnwm5pue1/DASH_1080.mp4?source=fallback
+2025-04-14 02:51:10,177 - INFO - Downloaded media from https://v.redd.it/v114hnwm5pue1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-14 02:51:10,218 - INFO - Downloaded media from https://v.redd.it/v114hnwm5pue1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-14 02:51:10,434 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-14 02:51:12,552 - INFO - Posted content successfully. Tweet ID: 1911613178200359099
