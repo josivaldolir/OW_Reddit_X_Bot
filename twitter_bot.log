@@ -1976,3 +1976,11 @@ Too Many Requests
 2025-04-14 10:49:17,614 - INFO - Downloaded media from https://preview.redd.it/5g5z7kpvtrue1.jpg?width=1528&format=pjpg&auto=webp&s=c4c3218f51c75518be74bc4707a58c7d40e48e42 to temp_image.jpg
 2025-04-14 10:49:18,402 - INFO - Downloaded media from https://preview.redd.it/eiakhxdwtrue1.jpg?width=686&format=pjpg&auto=webp&s=d9a5acbf1ed2d322d8575508744d7a47e019d7a0 to temp_image.jpg
 2025-04-14 10:49:19,629 - INFO - Posted content successfully. Tweet ID: 1911733499914322205
+2025-04-14 11:13:32,031 - INFO - Content: Stop injecting me with your drugs you vile woman!
+
+2025-04-14 11:13:32,031 - INFO - Image Paths: ['https://external-preview.redd.it/OGp4N3JyNHpvcXVlMV8NZctthQdqK08HDpX1z_Cf8HlmksZMTjkrGRhAKhlW.png?format=pjpg&auto=webp&s=d3e4065ca44251d916fe1ab53ef4237230266875']
+2025-04-14 11:13:32,031 - INFO - Video Path: https://v.redd.it/bkwyil3zoque1/DASH_1080.mp4?source=fallback
+2025-04-14 11:13:32,947 - INFO - Downloaded media from https://v.redd.it/bkwyil3zoque1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-14 11:13:33,070 - INFO - Downloaded media from https://v.redd.it/bkwyil3zoque1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-14 11:13:35,365 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-14 11:13:51,659 - INFO - Posted content successfully. Tweet ID: 1911739674290454711
