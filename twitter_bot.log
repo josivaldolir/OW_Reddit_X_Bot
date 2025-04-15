@@ -2256,3 +2256,9 @@ Too Many Requests
 2025-04-15 13:45:06,294 - INFO - Downloaded media from https://preview.redd.it/99go2shj30ve1.jpeg?auto=webp&s=149cde4accb67e187916c44dfadf64bee45249c9 to temp_image.jpg
 2025-04-15 13:45:07,882 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-15 14:16:53,053 - INFO - Content: The D.Va experience:
+
+2025-04-15 14:16:53,053 - INFO - Image Paths: ['https://preview.redd.it/99go2shj30ve1.jpeg?auto=webp&s=149cde4accb67e187916c44dfadf64bee45249c9']
+2025-04-15 14:16:53,053 - INFO - Video Path: 
+2025-04-15 14:16:53,211 - INFO - Downloaded media from https://preview.redd.it/99go2shj30ve1.jpeg?auto=webp&s=149cde4accb67e187916c44dfadf64bee45249c9 to temp_image.jpg
+2025-04-15 14:16:55,940 - INFO - Posted content successfully. Tweet ID: 1912148131921449024
