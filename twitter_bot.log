@@ -2332,3 +2332,9 @@ All in all I think it goes without saying that the devs have really been hitting
 2025-04-15 17:39:02,411 - INFO - Image Paths: []
 2025-04-15 17:39:02,411 - INFO - Video Path: 
 2025-04-15 17:39:02,747 - INFO - Posted content successfully. Tweet ID: 1912198997562864071
+2025-04-15 18:19:13,475 - INFO - Content: Me on the front lines in WW3 putting my arms up to block enemy fire (it gives me 65% damage reduction)
+
+2025-04-15 18:19:13,475 - INFO - Image Paths: ['https://preview.redd.it/5ejk384mf1ve1.jpeg?auto=webp&s=9230b7c0547f2ca0daedcf4f0a55b9f4818c784d']
+2025-04-15 18:19:13,475 - INFO - Video Path: 
+2025-04-15 18:19:13,531 - INFO - Downloaded media from https://preview.redd.it/5ejk384mf1ve1.jpeg?auto=webp&s=9230b7c0547f2ca0daedcf4f0a55b9f4818c784d to temp_image.jpg
+2025-04-15 18:19:14,734 - INFO - Posted content successfully. Tweet ID: 1912209113452609763
