@@ -2356,3 +2356,11 @@ I'm just doing my rank placement in preparation for the drive event, but man thi
 2025-04-15 20:16:36,363 - INFO - Video Path: 
 2025-04-15 20:16:36,509 - INFO - Downloaded media from https://preview.redd.it/chwfcqomo0ve1.png?auto=webp&s=48be0c5c35d53b7af0f395c1ed4863ad7c29c137 to temp_image.jpg
 2025-04-15 20:16:39,847 - INFO - Posted content successfully. Tweet ID: 1912238655625707976
+2025-04-15 20:39:35,705 - INFO - Content: Most focused Overwatch player
+
+2025-04-15 20:39:35,706 - INFO - Image Paths: ['https://external-preview.redd.it/b2Z6Nm9kOW4yMnZlMfdoHXdbwg4cfUQSjMlzGhjLtQ0NGyhQmMQLu082k9Zf.png?format=pjpg&auto=webp&s=80b29b4bbf0b670977947a961c89e57a12d580e9']
+2025-04-15 20:39:35,706 - INFO - Video Path: https://v.redd.it/rm7o0d9n22ve1/DASH_1080.mp4?source=fallback
+2025-04-15 20:39:36,177 - INFO - Downloaded media from https://v.redd.it/rm7o0d9n22ve1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-15 20:39:36,206 - INFO - Downloaded media from https://v.redd.it/rm7o0d9n22ve1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-15 20:39:36,646 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-15 20:39:40,304 - INFO - Posted content successfully. Tweet ID: 1912244453424713891
