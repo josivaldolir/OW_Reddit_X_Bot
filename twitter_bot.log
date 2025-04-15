@@ -2249,3 +2249,10 @@ I am a very serious Juno main.
 2025-04-15 13:06:08,196 - INFO - Downloaded media from https://preview.redd.it/18dg3lwjnzue1.png?auto=webp&s=1175b88783eea025ff1289e6a399c1e408354949 to temp_image.jpg
 2025-04-15 13:06:09,192 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-15 13:45:06,089 - INFO - Content: The D.Va experience:
+
+2025-04-15 13:45:06,089 - INFO - Image Paths: ['https://preview.redd.it/99go2shj30ve1.jpeg?auto=webp&s=149cde4accb67e187916c44dfadf64bee45249c9']
+2025-04-15 13:45:06,089 - INFO - Video Path: 
+2025-04-15 13:45:06,294 - INFO - Downloaded media from https://preview.redd.it/99go2shj30ve1.jpeg?auto=webp&s=149cde4accb67e187916c44dfadf64bee45249c9 to temp_image.jpg
+2025-04-15 13:45:07,882 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
