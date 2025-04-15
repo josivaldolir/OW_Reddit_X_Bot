@@ -2155,3 +2155,11 @@ Also appears to have a wolf emblem on it, which would fit with the second image 
 2025-04-15 05:15:28,682 - INFO - Video Path: 
 2025-04-15 05:15:28,789 - INFO - Downloaded media from https://preview.redd.it/h8d70kgp3vue1.png?auto=webp&s=7ab681fbcad371e4f9f39823bb97a97effb80d1f to temp_image.jpg
 2025-04-15 05:15:32,333 - INFO - Posted content successfully. Tweet ID: 1912011879830196445
+2025-04-15 05:40:17,374 - INFO - Content: What suprise does Ana and her family have in store for Elon Mus?
+
+2025-04-15 05:40:17,374 - INFO - Image Paths: ['https://external-preview.redd.it/OXdtZDlmNm9yeHVlMSBVvaQip9aFtyya88T6oPkeL-WVK5fdFc-PmRIG3rLN.png?format=pjpg&auto=webp&s=781a667320d270f19b457e02999a4469c761aaaf']
+2025-04-15 05:40:17,374 - INFO - Video Path: https://v.redd.it/9iqy0b5orxue1/DASH_480.mp4?source=fallback
+2025-04-15 05:40:17,647 - INFO - Downloaded media from https://v.redd.it/9iqy0b5orxue1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-04-15 05:40:17,693 - INFO - Downloaded media from https://v.redd.it/9iqy0b5orxue1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-04-15 05:40:17,945 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-15 05:40:21,041 - INFO - Posted content successfully. Tweet ID: 1912018131888886234
