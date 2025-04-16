@@ -2575,3 +2575,15 @@ My predictions are:
 2025-04-16 14:44:23,919 - INFO - Downloaded media from https://preview.redd.it/y2g5ifmcg7ve1.jpeg?auto=webp&s=52028a3ca48d408caeafa76b9da350160d4be866 to temp_image.jpg
 2025-04-16 14:44:24,727 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-16 15:16:25,154 - INFO - Content: With the hero ban coming to the game in the future, who do you think will be the most banned heroes?
+My predictions are:
+-Supports will be divided into baning Widowmaker and Sombra
+
+-Dps will  probably ban moira and zarya
+
+-And all tank players in the game will ban Ana
+2025-04-16 15:16:25,154 - INFO - Image Paths: ['https://preview.redd.it/y2g5ifmcg7ve1.jpeg?auto=webp&s=52028a3ca48d408caeafa76b9da350160d4be866']
+2025-04-16 15:16:25,154 - INFO - Video Path: 
+2025-04-16 15:16:25,175 - INFO - Downloaded media from https://preview.redd.it/y2g5ifmcg7ve1.jpeg?auto=webp&s=52028a3ca48d408caeafa76b9da350160d4be866 to temp_image.jpg
+2025-04-16 15:16:25,948 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
