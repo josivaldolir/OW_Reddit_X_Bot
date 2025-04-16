@@ -2705,3 +2705,11 @@ Needless to say I can't play Doom or Ball too well lmao
 2025-04-16 23:13:59,873 - INFO - Downloaded media from https://v.redd.it/a1krolaow9ve1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-04-16 23:14:03,014 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-16 23:14:06,116 - INFO - Posted content successfully. Tweet ID: 1912645704981573864
+2025-04-16 23:37:21,013 - INFO - Content: This is the first time i see a tank dying on Transcendence and we didn't even had a damage boost nor biotic nade. I genuinely didn't expected his hp to go down when he got through the Bap window lmao
+Just for reference Transcendence heals 300hps (according to the wiki)
+2025-04-16 23:37:21,013 - INFO - Image Paths: ['https://external-preview.redd.it/cWFhMHdjMGRwN3ZlMVjECXD_8KUzAvP0aYdFkutldYvN4DaraG4zn500Pyb6.png?format=pjpg&auto=webp&s=56c0f38b939b5be51fd2441edcfee11d281ecd01']
+2025-04-16 23:37:21,014 - INFO - Video Path: https://v.redd.it/z48r3jwcp7ve1/DASH_1080.mp4?source=fallback
+2025-04-16 23:37:22,364 - INFO - Downloaded media from https://v.redd.it/z48r3jwcp7ve1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-16 23:37:22,515 - INFO - Downloaded media from https://v.redd.it/z48r3jwcp7ve1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-16 23:37:29,041 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-16 23:37:37,511 - INFO - Posted content successfully. Tweet ID: 1912651624738373767
