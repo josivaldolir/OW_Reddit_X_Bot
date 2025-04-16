@@ -2475,3 +2475,11 @@ seen these on other subs and wanted to try (removed the negative ones to prevent
 2025-04-16 07:15:13,202 - INFO - Video Path: 
 2025-04-16 07:15:13,413 - INFO - Downloaded media from https://preview.redd.it/s3n5h3al13ve1.jpeg?auto=webp&s=2fdfc7f8349325d3181f3e3566a03acbc239b4c0 to temp_image.jpg
 2025-04-16 07:15:14,728 - INFO - Posted content successfully. Tweet ID: 1912404400288751657
+2025-04-16 07:38:16,357 - INFO - Content: I copied characters from Overwatch onto paper (basically completely copying the original concept). How do you feel about this?
+
+2025-04-16 07:38:16,357 - INFO - Image Paths: ['https://preview.redd.it/2656jkp4p4ve1.jpg?width=2560&format=pjpg&auto=webp&s=1d11be9da9ac2adc3d34729e52d8b4739585c8c0', 'https://preview.redd.it/29arr3x4p4ve1.jpg?width=1920&format=pjpg&auto=webp&s=34e55d7c9fb5ba6ebf72fe4d82f97c954070191c']
+2025-04-16 07:38:16,357 - INFO - Video Path: 
+2025-04-16 07:38:16,540 - INFO - Downloaded media from https://preview.redd.it/2656jkp4p4ve1.jpg?width=2560&format=pjpg&auto=webp&s=1d11be9da9ac2adc3d34729e52d8b4739585c8c0 to temp_image.jpg
+2025-04-16 07:38:17,465 - INFO - Downloaded media from https://preview.redd.it/29arr3x4p4ve1.jpg?width=1920&format=pjpg&auto=webp&s=34e55d7c9fb5ba6ebf72fe4d82f97c954070191c to temp_image.jpg
+2025-04-16 07:38:18,361 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
