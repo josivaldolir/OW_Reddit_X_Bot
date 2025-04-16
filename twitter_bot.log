@@ -2670,3 +2670,9 @@ Here's the Figma design prototype where you can scroll the feed and hover on UI 
 2025-04-16 20:39:54,613 - INFO - Downloaded media from https://preview.redd.it/cky6fc1z39ve1.png?width=1440&format=png&auto=webp&s=90ff88edeab616c67fb44e4402d3a02f61a1347a to temp_image.jpg
 2025-04-16 20:39:55,060 - INFO - Downloaded media from https://preview.redd.it/f69blq8049ve1.png?width=1440&format=png&auto=webp&s=079d83cf01dfcc912100f55d90eab28abe2d5de2 to temp_image.jpg
 2025-04-16 20:39:56,634 - INFO - Posted content successfully. Tweet ID: 1912606906746622461
+2025-04-16 21:14:31,312 - INFO - Content: Faith in Overwatch restored 👌🏻
+
+2025-04-16 21:14:31,312 - INFO - Image Paths: ['https://preview.redd.it/sh9e5mol09ve1.jpeg?auto=webp&s=7edd670e42a1bc8d6ab8533c510149c733785c93']
+2025-04-16 21:14:31,312 - INFO - Video Path: 
+2025-04-16 21:14:31,396 - INFO - Downloaded media from https://preview.redd.it/sh9e5mol09ve1.jpeg?auto=webp&s=7edd670e42a1bc8d6ab8533c510149c733785c93 to temp_image.jpg
+2025-04-16 21:14:33,223 - INFO - Posted content successfully. Tweet ID: 1912615618337235408
