@@ -2506,3 +2506,12 @@ Too Many Requests
 2025-04-16 09:16:50,030 - INFO - Downloaded media from https://preview.redd.it/2656jkp4p4ve1.jpg?width=2560&format=pjpg&auto=webp&s=1d11be9da9ac2adc3d34729e52d8b4739585c8c0 to temp_image.jpg
 2025-04-16 09:16:51,760 - INFO - Downloaded media from https://preview.redd.it/29arr3x4p4ve1.jpg?width=1920&format=pjpg&auto=webp&s=34e55d7c9fb5ba6ebf72fe4d82f97c954070191c to temp_image.jpg
 2025-04-16 09:16:53,887 - INFO - Posted content successfully. Tweet ID: 1912435013595095180
+2025-04-16 09:40:52,708 - INFO - Content: Awareness levels of a plat 1 Ramattra.
+ I've never been so angry at another player in my life. How is this guy almost diamond?
+2025-04-16 09:40:52,709 - INFO - Image Paths: ['https://external-preview.redd.it/b3k5cmoydHJxM3ZlMfSnlADfQ1Es96yEDbJGT1flCu4f2onpvLnNiQUnPr9t.png?format=pjpg&auto=webp&s=e9564e99437cca75294b99b4ad2ea792432dc53b']
+2025-04-16 09:40:52,709 - INFO - Video Path: https://v.redd.it/1wk8z2trq3ve1/DASH_1080.mp4?source=fallback
+2025-04-16 09:40:52,967 - INFO - Downloaded media from https://v.redd.it/1wk8z2trq3ve1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-16 09:40:53,009 - INFO - Downloaded media from https://v.redd.it/1wk8z2trq3ve1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-16 09:40:53,357 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-16 09:41:00,346 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
