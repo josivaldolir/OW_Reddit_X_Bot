@@ -2515,3 +2515,10 @@ Too Many Requests
 2025-04-16 09:40:53,357 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-16 09:41:00,346 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-16 10:20:13,864 - INFO - Content: I need healing
+
+2025-04-16 10:20:13,864 - INFO - Image Paths: ['https://preview.redd.it/b8bt5r1f46ve1.jpeg?auto=webp&s=f593e10734c8c95868ef0b28fb9e16edbae012f6']
+2025-04-16 10:20:13,864 - INFO - Video Path: 
+2025-04-16 10:20:14,001 - INFO - Downloaded media from https://preview.redd.it/b8bt5r1f46ve1.jpeg?auto=webp&s=f593e10734c8c95868ef0b28fb9e16edbae012f6 to temp_image.jpg
+2025-04-16 10:20:14,705 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
