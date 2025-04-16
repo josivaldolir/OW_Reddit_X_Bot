@@ -2556,3 +2556,10 @@ Too Many Requests
 2025-04-16 13:06:01,481 - INFO - Video Path: 
 2025-04-16 13:06:01,536 - INFO - Downloaded media from https://preview.redd.it/b8bt5r1f46ve1.jpeg?auto=webp&s=f593e10734c8c95868ef0b28fb9e16edbae012f6 to temp_image.jpg
 2025-04-16 13:06:02,974 - INFO - Posted content successfully. Tweet ID: 1912492682934644975
+2025-04-16 14:16:55,079 - INFO - Content: What are your least played heros?
+Needless to say I can't play Doom or Ball too well lmao
+2025-04-16 14:16:55,079 - INFO - Image Paths: ['https://preview.redd.it/5r0ecxp2z6ve1.png?auto=webp&s=cad340df00e11314038dd26617c7f99097a00937']
+2025-04-16 14:16:55,079 - INFO - Video Path: 
+2025-04-16 14:16:55,280 - INFO - Downloaded media from https://preview.redd.it/5r0ecxp2z6ve1.png?auto=webp&s=cad340df00e11314038dd26617c7f99097a00937 to temp_image.jpg
+2025-04-16 14:16:55,983 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
