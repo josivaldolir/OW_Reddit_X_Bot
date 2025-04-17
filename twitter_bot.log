@@ -2975,3 +2975,11 @@ both images by @OWCavalry on twitter
 2025-04-17 22:39:36,273 - INFO - Video Path: 
 2025-04-17 22:39:36,295 - INFO - Downloaded media from https://preview.redd.it/y68yaxtvzgve1.jpeg?auto=webp&s=14e53a86a80eebe113ccaa4afa1fd773457fa89c to temp_image.jpg
 2025-04-17 22:39:38,391 - INFO - Posted content successfully. Tweet ID: 1912999419818942602
+2025-04-17 23:14:00,781 - INFO - Content: Mercy gains a another Glock with her new perk!
+
+2025-04-17 23:14:00,781 - INFO - Image Paths: ['https://external-preview.redd.it/dXIxMWN0Zmx5Z3ZlMRjpxoaa5IbF-FsjS51eYpDiB6f8535BdiVJ6uHFBvMX.png?format=pjpg&auto=webp&s=edf3dc6156b597bd8a3f892394b946ea878f9ce6']
+2025-04-17 23:14:00,781 - INFO - Video Path: https://v.redd.it/3pbtgqflygve1/DASH_1080.mp4?source=fallback
+2025-04-17 23:14:01,396 - INFO - Downloaded media from https://v.redd.it/3pbtgqflygve1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-17 23:14:01,485 - INFO - Downloaded media from https://v.redd.it/3pbtgqflygve1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-17 23:14:01,822 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-17 23:14:07,777 - INFO - Posted content successfully. Tweet ID: 1913008099759456325
