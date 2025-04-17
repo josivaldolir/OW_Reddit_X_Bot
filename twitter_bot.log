@@ -2942,3 +2942,11 @@ First 4 slides are battle pass skins. Last 6 are shop skins. Ana is getting the 
 2025-04-17 20:16:45,181 - INFO - Video Path: 
 2025-04-17 20:16:45,228 - INFO - Downloaded media from https://preview.redd.it/r3cti9nvagve1.jpeg?auto=webp&s=d0d6eb9e0ba1a0aa55cbb75ac1a5374ff8962245 to temp_image.jpg
 2025-04-17 20:16:46,058 - INFO - Posted content successfully. Tweet ID: 1912963465142210848
+2025-04-17 20:39:25,297 - INFO - Content: New battle pass and shop skins, plus new mythic aspects.
+
+2025-04-17 20:39:25,297 - INFO - Image Paths: ['https://external-preview.redd.it/dzl1MGx6bng5ZnZlMd6QdlX9eWx9NQoqbblwfiZgPcs37ZlLE_cZk6A6zlS1.png?format=pjpg&auto=webp&s=39a615351996e921a55552c15d7bd2347d68c4c3']
+2025-04-17 20:39:25,297 - INFO - Video Path: https://v.redd.it/mbht27lx9fve1/DASH_720.mp4?source=fallback
+2025-04-17 20:39:25,480 - INFO - Downloaded media from https://v.redd.it/mbht27lx9fve1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-04-17 20:39:25,528 - INFO - Downloaded media from https://v.redd.it/mbht27lx9fve1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-04-17 20:39:29,365 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-17 20:39:42,216 - INFO - Posted content successfully. Tweet ID: 1912969237255106879
