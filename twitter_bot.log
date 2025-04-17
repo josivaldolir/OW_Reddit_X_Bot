@@ -2762,3 +2762,11 @@ hi everyone! this is my first time posting here. i made this pixel art inspired 
 2025-04-17 06:22:45,174 - INFO - Downloaded media from https://preview.redd.it/9m7fx34rvave1.png?auto=webp&s=9c504300505c99b43c0ba661f60659583867d9aa to temp_image.jpg
 2025-04-17 06:22:51,038 - ERROR - Failed to post content: 400 Bad Request
 Your media IDs are invalid.
+2025-04-17 06:46:44,959 - INFO - Content: Live footage of Juno crashlanding in Dorado
+The other day a meteorito flew over southern mexico lmao
+2025-04-17 06:46:44,959 - INFO - Image Paths: ['https://external-preview.redd.it/b2RqNTcybDY0Y3ZlMa8FRg264P30_fHI8RCbkYvc3Z8yPwv-mAwRFpD6bUjd.png?format=pjpg&auto=webp&s=a5ba7e1de3bfe64ad86ff28748470a04adbf33a4']
+2025-04-17 06:46:44,959 - INFO - Video Path: https://v.redd.it/p9kp9gk64cve1/DASH_720.mp4?source=fallback
+2025-04-17 06:46:45,742 - INFO - Downloaded media from https://v.redd.it/p9kp9gk64cve1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-04-17 06:46:45,837 - INFO - Downloaded media from https://v.redd.it/p9kp9gk64cve1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-04-17 06:46:46,943 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-17 06:46:59,112 - INFO - Posted content successfully. Tweet ID: 1912759676661379453
