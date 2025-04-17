@@ -2726,3 +2726,11 @@ But it seems to happen a LOT. Even when open queue was 5v5, Quick play or comp, 
 2025-04-17 02:48:05,736 - INFO - Image Paths: []
 2025-04-17 02:48:05,736 - INFO - Video Path: 
 2025-04-17 02:48:06,047 - INFO - Posted content successfully. Tweet ID: 1912699559643324910
+2025-04-17 03:32:45,466 - INFO - Content: my potg is killing me 😭😭
+
+2025-04-17 03:32:45,466 - INFO - Image Paths: ['https://external-preview.redd.it/ZWs3ZTkza2tqYXZlMcv0WyWi7FVvixg8y8NerxX0dB_sijEHKfuuwgBTT04P.png?format=pjpg&auto=webp&s=b510b88b21f2360ec31aa5dae2b58b697ec6ff8a']
+2025-04-17 03:32:45,466 - INFO - Video Path: https://v.redd.it/kcyj8yskjave1/DASH_720.mp4?source=fallback
+2025-04-17 03:32:45,910 - INFO - Downloaded media from https://v.redd.it/kcyj8yskjave1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-04-17 03:32:45,984 - INFO - Downloaded media from https://v.redd.it/kcyj8yskjave1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-04-17 03:32:50,133 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-17 03:32:57,332 - INFO - Posted content successfully. Tweet ID: 1912710847639793920
