@@ -2907,3 +2907,11 @@ Too Many Requests
 2025-04-17 17:13:50,083 - INFO - Downloaded media from https://preview.redd.it/1c9hy2tfleve1.jpg?width=1200&format=pjpg&auto=webp&s=155ce5c320002d14ad0952de225118bba5d347bb to temp_image.jpg
 2025-04-17 17:13:50,645 - INFO - Downloaded media from https://preview.redd.it/5dif43tfleve1.jpg?width=1023&format=pjpg&auto=webp&s=c31a133a1ed91ad7af66490b7289f21fa918a44a to temp_image.jpg
 2025-04-17 17:13:51,689 - INFO - Posted content successfully. Tweet ID: 1912917435004371447
+2025-04-17 17:39:17,716 - INFO - Content: Season 16 Roadmap
+
+2025-04-17 17:39:17,716 - INFO - Image Paths: ['https://preview.redd.it/9t44526k8fve1.jpg?width=1920&format=pjpg&auto=webp&s=89589b3f147bffe399dc20a06f0e1a0127eca9f5', 'https://preview.redd.it/5wom929k8fve1.jpg?width=2160&format=pjpg&auto=webp&s=0666cba8c235230b7848729e8cd28e3bcf8b47a4', 'https://preview.redd.it/1l5ew0ck8fve1.jpg?width=3840&format=pjpg&auto=webp&s=f163205713be33dc325b6a602677f3fb13cb895c']
+2025-04-17 17:39:17,716 - INFO - Video Path: 
+2025-04-17 17:39:17,814 - INFO - Downloaded media from https://preview.redd.it/9t44526k8fve1.jpg?width=1920&format=pjpg&auto=webp&s=89589b3f147bffe399dc20a06f0e1a0127eca9f5 to temp_image.jpg
+2025-04-17 17:39:18,526 - INFO - Downloaded media from https://preview.redd.it/5wom929k8fve1.jpg?width=2160&format=pjpg&auto=webp&s=0666cba8c235230b7848729e8cd28e3bcf8b47a4 to temp_image.jpg
+2025-04-17 17:39:19,437 - INFO - Downloaded media from https://preview.redd.it/1l5ew0ck8fve1.jpg?width=3840&format=pjpg&auto=webp&s=f163205713be33dc325b6a602677f3fb13cb895c to temp_image.jpg
+2025-04-17 17:39:21,783 - INFO - Posted content successfully. Tweet ID: 1912923850486001779
