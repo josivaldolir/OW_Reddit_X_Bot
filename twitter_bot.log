@@ -2805,3 +2805,11 @@ hi everyone! this is my first time posting here. i made this pixel art inspired 
 2025-04-17 09:39:37,360 - INFO - Downloaded media from https://preview.redd.it/9m7fx34rvave1.png?auto=webp&s=9c504300505c99b43c0ba661f60659583867d9aa to temp_image.jpg
 2025-04-17 09:39:42,619 - ERROR - Failed to post content: 400 Bad Request
 Your media IDs are invalid.
+2025-04-17 10:16:17,940 - INFO - Content: Doing Dva and Mauga ultis combo with my son 🥰
+
+2025-04-17 10:16:17,940 - INFO - Image Paths: ['https://external-preview.redd.it/YnZ0ZnB0bm4wY3ZlMXVdNVeoZVXIhm72mO_iFc1wR1QOQdYOBwGtI4rkaDxM.png?format=pjpg&auto=webp&s=1d1bca1bddbdad804fdd4a2df476d724bfab83c6']
+2025-04-17 10:16:17,940 - INFO - Video Path: https://v.redd.it/ggi37qmn0cve1/DASH_480.mp4?source=fallback
+2025-04-17 10:16:18,052 - INFO - Downloaded media from https://v.redd.it/ggi37qmn0cve1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-04-17 10:16:18,125 - INFO - Downloaded media from https://v.redd.it/ggi37qmn0cve1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-04-17 10:16:18,547 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-17 10:16:25,725 - INFO - Posted content successfully. Tweet ID: 1912812385003274277
