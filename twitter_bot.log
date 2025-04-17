@@ -2798,3 +2798,10 @@ hi everyone! this is my first time posting here. i made this pixel art inspired 
 2025-04-17 09:16:34,091 - INFO - Downloaded media from https://preview.redd.it/9m7fx34rvave1.png?auto=webp&s=9c504300505c99b43c0ba661f60659583867d9aa to temp_image.jpg
 2025-04-17 09:16:38,798 - ERROR - Failed to post content: 400 Bad Request
 Your media IDs are invalid.
+2025-04-17 09:39:37,302 - INFO - Content: Pixelart Honor and Glory
+hi everyone! this is my first time posting here. i made this pixel art inspired by the "Honor and Glory" cinematic. I hope you like it
+2025-04-17 09:39:37,302 - INFO - Image Paths: ['https://preview.redd.it/9m7fx34rvave1.png?auto=webp&s=9c504300505c99b43c0ba661f60659583867d9aa']
+2025-04-17 09:39:37,302 - INFO - Video Path: 
+2025-04-17 09:39:37,360 - INFO - Downloaded media from https://preview.redd.it/9m7fx34rvave1.png?auto=webp&s=9c504300505c99b43c0ba661f60659583867d9aa to temp_image.jpg
+2025-04-17 09:39:42,619 - ERROR - Failed to post content: 400 Bad Request
+Your media IDs are invalid.
