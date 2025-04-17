@@ -2867,3 +2867,9 @@ Too Many Requests
 2025-04-17 14:41:23,209 - INFO - Downloaded media from https://preview.redd.it/df9ibb9izdve1.jpeg?auto=webp&s=eafabf0925593d3b3cafcd544df45ab0a6f416b7 to temp_image.jpg
 2025-04-17 14:41:24,629 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-17 15:16:54,296 - INFO - Content: Stupid Lucio with his stupid boop
+
+2025-04-17 15:16:54,296 - INFO - Image Paths: ['https://preview.redd.it/df9ibb9izdve1.jpeg?auto=webp&s=eafabf0925593d3b3cafcd544df45ab0a6f416b7']
+2025-04-17 15:16:54,296 - INFO - Video Path: 
+2025-04-17 15:16:54,380 - INFO - Downloaded media from https://preview.redd.it/df9ibb9izdve1.jpeg?auto=webp&s=eafabf0925593d3b3cafcd544df45ab0a6f416b7 to temp_image.jpg
+2025-04-17 15:16:56,098 - INFO - Posted content successfully. Tweet ID: 1912888008854135286
