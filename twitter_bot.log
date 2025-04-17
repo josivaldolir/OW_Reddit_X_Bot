@@ -2891,3 +2891,11 @@ Too Many Requests
 2025-04-17 16:19:04,448 - INFO - Downloaded media from https://preview.redd.it/5dif43tfleve1.jpg?width=1023&format=pjpg&auto=webp&s=c31a133a1ed91ad7af66490b7289f21fa918a44a to temp_image.jpg
 2025-04-17 16:19:05,229 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-17 16:46:27,295 - INFO - Content: Proof that overwatch does get you girls
+
+2025-04-17 16:46:27,295 - INFO - Image Paths: ['https://external-preview.redd.it/Nnh5bmUxb2pmZXZlMY_eerVcAlJ6I-FWFEAtMCV69y-IqlHHWCkeKIJRTSvB.png?format=pjpg&auto=webp&s=2e52e7fa13118b1adbf1b03ebde33c219352ef8a']
+2025-04-17 16:46:27,295 - INFO - Video Path: https://v.redd.it/ttzryhsjfeve1/DASH_1080.mp4?source=fallback
+2025-04-17 16:46:27,409 - INFO - Downloaded media from https://v.redd.it/ttzryhsjfeve1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-17 16:46:27,436 - INFO - Downloaded media from https://v.redd.it/ttzryhsjfeve1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-17 16:46:27,769 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-17 16:46:33,513 - INFO - Posted content successfully. Tweet ID: 1912910564327579654
