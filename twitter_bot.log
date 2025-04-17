@@ -2882,3 +2882,12 @@ Too Many Requests
 2025-04-17 15:39:08,915 - INFO - Downloaded media from https://preview.redd.it/5dif43tfleve1.jpg?width=1023&format=pjpg&auto=webp&s=c31a133a1ed91ad7af66490b7289f21fa918a44a to temp_image.jpg
 2025-04-17 15:39:09,498 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-17 16:19:03,010 - INFO - Content: First official “Dokiwatch” and Rock demons skins in-game look
+
+2025-04-17 16:19:03,010 - INFO - Image Paths: ['https://preview.redd.it/0ade73tfleve1.jpg?width=1195&format=pjpg&auto=webp&s=5f6b2c38a5bf76de02b569266094b726eda37436', 'https://preview.redd.it/1c9hy2tfleve1.jpg?width=1200&format=pjpg&auto=webp&s=155ce5c320002d14ad0952de225118bba5d347bb', 'https://preview.redd.it/5dif43tfleve1.jpg?width=1023&format=pjpg&auto=webp&s=c31a133a1ed91ad7af66490b7289f21fa918a44a']
+2025-04-17 16:19:03,010 - INFO - Video Path: 
+2025-04-17 16:19:03,092 - INFO - Downloaded media from https://preview.redd.it/0ade73tfleve1.jpg?width=1195&format=pjpg&auto=webp&s=5f6b2c38a5bf76de02b569266094b726eda37436 to temp_image.jpg
+2025-04-17 16:19:03,800 - INFO - Downloaded media from https://preview.redd.it/1c9hy2tfleve1.jpg?width=1200&format=pjpg&auto=webp&s=155ce5c320002d14ad0952de225118bba5d347bb to temp_image.jpg
+2025-04-17 16:19:04,448 - INFO - Downloaded media from https://preview.redd.it/5dif43tfleve1.jpg?width=1023&format=pjpg&auto=webp&s=c31a133a1ed91ad7af66490b7289f21fa918a44a to temp_image.jpg
+2025-04-17 16:19:05,229 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
