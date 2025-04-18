@@ -3133,3 +3133,10 @@ Too Many Requests
 2025-04-18 12:29:11,034 - INFO - Downloaded media from https://preview.redd.it/njj4ik5orkve1.png?auto=webp&s=a01cf36ef0a91fe5fc5b9721a8c4957601aaf282 to temp_image.jpg
 2025-04-18 12:29:12,058 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-18 13:02:01,061 - INFO - Content: Juno’s mythic skin season 16
+I’m so excited! Here’s a close up for anyone who hasn’t gotten to see it yet
+2025-04-18 13:02:01,061 - INFO - Image Paths: ['https://preview.redd.it/wr48k6us0lve1.jpg?width=2048&format=pjpg&auto=webp&s=768f3b1791d35de49a38c8fd306ac6423bc106f3', 'https://preview.redd.it/r8n486us0lve1.jpg?width=2048&format=pjpg&auto=webp&s=f087d7f9c8a88b338e4fce7fee74ab4e6fa78a34']
+2025-04-18 13:02:01,061 - INFO - Video Path: 
+2025-04-18 13:02:01,374 - INFO - Downloaded media from https://preview.redd.it/wr48k6us0lve1.jpg?width=2048&format=pjpg&auto=webp&s=768f3b1791d35de49a38c8fd306ac6423bc106f3 to temp_image.jpg
+2025-04-18 13:02:02,241 - INFO - Downloaded media from https://preview.redd.it/r8n486us0lve1.jpg?width=2048&format=pjpg&auto=webp&s=f087d7f9c8a88b338e4fce7fee74ab4e6fa78a34 to temp_image.jpg
+2025-04-18 13:02:03,896 - INFO - Posted content successfully. Tweet ID: 1913216455413535065
