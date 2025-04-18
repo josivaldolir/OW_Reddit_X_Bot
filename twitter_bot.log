@@ -3003,3 +3003,11 @@ B and C I almost considered merging into one group
 2025-04-18 02:44:45,878 - INFO - Video Path: 
 2025-04-18 02:44:45,956 - INFO - Downloaded media from https://preview.redd.it/3jq30ejs7hve1.jpeg?auto=webp&s=3af23f58edd8902c6802686d3702fc10ca316bb4 to temp_image.jpg
 2025-04-18 02:44:46,920 - INFO - Posted content successfully. Tweet ID: 1913061112028737924
+2025-04-18 03:31:08,560 - INFO - Content: Juno mythic skin has 3 hairstyle options
+Also sad that they didn’t keep the glowing skirt in the concept art :(
+2025-04-18 03:31:08,560 - INFO - Image Paths: ['https://preview.redd.it/9hl3daap6hve1.jpg?width=1179&format=pjpg&auto=webp&s=38cee4711d54ab52eb1c0e8c59755889dc9abead', 'https://preview.redd.it/w9nfze9p6hve1.jpg?width=1179&format=pjpg&auto=webp&s=0bb0bd80cf35b421e997d49ce92128bc05b3a0ec', 'https://preview.redd.it/6lz7mf9p6hve1.jpg?width=1061&format=pjpg&auto=webp&s=8e8361aa7b2955cb22f5776065e92088ad955e3c']
+2025-04-18 03:31:08,560 - INFO - Video Path: 
+2025-04-18 03:31:08,838 - INFO - Downloaded media from https://preview.redd.it/9hl3daap6hve1.jpg?width=1179&format=pjpg&auto=webp&s=38cee4711d54ab52eb1c0e8c59755889dc9abead to temp_image.jpg
+2025-04-18 03:31:09,875 - INFO - Downloaded media from https://preview.redd.it/w9nfze9p6hve1.jpg?width=1179&format=pjpg&auto=webp&s=0bb0bd80cf35b421e997d49ce92128bc05b3a0ec to temp_image.jpg
+2025-04-18 03:31:10,772 - INFO - Downloaded media from https://preview.redd.it/6lz7mf9p6hve1.jpg?width=1061&format=pjpg&auto=webp&s=8e8361aa7b2955cb22f5776065e92088ad955e3c to temp_image.jpg
+2025-04-18 03:31:11,930 - INFO - Posted content successfully. Tweet ID: 1913072792737624395
