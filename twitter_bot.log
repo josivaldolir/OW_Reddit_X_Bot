@@ -3067,3 +3067,11 @@ Good riddance you blue annoyance! Never come back please
 2025-04-18 06:22:07,554 - INFO - Downloaded media from https://preview.redd.it/xnmfeuvy0jve1.png?width=1130&format=png&auto=webp&s=31f4137adc7ff8ba3b5d80fe4a799c1463caa292 to temp_image.jpg
 2025-04-18 06:22:08,098 - INFO - Downloaded media from https://preview.redd.it/cfdwx3051jve1.png?width=931&format=png&auto=webp&s=2e08870e1c0afc7579321b802296575d6150f0be to temp_image.jpg
 2025-04-18 06:22:09,205 - INFO - Posted content successfully. Tweet ID: 1913115814422602225
+2025-04-18 06:46:22,136 - INFO - Content: Hero Bans
+
+2025-04-18 06:46:22,136 - INFO - Image Paths: ['https://external-preview.redd.it/ZzE4eW5jbHZyaXZlMetyqC81CwPNXfYqy-EwVO7R3EaY_vMLizu2oEHyttU6.png?format=pjpg&auto=webp&s=ae5f746ad64121c341c4081251eab57254ca8bad']
+2025-04-18 06:46:22,136 - INFO - Video Path: https://v.redd.it/0w00yblvrive1/DASH_720.mp4?source=fallback
+2025-04-18 06:46:22,318 - INFO - Downloaded media from https://v.redd.it/0w00yblvrive1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-04-18 06:46:22,412 - INFO - Downloaded media from https://v.redd.it/0w00yblvrive1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-04-18 06:46:22,873 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-18 06:46:26,233 - INFO - Posted content successfully. Tweet ID: 1913121926790209794
