@@ -3191,3 +3191,9 @@ And when they're releasing him?
 2025-04-18 16:43:13,320 - INFO - Downloaded media from https://preview.redd.it/00hvumrb4mve1.jpeg?auto=webp&s=d7c651090af885608c0128cd49db4be5af79b0ee to temp_image.jpg
 2025-04-18 16:43:14,066 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-18 17:12:56,771 - INFO - Content: Yo, who's Bans?
+And when they're releasing him?
+2025-04-18 17:12:56,772 - INFO - Image Paths: ['https://preview.redd.it/00hvumrb4mve1.jpeg?auto=webp&s=d7c651090af885608c0128cd49db4be5af79b0ee']
+2025-04-18 17:12:56,772 - INFO - Video Path: 
+2025-04-18 17:12:56,795 - INFO - Downloaded media from https://preview.redd.it/00hvumrb4mve1.jpeg?auto=webp&s=d7c651090af885608c0128cd49db4be5af79b0ee to temp_image.jpg
+2025-04-18 17:12:57,702 - INFO - Posted content successfully. Tweet ID: 1913279596654637108
