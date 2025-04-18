@@ -3147,3 +3147,9 @@ I’m so excited! Here’s a close up for anyone who hasn’t gotten to see it y
 2025-04-18 13:41:49,786 - INFO - Downloaded media from https://preview.redd.it/njj4ik5orkve1.png?auto=webp&s=a01cf36ef0a91fe5fc5b9721a8c4957601aaf282 to temp_image.jpg
 2025-04-18 13:41:50,957 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-18 14:13:48,289 - INFO - Content: Magical Girl Summer
+
+2025-04-18 14:13:48,289 - INFO - Image Paths: ['https://preview.redd.it/njj4ik5orkve1.png?auto=webp&s=a01cf36ef0a91fe5fc5b9721a8c4957601aaf282']
+2025-04-18 14:13:48,289 - INFO - Video Path: 
+2025-04-18 14:13:48,602 - INFO - Downloaded media from https://preview.redd.it/njj4ik5orkve1.png?auto=webp&s=a01cf36ef0a91fe5fc5b9721a8c4957601aaf282 to temp_image.jpg
+2025-04-18 14:13:50,389 - INFO - Posted content successfully. Tweet ID: 1913234516006850891
