@@ -3205,3 +3205,12 @@ And when they're releasing him?
 2025-04-18 17:38:05,160 - INFO - Downloaded media from https://v.redd.it/d9a3y5qfqmve1/DASH_480.mp4?source=fallback to temp_audio.mp4
 2025-04-18 17:38:05,596 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-18 17:38:09,951 - INFO - Posted content successfully. Tweet ID: 1913285939629003047
+2025-04-18 18:20:00,287 - INFO - Content: Hazard and doomfist if they swapped arms
+Extra spiked variant because hazards VA requested it on twitter
+2025-04-18 18:20:00,287 - INFO - Image Paths: ['https://preview.redd.it/5jb5f5r68mve1.jpg?width=2048&format=pjpg&auto=webp&s=478d9d22ea08c6db5cebc6ee87972fd4650ea3be', 'https://preview.redd.it/eugpgna78mve1.jpg?width=1688&format=pjpg&auto=webp&s=957584614921eb6e19ece8186449312e71d58661', 'https://preview.redd.it/dmz1nzn78mve1.jpg?width=1354&format=pjpg&auto=webp&s=86099da310da34ac26e533c7180e55cb61511274', 'https://preview.redd.it/et1q0ww78mve1.jpg?width=1345&format=pjpg&auto=webp&s=04ab570d7ba5ceb5db498a8ee9a83bbb685dc1ce']
+2025-04-18 18:20:00,287 - INFO - Video Path: 
+2025-04-18 18:20:00,551 - INFO - Downloaded media from https://preview.redd.it/5jb5f5r68mve1.jpg?width=2048&format=pjpg&auto=webp&s=478d9d22ea08c6db5cebc6ee87972fd4650ea3be to temp_image.jpg
+2025-04-18 18:20:01,474 - INFO - Downloaded media from https://preview.redd.it/eugpgna78mve1.jpg?width=1688&format=pjpg&auto=webp&s=957584614921eb6e19ece8186449312e71d58661 to temp_image.jpg
+2025-04-18 18:20:02,301 - INFO - Downloaded media from https://preview.redd.it/dmz1nzn78mve1.jpg?width=1354&format=pjpg&auto=webp&s=86099da310da34ac26e533c7180e55cb61511274 to temp_image.jpg
+2025-04-18 18:20:02,960 - INFO - Downloaded media from https://preview.redd.it/et1q0ww78mve1.jpg?width=1345&format=pjpg&auto=webp&s=04ab570d7ba5ceb5db498a8ee9a83bbb685dc1ce to temp_image.jpg
+2025-04-18 18:20:04,470 - INFO - Posted content successfully. Tweet ID: 1913296485623673017
