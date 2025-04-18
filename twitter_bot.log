@@ -3170,3 +3170,10 @@ Too Many Requests
 2025-04-18 15:15:07,681 - INFO - Downloaded media from https://v.redd.it/gcbi39u9rlve1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-04-18 15:15:08,434 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-18 15:15:18,406 - INFO - Posted content successfully. Tweet ID: 1913249987955429819
+2025-04-18 15:39:29,769 - INFO - Content: Overwatch hero skins tier list (based on rate output)
+Can you tell I'm tired of the same characters always getting skins...
+2025-04-18 15:39:29,769 - INFO - Image Paths: ['https://preview.redd.it/84i3hanf2kve1.png?auto=webp&s=c85f84a0927f33667190846f62a86246e2aa87c3']
+2025-04-18 15:39:29,769 - INFO - Video Path: 
+2025-04-18 15:39:29,805 - INFO - Downloaded media from https://preview.redd.it/84i3hanf2kve1.png?auto=webp&s=c85f84a0927f33667190846f62a86246e2aa87c3 to temp_image.jpg
+2025-04-18 15:39:30,419 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
