@@ -3105,3 +3105,10 @@ This is mark 2 of my cosplay, I think it came out pretty well 😙
 2025-04-18 09:39:06,365 - INFO - Video Path: 
 2025-04-18 09:39:06,502 - INFO - Downloaded media from https://preview.redd.it/ipedrkj27kve1.jpeg?auto=webp&s=29619482933fb93e99d6d4bd318f8f0cdbb59600 to temp_image.jpg
 2025-04-18 09:39:08,061 - INFO - Posted content successfully. Tweet ID: 1913165386104586604
+2025-04-18 10:43:45,024 - INFO - Content: Overwatch hero skins tier list (based on rate output)
+Can you tell I'm tired of the same characters always getting skins...
+2025-04-18 10:43:45,025 - INFO - Image Paths: ['https://preview.redd.it/84i3hanf2kve1.png?auto=webp&s=c85f84a0927f33667190846f62a86246e2aa87c3']
+2025-04-18 10:43:45,025 - INFO - Video Path: 
+2025-04-18 10:43:45,264 - INFO - Downloaded media from https://preview.redd.it/84i3hanf2kve1.png?auto=webp&s=c85f84a0927f33667190846f62a86246e2aa87c3 to temp_image.jpg
+2025-04-18 10:43:46,009 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
