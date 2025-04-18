@@ -3126,3 +3126,10 @@ Too Many Requests
 2025-04-18 11:36:39,342 - INFO - Downloaded media from https://preview.redd.it/njj4ik5orkve1.png?auto=webp&s=a01cf36ef0a91fe5fc5b9721a8c4957601aaf282 to temp_image.jpg
 2025-04-18 11:36:40,312 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-18 12:29:11,005 - INFO - Content: Magical Girl Summer
+
+2025-04-18 12:29:11,005 - INFO - Image Paths: ['https://preview.redd.it/njj4ik5orkve1.png?auto=webp&s=a01cf36ef0a91fe5fc5b9721a8c4957601aaf282']
+2025-04-18 12:29:11,005 - INFO - Video Path: 
+2025-04-18 12:29:11,034 - INFO - Downloaded media from https://preview.redd.it/njj4ik5orkve1.png?auto=webp&s=a01cf36ef0a91fe5fc5b9721a8c4957601aaf282 to temp_image.jpg
+2025-04-18 12:29:12,058 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
