@@ -3112,3 +3112,10 @@ Can you tell I'm tired of the same characters always getting skins...
 2025-04-18 10:43:45,264 - INFO - Downloaded media from https://preview.redd.it/84i3hanf2kve1.png?auto=webp&s=c85f84a0927f33667190846f62a86246e2aa87c3 to temp_image.jpg
 2025-04-18 10:43:46,009 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-18 11:12:19,461 - INFO - Content: Overwatch hero skins tier list (based on rate output)
+Can you tell I'm tired of the same characters always getting skins...
+2025-04-18 11:12:19,461 - INFO - Image Paths: ['https://preview.redd.it/84i3hanf2kve1.png?auto=webp&s=c85f84a0927f33667190846f62a86246e2aa87c3']
+2025-04-18 11:12:19,461 - INFO - Video Path: 
+2025-04-18 11:12:19,599 - INFO - Downloaded media from https://preview.redd.it/84i3hanf2kve1.png?auto=webp&s=c85f84a0927f33667190846f62a86246e2aa87c3 to temp_image.jpg
+2025-04-18 11:12:20,378 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
