@@ -3177,3 +3177,10 @@ Can you tell I'm tired of the same characters always getting skins...
 2025-04-18 15:39:29,805 - INFO - Downloaded media from https://preview.redd.it/84i3hanf2kve1.png?auto=webp&s=c85f84a0927f33667190846f62a86246e2aa87c3 to temp_image.jpg
 2025-04-18 15:39:30,419 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-18 16:17:43,822 - INFO - Content: Yo, who's Bans?
+And when they're releasing him?
+2025-04-18 16:17:43,822 - INFO - Image Paths: ['https://preview.redd.it/00hvumrb4mve1.jpeg?auto=webp&s=d7c651090af885608c0128cd49db4be5af79b0ee']
+2025-04-18 16:17:43,822 - INFO - Video Path: 
+2025-04-18 16:17:43,864 - INFO - Downloaded media from https://preview.redd.it/00hvumrb4mve1.jpeg?auto=webp&s=d7c651090af885608c0128cd49db4be5af79b0ee to temp_image.jpg
+2025-04-18 16:17:44,545 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
