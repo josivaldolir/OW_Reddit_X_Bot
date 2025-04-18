@@ -3091,3 +3091,11 @@ Custom Games aren't the same sadly :(
 2025-04-18 07:37:26,773 - INFO - Video Path: 
 2025-04-18 07:37:26,954 - INFO - Downloaded media from https://preview.redd.it/f09vqxmmnjve1.jpeg?auto=webp&s=6252faea56148a19e4f0d26be28f2c6c97c18d5f to temp_image.jpg
 2025-04-18 07:37:27,747 - INFO - Posted content successfully. Tweet ID: 1913134767450759481
+2025-04-18 09:15:34,970 - INFO - Content: May I introduce you to the peak of overwatch, new player?
+
+2025-04-18 09:15:34,971 - INFO - Image Paths: ['https://external-preview.redd.it/bTE3MDVvNXQ5Z3ZlMVW-ITVo88b-zc02Zm1bqyv3x95V73K-jHTZbV5PgzZd.png?format=pjpg&auto=webp&s=cfe93ed0975b1faaeb174eaddeb346e13e140914']
+2025-04-18 09:15:34,971 - INFO - Video Path: https://v.redd.it/uskwyn1t9gve1/DASH_720.mp4?source=fallback
+2025-04-18 09:15:35,096 - INFO - Downloaded media from https://v.redd.it/uskwyn1t9gve1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-04-18 09:15:35,111 - INFO - Downloaded media from https://v.redd.it/uskwyn1t9gve1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-04-18 09:15:39,399 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-18 09:15:43,795 - INFO - Posted content successfully. Tweet ID: 1913159497444479277
