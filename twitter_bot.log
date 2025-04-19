@@ -3289,3 +3289,4 @@ I has to do a double take to realize Venture actually got another skin, granted 
 2025-04-19 01:07:43,594 - INFO - Downloaded media from https://v.redd.it/1n0wexeknove1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-04-19 01:07:46,069 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-19 01:07:49,324 - INFO - Posted content successfully. Tweet ID: 1913399099329519923
+2025-04-19 02:41:42,946 - ERROR - Error in main loop: 'u'
