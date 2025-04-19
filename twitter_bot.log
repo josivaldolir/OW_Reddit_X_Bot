@@ -3364,3 +3364,11 @@ PS: I'm still waiting for the Talon Heavy Mauga skin.
 2025-04-19 18:42:09,695 - ERROR - Error in main loop: 'u'
 2025-04-19 19:12:30,121 - ERROR - Error in main loop: 'u'
 2025-04-19 19:35:43,454 - ERROR - Error in main loop: 'u'
+2025-04-19 20:15:09,399 - INFO - Content: Absolute Healfest
+
+2025-04-19 20:15:09,399 - INFO - Image Paths: ['https://external-preview.redd.it/N2RiaTB5dDhrdXZlMfFBMl8clGJcmgIZrk67H_voBcRcX-b1WdjfWXhevX-z.png?format=pjpg&auto=webp&s=d12e6f39781ecbb377b7a8a393de4c3294e77b00']
+2025-04-19 20:15:09,399 - INFO - Video Path: https://v.redd.it/jzb4zq09kuve1/DASH_1080.mp4?source=fallback
+2025-04-19 20:15:10,397 - INFO - Downloaded media from https://v.redd.it/jzb4zq09kuve1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-19 20:15:10,579 - INFO - Downloaded media from https://v.redd.it/jzb4zq09kuve1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-19 20:15:11,115 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-19 20:15:21,715 - INFO - Posted content successfully. Tweet ID: 1913687887151042753
