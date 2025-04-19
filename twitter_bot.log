@@ -3335,3 +3335,4 @@ Does NOT include skin itself. Any twitch stream that says [Drops Enabled] should
 2025-04-19 14:38:06,370 - INFO - Downloaded media from https://preview.redd.it/hqx51m4dqsve1.png?width=1080&format=png&auto=webp&s=0bdf40b388bb64edee8054f74864fc012e224163 to temp_image.jpg
 2025-04-19 14:38:07,007 - INFO - Downloaded media from https://preview.redd.it/3mmeqq6dqsve1.png?width=1080&format=png&auto=webp&s=aa9a4876cce2269704fff165e4d62abd48479ffb to temp_image.jpg
 2025-04-19 14:38:08,300 - INFO - Posted content successfully. Tweet ID: 1913603020190896635
+2025-04-19 15:14:21,678 - ERROR - Error in main loop: 'u'
