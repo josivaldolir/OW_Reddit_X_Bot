@@ -3380,3 +3380,4 @@ Credits to @savosin.ilia (instagram)
 2025-04-19 20:38:04,444 - INFO - Downloaded media from https://v.redd.it/z12l3dtjdsve1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-04-19 20:38:05,204 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-19 20:38:11,577 - INFO - Posted content successfully. Tweet ID: 1913693632768737766
+2025-04-19 21:13:43,475 - ERROR - Error in main loop: 'u'
