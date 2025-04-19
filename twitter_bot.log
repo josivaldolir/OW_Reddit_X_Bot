@@ -3297,3 +3297,4 @@ I has to do a double take to realize Venture actually got another skin, granted 
 2025-04-19 03:47:11,509 - INFO - Video Path: 
 2025-04-19 03:47:11,725 - INFO - Downloaded media from https://preview.redd.it/sirhbpoucpve1.jpeg?auto=webp&s=212c6c7663358756e3b5e6fa8a435ee69eb24af3 to temp_image.jpg
 2025-04-19 03:47:12,766 - INFO - Posted content successfully. Tweet ID: 1913439211023483196
+2025-04-19 04:16:58,292 - ERROR - Error in main loop: 'u'
