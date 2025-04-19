@@ -3328,3 +3328,10 @@ I has to do a double take to realize Venture actually got another skin, granted 
 2025-04-19 14:12:54,838 - INFO - Video Path: 
 2025-04-19 14:12:55,103 - INFO - Downloaded media from https://external-preview.redd.it/DoG71i8S62tIBb_MP1Tejp-m9n3-kqqWZv-cuUfHleA.jpg?auto=webp&s=b9b0f836db2e06bef9d5bed071b1c7590b771dde to temp_image.jpg
 2025-04-19 14:12:56,124 - INFO - Posted content successfully. Tweet ID: 1913596679397478673
+2025-04-19 14:38:06,222 - INFO - Content: New twitch drops.
+Does NOT include skin itself. Any twitch stream that says [Drops Enabled] should work.
+2025-04-19 14:38:06,222 - INFO - Image Paths: ['https://preview.redd.it/hqx51m4dqsve1.png?width=1080&format=png&auto=webp&s=0bdf40b388bb64edee8054f74864fc012e224163', 'https://preview.redd.it/3mmeqq6dqsve1.png?width=1080&format=png&auto=webp&s=aa9a4876cce2269704fff165e4d62abd48479ffb']
+2025-04-19 14:38:06,222 - INFO - Video Path: 
+2025-04-19 14:38:06,370 - INFO - Downloaded media from https://preview.redd.it/hqx51m4dqsve1.png?width=1080&format=png&auto=webp&s=0bdf40b388bb64edee8054f74864fc012e224163 to temp_image.jpg
+2025-04-19 14:38:07,007 - INFO - Downloaded media from https://preview.redd.it/3mmeqq6dqsve1.png?width=1080&format=png&auto=webp&s=aa9a4876cce2269704fff165e4d62abd48479ffb to temp_image.jpg
+2025-04-19 14:38:08,300 - INFO - Posted content successfully. Tweet ID: 1913603020190896635
