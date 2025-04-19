@@ -3390,3 +3390,12 @@ Credits to @savosin.ilia (instagram)
 2025-04-19 22:38:38,205 - INFO - Downloaded media from https://v.redd.it/cfa6xx7lcuve1/DASH_360.mp4?source=fallback to temp_audio.mp4
 2025-04-19 22:38:38,580 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-19 22:38:42,175 - INFO - Posted content successfully. Tweet ID: 1913723960065454342
+2025-04-19 23:15:20,140 - INFO - Content: Day 1 of crossovers I want
+I'm bored so I'm gonna do these everyday/week, haven't really decided. Anyway, let me know what you think  >:1)
+2025-04-19 23:15:20,140 - INFO - Image Paths: ['https://preview.redd.it/j3d6bvy98vve1.png?width=723&format=png&auto=webp&s=13f2033d455d1c5af615ecaedf1a4225f4478bf2', 'https://preview.redd.it/zhyd86ab8vve1.png?width=723&format=png&auto=webp&s=2a204b68556842c656541e48eafdfc3607bf5f0a', 'https://preview.redd.it/lmei1t5c8vve1.png?width=723&format=png&auto=webp&s=52ce5948d89e735692fec07048fdc6c1d9a29548', 'https://preview.redd.it/idftg8ke8vve1.png?width=731&format=png&auto=webp&s=02aa7010609e49ae4a68b13ecfd82265c6ed37fc']
+2025-04-19 23:15:20,140 - INFO - Video Path: 
+2025-04-19 23:15:20,233 - INFO - Downloaded media from https://preview.redd.it/j3d6bvy98vve1.png?width=723&format=png&auto=webp&s=13f2033d455d1c5af615ecaedf1a4225f4478bf2 to temp_image.jpg
+2025-04-19 23:15:20,855 - INFO - Downloaded media from https://preview.redd.it/zhyd86ab8vve1.png?width=723&format=png&auto=webp&s=2a204b68556842c656541e48eafdfc3607bf5f0a to temp_image.jpg
+2025-04-19 23:15:21,333 - INFO - Downloaded media from https://preview.redd.it/lmei1t5c8vve1.png?width=723&format=png&auto=webp&s=52ce5948d89e735692fec07048fdc6c1d9a29548 to temp_image.jpg
+2025-04-19 23:15:21,901 - INFO - Downloaded media from https://preview.redd.it/idftg8ke8vve1.png?width=731&format=png&auto=webp&s=02aa7010609e49ae4a68b13ecfd82265c6ed37fc to temp_image.jpg
+2025-04-19 23:15:22,865 - INFO - Posted content successfully. Tweet ID: 1913733189622784288
