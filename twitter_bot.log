@@ -3651,3 +3651,11 @@ Too Many Requests
 2025-04-20 17:13:55,875 - INFO - Downloaded media from https://preview.redd.it/10ty1hbgj0we1.png?width=1920&format=png&auto=webp&s=0c80c22f5fe32cee6c9513daee97e9e0a1f0236e to temp_image.jpg
 2025-04-20 17:13:56,588 - INFO - Downloaded media from https://preview.redd.it/k776bmlgj0we1.png?width=1920&format=png&auto=webp&s=901704ce1922c720e4c6e6d0b9a6ff199e0bae96 to temp_image.jpg
 2025-04-20 17:13:58,034 - INFO - Posted content successfully. Tweet ID: 1914004623561773401
+2025-04-20 17:38:00,521 - INFO - Content: That's Unfortunate Reaper...
+
+2025-04-20 17:38:00,521 - INFO - Image Paths: ['https://external-preview.redd.it/czBobmFpbmluMHdlMeOwxEKY_BwUmvv0yJlvuSQnrkHkZJuTTKSVmRt4UrhV.png?format=pjpg&auto=webp&s=d706667cf3a4285dfdff2ec98c28242045dbff86']
+2025-04-20 17:38:00,522 - INFO - Video Path: https://v.redd.it/9swr36nin0we1/DASH_1080.mp4?source=fallback
+2025-04-20 17:38:01,879 - INFO - Downloaded media from https://v.redd.it/9swr36nin0we1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-20 17:38:02,156 - INFO - Downloaded media from https://v.redd.it/9swr36nin0we1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-20 17:38:07,561 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-20 17:38:15,468 - INFO - Posted content successfully. Tweet ID: 1914010738483696045
