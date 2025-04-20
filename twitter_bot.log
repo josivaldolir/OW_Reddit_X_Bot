@@ -3681,3 +3681,11 @@ I wasn’t expecting reaching to the 4000, and even playing comp. Probably my pl
 2025-04-20 19:12:05,616 - INFO - Video Path: 
 2025-04-20 19:12:05,763 - INFO - Downloaded media from https://preview.redd.it/wokwv0a3y0we1.jpeg?auto=webp&s=04bc93835c6e0c7ee9097c08f4dc7df79a8fe419 to temp_image.jpg
 2025-04-20 19:12:07,975 - INFO - Posted content successfully. Tweet ID: 1914034360686162321
+2025-04-20 19:35:35,501 - INFO - Content: This felt pretty good
+
+2025-04-20 19:35:35,501 - INFO - Image Paths: ['https://external-preview.redd.it/YzF4Znp1aTM5MXdlMS9iuQzxhCxTEPMPYck53R2-cTJnZug3bn0LuoDv9OQX.png?format=pjpg&auto=webp&s=f82ad225c10ac73486810f6c320d1aafc8afaa96']
+2025-04-20 19:35:35,501 - INFO - Video Path: https://v.redd.it/urg6rgx791we1/DASH_1080.mp4?source=fallback
+2025-04-20 19:35:35,750 - INFO - Downloaded media from https://v.redd.it/urg6rgx791we1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-20 19:35:35,922 - INFO - Downloaded media from https://v.redd.it/urg6rgx791we1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-20 19:35:36,167 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-20 19:35:45,168 - INFO - Posted content successfully. Tweet ID: 1914040307043217657
