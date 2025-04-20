@@ -3628,3 +3628,11 @@ My dog was not amused while trying to get this photo lol. She does love the nail
 2025-04-20 15:37:24,388 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-20 15:37:33,122 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-20 16:18:04,499 - INFO - Content: 1000 consecutive null sector punches
+
+2025-04-20 16:18:04,499 - INFO - Image Paths: ['https://external-preview.redd.it/dDBvOGU2cW5iMHdlMdzeVTL2-Kj28X7VoAtmavd5vWYJg5gVZF-0F71TbQcd.png?format=pjpg&auto=webp&s=d72ce3b9ddc90e5bd360641bc7acd4feea4b03ef']
+2025-04-20 16:18:04,499 - INFO - Video Path: https://v.redd.it/uhm4lqwnb0we1/DASH_480.mp4?source=fallback
+2025-04-20 16:18:05,035 - INFO - Downloaded media from https://v.redd.it/uhm4lqwnb0we1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-04-20 16:18:05,147 - INFO - Downloaded media from https://v.redd.it/uhm4lqwnb0we1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-04-20 16:18:11,104 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-20 16:18:20,002 - INFO - Posted content successfully. Tweet ID: 1913990624791191762
