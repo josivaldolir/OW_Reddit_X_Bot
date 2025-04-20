@@ -3659,3 +3659,11 @@ Too Many Requests
 2025-04-20 17:38:02,156 - INFO - Downloaded media from https://v.redd.it/9swr36nin0we1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-04-20 17:38:07,561 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-20 17:38:15,468 - INFO - Posted content successfully. Tweet ID: 1914010738483696045
+2025-04-20 18:19:55,312 - INFO - Content: best rollout 2025
+
+2025-04-20 18:19:55,312 - INFO - Image Paths: ['https://external-preview.redd.it/OTZzazd0eHJ2enZlMdpx8NeT9pWmZ1PAmA_s3DC8NgegL_EZ1Q55GAyduDTm.png?format=pjpg&auto=webp&s=788a57cde9e1202cf644a9b00ea153f5be08b80c']
+2025-04-20 18:19:55,312 - INFO - Video Path: https://v.redd.it/lghn8sxrvzve1/DASH_720.mp4?source=fallback
+2025-04-20 18:19:55,602 - INFO - Downloaded media from https://v.redd.it/lghn8sxrvzve1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-04-20 18:19:55,648 - INFO - Downloaded media from https://v.redd.it/lghn8sxrvzve1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-04-20 18:19:59,705 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-20 18:20:08,263 - INFO - Posted content successfully. Tweet ID: 1914021277888860527
