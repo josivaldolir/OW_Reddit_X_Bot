@@ -16,3 +16,10 @@ Posted with permission.
 2025-04-20 20:15:12,498 - INFO - Downloaded media from https://preview.redd.it/y2yw9g1pk1we1.jpg?width=3840&format=pjpg&auto=webp&s=0e68451b43acd7509b638eae0c3a09bf052dc699 to temp_image.jpg
 2025-04-20 20:15:13,512 - INFO - Downloaded media from https://preview.redd.it/yblev56pk1we1.jpg?width=3840&format=pjpg&auto=webp&s=6913d9803a9ec2ae575e6a459b65300c13f9be68 to temp_image.jpg
 2025-04-20 20:15:14,928 - INFO - Posted content successfully. Tweet ID: 1914050245215875507
+2025-04-20 20:39:17,838 - INFO - Content: Freja Lifeguard skin concept
+
+2025-04-20 20:39:17,838 - INFO - Image Paths: ['https://preview.redd.it/phfezhjzj1we1.png?width=4129&format=png&auto=webp&s=b9d025486eb9e89976de03eaae02e193e6fb85d3', 'https://preview.redd.it/9van7gjzj1we1.png?width=1500&format=png&auto=webp&s=21e48020a0a58a075937cd4a979de53d2f8fdd4d']
+2025-04-20 20:39:17,838 - INFO - Video Path: 
+2025-04-20 20:39:17,937 - INFO - Downloaded media from https://preview.redd.it/phfezhjzj1we1.png?width=4129&format=png&auto=webp&s=b9d025486eb9e89976de03eaae02e193e6fb85d3 to temp_image.jpg
+2025-04-20 20:39:18,894 - INFO - Downloaded media from https://preview.redd.it/9van7gjzj1we1.png?width=1500&format=png&auto=webp&s=21e48020a0a58a075937cd4a979de53d2f8fdd4d to temp_image.jpg
+2025-04-20 20:39:22,257 - INFO - Posted content successfully. Tweet ID: 1914056306983358787
