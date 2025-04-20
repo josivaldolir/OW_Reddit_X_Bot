@@ -65,3 +65,10 @@ in all seriousness though this was the funniest thing that ive seen get potg eve
 2025-04-20 23:13:32,380 - INFO - Downloaded media from https://v.redd.it/482oixhpx1we1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-04-20 23:13:32,699 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-20 23:13:40,273 - INFO - Posted content successfully. Tweet ID: 1914095147928961297
+2025-04-20 23:36:14,338 - INFO - Content: Dokiwatch skin lineup
+What’s your thoughts on this lineup?
+2025-04-20 23:36:14,338 - INFO - Image Paths: ['https://preview.redd.it/up449a26n2we1.jpg?width=2048&format=pjpg&auto=webp&s=46ffecf06e108ad6179341b1191d0867be4f1ff8', 'https://preview.redd.it/f0siz926n2we1.jpg?width=2048&format=pjpg&auto=webp&s=9f542bb9508a4381f29dc1590bd254f48f84e8c6']
+2025-04-20 23:36:14,339 - INFO - Video Path: 
+2025-04-20 23:36:14,564 - INFO - Downloaded media from https://preview.redd.it/up449a26n2we1.jpg?width=2048&format=pjpg&auto=webp&s=46ffecf06e108ad6179341b1191d0867be4f1ff8 to temp_image.jpg
+2025-04-20 23:36:15,561 - INFO - Downloaded media from https://preview.redd.it/f0siz926n2we1.jpg?width=2048&format=pjpg&auto=webp&s=9f542bb9508a4381f29dc1590bd254f48f84e8c6 to temp_image.jpg
+2025-04-20 23:36:16,861 - INFO - Posted content successfully. Tweet ID: 1914100837586211237
