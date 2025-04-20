@@ -3437,3 +3437,10 @@ I'm not even joking, there's been leavers in 70% of my games and toxicity in pre
 2025-04-20 04:41:16,294 - INFO - Downloaded media from https://v.redd.it/hvmhavtn0xve1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-04-20 04:41:20,013 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-20 04:41:22,927 - INFO - Posted content successfully. Tweet ID: 1913815231370842193
+2025-04-20 05:14:12,724 - INFO - Content: overlay i made inspired by mercy’s upcoming mythic weapon!
+i’m super excited for mercy’s new weapon so i made an overlay to match it :D
+2025-04-20 05:14:12,724 - INFO - Image Paths: ['https://preview.redd.it/x6ei72luvwve1.jpg?width=7680&format=pjpg&auto=webp&s=866d718a6622327b0cb75253aef679dc4a24d0d9', 'https://preview.redd.it/yt35c7kuvwve1.jpg?width=2999&format=pjpg&auto=webp&s=8e137605a3084e52299e515b64e91bb25ed2320d']
+2025-04-20 05:14:12,724 - INFO - Video Path: 
+2025-04-20 05:14:12,800 - INFO - Downloaded media from https://preview.redd.it/x6ei72luvwve1.jpg?width=7680&format=pjpg&auto=webp&s=866d718a6622327b0cb75253aef679dc4a24d0d9 to temp_image.jpg
+2025-04-20 05:14:14,919 - INFO - Downloaded media from https://preview.redd.it/yt35c7kuvwve1.jpg?width=2999&format=pjpg&auto=webp&s=8e137605a3084e52299e515b64e91bb25ed2320d to temp_image.jpg
+2025-04-20 05:14:16,870 - INFO - Posted content successfully. Tweet ID: 1913823508540412006
