@@ -255,3 +255,12 @@ i probably shouldve known that it wouldve killed me
 2025-04-21 13:43:55,467 - INFO - Downloaded media from https://v.redd.it/wq1e5o12p6we1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-04-21 13:43:59,090 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-21 13:44:08,397 - INFO - Posted content successfully. Tweet ID: 1914314208524878239
+2025-04-21 14:14:18,244 - INFO - Content: Moira made it weird
+and I got outmoaned.
+2025-04-21 14:14:18,244 - INFO - Image Paths: ['https://external-preview.redd.it/dzV1NjA3MnY2NndlMSOHhIDNWAvLvgr5Ae9CO8vUmqs21KTFpH_QJxArRgFy.png?format=pjpg&auto=webp&s=b9f929547300976c6f8a1afc4af521c2ab0565ba']
+2025-04-21 14:14:18,244 - INFO - Video Path: https://v.redd.it/oh4yx42v66we1/DASH_480.mp4?source=fallback
+2025-04-21 14:14:18,466 - INFO - Downloaded media from https://v.redd.it/oh4yx42v66we1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-04-21 14:14:18,541 - INFO - Downloaded media from https://v.redd.it/oh4yx42v66we1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-04-21 14:14:19,001 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-21 14:14:22,079 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
