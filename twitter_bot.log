@@ -315,3 +315,10 @@ Tomorrow, Sojourn will be buffed. This is inevitable.
 2025-04-21 17:14:07,277 - INFO - Video Path: 
 2025-04-21 17:14:07,361 - INFO - Downloaded media from https://preview.redd.it/8k9g4bd4y7we1.jpeg?auto=webp&s=5034499e786112775330bf723d16c28125fcfc1b to temp_image.jpg
 2025-04-21 17:14:08,345 - INFO - Posted content successfully. Tweet ID: 1914367056411288006
+2025-04-21 17:39:52,254 - INFO - Content: this shop sucks
+when are we gonna get something good
+2025-04-21 17:39:52,254 - INFO - Image Paths: ['https://preview.redd.it/v6jbnklqu7we1.jpeg?auto=webp&s=880d6a69f79d14d6ce714dd6ae3f0574bc8d2fa0']
+2025-04-21 17:39:52,254 - INFO - Video Path: 
+2025-04-21 17:39:52,662 - INFO - Downloaded media from https://preview.redd.it/v6jbnklqu7we1.jpeg?auto=webp&s=880d6a69f79d14d6ce714dd6ae3f0574bc8d2fa0 to temp_image.jpg
+2025-04-21 17:39:53,699 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
