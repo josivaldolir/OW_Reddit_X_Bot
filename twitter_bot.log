@@ -163,3 +163,13 @@ https://reddit.com/link/1k4400t/video/ykae45egw3we1/player
 2025-04-21 07:36:59,843 - INFO - Image Paths: []
 2025-04-21 07:36:59,843 - INFO - Video Path: 
 2025-04-21 07:37:00,386 - INFO - Posted content successfully. Tweet ID: 1914221815708189031
+2025-04-21 09:16:18,044 - INFO - Content: Anyone like the magical girl version of Juno!
+Check out our newest costume-Overwatch Dokiwatch Juno mythic skin Cosplay Costume!
+
+2025-04-21 09:16:18,045 - INFO - Image Paths: ['https://preview.redd.it/4d7pvkape5we1.png?width=2449&format=png&auto=webp&s=791702989ecc4444dfc5f2a46110bde7e1b90426', 'https://preview.redd.it/bhyj3gape5we1.jpg?width=3877&format=pjpg&auto=webp&s=c39d75aa558bfb373e1e4eb4ae71da2aedd3d13a', 'https://preview.redd.it/ud5pslape5we1.jpg?width=3917&format=pjpg&auto=webp&s=dadc0e4f80bbd8f81dfff69f68d88ad8e52ac1ab', 'https://preview.redd.it/xcpxonape5we1.jpg?width=3997&format=pjpg&auto=webp&s=0e631ad268bfc71126d1b568218f9fe916c2a014']
+2025-04-21 09:16:18,045 - INFO - Video Path: 
+2025-04-21 09:16:18,291 - INFO - Downloaded media from https://preview.redd.it/4d7pvkape5we1.png?width=2449&format=png&auto=webp&s=791702989ecc4444dfc5f2a46110bde7e1b90426 to temp_image.jpg
+2025-04-21 09:16:19,440 - INFO - Downloaded media from https://preview.redd.it/bhyj3gape5we1.jpg?width=3877&format=pjpg&auto=webp&s=c39d75aa558bfb373e1e4eb4ae71da2aedd3d13a to temp_image.jpg
+2025-04-21 09:16:21,290 - INFO - Downloaded media from https://preview.redd.it/ud5pslape5we1.jpg?width=3917&format=pjpg&auto=webp&s=dadc0e4f80bbd8f81dfff69f68d88ad8e52ac1ab to temp_image.jpg
+2025-04-21 09:16:22,838 - INFO - Downloaded media from https://preview.redd.it/xcpxonape5we1.jpg?width=3997&format=pjpg&auto=webp&s=0e631ad268bfc71126d1b568218f9fe916c2a014 to temp_image.jpg
+2025-04-21 09:16:26,905 - INFO - Posted content successfully. Tweet ID: 1914246833607414180
