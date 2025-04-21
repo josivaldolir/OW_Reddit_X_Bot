@@ -78,3 +78,10 @@ You can’t convince me otherwise
 2025-04-21 01:14:09,495 - INFO - Video Path: 
 2025-04-21 01:14:09,798 - INFO - Downloaded media from https://preview.redd.it/pq7e518963we1.jpeg?auto=webp&s=39e5e055dc01123a49337875f39eb0fb50cacf4a to temp_image.jpg
 2025-04-21 01:14:11,301 - INFO - Posted content successfully. Tweet ID: 1914125476488175702
+2025-04-21 02:53:43,832 - INFO - Content: Junkrat - Fanime 2023
+
+2025-04-21 02:53:43,832 - INFO - Image Paths: ['https://preview.redd.it/fsnz8nmdg3we1.jpg?width=4002&format=pjpg&auto=webp&s=3761f929597747204d6d6bc41a7bbe3f3aa5f797', 'https://preview.redd.it/ccrmprldg3we1.jpg?width=3815&format=pjpg&auto=webp&s=969678a9461669e46e8d6df1b7ed079e078306d2']
+2025-04-21 02:53:43,832 - INFO - Video Path: 
+2025-04-21 02:53:44,051 - INFO - Downloaded media from https://preview.redd.it/fsnz8nmdg3we1.jpg?width=4002&format=pjpg&auto=webp&s=3761f929597747204d6d6bc41a7bbe3f3aa5f797 to temp_image.jpg
+2025-04-21 02:53:45,990 - INFO - Downloaded media from https://preview.redd.it/ccrmprldg3we1.jpg?width=3815&format=pjpg&auto=webp&s=969678a9461669e46e8d6df1b7ed079e078306d2 to temp_image.jpg
+2025-04-21 02:53:48,668 - INFO - Posted content successfully. Tweet ID: 1914150545612226580
