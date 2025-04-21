@@ -385,3 +385,11 @@ and I got outmoaned.
 2025-04-21 21:37:52,764 - INFO - Posted content successfully. Tweet ID: 1914433429078466948
 2025-04-21 22:14:45,405 - ERROR - Error in main loop: 'u'
 2025-04-21 22:39:51,241 - ERROR - Error in main loop: 'u'
+2025-04-21 23:13:49,252 - INFO - Content: Since u/thefallentext2 asked
+ask and i shall deliver
+2025-04-21 23:13:49,252 - INFO - Image Paths: ['https://external-preview.redd.it/NnJpdHR3ZXFiOXdlMf40rD5Bxf_Omaaa551p2VoOxu3I1vncIZ8pVndziqkX.png?format=pjpg&auto=webp&s=fe5c9b53c6f9a814da0afb4c50718285256d563d']
+2025-04-21 23:13:49,252 - INFO - Video Path: https://v.redd.it/pzmubveqb9we1/DASH_1080.mp4?source=fallback
+2025-04-21 23:13:49,551 - INFO - Downloaded media from https://v.redd.it/pzmubveqb9we1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-21 23:13:49,718 - INFO - Downloaded media from https://v.redd.it/pzmubveqb9we1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-21 23:13:50,318 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-21 23:13:59,433 - INFO - Posted content successfully. Tweet ID: 1914457616241041441
