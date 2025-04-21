@@ -211,3 +211,12 @@ Also I enjoy the 4 day length I think that’s a nice sweet spot because the wee
 2025-04-21 10:44:38,064 - INFO - Downloaded media from https://preview.redd.it/gcks414c75we1.jpg?width=5712&format=pjpg&auto=webp&s=6deafad9398b56f21c9a4386eb6217e46e94a6ec to temp_image.jpg
 2025-04-21 10:44:41,426 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-21 11:12:36,056 - INFO - Content: TourWatch coming soon!
+Based on the reality show Total Drama, watch your favorite heroes compete while causing extreme drama! 
+Cast reveal coming soon…
+2025-04-21 11:12:36,056 - INFO - Image Paths: ['https://preview.redd.it/8k0nc9o435we1.jpg?width=2395&format=pjpg&auto=webp&s=3f9491e894e399e845b47e932c1a305d8bbc0c53', 'https://preview.redd.it/kq5pd9o435we1.jpg?width=3300&format=pjpg&auto=webp&s=711d3d3ca10b81b01f3c6bde2c32c3150a8daf4a']
+2025-04-21 11:12:36,056 - INFO - Video Path: 
+2025-04-21 11:12:36,104 - INFO - Downloaded media from https://preview.redd.it/8k0nc9o435we1.jpg?width=2395&format=pjpg&auto=webp&s=3f9491e894e399e845b47e932c1a305d8bbc0c53 to temp_image.jpg
+2025-04-21 11:12:36,932 - INFO - Downloaded media from https://preview.redd.it/kq5pd9o435we1.jpg?width=3300&format=pjpg&auto=webp&s=711d3d3ca10b81b01f3c6bde2c32c3150a8daf4a to temp_image.jpg
+2025-04-21 11:12:38,122 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
