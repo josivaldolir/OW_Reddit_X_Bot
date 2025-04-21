@@ -330,3 +330,9 @@ Too Many Requests
 2025-04-21 18:21:12,763 - INFO - Downloaded media from https://v.redd.it/l2bwimnkz7we1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-04-21 18:21:15,109 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-21 18:21:22,521 - INFO - Posted content successfully. Tweet ID: 1914383977072484745
+2025-04-21 18:46:29,222 - INFO - Content: this shop sucks
+when are we gonna get something good
+2025-04-21 18:46:29,223 - INFO - Image Paths: ['https://preview.redd.it/v6jbnklqu7we1.jpeg?auto=webp&s=880d6a69f79d14d6ce714dd6ae3f0574bc8d2fa0']
+2025-04-21 18:46:29,223 - INFO - Video Path: 
+2025-04-21 18:46:29,310 - INFO - Downloaded media from https://preview.redd.it/v6jbnklqu7we1.jpeg?auto=webp&s=880d6a69f79d14d6ce714dd6ae3f0574bc8d2fa0 to temp_image.jpg
+2025-04-21 18:46:30,645 - INFO - Posted content successfully. Tweet ID: 1914390301763829964
