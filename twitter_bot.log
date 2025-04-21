@@ -309,3 +309,9 @@ and I got outmoaned.
 2025-04-21 16:46:00,648 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-21 16:46:04,444 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-21 17:14:07,277 - INFO - Content: Wake up, Overwatch Devs! It's time for your seasonal Sojourn buffs!
+Tomorrow, Sojourn will be buffed. This is inevitable.
+2025-04-21 17:14:07,277 - INFO - Image Paths: ['https://preview.redd.it/8k9g4bd4y7we1.jpeg?auto=webp&s=5034499e786112775330bf723d16c28125fcfc1b']
+2025-04-21 17:14:07,277 - INFO - Video Path: 
+2025-04-21 17:14:07,361 - INFO - Downloaded media from https://preview.redd.it/8k9g4bd4y7we1.jpeg?auto=webp&s=5034499e786112775330bf723d16c28125fcfc1b to temp_image.jpg
+2025-04-21 17:14:08,345 - INFO - Posted content successfully. Tweet ID: 1914367056411288006
