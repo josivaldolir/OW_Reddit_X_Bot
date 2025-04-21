@@ -264,3 +264,12 @@ and I got outmoaned.
 2025-04-21 14:14:19,001 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-21 14:14:22,079 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-21 14:41:56,752 - INFO - Content: Moira made it weird
+and I got outmoaned.
+2025-04-21 14:41:56,752 - INFO - Image Paths: ['https://external-preview.redd.it/dzV1NjA3MnY2NndlMSOHhIDNWAvLvgr5Ae9CO8vUmqs21KTFpH_QJxArRgFy.png?format=pjpg&auto=webp&s=b9f929547300976c6f8a1afc4af521c2ab0565ba']
+2025-04-21 14:41:56,752 - INFO - Video Path: https://v.redd.it/oh4yx42v66we1/DASH_480.mp4?source=fallback
+2025-04-21 14:41:56,831 - INFO - Downloaded media from https://v.redd.it/oh4yx42v66we1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-04-21 14:41:56,876 - INFO - Downloaded media from https://v.redd.it/oh4yx42v66we1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-04-21 14:42:01,898 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-21 14:42:04,779 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
