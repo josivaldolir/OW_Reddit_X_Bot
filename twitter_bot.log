@@ -377,3 +377,9 @@ and I got outmoaned.
 2025-04-21 21:14:20,483 - INFO - Downloaded media from https://v.redd.it/oh4yx42v66we1/DASH_480.mp4?source=fallback to temp_audio.mp4
 2025-04-21 21:14:20,733 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-21 21:14:23,712 - INFO - Posted content successfully. Tweet ID: 1914427519081832545
+2025-04-21 21:37:51,691 - INFO - Content: They will go on adventures together
+
+2025-04-21 21:37:51,691 - INFO - Image Paths: ['https://preview.redd.it/ifhdzcbra9we1.jpeg?auto=webp&s=733d6ecd28442a98f166025a81a6fb3b8b666094']
+2025-04-21 21:37:51,691 - INFO - Video Path: 
+2025-04-21 21:37:51,803 - INFO - Downloaded media from https://preview.redd.it/ifhdzcbra9we1.jpeg?auto=webp&s=733d6ecd28442a98f166025a81a6fb3b8b666094 to temp_image.jpg
+2025-04-21 21:37:52,764 - INFO - Posted content successfully. Tweet ID: 1914433429078466948
