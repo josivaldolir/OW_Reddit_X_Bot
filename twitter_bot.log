@@ -352,3 +352,10 @@ pretty much my life since ramattra is quite popular in 6v6
 2025-04-21 19:35:40,667 - INFO - Downloaded media from https://v.redd.it/8l9654p4d8we1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-04-21 19:35:41,030 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-21 19:35:50,232 - INFO - Posted content successfully. Tweet ID: 1914402716186534265
+2025-04-21 20:16:43,637 - INFO - Content: Was watching Emongg and boy someone has some deep thoughts
+
+2025-04-21 20:16:43,637 - INFO - Image Paths: ['https://preview.redd.it/m158s28xr7we1.jpg?width=1333&format=pjpg&auto=webp&s=da22a90ebbebd8c0d7ad62a559ad1928bc28074a', 'https://preview.redd.it/o7s2838xr7we1.jpg?width=1334&format=pjpg&auto=webp&s=39c2b69095f3fe2d92068992151ad33038c8c705']
+2025-04-21 20:16:43,637 - INFO - Video Path: 
+2025-04-21 20:16:43,721 - INFO - Downloaded media from https://preview.redd.it/m158s28xr7we1.jpg?width=1333&format=pjpg&auto=webp&s=da22a90ebbebd8c0d7ad62a559ad1928bc28074a to temp_image.jpg
+2025-04-21 20:16:44,953 - INFO - Downloaded media from https://preview.redd.it/o7s2838xr7we1.jpg?width=1334&format=pjpg&auto=webp&s=39c2b69095f3fe2d92068992151ad33038c8c705 to temp_image.jpg
+2025-04-21 20:16:45,836 - INFO - Posted content successfully. Tweet ID: 1914413015212155320
