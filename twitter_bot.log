@@ -247,3 +247,11 @@ and I got outmoaned.
 2025-04-21 13:03:54,964 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-21 13:03:58,816 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-21 13:43:53,967 - INFO - Content: I am speechless....
+i probably shouldve known that it wouldve killed me
+2025-04-21 13:43:53,968 - INFO - Image Paths: ['https://external-preview.redd.it/cTd0azNpMTJwNndlMePndYCG82ECZ_MS03JCmeY2nFJWVtw7ZXTiGaW405lT.png?format=pjpg&auto=webp&s=7b471dd4cf3e099c47acef5ddc1596371c4af725']
+2025-04-21 13:43:53,968 - INFO - Video Path: https://v.redd.it/wq1e5o12p6we1/DASH_1080.mp4?source=fallback
+2025-04-21 13:43:55,316 - INFO - Downloaded media from https://v.redd.it/wq1e5o12p6we1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-21 13:43:55,467 - INFO - Downloaded media from https://v.redd.it/wq1e5o12p6we1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-21 13:43:59,090 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-21 13:44:08,397 - INFO - Posted content successfully. Tweet ID: 1914314208524878239
