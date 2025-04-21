@@ -220,3 +220,12 @@ Cast reveal coming soon…
 2025-04-21 11:12:36,932 - INFO - Downloaded media from https://preview.redd.it/kq5pd9o435we1.jpg?width=3300&format=pjpg&auto=webp&s=711d3d3ca10b81b01f3c6bde2c32c3150a8daf4a to temp_image.jpg
 2025-04-21 11:12:38,122 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-21 11:36:04,522 - INFO - Content: TourWatch coming soon!
+Based on the reality show Total Drama, watch your favorite heroes compete while causing extreme drama! 
+Cast reveal coming soon…
+2025-04-21 11:36:04,522 - INFO - Image Paths: ['https://preview.redd.it/8k0nc9o435we1.jpg?width=2395&format=pjpg&auto=webp&s=3f9491e894e399e845b47e932c1a305d8bbc0c53', 'https://preview.redd.it/kq5pd9o435we1.jpg?width=3300&format=pjpg&auto=webp&s=711d3d3ca10b81b01f3c6bde2c32c3150a8daf4a']
+2025-04-21 11:36:04,522 - INFO - Video Path: 
+2025-04-21 11:36:04,604 - INFO - Downloaded media from https://preview.redd.it/8k0nc9o435we1.jpg?width=2395&format=pjpg&auto=webp&s=3f9491e894e399e845b47e932c1a305d8bbc0c53 to temp_image.jpg
+2025-04-21 11:36:05,554 - INFO - Downloaded media from https://preview.redd.it/kq5pd9o435we1.jpg?width=3300&format=pjpg&auto=webp&s=711d3d3ca10b81b01f3c6bde2c32c3150a8daf4a to temp_image.jpg
+2025-04-21 11:36:06,890 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
