@@ -195,3 +195,19 @@ Also I enjoy the 4 day length I think that’s a nice sweet spot because the wee
 2025-04-21 10:16:27,866 - INFO - Downloaded media from https://preview.redd.it/gcks414c75we1.jpg?width=5712&format=pjpg&auto=webp&s=6deafad9398b56f21c9a4386eb6217e46e94a6ec to temp_image.jpg
 2025-04-21 10:16:31,354 - ERROR - Failed to post content: 400 Bad Request
 Your media IDs are invalid.
+2025-04-21 10:44:30,792 - INFO - Content: The final verdict on Drives from the guy who publicly crashed out on Reddit over not being able to get the first checkpoint after 6 hours of grinding.
+Well my last post got a lot of discussion so I figure it’s only fair that I give the conclusion to the whole Drive situation.
+
+I did end up finishing it. And actually I managed to get 3500 drive point much faster than I got those initial 500 lol! 
+
+I’m conflicted because I can’t lie, Drive events are the most engaged I EVER get in comp. It’s genuinely really fun when you’re in the flow state and racking up points. It sounds tacky but there is a legit sense of achievement if slogging through the hell that is Drive weekend. Clearly not everyone does so making the time and effort to complete it does feel good at the end.
+
+I think my main criticism still stands tho. There is absolutely no excuse why the first one or two tiers can’t be earned without losing drive points. I understand the critique I got on my last post that “this shouldn’t be a participation trophy” but at the end of the day what Blizzard cares about is engagement and nothing will overcome the frustration of playing for hours just to get close to a check point and then lose 4 in a row. The system breeds frustration and curtails engagement in the future. As satisfying as it is to finish a Drive I feel like I need a LONG break after every one.
+
+Also I enjoy the 4 day length I think that’s a nice sweet spot because the week long drive was way too long.
+2025-04-21 10:44:30,792 - INFO - Image Paths: ['https://preview.redd.it/4eydkz3c75we1.jpg?width=5712&format=pjpg&auto=webp&s=5730ea7851a94938e0471a0f99397feaf1e7cbb2', 'https://preview.redd.it/gcks414c75we1.jpg?width=5712&format=pjpg&auto=webp&s=6deafad9398b56f21c9a4386eb6217e46e94a6ec']
+2025-04-21 10:44:30,792 - INFO - Video Path: 
+2025-04-21 10:44:31,441 - INFO - Downloaded media from https://preview.redd.it/4eydkz3c75we1.jpg?width=5712&format=pjpg&auto=webp&s=5730ea7851a94938e0471a0f99397feaf1e7cbb2 to temp_image.jpg
+2025-04-21 10:44:38,064 - INFO - Downloaded media from https://preview.redd.it/gcks414c75we1.jpg?width=5712&format=pjpg&auto=webp&s=6deafad9398b56f21c9a4386eb6217e46e94a6ec to temp_image.jpg
+2025-04-21 10:44:41,426 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
