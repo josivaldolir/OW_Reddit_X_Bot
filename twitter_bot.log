@@ -369,3 +369,11 @@ I'm predicting: *Removed railgun degeneration entirely*
 2025-04-21 20:39:09,434 - INFO - Video Path: 
 2025-04-21 20:39:09,479 - INFO - Downloaded media from https://preview.redd.it/uvu82mk5x7we1.jpeg?auto=webp&s=ae0700957b53c8f7311eee4ac145cf9b9b4a4731 to temp_image.jpg
 2025-04-21 20:39:10,339 - INFO - Posted content successfully. Tweet ID: 1914418654814290217
+2025-04-21 21:14:20,275 - INFO - Content: Moira made it weird
+and I got outmoaned.
+2025-04-21 21:14:20,275 - INFO - Image Paths: ['https://external-preview.redd.it/dzV1NjA3MnY2NndlMSOHhIDNWAvLvgr5Ae9CO8vUmqs21KTFpH_QJxArRgFy.png?format=pjpg&auto=webp&s=b9f929547300976c6f8a1afc4af521c2ab0565ba']
+2025-04-21 21:14:20,275 - INFO - Video Path: https://v.redd.it/oh4yx42v66we1/DASH_480.mp4?source=fallback
+2025-04-21 21:14:20,469 - INFO - Downloaded media from https://v.redd.it/oh4yx42v66we1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-04-21 21:14:20,483 - INFO - Downloaded media from https://v.redd.it/oh4yx42v66we1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-04-21 21:14:20,733 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-21 21:14:23,712 - INFO - Posted content successfully. Tweet ID: 1914427519081832545
