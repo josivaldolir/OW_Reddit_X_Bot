@@ -496,3 +496,4 @@ OC fanart
 2025-04-22 16:45:38,209 - INFO - Downloaded media from https://preview.redd.it/x4kyw23qcewe1.jpg?width=2160&format=pjpg&auto=webp&s=31f69c81e9d274a4fda5eb4579831871ef00ce7a to temp_image.jpg
 2025-04-22 16:45:39,040 - INFO - Downloaded media from https://preview.redd.it/wveru03qcewe1.jpg?width=2160&format=pjpg&auto=webp&s=bc5563b27c6a5d34a6c7d55dc11682a6a3750596 to temp_image.jpg
 2025-04-22 16:45:40,364 - INFO - Posted content successfully. Tweet ID: 1914722279528829413
+2025-04-22 17:13:48,958 - ERROR - Error in main loop: 'u'
