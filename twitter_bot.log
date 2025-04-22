@@ -562,3 +562,9 @@ Service Unavailable
 2025-04-22 21:36:55,506 - INFO - Video Path: 
 2025-04-22 21:36:55,528 - INFO - Downloaded media from https://preview.redd.it/0k2ao3mcfgwe1.jpeg?auto=webp&s=b2d6a38a6a5050962bb03a3d9625182bc64ade63 to temp_image.jpg
 2025-04-22 21:36:56,506 - INFO - Posted content successfully. Tweet ID: 1914795580779368664
+2025-04-22 22:14:15,351 - INFO - Content: What you guys think of my Super Swag Idea for Mercy Overwatch
+
+2025-04-22 22:14:15,351 - INFO - Image Paths: ['https://preview.redd.it/l2vt33hojgwe1.jpeg?auto=webp&s=0a4cf4e2b42362ae5692f6984fe076d979918fa6']
+2025-04-22 22:14:15,351 - INFO - Video Path: 
+2025-04-22 22:14:15,417 - INFO - Downloaded media from https://preview.redd.it/l2vt33hojgwe1.jpeg?auto=webp&s=0a4cf4e2b42362ae5692f6984fe076d979918fa6 to temp_image.jpg
+2025-04-22 22:14:17,249 - INFO - Posted content successfully. Tweet ID: 1914804977593094176
