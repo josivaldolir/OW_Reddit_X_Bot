@@ -497,3 +497,11 @@ OC fanart
 2025-04-22 16:45:39,040 - INFO - Downloaded media from https://preview.redd.it/wveru03qcewe1.jpg?width=2160&format=pjpg&auto=webp&s=bc5563b27c6a5d34a6c7d55dc11682a6a3750596 to temp_image.jpg
 2025-04-22 16:45:40,364 - INFO - Posted content successfully. Tweet ID: 1914722279528829413
 2025-04-22 17:13:48,958 - ERROR - Error in main loop: 'u'
+2025-04-22 17:39:25,330 - INFO - Content: Celebrating Earth Day! (Art by me)
+Earth Day fanart! I’m really happy with how this turned out. I haven’t made anything like this before. 🪷 I hope Blizzard re-releases the Flower Friends spray. I need it so bad…
+2025-04-22 17:39:25,331 - INFO - Image Paths: ['https://preview.redd.it/8mq34kc86fwe1.jpg?width=4400&format=pjpg&auto=webp&s=50827ea31cf729295245008bfc970db5a06af521', 'https://preview.redd.it/j2dwnjc86fwe1.jpg?width=4400&format=pjpg&auto=webp&s=1ad112d8478b25e3d435a18288ca34da04f51a00', 'https://preview.redd.it/eaioxqc86fwe1.jpg?width=4400&format=pjpg&auto=webp&s=b3897b51d52f041178bfeceb213a780bafea1b48']
+2025-04-22 17:39:25,331 - INFO - Video Path: 
+2025-04-22 17:39:25,359 - INFO - Downloaded media from https://preview.redd.it/8mq34kc86fwe1.jpg?width=4400&format=pjpg&auto=webp&s=50827ea31cf729295245008bfc970db5a06af521 to temp_image.jpg
+2025-04-22 17:39:26,999 - INFO - Downloaded media from https://preview.redd.it/j2dwnjc86fwe1.jpg?width=4400&format=pjpg&auto=webp&s=1ad112d8478b25e3d435a18288ca34da04f51a00 to temp_image.jpg
+2025-04-22 17:39:28,163 - INFO - Downloaded media from https://preview.redd.it/eaioxqc86fwe1.jpg?width=4400&format=pjpg&auto=webp&s=b3897b51d52f041178bfeceb213a780bafea1b48 to temp_image.jpg
+2025-04-22 17:39:30,131 - INFO - Posted content successfully. Tweet ID: 1914735825478090838
