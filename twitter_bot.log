@@ -489,3 +489,10 @@ For better quality download the image.
 2025-04-22 15:39:47,298 - INFO - Downloaded media from https://v.redd.it/dfkk6dixndwe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-04-22 15:39:47,616 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-22 15:39:56,287 - INFO - Posted content successfully. Tweet ID: 1914705737910976518
+2025-04-22 16:45:38,041 - INFO - Content: Mercury Juno
+OC fanart 
+2025-04-22 16:45:38,042 - INFO - Image Paths: ['https://preview.redd.it/x4kyw23qcewe1.jpg?width=2160&format=pjpg&auto=webp&s=31f69c81e9d274a4fda5eb4579831871ef00ce7a', 'https://preview.redd.it/wveru03qcewe1.jpg?width=2160&format=pjpg&auto=webp&s=bc5563b27c6a5d34a6c7d55dc11682a6a3750596']
+2025-04-22 16:45:38,042 - INFO - Video Path: 
+2025-04-22 16:45:38,209 - INFO - Downloaded media from https://preview.redd.it/x4kyw23qcewe1.jpg?width=2160&format=pjpg&auto=webp&s=31f69c81e9d274a4fda5eb4579831871ef00ce7a to temp_image.jpg
+2025-04-22 16:45:39,040 - INFO - Downloaded media from https://preview.redd.it/wveru03qcewe1.jpg?width=2160&format=pjpg&auto=webp&s=bc5563b27c6a5d34a6c7d55dc11682a6a3750596 to temp_image.jpg
+2025-04-22 16:45:40,364 - INFO - Posted content successfully. Tweet ID: 1914722279528829413
