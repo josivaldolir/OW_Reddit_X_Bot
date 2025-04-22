@@ -546,3 +546,13 @@ Also, no one plz don't say "well it'll be in lootboxes next season" THAT IS NOT 
 2025-04-22 20:40:21,342 - INFO - Video Path: 
 2025-04-22 20:40:21,365 - INFO - Downloaded media from https://preview.redd.it/5iqlup5axfwe1.jpeg?auto=webp&s=ebf4c2da378d9572cc8da460ca53fa46b4bb20a6 to temp_image.jpg
 2025-04-22 20:40:22,315 - INFO - Posted content successfully. Tweet ID: 1914781344187502763
+2025-04-22 21:15:25,845 - INFO - Content: Dokiwatch art I have done so far
+
+2025-04-22 21:15:25,846 - INFO - Image Paths: ['https://preview.redd.it/etxcq020cfwe1.png?width=1041&format=png&auto=webp&s=fcbde7a90a363f6492940c8c068abb0e49e2a7b1', 'https://preview.redd.it/xbm5dz61cfwe1.png?width=1681&format=png&auto=webp&s=0e32bf17f70e13a25af1832158e7cf1869e9a998', 'https://preview.redd.it/2xuu8du1cfwe1.png?width=1581&format=png&auto=webp&s=e5080183af29bc798b17e2019464192e9cd5d683', 'https://preview.redd.it/9qv4n6x2cfwe1.png?width=4129&format=png&auto=webp&s=013630069aa8b230439440e2989ae0bb04231b26']
+2025-04-22 21:15:25,846 - INFO - Video Path: 
+2025-04-22 21:15:25,929 - INFO - Downloaded media from https://preview.redd.it/etxcq020cfwe1.png?width=1041&format=png&auto=webp&s=fcbde7a90a363f6492940c8c068abb0e49e2a7b1 to temp_image.jpg
+2025-04-22 21:15:27,221 - INFO - Downloaded media from https://preview.redd.it/xbm5dz61cfwe1.png?width=1681&format=png&auto=webp&s=0e32bf17f70e13a25af1832158e7cf1869e9a998 to temp_image.jpg
+2025-04-22 21:15:28,054 - INFO - Downloaded media from https://preview.redd.it/2xuu8du1cfwe1.png?width=1581&format=png&auto=webp&s=e5080183af29bc798b17e2019464192e9cd5d683 to temp_image.jpg
+2025-04-22 21:15:28,851 - INFO - Downloaded media from https://preview.redd.it/9qv4n6x2cfwe1.png?width=4129&format=png&auto=webp&s=013630069aa8b230439440e2989ae0bb04231b26 to temp_image.jpg
+2025-04-22 21:15:32,997 - ERROR - Failed to post content: 503 Service Unavailable
+Service Unavailable
