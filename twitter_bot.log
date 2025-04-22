@@ -440,3 +440,11 @@ Hope you all like it and get a good laugh
 2025-04-22 10:42:51,895 - ERROR - Error in main loop: 'u'
 2025-04-22 11:13:24,703 - ERROR - Error in main loop: 'u'
 2025-04-22 11:36:40,640 - ERROR - Error in main loop: 'u'
+2025-04-22 12:29:25,039 - INFO - Content: Mercy mythic weapon showcase
+Credit from TT china ( don't mind the Chinese word here, none our business)
+2025-04-22 12:29:25,039 - INFO - Image Paths: ['https://external-preview.redd.it/M2RtOHpnNG04ZHdlMewzy_w8QUMPKdoWoR9t14qteGquYOaCpUJiXZGU0_RG.png?format=pjpg&auto=webp&s=008710468aa2fe84d5712bf0e4fca06123b27c71']
+2025-04-22 12:29:25,039 - INFO - Video Path: https://v.redd.it/62c1o11m8dwe1/DASH_1080.mp4?source=fallback
+2025-04-22 12:29:25,645 - INFO - Downloaded media from https://v.redd.it/62c1o11m8dwe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-22 12:29:25,691 - INFO - Downloaded media from https://v.redd.it/62c1o11m8dwe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-22 12:29:26,133 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-22 12:29:31,575 - INFO - Posted content successfully. Tweet ID: 1914657819296715119
