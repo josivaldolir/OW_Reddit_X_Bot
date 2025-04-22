@@ -481,3 +481,11 @@ For better quality download the image.
 2025-04-22 15:17:32,713 - INFO - Video Path: 
 2025-04-22 15:17:32,792 - INFO - Downloaded media from https://preview.redd.it/k82y8tvaudwe1.jpeg?auto=webp&s=60c98d7bef1857bbf90018772a5aba4639b457a6 to temp_image.jpg
 2025-04-22 15:17:34,066 - INFO - Posted content successfully. Tweet ID: 1914700107662205001
+2025-04-22 15:39:46,678 - INFO - Content: Average Silver Tanks
+
+2025-04-22 15:39:46,678 - INFO - Image Paths: ['https://external-preview.redd.it/dnR6cjZjaXhuZHdlMR3NmUD-MA5FLxxDLJI8rkRbiWhRnaOuvGWjqnDErHyP.png?format=pjpg&auto=webp&s=604b03c88ac9c8a14904fffe814a31c6de763f8c']
+2025-04-22 15:39:46,678 - INFO - Video Path: https://v.redd.it/dfkk6dixndwe1/DASH_1080.mp4?source=fallback
+2025-04-22 15:39:47,219 - INFO - Downloaded media from https://v.redd.it/dfkk6dixndwe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-22 15:39:47,298 - INFO - Downloaded media from https://v.redd.it/dfkk6dixndwe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-22 15:39:47,616 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-22 15:39:56,287 - INFO - Posted content successfully. Tweet ID: 1914705737910976518
