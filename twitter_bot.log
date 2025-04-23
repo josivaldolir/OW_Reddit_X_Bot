@@ -678,3 +678,11 @@ Its embarassing. She looks like a clown. I have a dark skin tone and wear bright
 2025-04-23 09:17:32,984 - INFO - Video Path: 
 2025-04-23 09:17:33,243 - INFO - Downloaded media from https://preview.redd.it/4a1belbpihwe1.jpeg?auto=webp&s=55fa1213e22048927d56e0778d173547038558f8 to temp_image.jpg
 2025-04-23 09:17:34,349 - INFO - Posted content successfully. Tweet ID: 1914971900197101972
+2025-04-23 09:39:57,956 - INFO - Content: The Juno mythic is so good, best one in a long while imo.
+
+2025-04-23 09:39:57,956 - INFO - Image Paths: ['https://external-preview.redd.it/OXhxdzc4cGZhandlMSjCTBEl_uYUcakmkRN1owk0tqda9ZGBbxclPNRORPuH.png?format=pjpg&auto=webp&s=d1cff1d5d249202b4f6290686da578b9391f6280']
+2025-04-23 09:39:57,957 - INFO - Video Path: https://v.redd.it/5q7uzbpfajwe1/DASH_1080.mp4?source=fallback
+2025-04-23 09:39:58,163 - INFO - Downloaded media from https://v.redd.it/5q7uzbpfajwe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-23 09:39:58,241 - INFO - Downloaded media from https://v.redd.it/5q7uzbpfajwe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-23 09:39:58,640 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-23 09:40:03,420 - INFO - Posted content successfully. Tweet ID: 1914977558803722484
