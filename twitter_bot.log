@@ -779,3 +779,9 @@ There seems to be a bug where her body floats and clips through the outfit on he
 2025-04-23 16:19:35,381 - INFO - Downloaded media from https://preview.redd.it/wxcs8cs4rlwe1.png?auto=webp&s=acdf55df5add203d47b0866fc08eb0c364beb9fb to temp_image.jpg
 2025-04-23 16:19:36,023 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-23 16:49:07,196 - INFO - Content: When you make a big play in stadium but the commentator starts hyping up someone else
+Why doesn't the stadium commentator love me
+2025-04-23 16:49:07,196 - INFO - Image Paths: ['https://preview.redd.it/nwhd5r3vmlwe1.jpeg?auto=webp&s=077c33adcc3c77477979f4b5ffa0d97761762682']
+2025-04-23 16:49:07,196 - INFO - Video Path: 
+2025-04-23 16:49:07,406 - INFO - Downloaded media from https://preview.redd.it/nwhd5r3vmlwe1.jpeg?auto=webp&s=077c33adcc3c77477979f4b5ffa0d97761762682 to temp_image.jpg
+2025-04-23 16:49:08,208 - INFO - Posted content successfully. Tweet ID: 1915085540233560238
