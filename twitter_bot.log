@@ -664,3 +664,11 @@ Let's face it, there are some characters in this mode that are really strong, an
 2025-04-23 08:20:16,621 - INFO - Video Path: 
 2025-04-23 08:20:16,805 - INFO - Downloaded media from https://preview.redd.it/p5ffccwtkhwe1.png?auto=webp&s=422e66a6a1f33cd1bd6fb326dce4bffc5ca110a8 to temp_image.jpg
 2025-04-23 08:20:17,589 - INFO - Posted content successfully. Tweet ID: 1914957485389005149
+2025-04-23 08:46:17,900 - INFO - Content: How it feels to fight Freja
+
+2025-04-23 08:46:17,901 - INFO - Image Paths: ['https://external-preview.redd.it/ZGs2MmFjamQ2aXdlMTsx_3AJaeCinMG5i8YrnlCp5hl3CSj5D73IKxWloXat.png?format=pjpg&auto=webp&s=920928f2331d5078ae1055fb5f0e6b0dace77e5f']
+2025-04-23 08:46:17,901 - INFO - Video Path: https://v.redd.it/5cp6yejd6iwe1/DASH_1080.mp4?source=fallback
+2025-04-23 08:46:18,747 - INFO - Downloaded media from https://v.redd.it/5cp6yejd6iwe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-23 08:46:18,804 - INFO - Downloaded media from https://v.redd.it/5cp6yejd6iwe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-23 08:46:19,107 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-23 08:46:26,051 - INFO - Posted content successfully. Tweet ID: 1914964064322965884
