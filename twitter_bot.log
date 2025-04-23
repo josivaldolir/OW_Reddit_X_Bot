@@ -731,3 +731,9 @@ Too Many Requests
 2025-04-23 13:06:14,899 - INFO - Downloaded media from https://v.redd.it/basp1pt1viwe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-04-23 13:06:15,189 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-23 13:06:24,928 - INFO - Posted content successfully. Tweet ID: 1915029490587275627
+2025-04-23 13:46:29,743 - INFO - Content: A tank's gotta do what a tank's gotta do
+
+2025-04-23 13:46:29,743 - INFO - Image Paths: ['https://preview.redd.it/ui0jka0b0lwe1.png?auto=webp&s=79232b37c32f167abac4f4a68da1f9e006bb9833']
+2025-04-23 13:46:29,743 - INFO - Video Path: 
+2025-04-23 13:46:30,001 - INFO - Downloaded media from https://preview.redd.it/ui0jka0b0lwe1.png?auto=webp&s=79232b37c32f167abac4f4a68da1f9e006bb9833 to temp_image.jpg
+2025-04-23 13:46:31,602 - INFO - Posted content successfully. Tweet ID: 1915039582468685868
