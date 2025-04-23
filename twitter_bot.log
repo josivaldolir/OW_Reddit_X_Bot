@@ -737,3 +737,10 @@ Too Many Requests
 2025-04-23 13:46:29,743 - INFO - Video Path: 
 2025-04-23 13:46:30,001 - INFO - Downloaded media from https://preview.redd.it/ui0jka0b0lwe1.png?auto=webp&s=79232b37c32f167abac4f4a68da1f9e006bb9833 to temp_image.jpg
 2025-04-23 13:46:31,602 - INFO - Posted content successfully. Tweet ID: 1915039582468685868
+2025-04-23 14:15:39,375 - INFO - Content: Please tell me I’m not the only one who saw the resemblance…
+
+2025-04-23 14:15:39,375 - INFO - Image Paths: ['https://preview.redd.it/zhmazdk5ykwe1.jpeg?auto=webp&s=ba942bb9e934554d30568894f5f1290bdaa288d3']
+2025-04-23 14:15:39,375 - INFO - Video Path: 
+2025-04-23 14:15:39,409 - INFO - Downloaded media from https://preview.redd.it/zhmazdk5ykwe1.jpeg?auto=webp&s=ba942bb9e934554d30568894f5f1290bdaa288d3 to temp_image.jpg
+2025-04-23 14:15:40,078 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
