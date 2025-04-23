@@ -714,3 +714,12 @@ I came back to overwatch with the return of loot boxes. Especially since they co
 2025-04-23 11:35:57,178 - INFO - Image Paths: []
 2025-04-23 11:35:57,178 - INFO - Video Path: 
 2025-04-23 11:35:57,510 - INFO - Posted content successfully. Tweet ID: 1915006726459285955
+2025-04-23 12:29:47,407 - INFO - Content: How it feels sometimes
+Sorry first time trying to make video meme
+2025-04-23 12:29:47,407 - INFO - Image Paths: ['https://external-preview.redd.it/MTlkMjhxcTRsaHdlMaRgVKBae7rljcz6EszPMI68cIzif1lyFCdH81sYUR4v.png?format=pjpg&auto=webp&s=207ca459bd46071ea21e7ba0ca6bb91fa4871ad4']
+2025-04-23 12:29:47,407 - INFO - Video Path: https://v.redd.it/wc782uu4lhwe1/DASH_480.mp4?source=fallback
+2025-04-23 12:29:47,477 - INFO - Downloaded media from https://v.redd.it/wc782uu4lhwe1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-04-23 12:29:47,515 - INFO - Downloaded media from https://v.redd.it/wc782uu4lhwe1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-04-23 12:29:47,783 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-23 12:29:49,665 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
