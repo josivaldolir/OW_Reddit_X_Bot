@@ -792,3 +792,10 @@ There seems to be a bug where her body floats and clips through the outfit on he
 2025-04-23 17:13:14,322 - INFO - Downloaded media from https://preview.redd.it/wxcs8cs4rlwe1.png?auto=webp&s=acdf55df5add203d47b0866fc08eb0c364beb9fb to temp_image.jpg
 2025-04-23 17:13:15,188 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-23 17:41:43,720 - INFO - Content: Juno’s head model floating and misaligned on new skin
+There seems to be a bug where her body floats and clips through the outfit on her new skin.
+2025-04-23 17:41:43,720 - INFO - Image Paths: ['https://preview.redd.it/wxcs8cs4rlwe1.png?auto=webp&s=acdf55df5add203d47b0866fc08eb0c364beb9fb']
+2025-04-23 17:41:43,720 - INFO - Video Path: 
+2025-04-23 17:41:43,935 - INFO - Downloaded media from https://preview.redd.it/wxcs8cs4rlwe1.png?auto=webp&s=acdf55df5add203d47b0866fc08eb0c364beb9fb to temp_image.jpg
+2025-04-23 17:41:44,534 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
