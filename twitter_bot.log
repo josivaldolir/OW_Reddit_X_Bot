@@ -692,3 +692,9 @@ Didn't see this posted here yet, correct me if wrong.
 2025-04-23 10:17:04,668 - INFO - Video Path: 
 2025-04-23 10:17:04,949 - INFO - Downloaded media from https://preview.redd.it/jbf6s9hmoiwe1.png?auto=webp&s=da12817e7fe94e68f6ac57aa973b0143797b769e to temp_image.jpg
 2025-04-23 10:17:06,820 - INFO - Posted content successfully. Tweet ID: 1914986881575714817
+2025-04-23 10:44:30,668 - INFO - Content: Sombra players reading the hero bans article
+
+2025-04-23 10:44:30,669 - INFO - Image Paths: ['https://preview.redd.it/k7iewzdmakwe1.jpeg?auto=webp&s=5624cc9593cca2735f81ba1137d770dba4423362']
+2025-04-23 10:44:30,669 - INFO - Video Path: 
+2025-04-23 10:44:30,693 - INFO - Downloaded media from https://preview.redd.it/k7iewzdmakwe1.jpeg?auto=webp&s=5624cc9593cca2735f81ba1137d770dba4423362 to temp_image.jpg
+2025-04-23 10:44:31,678 - INFO - Posted content successfully. Tweet ID: 1914993783357243636
