@@ -871,3 +871,9 @@ New cookware battle.net avatars!
 2025-04-23 23:14:48,295 - INFO - Downloaded media from https://v.redd.it/0fbdun8cbnwe1/DASH_480.mp4?source=fallback to temp_audio.mp4
 2025-04-23 23:14:48,713 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-23 23:14:54,530 - INFO - Posted content successfully. Tweet ID: 1915182623028371930
+2025-04-23 23:37:08,225 - INFO - Content: Like wait for the potg screen.
+
+2025-04-23 23:37:08,225 - INFO - Image Paths: ['https://preview.redd.it/apjf3ylsmmwe1.jpeg?auto=webp&s=9513f6ca3d86ba3b32ebc20e85be14f5d4828a9f']
+2025-04-23 23:37:08,225 - INFO - Video Path: 
+2025-04-23 23:37:08,451 - INFO - Downloaded media from https://preview.redd.it/apjf3ylsmmwe1.jpeg?auto=webp&s=9513f6ca3d86ba3b32ebc20e85be14f5d4828a9f to temp_image.jpg
+2025-04-23 23:37:09,676 - INFO - Posted content successfully. Tweet ID: 1915188222738722947
