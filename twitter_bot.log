@@ -832,3 +832,10 @@ Obviously it's not a problem with most of his skins since his head is fully cove
 2025-04-23 20:18:12,672 - INFO - Video Path: 
 2025-04-23 20:18:12,738 - INFO - Downloaded media from https://preview.redd.it/hup3iqg2wlwe1.png?auto=webp&s=e246e34a77fbe0c10eb7c29d76143359364c607e to temp_image.jpg
 2025-04-23 20:18:14,137 - INFO - Posted content successfully. Tweet ID: 1915138160763560203
+2025-04-23 20:41:26,708 - INFO - Content: Hero bans in a nutshell
+
+2025-04-23 20:41:26,708 - INFO - Image Paths: ['https://preview.redd.it/d0jddv2n1nwe1.jpeg?auto=webp&s=4180113d26e78599bf3521c0624e8af07ceff584']
+2025-04-23 20:41:26,708 - INFO - Video Path: 
+2025-04-23 20:41:26,935 - INFO - Downloaded media from https://preview.redd.it/d0jddv2n1nwe1.jpeg?auto=webp&s=4180113d26e78599bf3521c0624e8af07ceff584 to temp_image.jpg
+2025-04-23 20:41:27,794 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
