@@ -1009,3 +1009,11 @@ Ban system is a tool to control your experience with the game, so why use it to 
 2025-04-24 09:40:09,654 - INFO - Image Paths: []
 2025-04-24 09:40:09,654 - INFO - Video Path: 
 2025-04-24 09:40:10,008 - INFO - Posted content successfully. Tweet ID: 1915339974506918312
+2025-04-24 10:16:40,315 - INFO - Content: Ramattra warned them more than 2 years ago
+
+2025-04-24 10:16:40,315 - INFO - Image Paths: ['https://external-preview.redd.it/bmUyZTZhN2lxbndlMbg4iegQpMMqYhG-R7y8nRNLTcDYduc6yQYQ2AuMser0.png?format=pjpg&auto=webp&s=cd417cf3dba63dd27f644dde16d223d27685bf6a']
+2025-04-24 10:16:40,315 - INFO - Video Path: https://v.redd.it/43pd6baiqnwe1/DASH_480.mp4?source=fallback
+2025-04-24 10:16:40,440 - INFO - Downloaded media from https://v.redd.it/43pd6baiqnwe1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-04-24 10:16:40,457 - INFO - Downloaded media from https://v.redd.it/43pd6baiqnwe1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-04-24 10:16:40,757 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-24 10:16:44,032 - INFO - Posted content successfully. Tweet ID: 1915349176751174035
