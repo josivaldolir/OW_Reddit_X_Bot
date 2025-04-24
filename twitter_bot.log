@@ -1046,3 +1046,10 @@ Too Many Requests
 2025-04-24 12:30:41,116 - INFO - Downloaded media from https://preview.redd.it/13ge6ucozmwe1.jpeg?auto=webp&s=bbe4dc772794eed7e1789c74fbb84312e3486aa4 to temp_image.jpg
 2025-04-24 12:30:42,276 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-24 13:26:24,057 - INFO - Content: They way Ashe holds her gun in the main menu background bothers me way too much.
+Why? The artist had so many reference pictures and they still got it wrong? And nobody asked them to correct it until it was too late? Literally unplayable.
+2025-04-24 13:26:24,057 - INFO - Image Paths: ['https://preview.redd.it/009f44w7yrwe1.png?auto=webp&s=7b709e48d3a39305e50018ef8b0a91dedeb22c25']
+2025-04-24 13:26:24,057 - INFO - Video Path: 
+2025-04-24 13:26:24,247 - INFO - Downloaded media from https://preview.redd.it/009f44w7yrwe1.png?auto=webp&s=7b709e48d3a39305e50018ef8b0a91dedeb22c25 to temp_image.jpg
+2025-04-24 13:26:24,990 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
