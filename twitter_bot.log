@@ -1039,3 +1039,10 @@ Too Many Requests
 2025-04-24 11:35:59,521 - INFO - Downloaded media from https://preview.redd.it/13ge6ucozmwe1.jpeg?auto=webp&s=bbe4dc772794eed7e1789c74fbb84312e3486aa4 to temp_image.jpg
 2025-04-24 11:36:00,656 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-24 12:30:41,095 - INFO - Content: Art of war.
+
+2025-04-24 12:30:41,095 - INFO - Image Paths: ['https://preview.redd.it/13ge6ucozmwe1.jpeg?auto=webp&s=bbe4dc772794eed7e1789c74fbb84312e3486aa4']
+2025-04-24 12:30:41,095 - INFO - Video Path: 
+2025-04-24 12:30:41,116 - INFO - Downloaded media from https://preview.redd.it/13ge6ucozmwe1.jpeg?auto=webp&s=bbe4dc772794eed7e1789c74fbb84312e3486aa4 to temp_image.jpg
+2025-04-24 12:30:42,276 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
