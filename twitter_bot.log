@@ -964,3 +964,13 @@ Too Many Requests
 2025-04-24 07:39:00,148 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-24 07:39:03,238 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-24 08:21:07,193 - INFO - Content: my updated kiri cosplay :P
+the quality is so difficult but hayy…….
+2025-04-24 08:21:07,193 - INFO - Image Paths: ['https://preview.redd.it/fdnbd2u2fqwe1.jpg?width=1242&format=pjpg&auto=webp&s=f5865eb7b3ea11f05cbb41ac145879c6c8d93333', 'https://preview.redd.it/r3sbh1u2fqwe1.jpg?width=1242&format=pjpg&auto=webp&s=8ad2e9c13e492b0724f7699ac9ed8a01b882410e', 'https://preview.redd.it/l5se82u2fqwe1.jpg?width=1242&format=pjpg&auto=webp&s=2e1e1d370082c44dce6641e6610570aef70473f6', 'https://preview.redd.it/10q8m2u2fqwe1.jpg?width=1242&format=pjpg&auto=webp&s=832fd7c0d6fdc5c99aa6df2b8da19a63c6ee5512']
+2025-04-24 08:21:07,193 - INFO - Video Path: 
+2025-04-24 08:21:07,397 - INFO - Downloaded media from https://preview.redd.it/fdnbd2u2fqwe1.jpg?width=1242&format=pjpg&auto=webp&s=f5865eb7b3ea11f05cbb41ac145879c6c8d93333 to temp_image.jpg
+2025-04-24 08:21:08,110 - INFO - Downloaded media from https://preview.redd.it/r3sbh1u2fqwe1.jpg?width=1242&format=pjpg&auto=webp&s=8ad2e9c13e492b0724f7699ac9ed8a01b882410e to temp_image.jpg
+2025-04-24 08:21:08,766 - INFO - Downloaded media from https://preview.redd.it/l5se82u2fqwe1.jpg?width=1242&format=pjpg&auto=webp&s=2e1e1d370082c44dce6641e6610570aef70473f6 to temp_image.jpg
+2025-04-24 08:21:09,405 - INFO - Downloaded media from https://preview.redd.it/10q8m2u2fqwe1.jpg?width=1242&format=pjpg&auto=webp&s=832fd7c0d6fdc5c99aa6df2b8da19a63c6ee5512 to temp_image.jpg
+2025-04-24 08:21:10,234 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
