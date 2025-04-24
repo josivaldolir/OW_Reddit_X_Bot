@@ -1096,3 +1096,10 @@ Too Many Requests
 2025-04-24 16:18:33,656 - INFO - Downloaded media from https://preview.redd.it/ykrbet8koswe1.jpeg?auto=webp&s=7325ae9496771fef27eb59c3bdf1d6b06b5dd6c0 to temp_image.jpg
 2025-04-24 16:18:34,431 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-24 16:46:04,797 - INFO - Content: r/SombraMains right now
+
+2025-04-24 16:46:04,797 - INFO - Image Paths: ['https://preview.redd.it/ykrbet8koswe1.jpeg?auto=webp&s=7325ae9496771fef27eb59c3bdf1d6b06b5dd6c0']
+2025-04-24 16:46:04,797 - INFO - Video Path: 
+2025-04-24 16:46:04,826 - INFO - Downloaded media from https://preview.redd.it/ykrbet8koswe1.jpeg?auto=webp&s=7325ae9496771fef27eb59c3bdf1d6b06b5dd6c0 to temp_image.jpg
+2025-04-24 16:46:05,373 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
