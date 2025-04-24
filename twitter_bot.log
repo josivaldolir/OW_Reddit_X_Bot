@@ -1103,3 +1103,12 @@ Too Many Requests
 2025-04-24 16:46:04,826 - INFO - Downloaded media from https://preview.redd.it/ykrbet8koswe1.jpeg?auto=webp&s=7325ae9496771fef27eb59c3bdf1d6b06b5dd6c0 to temp_image.jpg
 2025-04-24 16:46:05,373 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-24 17:14:11,515 - INFO - Content: new Genji skin looked familiar
+Couldn't help myself. The victory pose is peak but then skin? I don't think I can ever see it the same way
+2025-04-24 17:14:11,515 - INFO - Image Paths: ['https://preview.redd.it/3prsunmxcswe1.png?width=1310&format=png&auto=webp&s=7535ce578f1ec466083574b476018a0645c48d60', 'https://preview.redd.it/6lt2ptmxcswe1.png?width=1310&format=png&auto=webp&s=92eb4a161b518a1524b8cb271261ac248d3bd552', 'https://preview.redd.it/2j570smxcswe1.png?width=269&format=png&auto=webp&s=4b88d2d9b33dfe804a63c3954324ecdb725fcbef']
+2025-04-24 17:14:11,515 - INFO - Video Path: 
+2025-04-24 17:14:11,576 - INFO - Downloaded media from https://preview.redd.it/3prsunmxcswe1.png?width=1310&format=png&auto=webp&s=7535ce578f1ec466083574b476018a0645c48d60 to temp_image.jpg
+2025-04-24 17:14:12,969 - INFO - Downloaded media from https://preview.redd.it/6lt2ptmxcswe1.png?width=1310&format=png&auto=webp&s=92eb4a161b518a1524b8cb271261ac248d3bd552 to temp_image.jpg
+2025-04-24 17:14:15,844 - INFO - Downloaded media from https://preview.redd.it/2j570smxcswe1.png?width=269&format=png&auto=webp&s=4b88d2d9b33dfe804a63c3954324ecdb725fcbef to temp_image.jpg
+2025-04-24 17:14:18,921 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
