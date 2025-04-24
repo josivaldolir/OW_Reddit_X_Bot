@@ -902,3 +902,10 @@ Too Many Requests
 2025-04-24 03:35:27,247 - INFO - Downloaded media from https://preview.redd.it/cnaz7x62qowe1.jpeg?auto=webp&s=9296706a74bf743800857781efe2108393f8e21c to temp_image.jpg
 2025-04-24 03:35:27,898 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-24 04:18:11,046 - INFO - Content: Brig's profile photo in battlenet seems like a draft comparing to others
+What is happening to my Brig
+2025-04-24 04:18:11,046 - INFO - Image Paths: ['https://preview.redd.it/an759jnucnwe1.png?width=420&format=png&auto=webp&s=2c3c500675f8b3cc34f71d4978c33902eb6efb09', 'https://preview.redd.it/9o9rz89scnwe1.png?width=396&format=png&auto=webp&s=a6fd916d798a1a5c184c0fec6012740b5f48123c']
+2025-04-24 04:18:11,046 - INFO - Video Path: 
+2025-04-24 04:18:11,251 - INFO - Downloaded media from https://preview.redd.it/an759jnucnwe1.png?width=420&format=png&auto=webp&s=2c3c500675f8b3cc34f71d4978c33902eb6efb09 to temp_image.jpg
+2025-04-24 04:18:11,690 - INFO - Downloaded media from https://preview.redd.it/9o9rz89scnwe1.png?width=396&format=png&auto=webp&s=a6fd916d798a1a5c184c0fec6012740b5f48123c to temp_image.jpg
+2025-04-24 04:18:12,445 - INFO - Posted content successfully. Tweet ID: 1915258950444081640
