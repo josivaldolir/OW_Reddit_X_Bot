@@ -1178,3 +1178,10 @@ I just knew that's what he's do
 2025-04-24 21:14:39,468 - INFO - Downloaded media from https://preview.redd.it/0ujodo0i8swe1.png?auto=webp&s=c913daeae1f333e63a437224415b3a20169536bc to temp_image.jpg
 2025-04-24 21:14:40,282 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-24 21:37:36,214 - INFO - Content: "Just counter her its not hard." I did. With a ban.
+
+2025-04-24 21:37:36,214 - INFO - Image Paths: ['https://preview.redd.it/6xi8u6zqmuwe1.jpeg?auto=webp&s=afa1df0ea848b3accc6052ef274d2d249da13e12']
+2025-04-24 21:37:36,214 - INFO - Video Path: 
+2025-04-24 21:37:36,234 - INFO - Downloaded media from https://preview.redd.it/6xi8u6zqmuwe1.jpeg?auto=webp&s=afa1df0ea848b3accc6052ef274d2d249da13e12 to temp_image.jpg
+2025-04-24 21:37:36,923 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
