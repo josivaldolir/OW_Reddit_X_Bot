@@ -1158,3 +1158,10 @@ Does anyone else feels like this is an extremely bad precedent to set for Brigit
 2025-04-24 19:36:15,746 - INFO - Video Path: 
 2025-04-24 19:36:15,769 - INFO - Downloaded media from https://preview.redd.it/oqs5sn2x5twe1.jpeg?auto=webp&s=b80966501525224eab8dfee77902065c8962b018 to temp_image.jpg
 2025-04-24 19:36:16,726 - INFO - Posted content successfully. Tweet ID: 1915489990424793420
+2025-04-24 20:16:58,681 - INFO - Content: Lmao thought this was funny
+I just knew that's what he's do
+2025-04-24 20:16:58,681 - INFO - Image Paths: ['https://preview.redd.it/0ujodo0i8swe1.png?auto=webp&s=c913daeae1f333e63a437224415b3a20169536bc']
+2025-04-24 20:16:58,681 - INFO - Video Path: 
+2025-04-24 20:16:58,728 - INFO - Downloaded media from https://preview.redd.it/0ujodo0i8swe1.png?auto=webp&s=c913daeae1f333e63a437224415b3a20169536bc to temp_image.jpg
+2025-04-24 20:16:59,480 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
