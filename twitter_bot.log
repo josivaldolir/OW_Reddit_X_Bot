@@ -1205,3 +1205,9 @@ Too Many Requests
 2025-04-24 23:13:56,622 - INFO - Downloaded media from https://preview.redd.it/2oa4nun06vwe1.jpeg?auto=webp&s=251b16df61a4834bfe928a348f62543e3e7afca7 to temp_image.jpg
 2025-04-24 23:13:57,250 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-24 23:36:50,444 - INFO - Content: indescribable pain and suffering.
+
+2025-04-24 23:36:50,444 - INFO - Image Paths: ['https://preview.redd.it/2oa4nun06vwe1.jpeg?auto=webp&s=251b16df61a4834bfe928a348f62543e3e7afca7']
+2025-04-24 23:36:50,444 - INFO - Video Path: 
+2025-04-24 23:36:50,571 - INFO - Downloaded media from https://preview.redd.it/2oa4nun06vwe1.jpeg?auto=webp&s=251b16df61a4834bfe928a348f62543e3e7afca7 to temp_image.jpg
+2025-04-24 23:36:51,437 - INFO - Posted content successfully. Tweet ID: 1915550534163194117
