@@ -916,3 +916,10 @@ What is happening to my Brig
 2025-04-24 04:42:59,404 - INFO - Downloaded media from https://preview.redd.it/cnaz7x62qowe1.jpeg?auto=webp&s=9296706a74bf743800857781efe2108393f8e21c to temp_image.jpg
 2025-04-24 04:43:00,036 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-24 05:15:34,614 - INFO - Content: I am not banning her, but still find it extremely funny because we all knew this was going to happen
+
+2025-04-24 05:15:34,614 - INFO - Image Paths: ['https://preview.redd.it/cnaz7x62qowe1.jpeg?auto=webp&s=9296706a74bf743800857781efe2108393f8e21c']
+2025-04-24 05:15:34,614 - INFO - Video Path: 
+2025-04-24 05:15:34,785 - INFO - Downloaded media from https://preview.redd.it/cnaz7x62qowe1.jpeg?auto=webp&s=9296706a74bf743800857781efe2108393f8e21c to temp_image.jpg
+2025-04-24 05:15:35,373 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
