@@ -955,3 +955,12 @@ What do you all think?  Game are too long right?
 2025-04-24 07:23:21,741 - INFO - Video Path: 
 2025-04-24 07:23:21,871 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-24 07:38:56,712 - INFO - Content: Ramattra warned them more than 2 years ago
+
+2025-04-24 07:38:56,712 - INFO - Image Paths: ['https://external-preview.redd.it/bmUyZTZhN2lxbndlMbg4iegQpMMqYhG-R7y8nRNLTcDYduc6yQYQ2AuMser0.png?format=pjpg&auto=webp&s=cd417cf3dba63dd27f644dde16d223d27685bf6a']
+2025-04-24 07:38:56,712 - INFO - Video Path: https://v.redd.it/43pd6baiqnwe1/DASH_480.mp4?source=fallback
+2025-04-24 07:38:56,754 - INFO - Downloaded media from https://v.redd.it/43pd6baiqnwe1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-04-24 07:38:56,781 - INFO - Downloaded media from https://v.redd.it/43pd6baiqnwe1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-04-24 07:39:00,148 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-24 07:39:03,238 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
