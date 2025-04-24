@@ -1185,3 +1185,9 @@ Too Many Requests
 2025-04-24 21:37:36,234 - INFO - Downloaded media from https://preview.redd.it/6xi8u6zqmuwe1.jpeg?auto=webp&s=afa1df0ea848b3accc6052ef274d2d249da13e12 to temp_image.jpg
 2025-04-24 21:37:36,923 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-24 22:14:15,175 - INFO - Content: "Just counter her its not hard." I did. With a ban.
+
+2025-04-24 22:14:15,175 - INFO - Image Paths: ['https://preview.redd.it/6xi8u6zqmuwe1.jpeg?auto=webp&s=afa1df0ea848b3accc6052ef274d2d249da13e12']
+2025-04-24 22:14:15,175 - INFO - Video Path: 
+2025-04-24 22:14:15,389 - INFO - Downloaded media from https://preview.redd.it/6xi8u6zqmuwe1.jpeg?auto=webp&s=afa1df0ea848b3accc6052ef274d2d249da13e12 to temp_image.jpg
+2025-04-24 22:14:16,234 - INFO - Posted content successfully. Tweet ID: 1915529750552207397
