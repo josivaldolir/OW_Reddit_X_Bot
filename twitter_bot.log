@@ -1352,3 +1352,9 @@ I cannot find anything out about this, you can't convince me that's a real woman
 2025-04-25 10:42:48,467 - INFO - Downloaded media from https://v.redd.it/lrca7h6ixvwe1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-04-25 10:42:48,980 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-25 10:42:51,145 - INFO - Posted content successfully. Tweet ID: 1915718137519222872
+2025-04-25 11:12:46,916 - INFO - Content: Almost got that title 😔
+It's been an awful experience 
+2025-04-25 11:12:46,916 - INFO - Image Paths: ['https://preview.redd.it/iuk4y45p4ywe1.jpeg?auto=webp&s=1c49ec9881ccde6f9027290d6d1e6cb8a5593e94']
+2025-04-25 11:12:46,916 - INFO - Video Path: 
+2025-04-25 11:12:47,098 - INFO - Downloaded media from https://preview.redd.it/iuk4y45p4ywe1.jpeg?auto=webp&s=1c49ec9881ccde6f9027290d6d1e6cb8a5593e94 to temp_image.jpg
+2025-04-25 11:12:48,196 - INFO - Posted content successfully. Tweet ID: 1915725674511523995
