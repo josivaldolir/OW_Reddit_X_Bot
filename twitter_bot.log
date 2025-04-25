@@ -1218,3 +1218,10 @@ Too Many Requests
 2025-04-25 01:11:11,634 - INFO - Downloaded media from https://preview.redd.it/r8dz5cqsevwe1.gif?format=png8&s=a740b88ac20263feaaa70d20b930eeb87f540487 to temp_image.jpg
 2025-04-25 01:11:12,309 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-25 02:51:30,130 - INFO - Content: I’m Tired Boss
+
+2025-04-25 02:51:30,130 - INFO - Image Paths: ['https://preview.redd.it/r8dz5cqsevwe1.gif?format=png8&s=a740b88ac20263feaaa70d20b930eeb87f540487']
+2025-04-25 02:51:30,130 - INFO - Video Path: 
+2025-04-25 02:51:30,197 - INFO - Downloaded media from https://preview.redd.it/r8dz5cqsevwe1.gif?format=png8&s=a740b88ac20263feaaa70d20b930eeb87f540487 to temp_image.jpg
+2025-04-25 02:51:30,845 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
