@@ -1358,3 +1358,10 @@ It's been an awful experience
 2025-04-25 11:12:46,916 - INFO - Video Path: 
 2025-04-25 11:12:47,098 - INFO - Downloaded media from https://preview.redd.it/iuk4y45p4ywe1.jpeg?auto=webp&s=1c49ec9881ccde6f9027290d6d1e6cb8a5593e94 to temp_image.jpg
 2025-04-25 11:12:48,196 - INFO - Posted content successfully. Tweet ID: 1915725674511523995
+2025-04-25 11:35:55,470 - INFO - Content: Problem with newer mythical skins
+Do you also have a problem that mythical skins instead of giving players the opportunity to choose the appearance of weapons, armor, headgear or other things. For some time now we only get the base for the skin and with each level we only get something added to this base (e.g. additional armor or a flame effect on the back)
+2025-04-25 11:35:55,470 - INFO - Image Paths: ['https://preview.redd.it/3019esfiqywe1.jpeg?auto=webp&s=9932a51ae88da6c035be805edc04e56c00696e91']
+2025-04-25 11:35:55,470 - INFO - Video Path: 
+2025-04-25 11:35:55,539 - INFO - Downloaded media from https://preview.redd.it/3019esfiqywe1.jpeg?auto=webp&s=9932a51ae88da6c035be805edc04e56c00696e91 to temp_image.jpg
+2025-04-25 11:35:56,530 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
