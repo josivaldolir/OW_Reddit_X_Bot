@@ -1255,3 +1255,11 @@ Too Many Requests
 2025-04-25 05:15:16,606 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-25 05:15:19,479 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-25 05:40:57,956 - INFO - Content: Zipzipzipzip
+Juno's Glorp epic fanmade skin  
+by me!
+2025-04-25 05:40:57,956 - INFO - Image Paths: ['https://preview.redd.it/19712kd73uwe1.png?auto=webp&s=abdda8077bdad07e5cb58295806b5107fdaecd3c']
+2025-04-25 05:40:57,956 - INFO - Video Path: 
+2025-04-25 05:40:58,188 - INFO - Downloaded media from https://preview.redd.it/19712kd73uwe1.png?auto=webp&s=abdda8077bdad07e5cb58295806b5107fdaecd3c to temp_image.jpg
+2025-04-25 05:40:58,817 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
