@@ -1263,3 +1263,12 @@ by me!
 2025-04-25 05:40:58,188 - INFO - Downloaded media from https://preview.redd.it/19712kd73uwe1.png?auto=webp&s=abdda8077bdad07e5cb58295806b5107fdaecd3c to temp_image.jpg
 2025-04-25 05:40:58,817 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-25 06:21:12,522 - INFO - Content: Keep the rats in their cages
+
+2025-04-25 06:21:12,522 - INFO - Image Paths: ['https://external-preview.redd.it/bTR0ZnZvd21od3dlMfoFc6bAY3BxpvGvsnc3g24etGbCm9KG-QTdlUBk7i2t.png?format=pjpg&auto=webp&s=2be5cd10b2f5cf17a67546f1d75a9bdf53ea8e2e']
+2025-04-25 06:21:12,522 - INFO - Video Path: https://v.redd.it/5gp4xmtmhwwe1/DASH_720.mp4?source=fallback
+2025-04-25 06:21:12,678 - INFO - Downloaded media from https://v.redd.it/5gp4xmtmhwwe1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-04-25 06:21:12,705 - INFO - Downloaded media from https://v.redd.it/5gp4xmtmhwwe1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-04-25 06:21:13,082 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-25 06:21:14,837 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
