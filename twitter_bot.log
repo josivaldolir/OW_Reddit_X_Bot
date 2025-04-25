@@ -1323,3 +1323,10 @@ What a vile, putrid, loathsome, stinky character
 2025-04-25 09:39:51,005 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-25 09:39:52,888 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-25 10:16:44,556 - INFO - Content: a person who thinks all the time…
+
+2025-04-25 10:16:44,556 - INFO - Image Paths: ['https://preview.redd.it/23qysf2zlxwe1.jpg?width=1835&format=pjpg&auto=webp&s=cd241e1913e1c4a6f459d827039787c6275bbd44', 'https://preview.redd.it/2ii1pl2zlxwe1.jpg?width=3024&format=pjpg&auto=webp&s=4ecd86b88167fd15c3fff3ce8f058f89f653bb9b']
+2025-04-25 10:16:44,556 - INFO - Video Path: 
+2025-04-25 10:16:44,722 - INFO - Downloaded media from https://preview.redd.it/23qysf2zlxwe1.jpg?width=1835&format=pjpg&auto=webp&s=cd241e1913e1c4a6f459d827039787c6275bbd44 to temp_image.jpg
+2025-04-25 10:16:45,454 - INFO - Downloaded media from https://preview.redd.it/2ii1pl2zlxwe1.jpg?width=3024&format=pjpg&auto=webp&s=4ecd86b88167fd15c3fff3ce8f058f89f653bb9b to temp_image.jpg
+2025-04-25 10:16:47,220 - INFO - Posted content successfully. Tweet ID: 1915711576142737856
