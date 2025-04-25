@@ -1272,3 +1272,12 @@ Too Many Requests
 2025-04-25 06:21:13,082 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-25 06:21:14,837 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-25 06:47:17,137 - INFO - Content: Keep the rats in their cages
+
+2025-04-25 06:47:17,138 - INFO - Image Paths: ['https://external-preview.redd.it/bTR0ZnZvd21od3dlMfoFc6bAY3BxpvGvsnc3g24etGbCm9KG-QTdlUBk7i2t.png?format=pjpg&auto=webp&s=2be5cd10b2f5cf17a67546f1d75a9bdf53ea8e2e']
+2025-04-25 06:47:17,138 - INFO - Video Path: https://v.redd.it/5gp4xmtmhwwe1/DASH_720.mp4?source=fallback
+2025-04-25 06:47:17,316 - INFO - Downloaded media from https://v.redd.it/5gp4xmtmhwwe1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-04-25 06:47:17,354 - INFO - Downloaded media from https://v.redd.it/5gp4xmtmhwwe1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-04-25 06:47:17,848 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-25 06:47:20,709 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
