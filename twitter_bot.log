@@ -1379,3 +1379,9 @@ Do you also have a problem that mythical skins instead of giving players the opp
 2025-04-25 13:05:57,557 - INFO - Downloaded media from https://preview.redd.it/3019esfiqywe1.jpeg?auto=webp&s=9932a51ae88da6c035be805edc04e56c00696e91 to temp_image.jpg
 2025-04-25 13:05:58,681 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-25 13:43:11,815 - INFO - Content: Literally me and my smol brain looking at stadium armory
+
+2025-04-25 13:43:11,815 - INFO - Image Paths: ['https://preview.redd.it/sywg59tm1zwe1.gif?format=png8&s=2d4b6b7368204e2a53ddb362b904575c0ef76fca']
+2025-04-25 13:43:11,815 - INFO - Video Path: 
+2025-04-25 13:43:12,004 - INFO - Downloaded media from https://preview.redd.it/sywg59tm1zwe1.gif?format=png8&s=2d4b6b7368204e2a53ddb362b904575c0ef76fca to temp_image.jpg
+2025-04-25 13:43:12,853 - INFO - Posted content successfully. Tweet ID: 1915763526997868669
