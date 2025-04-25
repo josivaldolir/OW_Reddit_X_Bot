@@ -1446,3 +1446,10 @@ Too Many Requests
 2025-04-25 18:20:23,525 - INFO - Downloaded media from https://preview.redd.it/cazcfjtai0xe1.jpeg?auto=webp&s=022fb481ed38402e2f056d66c564ad867e554953 to temp_image.jpg
 2025-04-25 18:20:24,315 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-25 18:45:29,479 - INFO - Content: Everybody is talking about the nerf to her thighs, but what about the nerf to her height?
+As the title said, it's absolutely ridiculous that the devs have been getting away with something as big as nerfing her height. Do they just hate Brigitte players or something? First, they nerfed her thighs, now her height. 
+2025-04-25 18:45:29,480 - INFO - Image Paths: ['https://preview.redd.it/jdmcrociezwe1.png?auto=webp&s=8e0e6f9d77c11b4c05906816878b18633cbf97e6']
+2025-04-25 18:45:29,480 - INFO - Video Path: 
+2025-04-25 18:45:29,604 - INFO - Downloaded media from https://preview.redd.it/jdmcrociezwe1.png?auto=webp&s=8e0e6f9d77c11b4c05906816878b18633cbf97e6 to temp_image.jpg
+2025-04-25 18:45:30,349 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
