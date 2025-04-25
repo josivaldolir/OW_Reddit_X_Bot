@@ -1246,3 +1246,12 @@ Thank god we're getting crossplay, so poor dude doesn't have to suffer on consol
 2025-04-25 04:44:08,052 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-25 04:44:10,878 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-25 05:15:15,971 - INFO - Content: Keep the rats in their cages
+
+2025-04-25 05:15:15,971 - INFO - Image Paths: ['https://external-preview.redd.it/bTR0ZnZvd21od3dlMfoFc6bAY3BxpvGvsnc3g24etGbCm9KG-QTdlUBk7i2t.png?format=pjpg&auto=webp&s=2be5cd10b2f5cf17a67546f1d75a9bdf53ea8e2e']
+2025-04-25 05:15:15,971 - INFO - Video Path: https://v.redd.it/5gp4xmtmhwwe1/DASH_720.mp4?source=fallback
+2025-04-25 05:15:16,126 - INFO - Downloaded media from https://v.redd.it/5gp4xmtmhwwe1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-04-25 05:15:16,169 - INFO - Downloaded media from https://v.redd.it/5gp4xmtmhwwe1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-04-25 05:15:16,606 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-25 05:15:19,479 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
