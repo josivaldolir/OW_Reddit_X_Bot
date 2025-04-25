@@ -1330,3 +1330,25 @@ Too Many Requests
 2025-04-25 10:16:44,722 - INFO - Downloaded media from https://preview.redd.it/23qysf2zlxwe1.jpg?width=1835&format=pjpg&auto=webp&s=cd241e1913e1c4a6f459d827039787c6275bbd44 to temp_image.jpg
 2025-04-25 10:16:45,454 - INFO - Downloaded media from https://preview.redd.it/2ii1pl2zlxwe1.jpg?width=3024&format=pjpg&auto=webp&s=4ecd86b88167fd15c3fff3ce8f058f89f653bb9b to temp_image.jpg
 2025-04-25 10:16:47,220 - INFO - Posted content successfully. Tweet ID: 1915711576142737856
+2025-04-25 10:42:48,126 - INFO - Content: Mercy's German VA has been likely replaced by AI
+In S16 in the German dub of OW2 there was a voiceline added in the battle pass that translates to
+
+"You are a real plague"
+
+However, the "woman" that speaks is NOT the same voice we have known for 8 years now
+
+Her Swiss, yes german dub Mercy has an actual SWISS accent is gone
+
+Mercy speaks perfect, accentless Germany German now
+
+She seems to be 20 years old now
+
+She seems to have lost all sense of emotion and pronounciation, the german VA was VERY alive and one of the most liked german voices in the translated version
+
+I cannot find anything out about this, you can't convince me that's a real woman (I grew up in Austria/Switzerland, what happend? 
+2025-04-25 10:42:48,126 - INFO - Image Paths: ['https://external-preview.redd.it/YmI5c255MGl4dndlMVMUqciwB--H-Q751mR6Tv91hYFcEf4kx5F4kYPEV_rE.png?format=pjpg&auto=webp&s=c5c9ed7db67a89fccff546d66eee8cfce5491f10']
+2025-04-25 10:42:48,126 - INFO - Video Path: https://v.redd.it/lrca7h6ixvwe1/DASH_720.mp4?source=fallback
+2025-04-25 10:42:48,425 - INFO - Downloaded media from https://v.redd.it/lrca7h6ixvwe1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-04-25 10:42:48,467 - INFO - Downloaded media from https://v.redd.it/lrca7h6ixvwe1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-04-25 10:42:48,980 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-25 10:42:51,145 - INFO - Posted content successfully. Tweet ID: 1915718137519222872
