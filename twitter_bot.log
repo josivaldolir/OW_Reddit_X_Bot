@@ -1439,3 +1439,10 @@ As the title said, it's absolutely ridiculous that the devs have been getting aw
 2025-04-25 17:38:44,997 - INFO - Downloaded media from https://preview.redd.it/jdmcrociezwe1.png?auto=webp&s=8e0e6f9d77c11b4c05906816878b18633cbf97e6 to temp_image.jpg
 2025-04-25 17:38:45,732 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-25 18:20:23,480 - INFO - Content: Some of you may get banned, but that is a sacrifice I'm willing to make
+
+2025-04-25 18:20:23,481 - INFO - Image Paths: ['https://preview.redd.it/cazcfjtai0xe1.jpeg?auto=webp&s=022fb481ed38402e2f056d66c564ad867e554953']
+2025-04-25 18:20:23,481 - INFO - Video Path: 
+2025-04-25 18:20:23,525 - INFO - Downloaded media from https://preview.redd.it/cazcfjtai0xe1.jpeg?auto=webp&s=022fb481ed38402e2f056d66c564ad867e554953 to temp_image.jpg
+2025-04-25 18:20:24,315 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
