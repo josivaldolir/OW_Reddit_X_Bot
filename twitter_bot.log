@@ -1507,3 +1507,10 @@ Supports are pretty much all safe, which is nice as a Support main. Sometimes we
 2025-04-25 22:14:10,074 - INFO - Downloaded media from https://preview.redd.it/0u69qzba50xe1.png?auto=webp&s=cc93e11c1663ccf9df03a19e6777791a91f49b7e to temp_image.jpg
 2025-04-25 22:14:10,940 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-25 22:42:32,522 - INFO - Content: Can’t we agree to disagree on this one?
+I don’t get why we can’t enjoy both games without downing the other one? They’re both good games.
+2025-04-25 22:42:32,522 - INFO - Image Paths: ['https://preview.redd.it/za9t15jj02xe1.jpeg?auto=webp&s=4ea8a9d541163f2a4f10de291b98863ef424c6fa']
+2025-04-25 22:42:32,522 - INFO - Video Path: 
+2025-04-25 22:42:32,604 - INFO - Downloaded media from https://preview.redd.it/za9t15jj02xe1.jpeg?auto=webp&s=4ea8a9d541163f2a4f10de291b98863ef424c6fa to temp_image.jpg
+2025-04-25 22:42:33,443 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
