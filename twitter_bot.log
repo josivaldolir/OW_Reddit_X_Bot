@@ -1412,3 +1412,10 @@ Do you also have a problem that mythical skins instead of giving players the opp
 2025-04-25 15:39:07,720 - INFO - Downloaded media from https://preview.redd.it/b8af87egwzwe1.png?auto=webp&s=8a92ad1b922a30f387c6bf041c9a9dab6045f213 to temp_image.jpg
 2025-04-25 15:39:08,436 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-25 16:18:14,188 - INFO - Content: I don't see anyone play D.va in Stadium. I understand why though.
+
+2025-04-25 16:18:14,188 - INFO - Image Paths: ['https://preview.redd.it/b8af87egwzwe1.png?auto=webp&s=8a92ad1b922a30f387c6bf041c9a9dab6045f213']
+2025-04-25 16:18:14,188 - INFO - Video Path: 
+2025-04-25 16:18:14,345 - INFO - Downloaded media from https://preview.redd.it/b8af87egwzwe1.png?auto=webp&s=8a92ad1b922a30f387c6bf041c9a9dab6045f213 to temp_image.jpg
+2025-04-25 16:18:15,078 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
