@@ -1426,3 +1426,9 @@ As the title said, it's absolutely ridiculous that the devs have been getting aw
 2025-04-25 16:45:24,625 - INFO - Downloaded media from https://preview.redd.it/jdmcrociezwe1.png?auto=webp&s=8e0e6f9d77c11b4c05906816878b18633cbf97e6 to temp_image.jpg
 2025-04-25 16:45:25,480 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-25 17:13:10,874 - INFO - Content: I don't see anyone play D.va in Stadium. I understand why though.
+
+2025-04-25 17:13:10,875 - INFO - Image Paths: ['https://preview.redd.it/b8af87egwzwe1.png?auto=webp&s=8a92ad1b922a30f387c6bf041c9a9dab6045f213']
+2025-04-25 17:13:10,875 - INFO - Video Path: 
+2025-04-25 17:13:11,081 - INFO - Downloaded media from https://preview.redd.it/b8af87egwzwe1.png?auto=webp&s=8a92ad1b922a30f387c6bf041c9a9dab6045f213 to temp_image.jpg
+2025-04-25 17:13:12,762 - INFO - Posted content successfully. Tweet ID: 1915816373974143323
