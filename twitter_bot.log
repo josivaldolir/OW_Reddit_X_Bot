@@ -1288,3 +1288,10 @@ by me!
 2025-04-25 07:14:57,776 - INFO - Video Path: 
 2025-04-25 07:14:57,955 - INFO - Downloaded media from https://preview.redd.it/19712kd73uwe1.png?auto=webp&s=abdda8077bdad07e5cb58295806b5107fdaecd3c to temp_image.jpg
 2025-04-25 07:14:59,035 - INFO - Posted content successfully. Tweet ID: 1915665824884691230
+2025-04-25 07:36:42,402 - INFO - Content: How it feels after another night of 100% sombra bans
+What a vile, putrid, loathsome, stinky character 
+2025-04-25 07:36:42,402 - INFO - Image Paths: ['https://preview.redd.it/b0tmxs6hmwwe1.jpeg?auto=webp&s=eceb23043b54cbad7db436371b6c20be056a75a1']
+2025-04-25 07:36:42,402 - INFO - Video Path: 
+2025-04-25 07:36:42,427 - INFO - Downloaded media from https://preview.redd.it/b0tmxs6hmwwe1.jpeg?auto=webp&s=eceb23043b54cbad7db436371b6c20be056a75a1 to temp_image.jpg
+2025-04-25 07:36:43,329 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
