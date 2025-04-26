@@ -1667,3 +1667,10 @@ Too Many Requests
 2025-04-26 12:26:18,619 - INFO - Downloaded media from https://preview.redd.it/ocat9kng45xe1.jpeg?auto=webp&s=8548f147764a79abbc5f865be36dd59f4748e811 to temp_image.jpg
 2025-04-26 12:26:19,501 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-26 12:58:27,549 - INFO - Content: Looks like their propaganda was useless
+
+2025-04-26 12:58:27,549 - INFO - Image Paths: ['https://preview.redd.it/ocat9kng45xe1.jpeg?auto=webp&s=8548f147764a79abbc5f865be36dd59f4748e811']
+2025-04-26 12:58:27,549 - INFO - Video Path: 
+2025-04-26 12:58:27,961 - INFO - Downloaded media from https://preview.redd.it/ocat9kng45xe1.jpeg?auto=webp&s=8548f147764a79abbc5f865be36dd59f4748e811 to temp_image.jpg
+2025-04-26 12:58:28,775 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
