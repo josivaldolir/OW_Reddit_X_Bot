@@ -1710,3 +1710,10 @@ I legitimately thought of giving this one up but it was actually kinda fun to gr
 2025-04-26 15:15:38,289 - INFO - Downloaded media from https://preview.redd.it/kqyno0ayp6xe1.png?width=575&format=png&auto=webp&s=2657d0d988916b053c258ef8c01fd3de7fa4544c to temp_image.jpg
 2025-04-26 15:15:38,841 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-26 15:36:55,556 - INFO - Content: That was actually kinda fun ngl
+I legitimately thought of giving this one up but it was actually kinda fun to grind. 
+2025-04-26 15:36:55,556 - INFO - Image Paths: ['https://preview.redd.it/yqdbpz1op6xe1.png?width=575&format=png&auto=webp&s=fe3ed842b83747eebb8a954b3323803a670e8b47', 'https://preview.redd.it/kqyno0ayp6xe1.png?width=575&format=png&auto=webp&s=2657d0d988916b053c258ef8c01fd3de7fa4544c']
+2025-04-26 15:36:55,556 - INFO - Video Path: 
+2025-04-26 15:36:55,595 - INFO - Downloaded media from https://preview.redd.it/yqdbpz1op6xe1.png?width=575&format=png&auto=webp&s=fe3ed842b83747eebb8a954b3323803a670e8b47 to temp_image.jpg
+2025-04-26 15:36:56,074 - INFO - Downloaded media from https://preview.redd.it/kqyno0ayp6xe1.png?width=575&format=png&auto=webp&s=2657d0d988916b053c258ef8c01fd3de7fa4544c to temp_image.jpg
+2025-04-26 15:36:57,383 - INFO - Posted content successfully. Tweet ID: 1916154536693207090
