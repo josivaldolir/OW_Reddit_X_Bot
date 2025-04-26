@@ -1680,3 +1680,12 @@ Too Many Requests
 2025-04-26 13:25:02,372 - INFO - Video Path: 
 2025-04-26 13:25:02,602 - INFO - Downloaded media from https://preview.redd.it/ocat9kng45xe1.jpeg?auto=webp&s=8548f147764a79abbc5f865be36dd59f4748e811 to temp_image.jpg
 2025-04-26 13:25:07,061 - INFO - Posted content successfully. Tweet ID: 1916121360604270971
+2025-04-26 13:39:57,679 - INFO - Content: HD Gundam Skins on their own
+
+2025-04-26 13:39:57,679 - INFO - Image Paths: ['https://preview.redd.it/1gb88n3zh5xe1.jpg?width=1080&format=pjpg&auto=webp&s=0d959858d96f2340112443fb4e0327e35a48c59e', 'https://preview.redd.it/o8t46n3zh5xe1.jpg?width=1080&format=pjpg&auto=webp&s=a0ebfbb8dcb586c6c132821d2cab229156dd0b69', 'https://preview.redd.it/dk14xs3zh5xe1.jpg?width=1080&format=pjpg&auto=webp&s=b6bf09f12d9b499900bd6cd70c6f096fcbdbd3a5', 'https://preview.redd.it/25f2bn3zh5xe1.jpg?width=640&format=pjpg&auto=webp&s=db7989b95fb0d0da35cdc8980ffd8e77733c9edb']
+2025-04-26 13:39:57,679 - INFO - Video Path: 
+2025-04-26 13:39:57,921 - INFO - Downloaded media from https://preview.redd.it/1gb88n3zh5xe1.jpg?width=1080&format=pjpg&auto=webp&s=0d959858d96f2340112443fb4e0327e35a48c59e to temp_image.jpg
+2025-04-26 13:39:58,720 - INFO - Downloaded media from https://preview.redd.it/o8t46n3zh5xe1.jpg?width=1080&format=pjpg&auto=webp&s=a0ebfbb8dcb586c6c132821d2cab229156dd0b69 to temp_image.jpg
+2025-04-26 13:39:59,515 - INFO - Downloaded media from https://preview.redd.it/dk14xs3zh5xe1.jpg?width=1080&format=pjpg&auto=webp&s=b6bf09f12d9b499900bd6cd70c6f096fcbdbd3a5 to temp_image.jpg
+2025-04-26 13:40:00,217 - INFO - Downloaded media from https://preview.redd.it/25f2bn3zh5xe1.jpg?width=640&format=pjpg&auto=webp&s=db7989b95fb0d0da35cdc8980ffd8e77733c9edb to temp_image.jpg
+2025-04-26 13:40:01,728 - INFO - Posted content successfully. Tweet ID: 1916125110869938526
