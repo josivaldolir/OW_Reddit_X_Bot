@@ -1765,3 +1765,9 @@ But of course there are problems, like not being able to play with my Pc friends
 2025-04-26 19:12:02,185 - INFO - Downloaded media from https://preview.redd.it/dq3gn2gz77xe1.png?auto=webp&s=e2c821f76da5f6508af80dc83b389efad7f77130 to temp_image.jpg
 2025-04-26 19:12:03,210 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-26 19:35:42,738 - INFO - Content: I'm loving this.
+But of course there are problems, like not being able to play with my Pc friends, people leaving the game and not very good characters (only Dva who melts to anyone) Otherwise there is room for improvement, but it is already very good.
+2025-04-26 19:35:42,739 - INFO - Image Paths: ['https://preview.redd.it/dq3gn2gz77xe1.png?auto=webp&s=e2c821f76da5f6508af80dc83b389efad7f77130']
+2025-04-26 19:35:42,739 - INFO - Video Path: 
+2025-04-26 19:35:42,997 - INFO - Downloaded media from https://preview.redd.it/dq3gn2gz77xe1.png?auto=webp&s=e2c821f76da5f6508af80dc83b389efad7f77130 to temp_image.jpg
+2025-04-26 19:35:44,264 - INFO - Posted content successfully. Tweet ID: 1916214629149372690
