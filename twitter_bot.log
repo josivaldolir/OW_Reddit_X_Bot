@@ -1702,3 +1702,11 @@ Too Many Requests
 2025-04-26 14:38:03,553 - INFO - Video Path: 
 2025-04-26 14:38:03,784 - INFO - Downloaded media from https://preview.redd.it/nexltlpcs5xe1.jpeg?auto=webp&s=ddd86d4ed4d3f6f0f6bd51b916cbd0233a30de30 to temp_image.jpg
 2025-04-26 14:38:05,284 - INFO - Posted content successfully. Tweet ID: 1916139722893852951
+2025-04-26 15:15:37,672 - INFO - Content: That was actually kinda fun ngl
+I legitimately thought of giving this one up but it was actually kinda fun to grind. 
+2025-04-26 15:15:37,672 - INFO - Image Paths: ['https://preview.redd.it/yqdbpz1op6xe1.png?width=575&format=png&auto=webp&s=fe3ed842b83747eebb8a954b3323803a670e8b47', 'https://preview.redd.it/kqyno0ayp6xe1.png?width=575&format=png&auto=webp&s=2657d0d988916b053c258ef8c01fd3de7fa4544c']
+2025-04-26 15:15:37,672 - INFO - Video Path: 
+2025-04-26 15:15:37,700 - INFO - Downloaded media from https://preview.redd.it/yqdbpz1op6xe1.png?width=575&format=png&auto=webp&s=fe3ed842b83747eebb8a954b3323803a670e8b47 to temp_image.jpg
+2025-04-26 15:15:38,289 - INFO - Downloaded media from https://preview.redd.it/kqyno0ayp6xe1.png?width=575&format=png&auto=webp&s=2657d0d988916b053c258ef8c01fd3de7fa4544c to temp_image.jpg
+2025-04-26 15:15:38,841 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
