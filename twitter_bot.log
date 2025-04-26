@@ -1554,3 +1554,11 @@ Listen i know missions are a joke, i know if you que for them youll never play i
 2025-04-26 03:50:51,094 - INFO - Downloaded media from https://preview.redd.it/p6a8vraji2xe1.jpeg?auto=webp&s=0ee7f1c682ceb20f5491879bc27f7d7bf80dcf5e to temp_image.jpg
 2025-04-26 03:50:51,886 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-26 04:17:18,000 - INFO - Content: Gundam Collab skins spotted in a deleted article
+I don't know if this kind of post is allowed, but I saw these in a deleted polygon article, and got really excited. (Ramattra looks absolutely gorgeous)
+2025-04-26 04:17:18,001 - INFO - Image Paths: ['https://preview.redd.it/rf0gtlpej3xe1.png?width=2400&format=png&auto=webp&s=618e8dc4642da097bbcd2efa69a3eddb3a5897d8', 'https://preview.redd.it/g3plqmoej3xe1.png?width=3840&format=png&auto=webp&s=a8e18beb8f0303b56431c3aaafcc8e1e913d7889', 'https://preview.redd.it/lj15fkpej3xe1.jpg?width=933&format=pjpg&auto=webp&s=e56fddc56b011d4af51f0d00ed22b0e00f3c876c']
+2025-04-26 04:17:18,001 - INFO - Video Path: 
+2025-04-26 04:17:18,255 - INFO - Downloaded media from https://preview.redd.it/rf0gtlpej3xe1.png?width=2400&format=png&auto=webp&s=618e8dc4642da097bbcd2efa69a3eddb3a5897d8 to temp_image.jpg
+2025-04-26 04:17:19,094 - INFO - Downloaded media from https://preview.redd.it/g3plqmoej3xe1.png?width=3840&format=png&auto=webp&s=a8e18beb8f0303b56431c3aaafcc8e1e913d7889 to temp_image.jpg
+2025-04-26 04:17:20,020 - INFO - Downloaded media from https://preview.redd.it/lj15fkpej3xe1.jpg?width=933&format=pjpg&auto=webp&s=e56fddc56b011d4af51f0d00ed22b0e00f3c876c to temp_image.jpg
+2025-04-26 04:17:22,709 - INFO - Posted content successfully. Tweet ID: 1915983509824672051
