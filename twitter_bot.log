@@ -1592,3 +1592,11 @@ Got these today in a new survey. GIVE ME PINK CATS, PLEASE.
 2025-04-26 06:19:33,296 - INFO - Video Path: 
 2025-04-26 06:19:33,585 - INFO - Downloaded media from https://preview.redd.it/plga8au893xe1.jpeg?auto=webp&s=91c24b7e14da10f2dad55cb7d44c703d3c50c56b to temp_image.jpg
 2025-04-26 06:19:34,464 - INFO - Posted content successfully. Tweet ID: 1916014269084405898
+2025-04-26 06:44:50,385 - INFO - Content: I swear whatever is in a Nano makes his mind as clear as day.
+
+2025-04-26 06:44:50,386 - INFO - Image Paths: ['https://external-preview.redd.it/OHIwNjNxNTh4MHhlMUrv8aPltaLsMGpGDiqI5foZP6wV_HDpc7YAoIBMHpjX.png?format=pjpg&auto=webp&s=7e4b1e79523ac5765f4d99c35a988b6ef6911775']
+2025-04-26 06:44:50,386 - INFO - Video Path: https://v.redd.it/j5p6q398x0xe1/DASH_480.mp4?source=fallback
+2025-04-26 06:44:50,624 - INFO - Downloaded media from https://v.redd.it/j5p6q398x0xe1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-04-26 06:44:50,681 - INFO - Downloaded media from https://v.redd.it/j5p6q398x0xe1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-04-26 06:44:52,898 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-26 06:44:55,075 - INFO - Posted content successfully. Tweet ID: 1916020647094083915
