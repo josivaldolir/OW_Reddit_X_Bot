@@ -1534,3 +1534,9 @@ I don’t get why we can’t enjoy both games without downing the other one? The
 2025-04-26 01:08:41,548 - INFO - Downloaded media from https://preview.redd.it/a8pe0m2re2xe1.jpeg?auto=webp&s=5926429fbb9725dd81d69a8319c9541ff5ea26a6 to temp_image.jpg
 2025-04-26 01:08:42,303 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-26 02:44:03,884 - INFO - Content: We are not the same.
+
+2025-04-26 02:44:03,884 - INFO - Image Paths: ['https://preview.redd.it/a8pe0m2re2xe1.jpeg?auto=webp&s=5926429fbb9725dd81d69a8319c9541ff5ea26a6']
+2025-04-26 02:44:03,884 - INFO - Video Path: 
+2025-04-26 02:44:03,916 - INFO - Downloaded media from https://preview.redd.it/a8pe0m2re2xe1.jpeg?auto=webp&s=5926429fbb9725dd81d69a8319c9541ff5ea26a6 to temp_image.jpg
+2025-04-26 02:44:05,152 - INFO - Posted content successfully. Tweet ID: 1915960039468372336
