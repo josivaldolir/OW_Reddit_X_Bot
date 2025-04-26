@@ -1696,3 +1696,9 @@ Too Many Requests
 2025-04-26 14:12:36,473 - INFO - Downloaded media from https://preview.redd.it/nexltlpcs5xe1.jpeg?auto=webp&s=ddd86d4ed4d3f6f0f6bd51b916cbd0233a30de30 to temp_image.jpg
 2025-04-26 14:12:37,638 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-26 14:38:03,552 - INFO - Content: Based on the interaction where Mercy wants to help Reaper instead of Junkrat
+
+2025-04-26 14:38:03,553 - INFO - Image Paths: ['https://preview.redd.it/nexltlpcs5xe1.jpeg?auto=webp&s=ddd86d4ed4d3f6f0f6bd51b916cbd0233a30de30']
+2025-04-26 14:38:03,553 - INFO - Video Path: 
+2025-04-26 14:38:03,784 - INFO - Downloaded media from https://preview.redd.it/nexltlpcs5xe1.jpeg?auto=webp&s=ddd86d4ed4d3f6f0f6bd51b916cbd0233a30de30 to temp_image.jpg
+2025-04-26 14:38:05,284 - INFO - Posted content successfully. Tweet ID: 1916139722893852951
