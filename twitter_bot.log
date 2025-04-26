@@ -1527,3 +1527,10 @@ I don’t get why we can’t enjoy both games without downing the other one? The
 2025-04-25 23:37:01,345 - INFO - Video Path: 
 2025-04-25 23:37:01,367 - INFO - Downloaded media from https://preview.redd.it/za9t15jj02xe1.jpeg?auto=webp&s=4ea8a9d541163f2a4f10de291b98863ef424c6fa to temp_image.jpg
 2025-04-25 23:37:02,363 - INFO - Posted content successfully. Tweet ID: 1915912967864062080
+2025-04-26 01:08:41,424 - INFO - Content: We are not the same.
+
+2025-04-26 01:08:41,424 - INFO - Image Paths: ['https://preview.redd.it/a8pe0m2re2xe1.jpeg?auto=webp&s=5926429fbb9725dd81d69a8319c9541ff5ea26a6']
+2025-04-26 01:08:41,424 - INFO - Video Path: 
+2025-04-26 01:08:41,548 - INFO - Downloaded media from https://preview.redd.it/a8pe0m2re2xe1.jpeg?auto=webp&s=5926429fbb9725dd81d69a8319c9541ff5ea26a6 to temp_image.jpg
+2025-04-26 01:08:42,303 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
