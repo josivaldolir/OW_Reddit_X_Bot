@@ -2061,3 +2061,10 @@ Too Many Requests
 2025-04-27 18:19:57,537 - INFO - Downloaded media from https://v.redd.it/tkth1jqc5exe1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-04-27 18:20:03,855 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-27 18:20:12,258 - INFO - Posted content successfully. Tweet ID: 1916558009750508024
+2025-04-27 18:43:06,496 - INFO - Content: Freya buff that was undone
+Freya was supposed to get buffs but they went back on it 
+2025-04-27 18:43:06,496 - INFO - Image Paths: ['https://preview.redd.it/6tx8m2y1eexe1.png?auto=webp&s=f62709910eca660016c8bba31fb91fe3a007ec36']
+2025-04-27 18:43:06,496 - INFO - Video Path: 
+2025-04-27 18:43:06,619 - INFO - Downloaded media from https://preview.redd.it/6tx8m2y1eexe1.png?auto=webp&s=f62709910eca660016c8bba31fb91fe3a007ec36 to temp_image.jpg
+2025-04-27 18:43:07,417 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
