@@ -1859,3 +1859,10 @@ don't ask me though I wouldn't touch comp with a ten foot pole
 2025-04-27 03:36:29,003 - INFO - Video Path: 
 2025-04-27 03:36:29,231 - INFO - Downloaded media from https://preview.redd.it/r09nwdkyv8xe1.png?auto=webp&s=f6ed2c033f2548b8c7e08c412e7f22a1d474ba71 to temp_image.jpg
 2025-04-27 03:36:30,412 - INFO - Posted content successfully. Tweet ID: 1916335618801701051
+2025-04-27 04:25:52,198 - INFO - Content: Season 16 really did a number on her huh
+
+2025-04-27 04:25:52,198 - INFO - Image Paths: ['https://preview.redd.it/6ikbddhwvaxe1.jpeg?auto=webp&s=3ff73aaf8eab95d4224ffaf0424fb793bed0e763']
+2025-04-27 04:25:52,198 - INFO - Video Path: 
+2025-04-27 04:25:52,416 - INFO - Downloaded media from https://preview.redd.it/6ikbddhwvaxe1.jpeg?auto=webp&s=3ff73aaf8eab95d4224ffaf0424fb793bed0e763 to temp_image.jpg
+2025-04-27 04:25:53,019 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
