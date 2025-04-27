@@ -1949,3 +1949,10 @@ Too Many Requests
 2025-04-27 10:15:03,946 - INFO - Downloaded media from https://preview.redd.it/nlhbbad24cxe1.png?auto=webp&s=f2ea9451c0e7aea1fa4c35a328d032a8e398ade7 to temp_image.jpg
 2025-04-27 10:15:04,601 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-27 10:40:54,833 - INFO - Content: I think blizzard is taking interesting notes, considering this became an actual thing...
+
+2025-04-27 10:40:54,833 - INFO - Image Paths: ['https://preview.redd.it/nlhbbad24cxe1.png?auto=webp&s=f2ea9451c0e7aea1fa4c35a328d032a8e398ade7']
+2025-04-27 10:40:54,833 - INFO - Video Path: 
+2025-04-27 10:40:55,045 - INFO - Downloaded media from https://preview.redd.it/nlhbbad24cxe1.png?auto=webp&s=f2ea9451c0e7aea1fa4c35a328d032a8e398ade7 to temp_image.jpg
+2025-04-27 10:40:55,716 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
