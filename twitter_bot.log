@@ -1,1 +1,8 @@
 
+2025-04-27 19:12:20,338 - INFO - Content: Freya buff that was undone
+Freya was supposed to get buffs but they went back on it 
+2025-04-27 19:12:20,338 - INFO - Image Paths: ['https://preview.redd.it/6tx8m2y1eexe1.png?auto=webp&s=f62709910eca660016c8bba31fb91fe3a007ec36']
+2025-04-27 19:12:20,338 - INFO - Video Path: 
+2025-04-27 19:12:20,771 - INFO - Downloaded media from https://preview.redd.it/6tx8m2y1eexe1.png?auto=webp&s=f62709910eca660016c8bba31fb91fe3a007ec36 to temp_image.jpg
+2025-04-27 19:12:21,894 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
