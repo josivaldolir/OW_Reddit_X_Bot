@@ -1887,3 +1887,10 @@ Too Many Requests
 2025-04-27 05:39:01,002 - INFO - Downloaded media from https://preview.redd.it/6ikbddhwvaxe1.jpeg?auto=webp&s=3ff73aaf8eab95d4224ffaf0424fb793bed0e763 to temp_image.jpg
 2025-04-27 05:39:01,659 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-27 06:21:07,122 - INFO - Content: Season 16 really did a number on her huh
+
+2025-04-27 06:21:07,122 - INFO - Image Paths: ['https://preview.redd.it/6ikbddhwvaxe1.jpeg?auto=webp&s=3ff73aaf8eab95d4224ffaf0424fb793bed0e763']
+2025-04-27 06:21:07,122 - INFO - Video Path: 
+2025-04-27 06:21:07,171 - INFO - Downloaded media from https://preview.redd.it/6ikbddhwvaxe1.jpeg?auto=webp&s=3ff73aaf8eab95d4224ffaf0424fb793bed0e763 to temp_image.jpg
+2025-04-27 06:21:07,774 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
