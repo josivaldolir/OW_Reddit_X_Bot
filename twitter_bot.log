@@ -2053,3 +2053,11 @@ Too Many Requests
 2025-04-27 17:37:31,656 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-27 17:37:37,646 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-27 18:19:57,292 - INFO - Content: Maybe its time to retire my genji..
+
+2025-04-27 18:19:57,292 - INFO - Image Paths: ['https://external-preview.redd.it/ZTA0bHoxdWM1ZXhlMf5bA_S3aenD0nvUj1vlpZlHoClviCmaMNlwscZc-3zG.png?format=pjpg&auto=webp&s=3ac40cff3496c7f021c6eff1573bbda999db5f43']
+2025-04-27 18:19:57,292 - INFO - Video Path: https://v.redd.it/tkth1jqc5exe1/DASH_720.mp4?source=fallback
+2025-04-27 18:19:57,524 - INFO - Downloaded media from https://v.redd.it/tkth1jqc5exe1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-04-27 18:19:57,537 - INFO - Downloaded media from https://v.redd.it/tkth1jqc5exe1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-04-27 18:20:03,855 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-27 18:20:12,258 - INFO - Posted content successfully. Tweet ID: 1916558009750508024
