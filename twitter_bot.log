@@ -2017,3 +2017,10 @@ I've been so obsessed with this mode! But while I'm a support main in normal ove
 2025-04-27 15:14:36,252 - INFO - Video Path: 
 2025-04-27 15:14:36,273 - INFO - Downloaded media from https://preview.redd.it/k3ql6r6l4cxe1.png?auto=webp&s=bd80bc58942f50233a5f3c9526cc36e896a9f3b8 to temp_image.jpg
 2025-04-27 15:14:37,246 - INFO - Posted content successfully. Tweet ID: 1916511305223361004
+2025-04-27 15:36:52,475 - INFO - Content: I think blizzard is taking interesting notes, considering this became an actual thing...
+
+2025-04-27 15:36:52,475 - INFO - Image Paths: ['https://preview.redd.it/nlhbbad24cxe1.png?auto=webp&s=f2ea9451c0e7aea1fa4c35a328d032a8e398ade7']
+2025-04-27 15:36:52,475 - INFO - Video Path: 
+2025-04-27 15:36:52,562 - INFO - Downloaded media from https://preview.redd.it/nlhbbad24cxe1.png?auto=webp&s=f2ea9451c0e7aea1fa4c35a328d032a8e398ade7 to temp_image.jpg
+2025-04-27 15:36:53,339 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
