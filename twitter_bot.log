@@ -60,3 +60,10 @@ Too Many Requests
 2025-04-27 22:38:42,667 - INFO - Downloaded media from https://preview.redd.it/mlx1trmadfxe1.png?auto=webp&s=a9cc11a7c8e78a9e4021e2d1740fcaefc5d9dea2 to temp_image.jpg
 2025-04-27 22:38:43,484 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-27 23:14:30,444 - INFO - Content: Remember that time when they got John Cena to promote PVE. Weirdest timeline.
+
+2025-04-27 23:14:30,444 - INFO - Image Paths: ['https://preview.redd.it/1p7ik0cvfgxe1.png?width=1200&format=png&auto=webp&s=6eda5d1746eb2f11250afb2574b49106228a6664', 'https://preview.redd.it/9usi790ufgxe1.png?width=1920&format=png&auto=webp&s=48ac535af58fa239a12cb337f0cb0f2d1f7e3fe3']
+2025-04-27 23:14:30,444 - INFO - Video Path: 
+2025-04-27 23:14:30,747 - INFO - Downloaded media from https://preview.redd.it/1p7ik0cvfgxe1.png?width=1200&format=png&auto=webp&s=6eda5d1746eb2f11250afb2574b49106228a6664 to temp_image.jpg
+2025-04-27 23:14:31,385 - INFO - Downloaded media from https://preview.redd.it/9usi790ufgxe1.png?width=1920&format=png&auto=webp&s=48ac535af58fa239a12cb337f0cb0f2d1f7e3fe3 to temp_image.jpg
+2025-04-27 23:14:33,022 - INFO - Posted content successfully. Tweet ID: 1916632081410711620
