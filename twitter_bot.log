@@ -39,3 +39,10 @@ Obviously the game still isn’t perfect, the monetization still sticks out as a
 2025-04-27 21:12:49,007 - INFO - Video Path: 
 2025-04-27 21:12:49,199 - INFO - Downloaded media from https://preview.redd.it/o6n62t2jcfxe1.png?auto=webp&s=33c5e044950a983c431dbb78784595d070ad3f84 to temp_image.jpg
 2025-04-27 21:12:50,376 - INFO - Posted content successfully. Tweet ID: 1916601453357207871
+2025-04-27 21:36:00,424 - INFO - Content: Don't go on YouTube right now
+
+2025-04-27 21:36:00,424 - INFO - Image Paths: ['https://preview.redd.it/mlx1trmadfxe1.png?auto=webp&s=a9cc11a7c8e78a9e4021e2d1740fcaefc5d9dea2']
+2025-04-27 21:36:00,424 - INFO - Video Path: 
+2025-04-27 21:36:00,545 - INFO - Downloaded media from https://preview.redd.it/mlx1trmadfxe1.png?auto=webp&s=a9cc11a7c8e78a9e4021e2d1740fcaefc5d9dea2 to temp_image.jpg
+2025-04-27 21:36:01,370 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
