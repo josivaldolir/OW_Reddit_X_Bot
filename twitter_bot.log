@@ -6,3 +6,10 @@ Freya was supposed to get buffs but they went back on it
 2025-04-27 19:12:20,771 - INFO - Downloaded media from https://preview.redd.it/6tx8m2y1eexe1.png?auto=webp&s=f62709910eca660016c8bba31fb91fe3a007ec36 to temp_image.jpg
 2025-04-27 19:12:21,894 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-27 19:35:31,468 - INFO - Content: Stadium meatriding will continue
+
+2025-04-27 19:35:31,468 - INFO - Image Paths: ['https://preview.redd.it/o6n62t2jcfxe1.png?auto=webp&s=33c5e044950a983c431dbb78784595d070ad3f84']
+2025-04-27 19:35:31,468 - INFO - Video Path: 
+2025-04-27 19:35:31,595 - INFO - Downloaded media from https://preview.redd.it/o6n62t2jcfxe1.png?auto=webp&s=33c5e044950a983c431dbb78784595d070ad3f84 to temp_image.jpg
+2025-04-27 19:35:32,388 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
