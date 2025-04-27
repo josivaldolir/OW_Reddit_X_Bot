@@ -1963,3 +1963,10 @@ Too Many Requests
 2025-04-27 11:11:18,237 - INFO - Downloaded media from https://preview.redd.it/nlhbbad24cxe1.png?auto=webp&s=f2ea9451c0e7aea1fa4c35a328d032a8e398ade7 to temp_image.jpg
 2025-04-27 11:11:18,951 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-27 11:36:54,497 - INFO - Content: Average Stadium experience
+I know many are struggling right now with the new mode, but these moments are just peak overwat 
+2025-04-27 11:36:54,498 - INFO - Image Paths: ['https://preview.redd.it/pqc0v4i7eaxe1.jpeg?auto=webp&s=c7966f317ab96127c1e2a25a9f608f20d9e7d4f8']
+2025-04-27 11:36:54,498 - INFO - Video Path: 
+2025-04-27 11:36:54,611 - INFO - Downloaded media from https://preview.redd.it/pqc0v4i7eaxe1.jpeg?auto=webp&s=c7966f317ab96127c1e2a25a9f608f20d9e7d4f8 to temp_image.jpg
+2025-04-27 11:36:55,217 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
