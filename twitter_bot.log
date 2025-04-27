@@ -1977,3 +1977,9 @@ Too Many Requests
 2025-04-27 12:27:16,893 - INFO - Downloaded media from https://preview.redd.it/y23w97zhvcxe1.png?auto=webp&s=4c66612018337c8fa38335e4b7015bdd1a4db38c to temp_image.jpg
 2025-04-27 12:27:17,559 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-27 12:58:51,172 - INFO - Content: Canon
+
+2025-04-27 12:58:51,172 - INFO - Image Paths: ['https://preview.redd.it/y23w97zhvcxe1.png?auto=webp&s=4c66612018337c8fa38335e4b7015bdd1a4db38c']
+2025-04-27 12:58:51,172 - INFO - Video Path: 
+2025-04-27 12:58:51,390 - INFO - Downloaded media from https://preview.redd.it/y23w97zhvcxe1.png?auto=webp&s=4c66612018337c8fa38335e4b7015bdd1a4db38c to temp_image.jpg
+2025-04-27 12:58:52,456 - INFO - Posted content successfully. Tweet ID: 1916477144206909461
