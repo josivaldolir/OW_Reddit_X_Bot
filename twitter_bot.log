@@ -2044,3 +2044,12 @@ God im sick of these 2gb updates lol
 2025-04-27 17:13:30,250 - INFO - Downloaded media from https://preview.redd.it/sgp1a7d8l9xe1.jpeg?auto=webp&s=b8bdfcb385e7b9749fb44582367f5e99bedd66c8 to temp_image.jpg
 2025-04-27 17:13:31,010 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-27 17:37:31,009 - INFO - Content: Maybe its time to retire my genji..
+
+2025-04-27 17:37:31,009 - INFO - Image Paths: ['https://external-preview.redd.it/ZTA0bHoxdWM1ZXhlMf5bA_S3aenD0nvUj1vlpZlHoClviCmaMNlwscZc-3zG.png?format=pjpg&auto=webp&s=3ac40cff3496c7f021c6eff1573bbda999db5f43']
+2025-04-27 17:37:31,009 - INFO - Video Path: https://v.redd.it/tkth1jqc5exe1/DASH_720.mp4?source=fallback
+2025-04-27 17:37:31,057 - INFO - Downloaded media from https://v.redd.it/tkth1jqc5exe1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-04-27 17:37:31,076 - INFO - Downloaded media from https://v.redd.it/tkth1jqc5exe1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-04-27 17:37:31,656 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-27 17:37:37,646 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
