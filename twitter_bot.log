@@ -1990,3 +1990,10 @@ I know many are struggling right now with the new mode, but these moments are ju
 2025-04-27 13:25:40,585 - INFO - Downloaded media from https://preview.redd.it/pqc0v4i7eaxe1.jpeg?auto=webp&s=c7966f317ab96127c1e2a25a9f608f20d9e7d4f8 to temp_image.jpg
 2025-04-27 13:25:41,241 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-27 13:39:31,853 - INFO - Content: Do only supports play this mode?
+I've been so obsessed with this mode! But while I'm a support main in normal overwatch I never feel like waiting so long to play it lol
+2025-04-27 13:39:31,853 - INFO - Image Paths: ['https://preview.redd.it/k3ql6r6l4cxe1.png?auto=webp&s=bd80bc58942f50233a5f3c9526cc36e896a9f3b8']
+2025-04-27 13:39:31,853 - INFO - Video Path: 
+2025-04-27 13:39:32,392 - INFO - Downloaded media from https://preview.redd.it/k3ql6r6l4cxe1.png?auto=webp&s=bd80bc58942f50233a5f3c9526cc36e896a9f3b8 to temp_image.jpg
+2025-04-27 13:39:33,219 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
