@@ -46,3 +46,10 @@ Obviously the game still isn’t perfect, the monetization still sticks out as a
 2025-04-27 21:36:00,545 - INFO - Downloaded media from https://preview.redd.it/mlx1trmadfxe1.png?auto=webp&s=a9cc11a7c8e78a9e4021e2d1740fcaefc5d9dea2 to temp_image.jpg
 2025-04-27 21:36:01,370 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-27 22:13:35,643 - INFO - Content: Don't go on YouTube right now
+
+2025-04-27 22:13:35,644 - INFO - Image Paths: ['https://preview.redd.it/mlx1trmadfxe1.png?auto=webp&s=a9cc11a7c8e78a9e4021e2d1740fcaefc5d9dea2']
+2025-04-27 22:13:35,644 - INFO - Video Path: 
+2025-04-27 22:13:35,679 - INFO - Downloaded media from https://preview.redd.it/mlx1trmadfxe1.png?auto=webp&s=a9cc11a7c8e78a9e4021e2d1740fcaefc5d9dea2 to temp_image.jpg
+2025-04-27 22:13:36,572 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
