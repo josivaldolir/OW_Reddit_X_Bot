@@ -13,3 +13,10 @@ Too Many Requests
 2025-04-27 19:35:31,595 - INFO - Downloaded media from https://preview.redd.it/o6n62t2jcfxe1.png?auto=webp&s=33c5e044950a983c431dbb78784595d070ad3f84 to temp_image.jpg
 2025-04-27 19:35:32,388 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-27 20:15:16,622 - INFO - Content: Stadium meatriding will continue
+
+2025-04-27 20:15:16,622 - INFO - Image Paths: ['https://preview.redd.it/o6n62t2jcfxe1.png?auto=webp&s=33c5e044950a983c431dbb78784595d070ad3f84']
+2025-04-27 20:15:16,622 - INFO - Video Path: 
+2025-04-27 20:15:16,679 - INFO - Downloaded media from https://preview.redd.it/o6n62t2jcfxe1.png?auto=webp&s=33c5e044950a983c431dbb78784595d070ad3f84 to temp_image.jpg
+2025-04-27 20:15:17,475 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
