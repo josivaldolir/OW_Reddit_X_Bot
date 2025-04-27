@@ -1970,3 +1970,10 @@ I know many are struggling right now with the new mode, but these moments are ju
 2025-04-27 11:36:54,611 - INFO - Downloaded media from https://preview.redd.it/pqc0v4i7eaxe1.jpeg?auto=webp&s=c7966f317ab96127c1e2a25a9f608f20d9e7d4f8 to temp_image.jpg
 2025-04-27 11:36:55,217 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-27 12:27:16,698 - INFO - Content: Canon
+
+2025-04-27 12:27:16,698 - INFO - Image Paths: ['https://preview.redd.it/y23w97zhvcxe1.png?auto=webp&s=4c66612018337c8fa38335e4b7015bdd1a4db38c']
+2025-04-27 12:27:16,698 - INFO - Video Path: 
+2025-04-27 12:27:16,893 - INFO - Downloaded media from https://preview.redd.it/y23w97zhvcxe1.png?auto=webp&s=4c66612018337c8fa38335e4b7015bdd1a4db38c to temp_image.jpg
+2025-04-27 12:27:17,559 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
