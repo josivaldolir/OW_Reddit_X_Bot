@@ -162,3 +162,11 @@ I just wanna play :(
 2025-04-28 10:50:29,016 - INFO - Video Path: 
 2025-04-28 10:50:29,054 - INFO - Downloaded media from https://preview.redd.it/3418rdi3wixe1.jpeg?auto=webp&s=9221d92886d5495df609028160d915728556abd4 to temp_image.jpg
 2025-04-28 10:50:30,600 - INFO - Posted content successfully. Tweet ID: 1916807227274572049
+2025-04-28 11:33:37,274 - INFO - Content: Our Juno got POTG for dancing in stadium
+Everyone on their team left but a few in stadium. No one killed each other and POTG went to the Juno
+2025-04-28 11:33:37,275 - INFO - Image Paths: ['https://external-preview.redd.it/MXc1aTZ6cmJiaHhlMZhLm-RUYjBgje6M1mdnvJi0rfX5oFMA6BtJokkUNxte.png?format=pjpg&auto=webp&s=a6a6196b8023aa8a5dfb62f7ee58751721edda64']
+2025-04-28 11:33:37,275 - INFO - Video Path: https://v.redd.it/n9v3upqbbhxe1/DASH_1080.mp4?source=fallback
+2025-04-28 11:33:37,389 - INFO - Downloaded media from https://v.redd.it/n9v3upqbbhxe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-28 11:33:37,596 - INFO - Downloaded media from https://v.redd.it/n9v3upqbbhxe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-28 11:33:37,857 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-28 11:33:43,450 - INFO - Posted content successfully. Tweet ID: 1916818103373099074
