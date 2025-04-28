@@ -156,3 +156,9 @@ Everyone on their team left but a few in stadium. No one killed each other and P
 2025-04-28 08:57:34,457 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-28 08:57:39,494 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-28 10:50:29,016 - INFO - Content: WTF
+I just wanna play :(
+2025-04-28 10:50:29,016 - INFO - Image Paths: ['https://preview.redd.it/3418rdi3wixe1.jpeg?auto=webp&s=9221d92886d5495df609028160d915728556abd4']
+2025-04-28 10:50:29,016 - INFO - Video Path: 
+2025-04-28 10:50:29,054 - INFO - Downloaded media from https://preview.redd.it/3418rdi3wixe1.jpeg?auto=webp&s=9221d92886d5495df609028160d915728556abd4 to temp_image.jpg
+2025-04-28 10:50:30,600 - INFO - Posted content successfully. Tweet ID: 1916807227274572049
