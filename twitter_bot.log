@@ -324,3 +324,10 @@ Especially if the skin is THAT good. I am not telling you to spend the money if 
 2025-04-28 21:37:30,813 - INFO - Downloaded media from https://v.redd.it/1v01verfolxe1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-04-28 21:37:33,051 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-28 21:37:50,184 - INFO - Posted content successfully. Tweet ID: 1916970133286801861
+2025-04-28 22:14:55,730 - INFO - Content: Symmetra as her VA - Anjali Bhimani (by @rues_garden on instagram)
+
+2025-04-28 22:14:55,730 - INFO - Image Paths: ['https://preview.redd.it/ll4gx5hs5lxe1.png?width=901&format=png&auto=webp&s=629a818416fb91b238d30f3a7338e73d329ec31b', 'https://preview.redd.it/8n79c5is5lxe1.png?width=901&format=png&auto=webp&s=6261dfdc595345632bf204c11c57199df7eb24fc']
+2025-04-28 22:14:55,730 - INFO - Video Path: 
+2025-04-28 22:14:55,823 - INFO - Downloaded media from https://preview.redd.it/ll4gx5hs5lxe1.png?width=901&format=png&auto=webp&s=629a818416fb91b238d30f3a7338e73d329ec31b to temp_image.jpg
+2025-04-28 22:14:56,728 - INFO - Downloaded media from https://preview.redd.it/8n79c5is5lxe1.png?width=901&format=png&auto=webp&s=6261dfdc595345632bf204c11c57199df7eb24fc to temp_image.jpg
+2025-04-28 22:14:58,292 - INFO - Posted content successfully. Tweet ID: 1916979477005173120
