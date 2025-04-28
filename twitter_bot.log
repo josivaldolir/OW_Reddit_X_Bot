@@ -203,3 +203,11 @@ It's not bad, just... Why ?
 2025-04-28 14:46:06,131 - INFO - Video Path: 
 2025-04-28 14:46:06,287 - INFO - Downloaded media from https://preview.redd.it/fpxn8ivs5lxe1.png?auto=webp&s=1aaf15b78b7c68b7c277d37c48ebcc6b47049233 to temp_image.jpg
 2025-04-28 14:46:07,636 - INFO - Posted content successfully. Tweet ID: 1916866521860907242
+2025-04-28 15:16:39,759 - INFO - Content: Sombra and Venture switch voice lines 💕
+@Carolina Ravassa @Valerie Rodriguez 
+2025-04-28 15:16:39,759 - INFO - Image Paths: ['https://external-preview.redd.it/YzIycGY4eGFwa3hlMV4YmLwC-9WNSlAGk9oGLEvDXvD3jdZ6LMkJF3FMmC0e.png?format=pjpg&auto=webp&s=a3555385ed3b651f81b733538260d05100d6cf73']
+2025-04-28 15:16:39,759 - INFO - Video Path: https://v.redd.it/jxpzt91bpkxe1/DASH_480.mp4?source=fallback
+2025-04-28 15:16:40,185 - INFO - Downloaded media from https://v.redd.it/jxpzt91bpkxe1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-04-28 15:16:40,275 - INFO - Downloaded media from https://v.redd.it/jxpzt91bpkxe1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-04-28 15:16:40,511 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-28 15:16:47,179 - INFO - Posted content successfully. Tweet ID: 1916874238717485477
