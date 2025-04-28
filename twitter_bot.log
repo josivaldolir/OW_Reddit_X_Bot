@@ -211,3 +211,11 @@ It's not bad, just... Why ?
 2025-04-28 15:16:40,275 - INFO - Downloaded media from https://v.redd.it/jxpzt91bpkxe1/DASH_480.mp4?source=fallback to temp_audio.mp4
 2025-04-28 15:16:40,511 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-28 15:16:47,179 - INFO - Posted content successfully. Tweet ID: 1916874238717485477
+2025-04-28 15:40:43,840 - INFO - Content: Ally Ana killed me with her Anti-Nade instead of healing me?
+Am I seeing this right? It even shows me her kill-cam :/
+2025-04-28 15:40:43,840 - INFO - Image Paths: ['https://external-preview.redd.it/cDVnd2Z1N3k2bHhlMZU4hWxhCiLTQXvpVK-dE3F_Hm0uCAAIZf0aw-N5kdfg.png?format=pjpg&auto=webp&s=0ee14b4e337f593995a99aceda8867d521ee06b4']
+2025-04-28 15:40:43,840 - INFO - Video Path: https://v.redd.it/w3qumqhy6lxe1/DASH_1080.mp4?source=fallback
+2025-04-28 15:40:44,777 - INFO - Downloaded media from https://v.redd.it/w3qumqhy6lxe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-28 15:40:44,953 - INFO - Downloaded media from https://v.redd.it/w3qumqhy6lxe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-28 15:40:48,301 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-28 15:40:54,405 - INFO - Posted content successfully. Tweet ID: 1916880309016269170
