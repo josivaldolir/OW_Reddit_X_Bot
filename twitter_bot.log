@@ -123,3 +123,12 @@ What’s going on with the story? IS THERE a story?
 2025-04-28 05:51:26,481 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-28 05:51:29,352 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-28 06:32:58,010 - INFO - Content: Our Juno got POTG for dancing in stadium
+Everyone on their team left but a few in stadium. No one killed each other and POTG went to the Juno
+2025-04-28 06:32:58,010 - INFO - Image Paths: ['https://external-preview.redd.it/MXc1aTZ6cmJiaHhlMZhLm-RUYjBgje6M1mdnvJi0rfX5oFMA6BtJokkUNxte.png?format=pjpg&auto=webp&s=a6a6196b8023aa8a5dfb62f7ee58751721edda64']
+2025-04-28 06:32:58,010 - INFO - Video Path: https://v.redd.it/n9v3upqbbhxe1/DASH_1080.mp4?source=fallback
+2025-04-28 06:32:58,286 - INFO - Downloaded media from https://v.redd.it/n9v3upqbbhxe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-28 06:32:58,405 - INFO - Downloaded media from https://v.redd.it/n9v3upqbbhxe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-28 06:32:58,685 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-28 06:33:04,190 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
