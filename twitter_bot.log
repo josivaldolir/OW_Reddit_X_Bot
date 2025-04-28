@@ -74,3 +74,10 @@ Too Many Requests
 2025-04-27 23:37:23,771 - INFO - Downloaded media from https://preview.redd.it/mlx1trmadfxe1.png?auto=webp&s=a9cc11a7c8e78a9e4021e2d1740fcaefc5d9dea2 to temp_image.jpg
 2025-04-27 23:37:24,526 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-28 01:13:27,519 - INFO - Content: Don't go on YouTube right now
+
+2025-04-28 01:13:27,519 - INFO - Image Paths: ['https://preview.redd.it/mlx1trmadfxe1.png?auto=webp&s=a9cc11a7c8e78a9e4021e2d1740fcaefc5d9dea2']
+2025-04-28 01:13:27,519 - INFO - Video Path: 
+2025-04-28 01:13:27,575 - INFO - Downloaded media from https://preview.redd.it/mlx1trmadfxe1.png?auto=webp&s=a9cc11a7c8e78a9e4021e2d1740fcaefc5d9dea2 to temp_image.jpg
+2025-04-28 01:13:28,234 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
