@@ -219,3 +219,10 @@ Am I seeing this right? It even shows me her kill-cam :/
 2025-04-28 15:40:44,953 - INFO - Downloaded media from https://v.redd.it/w3qumqhy6lxe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-04-28 15:40:48,301 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-28 15:40:54,405 - INFO - Posted content successfully. Tweet ID: 1916880309016269170
+2025-04-28 16:18:15,666 - INFO - Content: Steam Deck players, rise up! 🙌
+God im sick of these 2gb updates lol
+2025-04-28 16:18:15,666 - INFO - Image Paths: ['https://preview.redd.it/sgp1a7d8l9xe1.jpeg?auto=webp&s=b8bdfcb385e7b9749fb44582367f5e99bedd66c8']
+2025-04-28 16:18:15,666 - INFO - Video Path: 
+2025-04-28 16:18:15,709 - INFO - Downloaded media from https://preview.redd.it/sgp1a7d8l9xe1.jpeg?auto=webp&s=b8bdfcb385e7b9749fb44582367f5e99bedd66c8 to temp_image.jpg
+2025-04-28 16:18:16,375 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
