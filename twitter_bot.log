@@ -236,3 +236,12 @@ Credit of the original drawings: https://youtu.be/qPGbl2gxGqI?si=rDCE2t6SfyYDltc
 2025-04-28 16:45:02,265 - INFO - Downloaded media from https://preview.redd.it/v6yjjoju8lxe1.jpg?width=1920&format=pjpg&auto=webp&s=9400de6255c713d73ac7440be050c724a2cb0a89 to temp_image.jpg
 2025-04-28 16:45:03,057 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-28 17:13:46,715 - INFO - Content: Disturbing the Overwatch ecosystem
+This is not a critic of the new hero ban, I like how it was implemented, I just couldn't resist to draw the comparison. 
+Credit of the original drawings: https://youtu.be/qPGbl2gxGqI?si=rDCE2t6SfyYDltc7
+2025-04-28 17:13:46,715 - INFO - Image Paths: ['https://preview.redd.it/m4a8g73u8lxe1.jpg?width=1218&format=pjpg&auto=webp&s=d3d9ba051aef92319183d24948fcdc08995eefe0', 'https://preview.redd.it/aoy8cccu8lxe1.jpg?width=1508&format=pjpg&auto=webp&s=c8573f9adc0d9b312bd1c321f3715ff10ec577dd', 'https://preview.redd.it/v6yjjoju8lxe1.jpg?width=1920&format=pjpg&auto=webp&s=9400de6255c713d73ac7440be050c724a2cb0a89']
+2025-04-28 17:13:46,715 - INFO - Video Path: 
+2025-04-28 17:13:46,784 - INFO - Downloaded media from https://preview.redd.it/m4a8g73u8lxe1.jpg?width=1218&format=pjpg&auto=webp&s=d3d9ba051aef92319183d24948fcdc08995eefe0 to temp_image.jpg
+2025-04-28 17:13:47,482 - INFO - Downloaded media from https://preview.redd.it/aoy8cccu8lxe1.jpg?width=1508&format=pjpg&auto=webp&s=c8573f9adc0d9b312bd1c321f3715ff10ec577dd to temp_image.jpg
+2025-04-28 17:13:48,145 - INFO - Downloaded media from https://preview.redd.it/v6yjjoju8lxe1.jpg?width=1920&format=pjpg&auto=webp&s=9400de6255c713d73ac7440be050c724a2cb0a89 to temp_image.jpg
+2025-04-28 17:13:49,224 - INFO - Posted content successfully. Tweet ID: 1916903690839154892
