@@ -226,3 +226,13 @@ God im sick of these 2gb updates lol
 2025-04-28 16:18:15,709 - INFO - Downloaded media from https://preview.redd.it/sgp1a7d8l9xe1.jpeg?auto=webp&s=b8bdfcb385e7b9749fb44582367f5e99bedd66c8 to temp_image.jpg
 2025-04-28 16:18:16,375 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-28 16:45:01,013 - INFO - Content: Disturbing the Overwatch ecosystem
+This is not a critic of the new hero ban, I like how it was implemented, I just couldn't resist to draw the comparison. 
+Credit of the original drawings: https://youtu.be/qPGbl2gxGqI?si=rDCE2t6SfyYDltc7
+2025-04-28 16:45:01,013 - INFO - Image Paths: ['https://preview.redd.it/m4a8g73u8lxe1.jpg?width=1218&format=pjpg&auto=webp&s=d3d9ba051aef92319183d24948fcdc08995eefe0', 'https://preview.redd.it/aoy8cccu8lxe1.jpg?width=1508&format=pjpg&auto=webp&s=c8573f9adc0d9b312bd1c321f3715ff10ec577dd', 'https://preview.redd.it/v6yjjoju8lxe1.jpg?width=1920&format=pjpg&auto=webp&s=9400de6255c713d73ac7440be050c724a2cb0a89']
+2025-04-28 16:45:01,013 - INFO - Video Path: 
+2025-04-28 16:45:01,038 - INFO - Downloaded media from https://preview.redd.it/m4a8g73u8lxe1.jpg?width=1218&format=pjpg&auto=webp&s=d3d9ba051aef92319183d24948fcdc08995eefe0 to temp_image.jpg
+2025-04-28 16:45:01,710 - INFO - Downloaded media from https://preview.redd.it/aoy8cccu8lxe1.jpg?width=1508&format=pjpg&auto=webp&s=c8573f9adc0d9b312bd1c321f3715ff10ec577dd to temp_image.jpg
+2025-04-28 16:45:02,265 - INFO - Downloaded media from https://preview.redd.it/v6yjjoju8lxe1.jpg?width=1920&format=pjpg&auto=webp&s=9400de6255c713d73ac7440be050c724a2cb0a89 to temp_image.jpg
+2025-04-28 16:45:03,057 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
