@@ -101,3 +101,10 @@ What’s going on with the story? IS THERE a story?
 2025-04-28 04:18:55,159 - INFO - Downloaded media from https://preview.redd.it/x3h1r9d12hxe1.jpeg?auto=webp&s=19c4115847702a1eb8547bc48a2d2b416d176d34 to temp_image.jpg
 2025-04-28 04:18:55,895 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-28 04:45:32,295 - INFO - Content: Wait, what happened? Why isn’t Soldier after Talon anymore?
+What’s going on with the story? IS THERE a story?
+2025-04-28 04:45:32,295 - INFO - Image Paths: ['https://preview.redd.it/x3h1r9d12hxe1.jpeg?auto=webp&s=19c4115847702a1eb8547bc48a2d2b416d176d34']
+2025-04-28 04:45:32,295 - INFO - Video Path: 
+2025-04-28 04:45:32,440 - INFO - Downloaded media from https://preview.redd.it/x3h1r9d12hxe1.jpeg?auto=webp&s=19c4115847702a1eb8547bc48a2d2b416d176d34 to temp_image.jpg
+2025-04-28 04:45:33,062 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
