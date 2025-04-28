@@ -197,3 +197,9 @@ It's not bad, just... Why ?
 2025-04-28 14:17:14,810 - INFO - Video Path: 
 2025-04-28 14:17:14,864 - INFO - Downloaded media from https://external-preview.redd.it/rqJRdHhyR2-2ZuHoLikDyOQY-chW8OUoOG0VYpQX3ZA.jpg?auto=webp&s=4091fcc3be4078d6b84fafd851c352c64f22b923 to temp_image.jpg
 2025-04-28 14:17:16,131 - INFO - Posted content successfully. Tweet ID: 1916859260119507257
+2025-04-28 14:46:06,130 - INFO - Content: Still waiting for the galactic Milka skin..
+
+2025-04-28 14:46:06,131 - INFO - Image Paths: ['https://preview.redd.it/fpxn8ivs5lxe1.png?auto=webp&s=1aaf15b78b7c68b7c277d37c48ebcc6b47049233']
+2025-04-28 14:46:06,131 - INFO - Video Path: 
+2025-04-28 14:46:06,287 - INFO - Downloaded media from https://preview.redd.it/fpxn8ivs5lxe1.png?auto=webp&s=1aaf15b78b7c68b7c277d37c48ebcc6b47049233 to temp_image.jpg
+2025-04-28 14:46:07,636 - INFO - Posted content successfully. Tweet ID: 1916866521860907242
