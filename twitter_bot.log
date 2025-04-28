@@ -298,3 +298,9 @@ Too Many Requests
 2025-04-28 20:16:09,230 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-28 20:16:20,975 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-28 20:38:00,345 - INFO - Content: "Spacerock" is one of the best and cutest ships in OW
+Sometimes i see people fighting over who to buff and who to nerf, but when it comes to ships, I see people agreeing on how one is good and the other is perfect (this includes some of my friends groups).
+2025-04-28 20:38:00,345 - INFO - Image Paths: ['https://preview.redd.it/n8cf6130hmxe1.jpeg?auto=webp&s=a1d5b81a58d1a5238cda3d9a29f805ad9f123fad']
+2025-04-28 20:38:00,345 - INFO - Video Path: 
+2025-04-28 20:38:00,386 - INFO - Downloaded media from https://preview.redd.it/n8cf6130hmxe1.jpeg?auto=webp&s=a1d5b81a58d1a5238cda3d9a29f805ad9f123fad to temp_image.jpg
+2025-04-28 20:38:01,251 - INFO - Posted content successfully. Tweet ID: 1916955080093204990
