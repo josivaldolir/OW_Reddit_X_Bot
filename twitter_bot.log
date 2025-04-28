@@ -88,3 +88,9 @@ What’s going on with the story? IS THERE a story?
 2025-04-28 02:54:16,552 - INFO - Downloaded media from https://preview.redd.it/x3h1r9d12hxe1.jpeg?auto=webp&s=19c4115847702a1eb8547bc48a2d2b416d176d34 to temp_image.jpg
 2025-04-28 02:54:17,253 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-28 03:38:32,108 - INFO - Content: Don't go on YouTube right now
+
+2025-04-28 03:38:32,108 - INFO - Image Paths: ['https://preview.redd.it/mlx1trmadfxe1.png?auto=webp&s=a9cc11a7c8e78a9e4021e2d1740fcaefc5d9dea2']
+2025-04-28 03:38:32,108 - INFO - Video Path: 
+2025-04-28 03:38:32,350 - INFO - Downloaded media from https://preview.redd.it/mlx1trmadfxe1.png?auto=webp&s=a9cc11a7c8e78a9e4021e2d1740fcaefc5d9dea2 to temp_image.jpg
+2025-04-28 03:38:33,575 - INFO - Posted content successfully. Tweet ID: 1916698523065847863
