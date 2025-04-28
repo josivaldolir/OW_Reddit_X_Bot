@@ -132,3 +132,11 @@ Everyone on their team left but a few in stadium. No one killed each other and P
 2025-04-28 06:32:58,685 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-28 06:33:04,190 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-28 06:55:37,261 - INFO - Content: Real
+
+2025-04-28 06:55:37,261 - INFO - Image Paths: ['https://external-preview.redd.it/NGNmMmF2ejNmaXhlMdpTarHR2zq5I9fYNkLpkZtfcVSnILYB97cv7eZLMV-A.png?format=pjpg&auto=webp&s=a678227596c0b239988099de91953bf82e19d7a7']
+2025-04-28 06:55:37,261 - INFO - Video Path: https://v.redd.it/1vfw3ix3fixe1/DASH_1080.mp4?source=fallback
+2025-04-28 06:55:37,635 - INFO - Downloaded media from https://v.redd.it/1vfw3ix3fixe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-28 06:55:37,725 - INFO - Downloaded media from https://v.redd.it/1vfw3ix3fixe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-28 06:55:38,021 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-28 06:55:41,304 - INFO - Posted content successfully. Tweet ID: 1916748133494923388
