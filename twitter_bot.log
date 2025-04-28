@@ -254,3 +254,12 @@ Credit of the original drawings: https://youtu.be/qPGbl2gxGqI?si=rDCE2t6SfyYDltc
 2025-04-28 17:38:46,003 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-28 17:39:02,347 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-28 18:22:14,407 - INFO - Content: Shamelessly stolen from r/leagueofmemes
+
+2025-04-28 18:22:14,407 - INFO - Image Paths: ['https://external-preview.redd.it/cGVhbnA1dGYybXhlMTD1Knpu3nQTUA8m5oD7oI4uI2bW9y7f4NJdR7S8mUs-.png?format=pjpg&auto=webp&s=ebe57475c7434e4e229b40023a40211dcc6064bc']
+2025-04-28 18:22:14,407 - INFO - Video Path: https://v.redd.it/xtmc5cuf2mxe1/DASH_1080.mp4?source=fallback
+2025-04-28 18:22:14,587 - INFO - Downloaded media from https://v.redd.it/xtmc5cuf2mxe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-28 18:22:14,687 - INFO - Downloaded media from https://v.redd.it/xtmc5cuf2mxe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-28 18:22:15,846 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-28 18:22:19,203 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
