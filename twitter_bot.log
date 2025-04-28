@@ -316,3 +316,11 @@ Especially if the skin is THAT good. I am not telling you to spend the money if 
 2025-04-28 21:12:59,571 - INFO - Downloaded media from https://preview.redd.it/43386hg5bmxe1.jpg?width=2160&format=pjpg&auto=webp&s=ed0b2a37488994ec161d0ff39905de63c47c442f to temp_image.jpg
 2025-04-28 21:13:00,469 - INFO - Downloaded media from https://preview.redd.it/s3wxzdl5bmxe1.jpg?width=640&format=pjpg&auto=webp&s=ae68228141b852cb176880737a321b229bd63d18 to temp_image.jpg
 2025-04-28 21:13:01,643 - INFO - Posted content successfully. Tweet ID: 1916963888437805380
+2025-04-28 21:37:30,633 - INFO - Content: Overwatch 2 x Gundam Wing
+
+2025-04-28 21:37:30,633 - INFO - Image Paths: ['https://external-preview.redd.it/bDJ4MmllcmZvbHhlMVH1baJm21c32Hxu7xoOrTg8pOiLj9Q-NfF5QBwvyt_t.png?format=pjpg&auto=webp&s=c8c8be313326a0fd8cceb85ef9458e53657c18d0']
+2025-04-28 21:37:30,633 - INFO - Video Path: https://v.redd.it/1v01verfolxe1/DASH_720.mp4?source=fallback
+2025-04-28 21:37:30,785 - INFO - Downloaded media from https://v.redd.it/1v01verfolxe1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-04-28 21:37:30,813 - INFO - Downloaded media from https://v.redd.it/1v01verfolxe1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-04-28 21:37:33,051 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-28 21:37:50,184 - INFO - Posted content successfully. Tweet ID: 1916970133286801861
