@@ -517,3 +517,10 @@ Saw a DBD version and was inspired lol. All role specific statistics can be seen
 2025-04-29 13:29:41,954 - INFO - Downloaded media from https://preview.redd.it/xwpo9knswrxe1.png?auto=webp&s=9cb8ee0c7b065004ea7bfb8ff9969a5d61aaa7fa to temp_image.jpg
 2025-04-29 13:29:42,701 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-29 13:51:10,399 - INFO - Content: What do you think Aqua's primary fire will be?
+In the Spotlight event, Aaron Keller said that "Aqua" has "the coolest primary fire" they've ever made. What do you think it is?  
+(3d model by me)
+2025-04-29 13:51:10,399 - INFO - Image Paths: ['https://preview.redd.it/lls59w9eyqxe1.png?auto=webp&s=a5f80e73d4296222c1adfb7c3e97a81668d0fbf5']
+2025-04-29 13:51:10,399 - INFO - Video Path: 
+2025-04-29 13:51:10,658 - INFO - Downloaded media from https://preview.redd.it/lls59w9eyqxe1.png?auto=webp&s=a5f80e73d4296222c1adfb7c3e97a81668d0fbf5 to temp_image.jpg
+2025-04-29 13:51:13,278 - INFO - Posted content successfully. Tweet ID: 1917215086911099381
