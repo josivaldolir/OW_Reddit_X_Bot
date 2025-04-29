@@ -433,3 +433,10 @@ Too Many Requests
 2025-04-29 06:48:02,921 - INFO - Downloaded media from https://preview.redd.it/6b9t6e7appxe1.jpeg?auto=webp&s=945247155b62970db08dd4f2a79b5e7484d051b4 to temp_image.jpg
 2025-04-29 06:48:03,609 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-29 07:15:56,495 - INFO - Content: POV you though you were safe
+
+2025-04-29 07:15:56,495 - INFO - Image Paths: ['https://preview.redd.it/6b9t6e7appxe1.jpeg?auto=webp&s=945247155b62970db08dd4f2a79b5e7484d051b4']
+2025-04-29 07:15:56,495 - INFO - Video Path: 
+2025-04-29 07:15:56,732 - INFO - Downloaded media from https://preview.redd.it/6b9t6e7appxe1.jpeg?auto=webp&s=945247155b62970db08dd4f2a79b5e7484d051b4 to temp_image.jpg
+2025-04-29 07:15:57,387 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
