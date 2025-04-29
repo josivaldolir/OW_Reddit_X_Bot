@@ -419,3 +419,10 @@ Thanks for reading.
 2025-04-29 05:40:36,658 - INFO - Downloaded media from https://preview.redd.it/evmz83dk9fxe1.jpeg?auto=webp&s=eb156cf06645c5c86cc251e49688a32755a57c9c to temp_image.jpg
 2025-04-29 05:40:37,475 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-29 06:22:11,080 - INFO - Content: POV you though you were safe
+
+2025-04-29 06:22:11,080 - INFO - Image Paths: ['https://preview.redd.it/6b9t6e7appxe1.jpeg?auto=webp&s=945247155b62970db08dd4f2a79b5e7484d051b4']
+2025-04-29 06:22:11,080 - INFO - Video Path: 
+2025-04-29 06:22:11,102 - INFO - Downloaded media from https://preview.redd.it/6b9t6e7appxe1.jpeg?auto=webp&s=945247155b62970db08dd4f2a79b5e7484d051b4 to temp_image.jpg
+2025-04-29 06:22:11,707 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
