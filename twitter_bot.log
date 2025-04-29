@@ -557,3 +557,12 @@ Too Many Requests
 2025-04-29 16:18:47,333 - INFO - Video Path: 
 2025-04-29 16:18:47,394 - INFO - Downloaded media from https://preview.redd.it/xwpo9knswrxe1.png?auto=webp&s=9cb8ee0c7b065004ea7bfb8ff9969a5d61aaa7fa to temp_image.jpg
 2025-04-29 16:18:48,436 - INFO - Posted content successfully. Tweet ID: 1917252233911296020
+2025-04-29 16:45:36,211 - INFO - Content: BlackWatch Genji
+
+2025-04-29 16:45:36,211 - INFO - Image Paths: ['https://external-preview.redd.it/aDVyOWhlOXlxc3hlMZH_QGoksd1_pKtCbUpOWTJhCmVM_MqyaxSVmWECG2kT.png?format=pjpg&auto=webp&s=c835184b19bc8f0d73ec2fa718a65f757883b4eb']
+2025-04-29 16:45:36,211 - INFO - Video Path: https://v.redd.it/u2fxx4iyqsxe1/DASH_720.mp4?source=fallback
+2025-04-29 16:45:36,331 - INFO - Downloaded media from https://v.redd.it/u2fxx4iyqsxe1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-04-29 16:45:36,422 - INFO - Downloaded media from https://v.redd.it/u2fxx4iyqsxe1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-04-29 16:45:36,860 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-29 16:45:39,821 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
