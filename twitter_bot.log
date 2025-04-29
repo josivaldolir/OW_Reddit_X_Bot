@@ -412,3 +412,10 @@ Thanks for reading.
 2025-04-29 05:15:52,361 - INFO - Image Paths: []
 2025-04-29 05:15:52,361 - INFO - Video Path: 
 2025-04-29 05:15:52,728 - INFO - Posted content successfully. Tweet ID: 1917085403397689406
+2025-04-29 05:40:36,349 - INFO - Content: I got too silly
+
+2025-04-29 05:40:36,349 - INFO - Image Paths: ['https://preview.redd.it/evmz83dk9fxe1.jpeg?auto=webp&s=eb156cf06645c5c86cc251e49688a32755a57c9c']
+2025-04-29 05:40:36,349 - INFO - Video Path: 
+2025-04-29 05:40:36,658 - INFO - Downloaded media from https://preview.redd.it/evmz83dk9fxe1.jpeg?auto=webp&s=eb156cf06645c5c86cc251e49688a32755a57c9c to temp_image.jpg
+2025-04-29 05:40:37,475 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
