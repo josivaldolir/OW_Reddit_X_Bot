@@ -474,3 +474,12 @@ If I could keep scrolling, it would be more of the same. Zarya main, and I'm get
 2025-04-29 09:42:24,312 - INFO - Video Path: 
 2025-04-29 09:42:24,336 - INFO - Downloaded media from https://preview.redd.it/ehepovj9hpxe1.png?auto=webp&s=f1a229259de2523ae94481b59caa22a414212106 to temp_image.jpg
 2025-04-29 09:42:25,286 - INFO - Posted content successfully. Tweet ID: 1917152480414278054
+2025-04-29 10:17:22,668 - INFO - Content: Out of all the Reaper skins with his Galactic Weapon, which do you think is best?
+
+2025-04-29 10:17:22,668 - INFO - Image Paths: ['https://preview.redd.it/13ox3k2snqxe1.jpg?width=1920&format=pjpg&auto=webp&s=91716abd2f611bc2d7f67a6f0c294ff2c9b296d4', 'https://preview.redd.it/jht6yp2snqxe1.jpg?width=1920&format=pjpg&auto=webp&s=7a862d797008206ced8ffcb0fcd64c30b913b2db', 'https://preview.redd.it/wjdh2l2snqxe1.jpg?width=1920&format=pjpg&auto=webp&s=8e840d071022927409e8334e453b2a8238dbf963', 'https://preview.redd.it/yct61p2snqxe1.jpg?width=1920&format=pjpg&auto=webp&s=d8d280c5dae629650c61a8ca3ea88cd8b93f2562']
+2025-04-29 10:17:22,668 - INFO - Video Path: 
+2025-04-29 10:17:23,019 - INFO - Downloaded media from https://preview.redd.it/13ox3k2snqxe1.jpg?width=1920&format=pjpg&auto=webp&s=91716abd2f611bc2d7f67a6f0c294ff2c9b296d4 to temp_image.jpg
+2025-04-29 10:17:23,754 - INFO - Downloaded media from https://preview.redd.it/jht6yp2snqxe1.jpg?width=1920&format=pjpg&auto=webp&s=7a862d797008206ced8ffcb0fcd64c30b913b2db to temp_image.jpg
+2025-04-29 10:17:24,456 - INFO - Downloaded media from https://preview.redd.it/wjdh2l2snqxe1.jpg?width=1920&format=pjpg&auto=webp&s=8e840d071022927409e8334e453b2a8238dbf963 to temp_image.jpg
+2025-04-29 10:17:25,275 - INFO - Downloaded media from https://preview.redd.it/yct61p2snqxe1.jpg?width=1920&format=pjpg&auto=webp&s=d8d280c5dae629650c61a8ca3ea88cd8b93f2562 to temp_image.jpg
+2025-04-29 10:17:26,433 - INFO - Posted content successfully. Tweet ID: 1917161293225820593
