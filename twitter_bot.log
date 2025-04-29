@@ -596,3 +596,14 @@ Dion Rogers revealed in an article with @WWG that these skin concepts were explo
 2025-04-29 18:20:54,689 - INFO - Downloaded media from https://preview.redd.it/zgqn36uw3txe1.jpeg?auto=webp&s=072b857c1f4cc693f2d8198a60fb845ad45dbc28 to temp_image.jpg
 2025-04-29 18:20:55,960 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-29 18:45:52,490 - INFO - Content: Scrapped transformers skins
+Scrapped Transformers Skins in #Overwatch2
+Starscream - Pharah
+Soundwave - Lúcio
+Unicron - Wrecking Ball
+Dion Rogers revealed in an article with @WWG that these skin concepts were explored but didn't make the final cut.
+2025-04-29 18:45:52,491 - INFO - Image Paths: ['https://preview.redd.it/zgqn36uw3txe1.jpeg?auto=webp&s=072b857c1f4cc693f2d8198a60fb845ad45dbc28']
+2025-04-29 18:45:52,491 - INFO - Video Path: 
+2025-04-29 18:45:52,698 - INFO - Downloaded media from https://preview.redd.it/zgqn36uw3txe1.jpeg?auto=webp&s=072b857c1f4cc693f2d8198a60fb845ad45dbc28 to temp_image.jpg
+2025-04-29 18:45:53,853 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
