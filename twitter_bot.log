@@ -757,3 +757,13 @@ Zenyatta: "Experience tranquility."
 2025-04-29 22:16:01,170 - INFO - Downloaded media from https://v.redd.it/u2fxx4iyqsxe1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-04-29 22:16:06,261 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-29 22:16:09,295 - INFO - Posted content successfully. Tweet ID: 1917342164331254061
+2025-04-29 22:40:38,922 - INFO - Content: I just got into a game with a guy who was sat 3 seats next to me on a flight this morning
+He said he hasn’t played for 3 weeks, so I said same I was in New York just got back. 
+
+So he says same me too, so I ask about the flight and it turns out he was literally right next to me this morning lmao
+2025-04-29 22:40:38,922 - INFO - Image Paths: ['https://external-preview.redd.it/ZnMzN2FqaDdydHhlMY65xailGho7gycX2hjiFvXxytpOLp_uaShDU3NO7hC0.png?format=pjpg&auto=webp&s=9bc8d33634d50b4d0a40a3332ea296256a3056da']
+2025-04-29 22:40:38,922 - INFO - Video Path: https://v.redd.it/60ep8tl7rtxe1/DASH_480.mp4?source=fallback
+2025-04-29 22:40:39,051 - INFO - Downloaded media from https://v.redd.it/60ep8tl7rtxe1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-04-29 22:40:39,129 - INFO - Downloaded media from https://v.redd.it/60ep8tl7rtxe1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-04-29 22:40:39,427 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-29 22:40:50,726 - INFO - Posted content successfully. Tweet ID: 1917348377856971197
