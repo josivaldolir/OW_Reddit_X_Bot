@@ -749,3 +749,11 @@ Zenyatta: "Experience tranquility."
 2025-04-29 21:37:08,237 - INFO - Video Path: 
 2025-04-29 21:37:08,388 - INFO - Downloaded media from https://preview.redd.it/8dsg616jvtxe1.jpeg?auto=webp&s=7d06fa7004fb4630aa29b71142519959bd62b0ba to temp_image.jpg
 2025-04-29 21:37:09,360 - INFO - Posted content successfully. Tweet ID: 1917332349617946726
+2025-04-29 22:16:01,111 - INFO - Content: BlackWatch Genji
+
+2025-04-29 22:16:01,112 - INFO - Image Paths: ['https://external-preview.redd.it/aDVyOWhlOXlxc3hlMZH_QGoksd1_pKtCbUpOWTJhCmVM_MqyaxSVmWECG2kT.png?format=pjpg&auto=webp&s=c835184b19bc8f0d73ec2fa718a65f757883b4eb']
+2025-04-29 22:16:01,112 - INFO - Video Path: https://v.redd.it/u2fxx4iyqsxe1/DASH_720.mp4?source=fallback
+2025-04-29 22:16:01,154 - INFO - Downloaded media from https://v.redd.it/u2fxx4iyqsxe1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-04-29 22:16:01,170 - INFO - Downloaded media from https://v.redd.it/u2fxx4iyqsxe1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-04-29 22:16:06,261 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-29 22:16:09,295 - INFO - Posted content successfully. Tweet ID: 1917342164331254061
