@@ -585,3 +585,14 @@ I wonder if anyone else feels the same, that Stadium definitely took the hype aw
 2025-04-29 17:40:02,182 - INFO - Downloaded media from https://v.redd.it/ymmrlb5dpsxe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-04-29 17:40:02,936 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-29 17:40:12,170 - INFO - Posted content successfully. Tweet ID: 1917272718724288701
+2025-04-29 18:20:54,462 - INFO - Content: Scrapped transformers skins
+Scrapped Transformers Skins in #Overwatch2
+Starscream - Pharah
+Soundwave - Lúcio
+Unicron - Wrecking Ball
+Dion Rogers revealed in an article with @WWG that these skin concepts were explored but didn't make the final cut.
+2025-04-29 18:20:54,462 - INFO - Image Paths: ['https://preview.redd.it/zgqn36uw3txe1.jpeg?auto=webp&s=072b857c1f4cc693f2d8198a60fb845ad45dbc28']
+2025-04-29 18:20:54,462 - INFO - Video Path: 
+2025-04-29 18:20:54,689 - INFO - Downloaded media from https://preview.redd.it/zgqn36uw3txe1.jpeg?auto=webp&s=072b857c1f4cc693f2d8198a60fb845ad45dbc28 to temp_image.jpg
+2025-04-29 18:20:55,960 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
