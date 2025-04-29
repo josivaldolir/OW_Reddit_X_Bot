@@ -531,3 +531,10 @@ In the Spotlight event, Aaron Keller said that "Aqua" has "the coolest primary f
 2025-04-29 14:15:35,987 - INFO - Downloaded media from https://preview.redd.it/xwpo9knswrxe1.png?auto=webp&s=9cb8ee0c7b065004ea7bfb8ff9969a5d61aaa7fa to temp_image.jpg
 2025-04-29 14:15:36,743 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-29 14:43:07,869 - INFO - Content: If the Tranquilizer doesn't work, the Tranquility will
+
+2025-04-29 14:43:07,869 - INFO - Image Paths: ['https://preview.redd.it/xwpo9knswrxe1.png?auto=webp&s=9cb8ee0c7b065004ea7bfb8ff9969a5d61aaa7fa']
+2025-04-29 14:43:07,869 - INFO - Video Path: 
+2025-04-29 14:43:07,914 - INFO - Downloaded media from https://preview.redd.it/xwpo9knswrxe1.png?auto=webp&s=9cb8ee0c7b065004ea7bfb8ff9969a5d61aaa7fa to temp_image.jpg
+2025-04-29 14:43:08,699 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
