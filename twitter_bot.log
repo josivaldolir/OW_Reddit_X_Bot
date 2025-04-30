@@ -891,3 +891,9 @@ Too Many Requests
 2025-04-30 09:40:35,162 - INFO - Downloaded media from https://preview.redd.it/h170fuqaxxxe1.png?auto=webp&s=e795acae2e2f849953368e9da61c77cfdb33f050 to temp_image.jpg
 2025-04-30 09:40:35,757 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-30 10:17:15,634 - INFO - Content: Make love not war
+
+2025-04-30 10:17:15,634 - INFO - Image Paths: ['https://preview.redd.it/h170fuqaxxxe1.png?auto=webp&s=e795acae2e2f849953368e9da61c77cfdb33f050']
+2025-04-30 10:17:15,634 - INFO - Video Path: 
+2025-04-30 10:17:15,818 - INFO - Downloaded media from https://preview.redd.it/h170fuqaxxxe1.png?auto=webp&s=e795acae2e2f849953368e9da61c77cfdb33f050 to temp_image.jpg
+2025-04-30 10:17:16,812 - INFO - Posted content successfully. Tweet ID: 1917523640704458794
