@@ -1007,3 +1007,10 @@ I
 2025-04-30 17:14:24,008 - INFO - Downloaded media from https://external-preview.redd.it/FLS_da3sdLOHJCfnAt4Pt-EKikQfB-9TmVh2kr4Nj7Y.jpg?auto=webp&s=ddd5dca0eb4207d1184c69ca62108bf8d9566acd to temp_image.jpg
 2025-04-30 17:14:24,653 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-30 17:38:55,635 - INFO - Content: oh he just like me fr
+
+2025-04-30 17:38:55,635 - INFO - Image Paths: ['https://preview.redd.it/pgajohqe0zxe1.png?auto=webp&s=39545a9658e21612a321b7af3573cceebe8fb172']
+2025-04-30 17:38:55,635 - INFO - Video Path: 
+2025-04-30 17:38:55,670 - INFO - Downloaded media from https://preview.redd.it/pgajohqe0zxe1.png?auto=webp&s=39545a9658e21612a321b7af3573cceebe8fb172 to temp_image.jpg
+2025-04-30 17:38:56,417 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
