@@ -870,3 +870,10 @@ Too Many Requests
 2025-04-30 08:21:16,029 - INFO - Downloaded media from https://preview.redd.it/na2l6fzd8xxe1.png?auto=webp&s=10c679eeb029152872121b9daf3d60418c703ad1 to temp_image.jpg
 2025-04-30 08:21:16,850 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-30 08:45:32,228 - INFO - Content: When is it happening blizzard
+Its gotta happen. Everyone wants it. Its gonna happen. When. Name your price. No price is too much. You want money right? Think blizzard, think.
+2025-04-30 08:45:32,228 - INFO - Image Paths: ['https://preview.redd.it/xr5btwb54vxe1.jpeg?auto=webp&s=bcf13423a2d59c3ec6b58dfb7407187947382d5c']
+2025-04-30 08:45:32,228 - INFO - Video Path: 
+2025-04-30 08:45:32,388 - INFO - Downloaded media from https://preview.redd.it/xr5btwb54vxe1.jpeg?auto=webp&s=bcf13423a2d59c3ec6b58dfb7407187947382d5c to temp_image.jpg
+2025-04-30 08:45:33,036 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
