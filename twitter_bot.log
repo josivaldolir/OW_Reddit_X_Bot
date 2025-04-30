@@ -849,3 +849,10 @@ Its gotta happen. Everyone wants it. Its gonna happen. When. Name your price. No
 2025-04-30 06:49:45,613 - INFO - Downloaded media from https://preview.redd.it/xr5btwb54vxe1.jpeg?auto=webp&s=bcf13423a2d59c3ec6b58dfb7407187947382d5c to temp_image.jpg
 2025-04-30 06:49:46,145 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-30 07:15:28,526 - INFO - Content: stadium 👍
+
+2025-04-30 07:15:28,526 - INFO - Image Paths: ['https://preview.redd.it/na2l6fzd8xxe1.png?auto=webp&s=10c679eeb029152872121b9daf3d60418c703ad1']
+2025-04-30 07:15:28,526 - INFO - Video Path: 
+2025-04-30 07:15:28,641 - INFO - Downloaded media from https://preview.redd.it/na2l6fzd8xxe1.png?auto=webp&s=10c679eeb029152872121b9daf3d60418c703ad1 to temp_image.jpg
+2025-04-30 07:15:29,375 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
