@@ -801,3 +801,11 @@ Either you steamroll the enemy without effort or you get steamrolled. Neither is
 2025-04-30 02:50:19,488 - INFO - Video Path: 
 2025-04-30 02:50:19,630 - INFO - Downloaded media from https://preview.redd.it/8xb67soiouxe1.png?auto=webp&s=9b85e43fe7d656fe6acc5d6895537c37e61abcee to temp_image.jpg
 2025-04-30 02:50:20,622 - INFO - Posted content successfully. Tweet ID: 1917411166042628326
+2025-04-30 03:35:00,253 - INFO - Content: We all know this Overwatch duo lol. Don’t know if this qualifies for meme but I memed on the Mercy xD
+
+2025-04-30 03:35:00,253 - INFO - Image Paths: ['https://external-preview.redd.it/Y3A1MWlkZXJtdnhlMRnSGogc0nOYWkHuUkPVMhF5qjWLCXF2yq82H9Yu0201.png?format=pjpg&auto=webp&s=1ec161caa8f3cfe643a1697c2a5efa18db7ead04']
+2025-04-30 03:35:00,253 - INFO - Video Path: https://v.redd.it/0ai68zsrmvxe1/DASH_1080.mp4?source=fallback
+2025-04-30 03:35:00,464 - INFO - Downloaded media from https://v.redd.it/0ai68zsrmvxe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-30 03:35:00,574 - INFO - Downloaded media from https://v.redd.it/0ai68zsrmvxe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-30 03:35:00,863 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-30 03:35:06,189 - INFO - Posted content successfully. Tweet ID: 1917422430164820251
