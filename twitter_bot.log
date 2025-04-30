@@ -993,3 +993,10 @@ Too Many Requests
 2025-04-30 16:19:01,811 - INFO - Video Path: 
 2025-04-30 16:19:02,097 - INFO - Downloaded media from https://preview.redd.it/bcjr47bwbzxe1.png?auto=webp&s=c00a1dc4eff14c9a45bdbfe579d4324af4685ce1 to temp_image.jpg
 2025-04-30 16:19:04,756 - INFO - Posted content successfully. Tweet ID: 1917614685052100965
+2025-04-30 16:46:14,375 - INFO - Content: IGN: After Years of Struggle, Blizzard Has Found Itself in Uncharted Territory: Overwatch Players Are Having Fun Again
+I 
+2025-04-30 16:46:14,375 - INFO - Image Paths: ['https://external-preview.redd.it/FLS_da3sdLOHJCfnAt4Pt-EKikQfB-9TmVh2kr4Nj7Y.jpg?auto=webp&s=ddd5dca0eb4207d1184c69ca62108bf8d9566acd']
+2025-04-30 16:46:14,375 - INFO - Video Path: 
+2025-04-30 16:46:14,521 - INFO - Downloaded media from https://external-preview.redd.it/FLS_da3sdLOHJCfnAt4Pt-EKikQfB-9TmVh2kr4Nj7Y.jpg?auto=webp&s=ddd5dca0eb4207d1184c69ca62108bf8d9566acd to temp_image.jpg
+2025-04-30 16:46:15,261 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
