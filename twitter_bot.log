@@ -1048,3 +1048,10 @@ I
 2025-04-30 20:16:41,286 - INFO - Downloaded media from https://external-preview.redd.it/FLS_da3sdLOHJCfnAt4Pt-EKikQfB-9TmVh2kr4Nj7Y.jpg?auto=webp&s=ddd5dca0eb4207d1184c69ca62108bf8d9566acd to temp_image.jpg
 2025-04-30 20:16:42,124 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-30 20:40:21,739 - INFO - Content: IGN: After Years of Struggle, Blizzard Has Found Itself in Uncharted Territory: Overwatch Players Are Having Fun Again
+I 
+2025-04-30 20:40:21,739 - INFO - Image Paths: ['https://external-preview.redd.it/FLS_da3sdLOHJCfnAt4Pt-EKikQfB-9TmVh2kr4Nj7Y.jpg?auto=webp&s=ddd5dca0eb4207d1184c69ca62108bf8d9566acd']
+2025-04-30 20:40:21,739 - INFO - Video Path: 
+2025-04-30 20:40:21,763 - INFO - Downloaded media from https://external-preview.redd.it/FLS_da3sdLOHJCfnAt4Pt-EKikQfB-9TmVh2kr4Nj7Y.jpg?auto=webp&s=ddd5dca0eb4207d1184c69ca62108bf8d9566acd to temp_image.jpg
+2025-04-30 20:40:22,574 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
