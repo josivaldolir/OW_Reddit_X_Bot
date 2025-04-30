@@ -822,3 +822,9 @@ Its gotta happen. Everyone wants it. Its gonna happen. When. Name your price. No
 2025-04-30 04:44:25,721 - INFO - Downloaded media from https://preview.redd.it/xr5btwb54vxe1.jpeg?auto=webp&s=bcf13423a2d59c3ec6b58dfb7407187947382d5c to temp_image.jpg
 2025-04-30 04:44:26,471 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-30 05:15:31,056 - INFO - Content: Dokiwatch Kiriko has probably recouped all of Stadium’s development costs by now
+
+2025-04-30 05:15:31,056 - INFO - Image Paths: ['https://preview.redd.it/j8o1ixmqcwxe1.jpeg?auto=webp&s=dc19f6956dc477cb91796a0a57258f26cbafb366']
+2025-04-30 05:15:31,056 - INFO - Video Path: 
+2025-04-30 05:15:31,269 - INFO - Downloaded media from https://preview.redd.it/j8o1ixmqcwxe1.jpeg?auto=webp&s=dc19f6956dc477cb91796a0a57258f26cbafb366 to temp_image.jpg
+2025-04-30 05:15:32,196 - INFO - Posted content successfully. Tweet ID: 1917447705166766405
