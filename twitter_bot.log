@@ -949,3 +949,10 @@ But just... soldier. It's so lame to play against and so boring to play as. Like
 2025-04-30 13:43:52,878 - INFO - Video Path: 
 2025-04-30 13:43:53,144 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-30 14:16:02,085 - INFO - Content: oh he just like me fr
+
+2025-04-30 14:16:02,085 - INFO - Image Paths: ['https://preview.redd.it/pgajohqe0zxe1.png?auto=webp&s=39545a9658e21612a321b7af3573cceebe8fb172']
+2025-04-30 14:16:02,085 - INFO - Video Path: 
+2025-04-30 14:16:02,150 - INFO - Downloaded media from https://preview.redd.it/pgajohqe0zxe1.png?auto=webp&s=39545a9658e21612a321b7af3573cceebe8fb172 to temp_image.jpg
+2025-04-30 14:16:02,892 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
