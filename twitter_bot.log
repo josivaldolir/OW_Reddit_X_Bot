@@ -815,3 +815,10 @@ Either you steamroll the enemy without effort or you get steamrolled. Neither is
 2025-04-30 04:18:27,158 - INFO - Video Path: 
 2025-04-30 04:18:27,367 - INFO - Downloaded media from https://preview.redd.it/0513simazvxe1.jpeg?auto=webp&s=a9b28326993aed4cbdb5afe3fdf25f89fff10551 to temp_image.jpg
 2025-04-30 04:18:28,545 - INFO - Posted content successfully. Tweet ID: 1917433345287639418
+2025-04-30 04:44:25,524 - INFO - Content: When is it happening blizzard
+Its gotta happen. Everyone wants it. Its gonna happen. When. Name your price. No price is too much. You want money right? Think blizzard, think.
+2025-04-30 04:44:25,524 - INFO - Image Paths: ['https://preview.redd.it/xr5btwb54vxe1.jpeg?auto=webp&s=bcf13423a2d59c3ec6b58dfb7407187947382d5c']
+2025-04-30 04:44:25,524 - INFO - Video Path: 
+2025-04-30 04:44:25,721 - INFO - Downloaded media from https://preview.redd.it/xr5btwb54vxe1.jpeg?auto=webp&s=bcf13423a2d59c3ec6b58dfb7407187947382d5c to temp_image.jpg
+2025-04-30 04:44:26,471 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
