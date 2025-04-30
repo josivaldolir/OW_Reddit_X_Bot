@@ -926,3 +926,11 @@ Too Many Requests
 2025-04-30 12:29:23,618 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-30 12:29:31,595 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-30 13:05:09,872 - INFO - Content: Reinhardt Gets A Little Too Exited About Winning
+
+2025-04-30 13:05:09,872 - INFO - Image Paths: ['https://external-preview.redd.it/cDJqaGdicTVzeXhlMeOwxEKY_BwUmvv0yJlvuSQnrkHkZJuTTKSVmRt4UrhV.png?format=pjpg&auto=webp&s=1b7524e976c4c7152f8b2d7327edd5e5c24d9dd1']
+2025-04-30 13:05:09,872 - INFO - Video Path: https://v.redd.it/s8oullm5syxe1/DASH_1080.mp4?source=fallback
+2025-04-30 13:05:10,894 - INFO - Downloaded media from https://v.redd.it/s8oullm5syxe1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-04-30 13:05:11,208 - INFO - Downloaded media from https://v.redd.it/s8oullm5syxe1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-04-30 13:05:12,273 - INFO - Combined video and audio into temp_combined.mp4
+2025-04-30 13:05:19,423 - INFO - Posted content successfully. Tweet ID: 1917565930898698473
