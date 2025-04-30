@@ -795,3 +795,9 @@ Either you steamroll the enemy without effort or you get steamrolled. Neither is
 2025-04-30 01:11:56,503 - INFO - Image Paths: []
 2025-04-30 01:11:56,503 - INFO - Video Path: 
 2025-04-30 01:11:56,805 - INFO - Posted content successfully. Tweet ID: 1917386403920633891
+2025-04-30 02:50:19,488 - INFO - Content: Average mercy player
+
+2025-04-30 02:50:19,488 - INFO - Image Paths: ['https://preview.redd.it/8xb67soiouxe1.png?auto=webp&s=9b85e43fe7d656fe6acc5d6895537c37e61abcee']
+2025-04-30 02:50:19,488 - INFO - Video Path: 
+2025-04-30 02:50:19,630 - INFO - Downloaded media from https://preview.redd.it/8xb67soiouxe1.png?auto=webp&s=9b85e43fe7d656fe6acc5d6895537c37e61abcee to temp_image.jpg
+2025-04-30 02:50:20,622 - INFO - Posted content successfully. Tweet ID: 1917411166042628326
