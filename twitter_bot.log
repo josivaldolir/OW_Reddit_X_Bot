@@ -980,3 +980,10 @@ Tracers weapon charm is only on one gun, why? She has two, does she like the rig
 2025-04-30 15:17:45,014 - INFO - Downloaded media from https://preview.redd.it/m5reqg827zxe1.jpeg?auto=webp&s=5fa44bdf41cf1c849e2bf8c92a2a7974060e7dd7 to temp_image.jpg
 2025-04-30 15:17:46,068 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-30 15:40:13,018 - INFO - Content: I couldn't wait for you to come clear the cupboards
+
+2025-04-30 15:40:13,018 - INFO - Image Paths: ['https://preview.redd.it/bcjr47bwbzxe1.png?auto=webp&s=c00a1dc4eff14c9a45bdbfe579d4324af4685ce1']
+2025-04-30 15:40:13,018 - INFO - Video Path: 
+2025-04-30 15:40:13,191 - INFO - Downloaded media from https://preview.redd.it/bcjr47bwbzxe1.png?auto=webp&s=c00a1dc4eff14c9a45bdbfe579d4324af4685ce1 to temp_image.jpg
+2025-04-30 15:40:14,322 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
