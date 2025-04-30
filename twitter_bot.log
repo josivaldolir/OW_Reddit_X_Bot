@@ -987,3 +987,9 @@ Too Many Requests
 2025-04-30 15:40:13,191 - INFO - Downloaded media from https://preview.redd.it/bcjr47bwbzxe1.png?auto=webp&s=c00a1dc4eff14c9a45bdbfe579d4324af4685ce1 to temp_image.jpg
 2025-04-30 15:40:14,322 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-04-30 16:19:01,810 - INFO - Content: I couldn't wait for you to come clear the cupboards
+
+2025-04-30 16:19:01,811 - INFO - Image Paths: ['https://preview.redd.it/bcjr47bwbzxe1.png?auto=webp&s=c00a1dc4eff14c9a45bdbfe579d4324af4685ce1']
+2025-04-30 16:19:01,811 - INFO - Video Path: 
+2025-04-30 16:19:02,097 - INFO - Downloaded media from https://preview.redd.it/bcjr47bwbzxe1.png?auto=webp&s=c00a1dc4eff14c9a45bdbfe579d4324af4685ce1 to temp_image.jpg
+2025-04-30 16:19:04,756 - INFO - Posted content successfully. Tweet ID: 1917614685052100965
