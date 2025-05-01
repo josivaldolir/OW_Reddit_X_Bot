@@ -1227,3 +1227,10 @@ I assume in development she morphed into roadhog and her silhouette was too clos
 2025-05-01 11:36:16,983 - INFO - Video Path: 
 2025-05-01 11:36:17,054 - INFO - Downloaded media from https://preview.redd.it/xnkettqcz1ye1.png?auto=webp&s=541767b1671ba3c3607a7fddb8e73405dd57922d to temp_image.jpg
 2025-05-01 11:36:18,156 - INFO - Posted content successfully. Tweet ID: 1917905914960765354
+2025-05-01 12:28:59,521 - INFO - Content: Spray idea I drew
+
+2025-05-01 12:28:59,521 - INFO - Image Paths: ['https://preview.redd.it/2nfpvp5163ye1.png?auto=webp&s=173ffd29a167e5d6ec98af592bc7302d8589ed3c']
+2025-05-01 12:28:59,521 - INFO - Video Path: 
+2025-05-01 12:28:59,634 - INFO - Downloaded media from https://preview.redd.it/2nfpvp5163ye1.png?auto=webp&s=173ffd29a167e5d6ec98af592bc7302d8589ed3c to temp_image.jpg
+2025-05-01 12:29:00,356 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
