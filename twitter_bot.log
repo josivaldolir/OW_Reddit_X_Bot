@@ -1275,3 +1275,10 @@ Too Many Requests
 2025-05-01 15:15:00,273 - INFO - Downloaded media from https://preview.redd.it/2nfpvp5163ye1.png?auto=webp&s=173ffd29a167e5d6ec98af592bc7302d8589ed3c to temp_image.jpg
 2025-05-01 15:15:01,223 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-01 15:40:27,072 - INFO - Content: Because i believe Lucio deserved a Magical Girl skin too.
+(+ Lucio Hatsune because, why not.)
+2025-05-01 15:40:27,072 - INFO - Image Paths: ['https://preview.redd.it/047gmhq886ye1.jpeg?auto=webp&s=88d6ca056d6d6582cda1d6bbc76b0fa123a252dc']
+2025-05-01 15:40:27,072 - INFO - Video Path: 
+2025-05-01 15:40:27,189 - INFO - Downloaded media from https://preview.redd.it/047gmhq886ye1.jpeg?auto=webp&s=88d6ca056d6d6582cda1d6bbc76b0fa123a252dc to temp_image.jpg
+2025-05-01 15:40:27,984 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
