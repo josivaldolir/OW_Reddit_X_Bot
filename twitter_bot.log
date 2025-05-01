@@ -1261,3 +1261,10 @@ These were for fun/passion project, sorry I wish the collab were real
 2025-05-01 14:14:08,746 - INFO - Downloaded media from https://preview.redd.it/wv6c6qrq86ye1.jpg?width=2048&format=pjpg&auto=webp&s=e6be15bf773424662c3f8ab7ce22e9b54b048d50 to temp_image.jpg
 2025-05-01 14:14:09,543 - INFO - Downloaded media from https://preview.redd.it/69ssfmrq86ye1.png?width=2048&format=png&auto=webp&s=092dba85431566cd8035bfa93a5309c450aebc17 to temp_image.jpg
 2025-05-01 14:14:12,799 - INFO - Posted content successfully. Tweet ID: 1917945645769298109
+2025-05-01 14:40:17,488 - INFO - Content: Because i believe Lucio deserved a Magical Girl skin too.
+(+ Lucio Hatsune because, why not.)
+2025-05-01 14:40:17,488 - INFO - Image Paths: ['https://preview.redd.it/047gmhq886ye1.jpeg?auto=webp&s=88d6ca056d6d6582cda1d6bbc76b0fa123a252dc']
+2025-05-01 14:40:17,488 - INFO - Video Path: 
+2025-05-01 14:40:17,529 - INFO - Downloaded media from https://preview.redd.it/047gmhq886ye1.jpeg?auto=webp&s=88d6ca056d6d6582cda1d6bbc76b0fa123a252dc to temp_image.jpg
+2025-05-01 14:40:18,323 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
