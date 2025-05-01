@@ -1268,3 +1268,10 @@ These were for fun/passion project, sorry I wish the collab were real
 2025-05-01 14:40:17,529 - INFO - Downloaded media from https://preview.redd.it/047gmhq886ye1.jpeg?auto=webp&s=88d6ca056d6d6582cda1d6bbc76b0fa123a252dc to temp_image.jpg
 2025-05-01 14:40:18,323 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-01 15:15:00,052 - INFO - Content: Spray idea I drew
+
+2025-05-01 15:15:00,052 - INFO - Image Paths: ['https://preview.redd.it/2nfpvp5163ye1.png?auto=webp&s=173ffd29a167e5d6ec98af592bc7302d8589ed3c']
+2025-05-01 15:15:00,052 - INFO - Video Path: 
+2025-05-01 15:15:00,273 - INFO - Downloaded media from https://preview.redd.it/2nfpvp5163ye1.png?auto=webp&s=173ffd29a167e5d6ec98af592bc7302d8589ed3c to temp_image.jpg
+2025-05-01 15:15:01,223 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
