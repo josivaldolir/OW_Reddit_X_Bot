@@ -1282,3 +1282,11 @@ Too Many Requests
 2025-05-01 15:40:27,189 - INFO - Downloaded media from https://preview.redd.it/047gmhq886ye1.jpeg?auto=webp&s=88d6ca056d6d6582cda1d6bbc76b0fa123a252dc to temp_image.jpg
 2025-05-01 15:40:27,984 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-01 16:18:55,436 - INFO - Content: TIL Moira is voiced by the great Genevieve O’Reilly, who plays Mon Mothma on Andor. (She and the actress playing Deedra are undercover Irish)
+
+2025-05-01 16:18:55,436 - INFO - Image Paths: ['https://preview.redd.it/nwecasseq6ye1.jpg?width=907&format=pjpg&auto=webp&s=f2e9c2e94b440cda53ed37ce0cc3d3015aa089b9', 'https://preview.redd.it/7d358rseq6ye1.jpg?width=1170&format=pjpg&auto=webp&s=a2ff6930aaa5d7c3a0ed777dfd924d6f4eb94d78']
+2025-05-01 16:18:55,436 - INFO - Video Path: 
+2025-05-01 16:18:55,545 - INFO - Downloaded media from https://preview.redd.it/nwecasseq6ye1.jpg?width=907&format=pjpg&auto=webp&s=f2e9c2e94b440cda53ed37ce0cc3d3015aa089b9 to temp_image.jpg
+2025-05-01 16:18:56,118 - INFO - Downloaded media from https://preview.redd.it/7d358rseq6ye1.jpg?width=1170&format=pjpg&auto=webp&s=a2ff6930aaa5d7c3a0ed777dfd924d6f4eb94d78 to temp_image.jpg
+2025-05-01 16:18:56,877 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
