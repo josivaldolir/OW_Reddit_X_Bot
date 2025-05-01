@@ -1147,3 +1147,10 @@ Too Many Requests
 2025-05-01 05:40:59,901 - INFO - Downloaded media from https://external-preview.redd.it/AXFCoQV_yfsZuwf1lMPa11fIElYFFO5ryNcaiYpsHE0.jpg?auto=webp&s=25d0c2364625a1103b0d7bd24cda463571c6ff67 to temp_image.jpg
 2025-05-01 05:41:00,581 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-01 06:22:10,679 - INFO - Content: Spray idea I drew
+
+2025-05-01 06:22:10,679 - INFO - Image Paths: ['https://preview.redd.it/2nfpvp5163ye1.png?auto=webp&s=173ffd29a167e5d6ec98af592bc7302d8589ed3c']
+2025-05-01 06:22:10,679 - INFO - Video Path: 
+2025-05-01 06:22:10,803 - INFO - Downloaded media from https://preview.redd.it/2nfpvp5163ye1.png?auto=webp&s=173ffd29a167e5d6ec98af592bc7302d8589ed3c to temp_image.jpg
+2025-05-01 06:22:11,367 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
