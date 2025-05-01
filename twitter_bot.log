@@ -1175,3 +1175,9 @@ Too Many Requests
 2025-05-01 07:36:57,679 - INFO - Downloaded media from https://external-preview.redd.it/AXFCoQV_yfsZuwf1lMPa11fIElYFFO5ryNcaiYpsHE0.jpg?auto=webp&s=25d0c2364625a1103b0d7bd24cda463571c6ff67 to temp_image.jpg
 2025-05-01 07:36:58,292 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-01 08:20:18,217 - INFO - Content: Marvel rivals support players on strike
+
+2025-05-01 08:20:18,218 - INFO - Image Paths: ['https://preview.redd.it/hpdylsrzf4ye1.jpeg?auto=webp&s=d0a6af475b32c9b6c5ea2711af85d49928829913']
+2025-05-01 08:20:18,218 - INFO - Video Path: 
+2025-05-01 08:20:18,367 - INFO - Downloaded media from https://preview.redd.it/hpdylsrzf4ye1.jpeg?auto=webp&s=d0a6af475b32c9b6c5ea2711af85d49928829913 to temp_image.jpg
+2025-05-01 08:20:19,810 - INFO - Posted content successfully. Tweet ID: 1917856597075976396
