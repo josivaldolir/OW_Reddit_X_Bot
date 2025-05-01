@@ -1311,3 +1311,9 @@ Too Many Requests
 2025-05-01 17:38:37,609 - INFO - Downloaded media from https://preview.redd.it/2nfpvp5163ye1.png?auto=webp&s=173ffd29a167e5d6ec98af592bc7302d8589ed3c to temp_image.jpg
 2025-05-01 17:38:38,321 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-01 18:20:44,998 - INFO - Content: This is a truth that many will not accept.
+The truth is that Overwatch is at its peak, there has never been so much content, the player base is large and solid and the company, for the first time, is making an effort to listen to the community. Only those who live on nostalgia would deny this.
+2025-05-01 18:20:44,998 - INFO - Image Paths: []
+2025-05-01 18:20:44,998 - INFO - Video Path: 
+2025-05-01 18:20:45,145 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
