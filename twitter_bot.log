@@ -1317,3 +1317,9 @@ The truth is that Overwatch is at its peak, there has never been so much content
 2025-05-01 18:20:44,998 - INFO - Video Path: 
 2025-05-01 18:20:45,145 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-01 18:47:05,539 - INFO - Content: Spray idea I drew
+
+2025-05-01 18:47:05,539 - INFO - Image Paths: ['https://preview.redd.it/2nfpvp5163ye1.png?auto=webp&s=173ffd29a167e5d6ec98af592bc7302d8589ed3c']
+2025-05-01 18:47:05,539 - INFO - Video Path: 
+2025-05-01 18:47:05,616 - INFO - Downloaded media from https://preview.redd.it/2nfpvp5163ye1.png?auto=webp&s=173ffd29a167e5d6ec98af592bc7302d8589ed3c to temp_image.jpg
+2025-05-01 18:47:06,791 - INFO - Posted content successfully. Tweet ID: 1918014332228780103
