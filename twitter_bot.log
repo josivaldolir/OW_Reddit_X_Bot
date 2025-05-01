@@ -1120,3 +1120,9 @@ EDIT3: 9-3
 2025-05-01 03:57:29,211 - INFO - Downloaded media from https://preview.redd.it/ialc5m9h41ye1.png?auto=webp&s=5575e64a78c694343b066f3467bb532e8d6742f9 to temp_image.jpg
 2025-05-01 03:57:29,981 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-01 04:25:43,784 - INFO - Content: When your League of Legends equivalent has more self-awareness...
+
+2025-05-01 04:25:43,784 - INFO - Image Paths: ['https://preview.redd.it/ialc5m9h41ye1.png?auto=webp&s=5575e64a78c694343b066f3467bb532e8d6742f9']
+2025-05-01 04:25:43,785 - INFO - Video Path: 
+2025-05-01 04:25:44,012 - INFO - Downloaded media from https://preview.redd.it/ialc5m9h41ye1.png?auto=webp&s=5575e64a78c694343b066f3467bb532e8d6742f9 to temp_image.jpg
+2025-05-01 04:25:45,009 - INFO - Posted content successfully. Tweet ID: 1917797563790667932
