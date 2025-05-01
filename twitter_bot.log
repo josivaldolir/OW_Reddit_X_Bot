@@ -1376,3 +1376,10 @@ Too Many Requests
 2025-05-01 22:14:14,097 - INFO - Downloaded media from https://preview.redd.it/edu7em9oh7ye1.jpg?width=4284&format=pjpg&auto=webp&s=c1c0d7f3fe440385a3916c8bf76ea3557e1e938d to temp_image.jpg
 2025-05-01 22:14:16,395 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-01 22:41:04,709 - INFO - Content: This is the worst thing I’ve ever seen
+
+2025-05-01 22:41:04,709 - INFO - Image Paths: ['https://preview.redd.it/avszcn9oh7ye1.jpg?width=4284&format=pjpg&auto=webp&s=63f870c136f9e35f7417906fb00a14bcca97e493', 'https://preview.redd.it/edu7em9oh7ye1.jpg?width=4284&format=pjpg&auto=webp&s=c1c0d7f3fe440385a3916c8bf76ea3557e1e938d']
+2025-05-01 22:41:04,709 - INFO - Video Path: 
+2025-05-01 22:41:04,982 - INFO - Downloaded media from https://preview.redd.it/avszcn9oh7ye1.jpg?width=4284&format=pjpg&auto=webp&s=63f870c136f9e35f7417906fb00a14bcca97e493 to temp_image.jpg
+2025-05-01 22:41:07,431 - INFO - Downloaded media from https://preview.redd.it/edu7em9oh7ye1.jpg?width=4284&format=pjpg&auto=webp&s=c1c0d7f3fe440385a3916c8bf76ea3557e1e938d to temp_image.jpg
+2025-05-01 22:41:10,658 - INFO - Posted content successfully. Tweet ID: 1918073233888440402
