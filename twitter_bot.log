@@ -1181,3 +1181,9 @@ Too Many Requests
 2025-05-01 08:20:18,218 - INFO - Video Path: 
 2025-05-01 08:20:18,367 - INFO - Downloaded media from https://preview.redd.it/hpdylsrzf4ye1.jpeg?auto=webp&s=d0a6af475b32c9b6c5ea2711af85d49928829913 to temp_image.jpg
 2025-05-01 08:20:19,810 - INFO - Posted content successfully. Tweet ID: 1917856597075976396
+2025-05-01 08:44:57,120 - INFO - Content: Blizzard makes statement that new voicelines are not AI generated
+
+2025-05-01 08:44:57,120 - INFO - Image Paths: ['https://external-preview.redd.it/AXFCoQV_yfsZuwf1lMPa11fIElYFFO5ryNcaiYpsHE0.jpg?auto=webp&s=25d0c2364625a1103b0d7bd24cda463571c6ff67']
+2025-05-01 08:44:57,120 - INFO - Video Path: 
+2025-05-01 08:44:57,336 - INFO - Downloaded media from https://external-preview.redd.it/AXFCoQV_yfsZuwf1lMPa11fIElYFFO5ryNcaiYpsHE0.jpg?auto=webp&s=25d0c2364625a1103b0d7bd24cda463571c6ff67 to temp_image.jpg
+2025-05-01 08:44:58,101 - INFO - Posted content successfully. Tweet ID: 1917862798094373120
