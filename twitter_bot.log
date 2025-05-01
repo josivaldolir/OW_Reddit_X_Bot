@@ -1113,3 +1113,10 @@ EDIT3: 9-3
 2025-05-01 03:02:01,873 - INFO - Image Paths: []
 2025-05-01 03:02:01,873 - INFO - Video Path: 
 2025-05-01 03:02:02,435 - INFO - Posted content successfully. Tweet ID: 1917776497710096817
+2025-05-01 03:57:28,961 - INFO - Content: When your League of Legends equivalent has more self-awareness...
+
+2025-05-01 03:57:28,961 - INFO - Image Paths: ['https://preview.redd.it/ialc5m9h41ye1.png?auto=webp&s=5575e64a78c694343b066f3467bb532e8d6742f9']
+2025-05-01 03:57:28,961 - INFO - Video Path: 
+2025-05-01 03:57:29,211 - INFO - Downloaded media from https://preview.redd.it/ialc5m9h41ye1.png?auto=webp&s=5575e64a78c694343b066f3467bb532e8d6742f9 to temp_image.jpg
+2025-05-01 03:57:29,981 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
