@@ -1095,3 +1095,10 @@ So basically we need more girl tanks and boy supports
 2025-04-30 23:37:43,882 - INFO - Downloaded media from https://v.redd.it/ujxx1kj96zxe1/DASH_480.mp4?source=fallback to temp_audio.mp4
 2025-04-30 23:37:44,234 - INFO - Combined video and audio into temp_combined.mp4
 2025-04-30 23:37:49,239 - INFO - Posted content successfully. Tweet ID: 1917725104013991989
+2025-05-01 01:24:14,927 - INFO - Content: When your League of Legends equivalent has more self-awareness...
+
+2025-05-01 01:24:14,927 - INFO - Image Paths: ['https://preview.redd.it/ialc5m9h41ye1.png?auto=webp&s=5575e64a78c694343b066f3467bb532e8d6742f9']
+2025-05-01 01:24:14,927 - INFO - Video Path: 
+2025-05-01 01:24:15,067 - INFO - Downloaded media from https://preview.redd.it/ialc5m9h41ye1.png?auto=webp&s=5575e64a78c694343b066f3467bb532e8d6742f9 to temp_image.jpg
+2025-05-01 01:24:16,016 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
