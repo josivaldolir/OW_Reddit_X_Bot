@@ -1168,3 +1168,10 @@ Too Many Requests
 2025-05-01 07:15:49,745 - INFO - Downloaded media from https://external-preview.redd.it/AXFCoQV_yfsZuwf1lMPa11fIElYFFO5ryNcaiYpsHE0.jpg?auto=webp&s=25d0c2364625a1103b0d7bd24cda463571c6ff67 to temp_image.jpg
 2025-05-01 07:15:50,310 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-01 07:36:57,560 - INFO - Content: Blizzard makes statement that new voicelines are not AI generated
+
+2025-05-01 07:36:57,560 - INFO - Image Paths: ['https://external-preview.redd.it/AXFCoQV_yfsZuwf1lMPa11fIElYFFO5ryNcaiYpsHE0.jpg?auto=webp&s=25d0c2364625a1103b0d7bd24cda463571c6ff67']
+2025-05-01 07:36:57,560 - INFO - Video Path: 
+2025-05-01 07:36:57,679 - INFO - Downloaded media from https://external-preview.redd.it/AXFCoQV_yfsZuwf1lMPa11fIElYFFO5ryNcaiYpsHE0.jpg?auto=webp&s=25d0c2364625a1103b0d7bd24cda463571c6ff67 to temp_image.jpg
+2025-05-01 07:36:58,292 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
