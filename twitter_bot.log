@@ -1360,3 +1360,11 @@ Too Many Requests
 2025-05-01 21:14:31,300 - INFO - Downloaded media from https://preview.redd.it/edu7em9oh7ye1.jpg?width=4284&format=pjpg&auto=webp&s=c1c0d7f3fe440385a3916c8bf76ea3557e1e938d to temp_image.jpg
 2025-05-01 21:14:33,755 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-01 21:36:01,825 - INFO - Content: This is the worst thing I’ve ever seen
+
+2025-05-01 21:36:01,826 - INFO - Image Paths: ['https://preview.redd.it/avszcn9oh7ye1.jpg?width=4284&format=pjpg&auto=webp&s=63f870c136f9e35f7417906fb00a14bcca97e493', 'https://preview.redd.it/edu7em9oh7ye1.jpg?width=4284&format=pjpg&auto=webp&s=c1c0d7f3fe440385a3916c8bf76ea3557e1e938d']
+2025-05-01 21:36:01,826 - INFO - Video Path: 
+2025-05-01 21:36:01,925 - INFO - Downloaded media from https://preview.redd.it/avszcn9oh7ye1.jpg?width=4284&format=pjpg&auto=webp&s=63f870c136f9e35f7417906fb00a14bcca97e493 to temp_image.jpg
+2025-05-01 21:36:04,438 - INFO - Downloaded media from https://preview.redd.it/edu7em9oh7ye1.jpg?width=4284&format=pjpg&auto=webp&s=c1c0d7f3fe440385a3916c8bf76ea3557e1e938d to temp_image.jpg
+2025-05-01 21:36:06,441 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
