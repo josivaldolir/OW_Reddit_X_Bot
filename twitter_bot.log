@@ -1695,3 +1695,9 @@ So basically I begged my friend to play ow with me and he installed. Out of all 
 2025-05-02 21:14:57,461 - INFO - Video Path: 
 2025-05-02 21:14:57,608 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-02 21:37:00,075 - INFO - Content: Is this accurate?
+
+2025-05-02 21:37:00,075 - INFO - Image Paths: ['https://preview.redd.it/av4parva6fye1.png?auto=webp&s=653a34cb70aae538e1b61de5dcac20d17338cfe4']
+2025-05-02 21:37:00,075 - INFO - Video Path: 
+2025-05-02 21:37:00,124 - INFO - Downloaded media from https://preview.redd.it/av4parva6fye1.png?auto=webp&s=653a34cb70aae538e1b61de5dcac20d17338cfe4 to temp_image.jpg
+2025-05-02 21:37:00,901 - INFO - Posted content successfully. Tweet ID: 1918419477970206928
