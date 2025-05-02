@@ -1662,3 +1662,10 @@ Does anyone know how big OW is in Japan? I see a lot of japanese streamers on tw
 2025-05-02 18:46:06,209 - INFO - Downloaded media from https://preview.redd.it/0jcwpp6bdeye1.png?auto=webp&s=e3c2679589c5fef2982526854939d092f2829ab0 to temp_image.jpg
 2025-05-02 18:46:07,148 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-02 19:12:39,607 - INFO - Content: Dokiwatch advertisement in Japan.
+Does anyone know how big OW is in Japan? I see a lot of japanese streamers on twitch but that is obviously a bit anecdotal.
+2025-05-02 19:12:39,607 - INFO - Image Paths: ['https://preview.redd.it/0jcwpp6bdeye1.png?auto=webp&s=e3c2679589c5fef2982526854939d092f2829ab0']
+2025-05-02 19:12:39,607 - INFO - Video Path: 
+2025-05-02 19:12:39,672 - INFO - Downloaded media from https://preview.redd.it/0jcwpp6bdeye1.png?auto=webp&s=e3c2679589c5fef2982526854939d092f2829ab0 to temp_image.jpg
+2025-05-02 19:12:40,642 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
