@@ -1589,3 +1589,10 @@ Edit: I know sometimes you need to switch characters to have better survivabilit
 2025-05-02 15:39:09,254 - INFO - Video Path: 
 2025-05-02 15:39:09,407 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-02 16:18:42,078 - INFO - Content: They’re in De-Nile!
+
+2025-05-02 16:18:42,078 - INFO - Image Paths: ['https://preview.redd.it/ijbk0rixscye1.jpeg?auto=webp&s=3a61e7d74de5b78c0aaff06a5b8755bb1541181f']
+2025-05-02 16:18:42,078 - INFO - Video Path: 
+2025-05-02 16:18:42,181 - INFO - Downloaded media from https://preview.redd.it/ijbk0rixscye1.jpeg?auto=webp&s=3a61e7d74de5b78c0aaff06a5b8755bb1541181f to temp_image.jpg
+2025-05-02 16:18:42,858 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
