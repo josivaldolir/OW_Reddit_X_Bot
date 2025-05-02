@@ -1421,3 +1421,18 @@ Directors Take Blog about Stadium: https://overwatch.blizzard.com/en-us/news/241
 2025-05-02 04:17:54,630 - INFO - Video Path: 
 2025-05-02 04:17:54,712 - INFO - Downloaded media from https://preview.redd.it/2fddr89ro9ye1.png?auto=webp&s=c3465a8a1434df7cd2019c699108a8f833374f62 to temp_image.jpg
 2025-05-02 04:17:55,085 - ERROR - Failed to post content: 526 
+2025-05-02 04:44:01,618 - INFO - Content: Blizzard lets slip some gameplay metrics, showing that Overwatch saw ~15.6M hours spent in matches in the last week
+Blizzard has a history of being extremely tight-lipped about their gameplay data. Player counts, hours spent in-game or in-match, etc. They've almost never made that data public, to my active memory. But from a recent tweet and dev blog post, some simple math shows some very decent numbers spent in-match (going purely off language, this doesn't seem to count time spent in menus or in queue).
+
+Sources:
+
+[https://x.com/PlayOverwatch/status/1918062881930711315](https://x.com/PlayOverwatch/status/1918062881930711315)
+
+[https://overwatch.blizzard.com/en-us/news/24198087/](https://overwatch.blizzard.com/en-us/news/24198087/)
+
+Ded gaem btw
+2025-05-02 04:44:01,618 - INFO - Image Paths: ['https://preview.redd.it/0akk192qk9ye1.png?width=641&format=png&auto=webp&s=3422127a28ca0ff285984adfb6a1f7f549c51d4f', 'https://preview.redd.it/paf1308qk9ye1.png?width=773&format=png&auto=webp&s=c62eff0c2a534e2ff86941af6c04cf5c935be023']
+2025-05-02 04:44:01,618 - INFO - Video Path: 
+2025-05-02 04:44:01,824 - INFO - Downloaded media from https://preview.redd.it/0akk192qk9ye1.png?width=641&format=png&auto=webp&s=3422127a28ca0ff285984adfb6a1f7f549c51d4f to temp_image.jpg
+2025-05-02 04:44:02,374 - INFO - Downloaded media from https://preview.redd.it/paf1308qk9ye1.png?width=773&format=png&auto=webp&s=c62eff0c2a534e2ff86941af6c04cf5c935be023 to temp_image.jpg
+2025-05-02 04:44:03,265 - INFO - Posted content successfully. Tweet ID: 1918164557580910709
