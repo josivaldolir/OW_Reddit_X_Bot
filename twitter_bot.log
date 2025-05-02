@@ -1675,3 +1675,10 @@ Does anyone know how big OW is in Japan? I see a lot of japanese streamers on tw
 2025-05-02 19:36:41,346 - INFO - Video Path: 
 2025-05-02 19:36:41,442 - INFO - Downloaded media from https://preview.redd.it/0jcwpp6bdeye1.png?auto=webp&s=e3c2679589c5fef2982526854939d092f2829ab0 to temp_image.jpg
 2025-05-02 19:36:43,525 - INFO - Posted content successfully. Tweet ID: 1918389201856544871
+2025-05-02 20:16:55,349 - INFO - Content: The true stadium meta build
+
+2025-05-02 20:16:55,349 - INFO - Image Paths: ['https://preview.redd.it/gr5dod5uueye1.png?auto=webp&s=ad6a512de83fb0a7144e342a272fbcc1087df770']
+2025-05-02 20:16:55,349 - INFO - Video Path: 
+2025-05-02 20:16:55,515 - INFO - Downloaded media from https://preview.redd.it/gr5dod5uueye1.png?auto=webp&s=ad6a512de83fb0a7144e342a272fbcc1087df770 to temp_image.jpg
+2025-05-02 20:16:56,352 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
