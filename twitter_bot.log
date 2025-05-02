@@ -1648,3 +1648,10 @@ Does anyone know how big OW is in Japan? I see a lot of japanese streamers on tw
 2025-05-02 17:38:57,239 - INFO - Downloaded media from https://preview.redd.it/0jcwpp6bdeye1.png?auto=webp&s=e3c2679589c5fef2982526854939d092f2829ab0 to temp_image.jpg
 2025-05-02 17:38:58,230 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-02 18:20:24,894 - INFO - Content: They’re in De-Nile!
+
+2025-05-02 18:20:24,894 - INFO - Image Paths: ['https://preview.redd.it/ijbk0rixscye1.jpeg?auto=webp&s=3a61e7d74de5b78c0aaff06a5b8755bb1541181f']
+2025-05-02 18:20:24,894 - INFO - Video Path: 
+2025-05-02 18:20:24,950 - INFO - Downloaded media from https://preview.redd.it/ijbk0rixscye1.jpeg?auto=webp&s=3a61e7d74de5b78c0aaff06a5b8755bb1541181f to temp_image.jpg
+2025-05-02 18:20:25,742 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
