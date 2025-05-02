@@ -1468,3 +1468,10 @@ Seriously tho , It feels weird that people are actually somewhat enjoying the ga
 2025-05-02 07:15:25,469 - INFO - Video Path: 
 2025-05-02 07:15:25,729 - INFO - Downloaded media from https://preview.redd.it/2fddr89ro9ye1.png?auto=webp&s=c3465a8a1434df7cd2019c699108a8f833374f62 to temp_image.jpg
 2025-05-02 07:15:27,132 - INFO - Posted content successfully. Tweet ID: 1918202657216577845
+2025-05-02 07:36:57,687 - INFO - Content: I think this perfectly encapsulates their friendship
+
+2025-05-02 07:36:57,687 - INFO - Image Paths: ['https://preview.redd.it/24vrhr0zibye1.jpeg?auto=webp&s=c891bc7683b7165ff547f7823637b8319a4b8d93']
+2025-05-02 07:36:57,687 - INFO - Video Path: 
+2025-05-02 07:36:58,062 - INFO - Downloaded media from https://preview.redd.it/24vrhr0zibye1.jpeg?auto=webp&s=c891bc7683b7165ff547f7823637b8319a4b8d93 to temp_image.jpg
+2025-05-02 07:36:58,939 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
