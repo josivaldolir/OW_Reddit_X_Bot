@@ -1508,3 +1508,10 @@ How do they decide what decimals are appropriate? And why only on certain instan
 2025-05-02 09:39:02,672 - INFO - Downloaded media from https://preview.redd.it/rqju1ifzgbye1.jpeg?auto=webp&s=70176cf2958e0fd148cf1b703e0752db520f1214 to temp_image.jpg
 2025-05-02 09:39:03,445 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-02 10:15:59,056 - INFO - Content: I think this perfectly encapsulates their friendship
+
+2025-05-02 10:15:59,056 - INFO - Image Paths: ['https://preview.redd.it/24vrhr0zibye1.jpeg?auto=webp&s=c891bc7683b7165ff547f7823637b8319a4b8d93']
+2025-05-02 10:15:59,056 - INFO - Video Path: 
+2025-05-02 10:15:59,244 - INFO - Downloaded media from https://preview.redd.it/24vrhr0zibye1.jpeg?auto=webp&s=c891bc7683b7165ff547f7823637b8319a4b8d93 to temp_image.jpg
+2025-05-02 10:15:59,846 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
