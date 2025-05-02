@@ -1641,3 +1641,10 @@ I know the ban system isn't perfect, but I urge you, if you're getting banned or
 2025-05-02 17:13:45,756 - INFO - Image Paths: []
 2025-05-02 17:13:45,756 - INFO - Video Path: 
 2025-05-02 17:13:46,218 - INFO - Posted content successfully. Tweet ID: 1918353230406533579
+2025-05-02 17:38:57,055 - INFO - Content: Dokiwatch advertisement in Japan.
+Does anyone know how big OW is in Japan? I see a lot of japanese streamers on twitch but that is obviously a bit anecdotal.
+2025-05-02 17:38:57,055 - INFO - Image Paths: ['https://preview.redd.it/0jcwpp6bdeye1.png?auto=webp&s=e3c2679589c5fef2982526854939d092f2829ab0']
+2025-05-02 17:38:57,055 - INFO - Video Path: 
+2025-05-02 17:38:57,239 - INFO - Downloaded media from https://preview.redd.it/0jcwpp6bdeye1.png?auto=webp&s=e3c2679589c5fef2982526854939d092f2829ab0 to temp_image.jpg
+2025-05-02 17:38:58,230 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
