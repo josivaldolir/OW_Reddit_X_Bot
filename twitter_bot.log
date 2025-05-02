@@ -1556,3 +1556,9 @@ Too Many Requests
 2025-05-02 13:43:34,726 - INFO - Video Path: 
 2025-05-02 13:43:34,950 - INFO - Downloaded media from https://preview.redd.it/24vrhr0zibye1.jpeg?auto=webp&s=c891bc7683b7165ff547f7823637b8319a4b8d93 to temp_image.jpg
 2025-05-02 13:43:35,912 - INFO - Posted content successfully. Tweet ID: 1918300338593132544
+2025-05-02 14:14:44,319 - INFO - Content: Finally, a proper sequal
+
+2025-05-02 14:14:44,320 - INFO - Image Paths: ['https://preview.redd.it/ey5k8vh6cdye1.jpeg?auto=webp&s=54fe13d2252bf4636dc0b2142fdb56582da34608']
+2025-05-02 14:14:44,320 - INFO - Video Path: 
+2025-05-02 14:14:44,370 - INFO - Downloaded media from https://preview.redd.it/ey5k8vh6cdye1.jpeg?auto=webp&s=54fe13d2252bf4636dc0b2142fdb56582da34608 to temp_image.jpg
+2025-05-02 14:14:45,487 - INFO - Posted content successfully. Tweet ID: 1918308180368511297
