@@ -1501,3 +1501,10 @@ here is my next addition to the overwatch x edgerunners collab concept i started
 2025-05-02 09:16:12,082 - INFO - Downloaded media from https://preview.redd.it/w4bkuj53yaye1.png?width=4000&format=png&auto=webp&s=e5a85b82693dfd849d40ee4f12ea9bddeb6a5b2e to temp_image.jpg
 2025-05-02 09:16:12,987 - INFO - Downloaded media from https://preview.redd.it/bddcwcllyaye1.png?width=4000&format=png&auto=webp&s=b123d96580bcb996b7a69f7af24771e8976c43ae to temp_image.jpg
 2025-05-02 09:16:16,295 - INFO - Posted content successfully. Tweet ID: 1918233055128690737
+2025-05-02 09:39:02,648 - INFO - Content: Any game developers who can explain this to me? Especially since they refuse to make Cass fallof range anything that isn’t 20 or 25m
+How do they decide what decimals are appropriate? And why only on certain instances?
+2025-05-02 09:39:02,648 - INFO - Image Paths: ['https://preview.redd.it/rqju1ifzgbye1.jpeg?auto=webp&s=70176cf2958e0fd148cf1b703e0752db520f1214']
+2025-05-02 09:39:02,648 - INFO - Video Path: 
+2025-05-02 09:39:02,672 - INFO - Downloaded media from https://preview.redd.it/rqju1ifzgbye1.jpeg?auto=webp&s=70176cf2958e0fd148cf1b703e0752db520f1214 to temp_image.jpg
+2025-05-02 09:39:03,445 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
