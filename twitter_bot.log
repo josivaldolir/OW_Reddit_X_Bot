@@ -1952,3 +1952,12 @@ Doesn’t help that all of the best tanks hard counter everything she does.
 2025-05-03 17:37:53,997 - INFO - Video Path: 
 2025-05-03 17:37:54,166 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-03 18:18:57,382 - INFO - Content: Realistically, Winston might lose to soldier 56
+
+2025-05-03 18:18:57,382 - INFO - Image Paths: ['https://external-preview.redd.it/MXoyMTQ4ejl0bHllMYzMNuSsnFFyxitO8tDv6Y1vrGzSg0Pur3wxmNRbPxu6.png?format=pjpg&auto=webp&s=4e191c53642da59ee1b7b19158f6d9823ccf287e']
+2025-05-03 18:18:57,382 - INFO - Video Path: https://v.redd.it/impxt12atlye1/DASH_720.mp4?source=fallback
+2025-05-03 18:18:57,588 - INFO - Downloaded media from https://v.redd.it/impxt12atlye1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-05-03 18:18:57,626 - INFO - Downloaded media from https://v.redd.it/impxt12atlye1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-05-03 18:18:58,391 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-03 18:19:06,671 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
