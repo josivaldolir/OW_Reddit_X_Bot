@@ -2008,3 +2008,9 @@ Too Many Requests
 2025-05-03 21:13:02,314 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-03 21:13:07,293 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-03 21:36:43,941 - INFO - Content: i am oldest player XD
+i tried after while and this showed up
+2025-05-03 21:36:43,941 - INFO - Image Paths: ['https://preview.redd.it/6ylcbh5jjlye1.png?auto=webp&s=721bd98821872400467f7ee5c9d7e764a9dae214']
+2025-05-03 21:36:43,941 - INFO - Video Path: 
+2025-05-03 21:36:44,182 - INFO - Downloaded media from https://preview.redd.it/6ylcbh5jjlye1.png?auto=webp&s=721bd98821872400467f7ee5c9d7e764a9dae214 to temp_image.jpg
+2025-05-03 21:36:45,667 - INFO - Posted content successfully. Tweet ID: 1918781799473557772
