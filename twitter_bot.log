@@ -1792,3 +1792,10 @@ Too Many Requests
 2025-05-03 06:44:42,251 - INFO - Downloaded media from https://preview.redd.it/3h9m2k5n9hye1.png?width=1920&format=png&auto=webp&s=86ce3cbec80ed08fa4643d8574a97addd7d86b86 to temp_image.jpg
 2025-05-03 06:44:42,999 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-03 07:13:30,405 - INFO - Content: I.... I can actually play zen in comp now??
+
+
+2025-05-03 07:13:30,405 - INFO - Image Paths: ['https://preview.redd.it/zzeajj82oiye1.jpeg?auto=webp&s=1ddafb9b20bc7f42299cde54a7617f21e9c3fb3d']
+2025-05-03 07:13:30,405 - INFO - Video Path: 
+2025-05-03 07:13:30,689 - INFO - Downloaded media from https://preview.redd.it/zzeajj82oiye1.jpeg?auto=webp&s=1ddafb9b20bc7f42299cde54a7617f21e9c3fb3d to temp_image.jpg
+2025-05-03 07:13:31,448 - INFO - Posted content successfully. Tweet ID: 1918564561340514793
