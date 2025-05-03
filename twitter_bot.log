@@ -1899,3 +1899,11 @@ Too Many Requests
 2025-05-03 14:13:08,996 - INFO - Downloaded media from https://preview.redd.it/3h9m2k5n9hye1.png?width=1920&format=png&auto=webp&s=86ce3cbec80ed08fa4643d8574a97addd7d86b86 to temp_image.jpg
 2025-05-03 14:13:09,707 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-03 14:38:26,725 - INFO - Content: Game showed I picked orisa, then switched me to dva
+Wonder if this can be used to avoid a counter. Has anyone experienced this? 
+2025-05-03 14:38:26,725 - INFO - Image Paths: ['https://external-preview.redd.it/dGY4OTNldGNqa3llMSXS1__Jh_YcZUCKA6hUzV4dFIT0S4-95FcT97GCYd8_.png?format=pjpg&auto=webp&s=55d21920788b32560afd792004edb56ef1c9b8c0']
+2025-05-03 14:38:26,725 - INFO - Video Path: https://v.redd.it/bl0kk4tcjkye1/DASH_1080.mp4?source=fallback
+2025-05-03 14:38:26,904 - INFO - Downloaded media from https://v.redd.it/bl0kk4tcjkye1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-05-03 14:38:26,977 - INFO - Downloaded media from https://v.redd.it/bl0kk4tcjkye1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-05-03 14:38:27,523 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-03 14:38:33,318 - INFO - Posted content successfully. Tweet ID: 1918676557016523238
