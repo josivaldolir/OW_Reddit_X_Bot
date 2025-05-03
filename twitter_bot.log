@@ -1839,3 +1839,9 @@ My wishes are being granted. As a Roman myself I’ve always wanted a gladiator 
 2025-05-03 10:15:13,107 - INFO - Downloaded media from https://preview.redd.it/ljved23ksiye1.jpeg?auto=webp&s=2ea952db5149ec0f1089d2f3c38795421f93d88d to temp_image.jpg
 2025-05-03 10:15:14,028 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-03 10:40:47,767 - INFO - Content: Years go by and so much change but he will always be my ol' reliable
+
+2025-05-03 10:40:47,767 - INFO - Image Paths: ['https://preview.redd.it/4tunk2jq41ye1.jpeg?auto=webp&s=656f102010a6976838c048e2ef8553f667563032']
+2025-05-03 10:40:47,767 - INFO - Video Path: 
+2025-05-03 10:40:47,792 - INFO - Downloaded media from https://preview.redd.it/4tunk2jq41ye1.jpeg?auto=webp&s=656f102010a6976838c048e2ef8553f667563032 to temp_image.jpg
+2025-05-03 10:40:48,610 - INFO - Posted content successfully. Tweet ID: 1918616726377525459
