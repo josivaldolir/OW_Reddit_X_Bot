@@ -1730,3 +1730,9 @@ So basically I begged my friend to play ow with me and he installed. Out of all 
 2025-05-03 01:11:19,386 - INFO - Image Paths: []
 2025-05-03 01:11:19,386 - INFO - Video Path: 
 2025-05-03 01:11:19,819 - INFO - Posted content successfully. Tweet ID: 1918473412303073718
+2025-05-03 02:47:53,948 - INFO - Content: No need for a tittle lmao
+
+2025-05-03 02:47:53,948 - INFO - Image Paths: ['https://preview.redd.it/o9k0vegpmaye1.jpeg?auto=webp&s=9c2a6ca9116c0a174430dd0208ceb74ed661415b']
+2025-05-03 02:47:53,948 - INFO - Video Path: 
+2025-05-03 02:47:53,997 - INFO - Downloaded media from https://preview.redd.it/o9k0vegpmaye1.jpeg?auto=webp&s=9c2a6ca9116c0a174430dd0208ceb74ed661415b to temp_image.jpg
+2025-05-03 02:47:54,852 - INFO - Posted content successfully. Tweet ID: 1918497718239961293
