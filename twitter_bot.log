@@ -1999,3 +1999,12 @@ i tried after while and this showed up
 2025-05-03 20:38:05,355 - INFO - Downloaded media from https://preview.redd.it/6ylcbh5jjlye1.png?auto=webp&s=721bd98821872400467f7ee5c9d7e764a9dae214 to temp_image.jpg
 2025-05-03 20:38:06,197 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-03 21:13:01,349 - INFO - Content: Realistically, Winston might lose to soldier 56
+
+2025-05-03 21:13:01,349 - INFO - Image Paths: ['https://external-preview.redd.it/MXoyMTQ4ejl0bHllMYzMNuSsnFFyxitO8tDv6Y1vrGzSg0Pur3wxmNRbPxu6.png?format=pjpg&auto=webp&s=4e191c53642da59ee1b7b19158f6d9823ccf287e']
+2025-05-03 21:13:01,349 - INFO - Video Path: https://v.redd.it/impxt12atlye1/DASH_720.mp4?source=fallback
+2025-05-03 21:13:01,459 - INFO - Downloaded media from https://v.redd.it/impxt12atlye1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-05-03 21:13:01,479 - INFO - Downloaded media from https://v.redd.it/impxt12atlye1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-05-03 21:13:02,314 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-03 21:13:07,293 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
