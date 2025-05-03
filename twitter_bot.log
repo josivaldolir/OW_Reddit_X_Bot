@@ -2023,3 +2023,11 @@ i tried after while and this showed up
 2025-05-03 22:13:36,284 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-03 22:13:41,519 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-03 22:39:18,503 - INFO - Content: Lifeweaver caught in 4K dragging Roadhog's body to the river
+He deserved it
+2025-05-03 22:39:18,503 - INFO - Image Paths: ['https://external-preview.redd.it/NHk3YXBmY3ppbXllMQrrGAc-0_Q2lMbPcfwLjfK1VyLOrzXgzO22_RPklKBL.png?format=pjpg&auto=webp&s=152ee2a79729d905c27ba6572dc190cc0521eef5']
+2025-05-03 22:39:18,503 - INFO - Video Path: https://v.redd.it/6ahesiczimye1/DASH_1080.mp4?source=fallback
+2025-05-03 22:39:19,167 - INFO - Downloaded media from https://v.redd.it/6ahesiczimye1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-05-03 22:39:19,318 - INFO - Downloaded media from https://v.redd.it/6ahesiczimye1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-05-03 22:39:19,629 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-03 22:39:26,403 - INFO - Posted content successfully. Tweet ID: 1918797575697891420
