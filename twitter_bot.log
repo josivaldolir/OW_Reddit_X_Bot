@@ -1890,3 +1890,12 @@ Too Many Requests
 2025-05-03 13:41:19,807 - INFO - Video Path: 
 2025-05-03 13:41:20,089 - INFO - Downloaded media from https://preview.redd.it/xkbguej82kye1.png?auto=webp&s=239f18d12338e215f2e3445a944bec9ac9a66513 to temp_image.jpg
 2025-05-03 13:41:21,074 - INFO - Posted content successfully. Tweet ID: 1918662160626167997
+2025-05-03 14:13:07,588 - INFO - Content: 3 legendary skins from a normal loot box. What are the odds?
+
+2025-05-03 14:13:07,588 - INFO - Image Paths: ['https://preview.redd.it/b13f75nm9hye1.png?width=1920&format=png&auto=webp&s=2c4f7a9ee7dd6c341bb104af488c28134ef20fba', 'https://preview.redd.it/a3rp3oxm9hye1.png?width=1920&format=png&auto=webp&s=40f938be9946c8f5c7bcdc3b6a4eae224694eb30', 'https://preview.redd.it/3h9m2k5n9hye1.png?width=1920&format=png&auto=webp&s=86ce3cbec80ed08fa4643d8574a97addd7d86b86']
+2025-05-03 14:13:07,588 - INFO - Video Path: 
+2025-05-03 14:13:07,809 - INFO - Downloaded media from https://preview.redd.it/b13f75nm9hye1.png?width=1920&format=png&auto=webp&s=2c4f7a9ee7dd6c341bb104af488c28134ef20fba to temp_image.jpg
+2025-05-03 14:13:08,432 - INFO - Downloaded media from https://preview.redd.it/a3rp3oxm9hye1.png?width=1920&format=png&auto=webp&s=40f938be9946c8f5c7bcdc3b6a4eae224694eb30 to temp_image.jpg
+2025-05-03 14:13:08,996 - INFO - Downloaded media from https://preview.redd.it/3h9m2k5n9hye1.png?width=1920&format=png&auto=webp&s=86ce3cbec80ed08fa4643d8574a97addd7d86b86 to temp_image.jpg
+2025-05-03 14:13:09,707 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
