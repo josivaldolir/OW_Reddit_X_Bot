@@ -1983,3 +1983,12 @@ Too Many Requests
 2025-05-03 19:35:46,897 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-03 19:35:55,288 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-03 20:15:00,848 - INFO - Content: Realistically, Winston might lose to soldier 56
+
+2025-05-03 20:15:00,848 - INFO - Image Paths: ['https://external-preview.redd.it/MXoyMTQ4ejl0bHllMYzMNuSsnFFyxitO8tDv6Y1vrGzSg0Pur3wxmNRbPxu6.png?format=pjpg&auto=webp&s=4e191c53642da59ee1b7b19158f6d9823ccf287e']
+2025-05-03 20:15:00,848 - INFO - Video Path: https://v.redd.it/impxt12atlye1/DASH_720.mp4?source=fallback
+2025-05-03 20:15:00,920 - INFO - Downloaded media from https://v.redd.it/impxt12atlye1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-05-03 20:15:00,940 - INFO - Downloaded media from https://v.redd.it/impxt12atlye1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-05-03 20:15:01,852 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-03 20:15:07,124 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
