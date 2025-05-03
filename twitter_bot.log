@@ -1805,3 +1805,10 @@ Too Many Requests
 2025-05-03 07:36:23,361 - INFO - Video Path: 
 2025-05-03 07:36:23,549 - INFO - Downloaded media from https://preview.redd.it/yi0huxjv3iye1.png?auto=webp&s=b8c1b14088b9cadd6e66af49523b170c9c3669ee to temp_image.jpg
 2025-05-03 07:36:25,002 - INFO - Posted content successfully. Tweet ID: 1918570320996515976
+2025-05-03 08:17:40,084 - INFO - Content: Good riddance you will not be missed
+
+2025-05-03 08:17:40,084 - INFO - Image Paths: ['https://preview.redd.it/48xzqurvniye1.jpeg?auto=webp&s=cee5af3b6b3ed05190518689af726016f9fd1acb']
+2025-05-03 08:17:40,084 - INFO - Video Path: 
+2025-05-03 08:17:40,253 - INFO - Downloaded media from https://preview.redd.it/48xzqurvniye1.jpeg?auto=webp&s=cee5af3b6b3ed05190518689af726016f9fd1acb to temp_image.jpg
+2025-05-03 08:17:40,883 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
