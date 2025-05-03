@@ -1884,3 +1884,9 @@ literally my first game. like rage bait or not how does a game allow these messa
 2025-05-03 13:29:50,839 - INFO - Downloaded media from https://preview.redd.it/j7e2s72r7kye1.jpg?width=3000&format=pjpg&auto=webp&s=36b2b01cb9316855c8cff84a0d53d8b908148f29 to temp_image.jpg
 2025-05-03 13:29:52,247 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-03 13:41:19,807 - INFO - Content: Tilted so bad ha?
+
+2025-05-03 13:41:19,807 - INFO - Image Paths: ['https://preview.redd.it/xkbguej82kye1.png?auto=webp&s=239f18d12338e215f2e3445a944bec9ac9a66513']
+2025-05-03 13:41:19,807 - INFO - Video Path: 
+2025-05-03 13:41:20,089 - INFO - Downloaded media from https://preview.redd.it/xkbguej82kye1.png?auto=webp&s=239f18d12338e215f2e3445a944bec9ac9a66513 to temp_image.jpg
+2025-05-03 13:41:21,074 - INFO - Posted content successfully. Tweet ID: 1918662160626167997
