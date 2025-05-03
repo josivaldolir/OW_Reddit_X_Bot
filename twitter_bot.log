@@ -1775,3 +1775,11 @@ Too Many Requests
 2025-05-03 05:39:50,431 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-03 05:39:55,107 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-03 06:19:50,149 - INFO - Content: Perfect spray location
+
+2025-05-03 06:19:50,149 - INFO - Image Paths: ['https://external-preview.redd.it/cnRmcjEwZm4zaHllMcerx2KbJs-rVRBqg_1KtaQMDvwbbQvf27JO_JVJS7DU.png?format=pjpg&auto=webp&s=db6eb49bf237c53a5aa56761559942ed2a9ca1e7']
+2025-05-03 06:19:50,149 - INFO - Video Path: https://v.redd.it/0jbna0fn3hye1/DASH_720.mp4?source=fallback
+2025-05-03 06:19:50,434 - INFO - Downloaded media from https://v.redd.it/0jbna0fn3hye1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-05-03 06:19:50,489 - INFO - Downloaded media from https://v.redd.it/0jbna0fn3hye1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-05-03 06:19:51,090 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-03 06:19:55,616 - INFO - Posted content successfully. Tweet ID: 1918551073218081228
