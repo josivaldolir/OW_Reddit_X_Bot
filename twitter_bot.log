@@ -1874,3 +1874,13 @@ literally my first game. like rage bait or not how does a game allow these messa
 2025-05-03 13:00:48,464 - INFO - Downloaded media from https://preview.redd.it/j7e2s72r7kye1.jpg?width=3000&format=pjpg&auto=webp&s=36b2b01cb9316855c8cff84a0d53d8b908148f29 to temp_image.jpg
 2025-05-03 13:00:49,843 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-03 13:29:47,116 - INFO - Content: people disappoint me so much
+literally my first game. like rage bait or not how does a game allow these messages to be sent into text chat
+2025-05-03 13:29:47,116 - INFO - Image Paths: ['https://preview.redd.it/4w7e682r7kye1.jpg?width=3000&format=pjpg&auto=webp&s=12019ecf9eb043523cad6aaa22449e96587a8380', 'https://preview.redd.it/5p6jn82r7kye1.jpg?width=3000&format=pjpg&auto=webp&s=214847b9b3526adffbd57895c938c15c0766a431', 'https://preview.redd.it/tj8ct82r7kye1.jpg?width=3000&format=pjpg&auto=webp&s=ba5edf4e10706d759d4d156632f5c8306e15ceec', 'https://preview.redd.it/j7e2s72r7kye1.jpg?width=3000&format=pjpg&auto=webp&s=36b2b01cb9316855c8cff84a0d53d8b908148f29']
+2025-05-03 13:29:47,116 - INFO - Video Path: 
+2025-05-03 13:29:47,269 - INFO - Downloaded media from https://preview.redd.it/4w7e682r7kye1.jpg?width=3000&format=pjpg&auto=webp&s=12019ecf9eb043523cad6aaa22449e96587a8380 to temp_image.jpg
+2025-05-03 13:29:48,548 - INFO - Downloaded media from https://preview.redd.it/5p6jn82r7kye1.jpg?width=3000&format=pjpg&auto=webp&s=214847b9b3526adffbd57895c938c15c0766a431 to temp_image.jpg
+2025-05-03 13:29:49,568 - INFO - Downloaded media from https://preview.redd.it/tj8ct82r7kye1.jpg?width=3000&format=pjpg&auto=webp&s=ba5edf4e10706d759d4d156632f5c8306e15ceec to temp_image.jpg
+2025-05-03 13:29:50,839 - INFO - Downloaded media from https://preview.redd.it/j7e2s72r7kye1.jpg?width=3000&format=pjpg&auto=webp&s=36b2b01cb9316855c8cff84a0d53d8b908148f29 to temp_image.jpg
+2025-05-03 13:29:52,247 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
