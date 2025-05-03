@@ -1757,3 +1757,12 @@ It took us a surprisingly long time to get even this far. Game time reads 20 min
 2025-05-03 04:43:22,481 - INFO - Downloaded media from https://preview.redd.it/3h9m2k5n9hye1.png?width=1920&format=png&auto=webp&s=86ce3cbec80ed08fa4643d8574a97addd7d86b86 to temp_image.jpg
 2025-05-03 04:43:23,265 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-03 05:15:35,055 - INFO - Content: Perfect spray location
+
+2025-05-03 05:15:35,055 - INFO - Image Paths: ['https://external-preview.redd.it/cnRmcjEwZm4zaHllMcerx2KbJs-rVRBqg_1KtaQMDvwbbQvf27JO_JVJS7DU.png?format=pjpg&auto=webp&s=db6eb49bf237c53a5aa56761559942ed2a9ca1e7']
+2025-05-03 05:15:35,055 - INFO - Video Path: https://v.redd.it/0jbna0fn3hye1/DASH_720.mp4?source=fallback
+2025-05-03 05:15:35,266 - INFO - Downloaded media from https://v.redd.it/0jbna0fn3hye1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-05-03 05:15:35,299 - INFO - Downloaded media from https://v.redd.it/0jbna0fn3hye1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-05-03 05:15:36,018 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-03 05:15:42,801 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
