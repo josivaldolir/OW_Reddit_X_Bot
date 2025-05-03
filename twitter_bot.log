@@ -2031,3 +2031,12 @@ He deserved it
 2025-05-03 22:39:19,318 - INFO - Downloaded media from https://v.redd.it/6ahesiczimye1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-05-03 22:39:19,629 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-03 22:39:26,403 - INFO - Posted content successfully. Tweet ID: 1918797575697891420
+2025-05-03 23:13:47,476 - INFO - Content: Realistically, Winston might lose to soldier 56
+
+2025-05-03 23:13:47,476 - INFO - Image Paths: ['https://external-preview.redd.it/MXoyMTQ4ejl0bHllMYzMNuSsnFFyxitO8tDv6Y1vrGzSg0Pur3wxmNRbPxu6.png?format=pjpg&auto=webp&s=4e191c53642da59ee1b7b19158f6d9823ccf287e']
+2025-05-03 23:13:47,476 - INFO - Video Path: https://v.redd.it/impxt12atlye1/DASH_720.mp4?source=fallback
+2025-05-03 23:13:47,527 - INFO - Downloaded media from https://v.redd.it/impxt12atlye1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-05-03 23:13:47,547 - INFO - Downloaded media from https://v.redd.it/impxt12atlye1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-05-03 23:13:48,323 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-03 23:13:53,344 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
