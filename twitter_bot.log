@@ -2318,3 +2318,13 @@ Sharing this so word gets around and it's patched.
 2025-05-04 15:37:26,376 - INFO - Image Paths: []
 2025-05-04 15:37:26,376 - INFO - Video Path: 
 2025-05-04 15:37:26,733 - INFO - Posted content successfully. Tweet ID: 1919053765199409293
+2025-05-04 16:17:07,271 - INFO - Content: Gaming and Gooning
+I like my big men, sue me!  
+(First time posting so I hope this fits here D: )
+2025-05-04 16:17:07,271 - INFO - Image Paths: ['https://preview.redd.it/m5nykync3rye1.jpg?width=900&format=pjpg&auto=webp&s=fc6e73ea6eb8a80a65294465b33e9ec2daafa067', 'https://preview.redd.it/vw1eeync3rye1.jpg?width=900&format=pjpg&auto=webp&s=579f876f42d027502f6d95f7263b1234843e8b22', 'https://preview.redd.it/xieje4oc3rye1.jpg?width=900&format=pjpg&auto=webp&s=3dddb0e4bbf473821332141a00a96dfdaf13801d', 'https://preview.redd.it/2mx042oc3rye1.jpg?width=900&format=pjpg&auto=webp&s=77d7e501e9724c0c61a933043da9c999c191312a']
+2025-05-04 16:17:07,271 - INFO - Video Path: 
+2025-05-04 16:17:07,362 - INFO - Downloaded media from https://preview.redd.it/m5nykync3rye1.jpg?width=900&format=pjpg&auto=webp&s=fc6e73ea6eb8a80a65294465b33e9ec2daafa067 to temp_image.jpg
+2025-05-04 16:17:08,005 - INFO - Downloaded media from https://preview.redd.it/vw1eeync3rye1.jpg?width=900&format=pjpg&auto=webp&s=579f876f42d027502f6d95f7263b1234843e8b22 to temp_image.jpg
+2025-05-04 16:17:08,735 - INFO - Downloaded media from https://preview.redd.it/xieje4oc3rye1.jpg?width=900&format=pjpg&auto=webp&s=3dddb0e4bbf473821332141a00a96dfdaf13801d to temp_image.jpg
+2025-05-04 16:17:09,382 - INFO - Downloaded media from https://preview.redd.it/2mx042oc3rye1.jpg?width=900&format=pjpg&auto=webp&s=77d7e501e9724c0c61a933043da9c999c191312a to temp_image.jpg
+2025-05-04 16:17:10,467 - INFO - Posted content successfully. Tweet ID: 1919063762797019459
