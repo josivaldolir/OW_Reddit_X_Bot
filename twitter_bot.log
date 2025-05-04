@@ -2311,3 +2311,10 @@ If someone recognized himself from here, thanks for not killing me xd
 2025-05-04 15:15:06,888 - INFO - Video Path: 
 2025-05-04 15:15:07,102 - INFO - Downloaded media from https://preview.redd.it/wqi01ixklrye1.jpeg?auto=webp&s=68fce7850f36696c3bf4e176d09eb82341ac3f82 to temp_image.jpg
 2025-05-04 15:15:08,118 - INFO - Posted content successfully. Tweet ID: 1919048150028779799
+2025-05-04 15:37:26,376 - INFO - Content: There's an exploit you can do in Stadium that allows you to get free Ult charge before the match starts.
+So normally you can't gain ult charge this way in normal game modes because self-damage doesn't give it. But the perks that "convert 100 HP to shields-armour" don't give you it instantly and instead let the spawn room healing top you up. So if you have someone healing you (or you heal yourself as Moira, Lucio, or Soldier) and spam taking and selling those two perks, your healers can get a good 20% ult charge before the match starts for free per person doing this. It's even stupider on Colosseo which has the small room that doesn't have the healing aura in it's spawn so this is even easier to do with more potential ult gain.
+
+Sharing this so word gets around and it's patched.
+2025-05-04 15:37:26,376 - INFO - Image Paths: []
+2025-05-04 15:37:26,376 - INFO - Video Path: 
+2025-05-04 15:37:26,733 - INFO - Posted content successfully. Tweet ID: 1919053765199409293
