@@ -2150,3 +2150,11 @@ Glad people are unanimous on Sigma being top 1 though.
 2025-05-04 07:14:09,871 - INFO - Image Paths: []
 2025-05-04 07:14:09,871 - INFO - Video Path: 
 2025-05-04 07:14:10,215 - INFO - Posted content successfully. Tweet ID: 1918927111882170646
+2025-05-04 07:35:27,217 - INFO - Content: My goat. Watch him go.
+
+2025-05-04 07:35:27,217 - INFO - Image Paths: ['https://external-preview.redd.it/ZnZuMW9oajc0MXllMcWthI1zeGgvjXVgt_9RMgBF9freetKQCcSQzLMHeaxG.png?format=pjpg&auto=webp&s=8b2f4068fc41df06e58874d59be260407e2ccb6c']
+2025-05-04 07:35:27,217 - INFO - Video Path: https://v.redd.it/6ucw4hj741ye1/DASH_1080.mp4?source=fallback
+2025-05-04 07:35:28,053 - INFO - Downloaded media from https://v.redd.it/6ucw4hj741ye1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-05-04 07:35:28,186 - INFO - Downloaded media from https://v.redd.it/6ucw4hj741ye1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-05-04 07:35:28,565 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-04 07:35:33,273 - INFO - Posted content successfully. Tweet ID: 1918932493388161142
