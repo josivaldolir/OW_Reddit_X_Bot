@@ -2292,3 +2292,10 @@ Anyways main things I want to see are:
 2025-05-04 13:40:10,956 - INFO - Video Path: 
 2025-05-04 13:40:11,226 - INFO - Downloaded media from https://preview.redd.it/ogzub72sdrye1.jpeg?auto=webp&s=21764d4f9592fd0e9dd993e6ebdde7b08abfda0a to temp_image.jpg
 2025-05-04 13:40:12,164 - INFO - Posted content successfully. Tweet ID: 1919024259843944856
+2025-05-04 14:12:57,929 - INFO - Content: Everyone on my team left, so i asked the enemies to take a selfie with me
+If someone recognized himself from here, thanks for not killing me xd
+2025-05-04 14:12:57,929 - INFO - Image Paths: ['https://preview.redd.it/ls671pqslrye1.jpeg?auto=webp&s=c4d33f8f97e943ccb08fbca8cf3688e480f34b48']
+2025-05-04 14:12:57,929 - INFO - Video Path: 
+2025-05-04 14:12:57,955 - INFO - Downloaded media from https://preview.redd.it/ls671pqslrye1.jpeg?auto=webp&s=c4d33f8f97e943ccb08fbca8cf3688e480f34b48 to temp_image.jpg
+2025-05-04 14:12:58,697 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
