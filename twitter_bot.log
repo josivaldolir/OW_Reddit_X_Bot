@@ -2405,3 +2405,10 @@ I know that certain characters sell more skins, and I know that blizzard likes m
 2025-05-04 21:13:22,448 - INFO - Video Path: 
 2025-05-04 21:13:22,596 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-04 21:37:01,564 - INFO - Content: Now finally understand why tanks don't peel for supports. I am joining them.
+
+2025-05-04 21:37:01,564 - INFO - Image Paths: ['https://preview.redd.it/zx2hn2rbutye1.jpeg?auto=webp&s=b068790652c4c0bb985a22e5b77829459aba2ed4']
+2025-05-04 21:37:01,564 - INFO - Video Path: 
+2025-05-04 21:37:01,741 - INFO - Downloaded media from https://preview.redd.it/zx2hn2rbutye1.jpeg?auto=webp&s=b068790652c4c0bb985a22e5b77829459aba2ed4 to temp_image.jpg
+2025-05-04 21:37:02,525 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
