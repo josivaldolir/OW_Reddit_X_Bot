@@ -2299,3 +2299,9 @@ If someone recognized himself from here, thanks for not killing me xd
 2025-05-04 14:12:57,955 - INFO - Downloaded media from https://preview.redd.it/ls671pqslrye1.jpeg?auto=webp&s=c4d33f8f97e943ccb08fbca8cf3688e480f34b48 to temp_image.jpg
 2025-05-04 14:12:58,697 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-04 14:38:35,685 - INFO - Content: Everyone on my team left, so i asked the enemies to take a selfie with me
+If someone recognized himself from here, thanks for not killing me xd
+2025-05-04 14:38:35,685 - INFO - Image Paths: ['https://preview.redd.it/ls671pqslrye1.jpeg?auto=webp&s=c4d33f8f97e943ccb08fbca8cf3688e480f34b48']
+2025-05-04 14:38:35,685 - INFO - Video Path: 
+2025-05-04 14:38:35,970 - INFO - Downloaded media from https://preview.redd.it/ls671pqslrye1.jpeg?auto=webp&s=c4d33f8f97e943ccb08fbca8cf3688e480f34b48 to temp_image.jpg
+2025-05-04 14:38:36,906 - INFO - Posted content successfully. Tweet ID: 1919038959579213987
