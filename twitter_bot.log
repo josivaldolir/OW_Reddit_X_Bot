@@ -2427,3 +2427,10 @@ Too Many Requests
 2025-05-04 22:39:43,524 - INFO - Downloaded media from https://preview.redd.it/zx2hn2rbutye1.jpeg?auto=webp&s=b068790652c4c0bb985a22e5b77829459aba2ed4 to temp_image.jpg
 2025-05-04 22:39:44,327 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-04 23:13:48,506 - INFO - Content: Now finally understand why tanks don't peel for supports. I am joining them.
+
+2025-05-04 23:13:48,506 - INFO - Image Paths: ['https://preview.redd.it/zx2hn2rbutye1.jpeg?auto=webp&s=b068790652c4c0bb985a22e5b77829459aba2ed4']
+2025-05-04 23:13:48,506 - INFO - Video Path: 
+2025-05-04 23:13:48,677 - INFO - Downloaded media from https://preview.redd.it/zx2hn2rbutye1.jpeg?auto=webp&s=b068790652c4c0bb985a22e5b77829459aba2ed4 to temp_image.jpg
+2025-05-04 23:13:49,292 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
