@@ -2380,3 +2380,9 @@ I know that certain characters sell more skins, and I know that blizzard likes m
 2025-05-04 19:12:41,668 - INFO - Video Path: 
 2025-05-04 19:12:41,940 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-04 19:35:42,642 - INFO - Content: I think i miss Sombra
+
+2025-05-04 19:35:42,642 - INFO - Image Paths: ['https://preview.redd.it/ov9kz1j8gtye1.jpeg?auto=webp&s=9a71b6e83dcb6a02fa195be39944f1b2125624c9']
+2025-05-04 19:35:42,642 - INFO - Video Path: 
+2025-05-04 19:35:42,741 - INFO - Downloaded media from https://preview.redd.it/ov9kz1j8gtye1.jpeg?auto=webp&s=9a71b6e83dcb6a02fa195be39944f1b2125624c9 to temp_image.jpg
+2025-05-04 19:35:43,617 - INFO - Posted content successfully. Tweet ID: 1919113730551333169
