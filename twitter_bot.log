@@ -2328,3 +2328,11 @@ I like my big men, sue me!
 2025-05-04 16:17:08,735 - INFO - Downloaded media from https://preview.redd.it/xieje4oc3rye1.jpg?width=900&format=pjpg&auto=webp&s=3dddb0e4bbf473821332141a00a96dfdaf13801d to temp_image.jpg
 2025-05-04 16:17:09,382 - INFO - Downloaded media from https://preview.redd.it/2mx042oc3rye1.jpg?width=900&format=pjpg&auto=webp&s=77d7e501e9724c0c61a933043da9c999c191312a to temp_image.jpg
 2025-05-04 16:17:10,467 - INFO - Posted content successfully. Tweet ID: 1919063762797019459
+2025-05-04 16:44:18,739 - INFO - Content: POV: You’re on your 100th competitive game - Still no Sombra in sight
+
+2025-05-04 16:44:18,739 - INFO - Image Paths: ['https://external-preview.redd.it/NGFhb3N4YjJnc3llMVqzk65R8mB3bKcVMBw-TQVBobFde9kEVzzeleI0pfEL.png?format=pjpg&auto=webp&s=2add410dcd62ccf3123e535ae271054838a57a86']
+2025-05-04 16:44:18,739 - INFO - Video Path: https://v.redd.it/ccdqeqe2gsye1/DASH_720.mp4?source=fallback
+2025-05-04 16:44:19,124 - INFO - Downloaded media from https://v.redd.it/ccdqeqe2gsye1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-05-04 16:44:19,235 - INFO - Downloaded media from https://v.redd.it/ccdqeqe2gsye1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-05-04 16:44:25,308 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-04 16:44:30,944 - INFO - Posted content successfully. Tweet ID: 1919070643968213420
