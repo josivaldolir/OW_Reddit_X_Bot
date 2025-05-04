@@ -2392,3 +2392,10 @@ Just gotta say, as a guy gamer that’s never had his nails done before, it’s 
 2025-05-04 20:15:24,662 - INFO - Video Path: 
 2025-05-04 20:15:24,805 - INFO - Downloaded media from https://preview.redd.it/gne34j46etye1.jpeg?auto=webp&s=6029cd809c2722d7ac7815c63d67855fb30ae565 to temp_image.jpg
 2025-05-04 20:15:27,158 - INFO - Posted content successfully. Tweet ID: 1919123725791756785
+2025-05-04 20:39:56,726 - INFO - Content: I got too silly
+
+2025-05-04 20:39:56,726 - INFO - Image Paths: ['https://preview.redd.it/evmz83dk9fxe1.jpeg?auto=webp&s=eb156cf06645c5c86cc251e49688a32755a57c9c']
+2025-05-04 20:39:56,726 - INFO - Video Path: 
+2025-05-04 20:39:56,986 - INFO - Downloaded media from https://preview.redd.it/evmz83dk9fxe1.jpeg?auto=webp&s=eb156cf06645c5c86cc251e49688a32755a57c9c to temp_image.jpg
+2025-05-04 20:39:57,724 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
