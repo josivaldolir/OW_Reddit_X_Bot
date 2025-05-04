@@ -2116,3 +2116,18 @@ I don't know what's happening! I tried this twice, and both times this happened,
 2025-05-04 06:21:14,826 - INFO - Video Path: 
 2025-05-04 06:21:15,017 - INFO - Downloaded media from https://preview.redd.it/a6v593htuoye1.png?auto=webp&s=8436304fd81417d032308d22782cbf9514bd342f to temp_image.jpg
 2025-05-04 06:21:16,354 - INFO - Posted content successfully. Tweet ID: 1918913797701636168
+2025-05-04 06:45:50,657 - INFO - Content: TourWatch: D.Va!
+D.VA is the ninth contestant comfirmed to compete in TourWatch! 
+Are you Team D.Va? 🐰🩷(12/27) 
+
+This is an animation I’m working on. Based on the reality show “Total Drama”, each episode will feature a contestant being eliminated! 
+Youtube Account Link: https://youtube.com/@tourwatch?si=mRrZZxa6L1u3Z2-K
+Revealed characters in the Publication section. Subscribe to help the project!
+2025-05-04 06:45:50,657 - INFO - Image Paths: ['https://preview.redd.it/w6mr814t6nye1.jpg?width=1300&format=pjpg&auto=webp&s=3f592787fb5298fe8d8ff8218b06c8986aa18f85', 'https://preview.redd.it/e4akp04t6nye1.jpg?width=2223&format=pjpg&auto=webp&s=637c8fb84b8ef52c2fa7fb81d93a67708d18b05e', 'https://preview.redd.it/8svgqh4t6nye1.jpg?width=3300&format=pjpg&auto=webp&s=777368f9632951085091e750d252386580b183e7', 'https://preview.redd.it/q69e0f4t6nye1.jpg?width=2573&format=pjpg&auto=webp&s=28b2bb67195dfa540f3495af22ddde50814fa6f3']
+2025-05-04 06:45:50,657 - INFO - Video Path: 
+2025-05-04 06:45:50,881 - INFO - Downloaded media from https://preview.redd.it/w6mr814t6nye1.jpg?width=1300&format=pjpg&auto=webp&s=3f592787fb5298fe8d8ff8218b06c8986aa18f85 to temp_image.jpg
+2025-05-04 06:45:51,484 - INFO - Downloaded media from https://preview.redd.it/e4akp04t6nye1.jpg?width=2223&format=pjpg&auto=webp&s=637c8fb84b8ef52c2fa7fb81d93a67708d18b05e to temp_image.jpg
+2025-05-04 06:45:52,033 - INFO - Downloaded media from https://preview.redd.it/8svgqh4t6nye1.jpg?width=3300&format=pjpg&auto=webp&s=777368f9632951085091e750d252386580b183e7 to temp_image.jpg
+2025-05-04 06:45:52,963 - INFO - Downloaded media from https://preview.redd.it/q69e0f4t6nye1.jpg?width=2573&format=pjpg&auto=webp&s=28b2bb67195dfa540f3495af22ddde50814fa6f3 to temp_image.jpg
+2025-05-04 06:45:53,822 - ERROR - Failed to post content: 403 Forbidden
+You are not permitted to perform this action.
