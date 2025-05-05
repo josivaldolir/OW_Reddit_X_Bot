@@ -2473,3 +2473,11 @@ Those are the takes I wanted to share after getting through pro. Proud of myself
 2025-05-05 03:41:47,308 - INFO - Video Path: 
 2025-05-05 03:41:47,386 - INFO - Downloaded media from https://preview.redd.it/l08ohsz69uye1.png?auto=webp&s=93c6bd979e21872290b4c3876113eb918df13ff5 to temp_image.jpg
 2025-05-05 03:41:48,797 - INFO - Posted content successfully. Tweet ID: 1919236056387572139
+2025-05-05 04:20:10,265 - INFO - Content: Season 16 be like
+
+2025-05-05 04:20:10,265 - INFO - Image Paths: ['https://external-preview.redd.it/MXZudXFjMzc2dXllMY5pnoNgbcQ33VKfeF2FnLnDUlGq2RkFBRgo9GhSahdm.png?format=pjpg&auto=webp&s=66333040d0c26d52529efbecb423c413308e4976']
+2025-05-05 04:20:10,265 - INFO - Video Path: https://v.redd.it/l3vw9m576uye1/DASH_720.mp4?source=fallback
+2025-05-05 04:20:10,393 - INFO - Downloaded media from https://v.redd.it/l3vw9m576uye1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-05-05 04:20:10,436 - INFO - Downloaded media from https://v.redd.it/l3vw9m576uye1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-05-05 04:20:13,492 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-05 04:20:16,652 - INFO - Posted content successfully. Tweet ID: 1919245738166395021
