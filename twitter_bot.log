@@ -2558,3 +2558,10 @@ Bro I would have kids by the time I find a game. this is crazy someone send medi
 2025-05-05 09:41:22,785 - INFO - Video Path: 
 2025-05-05 09:41:23,141 - INFO - Downloaded media from https://preview.redd.it/h4s1fu4i9xye1.jpeg?auto=webp&s=53de4f80da6bb2a4dd112f5beb18aaffeaef43ea to temp_image.jpg
 2025-05-05 09:41:24,144 - INFO - Posted content successfully. Tweet ID: 1919326551549837454
+2025-05-05 10:17:08,092 - INFO - Content: Who is the most annoying Stadium hero to you?
+For me it has to be Mei, basically Ball with freeze
+2025-05-05 10:17:08,092 - INFO - Image Paths: ['https://preview.redd.it/xokluw6rexye1.jpeg?auto=webp&s=0ae7c86ef773a5236cd547a742f13c3f65ce2827']
+2025-05-05 10:17:08,092 - INFO - Video Path: 
+2025-05-05 10:17:08,247 - INFO - Downloaded media from https://preview.redd.it/xokluw6rexye1.jpeg?auto=webp&s=0ae7c86ef773a5236cd547a742f13c3f65ce2827 to temp_image.jpg
+2025-05-05 10:17:09,219 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
