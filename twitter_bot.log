@@ -2616,3 +2616,10 @@ At the beginning of the round, I said "practicing genji, sorry in advance" and o
 2025-05-05 14:15:27,513 - INFO - Downloaded media from https://preview.redd.it/3uwn3p3y2yye1.jpeg?auto=webp&s=2477d94e97bde398de7384db774659355f773c06 to temp_image.jpg
 2025-05-05 14:15:28,899 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-05 14:44:29,178 - INFO - Content: Oh ver watch do doo do do do do.
+
+2025-05-05 14:44:29,178 - INFO - Image Paths: ['https://preview.redd.it/3uwn3p3y2yye1.jpeg?auto=webp&s=2477d94e97bde398de7384db774659355f773c06']
+2025-05-05 14:44:29,178 - INFO - Video Path: 
+2025-05-05 14:44:29,279 - INFO - Downloaded media from https://preview.redd.it/3uwn3p3y2yye1.jpeg?auto=webp&s=2477d94e97bde398de7384db774659355f773c06 to temp_image.jpg
+2025-05-05 14:44:30,234 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
