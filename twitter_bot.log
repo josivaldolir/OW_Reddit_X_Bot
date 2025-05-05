@@ -2730,3 +2730,10 @@ I just want to have fun. 😔💔
 2025-05-05 22:14:40,576 - INFO - Downloaded media from https://preview.redd.it/2u6arr3mh0ze1.jpeg?auto=webp&s=c0f1416de4adf0e864fd682419cecdc501ee783d to temp_image.jpg
 2025-05-05 22:14:41,360 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-05 22:41:27,473 - INFO - Content: Mercy's DPS build is just crazy
+
+2025-05-05 22:41:27,473 - INFO - Image Paths: ['https://preview.redd.it/2u6arr3mh0ze1.jpeg?auto=webp&s=c0f1416de4adf0e864fd682419cecdc501ee783d']
+2025-05-05 22:41:27,473 - INFO - Video Path: 
+2025-05-05 22:41:27,544 - INFO - Downloaded media from https://preview.redd.it/2u6arr3mh0ze1.jpeg?auto=webp&s=c0f1416de4adf0e864fd682419cecdc501ee783d to temp_image.jpg
+2025-05-05 22:41:28,377 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
