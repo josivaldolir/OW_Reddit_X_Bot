@@ -2544,3 +2544,11 @@ Too Many Requests
 2025-05-05 08:47:04,119 - INFO - Downloaded media from https://preview.redd.it/evmz83dk9fxe1.jpeg?auto=webp&s=eb156cf06645c5c86cc251e49688a32755a57c9c to temp_image.jpg
 2025-05-05 08:47:04,932 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-05 09:16:48,000 - INFO - Content: We should get a Cowboy Echo skin
+
+2025-05-05 09:16:48,000 - INFO - Image Paths: ['https://preview.redd.it/kzi4vr4wrvye1.jpg?width=1000&format=pjpg&auto=webp&s=635aab376fcb3ab0b52a060c85aa28b1bf6de873', 'https://preview.redd.it/8s72lr4wrvye1.jpg?width=1000&format=pjpg&auto=webp&s=8bad5d6ccd20a5d743f7fd2d422ee55d19268f04']
+2025-05-05 09:16:48,000 - INFO - Video Path: 
+2025-05-05 09:16:48,106 - INFO - Downloaded media from https://preview.redd.it/kzi4vr4wrvye1.jpg?width=1000&format=pjpg&auto=webp&s=635aab376fcb3ab0b52a060c85aa28b1bf6de873 to temp_image.jpg
+2025-05-05 09:16:48,632 - INFO - Downloaded media from https://preview.redd.it/8s72lr4wrvye1.jpg?width=1000&format=pjpg&auto=webp&s=8bad5d6ccd20a5d743f7fd2d422ee55d19268f04 to temp_image.jpg
+2025-05-05 09:16:49,295 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
