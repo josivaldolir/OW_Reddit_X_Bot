@@ -2690,3 +2690,9 @@ Can't believe this is actually gonna happen
 2025-05-05 19:37:08,849 - INFO - Downloaded media from https://preview.redd.it/gou0djd410ze1.gif?format=png8&s=f70ab21866040d9c3e835ae866d8eef5066bb335 to temp_image.jpg
 2025-05-05 19:37:09,554 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-05 20:17:09,361 - INFO - Content: Gotta lock in
+
+2025-05-05 20:17:09,361 - INFO - Image Paths: ['https://preview.redd.it/gou0djd410ze1.gif?format=png8&s=f70ab21866040d9c3e835ae866d8eef5066bb335']
+2025-05-05 20:17:09,361 - INFO - Video Path: 
+2025-05-05 20:17:09,576 - INFO - Downloaded media from https://preview.redd.it/gou0djd410ze1.gif?format=png8&s=f70ab21866040d9c3e835ae866d8eef5066bb335 to temp_image.jpg
+2025-05-05 20:17:10,414 - INFO - Posted content successfully. Tweet ID: 1919486548795654355
