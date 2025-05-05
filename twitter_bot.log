@@ -2651,3 +2651,10 @@ Stadium for me has been rather overwhelming in terms of how furiously competitiv
 2025-05-05 16:46:20,413 - INFO - Downloaded media from https://preview.redd.it/3udlwazbeyye1.jpeg?auto=webp&s=94d6b04e928ab114fa73c14e4cdc2ebe5f69a3d6 to temp_image.jpg
 2025-05-05 16:46:21,164 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-05 17:13:36,070 - INFO - Content: Pow right in the kisser
+
+2025-05-05 17:13:36,070 - INFO - Image Paths: ['https://preview.redd.it/3udlwazbeyye1.jpeg?auto=webp&s=94d6b04e928ab114fa73c14e4cdc2ebe5f69a3d6']
+2025-05-05 17:13:36,070 - INFO - Video Path: 
+2025-05-05 17:13:36,243 - INFO - Downloaded media from https://preview.redd.it/3udlwazbeyye1.jpeg?auto=webp&s=94d6b04e928ab114fa73c14e4cdc2ebe5f69a3d6 to temp_image.jpg
+2025-05-05 17:13:37,015 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
