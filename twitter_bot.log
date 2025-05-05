@@ -2507,3 +2507,9 @@ In before you say, yes I know the answer is both. But I am genuently curious whi
 2025-05-05 06:22:46,881 - INFO - Downloaded media from https://v.redd.it/1vkae9n2zuye1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-05-05 06:22:47,219 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-05 06:22:54,320 - INFO - Posted content successfully. Tweet ID: 1919276598479466938
+2025-05-05 06:48:59,521 - INFO - Content: Who are you backing to win?
+Personally I think Winton has got this, HOORAHHHH!!! 
+2025-05-05 06:48:59,521 - INFO - Image Paths: ['https://preview.redd.it/2bxqfo5kmwye1.jpeg?auto=webp&s=83fe206bf0d0a54b6b010de2b4e4730abcbc6812']
+2025-05-05 06:48:59,521 - INFO - Video Path: 
+2025-05-05 06:48:59,587 - INFO - Downloaded media from https://preview.redd.it/2bxqfo5kmwye1.jpeg?auto=webp&s=83fe206bf0d0a54b6b010de2b4e4730abcbc6812 to temp_image.jpg
+2025-05-05 06:49:00,465 - INFO - Posted content successfully. Tweet ID: 1919283166977683469
