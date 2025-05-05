@@ -2580,3 +2580,11 @@ At the beginning of the round, I said "practicing genji, sorry in advance" and o
 2025-05-05 11:13:19,593 - INFO - Downloaded media from https://preview.redd.it/6byjghtdrxye1.png?width=623&format=png&auto=webp&s=c34c00d7ada9683c37a010571947cfcc00880384 to temp_image.jpg
 2025-05-05 11:13:20,244 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-05 11:36:17,162 - INFO - Content: Who is Andrew?
+At the beginning of the round, I said "practicing genji, sorry in advance" and one of my teammates said "it's ok Andrew" then after that everyone was calling me Andrew. Is Andrew some sort of popular genji main or content creator? Or were they just messing with me?
+2025-05-05 11:36:17,162 - INFO - Image Paths: ['https://preview.redd.it/j2ennjontxye1.png?width=609&format=png&auto=webp&s=024e2c6940476653f7eaf008db2c3b84c9c37e17', 'https://preview.redd.it/6byjghtdrxye1.png?width=623&format=png&auto=webp&s=c34c00d7ada9683c37a010571947cfcc00880384']
+2025-05-05 11:36:17,162 - INFO - Video Path: 
+2025-05-05 11:36:17,202 - INFO - Downloaded media from https://preview.redd.it/j2ennjontxye1.png?width=609&format=png&auto=webp&s=024e2c6940476653f7eaf008db2c3b84c9c37e17 to temp_image.jpg
+2025-05-05 11:36:17,692 - INFO - Downloaded media from https://preview.redd.it/6byjghtdrxye1.png?width=623&format=png&auto=webp&s=c34c00d7ada9683c37a010571947cfcc00880384 to temp_image.jpg
+2025-05-05 11:36:18,251 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
