@@ -2513,3 +2513,11 @@ Personally I think Winton has got this, HOORAHHHH!!!
 2025-05-05 06:48:59,521 - INFO - Video Path: 
 2025-05-05 06:48:59,587 - INFO - Downloaded media from https://preview.redd.it/2bxqfo5kmwye1.jpeg?auto=webp&s=83fe206bf0d0a54b6b010de2b4e4730abcbc6812 to temp_image.jpg
 2025-05-05 06:49:00,465 - INFO - Posted content successfully. Tweet ID: 1919283166977683469
+2025-05-05 07:15:58,622 - INFO - Content: We should get a Cowboy Echo skin
+
+2025-05-05 07:15:58,622 - INFO - Image Paths: ['https://preview.redd.it/kzi4vr4wrvye1.jpg?width=1000&format=pjpg&auto=webp&s=635aab376fcb3ab0b52a060c85aa28b1bf6de873', 'https://preview.redd.it/8s72lr4wrvye1.jpg?width=1000&format=pjpg&auto=webp&s=8bad5d6ccd20a5d743f7fd2d422ee55d19268f04']
+2025-05-05 07:15:58,622 - INFO - Video Path: 
+2025-05-05 07:15:58,792 - INFO - Downloaded media from https://preview.redd.it/kzi4vr4wrvye1.jpg?width=1000&format=pjpg&auto=webp&s=635aab376fcb3ab0b52a060c85aa28b1bf6de873 to temp_image.jpg
+2025-05-05 07:15:59,447 - INFO - Downloaded media from https://preview.redd.it/8s72lr4wrvye1.jpg?width=1000&format=pjpg&auto=webp&s=8bad5d6ccd20a5d743f7fd2d422ee55d19268f04 to temp_image.jpg
+2025-05-05 07:16:00,072 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
