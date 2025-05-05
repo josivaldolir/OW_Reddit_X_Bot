@@ -2565,3 +2565,10 @@ For me it has to be Mei, basically Ball with freeze
 2025-05-05 10:17:08,247 - INFO - Downloaded media from https://preview.redd.it/xokluw6rexye1.jpeg?auto=webp&s=0ae7c86ef773a5236cd547a742f13c3f65ce2827 to temp_image.jpg
 2025-05-05 10:17:09,219 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-05 10:44:09,594 - INFO - Content: Who is the most annoying Stadium hero to you?
+For me it has to be Mei, basically Ball with freeze
+2025-05-05 10:44:09,594 - INFO - Image Paths: ['https://preview.redd.it/xokluw6rexye1.jpeg?auto=webp&s=0ae7c86ef773a5236cd547a742f13c3f65ce2827']
+2025-05-05 10:44:09,595 - INFO - Video Path: 
+2025-05-05 10:44:09,668 - INFO - Downloaded media from https://preview.redd.it/xokluw6rexye1.jpeg?auto=webp&s=0ae7c86ef773a5236cd547a742f13c3f65ce2827 to temp_image.jpg
+2025-05-05 10:44:10,347 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
