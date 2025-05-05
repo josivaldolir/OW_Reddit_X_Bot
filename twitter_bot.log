@@ -2705,3 +2705,10 @@ Too Many Requests
 2025-05-05 20:41:12,377 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-05 20:41:15,700 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-05 21:14:12,442 - INFO - Content: Mercy's DPS build is just crazy
+
+2025-05-05 21:14:12,442 - INFO - Image Paths: ['https://preview.redd.it/2u6arr3mh0ze1.jpeg?auto=webp&s=c0f1416de4adf0e864fd682419cecdc501ee783d']
+2025-05-05 21:14:12,442 - INFO - Video Path: 
+2025-05-05 21:14:12,476 - INFO - Downloaded media from https://preview.redd.it/2u6arr3mh0ze1.jpeg?auto=webp&s=c0f1416de4adf0e864fd682419cecdc501ee783d to temp_image.jpg
+2025-05-05 21:14:13,355 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
