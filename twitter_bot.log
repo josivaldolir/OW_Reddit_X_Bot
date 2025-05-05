@@ -2499,3 +2499,11 @@ In before you say, yes I know the answer is both. But I am genuently curious whi
 2025-05-05 05:42:05,466 - INFO - Video Path: 
 2025-05-05 05:42:05,630 - INFO - Downloaded media from https://preview.redd.it/xw7kpe67huye1.jpeg?auto=webp&s=e5fb0d22a1ff21fcec71b5ac51fa99149ddb4449 to temp_image.jpg
 2025-05-05 05:42:06,478 - INFO - Posted content successfully. Tweet ID: 1919266331360186625
+2025-05-05 06:22:46,369 - INFO - Content: I’ve been told this was the worst Doomfist play ever
+
+2025-05-05 06:22:46,370 - INFO - Image Paths: ['https://external-preview.redd.it/cmdhdWZ5azJ6dXllMd1_IDIpl8azLktbBmeaJomr-w4d_-hsVBS49rrLeVMN.png?format=pjpg&auto=webp&s=dc2ec7b421cd8a4eda6af43ad43879f45dc09d33']
+2025-05-05 06:22:46,370 - INFO - Video Path: https://v.redd.it/1vkae9n2zuye1/DASH_1080.mp4?source=fallback
+2025-05-05 06:22:46,747 - INFO - Downloaded media from https://v.redd.it/1vkae9n2zuye1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-05-05 06:22:46,881 - INFO - Downloaded media from https://v.redd.it/1vkae9n2zuye1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-05-05 06:22:47,219 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-05 06:22:54,320 - INFO - Posted content successfully. Tweet ID: 1919276598479466938
