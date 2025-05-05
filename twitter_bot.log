@@ -2630,3 +2630,9 @@ Too Many Requests
 2025-05-05 15:16:04,447 - INFO - Downloaded media from https://preview.redd.it/3uwn3p3y2yye1.jpeg?auto=webp&s=2477d94e97bde398de7384db774659355f773c06 to temp_image.jpg
 2025-05-05 15:16:05,270 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-05 15:40:26,525 - INFO - Content: Oh ver watch do doo do do do do.
+
+2025-05-05 15:40:26,525 - INFO - Image Paths: ['https://preview.redd.it/3uwn3p3y2yye1.jpeg?auto=webp&s=2477d94e97bde398de7384db774659355f773c06']
+2025-05-05 15:40:26,525 - INFO - Video Path: 
+2025-05-05 15:40:26,583 - INFO - Downloaded media from https://preview.redd.it/3uwn3p3y2yye1.jpeg?auto=webp&s=2477d94e97bde398de7384db774659355f773c06 to temp_image.jpg
+2025-05-05 15:40:27,452 - INFO - Posted content successfully. Tweet ID: 1919416910925713566
