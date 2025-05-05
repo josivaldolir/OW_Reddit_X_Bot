@@ -2658,3 +2658,9 @@ Too Many Requests
 2025-05-05 17:13:36,243 - INFO - Downloaded media from https://preview.redd.it/3udlwazbeyye1.jpeg?auto=webp&s=94d6b04e928ab114fa73c14e4cdc2ebe5f69a3d6 to temp_image.jpg
 2025-05-05 17:13:37,015 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-05 17:39:33,332 - INFO - Content: Pow right in the kisser
+
+2025-05-05 17:39:33,332 - INFO - Image Paths: ['https://preview.redd.it/3udlwazbeyye1.jpeg?auto=webp&s=94d6b04e928ab114fa73c14e4cdc2ebe5f69a3d6']
+2025-05-05 17:39:33,332 - INFO - Video Path: 
+2025-05-05 17:39:33,544 - INFO - Downloaded media from https://preview.redd.it/3udlwazbeyye1.jpeg?auto=webp&s=94d6b04e928ab114fa73c14e4cdc2ebe5f69a3d6 to temp_image.jpg
+2025-05-05 17:39:34,462 - INFO - Posted content successfully. Tweet ID: 1919446887582847312
