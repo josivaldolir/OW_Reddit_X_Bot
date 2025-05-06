@@ -2928,3 +2928,10 @@ Too Many Requests
 2025-05-06 12:33:14,431 - INFO - Downloaded media from https://v.redd.it/b8ur48kfn5ze1/DASH_480.mp4?source=fallback to temp_audio.mp4
 2025-05-06 12:33:16,878 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-06 12:33:21,394 - INFO - Posted content successfully. Tweet ID: 1919732213337489800
+2025-05-06 13:28:30,342 - INFO - Content: Which character has the most heartbreaking lore in your opinion?
+no right or wrong answer. just curious as overwatch lore isn’t touched on enough and i miss when it was ❤️‍🩹
+2025-05-06 13:28:30,342 - INFO - Image Paths: ['https://preview.redd.it/x9y16n5ii5ze1.jpeg?auto=webp&s=0ac631a034fecb207bcf432ca31f0dbed385c1dc']
+2025-05-06 13:28:30,342 - INFO - Video Path: 
+2025-05-06 13:28:30,380 - INFO - Downloaded media from https://preview.redd.it/x9y16n5ii5ze1.jpeg?auto=webp&s=0ac631a034fecb207bcf432ca31f0dbed385c1dc to temp_image.jpg
+2025-05-06 13:28:31,212 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
