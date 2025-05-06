@@ -2758,3 +2758,11 @@ Too Many Requests
 2025-05-06 01:12:18,519 - INFO - Downloaded media from https://preview.redd.it/2u6arr3mh0ze1.jpeg?auto=webp&s=c0f1416de4adf0e864fd682419cecdc501ee783d to temp_image.jpg
 2025-05-06 01:12:19,403 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-06 02:53:23,968 - INFO - Content: Got this off Amazon (Bootleg?)
+I got this from Amazon but I haven't been wanting to open it since it might be vintage 
+
+Idk what to dooo
+2025-05-06 02:53:23,968 - INFO - Image Paths: ['https://preview.redd.it/9qj9hy7yx1ze1.jpeg?auto=webp&s=c8c834771af174876636e1df59877fd4317651f0']
+2025-05-06 02:53:23,968 - INFO - Video Path: 
+2025-05-06 02:53:24,044 - INFO - Downloaded media from https://preview.redd.it/9qj9hy7yx1ze1.jpeg?auto=webp&s=c8c834771af174876636e1df59877fd4317651f0 to temp_image.jpg
+2025-05-06 02:53:25,578 - INFO - Posted content successfully. Tweet ID: 1919586268268397012
