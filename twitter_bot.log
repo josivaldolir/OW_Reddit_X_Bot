@@ -3027,3 +3027,10 @@ This happened in the new stadium mode currently pro 3. Thought ppl would be brig
 2025-05-06 20:40:30,716 - INFO - Downloaded media from https://v.redd.it/4huwuqti77ze1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-05-06 20:40:31,123 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-06 20:40:42,573 - INFO - Posted content successfully. Tweet ID: 1919854859660230767
+2025-05-06 21:14:24,451 - INFO - Content: Predictions for the most likely Street Fighter 6 Collab skins
+
+2025-05-06 21:14:24,452 - INFO - Image Paths: ['https://external-preview.redd.it/fHo4IvVehigm7Be3QKzmiPyI6Vs2CV3Ie432IxPYNOc.png?auto=webp&s=8220fc36029ed108213b5b5319e89c1159fd64fa']
+2025-05-06 21:14:24,452 - INFO - Video Path: 
+2025-05-06 21:14:24,515 - INFO - Downloaded media from https://external-preview.redd.it/fHo4IvVehigm7Be3QKzmiPyI6Vs2CV3Ie432IxPYNOc.png?auto=webp&s=8220fc36029ed108213b5b5319e89c1159fd64fa to temp_image.jpg
+2025-05-06 21:14:25,369 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
