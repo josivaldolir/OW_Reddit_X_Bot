@@ -2775,3 +2775,10 @@ Idk what to dooo
 2025-05-06 03:37:05,223 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-06 03:37:08,233 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-06 04:18:39,613 - INFO - Content: As someone who lives in Rio, this always irked me
+
+2025-05-06 04:18:39,613 - INFO - Image Paths: ['https://preview.redd.it/vhus6yuqy1ze1.jpg?width=852&format=pjpg&auto=webp&s=18f7fda116a966f71a5eb01204b3c3c3cf1b73f9', 'https://preview.redd.it/wm9nhdwqy1ze1.jpg?width=500&format=pjpg&auto=webp&s=df36d117999361a180d3ac6e5354b30f0aea27ba']
+2025-05-06 04:18:39,613 - INFO - Video Path: 
+2025-05-06 04:18:39,662 - INFO - Downloaded media from https://preview.redd.it/vhus6yuqy1ze1.jpg?width=852&format=pjpg&auto=webp&s=18f7fda116a966f71a5eb01204b3c3c3cf1b73f9 to temp_image.jpg
+2025-05-06 04:18:40,286 - INFO - Downloaded media from https://preview.redd.it/wm9nhdwqy1ze1.jpg?width=500&format=pjpg&auto=webp&s=df36d117999361a180d3ac6e5354b30f0aea27ba to temp_image.jpg
+2025-05-06 04:18:41,139 - INFO - Posted content successfully. Tweet ID: 1919607725065175542
