@@ -3034,3 +3034,10 @@ This happened in the new stadium mode currently pro 3. Thought ppl would be brig
 2025-05-06 21:14:24,515 - INFO - Downloaded media from https://external-preview.redd.it/fHo4IvVehigm7Be3QKzmiPyI6Vs2CV3Ie432IxPYNOc.png?auto=webp&s=8220fc36029ed108213b5b5319e89c1159fd64fa to temp_image.jpg
 2025-05-06 21:14:25,369 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-06 22:15:32,510 - INFO - Content: Predictions for the most likely Street Fighter 6 Collab skins
+
+2025-05-06 22:15:32,510 - INFO - Image Paths: ['https://external-preview.redd.it/fHo4IvVehigm7Be3QKzmiPyI6Vs2CV3Ie432IxPYNOc.png?auto=webp&s=8220fc36029ed108213b5b5319e89c1159fd64fa']
+2025-05-06 22:15:32,510 - INFO - Video Path: 
+2025-05-06 22:15:32,608 - INFO - Downloaded media from https://external-preview.redd.it/fHo4IvVehigm7Be3QKzmiPyI6Vs2CV3Ie432IxPYNOc.png?auto=webp&s=8220fc36029ed108213b5b5319e89c1159fd64fa to temp_image.jpg
+2025-05-06 22:15:33,695 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
