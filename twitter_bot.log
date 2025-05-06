@@ -2854,3 +2854,21 @@ I don't think that extra green perk would have made a difference, but boy did th
 2025-05-06 09:16:39,485 - INFO - Downloaded media from https://preview.redd.it/5xcieagej1ze1.png?auto=webp&s=ef45518b26ba44e6b196c9f7ab3bd199e687be7f to temp_image.jpg
 2025-05-06 09:16:40,227 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-06 09:41:28,786 - INFO - Content: I made Ana plushie!!
+I made an Ana plushie!
+From the face embroidery to the body sewing — I did everything myself.
+
+But… I can't find a suitable pen to draw Ana's Horus tattoo.
+And making clothes turned out to be much harder than I expected.
+
+So it's still incomplete, but I wanted to show it anyway! 😊
+
+Once it's fully finished, I'll share it again later!
+2025-05-06 09:41:28,786 - INFO - Image Paths: ['https://preview.redd.it/huhhf43ud4ze1.jpg?width=3024&format=pjpg&auto=webp&s=89237747fa2fd93123840c96447383a6fe53d517', 'https://preview.redd.it/y78sjcytd4ze1.jpg?width=3024&format=pjpg&auto=webp&s=8628c9af36bd746408efde69102737b98c5ffdf3', 'https://preview.redd.it/hw36x33ud4ze1.jpg?width=1033&format=pjpg&auto=webp&s=37a2fc3e7286b5dd452048c72db1e70ee1b88d8d', 'https://preview.redd.it/9olrfvztd4ze1.jpg?width=3024&format=pjpg&auto=webp&s=cedc6cc682cf3c845857d5558330cbccfc6c062d']
+2025-05-06 09:41:28,786 - INFO - Video Path: 
+2025-05-06 09:41:28,837 - INFO - Downloaded media from https://preview.redd.it/huhhf43ud4ze1.jpg?width=3024&format=pjpg&auto=webp&s=89237747fa2fd93123840c96447383a6fe53d517 to temp_image.jpg
+2025-05-06 09:41:30,150 - INFO - Downloaded media from https://preview.redd.it/y78sjcytd4ze1.jpg?width=3024&format=pjpg&auto=webp&s=8628c9af36bd746408efde69102737b98c5ffdf3 to temp_image.jpg
+2025-05-06 09:41:31,438 - INFO - Downloaded media from https://preview.redd.it/hw36x33ud4ze1.jpg?width=1033&format=pjpg&auto=webp&s=37a2fc3e7286b5dd452048c72db1e70ee1b88d8d to temp_image.jpg
+2025-05-06 09:41:32,070 - INFO - Downloaded media from https://preview.redd.it/9olrfvztd4ze1.jpg?width=3024&format=pjpg&auto=webp&s=cedc6cc682cf3c845857d5558330cbccfc6c062d to temp_image.jpg
+2025-05-06 09:41:33,499 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
