@@ -2796,3 +2796,11 @@ Too Many Requests
 2025-05-06 05:16:13,728 - INFO - Video Path: 
 2025-05-06 05:16:13,803 - INFO - Downloaded media from https://preview.redd.it/2u6arr3mh0ze1.jpeg?auto=webp&s=c0f1416de4adf0e864fd682419cecdc501ee783d to temp_image.jpg
 2025-05-06 05:16:14,835 - INFO - Posted content successfully. Tweet ID: 1919622210689630295
+2025-05-06 05:41:38,540 - INFO - Content: Mercy's mythic skin doesn't smile in the Gundam highlight intro
+Also for those wondering, the janky MMD looking smile is apparently only a thing with the overwatch 1 face model, the second image is the ow2 model and it looks pretty normal
+2025-05-06 05:41:38,540 - INFO - Image Paths: ['https://preview.redd.it/jrbt6awsv2ze1.png?width=744&format=png&auto=webp&s=472ff644886f5ac9d52f82bdaca06ce201a17d95', 'https://preview.redd.it/kbgqjcwsv2ze1.png?width=734&format=png&auto=webp&s=80ea885675d86aca99d7061014b856dbeb047fd7', 'https://preview.redd.it/vixa6dwsv2ze1.png?width=554&format=png&auto=webp&s=8e9b7b6eae075eb8aa275bdb7a7fc200cf787f2a']
+2025-05-06 05:41:38,540 - INFO - Video Path: 
+2025-05-06 05:41:38,758 - INFO - Downloaded media from https://preview.redd.it/jrbt6awsv2ze1.png?width=744&format=png&auto=webp&s=472ff644886f5ac9d52f82bdaca06ce201a17d95 to temp_image.jpg
+2025-05-06 05:41:39,409 - INFO - Downloaded media from https://preview.redd.it/kbgqjcwsv2ze1.png?width=734&format=png&auto=webp&s=80ea885675d86aca99d7061014b856dbeb047fd7 to temp_image.jpg
+2025-05-06 05:41:40,098 - INFO - Downloaded media from https://preview.redd.it/vixa6dwsv2ze1.png?width=554&format=png&auto=webp&s=8e9b7b6eae075eb8aa275bdb7a7fc200cf787f2a to temp_image.jpg
+2025-05-06 05:41:41,362 - INFO - Posted content successfully. Tweet ID: 1919628612552294801
