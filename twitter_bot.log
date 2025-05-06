@@ -2818,3 +2818,11 @@ Also for those wondering, the janky MMD looking smile is apparently only a thing
 2025-05-06 06:47:59,712 - INFO - Video Path: 
 2025-05-06 06:47:59,766 - INFO - Downloaded media from https://preview.redd.it/1j0q0u7ok0ze1.png?auto=webp&s=864f93ed2fd3ef0ac54f06cd84f92f6dcfeb8869 to temp_image.jpg
 2025-05-06 06:48:00,636 - INFO - Posted content successfully. Tweet ID: 1919645303923196107
+2025-05-06 07:16:04,599 - INFO - Content: It's only a couple short games but people don't wanna stick around if it's not going well.
+
+2025-05-06 07:16:04,599 - INFO - Image Paths: ['https://external-preview.redd.it/NDhmNjdrd2FnenllMe2DBJ-SHWhyseeNHSlbUI-bJm3cSZ7JvkOvn9ROkphc.png?format=pjpg&auto=webp&s=985a3bfa284e4e998447f3187c42d8ccdb1267fc']
+2025-05-06 07:16:04,599 - INFO - Video Path: https://v.redd.it/5jrdi3zagzye1/DASH_480.mp4?source=fallback
+2025-05-06 07:16:04,719 - INFO - Downloaded media from https://v.redd.it/5jrdi3zagzye1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-05-06 07:16:04,760 - INFO - Downloaded media from https://v.redd.it/5jrdi3zagzye1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-05-06 07:16:06,773 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-06 07:16:10,954 - INFO - Posted content successfully. Tweet ID: 1919652393970446563
