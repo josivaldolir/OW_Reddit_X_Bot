@@ -2914,3 +2914,9 @@ Once it's fully finished, I'll share it again later!
 2025-05-06 11:12:54,053 - INFO - Downloaded media from https://preview.redd.it/n0oko7kf75ze1.png?auto=webp&s=3d393dfa6f3c3d53be64de929c5f2496d26cacf1 to temp_image.jpg
 2025-05-06 11:12:54,870 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-06 11:36:17,258 - INFO - Content: Player.exe has stopped working
+
+2025-05-06 11:36:17,258 - INFO - Image Paths: ['https://preview.redd.it/n0oko7kf75ze1.png?auto=webp&s=3d393dfa6f3c3d53be64de929c5f2496d26cacf1']
+2025-05-06 11:36:17,258 - INFO - Video Path: 
+2025-05-06 11:36:17,337 - INFO - Downloaded media from https://preview.redd.it/n0oko7kf75ze1.png?auto=webp&s=3d393dfa6f3c3d53be64de929c5f2496d26cacf1 to temp_image.jpg
+2025-05-06 11:36:18,735 - INFO - Posted content successfully. Tweet ID: 1919717856738213942
