@@ -3049,3 +3049,10 @@ Too Many Requests
 2025-05-06 22:41:07,517 - INFO - Downloaded media from https://v.redd.it/bq4uu1nsj8ze1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-05-06 22:41:07,794 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-06 22:41:13,136 - INFO - Posted content successfully. Tweet ID: 1919885186889892070
+2025-05-06 23:14:07,985 - INFO - Content: Predictions for the most likely Street Fighter 6 Collab skins
+
+2025-05-06 23:14:07,985 - INFO - Image Paths: ['https://external-preview.redd.it/fHo4IvVehigm7Be3QKzmiPyI6Vs2CV3Ie432IxPYNOc.png?auto=webp&s=8220fc36029ed108213b5b5319e89c1159fd64fa']
+2025-05-06 23:14:07,985 - INFO - Video Path: 
+2025-05-06 23:14:08,170 - INFO - Downloaded media from https://external-preview.redd.it/fHo4IvVehigm7Be3QKzmiPyI6Vs2CV3Ie432IxPYNOc.png?auto=webp&s=8220fc36029ed108213b5b5319e89c1159fd64fa to temp_image.jpg
+2025-05-06 23:14:09,520 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
