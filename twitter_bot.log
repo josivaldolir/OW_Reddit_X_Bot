@@ -2964,3 +2964,9 @@ Too Many Requests
 2025-05-06 15:44:40,319 - INFO - Downloaded media from https://v.redd.it/1jfiuh6mc5ze1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-05-06 15:44:40,776 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-06 15:44:49,410 - INFO - Posted content successfully. Tweet ID: 1919780397597995326
+2025-05-06 16:17:50,456 - INFO - Content: Goofiest Ashe picture?
+Best one becomes my pfp
+2025-05-06 16:17:50,456 - INFO - Image Paths: ['https://preview.redd.it/63rq3k1xh6ze1.jpeg?auto=webp&s=ad45e22147c8e1ac248bd09750488c656a8c3e4c']
+2025-05-06 16:17:50,456 - INFO - Video Path: 
+2025-05-06 16:17:50,589 - INFO - Downloaded media from https://preview.redd.it/63rq3k1xh6ze1.jpeg?auto=webp&s=ad45e22147c8e1ac248bd09750488c656a8c3e4c to temp_image.jpg
+2025-05-06 16:17:51,601 - INFO - Posted content successfully. Tweet ID: 1919788711425757228
