@@ -2782,3 +2782,11 @@ Too Many Requests
 2025-05-06 04:18:39,662 - INFO - Downloaded media from https://preview.redd.it/vhus6yuqy1ze1.jpg?width=852&format=pjpg&auto=webp&s=18f7fda116a966f71a5eb01204b3c3c3cf1b73f9 to temp_image.jpg
 2025-05-06 04:18:40,286 - INFO - Downloaded media from https://preview.redd.it/wm9nhdwqy1ze1.jpg?width=500&format=pjpg&auto=webp&s=df36d117999361a180d3ac6e5354b30f0aea27ba to temp_image.jpg
 2025-05-06 04:18:41,139 - INFO - Posted content successfully. Tweet ID: 1919607725065175542
+2025-05-06 04:44:19,782 - INFO - Content: It's rare but sometimes this game does have It's moments.
+
+2025-05-06 04:44:19,783 - INFO - Image Paths: ['https://external-preview.redd.it/c29kNXAzb2xrMHplMe_wygpCG8wCH0xXfR0wgYwRseI2k5dJj60boBluOaFB.png?format=pjpg&auto=webp&s=92d8af323f37898d4f97648aae630fb452ce1dee']
+2025-05-06 04:44:19,783 - INFO - Video Path: https://v.redd.it/8oon1nvlk0ze1/DASH_480.mp4?source=fallback
+2025-05-06 04:44:19,981 - INFO - Downloaded media from https://v.redd.it/8oon1nvlk0ze1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-05-06 04:44:20,029 - INFO - Downloaded media from https://v.redd.it/8oon1nvlk0ze1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-05-06 04:44:20,394 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-06 04:44:23,918 - INFO - Posted content successfully. Tweet ID: 1919614196125188530
