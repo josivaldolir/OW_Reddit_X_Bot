@@ -2956,3 +2956,11 @@ no right or wrong answer. just curious as overwatch lore isn’t touched on enou
 2025-05-06 14:43:58,143 - INFO - Downloaded media from https://preview.redd.it/x9y16n5ii5ze1.jpeg?auto=webp&s=0ac631a034fecb207bcf432ca31f0dbed385c1dc to temp_image.jpg
 2025-05-06 14:43:59,067 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-06 15:44:40,039 - INFO - Content: Tank mains... why do some of you do this
+
+2025-05-06 15:44:40,039 - INFO - Image Paths: ['https://external-preview.redd.it/dnQ2NDk3eGZlNXplMSo_WshYBjbixGA46wdhR76kzz9tG8Gw1ce_GKHah2Lm.png?format=pjpg&auto=webp&s=0b7c5bbc8d7b77fcfafe7ea633236e0112e1c6b0']
+2025-05-06 15:44:40,039 - INFO - Video Path: https://v.redd.it/1jfiuh6mc5ze1/DASH_1080.mp4?source=fallback
+2025-05-06 15:44:40,221 - INFO - Downloaded media from https://v.redd.it/1jfiuh6mc5ze1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-05-06 15:44:40,319 - INFO - Downloaded media from https://v.redd.it/1jfiuh6mc5ze1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-05-06 15:44:40,776 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-06 15:44:49,410 - INFO - Posted content successfully. Tweet ID: 1919780397597995326
