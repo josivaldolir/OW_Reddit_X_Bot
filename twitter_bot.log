@@ -3308,3 +3308,13 @@ Too Many Requests
 2025-05-07 20:17:59,908 - INFO - Downloaded media from https://preview.redd.it/jtfr6qztreze1.png?auto=webp&s=833e24da79a3376f3d31d6ba320d0ccc3808ccee to temp_image.jpg
 2025-05-07 20:18:00,893 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-07 20:41:19,348 - INFO - Content: I made some fan art of Mercy from an alternate dimension
+Hey! Just thought I’d share some fan art I just finished. It’s based off of an alternate concept of Mercy that Blizzard ultimately decided not to go with!
+
+Here’s a link to the full post on ArtStation: 
+
+https://www.artstation.com/artwork/wrKzgZ
+2025-05-07 20:41:19,348 - INFO - Image Paths: ['https://external-preview.redd.it/V-y9-IQMpSk6z93csPqKBaEWaxVPQU10C_1ZHMUJzdM.jpeg?auto=webp&s=b1952a6adca89531a0688041303ebdf02384998e']
+2025-05-07 20:41:19,348 - INFO - Video Path: 
+2025-05-07 20:41:19,414 - INFO - Downloaded media from https://external-preview.redd.it/V-y9-IQMpSk6z93csPqKBaEWaxVPQU10C_1ZHMUJzdM.jpeg?auto=webp&s=b1952a6adca89531a0688041303ebdf02384998e to temp_image.jpg
+2025-05-07 20:41:20,563 - INFO - Posted content successfully. Tweet ID: 1920217406607405372
