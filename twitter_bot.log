@@ -3294,3 +3294,10 @@ Dva’s not a weak tank in stadium and this is coming from a Dva main. In my sta
 2025-05-07 19:13:11,795 - INFO - Video Path: 
 2025-05-07 19:13:12,005 - INFO - Downloaded media from https://preview.redd.it/h0bsmj2e4dze1.jpeg?auto=webp&s=77e20aa7d69cc0043964aa3d20d53c6a475d904b to temp_image.jpg
 2025-05-07 19:13:12,994 - INFO - Posted content successfully. Tweet ID: 1920195228994347383
+2025-05-07 19:35:56,099 - INFO - Content: Made a rough concept of a pirate skin for ball.
+
+2025-05-07 19:35:56,099 - INFO - Image Paths: ['https://preview.redd.it/to06z7wp7eze1.jpeg?auto=webp&s=36291956c4bdccfe344eefbd0b9670d2a6dd7241']
+2025-05-07 19:35:56,099 - INFO - Video Path: 
+2025-05-07 19:35:56,249 - INFO - Downloaded media from https://preview.redd.it/to06z7wp7eze1.jpeg?auto=webp&s=36291956c4bdccfe344eefbd0b9670d2a6dd7241 to temp_image.jpg
+2025-05-07 19:35:56,943 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
