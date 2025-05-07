@@ -3301,3 +3301,10 @@ Dva’s not a weak tank in stadium and this is coming from a Dva main. In my sta
 2025-05-07 19:35:56,249 - INFO - Downloaded media from https://preview.redd.it/to06z7wp7eze1.jpeg?auto=webp&s=36291956c4bdccfe344eefbd0b9670d2a6dd7241 to temp_image.jpg
 2025-05-07 19:35:56,943 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-07 20:17:59,807 - INFO - Content: guess who got banned
+
+2025-05-07 20:17:59,807 - INFO - Image Paths: ['https://preview.redd.it/jtfr6qztreze1.png?auto=webp&s=833e24da79a3376f3d31d6ba320d0ccc3808ccee']
+2025-05-07 20:17:59,807 - INFO - Video Path: 
+2025-05-07 20:17:59,908 - INFO - Downloaded media from https://preview.redd.it/jtfr6qztreze1.png?auto=webp&s=833e24da79a3376f3d31d6ba320d0ccc3808ccee to temp_image.jpg
+2025-05-07 20:18:00,893 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
