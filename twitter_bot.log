@@ -3172,3 +3172,10 @@ Okay, Okay i heard all of you. I didn't expect to get nearly so much attention o
 2025-05-07 09:41:45,108 - INFO - Video Path: 
 2025-05-07 09:41:45,502 - INFO - Downloaded media from https://preview.redd.it/05qm0hchlbze1.jpeg?auto=webp&s=84918cd3d6593ec2770fc13d0e5af9d843dfbb6d to temp_image.jpg
 2025-05-07 09:41:47,610 - INFO - Posted content successfully. Tweet ID: 1920051424311808504
+2025-05-07 10:44:38,980 - INFO - Content: Forget about 100 men v.s. a gorilla. Is this team good enough to defeat Hanzo with a sword?
+
+2025-05-07 10:44:38,980 - INFO - Image Paths: ['https://preview.redd.it/8y3nj1yk7cze1.jpeg?auto=webp&s=e47516e7f06c5f2de24c37fb8412d6d8db61cc3c']
+2025-05-07 10:44:38,980 - INFO - Video Path: 
+2025-05-07 10:44:39,294 - INFO - Downloaded media from https://preview.redd.it/8y3nj1yk7cze1.jpeg?auto=webp&s=e47516e7f06c5f2de24c37fb8412d6d8db61cc3c to temp_image.jpg
+2025-05-07 10:44:40,454 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
