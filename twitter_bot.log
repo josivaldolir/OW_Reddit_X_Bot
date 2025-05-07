@@ -3193,3 +3193,9 @@ Too Many Requests
 2025-05-07 11:39:27,317 - INFO - Downloaded media from https://preview.redd.it/8y3nj1yk7cze1.jpeg?auto=webp&s=e47516e7f06c5f2de24c37fb8412d6d8db61cc3c to temp_image.jpg
 2025-05-07 11:39:28,320 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-07 12:32:24,272 - INFO - Content: Forget about 100 men v.s. a gorilla. Is this team good enough to defeat Hanzo with a sword?
+
+2025-05-07 12:32:24,272 - INFO - Image Paths: ['https://preview.redd.it/8y3nj1yk7cze1.jpeg?auto=webp&s=e47516e7f06c5f2de24c37fb8412d6d8db61cc3c']
+2025-05-07 12:32:24,272 - INFO - Video Path: 
+2025-05-07 12:32:24,344 - INFO - Downloaded media from https://preview.redd.it/8y3nj1yk7cze1.jpeg?auto=webp&s=e47516e7f06c5f2de24c37fb8412d6d8db61cc3c to temp_image.jpg
+2025-05-07 12:32:25,778 - INFO - Posted content successfully. Tweet ID: 1920094367391625691
