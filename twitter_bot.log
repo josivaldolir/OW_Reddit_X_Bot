@@ -3069,3 +3069,9 @@ A friend and I were talking and he wanted to see a distribution of where everyon
 2025-05-07 01:12:49,891 - INFO - Downloaded media from https://preview.redd.it/q1cwq5dqt8ze1.jpeg?auto=webp&s=70d5a369a71354be82ce6df9e930305ea9f9d6be to temp_image.jpg
 2025-05-07 01:12:51,072 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-07 02:54:39,965 - INFO - Content: Hero Home Locations Map
+A friend and I were talking and he wanted to see a distribution of where everyone was from. So i decided to whip this together really quickly and i thought it was kinda neat to look at :) i referenced the wiki for the people i wasnt sure about but like for bastion we dont technically know where he was made so german couldve worked too, however torbjorn upgrading him in sweden led me to put him there. Cheers ❤️
+2025-05-07 02:54:39,965 - INFO - Image Paths: ['https://preview.redd.it/q1cwq5dqt8ze1.jpeg?auto=webp&s=70d5a369a71354be82ce6df9e930305ea9f9d6be']
+2025-05-07 02:54:39,965 - INFO - Video Path: 
+2025-05-07 02:54:40,056 - INFO - Downloaded media from https://preview.redd.it/q1cwq5dqt8ze1.jpeg?auto=webp&s=70d5a369a71354be82ce6df9e930305ea9f9d6be to temp_image.jpg
+2025-05-07 02:54:41,532 - INFO - Posted content successfully. Tweet ID: 1919948974687191416
