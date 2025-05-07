@@ -3345,3 +3345,10 @@ Too Many Requests
 2025-05-07 22:41:49,937 - INFO - Downloaded media from https://preview.redd.it/to06z7wp7eze1.jpeg?auto=webp&s=36291956c4bdccfe344eefbd0b9670d2a6dd7241 to temp_image.jpg
 2025-05-07 22:41:50,561 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-07 23:14:25,503 - INFO - Content: Why didn't this game end early? I've had much closer games end after 3 rounds
+I love stadium 🏟  I just really want some of the things to work better 
+2025-05-07 23:14:25,503 - INFO - Image Paths: ['https://preview.redd.it/no5kq6jwueze1.jpeg?auto=webp&s=d04bd076b8f803301fb93c4b5aebe2e7c0d80c7f']
+2025-05-07 23:14:25,503 - INFO - Video Path: 
+2025-05-07 23:14:25,589 - INFO - Downloaded media from https://preview.redd.it/no5kq6jwueze1.jpeg?auto=webp&s=d04bd076b8f803301fb93c4b5aebe2e7c0d80c7f to temp_image.jpg
+2025-05-07 23:14:26,722 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
