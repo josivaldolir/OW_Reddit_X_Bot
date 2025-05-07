@@ -3101,3 +3101,10 @@ TL;DR: there’s a ton of potential for an SF6 collab so i hope they do it justi
 2025-05-07 04:18:28,475 - INFO - Downloaded media from https://preview.redd.it/jnnim0boi9ze1.jpeg?auto=webp&s=43021329a63d23c99d6be2e5870aadd0751dc33b to temp_image.jpg
 2025-05-07 04:18:29,334 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-07 04:43:38,368 - INFO - Content: Another based on the Interactions
+
+2025-05-07 04:43:38,368 - INFO - Image Paths: ['https://preview.redd.it/e7zwpqjdx9ze1.png?auto=webp&s=2927ba8175dba665955afabe49ec70ea5816821c']
+2025-05-07 04:43:38,368 - INFO - Video Path: 
+2025-05-07 04:43:38,508 - INFO - Downloaded media from https://preview.redd.it/e7zwpqjdx9ze1.png?auto=webp&s=2927ba8175dba665955afabe49ec70ea5816821c to temp_image.jpg
+2025-05-07 04:43:39,222 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
