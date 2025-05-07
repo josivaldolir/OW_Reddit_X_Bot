@@ -3206,3 +3206,10 @@ Too Many Requests
 2025-05-07 13:29:22,056 - INFO - Downloaded media from https://preview.redd.it/ks8keydovcze1.jpeg?auto=webp&s=f9df7d065ae2f7fb428b81e73cb429dac067b192 to temp_image.jpg
 2025-05-07 13:29:22,882 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-07 13:50:46,690 - INFO - Content: Finally, Soldier 76 2
+
+2025-05-07 13:50:46,690 - INFO - Image Paths: ['https://preview.redd.it/ks8keydovcze1.jpeg?auto=webp&s=f9df7d065ae2f7fb428b81e73cb429dac067b192']
+2025-05-07 13:50:46,690 - INFO - Video Path: 
+2025-05-07 13:50:46,761 - INFO - Downloaded media from https://preview.redd.it/ks8keydovcze1.jpeg?auto=webp&s=f9df7d065ae2f7fb428b81e73cb429dac067b192 to temp_image.jpg
+2025-05-07 13:50:47,529 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
