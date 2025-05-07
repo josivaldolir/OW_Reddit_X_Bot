@@ -3338,3 +3338,10 @@ Too Many Requests
 2025-05-07 22:14:52,837 - INFO - Downloaded media from https://preview.redd.it/to06z7wp7eze1.jpeg?auto=webp&s=36291956c4bdccfe344eefbd0b9670d2a6dd7241 to temp_image.jpg
 2025-05-07 22:14:53,684 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-07 22:41:49,774 - INFO - Content: Made a rough concept of a pirate skin for ball.
+
+2025-05-07 22:41:49,774 - INFO - Image Paths: ['https://preview.redd.it/to06z7wp7eze1.jpeg?auto=webp&s=36291956c4bdccfe344eefbd0b9670d2a6dd7241']
+2025-05-07 22:41:49,774 - INFO - Video Path: 
+2025-05-07 22:41:49,937 - INFO - Downloaded media from https://preview.redd.it/to06z7wp7eze1.jpeg?auto=webp&s=36291956c4bdccfe344eefbd0b9670d2a6dd7241 to temp_image.jpg
+2025-05-07 22:41:50,561 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
