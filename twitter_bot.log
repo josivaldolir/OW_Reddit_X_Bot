@@ -3241,3 +3241,13 @@ Too Many Requests
 2025-05-07 15:43:02,945 - INFO - Downloaded media from https://preview.redd.it/ks8keydovcze1.jpeg?auto=webp&s=f9df7d065ae2f7fb428b81e73cb429dac067b192 to temp_image.jpg
 2025-05-07 15:43:03,744 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-07 16:19:47,130 - INFO - Content: Small 3rd-Person Reaper Complaint
+So in 1st person, Reaper can swing the camera around mid-teleport, which is part of my muscle memory for playing him. However, in 3rd person this doesn't happen. 
+
+I hope this get's changed because I like looking at my boy's lovely hat, but I will mess myself up so badly with trying to change camera direction mid-teleport.
+2025-05-07 16:19:47,130 - INFO - Image Paths: ['https://external-preview.redd.it/eXYwbHZkdHc3Y3plMQpQIvHTEZHar8afcM9xFaM15FTaAfkWueV8gjkx-j4c.png?format=pjpg&auto=webp&s=e98be7dd3d96b27fb27be77547bd7980bcea84c6']
+2025-05-07 16:19:47,130 - INFO - Video Path: https://v.redd.it/b24tldtw7cze1/DASH_1080.mp4?source=fallback
+2025-05-07 16:19:47,365 - INFO - Downloaded media from https://v.redd.it/b24tldtw7cze1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-05-07 16:19:47,524 - INFO - Downloaded media from https://v.redd.it/b24tldtw7cze1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-05-07 16:19:48,100 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-07 16:19:56,020 - INFO - Posted content successfully. Tweet ID: 1920151621105037322
