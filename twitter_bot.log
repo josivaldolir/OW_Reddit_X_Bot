@@ -3614,3 +3614,10 @@ Who do you think get it?
 2025-05-08 20:41:07,579 - INFO - Downloaded media from https://external-preview.redd.it/B9pyoF76Hnt7lvxGdgBx5iOz9o_4n6ApIGXhrxo9UBQ.jpeg?auto=webp&s=ee670e8c886c3850ae57857cff934e05215d4e30 to temp_image.jpg
 2025-05-08 20:41:08,623 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-08 21:14:29,450 - INFO - Content: Blizzard has the chance to give us peak fiction in Stadium
+Pls Aaron, give me the chance to experience true Power.
+2025-05-08 21:14:29,450 - INFO - Image Paths: ['https://preview.redd.it/g4426iqe7mze1.png?auto=webp&s=a830b2af7bafe6de0baf3b2ed28fedcea16cf36b']
+2025-05-08 21:14:29,450 - INFO - Video Path: 
+2025-05-08 21:14:29,666 - INFO - Downloaded media from https://preview.redd.it/g4426iqe7mze1.png?auto=webp&s=a830b2af7bafe6de0baf3b2ed28fedcea16cf36b to temp_image.jpg
+2025-05-08 21:14:30,461 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
