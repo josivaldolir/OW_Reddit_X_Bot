@@ -3576,3 +3576,12 @@ Too Many Requests
 2025-05-08 18:48:11,209 - INFO - Video Path: 
 2025-05-08 18:48:11,399 - INFO - Downloaded media from https://preview.redd.it/fgnij9zdclze1.jpeg?auto=webp&s=81360165dacf5640355d4a651cda637500281797 to temp_image.jpg
 2025-05-08 18:48:12,741 - INFO - Posted content successfully. Tweet ID: 1920551323998826720
+2025-05-08 19:12:34,078 - INFO - Content: Very serious topic
+Is there anyway I can keep the Gm one without the ugly top 500 border overriding it. I know it’s picky but I like this one more than the yellow. I just think there should be a option to toggle off the top 500 one like there is with the drives border 
+
+Literally unplayable 
+2025-05-08 19:12:34,078 - INFO - Image Paths: ['https://preview.redd.it/8dfdpdn42kze1.jpeg?auto=webp&s=0d824f9a79e64ab5323c7aa7e2c444cb4d6acee9']
+2025-05-08 19:12:34,078 - INFO - Video Path: 
+2025-05-08 19:12:34,219 - INFO - Downloaded media from https://preview.redd.it/8dfdpdn42kze1.jpeg?auto=webp&s=0d824f9a79e64ab5323c7aa7e2c444cb4d6acee9 to temp_image.jpg
+2025-05-08 19:12:35,041 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
