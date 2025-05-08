@@ -3510,3 +3510,10 @@ Too Many Requests
 2025-05-08 13:43:21,617 - INFO - Downloaded media from https://external-preview.redd.it/4xCIJR6h4M3PGM8T3uluP6FefFKN_M2HudyB24ZcNy0.png?auto=webp&s=92488e4cde104285665c21cab255b5f5e5a21c88 to temp_image.jpg
 2025-05-08 13:43:22,635 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-08 14:13:49,215 - INFO - Content: Nobody is born cool. Except of course...
+
+2025-05-08 14:13:49,215 - INFO - Image Paths: ['https://preview.redd.it/1e51rc0htjze1.png?auto=webp&s=feb3ba9612c182f742295b8d568e22337085eb96']
+2025-05-08 14:13:49,215 - INFO - Video Path: 
+2025-05-08 14:13:49,393 - INFO - Downloaded media from https://preview.redd.it/1e51rc0htjze1.png?auto=webp&s=feb3ba9612c182f742295b8d568e22337085eb96 to temp_image.jpg
+2025-05-08 14:13:50,179 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
