@@ -3503,3 +3503,10 @@ Too Many Requests
 2025-05-08 13:07:57,472 - INFO - Downloaded media from https://external-preview.redd.it/4xCIJR6h4M3PGM8T3uluP6FefFKN_M2HudyB24ZcNy0.png?auto=webp&s=92488e4cde104285665c21cab255b5f5e5a21c88 to temp_image.jpg
 2025-05-08 13:07:58,244 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-08 13:43:21,591 - INFO - Content: Made some OW characters in Dress To Impress
+
+2025-05-08 13:43:21,591 - INFO - Image Paths: ['https://external-preview.redd.it/4xCIJR6h4M3PGM8T3uluP6FefFKN_M2HudyB24ZcNy0.png?auto=webp&s=92488e4cde104285665c21cab255b5f5e5a21c88']
+2025-05-08 13:43:21,591 - INFO - Video Path: 
+2025-05-08 13:43:21,617 - INFO - Downloaded media from https://external-preview.redd.it/4xCIJR6h4M3PGM8T3uluP6FefFKN_M2HudyB24ZcNy0.png?auto=webp&s=92488e4cde104285665c21cab255b5f5e5a21c88 to temp_image.jpg
+2025-05-08 13:43:22,635 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
