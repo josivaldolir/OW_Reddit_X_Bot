@@ -3374,3 +3374,9 @@ Too Many Requests
 2025-05-08 02:55:19,810 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-08 02:55:24,600 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-08 03:39:41,566 - INFO - Content: Winston
+
+2025-05-08 03:39:41,566 - INFO - Image Paths: ['https://preview.redd.it/z0uomb6swgze1.png?auto=webp&s=f4a04a1f8639233ef3a57d9a0bf347847ce6c19e']
+2025-05-08 03:39:41,566 - INFO - Video Path: 
+2025-05-08 03:39:41,637 - INFO - Downloaded media from https://preview.redd.it/z0uomb6swgze1.png?auto=webp&s=f4a04a1f8639233ef3a57d9a0bf347847ce6c19e to temp_image.jpg
+2025-05-08 03:39:42,901 - INFO - Posted content successfully. Tweet ID: 1920322693423059237
