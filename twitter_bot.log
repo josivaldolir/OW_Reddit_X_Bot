@@ -3469,3 +3469,10 @@ Now I grinded for comp points all night and I had to go to sleep because I was s
 2025-05-08 10:17:13,760 - INFO - Video Path: 
 2025-05-08 10:17:14,255 - INFO - Downloaded media from https://preview.redd.it/zu468g68mize1.jpeg?auto=webp&s=bf0636bd7bc789ac88566d531ee60f55c320d4f8 to temp_image.jpg
 2025-05-08 10:17:16,590 - INFO - Posted content successfully. Tweet ID: 1920422742014513620
+2025-05-08 10:44:12,688 - INFO - Content: It's a Death
+
+2025-05-08 10:44:12,688 - INFO - Image Paths: ['https://preview.redd.it/rn560lig9jze1.jpeg?auto=webp&s=6a87aa43dbf806f1fd4ec38d5bb6848ddd80465b']
+2025-05-08 10:44:12,688 - INFO - Video Path: 
+2025-05-08 10:44:12,776 - INFO - Downloaded media from https://preview.redd.it/rn560lig9jze1.jpeg?auto=webp&s=6a87aa43dbf806f1fd4ec38d5bb6848ddd80465b to temp_image.jpg
+2025-05-08 10:44:13,869 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
