@@ -3659,3 +3659,12 @@ Pls Aaron, give me the chance to experience true Power.
 2025-05-08 23:15:05,442 - INFO - Video Path: 
 2025-05-08 23:15:05,629 - INFO - Downloaded media from https://preview.redd.it/g4426iqe7mze1.png?auto=webp&s=a830b2af7bafe6de0baf3b2ed28fedcea16cf36b to temp_image.jpg
 2025-05-08 23:15:07,309 - INFO - Posted content successfully. Tweet ID: 1920618492732248477
+2025-05-08 23:38:11,012 - INFO - Content: *Stares Omnically*
+
+2025-05-08 23:38:11,012 - INFO - Image Paths: ['https://external-preview.redd.it/aHp0cWoyNWE4bXplMeKiH6lclER6jYPd1BzMEYIm816DJrfMD3LFy8mW30Cd.png?format=pjpg&auto=webp&s=d8791abccd4acd99ee212a8f56b70606bc8747d2']
+2025-05-08 23:38:11,012 - INFO - Video Path: https://v.redd.it/a9sjs35a8mze1/DASH_1080.mp4?source=fallback
+2025-05-08 23:38:11,456 - INFO - Downloaded media from https://v.redd.it/a9sjs35a8mze1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-05-08 23:38:11,541 - INFO - Downloaded media from https://v.redd.it/a9sjs35a8mze1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-05-08 23:38:12,083 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-08 23:38:16,648 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
