@@ -3476,3 +3476,10 @@ Now I grinded for comp points all night and I had to go to sleep because I was s
 2025-05-08 10:44:12,776 - INFO - Downloaded media from https://preview.redd.it/rn560lig9jze1.jpeg?auto=webp&s=6a87aa43dbf806f1fd4ec38d5bb6848ddd80465b to temp_image.jpg
 2025-05-08 10:44:13,869 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-08 11:13:13,527 - INFO - Content: Amelié Lacroix Blender by Me
+
+2025-05-08 11:13:13,527 - INFO - Image Paths: ['https://external-preview.redd.it/unK3vyG6Tz9VYtL_pzxBYWUQeCOO6eZaFeBJ-t6IbDs.jpeg?auto=webp&s=e4b6bb741faa858c93328179d9af304e3bf3a993']
+2025-05-08 11:13:13,527 - INFO - Video Path: 
+2025-05-08 11:13:13,589 - INFO - Downloaded media from https://external-preview.redd.it/unK3vyG6Tz9VYtL_pzxBYWUQeCOO6eZaFeBJ-t6IbDs.jpeg?auto=webp&s=e4b6bb741faa858c93328179d9af304e3bf3a993 to temp_image.jpg
+2025-05-08 11:13:14,650 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
