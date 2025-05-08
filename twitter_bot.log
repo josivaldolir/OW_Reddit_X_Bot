@@ -3365,3 +3365,12 @@ Too Many Requests
 2025-05-08 01:13:28,592 - INFO - Video Path: 
 2025-05-08 01:13:28,833 - INFO - Downloaded media from https://preview.redd.it/to06z7wp7eze1.jpeg?auto=webp&s=36291956c4bdccfe344eefbd0b9670d2a6dd7241 to temp_image.jpg
 2025-05-08 01:13:30,226 - INFO - Posted content successfully. Tweet ID: 1920285897997889796
+2025-05-08 02:55:18,835 - INFO - Content: Where have I seen that pose before?
+
+2025-05-08 02:55:18,835 - INFO - Image Paths: ['https://external-preview.redd.it/enVocm9wdXc1Z3plMXebf-beZzMVRh3LmN4to0WE8A9ZpGaoAshB-bY4RW93.png?format=pjpg&auto=webp&s=91d63a44ba64ec051313c3daf69a009de5ba3d3d']
+2025-05-08 02:55:18,835 - INFO - Video Path: https://v.redd.it/ycvhljyw5gze1/DASH_480.mp4?source=fallback
+2025-05-08 02:55:19,100 - INFO - Downloaded media from https://v.redd.it/ycvhljyw5gze1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-05-08 02:55:19,317 - INFO - Downloaded media from https://v.redd.it/ycvhljyw5gze1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-05-08 02:55:19,810 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-08 02:55:24,600 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
