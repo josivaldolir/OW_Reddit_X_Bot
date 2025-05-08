@@ -3417,3 +3417,11 @@ Heroes never die, unless Mercy pistol-whips them.
 2025-05-08 06:23:54,052 - INFO - Video Path: 
 2025-05-08 06:23:54,219 - INFO - Downloaded media from https://preview.redd.it/ltrglalwuhze1.jpeg?auto=webp&s=0e238695bf8f181df13d225fa1523640a924ce2d to temp_image.jpg
 2025-05-08 06:23:55,252 - INFO - Posted content successfully. Tweet ID: 1920364017257726077
+2025-05-08 06:49:57,165 - INFO - Content: How is Reaper Storing the Death Blossom after TP?
+It is a cool clip, but I don't understand how he stores the death blossom after he teleports, when it is supposed to activate immediately following the teleport. 
+2025-05-08 06:49:57,165 - INFO - Image Paths: ['https://external-preview.redd.it/azViazk4cXFiZnplMV3QvJMwU-z7RXGKuT7F88bOhf_j0wEUjKqzXDXrUOHc.png?format=pjpg&auto=webp&s=97fc68d356bcf20635d94d9d226473a78e60b799']
+2025-05-08 06:49:57,165 - INFO - Video Path: https://v.redd.it/nz0997qqbfze1/DASH_1080.mp4?source=fallback
+2025-05-08 06:49:59,013 - INFO - Downloaded media from https://v.redd.it/nz0997qqbfze1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-05-08 06:49:59,369 - INFO - Downloaded media from https://v.redd.it/nz0997qqbfze1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-05-08 06:50:02,312 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-08 06:50:28,238 - INFO - Posted content successfully. Tweet ID: 1920370698536824910
