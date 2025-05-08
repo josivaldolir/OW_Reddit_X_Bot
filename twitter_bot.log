@@ -3551,3 +3551,9 @@ I couldn’t even be mad, it was honestly hilarious!
 2025-05-08 16:47:31,877 - INFO - Downloaded media from https://preview.redd.it/2ooh25eyujze1.png?auto=webp&s=b76d5cc9f8c1b16f3241749f0412a30f0024655a to temp_image.jpg
 2025-05-08 16:47:32,659 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-08 17:13:37,468 - INFO - Content: Even in bot matches... the salt is real
+I couldn’t even be mad, it was honestly hilarious!
+2025-05-08 17:13:37,468 - INFO - Image Paths: ['https://preview.redd.it/2ooh25eyujze1.png?auto=webp&s=b76d5cc9f8c1b16f3241749f0412a30f0024655a']
+2025-05-08 17:13:37,468 - INFO - Video Path: 
+2025-05-08 17:13:37,711 - INFO - Downloaded media from https://preview.redd.it/2ooh25eyujze1.png?auto=webp&s=b76d5cc9f8c1b16f3241749f0412a30f0024655a to temp_image.jpg
+2025-05-08 17:13:39,611 - INFO - Posted content successfully. Tweet ID: 1920527527539585399
