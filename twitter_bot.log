@@ -3537,3 +3537,10 @@ Too Many Requests
 2025-05-08 15:41:58,552 - INFO - Downloaded media from https://preview.redd.it/rn560lig9jze1.jpeg?auto=webp&s=6a87aa43dbf806f1fd4ec38d5bb6848ddd80465b to temp_image.jpg
 2025-05-08 15:41:59,654 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-08 16:20:28,349 - INFO - Content: It's a Death
+
+2025-05-08 16:20:28,349 - INFO - Image Paths: ['https://preview.redd.it/rn560lig9jze1.jpeg?auto=webp&s=6a87aa43dbf806f1fd4ec38d5bb6848ddd80465b']
+2025-05-08 16:20:28,349 - INFO - Video Path: 
+2025-05-08 16:20:28,392 - INFO - Downloaded media from https://preview.redd.it/rn560lig9jze1.jpeg?auto=webp&s=6a87aa43dbf806f1fd4ec38d5bb6848ddd80465b to temp_image.jpg
+2025-05-08 16:20:29,538 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
