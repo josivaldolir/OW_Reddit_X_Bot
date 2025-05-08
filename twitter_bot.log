@@ -3443,3 +3443,9 @@ Anyone else think it’s weird that in a game where the title organization only 
 2025-05-08 08:20:32,080 - INFO - Downloaded media from https://preview.redd.it/w8ysc8lxsgze1.jpeg?auto=webp&s=dc9e3098392fc858a49b8452e04dbe4cdab8cd21 to temp_image.jpg
 2025-05-08 08:20:32,721 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-08 08:47:24,528 - INFO - Content: Why didn't this game end early? I've had much closer games end after 3 rounds
+I love stadium 🏟  I just really want some of the things to work better 
+2025-05-08 08:47:24,528 - INFO - Image Paths: ['https://preview.redd.it/no5kq6jwueze1.jpeg?auto=webp&s=d04bd076b8f803301fb93c4b5aebe2e7c0d80c7f']
+2025-05-08 08:47:24,529 - INFO - Video Path: 
+2025-05-08 08:47:24,797 - INFO - Downloaded media from https://preview.redd.it/no5kq6jwueze1.jpeg?auto=webp&s=d04bd076b8f803301fb93c4b5aebe2e7c0d80c7f to temp_image.jpg
+2025-05-08 08:47:26,931 - INFO - Posted content successfully. Tweet ID: 1920400136100065618
