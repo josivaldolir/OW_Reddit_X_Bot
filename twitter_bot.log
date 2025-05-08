@@ -3456,3 +3456,10 @@ I love stadium 🏟  I just really want some of the things to work better
 2025-05-08 09:16:21,040 - INFO - Downloaded media from https://preview.redd.it/w8ysc8lxsgze1.jpeg?auto=webp&s=dc9e3098392fc858a49b8452e04dbe4cdab8cd21 to temp_image.jpg
 2025-05-08 09:16:21,616 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-08 09:40:10,387 - INFO - Content: Meee
+
+2025-05-08 09:40:10,387 - INFO - Image Paths: ['https://preview.redd.it/w8ysc8lxsgze1.jpeg?auto=webp&s=dc9e3098392fc858a49b8452e04dbe4cdab8cd21']
+2025-05-08 09:40:10,387 - INFO - Video Path: 
+2025-05-08 09:40:10,430 - INFO - Downloaded media from https://preview.redd.it/w8ysc8lxsgze1.jpeg?auto=webp&s=dc9e3098392fc858a49b8452e04dbe4cdab8cd21 to temp_image.jpg
+2025-05-08 09:40:11,066 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
