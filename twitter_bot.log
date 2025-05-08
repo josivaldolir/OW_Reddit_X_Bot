@@ -3585,3 +3585,10 @@ Literally unplayable
 2025-05-08 19:12:34,219 - INFO - Downloaded media from https://preview.redd.it/8dfdpdn42kze1.jpeg?auto=webp&s=0d824f9a79e64ab5323c7aa7e2c444cb4d6acee9 to temp_image.jpg
 2025-05-08 19:12:35,041 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-08 19:36:57,999 - INFO - Content: Cass introducing Genji
+
+2025-05-08 19:36:57,999 - INFO - Image Paths: ['https://preview.redd.it/f2utsr339kze1.jpeg?auto=webp&s=7ba391510553cbdb67805af3f5c3e9a258fa2e9e']
+2025-05-08 19:36:57,999 - INFO - Video Path: 
+2025-05-08 19:36:58,106 - INFO - Downloaded media from https://preview.redd.it/f2utsr339kze1.jpeg?auto=webp&s=7ba391510553cbdb67805af3f5c3e9a258fa2e9e to temp_image.jpg
+2025-05-08 19:36:58,844 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
