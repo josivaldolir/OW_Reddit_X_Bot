@@ -3563,3 +3563,10 @@ I couldn’t even be mad, it was honestly hilarious!
 2025-05-08 17:38:39,886 - INFO - Video Path: 
 2025-05-08 17:38:39,960 - INFO - Downloaded media from https://external-preview.redd.it/4xCIJR6h4M3PGM8T3uluP6FefFKN_M2HudyB24ZcNy0.png?auto=webp&s=92488e4cde104285665c21cab255b5f5e5a21c88 to temp_image.jpg
 2025-05-08 17:38:41,255 - INFO - Posted content successfully. Tweet ID: 1920533826930975224
+2025-05-08 18:22:10,839 - INFO - Content: just take her out at this point
+
+2025-05-08 18:22:10,839 - INFO - Image Paths: ['https://preview.redd.it/fgnij9zdclze1.jpeg?auto=webp&s=81360165dacf5640355d4a651cda637500281797']
+2025-05-08 18:22:10,839 - INFO - Video Path: 
+2025-05-08 18:22:10,880 - INFO - Downloaded media from https://preview.redd.it/fgnij9zdclze1.jpeg?auto=webp&s=81360165dacf5640355d4a651cda637500281797 to temp_image.jpg
+2025-05-08 18:22:11,607 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
