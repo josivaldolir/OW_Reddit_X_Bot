@@ -3395,3 +3395,11 @@ Too Many Requests
 2025-05-08 04:44:29,791 - INFO - Video Path: 
 2025-05-08 04:44:30,016 - INFO - Downloaded media from https://preview.redd.it/1opll73kcgze1.jpeg?auto=webp&s=ca8fe4c30226f3e7a324947ce9ed8d6e97b6bc70 to temp_image.jpg
 2025-05-08 04:44:31,376 - INFO - Posted content successfully. Tweet ID: 1920339002835808278
+2025-05-08 05:16:08,326 - INFO - Content: My new fetish is making the enemy team so mad in Stadium that they go "DID WE JUST GET DIFFED BY A MERCY????"
+Heroes never die, unless Mercy pistol-whips them.
+2025-05-08 05:16:08,326 - INFO - Image Paths: ['https://external-preview.redd.it/bjVxbzJyanAwZnplMdLj-fzSbM0BB_W1KZoJdkNCKKRnyr5xDDW3LsuTNK86.png?format=pjpg&auto=webp&s=eaeade4ee5a67635dbfb283a6df632a51ba62b6d']
+2025-05-08 05:16:08,326 - INFO - Video Path: https://v.redd.it/cz1huhjp0fze1/DASH_1080.mp4?source=fallback
+2025-05-08 05:16:09,486 - INFO - Downloaded media from https://v.redd.it/cz1huhjp0fze1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-05-08 05:16:09,741 - INFO - Downloaded media from https://v.redd.it/cz1huhjp0fze1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-05-08 05:16:10,080 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-08 05:16:27,108 - INFO - Posted content successfully. Tweet ID: 1920347038077890761
