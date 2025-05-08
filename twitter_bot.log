@@ -3403,3 +3403,11 @@ Heroes never die, unless Mercy pistol-whips them.
 2025-05-08 05:16:09,741 - INFO - Downloaded media from https://v.redd.it/cz1huhjp0fze1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-05-08 05:16:10,080 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-08 05:16:27,108 - INFO - Posted content successfully. Tweet ID: 1920347038077890761
+2025-05-08 05:41:44,627 - INFO - Content: Where have I seen that pose before?
+
+2025-05-08 05:41:44,627 - INFO - Image Paths: ['https://external-preview.redd.it/enVocm9wdXc1Z3plMXebf-beZzMVRh3LmN4to0WE8A9ZpGaoAshB-bY4RW93.png?format=pjpg&auto=webp&s=91d63a44ba64ec051313c3daf69a009de5ba3d3d']
+2025-05-08 05:41:44,627 - INFO - Video Path: https://v.redd.it/ycvhljyw5gze1/DASH_480.mp4?source=fallback
+2025-05-08 05:41:44,817 - INFO - Downloaded media from https://v.redd.it/ycvhljyw5gze1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-05-08 05:41:44,889 - INFO - Downloaded media from https://v.redd.it/ycvhljyw5gze1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-05-08 05:41:45,368 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-08 05:41:50,637 - INFO - Posted content successfully. Tweet ID: 1920353428661764571
