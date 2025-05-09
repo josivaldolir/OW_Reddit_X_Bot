@@ -3690,3 +3690,11 @@ Too Many Requests
 2025-05-09 03:38:26,898 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-09 03:38:34,456 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-09 04:19:35,568 - INFO - Content: Sometimes you just gotta shake it off
+
+2025-05-09 04:19:35,568 - INFO - Image Paths: ['https://external-preview.redd.it/eDU4ZjdqNDh0bnplMTtw481rbWjKa5Lzf9ExlImCs4HNR8eAh7NAbleFMq3w.png?format=pjpg&auto=webp&s=46e4eb7edb5bac3963616d70007e2b1c2e034238']
+2025-05-09 04:19:35,568 - INFO - Video Path: https://v.redd.it/yh3g2l48tnze1/DASH_1080.mp4?source=fallback
+2025-05-09 04:19:36,259 - INFO - Downloaded media from https://v.redd.it/yh3g2l48tnze1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-05-09 04:19:36,363 - INFO - Downloaded media from https://v.redd.it/yh3g2l48tnze1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-05-09 04:19:40,123 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-09 04:19:52,019 - INFO - Posted content successfully. Tweet ID: 1920695185874579936
