@@ -3873,3 +3873,10 @@ I just think it’s funny lol (team juno btw)
 2025-05-09 16:19:26,861 - INFO - Downloaded media from https://preview.redd.it/r303amw39rze1.png?auto=webp&s=15bce636ffe23a3f1045db0dcd5f1a0be607b1f4 to temp_image.jpg
 2025-05-09 16:19:27,669 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-09 16:44:13,607 - INFO - Content: Please find new heroes
+
+2025-05-09 16:44:13,607 - INFO - Image Paths: ['https://preview.redd.it/r303amw39rze1.png?auto=webp&s=15bce636ffe23a3f1045db0dcd5f1a0be607b1f4']
+2025-05-09 16:44:13,607 - INFO - Video Path: 
+2025-05-09 16:44:13,654 - INFO - Downloaded media from https://preview.redd.it/r303amw39rze1.png?auto=webp&s=15bce636ffe23a3f1045db0dcd5f1a0be607b1f4 to temp_image.jpg
+2025-05-09 16:44:14,558 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
