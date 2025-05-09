@@ -3880,3 +3880,10 @@ Too Many Requests
 2025-05-09 16:44:13,654 - INFO - Downloaded media from https://preview.redd.it/r303amw39rze1.png?auto=webp&s=15bce636ffe23a3f1045db0dcd5f1a0be607b1f4 to temp_image.jpg
 2025-05-09 16:44:14,558 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-09 17:13:39,631 - INFO - Content: No Doomfist skin despite him literally having a spray
+He has a literal dragon punch as a spray but he doesn’t get a skin? Like Akuma is right there, he fits Doom way more than Guile fits Soldier, or Kiri fitting Juri
+2025-05-09 17:13:39,631 - INFO - Image Paths: ['https://preview.redd.it/b04d4lehlrze1.jpeg?auto=webp&s=a07e0296179bcbba30e437ebb91ab9e8591eb86a']
+2025-05-09 17:13:39,631 - INFO - Video Path: 
+2025-05-09 17:13:39,652 - INFO - Downloaded media from https://preview.redd.it/b04d4lehlrze1.jpeg?auto=webp&s=a07e0296179bcbba30e437ebb91ab9e8591eb86a to temp_image.jpg
+2025-05-09 17:13:40,213 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
