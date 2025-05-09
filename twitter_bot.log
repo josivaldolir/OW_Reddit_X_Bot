@@ -3794,3 +3794,12 @@ Is Blizzard even staffed by human beings any more? What the fuck is going on the
 2025-05-09 10:16:55,710 - INFO - Downloaded media from https://preview.redd.it/txj7pl4kzpze1.png?auto=webp&s=dad2c8a712f6705f5ea7aaa92ee4fca2e79808fc to temp_image.jpg
 2025-05-09 10:16:56,465 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-09 10:43:06,280 - INFO - Content: OVERWATCH x SF6 TRAILER
+
+2025-05-09 10:43:06,280 - INFO - Image Paths: ['https://external-preview.redd.it/Zzk4bHlodzdicXplMSlIMs2awP6p-OT7F84OmkwVs23ELju8qOeCNTnIQOr4.png?format=pjpg&auto=webp&s=fd8f6ca7b6210dece269bb3d62ff6b924dd46f1e']
+2025-05-09 10:43:06,280 - INFO - Video Path: https://v.redd.it/nzyejiw7bqze1/DASH_1080.mp4?source=fallback
+2025-05-09 10:43:07,074 - INFO - Downloaded media from https://v.redd.it/nzyejiw7bqze1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-05-09 10:43:07,893 - INFO - Downloaded media from https://v.redd.it/nzyejiw7bqze1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-05-09 10:43:08,340 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-09 10:43:31,406 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
