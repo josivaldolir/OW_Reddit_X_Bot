@@ -3921,3 +3921,10 @@ Edit: number on board
 2025-05-09 19:35:52,016 - INFO - Downloaded media from https://preview.redd.it/ha0p5c8p7rze1.jpeg?auto=webp&s=f42ad1b8561a304190db19517699f2bd1aab731f to temp_image.jpg
 2025-05-09 19:35:52,956 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-09 20:16:56,640 - INFO - Content: Poster girl stays winning
+Edit: number on board
+2025-05-09 20:16:56,640 - INFO - Image Paths: ['https://preview.redd.it/ha0p5c8p7rze1.jpeg?auto=webp&s=f42ad1b8561a304190db19517699f2bd1aab731f']
+2025-05-09 20:16:56,640 - INFO - Video Path: 
+2025-05-09 20:16:56,692 - INFO - Downloaded media from https://preview.redd.it/ha0p5c8p7rze1.jpeg?auto=webp&s=f42ad1b8561a304190db19517699f2bd1aab731f to temp_image.jpg
+2025-05-09 20:16:57,291 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
