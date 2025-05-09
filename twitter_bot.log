@@ -3853,3 +3853,10 @@ Too Many Requests
 2025-05-09 14:41:55,501 - INFO - Downloaded media from https://preview.redd.it/r303amw39rze1.png?auto=webp&s=15bce636ffe23a3f1045db0dcd5f1a0be607b1f4 to temp_image.jpg
 2025-05-09 14:41:56,131 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-09 15:15:47,361 - INFO - Content: Please find new heroes
+
+2025-05-09 15:15:47,361 - INFO - Image Paths: ['https://preview.redd.it/r303amw39rze1.png?auto=webp&s=15bce636ffe23a3f1045db0dcd5f1a0be607b1f4']
+2025-05-09 15:15:47,361 - INFO - Video Path: 
+2025-05-09 15:15:47,440 - INFO - Downloaded media from https://preview.redd.it/r303amw39rze1.png?auto=webp&s=15bce636ffe23a3f1045db0dcd5f1a0be607b1f4 to temp_image.jpg
+2025-05-09 15:15:48,126 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
