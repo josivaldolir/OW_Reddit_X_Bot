@@ -3887,3 +3887,10 @@ He has a literal dragon punch as a spray but he doesn’t get a skin? Like Akuma
 2025-05-09 17:13:39,652 - INFO - Downloaded media from https://preview.redd.it/b04d4lehlrze1.jpeg?auto=webp&s=a07e0296179bcbba30e437ebb91ab9e8591eb86a to temp_image.jpg
 2025-05-09 17:13:40,213 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-09 17:38:48,649 - INFO - Content: Please find new heroes
+
+2025-05-09 17:38:48,649 - INFO - Image Paths: ['https://preview.redd.it/r303amw39rze1.png?auto=webp&s=15bce636ffe23a3f1045db0dcd5f1a0be607b1f4']
+2025-05-09 17:38:48,649 - INFO - Video Path: 
+2025-05-09 17:38:48,695 - INFO - Downloaded media from https://preview.redd.it/r303amw39rze1.png?auto=webp&s=15bce636ffe23a3f1045db0dcd5f1a0be607b1f4 to temp_image.jpg
+2025-05-09 17:38:49,465 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
