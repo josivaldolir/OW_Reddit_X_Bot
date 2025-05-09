@@ -3803,3 +3803,11 @@ Too Many Requests
 2025-05-09 10:43:08,340 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-09 10:43:31,406 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-09 11:13:30,942 - INFO - Content: OVERWATCH x SF6 TRAILER
+
+2025-05-09 11:13:30,942 - INFO - Image Paths: ['https://external-preview.redd.it/Zzk4bHlodzdicXplMSlIMs2awP6p-OT7F84OmkwVs23ELju8qOeCNTnIQOr4.png?format=pjpg&auto=webp&s=fd8f6ca7b6210dece269bb3d62ff6b924dd46f1e']
+2025-05-09 11:13:30,942 - INFO - Video Path: https://v.redd.it/nzyejiw7bqze1/DASH_1080.mp4?source=fallback
+2025-05-09 11:13:31,463 - INFO - Downloaded media from https://v.redd.it/nzyejiw7bqze1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-05-09 11:13:32,219 - INFO - Downloaded media from https://v.redd.it/nzyejiw7bqze1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-05-09 11:13:32,759 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-09 11:14:05,024 - INFO - Posted content successfully. Tweet ID: 1920799427008360912
