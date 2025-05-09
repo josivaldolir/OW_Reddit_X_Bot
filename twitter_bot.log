@@ -3818,3 +3818,10 @@ I just think it’s funny lol (team juno btw)
 2025-05-09 11:37:50,491 - INFO - Downloaded media from https://external-preview.redd.it/MJ0t5XeZIpIGhN435cGICTsfoyCENice-CcCAL8p2hs.jpeg?auto=webp&s=feb763d4e07d0940873c01217e5e2c31beab01c1 to temp_image.jpg
 2025-05-09 11:37:51,247 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-09 12:29:28,422 - INFO - Content: Its fine ...
+
+2025-05-09 12:29:28,422 - INFO - Image Paths: ['https://preview.redd.it/zuqs7ghlwqze1.png?auto=webp&s=d889114fb6977e00806e6e7e4ba16f611e364224']
+2025-05-09 12:29:28,422 - INFO - Video Path: 
+2025-05-09 12:29:28,557 - INFO - Downloaded media from https://preview.redd.it/zuqs7ghlwqze1.png?auto=webp&s=d889114fb6977e00806e6e7e4ba16f611e364224 to temp_image.jpg
+2025-05-09 12:29:29,350 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
