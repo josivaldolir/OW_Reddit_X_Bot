@@ -3712,3 +3712,12 @@ Hot take: make Mauga the meme character of Overwatch he was always meant to be. 
 2025-05-09 05:15:33,046 - INFO - Downloaded media from https://external-preview.redd.it/gMa_cWHeMOPoskBpnYfZc3eHEhQbH8zXgF_H-1sb1EI.jpeg?auto=webp&s=5243c0a9bea7623f07888b42825eed32ede25d17 to temp_image.jpg
 2025-05-09 05:15:34,087 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-09 05:41:10,225 - INFO - Content: BRO REALLY SOLO ULTED ME FOR THIS! 😭🙏
+Imagine getting spooked by a support lmao
+2025-05-09 05:41:10,225 - INFO - Image Paths: ['https://external-preview.redd.it/eG1kZ3MzaHQxb3plMXHPV3_r35q_-Az5-gy2FG19xKkktXZp4-kE9z0EkGVa.png?format=pjpg&auto=webp&s=c94c4c22dd8e5dac3c891f9ce834c0d292ade301']
+2025-05-09 05:41:10,225 - INFO - Video Path: https://v.redd.it/ws94w6ht1oze1/DASH_1080.mp4?source=fallback
+2025-05-09 05:41:10,792 - INFO - Downloaded media from https://v.redd.it/ws94w6ht1oze1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-05-09 05:41:10,882 - INFO - Downloaded media from https://v.redd.it/ws94w6ht1oze1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-05-09 05:41:11,184 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-09 05:41:21,554 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
