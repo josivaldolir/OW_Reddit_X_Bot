@@ -3935,3 +3935,9 @@ Edit: number on board
 2025-05-09 20:40:42,872 - INFO - Downloaded media from https://preview.redd.it/ha0p5c8p7rze1.jpeg?auto=webp&s=f42ad1b8561a304190db19517699f2bd1aab731f to temp_image.jpg
 2025-05-09 20:40:43,696 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-09 21:13:53,562 - INFO - Content: Poster girl stays winning
+Edit: number on board
+2025-05-09 21:13:53,562 - INFO - Image Paths: ['https://preview.redd.it/ha0p5c8p7rze1.jpeg?auto=webp&s=f42ad1b8561a304190db19517699f2bd1aab731f']
+2025-05-09 21:13:53,562 - INFO - Video Path: 
+2025-05-09 21:13:53,759 - INFO - Downloaded media from https://preview.redd.it/ha0p5c8p7rze1.jpeg?auto=webp&s=f42ad1b8561a304190db19517699f2bd1aab731f to temp_image.jpg
+2025-05-09 21:13:55,282 - INFO - Posted content successfully. Tweet ID: 1920950380781027384
