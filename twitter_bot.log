@@ -3948,3 +3948,9 @@ This is awesome to see, hopefully this leads the way for other studios as well.
 2025-05-09 21:36:53,499 - INFO - Downloaded media from https://preview.redd.it/whsm1z512tze1.jpeg?auto=webp&s=5758d8a8779264c0c5df8ea1b1a86ebcddff5344 to temp_image.jpg
 2025-05-09 21:36:54,216 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-09 22:14:15,823 - INFO - Content: Overwatch Dev Team Unionize
+This is awesome to see, hopefully this leads the way for other studios as well. 
+2025-05-09 22:14:15,823 - INFO - Image Paths: ['https://preview.redd.it/whsm1z512tze1.jpeg?auto=webp&s=5758d8a8779264c0c5df8ea1b1a86ebcddff5344']
+2025-05-09 22:14:15,823 - INFO - Video Path: 
+2025-05-09 22:14:16,111 - INFO - Downloaded media from https://preview.redd.it/whsm1z512tze1.jpeg?auto=webp&s=5758d8a8779264c0c5df8ea1b1a86ebcddff5344 to temp_image.jpg
+2025-05-09 22:14:17,348 - INFO - Posted content successfully. Tweet ID: 1920965572990550410
