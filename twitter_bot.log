@@ -3668,3 +3668,9 @@ Pls Aaron, give me the chance to experience true Power.
 2025-05-08 23:38:12,083 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-08 23:38:16,648 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-09 01:12:59,060 - INFO - Content: Overwatch 2 Retail Patch Notes – May 8, 2025
+
+2025-05-09 01:12:59,060 - INFO - Image Paths: ['https://external-preview.redd.it/giW8DbeQT4b7UbEbNk11fDFsnkIEK7sqSvPYRwehwpg.jpeg?auto=webp&s=1074811b6cd6dd801512852a91a585906ac877c9']
+2025-05-09 01:12:59,060 - INFO - Video Path: 
+2025-05-09 01:12:59,240 - INFO - Downloaded media from https://external-preview.redd.it/giW8DbeQT4b7UbEbNk11fDFsnkIEK7sqSvPYRwehwpg.jpeg?auto=webp&s=1074811b6cd6dd801512852a91a585906ac877c9 to temp_image.jpg
+2025-05-09 01:13:00,307 - INFO - Posted content successfully. Tweet ID: 1920648160403468390
