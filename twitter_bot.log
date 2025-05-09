@@ -6,3 +6,10 @@
 2025-05-09 22:40:06,356 - INFO - Downloaded media from https://preview.redd.it/1pmb85t54sze1.png?auto=webp&s=b7875479b940f9fc04285cca1671f2cdf1fb97a3 to temp_image.jpg
 2025-05-09 22:40:07,119 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-09 23:13:48,254 - INFO - Content: Juno players upon seeing the collab reveal
+
+2025-05-09 23:13:48,254 - INFO - Image Paths: ['https://preview.redd.it/1pmb85t54sze1.png?auto=webp&s=b7875479b940f9fc04285cca1671f2cdf1fb97a3']
+2025-05-09 23:13:48,254 - INFO - Video Path: 
+2025-05-09 23:13:48,280 - INFO - Downloaded media from https://preview.redd.it/1pmb85t54sze1.png?auto=webp&s=b7875479b940f9fc04285cca1671f2cdf1fb97a3 to temp_image.jpg
+2025-05-09 23:13:48,889 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
