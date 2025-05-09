@@ -3773,3 +3773,10 @@ Too Many Requests
 2025-05-09 08:45:39,984 - INFO - Downloaded media from https://v.redd.it/a9sjs35a8mze1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-05-09 08:45:40,442 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-09 08:45:45,599 - INFO - Posted content successfully. Tweet ID: 1920762100177399947
+2025-05-09 09:16:06,732 - INFO - Content: Why has no one talked about the fact that Mauga does the Markiplier jump meme
+Hot take: make Mauga the meme character of Overwatch he was always meant to be. He's already a meme, just embrace it.
+2025-05-09 09:16:06,732 - INFO - Image Paths: ['https://external-preview.redd.it/gMa_cWHeMOPoskBpnYfZc3eHEhQbH8zXgF_H-1sb1EI.jpeg?auto=webp&s=5243c0a9bea7623f07888b42825eed32ede25d17']
+2025-05-09 09:16:06,732 - INFO - Video Path: 
+2025-05-09 09:16:06,919 - INFO - Downloaded media from https://external-preview.redd.it/gMa_cWHeMOPoskBpnYfZc3eHEhQbH8zXgF_H-1sb1EI.jpeg?auto=webp&s=5243c0a9bea7623f07888b42825eed32ede25d17 to temp_image.jpg
+2025-05-09 09:16:07,809 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
