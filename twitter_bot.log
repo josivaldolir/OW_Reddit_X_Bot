@@ -296,3 +296,12 @@ Reposting this because automod removed this post
 2025-05-10 20:37:53,228 - INFO - Video Path: 
 2025-05-10 20:37:53,415 - INFO - Downloaded media from https://preview.redd.it/nwetyvgyzyze1.jpeg?auto=webp&s=b85430fc9feb18e04f9507fad825184b4b370f15 to temp_image.jpg
 2025-05-10 20:37:54,365 - INFO - Posted content successfully. Tweet ID: 1921303705355427936
+2025-05-10 21:12:41,709 - INFO - Content: Watching Kiriko Get collab skins like
+
+2025-05-10 21:12:41,709 - INFO - Image Paths: ['https://external-preview.redd.it/eTFmdjByenFlMDBmMb7O-xCSiu_OCskT_MTrlBsVYeOV6zXR_8a8MUD2OF3n.png?format=pjpg&auto=webp&s=e05e3ff3c36bff1ebacf3f691a966d72408fd227']
+2025-05-10 21:12:41,709 - INFO - Video Path: https://v.redd.it/vu3v4g4re00f1/DASH_720.mp4?source=fallback
+2025-05-10 21:12:41,895 - INFO - Downloaded media from https://v.redd.it/vu3v4g4re00f1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-05-10 21:12:41,914 - INFO - Downloaded media from https://v.redd.it/vu3v4g4re00f1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-05-10 21:12:45,587 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-10 21:12:58,097 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
