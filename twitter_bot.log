@@ -230,3 +230,9 @@ Too Many Requests
 2025-05-10 15:38:32,808 - INFO - Downloaded media from https://external-preview.redd.it/qOggH4BoVXYUVRUeV424ZcwOELNb2JO5LzkceRreaVk.jpeg?auto=webp&s=d81db41119f7da164f596a0fddc0357594b9f970 to temp_image.jpg
 2025-05-10 15:38:33,994 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-10 16:17:33,737 - INFO - Content: My Juno cosplay!
+
+2025-05-10 16:17:33,737 - INFO - Image Paths: ['https://external-preview.redd.it/qOggH4BoVXYUVRUeV424ZcwOELNb2JO5LzkceRreaVk.jpeg?auto=webp&s=d81db41119f7da164f596a0fddc0357594b9f970']
+2025-05-10 16:17:33,737 - INFO - Video Path: 
+2025-05-10 16:17:34,238 - INFO - Downloaded media from https://external-preview.redd.it/qOggH4BoVXYUVRUeV424ZcwOELNb2JO5LzkceRreaVk.jpeg?auto=webp&s=d81db41119f7da164f596a0fddc0357594b9f970 to temp_image.jpg
+2025-05-10 16:17:36,944 - INFO - Posted content successfully. Tweet ID: 1921238198396874823
