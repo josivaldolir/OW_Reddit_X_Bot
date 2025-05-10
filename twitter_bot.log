@@ -40,3 +40,9 @@ Too Many Requests
 2025-05-10 03:35:12,954 - INFO - Downloaded media from https://preview.redd.it/1pmb85t54sze1.png?auto=webp&s=b7875479b940f9fc04285cca1671f2cdf1fb97a3 to temp_image.jpg
 2025-05-10 03:35:13,625 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-10 04:17:13,856 - INFO - Content: It's settled, John. So either get a skin or get the fuck over it!
+
+2025-05-10 04:17:13,856 - INFO - Image Paths: ['https://preview.redd.it/3mz2teu2guze1.jpeg?auto=webp&s=915aafa7a998002cf8368c8c4392134b0238f576']
+2025-05-10 04:17:13,856 - INFO - Video Path: 
+2025-05-10 04:17:14,306 - INFO - Downloaded media from https://preview.redd.it/3mz2teu2guze1.jpeg?auto=webp&s=915aafa7a998002cf8368c8c4392134b0238f576 to temp_image.jpg
+2025-05-10 04:17:15,278 - INFO - Posted content successfully. Tweet ID: 1921056916350136470
