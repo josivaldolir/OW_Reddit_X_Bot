@@ -209,3 +209,10 @@ You guys actually think you know better than dudes who's entire careers are buil
 2025-05-10 14:12:47,068 - INFO - Downloaded media from https://preview.redd.it/xy4nfc5gbyze1.png?auto=webp&s=55ce6f2ab23c250da638cf58a278a7d7bcb381e5 to temp_image.jpg
 2025-05-10 14:12:47,748 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-10 14:38:16,284 - INFO - Content: i have not played in a while, is this how the lore is?
+i know hazard and kiriko are apart of some groups but there are not any other heroes from those groups
+2025-05-10 14:38:16,284 - INFO - Image Paths: ['https://preview.redd.it/97fgm63ugxze1.png?auto=webp&s=9ba01d6d62ebf11d85deb8775b2bbccd37633e85']
+2025-05-10 14:38:16,284 - INFO - Video Path: 
+2025-05-10 14:38:16,324 - INFO - Downloaded media from https://preview.redd.it/97fgm63ugxze1.png?auto=webp&s=9ba01d6d62ebf11d85deb8775b2bbccd37633e85 to temp_image.jpg
+2025-05-10 14:38:17,188 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
