@@ -275,3 +275,12 @@ Life must be fun being a Kawaii Asian girl
 2025-05-10 19:36:36,586 - INFO - Video Path: 
 2025-05-10 19:36:36,624 - INFO - Downloaded media from https://preview.redd.it/d4r5ak3l1yze1.png?auto=webp&s=c1d78a99f9fbc25bb528babc21f9d2d2b152b776 to temp_image.jpg
 2025-05-10 19:36:37,586 - INFO - Posted content successfully. Tweet ID: 1921288283382055060
+2025-05-10 20:16:23,147 - INFO - Content: Watching Kiriko Get collab skins like
+
+2025-05-10 20:16:23,147 - INFO - Image Paths: ['https://external-preview.redd.it/eTFmdjByenFlMDBmMb7O-xCSiu_OCskT_MTrlBsVYeOV6zXR_8a8MUD2OF3n.png?format=pjpg&auto=webp&s=e05e3ff3c36bff1ebacf3f691a966d72408fd227']
+2025-05-10 20:16:23,147 - INFO - Video Path: https://v.redd.it/vu3v4g4re00f1/DASH_720.mp4?source=fallback
+2025-05-10 20:16:24,351 - INFO - Downloaded media from https://v.redd.it/vu3v4g4re00f1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-05-10 20:16:24,526 - INFO - Downloaded media from https://v.redd.it/vu3v4g4re00f1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-05-10 20:16:30,454 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-10 20:16:39,038 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
