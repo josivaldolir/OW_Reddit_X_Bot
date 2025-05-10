@@ -216,3 +216,10 @@ i know hazard and kiriko are apart of some groups but there are not any other he
 2025-05-10 14:38:16,324 - INFO - Downloaded media from https://preview.redd.it/97fgm63ugxze1.png?auto=webp&s=9ba01d6d62ebf11d85deb8775b2bbccd37633e85 to temp_image.jpg
 2025-05-10 14:38:17,188 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-10 15:14:25,784 - INFO - Content: Why are we still here?
+Life must be fun being a Kawaii Asian girl
+2025-05-10 15:14:25,784 - INFO - Image Paths: ['https://preview.redd.it/seheww4hnwze1.jpeg?auto=webp&s=7ae6b12876f0ddaee3db0ef2b80dad7072352da5']
+2025-05-10 15:14:25,784 - INFO - Video Path: 
+2025-05-10 15:14:25,829 - INFO - Downloaded media from https://preview.redd.it/seheww4hnwze1.jpeg?auto=webp&s=7ae6b12876f0ddaee3db0ef2b80dad7072352da5 to temp_image.jpg
+2025-05-10 15:14:26,485 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
