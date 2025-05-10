@@ -174,3 +174,9 @@ Support mains having the time of their lives rn
 2025-05-10 11:36:44,948 - INFO - Downloaded media from https://preview.redd.it/4uzame7lsxze1.jpeg?auto=webp&s=a59986ade06af472f59665fd096d4b1d6349cb58 to temp_image.jpg
 2025-05-10 11:36:45,699 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-10 12:28:25,200 - INFO - Content: I’m disappointed but not surprised.
+Support mains having the time of their lives rn
+2025-05-10 12:28:25,200 - INFO - Image Paths: ['https://preview.redd.it/4uzame7lsxze1.jpeg?auto=webp&s=a59986ade06af472f59665fd096d4b1d6349cb58']
+2025-05-10 12:28:25,200 - INFO - Video Path: 
+2025-05-10 12:28:25,332 - INFO - Downloaded media from https://preview.redd.it/4uzame7lsxze1.jpeg?auto=webp&s=a59986ade06af472f59665fd096d4b1d6349cb58 to temp_image.jpg
+2025-05-10 12:28:26,390 - INFO - Posted content successfully. Tweet ID: 1921180527115334111
