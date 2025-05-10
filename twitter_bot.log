@@ -105,3 +105,10 @@ https://x.com/papico423/status/1920840953876660585?s=46&t=n2CokNTw2L3TPQIgnOjRCQ
 2025-05-10 06:49:04,136 - INFO - Downloaded media from https://v.redd.it/i9m0z5pl5tze1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-05-10 06:49:09,565 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-10 06:49:16,739 - INFO - Posted content successfully. Tweet ID: 1921095174836379900
+2025-05-10 07:13:29,375 - INFO - Content: Sojourn would fit Cammy better
+Am I the only one who sees the vision? I don't even play Soj I just think her design would fit the collab more than Widow does.
+2025-05-10 07:13:29,376 - INFO - Image Paths: ['https://external-preview.redd.it/_-YWSckXS18LznWQWTaslC4adrlWpAg6UKY11l8h5Lg.png?auto=webp&s=982b75f548a2637193939c431236f6d0e77ec0b3']
+2025-05-10 07:13:29,376 - INFO - Video Path: 
+2025-05-10 07:13:29,400 - INFO - Downloaded media from https://external-preview.redd.it/_-YWSckXS18LznWQWTaslC4adrlWpAg6UKY11l8h5Lg.png?auto=webp&s=982b75f548a2637193939c431236f6d0e77ec0b3 to temp_image.jpg
+2025-05-10 07:13:30,061 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
