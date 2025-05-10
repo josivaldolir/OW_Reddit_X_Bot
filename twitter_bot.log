@@ -94,3 +94,14 @@ https://x.com/papico423/status/1920840953876660585?s=46&t=n2CokNTw2L3TPQIgnOjRCQ
 2025-05-10 06:20:44,284 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-10 06:20:56,551 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-10 06:49:03,822 - INFO - Content: Watching Kiriko get collab skins like
+Really is how it feels lmao
+https://x.com/papico423/status/1920840953876660585?s=46&t=n2CokNTw2L3TPQIgnOjRCQ
+
+
+2025-05-10 06:49:03,822 - INFO - Image Paths: ['https://external-preview.redd.it/dTJvOXZybGw1dHplMb7O-xCSiu_OCskT_MTrlBsVYeOV6zXR_8a8MUD2OF3n.png?format=pjpg&auto=webp&s=68565904b704cc047ef6fc31b5ebb969606d9279']
+2025-05-10 06:49:03,822 - INFO - Video Path: https://v.redd.it/i9m0z5pl5tze1/DASH_720.mp4?source=fallback
+2025-05-10 06:49:04,082 - INFO - Downloaded media from https://v.redd.it/i9m0z5pl5tze1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-05-10 06:49:04,136 - INFO - Downloaded media from https://v.redd.it/i9m0z5pl5tze1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-05-10 06:49:09,565 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-10 06:49:16,739 - INFO - Posted content successfully. Tweet ID: 1921095174836379900
