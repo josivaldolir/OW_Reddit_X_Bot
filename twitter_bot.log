@@ -328,3 +328,10 @@ Too Many Requests
 2025-05-10 22:38:35,333 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-10 22:38:42,796 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-10 23:13:32,665 - INFO - Content: Thank you, Overwatch Gods
+Just got this opening 3 loot boxes…not a guaranteed legendary…too bad I’m garbage with widow 
+2025-05-10 23:13:32,666 - INFO - Image Paths: ['https://preview.redd.it/y0kv5mbts00f1.jpeg?auto=webp&s=af3a3856841da148a6f2bc1ad6e04197d2e7c5d0']
+2025-05-10 23:13:32,666 - INFO - Video Path: 
+2025-05-10 23:13:32,810 - INFO - Downloaded media from https://preview.redd.it/y0kv5mbts00f1.jpeg?auto=webp&s=af3a3856841da148a6f2bc1ad6e04197d2e7c5d0 to temp_image.jpg
+2025-05-10 23:13:34,085 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
