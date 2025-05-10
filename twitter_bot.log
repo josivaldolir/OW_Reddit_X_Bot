@@ -223,3 +223,10 @@ Life must be fun being a Kawaii Asian girl
 2025-05-10 15:14:25,829 - INFO - Downloaded media from https://preview.redd.it/seheww4hnwze1.jpeg?auto=webp&s=7ae6b12876f0ddaee3db0ef2b80dad7072352da5 to temp_image.jpg
 2025-05-10 15:14:26,485 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-10 15:38:32,757 - INFO - Content: My Juno cosplay!
+
+2025-05-10 15:38:32,757 - INFO - Image Paths: ['https://external-preview.redd.it/qOggH4BoVXYUVRUeV424ZcwOELNb2JO5LzkceRreaVk.jpeg?auto=webp&s=d81db41119f7da164f596a0fddc0357594b9f970']
+2025-05-10 15:38:32,758 - INFO - Video Path: 
+2025-05-10 15:38:32,808 - INFO - Downloaded media from https://external-preview.redd.it/qOggH4BoVXYUVRUeV424ZcwOELNb2JO5LzkceRreaVk.jpeg?auto=webp&s=d81db41119f7da164f596a0fddc0357594b9f970 to temp_image.jpg
+2025-05-10 15:38:33,994 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
