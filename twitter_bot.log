@@ -70,3 +70,15 @@ https://x.com/papico423/status/1920840953876660585?s=46&t=n2CokNTw2L3TPQIgnOjRCQ
 2025-05-10 05:14:20,102 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-10 05:14:27,513 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-10 05:38:59,177 - INFO - Content: Watching Kiriko get collab skins like
+Really is how it feels lmao
+https://x.com/papico423/status/1920840953876660585?s=46&t=n2CokNTw2L3TPQIgnOjRCQ
+
+
+2025-05-10 05:38:59,177 - INFO - Image Paths: ['https://external-preview.redd.it/dTJvOXZybGw1dHplMb7O-xCSiu_OCskT_MTrlBsVYeOV6zXR_8a8MUD2OF3n.png?format=pjpg&auto=webp&s=68565904b704cc047ef6fc31b5ebb969606d9279']
+2025-05-10 05:38:59,177 - INFO - Video Path: https://v.redd.it/i9m0z5pl5tze1/DASH_720.mp4?source=fallback
+2025-05-10 05:38:59,454 - INFO - Downloaded media from https://v.redd.it/i9m0z5pl5tze1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-05-10 05:38:59,511 - INFO - Downloaded media from https://v.redd.it/i9m0z5pl5tze1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-05-10 05:39:02,792 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-10 05:39:09,418 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
