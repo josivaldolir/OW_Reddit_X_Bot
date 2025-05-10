@@ -147,3 +147,9 @@ Credit: @windflowerve on twitter
 2025-05-10 09:36:34,756 - INFO - Downloaded media from https://preview.redd.it/ntzfcfczmwze1.png?auto=webp&s=8a5e1303b69666f6a4a4e2857c96d8bd505a9ea4 to temp_image.jpg
 2025-05-10 09:36:35,457 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-10 10:14:48,596 - INFO - Content: It can now be considered a love-hate relationship.
+
+2025-05-10 10:14:48,596 - INFO - Image Paths: ['https://preview.redd.it/ntzfcfczmwze1.png?auto=webp&s=8a5e1303b69666f6a4a4e2857c96d8bd505a9ea4']
+2025-05-10 10:14:48,596 - INFO - Video Path: 
+2025-05-10 10:14:48,811 - INFO - Downloaded media from https://preview.redd.it/ntzfcfczmwze1.png?auto=webp&s=8a5e1303b69666f6a4a4e2857c96d8bd505a9ea4 to temp_image.jpg
+2025-05-10 10:14:50,209 - INFO - Posted content successfully. Tweet ID: 1921146904743997843
