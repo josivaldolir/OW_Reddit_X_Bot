@@ -319,3 +319,12 @@ Just got this opening 3 loot boxes…not a guaranteed legendary…too bad I’m 
 2025-05-10 22:13:04,093 - INFO - Downloaded media from https://preview.redd.it/y0kv5mbts00f1.jpeg?auto=webp&s=af3a3856841da148a6f2bc1ad6e04197d2e7c5d0 to temp_image.jpg
 2025-05-10 22:13:05,459 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-10 22:38:33,388 - INFO - Content: Watching Kiriko Get collab skins like
+
+2025-05-10 22:38:33,388 - INFO - Image Paths: ['https://external-preview.redd.it/eTFmdjByenFlMDBmMb7O-xCSiu_OCskT_MTrlBsVYeOV6zXR_8a8MUD2OF3n.png?format=pjpg&auto=webp&s=e05e3ff3c36bff1ebacf3f691a966d72408fd227']
+2025-05-10 22:38:33,388 - INFO - Video Path: https://v.redd.it/vu3v4g4re00f1/DASH_720.mp4?source=fallback
+2025-05-10 22:38:33,733 - INFO - Downloaded media from https://v.redd.it/vu3v4g4re00f1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-05-10 22:38:33,816 - INFO - Downloaded media from https://v.redd.it/vu3v4g4re00f1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-05-10 22:38:35,333 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-10 22:38:42,796 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
