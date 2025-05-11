@@ -544,3 +544,12 @@ From a round in stadium, no one on my team died in the round yet every person on
 2025-05-11 16:17:37,580 - INFO - Video Path: 
 2025-05-11 16:17:37,648 - INFO - Downloaded media from https://preview.redd.it/7ibw7drp360f1.jpeg?auto=webp&s=da2ac31fd40f934aa9948b521d6465cca4fb2235 to temp_image.jpg
 2025-05-11 16:17:38,732 - INFO - Posted content successfully. Tweet ID: 1921600596416839747
+2025-05-11 16:43:09,106 - INFO - Content: STOP RUNNING
+
+2025-05-11 16:43:09,106 - INFO - Image Paths: ['https://external-preview.redd.it/bW1nbWxndnY4NjBmMYjp8pl0N_A3H_W2VWAlVue2KFrIGsTAG2gG-1YdQPKE.png?format=pjpg&auto=webp&s=add3a5e8d2cd83058ae5397ee379a687c6b6c7e3']
+2025-05-11 16:43:09,106 - INFO - Video Path: https://v.redd.it/m98qjezv860f1/DASH_1080.mp4?source=fallback
+2025-05-11 16:43:09,683 - INFO - Downloaded media from https://v.redd.it/m98qjezv860f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-05-11 16:43:10,185 - INFO - Downloaded media from https://v.redd.it/m98qjezv860f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-05-11 16:43:10,487 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-11 16:43:35,899 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
