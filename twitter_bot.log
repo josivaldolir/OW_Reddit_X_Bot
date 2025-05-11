@@ -620,3 +620,10 @@ I don't know if adding hair would've look better, I kinda like it bald
 2025-05-11 19:36:19,793 - INFO - Downloaded media from https://preview.redd.it/glr7y7e3y60f1.jpeg?auto=webp&s=621e5b36b9e1f758600931d0b67fa494a33c8989 to temp_image.jpg
 2025-05-11 19:36:21,213 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-11 20:16:35,588 - INFO - Content: artists like cute characters
+
+2025-05-11 20:16:35,588 - INFO - Image Paths: ['https://preview.redd.it/gd40jb8s570f1.png?auto=webp&s=a2e3c5a2a3fb1c1942ed49766a767e3637dfe685']
+2025-05-11 20:16:35,588 - INFO - Video Path: 
+2025-05-11 20:16:35,679 - INFO - Downloaded media from https://preview.redd.it/gd40jb8s570f1.png?auto=webp&s=a2e3c5a2a3fb1c1942ed49766a767e3637dfe685 to temp_image.jpg
+2025-05-11 20:16:36,404 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
