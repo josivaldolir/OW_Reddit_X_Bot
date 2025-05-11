@@ -509,3 +509,9 @@ Back in 2018 I had cosplayed as Reinhardt's Lionhardt Skin from Overwatch. 🫡
 2025-05-11 13:42:31,318 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-11 13:42:37,864 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-11 14:13:41,476 - INFO - Content: Microwave go vrrrrrrrrrr
+
+2025-05-11 14:13:41,476 - INFO - Image Paths: ['https://preview.redd.it/vrbe6dyub50f1.png?auto=webp&s=869b76e06460487a00cb7ffd02b6b87787969f74']
+2025-05-11 14:13:41,476 - INFO - Video Path: 
+2025-05-11 14:13:41,693 - INFO - Downloaded media from https://preview.redd.it/vrbe6dyub50f1.png?auto=webp&s=869b76e06460487a00cb7ffd02b6b87787969f74 to temp_image.jpg
+2025-05-11 14:13:43,080 - INFO - Posted content successfully. Tweet ID: 1921569408213983394
