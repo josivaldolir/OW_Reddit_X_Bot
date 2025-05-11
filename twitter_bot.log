@@ -515,3 +515,11 @@ Too Many Requests
 2025-05-11 14:13:41,476 - INFO - Video Path: 
 2025-05-11 14:13:41,693 - INFO - Downloaded media from https://preview.redd.it/vrbe6dyub50f1.png?auto=webp&s=869b76e06460487a00cb7ffd02b6b87787969f74 to temp_image.jpg
 2025-05-11 14:13:43,080 - INFO - Posted content successfully. Tweet ID: 1921569408213983394
+2025-05-11 14:40:04,389 - INFO - Content: Insane Mauga Spots :)
+
+2025-05-11 14:40:04,389 - INFO - Image Paths: ['https://external-preview.redd.it/bzBtNTM2bXlkNTBmMR4H21RgnEgc9whxPKeTes67pwDXscVUbdjCUpy_SSlw.png?format=pjpg&auto=webp&s=cb122611d3c067da243c798f4b687996286c9c46']
+2025-05-11 14:40:04,389 - INFO - Video Path: https://v.redd.it/ru7ir4myd50f1/DASH_1080.mp4?source=fallback
+2025-05-11 14:40:05,030 - INFO - Downloaded media from https://v.redd.it/ru7ir4myd50f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-05-11 14:40:05,448 - INFO - Downloaded media from https://v.redd.it/ru7ir4myd50f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-05-11 14:40:08,657 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-11 14:40:33,827 - INFO - Posted content successfully. Tweet ID: 1921576165321699577
