@@ -405,3 +405,9 @@ Too Many Requests
 2025-05-11 06:45:36,293 - INFO - Downloaded media from https://external-preview.redd.it/oEh8dXdI5KL542fF8Rwa68vzJHA22r-Afi5xuyoWNYA.png?auto=webp&s=fb0cd2d7e1bf3d5effbc636728b43b3b7a9cad38 to temp_image.jpg
 2025-05-11 06:45:36,935 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-11 07:14:05,169 - INFO - Content: Thank goodness my widely outclassed main has a perk to... Make fan the hammer worse.
+There are worse heroes obviously but there's a reason why Cass isn't a must-pick like he was for years in OW1
+2025-05-11 07:14:05,169 - INFO - Image Paths: ['https://preview.redd.it/8clwszqvj10f1.png?auto=webp&s=87f7a295568143c5a9075b4af14b9a789d6d783b']
+2025-05-11 07:14:05,169 - INFO - Video Path: 
+2025-05-11 07:14:05,379 - INFO - Downloaded media from https://preview.redd.it/8clwszqvj10f1.png?auto=webp&s=87f7a295568143c5a9075b4af14b9a789d6d783b to temp_image.jpg
+2025-05-11 07:14:06,918 - INFO - Posted content successfully. Tweet ID: 1921463811778679081
