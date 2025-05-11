@@ -538,3 +538,9 @@ Too Many Requests
 2025-05-11 15:38:06,559 - INFO - Video Path: 
 2025-05-11 15:38:06,624 - INFO - Downloaded media from https://external-preview.redd.it/V6YZNu70GNlpiOMANykcltBe2Z6Qbm2Zm0KY9eyXYKM.png?auto=webp&s=0204744d82c0bab9b2b734b0e44d7b3c8939ee5e to temp_image.jpg
 2025-05-11 15:38:08,200 - INFO - Posted content successfully. Tweet ID: 1921590652426650069
+2025-05-11 16:17:37,580 - INFO - Content: How could this be?
+From a round in stadium, no one on my team died in the round yet every person on the other team got a kill. I’ve never seen this before, just genuinely confused. 
+2025-05-11 16:17:37,580 - INFO - Image Paths: ['https://preview.redd.it/7ibw7drp360f1.jpeg?auto=webp&s=da2ac31fd40f934aa9948b521d6465cca4fb2235']
+2025-05-11 16:17:37,580 - INFO - Video Path: 
+2025-05-11 16:17:37,648 - INFO - Downloaded media from https://preview.redd.it/7ibw7drp360f1.jpeg?auto=webp&s=da2ac31fd40f934aa9948b521d6465cca4fb2235 to temp_image.jpg
+2025-05-11 16:17:38,732 - INFO - Posted content successfully. Tweet ID: 1921600596416839747
