@@ -485,3 +485,12 @@ Too Many Requests
 2025-05-11 12:28:03,450 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-11 12:28:09,903 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-11 13:00:13,788 - INFO - Content: How we have been passing the time in stadium pregame
+
+2025-05-11 13:00:13,788 - INFO - Image Paths: ['https://external-preview.redd.it/cGU2aDVhNWhmMzBmMaSmpIAbAS0iSkc9iKpGZ5dv1fnBMYIlbo8iaND5Mi2J.png?format=pjpg&auto=webp&s=ea07268dd45b69f251ec6ff0af59d09ec74c0b13']
+2025-05-11 13:00:13,788 - INFO - Video Path: https://v.redd.it/rjly245hf30f1/DASH_1080.mp4?source=fallback
+2025-05-11 13:00:14,843 - INFO - Downloaded media from https://v.redd.it/rjly245hf30f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-05-11 13:00:15,776 - INFO - Downloaded media from https://v.redd.it/rjly245hf30f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-05-11 13:00:16,084 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-11 13:00:24,003 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
