@@ -398,3 +398,10 @@ There are worse heroes obviously but there's a reason why Cass isn't a must-pick
 2025-05-11 06:20:14,001 - INFO - Downloaded media from https://preview.redd.it/8clwszqvj10f1.png?auto=webp&s=87f7a295568143c5a9075b4af14b9a789d6d783b to temp_image.jpg
 2025-05-11 06:20:14,811 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-11 06:45:36,079 - INFO - Content: The signs were there all along
+
+2025-05-11 06:45:36,079 - INFO - Image Paths: ['https://external-preview.redd.it/oEh8dXdI5KL542fF8Rwa68vzJHA22r-Afi5xuyoWNYA.png?auto=webp&s=fb0cd2d7e1bf3d5effbc636728b43b3b7a9cad38']
+2025-05-11 06:45:36,079 - INFO - Video Path: 
+2025-05-11 06:45:36,293 - INFO - Downloaded media from https://external-preview.redd.it/oEh8dXdI5KL542fF8Rwa68vzJHA22r-Afi5xuyoWNYA.png?auto=webp&s=fb0cd2d7e1bf3d5effbc636728b43b3b7a9cad38 to temp_image.jpg
+2025-05-11 06:45:36,935 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
