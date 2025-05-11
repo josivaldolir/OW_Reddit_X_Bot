@@ -611,3 +611,12 @@ This was a little over a week ago.
 2025-05-11 19:13:04,913 - INFO - Video Path: 
 2025-05-11 19:13:05,117 - INFO - Downloaded media from https://preview.redd.it/4ob1hgqjo60f1.png?auto=webp&s=fcedd52fe642c1bec591ce8c51878d821c09b392 to temp_image.jpg
 2025-05-11 19:13:06,287 - INFO - Posted content successfully. Tweet ID: 1921644752132264383
+2025-05-11 19:36:19,669 - INFO - Content: I made a quick 3D model of what Akuma Doomfist could've looked like if he was part of the last collab
+I wanted him to shoot Ki from his knuckles and decided it would look great if his arm was corrupted by the Psycho Power or something 
+
+I don't know if adding hair would've look better, I kinda like it bald
+2025-05-11 19:36:19,669 - INFO - Image Paths: ['https://preview.redd.it/glr7y7e3y60f1.jpeg?auto=webp&s=621e5b36b9e1f758600931d0b67fa494a33c8989']
+2025-05-11 19:36:19,670 - INFO - Video Path: 
+2025-05-11 19:36:19,793 - INFO - Downloaded media from https://preview.redd.it/glr7y7e3y60f1.jpeg?auto=webp&s=621e5b36b9e1f758600931d0b67fa494a33c8989 to temp_image.jpg
+2025-05-11 19:36:21,213 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
