@@ -351,3 +351,9 @@ There are worse heroes obviously but there's a reason why Cass isn't a must-pick
 2025-05-11 01:17:08,195 - INFO - Downloaded media from https://preview.redd.it/8clwszqvj10f1.png?auto=webp&s=87f7a295568143c5a9075b4af14b9a789d6d783b to temp_image.jpg
 2025-05-11 01:17:08,860 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-11 02:58:51,331 - INFO - Content: My First Thought Today
+I've been seriously considering switching back since hearing the news. Anyone else in this boat?
+2025-05-11 02:58:51,331 - INFO - Image Paths: ['https://preview.redd.it/bx7zroew910f1.png?auto=webp&s=e886dba364a88f56c33829fb3f992074a1900afb']
+2025-05-11 02:58:51,331 - INFO - Video Path: 
+2025-05-11 02:58:51,398 - INFO - Downloaded media from https://preview.redd.it/bx7zroew910f1.png?auto=webp&s=e886dba364a88f56c33829fb3f992074a1900afb to temp_image.jpg
+2025-05-11 02:58:52,413 - INFO - Posted content successfully. Tweet ID: 1921399578571821475
