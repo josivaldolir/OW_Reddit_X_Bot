@@ -461,3 +461,9 @@ Learn more about the concept @ [https://www.kevingerstner.com/projects/overwatch
 2025-05-11 10:40:01,599 - INFO - Downloaded media from https://external-preview.redd.it/VG0ZdSzzRGXXCCb5pVviPS1Jclh8iqmcopsX2fyrRIg.jpeg?auto=webp&s=b4b940e05a5b999c8744013841957e5f177678c7 to temp_image.jpg
 2025-05-11 10:40:02,455 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-11 11:11:41,675 - INFO - Content: "I am a support, not your healer." - DPS Kiriko
+
+2025-05-11 11:11:41,675 - INFO - Image Paths: ['https://preview.redd.it/q8idbmc1130f1.gif?format=png8&s=f1f905c29e07ecadef3076fd0a3aca1c5c71ab4b']
+2025-05-11 11:11:41,675 - INFO - Video Path: 
+2025-05-11 11:11:41,720 - INFO - Downloaded media from https://preview.redd.it/q8idbmc1130f1.gif?format=png8&s=f1f905c29e07ecadef3076fd0a3aca1c5c71ab4b to temp_image.jpg
+2025-05-11 11:11:42,688 - INFO - Posted content successfully. Tweet ID: 1921523605638463717
