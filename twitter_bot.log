@@ -640,3 +640,10 @@ Too Many Requests
 2025-05-11 21:13:18,657 - INFO - Video Path: 
 2025-05-11 21:13:18,961 - INFO - Downloaded media from https://preview.redd.it/gd40jb8s570f1.png?auto=webp&s=a2e3c5a2a3fb1c1942ed49766a767e3637dfe685 to temp_image.jpg
 2025-05-11 21:13:20,064 - INFO - Posted content successfully. Tweet ID: 1921675008381952139
+2025-05-11 21:35:35,546 - INFO - Content: Why did Kiriko get a Juri skin and not an Ibuki skin?
+Unless there's some Street Fighter reason I'm missing out on, this feels incredibly forced. Juri doesn't even use weapons and, if she did, she's way more likely to be like Widowmaker, not a support. Ibuki LITERALLY uses kunai. I know Juri as this crazy cat foot fetishist lady, not a... healing ninja kitsune girl. Ibuki just feels like a much better choice.
+2025-05-11 21:35:35,546 - INFO - Image Paths: ['https://external-preview.redd.it/habbNd1kgry51nl0GeXUEjDoNsxXp7CnG9jhLIf3Aok.png?auto=webp&s=2700af80e83ebbed6fc84ba52af4a09a95938746']
+2025-05-11 21:35:35,546 - INFO - Video Path: 
+2025-05-11 21:35:35,760 - INFO - Downloaded media from https://external-preview.redd.it/habbNd1kgry51nl0GeXUEjDoNsxXp7CnG9jhLIf3Aok.png?auto=webp&s=2700af80e83ebbed6fc84ba52af4a09a95938746 to temp_image.jpg
+2025-05-11 21:35:36,458 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
