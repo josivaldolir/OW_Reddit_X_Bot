@@ -494,3 +494,9 @@ Too Many Requests
 2025-05-11 13:00:16,084 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-11 13:00:24,003 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-11 13:30:36,668 - INFO - Content: Reinhardt Cosplay from Overwatch
+Back in 2018 I had cosplayed as Reinhardt's Lionhardt Skin from Overwatch. 🫡
+2025-05-11 13:30:36,668 - INFO - Image Paths: ['https://external-preview.redd.it/4kJ0a_Ud5k2rsseSU3v1RawvtHHE-XSuYtbobCEl03o.jpeg?auto=webp&s=31fa53db6bb5419d57b6aa21c193efd78a711af1']
+2025-05-11 13:30:36,668 - INFO - Video Path: 
+2025-05-11 13:30:36,919 - INFO - Downloaded media from https://external-preview.redd.it/4kJ0a_Ud5k2rsseSU3v1RawvtHHE-XSuYtbobCEl03o.jpeg?auto=webp&s=31fa53db6bb5419d57b6aa21c193efd78a711af1 to temp_image.jpg
+2025-05-11 13:30:38,024 - INFO - Posted content successfully. Tweet ID: 1921558566705791013
