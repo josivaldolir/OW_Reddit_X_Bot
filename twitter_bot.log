@@ -370,3 +370,10 @@ Me and my friend were messing around teleporting out of bounds in a custom game 
 2025-05-11 04:18:11,267 - INFO - Downloaded media from https://preview.redd.it/lej57n9a210f1.png?auto=webp&s=8bfeee7bff71a136d9a0016626b98126a6697cbf to temp_image.jpg
 2025-05-11 04:18:12,450 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-11 04:43:27,038 - INFO - Content: The signs were there all along
+
+2025-05-11 04:43:27,038 - INFO - Image Paths: ['https://external-preview.redd.it/oEh8dXdI5KL542fF8Rwa68vzJHA22r-Afi5xuyoWNYA.png?auto=webp&s=fb0cd2d7e1bf3d5effbc636728b43b3b7a9cad38']
+2025-05-11 04:43:27,038 - INFO - Video Path: 
+2025-05-11 04:43:27,230 - INFO - Downloaded media from https://external-preview.redd.it/oEh8dXdI5KL542fF8Rwa68vzJHA22r-Afi5xuyoWNYA.png?auto=webp&s=fb0cd2d7e1bf3d5effbc636728b43b3b7a9cad38 to temp_image.jpg
+2025-05-11 04:43:28,050 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
