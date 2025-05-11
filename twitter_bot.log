@@ -627,3 +627,10 @@ Too Many Requests
 2025-05-11 20:16:35,679 - INFO - Downloaded media from https://preview.redd.it/gd40jb8s570f1.png?auto=webp&s=a2e3c5a2a3fb1c1942ed49766a767e3637dfe685 to temp_image.jpg
 2025-05-11 20:16:36,404 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-11 20:37:54,198 - INFO - Content: artists like cute characters
+
+2025-05-11 20:37:54,198 - INFO - Image Paths: ['https://preview.redd.it/gd40jb8s570f1.png?auto=webp&s=a2e3c5a2a3fb1c1942ed49766a767e3637dfe685']
+2025-05-11 20:37:54,198 - INFO - Video Path: 
+2025-05-11 20:37:54,226 - INFO - Downloaded media from https://preview.redd.it/gd40jb8s570f1.png?auto=webp&s=a2e3c5a2a3fb1c1942ed49766a767e3637dfe685 to temp_image.jpg
+2025-05-11 20:37:54,893 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
