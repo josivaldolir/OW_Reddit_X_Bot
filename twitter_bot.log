@@ -363,3 +363,10 @@ Chivalry is dead
 2025-05-11 03:44:18,738 - INFO - Video Path: 
 2025-05-11 03:44:18,970 - INFO - Downloaded media from https://preview.redd.it/lbssgjgdk20f1.jpeg?auto=webp&s=b4c38af8118ba2efd68583b1f373bb408cea0434 to temp_image.jpg
 2025-05-11 03:44:20,230 - INFO - Posted content successfully. Tweet ID: 1921411020117151753
+2025-05-11 04:18:11,115 - INFO - Content: Any idea why this is under route 66?
+Me and my friend were messing around teleporting out of bounds in a custom game and found this whilst flying behind defenders spawn 2. Any one know how or why this is here.
+2025-05-11 04:18:11,115 - INFO - Image Paths: ['https://preview.redd.it/lej57n9a210f1.png?auto=webp&s=8bfeee7bff71a136d9a0016626b98126a6697cbf']
+2025-05-11 04:18:11,115 - INFO - Video Path: 
+2025-05-11 04:18:11,267 - INFO - Downloaded media from https://preview.redd.it/lej57n9a210f1.png?auto=webp&s=8bfeee7bff71a136d9a0016626b98126a6697cbf to temp_image.jpg
+2025-05-11 04:18:12,450 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
