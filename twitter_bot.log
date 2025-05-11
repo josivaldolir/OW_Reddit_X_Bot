@@ -580,3 +580,11 @@ How do I cope with this? Do I just stop playing my favorite game?
 2025-05-11 17:37:59,909 - INFO - Downloaded media from https://preview.redd.it/0gnijlu3l60f1.png?auto=webp&s=ec28a9eeefb57b12f22f10577f0985f0c717dbff to temp_image.jpg
 2025-05-11 17:38:00,876 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-11 18:18:35,949 - INFO - Content: STOP RUNNING
+
+2025-05-11 18:18:35,949 - INFO - Image Paths: ['https://external-preview.redd.it/bW1nbWxndnY4NjBmMYjp8pl0N_A3H_W2VWAlVue2KFrIGsTAG2gG-1YdQPKE.png?format=pjpg&auto=webp&s=add3a5e8d2cd83058ae5397ee379a687c6b6c7e3']
+2025-05-11 18:18:35,949 - INFO - Video Path: https://v.redd.it/m98qjezv860f1/DASH_1080.mp4?source=fallback
+2025-05-11 18:18:36,274 - INFO - Downloaded media from https://v.redd.it/m98qjezv860f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-05-11 18:18:36,610 - INFO - Downloaded media from https://v.redd.it/m98qjezv860f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-05-11 18:18:37,401 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-11 18:19:02,084 - INFO - Posted content successfully. Tweet ID: 1921631145340346506
