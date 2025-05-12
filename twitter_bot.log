@@ -920,3 +920,9 @@ Too Many Requests
 2025-05-12 20:40:51,158 - INFO - Downloaded media from https://preview.redd.it/ki1eqh0rsd0f1.jpeg?auto=webp&s=1529061fb8968351ed611f556cbcff49dc380ed1 to temp_image.jpg
 2025-05-12 20:40:52,050 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-12 21:14:31,780 - INFO - Content: Reddits reaction to hero bans
+
+2025-05-12 21:14:31,780 - INFO - Image Paths: ['https://preview.redd.it/ki1eqh0rsd0f1.jpeg?auto=webp&s=1529061fb8968351ed611f556cbcff49dc380ed1']
+2025-05-12 21:14:31,780 - INFO - Video Path: 
+2025-05-12 21:14:31,894 - INFO - Downloaded media from https://preview.redd.it/ki1eqh0rsd0f1.jpeg?auto=webp&s=1529061fb8968351ed611f556cbcff49dc380ed1 to temp_image.jpg
+2025-05-12 21:14:32,975 - INFO - Posted content successfully. Tweet ID: 1922037702775734654
