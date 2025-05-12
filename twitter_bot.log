@@ -766,3 +766,10 @@ For the sake of consistency, I counted post season 9 mythics as battle pass skin
 2025-05-12 09:17:32,765 - INFO - Downloaded media from https://external-preview.redd.it/NuMYBtpbqmTZikB9K3vMnoQygR9MiFu76lAlg2wI_lc.png?auto=webp&s=c3c3d1b4b0904a610415f35e40c6268ce7e74226 to temp_image.jpg
 2025-05-12 09:17:33,333 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-12 09:41:29,200 - INFO - Content: "Why Doesn't Blizzard Listen to Our Skin Demands?"
+
+2025-05-12 09:41:29,200 - INFO - Image Paths: ['https://preview.redd.it/efti4p7owa0f1.png?auto=webp&s=23cfb11d64275c7f9cca490511a63cae6fb515a3']
+2025-05-12 09:41:29,200 - INFO - Video Path: 
+2025-05-12 09:41:29,324 - INFO - Downloaded media from https://preview.redd.it/efti4p7owa0f1.png?auto=webp&s=23cfb11d64275c7f9cca490511a63cae6fb515a3 to temp_image.jpg
+2025-05-12 09:41:30,390 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
