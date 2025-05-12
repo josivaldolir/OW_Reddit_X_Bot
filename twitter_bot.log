@@ -731,3 +731,9 @@ This question came to my head because I JUST finished watching Arcane and oh my 
 2025-05-12 06:49:47,427 - INFO - Video Path: 
 2025-05-12 06:49:47,579 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-12 07:16:04,735 - INFO - Content: Whiplash
+
+2025-05-12 07:16:04,735 - INFO - Image Paths: ['https://preview.redd.it/hiau1cgb590f1.jpeg?auto=webp&s=406a8a940d3b9e1cff2f2e361a3d5cca0a8c97eb']
+2025-05-12 07:16:04,735 - INFO - Video Path: 
+2025-05-12 07:16:05,001 - INFO - Downloaded media from https://preview.redd.it/hiau1cgb590f1.jpeg?auto=webp&s=406a8a940d3b9e1cff2f2e361a3d5cca0a8c97eb to temp_image.jpg
+2025-05-12 07:16:06,502 - INFO - Posted content successfully. Tweet ID: 1921826701635620868
