@@ -940,3 +940,10 @@ Too Many Requests
 2025-05-12 22:15:40,377 - INFO - Downloaded media from https://preview.redd.it/uh0mt3v67e0f1.png?auto=webp&s=d8bda7f49df5b641dc9d67a497efc7ddce418738 to temp_image.jpg
 2025-05-12 22:15:41,236 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-12 22:41:33,798 - INFO - Content: I'm a bronze tank. Why are there top 500 supports (playing support) in my games?
+I get it, it's quickplay, but come on now. We got fully spawnheld by their TOP 500 PLAYER. I don't expect great matchmaking, but "complete opposite ends of the MMR spectrum" feels a bit much?
+2025-05-12 22:41:33,798 - INFO - Image Paths: ['https://preview.redd.it/tm50phwc7e0f1.png?auto=webp&s=e75c8b33f5c1813437a13ec39b8ba6aade3b91b6']
+2025-05-12 22:41:33,798 - INFO - Video Path: 
+2025-05-12 22:41:33,839 - INFO - Downloaded media from https://preview.redd.it/tm50phwc7e0f1.png?auto=webp&s=e75c8b33f5c1813437a13ec39b8ba6aade3b91b6 to temp_image.jpg
+2025-05-12 22:41:34,557 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
