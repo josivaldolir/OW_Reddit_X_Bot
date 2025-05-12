@@ -687,3 +687,9 @@ Too Many Requests
 2025-05-12 02:58:02,101 - INFO - Downloaded media from https://preview.redd.it/1qeds4ap970f1.jpeg?auto=webp&s=bd1d4b1fe42802b1bb5ae0ca2e3ec517b9161d5e to temp_image.jpg
 2025-05-12 02:58:02,809 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-12 03:43:49,803 - INFO - Content: thoughts on the new soldier 76 skin?
+
+2025-05-12 03:43:49,803 - INFO - Image Paths: ['https://preview.redd.it/1qeds4ap970f1.jpeg?auto=webp&s=bd1d4b1fe42802b1bb5ae0ca2e3ec517b9161d5e']
+2025-05-12 03:43:49,803 - INFO - Video Path: 
+2025-05-12 03:43:50,053 - INFO - Downloaded media from https://preview.redd.it/1qeds4ap970f1.jpeg?auto=webp&s=bd1d4b1fe42802b1bb5ae0ca2e3ec517b9161d5e to temp_image.jpg
+2025-05-12 03:43:51,637 - INFO - Posted content successfully. Tweet ID: 1921773287841112554
