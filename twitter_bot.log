@@ -877,3 +877,12 @@ Too Many Requests
 2025-05-12 17:39:49,080 - INFO - Downloaded media from https://preview.redd.it/p27nkwi5wb0f1.png?auto=webp&s=d61f31c2352124a34fc306cef06201fec5470bb2 to temp_image.jpg
 2025-05-12 17:39:50,017 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-12 18:21:21,404 - INFO - Content: Will this area ever be used?
+I believe there are other areas in other maps that are unused too.. and just like this one it’s been sitting there for awhile, only one used was Kings Row during the PvE event
+Credit to u/Crashbash111
+2025-05-12 18:21:21,404 - INFO - Image Paths: ['https://external-preview.redd.it/cWZ0Z2ZwZHI3ZDBmMcOMz5LE1zU64BDzmumW-jWowrJECWl8jatu9VqtCorO.png?format=pjpg&auto=webp&s=04f87377bdecbb6c0fb51045778222ac52d62f13']
+2025-05-12 18:21:21,404 - INFO - Video Path: https://v.redd.it/1ry87ogr7d0f1/DASH_720.mp4?source=fallback
+2025-05-12 18:21:21,682 - INFO - Downloaded media from https://v.redd.it/1ry87ogr7d0f1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-05-12 18:21:21,753 - INFO - Downloaded media from https://v.redd.it/1ry87ogr7d0f1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-05-12 18:21:23,506 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-12 18:21:41,818 - INFO - Posted content successfully. Tweet ID: 1921994202923376729
