@@ -700,3 +700,10 @@ Too Many Requests
 2025-05-12 04:19:52,234 - INFO - Downloaded media from https://preview.redd.it/hiau1cgb590f1.jpeg?auto=webp&s=406a8a940d3b9e1cff2f2e361a3d5cca0a8c97eb to temp_image.jpg
 2025-05-12 04:19:53,342 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-12 04:44:27,523 - INFO - Content: Whiplash
+
+2025-05-12 04:44:27,523 - INFO - Image Paths: ['https://preview.redd.it/hiau1cgb590f1.jpeg?auto=webp&s=406a8a940d3b9e1cff2f2e361a3d5cca0a8c97eb']
+2025-05-12 04:44:27,523 - INFO - Video Path: 
+2025-05-12 04:44:27,702 - INFO - Downloaded media from https://preview.redd.it/hiau1cgb590f1.jpeg?auto=webp&s=406a8a940d3b9e1cff2f2e361a3d5cca0a8c97eb to temp_image.jpg
+2025-05-12 04:44:28,446 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
