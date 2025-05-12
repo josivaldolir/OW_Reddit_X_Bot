@@ -752,3 +752,10 @@ This question came to my head because I JUST finished watching Arcane and oh my 
 2025-05-12 08:21:24,831 - INFO - Video Path: 
 2025-05-12 08:21:24,974 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-12 08:47:18,081 - INFO - Content: "Why Doesn't Blizzard Listen to Our Skin Demands?"
+
+2025-05-12 08:47:18,081 - INFO - Image Paths: ['https://preview.redd.it/efti4p7owa0f1.png?auto=webp&s=23cfb11d64275c7f9cca490511a63cae6fb515a3']
+2025-05-12 08:47:18,081 - INFO - Video Path: 
+2025-05-12 08:47:18,175 - INFO - Downloaded media from https://preview.redd.it/efti4p7owa0f1.png?auto=webp&s=23cfb11d64275c7f9cca490511a63cae6fb515a3 to temp_image.jpg
+2025-05-12 08:47:18,880 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
