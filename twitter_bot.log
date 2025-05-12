@@ -892,3 +892,10 @@ Credit to u/Crashbash111
 2025-05-12 18:48:15,816 - INFO - Video Path: 
 2025-05-12 18:48:15,928 - INFO - Downloaded media from https://preview.redd.it/p27nkwi5wb0f1.png?auto=webp&s=d61f31c2352124a34fc306cef06201fec5470bb2 to temp_image.jpg
 2025-05-12 18:48:17,264 - INFO - Posted content successfully. Tweet ID: 1922000893941317834
+2025-05-12 19:12:43,571 - INFO - Content: Reddits reaction to hero bans
+
+2025-05-12 19:12:43,571 - INFO - Image Paths: ['https://preview.redd.it/ki1eqh0rsd0f1.jpeg?auto=webp&s=1529061fb8968351ed611f556cbcff49dc380ed1']
+2025-05-12 19:12:43,571 - INFO - Video Path: 
+2025-05-12 19:12:43,601 - INFO - Downloaded media from https://preview.redd.it/ki1eqh0rsd0f1.jpeg?auto=webp&s=1529061fb8968351ed611f556cbcff49dc380ed1 to temp_image.jpg
+2025-05-12 19:12:44,308 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
