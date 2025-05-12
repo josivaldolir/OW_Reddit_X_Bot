@@ -737,3 +737,12 @@ Too Many Requests
 2025-05-12 07:16:04,735 - INFO - Video Path: 
 2025-05-12 07:16:05,001 - INFO - Downloaded media from https://preview.redd.it/hiau1cgb590f1.jpeg?auto=webp&s=406a8a940d3b9e1cff2f2e361a3d5cca0a8c97eb to temp_image.jpg
 2025-05-12 07:16:06,502 - INFO - Posted content successfully. Tweet ID: 1921826701635620868
+2025-05-12 07:38:11,689 - INFO - Content: please stop running away from me when I'm actively trying to help you😭
+
+2025-05-12 07:38:11,689 - INFO - Image Paths: ['https://external-preview.redd.it/b2htYjN3N2piOTBmMcwG8_lvCwe-QxScMhxeudnTVWBCeznSlI2jBg0aaOaW.png?format=pjpg&auto=webp&s=02ac5f3e477fcd9505a95f8e8164b7eb3902beb6']
+2025-05-12 07:38:11,689 - INFO - Video Path: https://v.redd.it/p5to5w7jb90f1/DASH_480.mp4?source=fallback
+2025-05-12 07:38:11,856 - INFO - Downloaded media from https://v.redd.it/p5to5w7jb90f1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-05-12 07:38:11,877 - INFO - Downloaded media from https://v.redd.it/p5to5w7jb90f1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-05-12 07:38:12,241 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-12 07:38:14,085 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
