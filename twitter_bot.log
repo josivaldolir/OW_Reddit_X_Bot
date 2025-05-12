@@ -863,3 +863,10 @@ Too Many Requests
 2025-05-12 16:48:59,755 - INFO - Downloaded media from https://preview.redd.it/p27nkwi5wb0f1.png?auto=webp&s=d61f31c2352124a34fc306cef06201fec5470bb2 to temp_image.jpg
 2025-05-12 16:49:00,788 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-12 17:13:12,717 - INFO - Content: He's so excited for her, good for he.
+
+2025-05-12 17:13:12,717 - INFO - Image Paths: ['https://preview.redd.it/p27nkwi5wb0f1.png?auto=webp&s=d61f31c2352124a34fc306cef06201fec5470bb2']
+2025-05-12 17:13:12,717 - INFO - Video Path: 
+2025-05-12 17:13:12,813 - INFO - Downloaded media from https://preview.redd.it/p27nkwi5wb0f1.png?auto=webp&s=d61f31c2352124a34fc306cef06201fec5470bb2 to temp_image.jpg
+2025-05-12 17:13:13,613 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
