@@ -674,3 +674,9 @@ Unless there's some Street Fighter reason I'm missing out on, this feels incredi
 2025-05-11 23:36:43,525 - INFO - Downloaded media from https://preview.redd.it/ky1bgk5rz70f1.jpeg?auto=webp&s=ff0b15abab6ff5c2fa0dff694ee2c048bc18adbf to temp_image.jpg
 2025-05-11 23:36:44,467 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-12 01:15:41,803 - INFO - Content: I can hardly believe my optics when i see STATS LIKE THESE
+
+2025-05-12 01:15:41,803 - INFO - Image Paths: ['https://preview.redd.it/ky1bgk5rz70f1.jpeg?auto=webp&s=ff0b15abab6ff5c2fa0dff694ee2c048bc18adbf']
+2025-05-12 01:15:41,803 - INFO - Video Path: 
+2025-05-12 01:15:42,847 - INFO - Downloaded media from https://preview.redd.it/ky1bgk5rz70f1.jpeg?auto=webp&s=ff0b15abab6ff5c2fa0dff694ee2c048bc18adbf to temp_image.jpg
+2025-05-12 01:15:43,999 - INFO - Posted content successfully. Tweet ID: 1921736010796503390
