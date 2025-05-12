@@ -821,3 +821,10 @@ For the sake of consistency, I counted post season 9 mythics as battle pass skin
 2025-05-12 13:47:58,780 - INFO - Downloaded media from https://preview.redd.it/p27nkwi5wb0f1.png?auto=webp&s=d61f31c2352124a34fc306cef06201fec5470bb2 to temp_image.jpg
 2025-05-12 13:47:59,530 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-12 14:17:33,380 - INFO - Content: He's so excited for her, good for he.
+
+2025-05-12 14:17:33,380 - INFO - Image Paths: ['https://preview.redd.it/p27nkwi5wb0f1.png?auto=webp&s=d61f31c2352124a34fc306cef06201fec5470bb2']
+2025-05-12 14:17:33,380 - INFO - Video Path: 
+2025-05-12 14:17:33,404 - INFO - Downloaded media from https://preview.redd.it/p27nkwi5wb0f1.png?auto=webp&s=d61f31c2352124a34fc306cef06201fec5470bb2 to temp_image.jpg
+2025-05-12 14:17:33,992 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
