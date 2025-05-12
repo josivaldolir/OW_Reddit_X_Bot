@@ -886,3 +886,9 @@ Credit to u/Crashbash111
 2025-05-12 18:21:21,753 - INFO - Downloaded media from https://v.redd.it/1ry87ogr7d0f1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-05-12 18:21:23,506 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-12 18:21:41,818 - INFO - Posted content successfully. Tweet ID: 1921994202923376729
+2025-05-12 18:48:15,816 - INFO - Content: He's so excited for her, good for he.
+
+2025-05-12 18:48:15,816 - INFO - Image Paths: ['https://preview.redd.it/p27nkwi5wb0f1.png?auto=webp&s=d61f31c2352124a34fc306cef06201fec5470bb2']
+2025-05-12 18:48:15,816 - INFO - Video Path: 
+2025-05-12 18:48:15,928 - INFO - Downloaded media from https://preview.redd.it/p27nkwi5wb0f1.png?auto=webp&s=d61f31c2352124a34fc306cef06201fec5470bb2 to temp_image.jpg
+2025-05-12 18:48:17,264 - INFO - Posted content successfully. Tweet ID: 1922000893941317834
