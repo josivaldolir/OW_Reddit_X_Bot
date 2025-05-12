@@ -947,3 +947,10 @@ I get it, it's quickplay, but come on now. We got fully spawnheld by their TOP 5
 2025-05-12 22:41:33,839 - INFO - Downloaded media from https://preview.redd.it/tm50phwc7e0f1.png?auto=webp&s=e75c8b33f5c1813437a13ec39b8ba6aade3b91b6 to temp_image.jpg
 2025-05-12 22:41:34,557 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-12 23:14:19,671 - INFO - Content: Art
+
+2025-05-12 23:14:19,671 - INFO - Image Paths: ['https://preview.redd.it/uh0mt3v67e0f1.png?auto=webp&s=d8bda7f49df5b641dc9d67a497efc7ddce418738']
+2025-05-12 23:14:19,671 - INFO - Video Path: 
+2025-05-12 23:14:19,824 - INFO - Downloaded media from https://preview.redd.it/uh0mt3v67e0f1.png?auto=webp&s=d8bda7f49df5b641dc9d67a497efc7ddce418738 to temp_image.jpg
+2025-05-12 23:14:20,723 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
