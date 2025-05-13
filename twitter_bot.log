@@ -1087,3 +1087,9 @@ Too Many Requests
 2025-05-13 11:36:57,540 - INFO - Downloaded media from https://preview.redd.it/bo9kyjul5j0f1.jpeg?auto=webp&s=63144ca1ce0e3d0f6c83c6bc9ff4d429b927502a to temp_image.jpg
 2025-05-13 11:36:58,477 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-13 12:33:13,546 - INFO - Content: I'm tired, bos
+
+2025-05-13 12:33:13,546 - INFO - Image Paths: ['https://preview.redd.it/bo9kyjul5j0f1.jpeg?auto=webp&s=63144ca1ce0e3d0f6c83c6bc9ff4d429b927502a']
+2025-05-13 12:33:13,546 - INFO - Video Path: 
+2025-05-13 12:33:14,088 - INFO - Downloaded media from https://preview.redd.it/bo9kyjul5j0f1.jpeg?auto=webp&s=63144ca1ce0e3d0f6c83c6bc9ff4d429b927502a to temp_image.jpg
+2025-05-13 12:33:15,070 - INFO - Posted content successfully. Tweet ID: 1922268901838356704
