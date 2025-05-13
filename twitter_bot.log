@@ -1199,3 +1199,12 @@ For me is sojourn, I am 100% convince that 90% of the people playing her only be
 2025-05-13 20:17:21,347 - INFO - Downloaded media from https://external-preview.redd.it/jADADyVxN7DR67Yjb8nY7ELJ9d6AC2lgJNlLqUBRbUc.jpeg?auto=webp&s=c397aa827ccc6086f7dc317fc474f6d9972a8201 to temp_image.jpg
 2025-05-13 20:17:22,211 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-13 20:41:59,326 - INFO - Content: Remove sombra from comp then 😂🤷‍♂️
+
+2025-05-13 20:41:59,326 - INFO - Image Paths: ['https://external-preview.redd.it/c3NmYXN4Z3p3aTBmMd0Lc5_qS_345KHqSp2kWAEgUOVy6Ipc8X8StcJLcf1E.png?format=pjpg&auto=webp&s=8c8f3fa8b8a60fb2808b67b8eae04f46a430f39c']
+2025-05-13 20:41:59,327 - INFO - Video Path: https://v.redd.it/yug6rzdzwi0f1/DASH_480.mp4?source=fallback
+2025-05-13 20:41:59,405 - INFO - Downloaded media from https://v.redd.it/yug6rzdzwi0f1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-05-13 20:41:59,440 - INFO - Downloaded media from https://v.redd.it/yug6rzdzwi0f1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-05-13 20:42:03,674 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-13 20:42:12,026 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
