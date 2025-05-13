@@ -1149,3 +1149,9 @@ Too Many Requests
 2025-05-13 16:48:37,484 - INFO - Downloaded media from https://preview.redd.it/odfmx9pc1k0f1.jpeg?auto=webp&s=2617af21d0c00ecb0b953f63008b5ebba5ffcee0 to temp_image.jpg
 2025-05-13 16:48:38,433 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-13 17:14:10,834 - INFO - Content: Average Lucio gameplay
+
+2025-05-13 17:14:10,834 - INFO - Image Paths: ['https://preview.redd.it/odfmx9pc1k0f1.jpeg?auto=webp&s=2617af21d0c00ecb0b953f63008b5ebba5ffcee0']
+2025-05-13 17:14:10,834 - INFO - Video Path: 
+2025-05-13 17:14:10,884 - INFO - Downloaded media from https://preview.redd.it/odfmx9pc1k0f1.jpeg?auto=webp&s=2617af21d0c00ecb0b953f63008b5ebba5ffcee0 to temp_image.jpg
+2025-05-13 17:14:11,995 - INFO - Posted content successfully. Tweet ID: 1922339604650459574
