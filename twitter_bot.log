@@ -1059,3 +1059,10 @@ I get it, it's quickplay, but come on now. We got fully spawnheld by their TOP 5
 2025-05-13 09:41:16,298 - INFO - Video Path: 
 2025-05-13 09:41:16,520 - INFO - Downloaded media from https://preview.redd.it/tm50phwc7e0f1.png?auto=webp&s=e75c8b33f5c1813437a13ec39b8ba6aade3b91b6 to temp_image.jpg
 2025-05-13 09:41:17,549 - INFO - Posted content successfully. Tweet ID: 1922225626649657791
+2025-05-13 10:17:02,018 - INFO - Content: Sombra defence league.
+
+2025-05-13 10:17:02,018 - INFO - Image Paths: ['https://preview.redd.it/qtz0e8peki0f1.jpeg?auto=webp&s=3879611745c163c02cc6c7ec9fd046a35ea5b250']
+2025-05-13 10:17:02,018 - INFO - Video Path: 
+2025-05-13 10:17:02,172 - INFO - Downloaded media from https://preview.redd.it/qtz0e8peki0f1.jpeg?auto=webp&s=3879611745c163c02cc6c7ec9fd046a35ea5b250 to temp_image.jpg
+2025-05-13 10:17:02,889 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
