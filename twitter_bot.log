@@ -968,3 +968,10 @@ like and subscivr andturn on notifs for more
 2025-05-13 01:14:02,475 - INFO - Downloaded media from https://external-preview.redd.it/C8NlEYYdwQwYasYGdUjnkPLS2qKa5ujS0VnFOk1FgKU.jpeg?auto=webp&s=a8b8f050bb404cdf16ff6efb845368868d39210f to temp_image.jpg
 2025-05-13 01:14:03,495 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-13 02:56:10,215 - INFO - Content: WTF the new Sigma skin is gonna cost $12,000?? Wtf is Blizzard thinking??
+
+2025-05-13 02:56:10,215 - INFO - Image Paths: ['https://preview.redd.it/bfsx2xp56g0f1.jpeg?auto=webp&s=1f8c4f8c8d4167c8d6e77e7caee9252222190bf4']
+2025-05-13 02:56:10,215 - INFO - Video Path: 
+2025-05-13 02:56:10,233 - INFO - Downloaded media from https://preview.redd.it/bfsx2xp56g0f1.jpeg?auto=webp&s=1f8c4f8c8d4167c8d6e77e7caee9252222190bf4 to temp_image.jpg
+2025-05-13 02:56:10,895 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
