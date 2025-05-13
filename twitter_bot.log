@@ -1047,3 +1047,9 @@ You can see 3-4 missiles shoot out every time the Reaper shoots.
 2025-05-13 08:47:28,056 - INFO - Downloaded media from https://v.redd.it/n2yr652faf0f1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-05-13 08:47:28,852 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-13 08:47:39,685 - INFO - Posted content successfully. Tweet ID: 1922212130105000203
+2025-05-13 09:16:56,603 - INFO - Content: Why we catching strays😔
+
+2025-05-13 09:16:56,603 - INFO - Image Paths: ['https://preview.redd.it/mvu71owu8h0f1.png?auto=webp&s=330748fbc5fe556141dbac52b7f47a1a8a8ff84f']
+2025-05-13 09:16:56,603 - INFO - Video Path: 
+2025-05-13 09:16:56,676 - INFO - Downloaded media from https://preview.redd.it/mvu71owu8h0f1.png?auto=webp&s=330748fbc5fe556141dbac52b7f47a1a8a8ff84f to temp_image.jpg
+2025-05-13 09:16:57,520 - INFO - Posted content successfully. Tweet ID: 1922219502973956309
