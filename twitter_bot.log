@@ -1073,3 +1073,10 @@ Too Many Requests
 2025-05-13 10:45:09,326 - INFO - Downloaded media from https://preview.redd.it/qtz0e8peki0f1.jpeg?auto=webp&s=3879611745c163c02cc6c7ec9fd046a35ea5b250 to temp_image.jpg
 2025-05-13 10:45:10,032 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-13 11:13:36,555 - INFO - Content: Sombra defence league.
+
+2025-05-13 11:13:36,555 - INFO - Image Paths: ['https://preview.redd.it/qtz0e8peki0f1.jpeg?auto=webp&s=3879611745c163c02cc6c7ec9fd046a35ea5b250']
+2025-05-13 11:13:36,555 - INFO - Video Path: 
+2025-05-13 11:13:36,792 - INFO - Downloaded media from https://preview.redd.it/qtz0e8peki0f1.jpeg?auto=webp&s=3879611745c163c02cc6c7ec9fd046a35ea5b250 to temp_image.jpg
+2025-05-13 11:13:37,593 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
