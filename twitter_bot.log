@@ -1161,3 +1161,12 @@ For me is sojourn, I am 100% convince that 90% of the people playing her only be
 2025-05-13 17:41:52,235 - INFO - Video Path: 
 2025-05-13 17:41:52,470 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-13 18:21:44,452 - INFO - Content: Remove sombra from comp then 😂🤷‍♂️
+
+2025-05-13 18:21:44,452 - INFO - Image Paths: ['https://external-preview.redd.it/c3NmYXN4Z3p3aTBmMd0Lc5_qS_345KHqSp2kWAEgUOVy6Ipc8X8StcJLcf1E.png?format=pjpg&auto=webp&s=8c8f3fa8b8a60fb2808b67b8eae04f46a430f39c']
+2025-05-13 18:21:44,452 - INFO - Video Path: https://v.redd.it/yug6rzdzwi0f1/DASH_480.mp4?source=fallback
+2025-05-13 18:21:44,643 - INFO - Downloaded media from https://v.redd.it/yug6rzdzwi0f1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-05-13 18:21:44,746 - INFO - Downloaded media from https://v.redd.it/yug6rzdzwi0f1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-05-13 18:21:45,364 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-13 18:21:50,711 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
