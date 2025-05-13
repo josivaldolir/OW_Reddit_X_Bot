@@ -1020,3 +1020,10 @@ like and subscivr andturn on notifs for more
 2025-05-13 06:48:45,977 - INFO - Downloaded media from https://external-preview.redd.it/C8NlEYYdwQwYasYGdUjnkPLS2qKa5ujS0VnFOk1FgKU.jpeg?auto=webp&s=a8b8f050bb404cdf16ff6efb845368868d39210f to temp_image.jpg
 2025-05-13 06:48:46,695 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-13 07:15:55,819 - INFO - Content: ship scenarios I thought of while while laying on the floor
+like and subscivr andturn on notifs for more
+2025-05-13 07:15:55,819 - INFO - Image Paths: ['https://external-preview.redd.it/C8NlEYYdwQwYasYGdUjnkPLS2qKa5ujS0VnFOk1FgKU.jpeg?auto=webp&s=a8b8f050bb404cdf16ff6efb845368868d39210f']
+2025-05-13 07:15:55,819 - INFO - Video Path: 
+2025-05-13 07:15:55,893 - INFO - Downloaded media from https://external-preview.redd.it/C8NlEYYdwQwYasYGdUjnkPLS2qKa5ujS0VnFOk1FgKU.jpeg?auto=webp&s=a8b8f050bb404cdf16ff6efb845368868d39210f to temp_image.jpg
+2025-05-13 07:15:56,640 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
