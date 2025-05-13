@@ -1214,3 +1214,11 @@ Too Many Requests
 2025-05-13 21:14:37,647 - INFO - Video Path: 
 2025-05-13 21:14:37,705 - INFO - Downloaded media from https://external-preview.redd.it/jADADyVxN7DR67Yjb8nY7ELJ9d6AC2lgJNlLqUBRbUc.jpeg?auto=webp&s=c397aa827ccc6086f7dc317fc474f6d9972a8201 to temp_image.jpg
 2025-05-13 21:14:38,732 - INFO - Posted content successfully. Tweet ID: 1922400114766971194
+2025-05-13 22:15:43,213 - INFO - Content: Remove sombra from comp then 😂🤷‍♂️
+
+2025-05-13 22:15:43,214 - INFO - Image Paths: ['https://external-preview.redd.it/c3NmYXN4Z3p3aTBmMd0Lc5_qS_345KHqSp2kWAEgUOVy6Ipc8X8StcJLcf1E.png?format=pjpg&auto=webp&s=8c8f3fa8b8a60fb2808b67b8eae04f46a430f39c']
+2025-05-13 22:15:43,214 - INFO - Video Path: https://v.redd.it/yug6rzdzwi0f1/DASH_480.mp4?source=fallback
+2025-05-13 22:15:43,394 - INFO - Downloaded media from https://v.redd.it/yug6rzdzwi0f1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-05-13 22:15:43,423 - INFO - Downloaded media from https://v.redd.it/yug6rzdzwi0f1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-05-13 22:15:47,199 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-13 22:15:51,686 - INFO - Posted content successfully. Tweet ID: 1922415520621748375
