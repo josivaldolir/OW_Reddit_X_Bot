@@ -1463,3 +1463,10 @@ Too Many Requests
 2025-05-14 18:46:25,909 - INFO - Downloaded media from https://preview.redd.it/s58s83w1ur0f1.png?auto=webp&s=19c0039b906c2b22a27af8ebb10ab8370e409c57 to temp_image.jpg
 2025-05-14 18:46:26,642 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-14 19:14:18,776 - INFO - Content: Fear the succ
+
+2025-05-14 19:14:18,776 - INFO - Image Paths: ['https://preview.redd.it/s58s83w1ur0f1.png?auto=webp&s=19c0039b906c2b22a27af8ebb10ab8370e409c57']
+2025-05-14 19:14:18,776 - INFO - Video Path: 
+2025-05-14 19:14:19,003 - INFO - Downloaded media from https://preview.redd.it/s58s83w1ur0f1.png?auto=webp&s=19c0039b906c2b22a27af8ebb10ab8370e409c57 to temp_image.jpg
+2025-05-14 19:14:19,836 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
