@@ -1311,3 +1311,10 @@ Can someone please explain to me how she’s not dizzy yet? She’s been doing t
 2025-05-14 07:15:22,108 - INFO - Downloaded media from https://preview.redd.it/vu44pb59tn0f1.gif?format=png8&s=4165fb499df92422e5e8b6134c28f82ae7d4f8ef to temp_image.jpg
 2025-05-14 07:15:22,758 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-14 07:38:07,790 - INFO - Content: Roses are red, Juno’s my fave
+Can someone please explain to me how she’s not dizzy yet? She’s been doing this for weeks!
+2025-05-14 07:38:07,790 - INFO - Image Paths: ['https://preview.redd.it/vu44pb59tn0f1.gif?format=png8&s=4165fb499df92422e5e8b6134c28f82ae7d4f8ef']
+2025-05-14 07:38:07,790 - INFO - Video Path: 
+2025-05-14 07:38:07,817 - INFO - Downloaded media from https://preview.redd.it/vu44pb59tn0f1.gif?format=png8&s=4165fb499df92422e5e8b6134c28f82ae7d4f8ef to temp_image.jpg
+2025-05-14 07:38:08,600 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
