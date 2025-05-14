@@ -1351,3 +1351,10 @@ Also I need advices for Zenyatta
 2025-05-14 10:16:45,385 - INFO - Downloaded media from https://preview.redd.it/cawgcdmzln0f1.png?auto=webp&s=49f23b4852be66858219a7e17bc52d720238c460 to temp_image.jpg
 2025-05-14 10:16:46,155 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-14 10:44:03,110 - INFO - Content: Just curious
+
+2025-05-14 10:44:03,110 - INFO - Image Paths: ['https://preview.redd.it/hi3lusil1q0f1.png?auto=webp&s=8c6cae849a04ac1f9d4029b984b9cce0ebf4077f']
+2025-05-14 10:44:03,110 - INFO - Video Path: 
+2025-05-14 10:44:03,284 - INFO - Downloaded media from https://preview.redd.it/hi3lusil1q0f1.png?auto=webp&s=8c6cae849a04ac1f9d4029b984b9cce0ebf4077f to temp_image.jpg
+2025-05-14 10:44:04,095 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
