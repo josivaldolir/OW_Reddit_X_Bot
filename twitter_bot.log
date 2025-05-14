@@ -1298,3 +1298,9 @@ Too Many Requests
 2025-05-14 06:23:07,871 - INFO - Downloaded media from https://preview.redd.it/3j9p66ox3o0f1.png?auto=webp&s=da41a2e9655689faddf3242c9355d0135f67683e to temp_image.jpg
 2025-05-14 06:23:08,552 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-14 06:49:14,543 - INFO - Content: where are my echo skins you tin can
+
+2025-05-14 06:49:14,543 - INFO - Image Paths: ['https://preview.redd.it/3j9p66ox3o0f1.png?auto=webp&s=da41a2e9655689faddf3242c9355d0135f67683e']
+2025-05-14 06:49:14,543 - INFO - Video Path: 
+2025-05-14 06:49:14,794 - INFO - Downloaded media from https://preview.redd.it/3j9p66ox3o0f1.png?auto=webp&s=da41a2e9655689faddf3242c9355d0135f67683e to temp_image.jpg
+2025-05-14 06:49:16,356 - INFO - Posted content successfully. Tweet ID: 1922544723295928414
