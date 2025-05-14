@@ -1337,3 +1337,10 @@ https://x.com/breikka/status/1922441732308000958?t=RNpHaLdQTBJz9idkGYbDCA&s=19
 2025-05-14 09:16:27,730 - INFO - Video Path: 
 2025-05-14 09:16:27,779 - INFO - Downloaded media from https://preview.redd.it/rdbi11q03o0f1.jpeg?auto=webp&s=35a92fc2acc70f5f1381c72e606435813425ca94 to temp_image.jpg
 2025-05-14 09:16:28,728 - INFO - Posted content successfully. Tweet ID: 1922581770148433956
+2025-05-14 09:40:34,671 - INFO - Content: The actual bane of my existence
+If you ever feel useless, just remember there is a reinhardt player out there going up against these three at once in Stadium.
+2025-05-14 09:40:34,671 - INFO - Image Paths: ['https://preview.redd.it/4afrtfffvm0f1.jpeg?auto=webp&s=b5479ee71feb66192bd084279159d2bc503c98f7']
+2025-05-14 09:40:34,671 - INFO - Video Path: 
+2025-05-14 09:40:34,800 - INFO - Downloaded media from https://preview.redd.it/4afrtfffvm0f1.jpeg?auto=webp&s=b5479ee71feb66192bd084279159d2bc503c98f7 to temp_image.jpg
+2025-05-14 09:40:35,496 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
