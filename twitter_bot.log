@@ -1243,3 +1243,10 @@ Too Many Requests
 2025-05-13 23:38:56,714 - INFO - Downloaded media from https://preview.redd.it/qtz0e8peki0f1.jpeg?auto=webp&s=3879611745c163c02cc6c7ec9fd046a35ea5b250 to temp_image.jpg
 2025-05-13 23:38:57,423 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-14 01:12:53,089 - INFO - Content: "Maximilien’s Vault is opening in the Shop for a limited time, offering personalized discounts on hero skins tailored to your playstyle."
+(I have received a grand total of 1 skin for my combined top 10 most played heroes)
+2025-05-14 01:12:53,089 - INFO - Image Paths: ['https://preview.redd.it/71wxv02m0m0f1.png?auto=webp&s=939d219579e00e19363d8aa412623a3fdf4f3e49']
+2025-05-14 01:12:53,089 - INFO - Video Path: 
+2025-05-14 01:12:53,168 - INFO - Downloaded media from https://preview.redd.it/71wxv02m0m0f1.png?auto=webp&s=939d219579e00e19363d8aa412623a3fdf4f3e49 to temp_image.jpg
+2025-05-14 01:12:53,894 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
