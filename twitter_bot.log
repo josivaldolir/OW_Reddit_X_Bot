@@ -1385,3 +1385,9 @@ If you ever feel useless, just remember there is a reinhardt player out there go
 2025-05-14 13:27:42,289 - INFO - Downloaded media from https://preview.redd.it/4afrtfffvm0f1.jpeg?auto=webp&s=b5479ee71feb66192bd084279159d2bc503c98f7 to temp_image.jpg
 2025-05-14 13:27:43,045 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-14 13:53:34,484 - INFO - Content: Which skins do you believe are the most underrated? For me it's the Polar skins.
+I've seen a couple of people saying these skins are boring/uninteresting, but I personally love Overwatch's (the in-game organization) aesthetics, and the combination of white, black & orange look really good. I wish more heroes got skins like this in the future.
+2025-05-14 13:53:34,485 - INFO - Image Paths: ['https://preview.redd.it/pebruo78vq0f1.png?auto=webp&s=e33f4a61c44e4037a06355c90966786c15fcfca2']
+2025-05-14 13:53:34,485 - INFO - Video Path: 
+2025-05-14 13:53:34,759 - INFO - Downloaded media from https://preview.redd.it/pebruo78vq0f1.png?auto=webp&s=e33f4a61c44e4037a06355c90966786c15fcfca2 to temp_image.jpg
+2025-05-14 13:53:36,900 - INFO - Posted content successfully. Tweet ID: 1922651510225391686
