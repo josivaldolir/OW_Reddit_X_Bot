@@ -1277,3 +1277,10 @@ If you ever feel useless, just remember there is a reinhardt player out there go
 2025-05-14 04:44:06,690 - INFO - Downloaded media from https://preview.redd.it/4afrtfffvm0f1.jpeg?auto=webp&s=b5479ee71feb66192bd084279159d2bc503c98f7 to temp_image.jpg
 2025-05-14 04:44:07,538 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-14 05:15:32,890 - INFO - Content: The actual bane of my existence
+If you ever feel useless, just remember there is a reinhardt player out there going up against these three at once in Stadium.
+2025-05-14 05:15:32,890 - INFO - Image Paths: ['https://preview.redd.it/4afrtfffvm0f1.jpeg?auto=webp&s=b5479ee71feb66192bd084279159d2bc503c98f7']
+2025-05-14 05:15:32,890 - INFO - Video Path: 
+2025-05-14 05:15:33,019 - INFO - Downloaded media from https://preview.redd.it/4afrtfffvm0f1.jpeg?auto=webp&s=b5479ee71feb66192bd084279159d2bc503c98f7 to temp_image.jpg
+2025-05-14 05:15:33,812 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
