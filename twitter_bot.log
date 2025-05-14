@@ -1415,3 +1415,10 @@ Artist: amber harris
 2025-05-14 15:16:27,210 - INFO - Downloaded media from https://preview.redd.it/r7jc1okbcr0f1.jpeg?auto=webp&s=a9eb8d442ae84b223936926d0241550bb729f3a4 to temp_image.jpg
 2025-05-14 15:16:28,350 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-14 15:41:41,631 - INFO - Content: Dave Overwatch
+Seriously guys he’s had the name Cass longer than he ever had the name McCree at this point just let it go bruh, some ppl just stuck in 2016 😭🙏🏽
+2025-05-14 15:41:41,631 - INFO - Image Paths: ['https://preview.redd.it/2ni0ckniar0f1.jpeg?auto=webp&s=0197b8ebfa9a8621755ac14f67207b8edcde12f5']
+2025-05-14 15:41:41,631 - INFO - Video Path: 
+2025-05-14 15:41:41,654 - INFO - Downloaded media from https://preview.redd.it/2ni0ckniar0f1.jpeg?auto=webp&s=0197b8ebfa9a8621755ac14f67207b8edcde12f5 to temp_image.jpg
+2025-05-14 15:41:42,279 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
