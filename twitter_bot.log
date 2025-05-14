@@ -1304,3 +1304,10 @@ Too Many Requests
 2025-05-14 06:49:14,543 - INFO - Video Path: 
 2025-05-14 06:49:14,794 - INFO - Downloaded media from https://preview.redd.it/3j9p66ox3o0f1.png?auto=webp&s=da41a2e9655689faddf3242c9355d0135f67683e to temp_image.jpg
 2025-05-14 06:49:16,356 - INFO - Posted content successfully. Tweet ID: 1922544723295928414
+2025-05-14 07:15:21,940 - INFO - Content: Roses are red, Juno’s my fave
+Can someone please explain to me how she’s not dizzy yet? She’s been doing this for weeks!
+2025-05-14 07:15:21,940 - INFO - Image Paths: ['https://preview.redd.it/vu44pb59tn0f1.gif?format=png8&s=4165fb499df92422e5e8b6134c28f82ae7d4f8ef']
+2025-05-14 07:15:21,940 - INFO - Video Path: 
+2025-05-14 07:15:22,108 - INFO - Downloaded media from https://preview.redd.it/vu44pb59tn0f1.gif?format=png8&s=4165fb499df92422e5e8b6134c28f82ae7d4f8ef to temp_image.jpg
+2025-05-14 07:15:22,758 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
