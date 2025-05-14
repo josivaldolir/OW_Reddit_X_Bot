@@ -1344,3 +1344,10 @@ If you ever feel useless, just remember there is a reinhardt player out there go
 2025-05-14 09:40:34,800 - INFO - Downloaded media from https://preview.redd.it/4afrtfffvm0f1.jpeg?auto=webp&s=b5479ee71feb66192bd084279159d2bc503c98f7 to temp_image.jpg
 2025-05-14 09:40:35,496 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-14 10:16:45,159 - INFO - Content: I'm goin' to main these three mf, any advice?
+Also I need advices for Zenyatta
+2025-05-14 10:16:45,160 - INFO - Image Paths: ['https://preview.redd.it/cawgcdmzln0f1.png?auto=webp&s=49f23b4852be66858219a7e17bc52d720238c460']
+2025-05-14 10:16:45,160 - INFO - Video Path: 
+2025-05-14 10:16:45,385 - INFO - Downloaded media from https://preview.redd.it/cawgcdmzln0f1.png?auto=webp&s=49f23b4852be66858219a7e17bc52d720238c460 to temp_image.jpg
+2025-05-14 10:16:46,155 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
