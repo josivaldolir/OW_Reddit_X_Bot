@@ -1257,3 +1257,9 @@ If you ever feel useless, just remember there is a reinhardt player out there go
 2025-05-14 02:54:31,245 - INFO - Downloaded media from https://preview.redd.it/4afrtfffvm0f1.jpeg?auto=webp&s=b5479ee71feb66192bd084279159d2bc503c98f7 to temp_image.jpg
 2025-05-14 02:54:32,155 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-14 03:38:57,177 - INFO - Content: "Maximilien’s Vault is opening in the Shop for a limited time, offering personalized discounts on hero skins tailored to your playstyle."
+(I have received a grand total of 1 skin for my combined top 10 most played heroes)
+2025-05-14 03:38:57,177 - INFO - Image Paths: ['https://preview.redd.it/71wxv02m0m0f1.png?auto=webp&s=939d219579e00e19363d8aa412623a3fdf4f3e49']
+2025-05-14 03:38:57,177 - INFO - Video Path: 
+2025-05-14 03:38:57,396 - INFO - Downloaded media from https://preview.redd.it/71wxv02m0m0f1.png?auto=webp&s=939d219579e00e19363d8aa412623a3fdf4f3e49 to temp_image.jpg
+2025-05-14 03:38:59,640 - INFO - Posted content successfully. Tweet ID: 1922496835962470830
