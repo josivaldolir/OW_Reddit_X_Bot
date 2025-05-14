@@ -1284,3 +1284,10 @@ If you ever feel useless, just remember there is a reinhardt player out there go
 2025-05-14 05:15:33,019 - INFO - Downloaded media from https://preview.redd.it/4afrtfffvm0f1.jpeg?auto=webp&s=b5479ee71feb66192bd084279159d2bc503c98f7 to temp_image.jpg
 2025-05-14 05:15:33,812 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-14 05:41:57,625 - INFO - Content: where are my echo skins you tin can
+
+2025-05-14 05:41:57,625 - INFO - Image Paths: ['https://preview.redd.it/3j9p66ox3o0f1.png?auto=webp&s=da41a2e9655689faddf3242c9355d0135f67683e']
+2025-05-14 05:41:57,625 - INFO - Video Path: 
+2025-05-14 05:41:57,729 - INFO - Downloaded media from https://preview.redd.it/3j9p66ox3o0f1.png?auto=webp&s=da41a2e9655689faddf3242c9355d0135f67683e to temp_image.jpg
+2025-05-14 05:41:58,294 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
