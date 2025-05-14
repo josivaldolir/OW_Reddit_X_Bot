@@ -1378,3 +1378,10 @@ Too Many Requests
 2025-05-14 12:31:56,103 - INFO - Video Path: 
 2025-05-14 12:31:56,382 - INFO - Downloaded media from https://preview.redd.it/hi3lusil1q0f1.png?auto=webp&s=8c6cae849a04ac1f9d4029b984b9cce0ebf4077f to temp_image.jpg
 2025-05-14 12:31:57,950 - INFO - Posted content successfully. Tweet ID: 1922630964855062783
+2025-05-14 13:27:42,136 - INFO - Content: The actual bane of my existence
+If you ever feel useless, just remember there is a reinhardt player out there going up against these three at once in Stadium.
+2025-05-14 13:27:42,136 - INFO - Image Paths: ['https://preview.redd.it/4afrtfffvm0f1.jpeg?auto=webp&s=b5479ee71feb66192bd084279159d2bc503c98f7']
+2025-05-14 13:27:42,136 - INFO - Video Path: 
+2025-05-14 13:27:42,289 - INFO - Downloaded media from https://preview.redd.it/4afrtfffvm0f1.jpeg?auto=webp&s=b5479ee71feb66192bd084279159d2bc503c98f7 to temp_image.jpg
+2025-05-14 13:27:43,045 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
