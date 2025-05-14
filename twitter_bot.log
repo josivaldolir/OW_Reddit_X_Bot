@@ -1532,3 +1532,10 @@ Too Many Requests
 2025-05-14 22:12:38,807 - INFO - Downloaded media from https://preview.redd.it/apwhvki88t0f1.jpeg?auto=webp&s=a01d6c48453afe64e5099e43e3be243c27c365d5 to temp_image.jpg
 2025-05-14 22:12:40,013 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-14 22:36:23,847 - INFO - Content: 🥐 Couldn’t unsee it then, Still can’t rn
+*“Breadgitte at your service”*
+2025-05-14 22:36:23,847 - INFO - Image Paths: ['https://preview.redd.it/apwhvki88t0f1.jpeg?auto=webp&s=a01d6c48453afe64e5099e43e3be243c27c365d5']
+2025-05-14 22:36:23,847 - INFO - Video Path: 
+2025-05-14 22:36:23,950 - INFO - Downloaded media from https://preview.redd.it/apwhvki88t0f1.jpeg?auto=webp&s=a01d6c48453afe64e5099e43e3be243c27c365d5 to temp_image.jpg
+2025-05-14 22:36:24,929 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
