@@ -1644,3 +1644,9 @@ Hello fatmers (fat gamers). Today, i have decided to open my Maximilien’s Vaul
 2025-05-15 07:39:10,864 - INFO - Downloaded media from https://preview.redd.it/uccv0vq4qt0f1.png?auto=webp&s=137ac6855b029ee64fd753ca8eb47c73e8b209b8 to temp_image.jpg
 2025-05-15 07:39:12,020 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-15 08:21:18,978 - INFO - Content: Hey Guys
+
+2025-05-15 08:21:18,978 - INFO - Image Paths: ['https://preview.redd.it/4ornvnatwu0f1.png?auto=webp&s=19181576150543866e837ff8651bb27a330020d6']
+2025-05-15 08:21:18,978 - INFO - Video Path: 
+2025-05-15 08:21:19,002 - INFO - Downloaded media from https://preview.redd.it/4ornvnatwu0f1.png?auto=webp&s=19181576150543866e837ff8651bb27a330020d6 to temp_image.jpg
+2025-05-15 08:21:20,262 - INFO - Posted content successfully. Tweet ID: 1922930281109127506
