@@ -1725,3 +1725,10 @@ Too Many Requests
 2025-05-15 13:26:16,413 - INFO - Downloaded media from https://preview.redd.it/4nnwg66b6x0f1.png?width=750&format=png&auto=webp&s=73ca57b0fc3b3df259ef3b018d3324028f3c7436 to temp_image.jpg
 2025-05-15 13:26:17,004 - INFO - Downloaded media from https://preview.redd.it/zb6aj56b6x0f1.png?width=1000&format=png&auto=webp&s=a71980ff5b202b42aefa03fc01846cf8f90fd117 to temp_image.jpg
 2025-05-15 13:26:18,594 - INFO - Posted content successfully. Tweet ID: 1923007028508885124
+2025-05-15 13:45:59,834 - INFO - Content: maximilien only gave me 4 skins, what did I do to piss him off? 😭
+i don't even play these heroes...
+2025-05-15 13:45:59,834 - INFO - Image Paths: ['https://preview.redd.it/ics86weoux0f1.jpeg?auto=webp&s=19bfe4cf9565dcc96a17f77deeead0306e07ce44']
+2025-05-15 13:45:59,834 - INFO - Video Path: 
+2025-05-15 13:45:59,893 - INFO - Downloaded media from https://preview.redd.it/ics86weoux0f1.jpeg?auto=webp&s=19bfe4cf9565dcc96a17f77deeead0306e07ce44 to temp_image.jpg
+2025-05-15 13:46:00,775 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
