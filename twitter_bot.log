@@ -1788,3 +1788,10 @@ A current look at how many battle pass skins each Hero has gotten as of Season 1
 2025-05-15 18:21:34,034 - INFO - Video Path: 
 2025-05-15 18:21:34,141 - INFO - Downloaded media from https://preview.redd.it/qal8vic7dz0f1.jpeg?auto=webp&s=a4164b5cda8f0b4905aa2e84d3eea11d622b2301 to temp_image.jpg
 2025-05-15 18:21:35,712 - INFO - Posted content successfully. Tweet ID: 1923081340259532900
+2025-05-15 18:48:58,131 - INFO - Content: Did I really spend 3 dollars just for this? (yes I did)
+
+2025-05-15 18:48:58,131 - INFO - Image Paths: ['https://preview.redd.it/bfzv69af2y0f1.png?auto=webp&s=a61e07e2d7252707e1b7403223db52947d0afd92']
+2025-05-15 18:48:58,131 - INFO - Video Path: 
+2025-05-15 18:48:58,200 - INFO - Downloaded media from https://preview.redd.it/bfzv69af2y0f1.png?auto=webp&s=a61e07e2d7252707e1b7403223db52947d0afd92 to temp_image.jpg
+2025-05-15 18:48:59,159 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
