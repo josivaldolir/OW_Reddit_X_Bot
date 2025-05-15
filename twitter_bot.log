@@ -1630,3 +1630,10 @@ Hello fatmers (fat gamers). Today, i have decided to open my Maximilien’s Vaul
 2025-05-15 06:49:01,303 - INFO - Downloaded media from https://preview.redd.it/uccv0vq4qt0f1.png?auto=webp&s=137ac6855b029ee64fd753ca8eb47c73e8b209b8 to temp_image.jpg
 2025-05-15 06:49:02,290 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-15 07:15:16,025 - INFO - Content: Is this normal?
+Hello fatmers (fat gamers). Today, i have decided to open my Maximilien’s Vault As one would do. The sight that i have been beared with Was not a pleasant one. You see; i expected skins for my Mains, mercy hog and ana, instead This is what pops up on my screen. I thought this skin was unavaible? I feel slightly coerced into getting it. Has this happened to anyone else?
+2025-05-15 07:15:16,025 - INFO - Image Paths: ['https://preview.redd.it/uccv0vq4qt0f1.png?auto=webp&s=137ac6855b029ee64fd753ca8eb47c73e8b209b8']
+2025-05-15 07:15:16,025 - INFO - Video Path: 
+2025-05-15 07:15:16,284 - INFO - Downloaded media from https://preview.redd.it/uccv0vq4qt0f1.png?auto=webp&s=137ac6855b029ee64fd753ca8eb47c73e8b209b8 to temp_image.jpg
+2025-05-15 07:15:17,345 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
