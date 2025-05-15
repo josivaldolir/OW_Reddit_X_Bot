@@ -1716,3 +1716,12 @@ Too Many Requests
 2025-05-15 12:31:42,516 - INFO - Downloaded media from https://preview.redd.it/zb6aj56b6x0f1.png?width=1000&format=png&auto=webp&s=a71980ff5b202b42aefa03fc01846cf8f90fd117 to temp_image.jpg
 2025-05-15 12:31:43,342 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-15 13:26:14,517 - INFO - Content: Let's remember these pretty Overwatch League Twitch emotes made by uguubear
+[Source link.](https://www.uguubear.com/professional-work)
+2025-05-15 13:26:14,517 - INFO - Image Paths: ['https://preview.redd.it/nvonc26b6x0f1.png?width=1000&format=png&auto=webp&s=1a49637b9aa2b01666e37943eaaf03331d15e721', 'https://preview.redd.it/9jyz926b6x0f1.png?width=750&format=png&auto=webp&s=0287cc7e5b5da1e5d95733a976455ab886c10aa9', 'https://preview.redd.it/4nnwg66b6x0f1.png?width=750&format=png&auto=webp&s=73ca57b0fc3b3df259ef3b018d3324028f3c7436', 'https://preview.redd.it/zb6aj56b6x0f1.png?width=1000&format=png&auto=webp&s=a71980ff5b202b42aefa03fc01846cf8f90fd117']
+2025-05-15 13:26:14,517 - INFO - Video Path: 
+2025-05-15 13:26:14,579 - INFO - Downloaded media from https://preview.redd.it/nvonc26b6x0f1.png?width=1000&format=png&auto=webp&s=1a49637b9aa2b01666e37943eaaf03331d15e721 to temp_image.jpg
+2025-05-15 13:26:15,512 - INFO - Downloaded media from https://preview.redd.it/9jyz926b6x0f1.png?width=750&format=png&auto=webp&s=0287cc7e5b5da1e5d95733a976455ab886c10aa9 to temp_image.jpg
+2025-05-15 13:26:16,413 - INFO - Downloaded media from https://preview.redd.it/4nnwg66b6x0f1.png?width=750&format=png&auto=webp&s=73ca57b0fc3b3df259ef3b018d3324028f3c7436 to temp_image.jpg
+2025-05-15 13:26:17,004 - INFO - Downloaded media from https://preview.redd.it/zb6aj56b6x0f1.png?width=1000&format=png&auto=webp&s=a71980ff5b202b42aefa03fc01846cf8f90fd117 to temp_image.jpg
+2025-05-15 13:26:18,594 - INFO - Posted content successfully. Tweet ID: 1923007028508885124
