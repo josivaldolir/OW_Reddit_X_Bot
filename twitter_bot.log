@@ -1575,3 +1575,10 @@ Honestly
 2025-05-15 02:53:51,406 - INFO - Downloaded media from https://preview.redd.it/pjlmkeh9it0f1.jpeg?auto=webp&s=130ba9a2e83e5de5585f8902da30215579c02ba6 to temp_image.jpg
 2025-05-15 02:53:52,161 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-15 03:39:20,090 - INFO - Content: Please ban Freja in Comp
+Everyone bans Sombra instantly, and lets this monster roam free
+2025-05-15 03:39:20,090 - INFO - Image Paths: ['https://preview.redd.it/tksuelrnou0f1.jpeg?auto=webp&s=12a81d921df6acf302a52e6a77c7f10cb0cfe617']
+2025-05-15 03:39:20,090 - INFO - Video Path: 
+2025-05-15 03:39:20,123 - INFO - Downloaded media from https://preview.redd.it/tksuelrnou0f1.jpeg?auto=webp&s=12a81d921df6acf302a52e6a77c7f10cb0cfe617 to temp_image.jpg
+2025-05-15 03:39:21,311 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
