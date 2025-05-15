@@ -1864,3 +1864,9 @@ Too Many Requests
 2025-05-15 23:15:00,705 - INFO - Downloaded media from https://v.redd.it/3z0t16s0o01f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-05-15 23:15:01,038 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-15 23:15:09,538 - INFO - Posted content successfully. Tweet ID: 1923155219078316192
+2025-05-15 23:38:02,907 - INFO - Content: Overwatch 2 Retail Patch Notes – May 15, 2025 (STADIUM)
+
+2025-05-15 23:38:02,908 - INFO - Image Paths: ['https://external-preview.redd.it/jJ4hsdVovqJf5zhsIL61UuYPZLOFYlO9iOQFGL7F5tE.jpg?auto=webp&s=907122904c8b67f336b3c6756dbf430ccb9a46de']
+2025-05-15 23:38:02,908 - INFO - Video Path: 
+2025-05-15 23:38:02,956 - INFO - Downloaded media from https://external-preview.redd.it/jJ4hsdVovqJf5zhsIL61UuYPZLOFYlO9iOQFGL7F5tE.jpg?auto=webp&s=907122904c8b67f336b3c6756dbf430ccb9a46de to temp_image.jpg
+2025-05-15 23:38:03,700 - INFO - Posted content successfully. Tweet ID: 1923160982693741022
