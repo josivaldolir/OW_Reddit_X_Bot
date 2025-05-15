@@ -1821,3 +1821,11 @@ Say these heroes appeared at my front door. These are the hero’s I would allow
 2025-05-15 20:41:06,274 - INFO - Video Path: 
 2025-05-15 20:41:06,308 - INFO - Downloaded media from https://preview.redd.it/zirgg4knpy0f1.jpeg?auto=webp&s=15f33f586510c9ec6280e59e418c37caad2d6959 to temp_image.jpg
 2025-05-15 20:41:07,239 - INFO - Posted content successfully. Tweet ID: 1923116453814788132
+2025-05-15 21:14:34,826 - INFO - Content: At what point does a junkrat main take it too far?
+Just need a little help here 
+2025-05-15 21:14:34,826 - INFO - Image Paths: ['https://external-preview.redd.it/djZzbmN6NXRzeDBmMV1jJSur1jjECCcTjf8omfOE0DVfG8TCleM-NiAjoVS6.png?format=pjpg&auto=webp&s=90fce4faa7f7d2c1ead232f3a3a39d508d782ba7']
+2025-05-15 21:14:34,826 - INFO - Video Path: https://v.redd.it/8h6j9dctsx0f1/DASH_480.mp4?source=fallback
+2025-05-15 21:14:34,879 - INFO - Downloaded media from https://v.redd.it/8h6j9dctsx0f1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-05-15 21:14:34,898 - INFO - Downloaded media from https://v.redd.it/8h6j9dctsx0f1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-05-15 21:14:35,464 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-15 21:14:38,553 - INFO - Posted content successfully. Tweet ID: 1923124890162307448
