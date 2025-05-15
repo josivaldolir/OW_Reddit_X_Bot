@@ -1677,3 +1677,10 @@ This might just be a skill issue, but been on both sides both being melted and s
 2025-05-15 09:41:48,340 - INFO - Image Paths: []
 2025-05-15 09:41:48,340 - INFO - Video Path: 
 2025-05-15 09:41:48,664 - INFO - Posted content successfully. Tweet ID: 1922950533469401362
+2025-05-15 10:17:05,717 - INFO - Content: Why y'all hate LW?! 😭 Drop your history here.
+In the short time I've been here, I've encountered two types of players: LW OTPs and haters (of which there are way too much). So, drop the reasons why you hate or love Lifeweaver
+2025-05-15 10:17:05,717 - INFO - Image Paths: ['https://preview.redd.it/8c87x48j3v0f1.png?auto=webp&s=7f9b14c99e58690f4b1b1eb13779bdd17f624dc6']
+2025-05-15 10:17:05,717 - INFO - Video Path: 
+2025-05-15 10:17:05,774 - INFO - Downloaded media from https://preview.redd.it/8c87x48j3v0f1.png?auto=webp&s=7f9b14c99e58690f4b1b1eb13779bdd17f624dc6 to temp_image.jpg
+2025-05-15 10:17:06,812 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
