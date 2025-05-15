@@ -1596,3 +1596,9 @@ Everyone bans Sombra instantly, and lets this monster roam free
 2025-05-15 04:44:03,604 - INFO - Downloaded media from https://preview.redd.it/tksuelrnou0f1.jpeg?auto=webp&s=12a81d921df6acf302a52e6a77c7f10cb0cfe617 to temp_image.jpg
 2025-05-15 04:44:04,778 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-15 05:16:19,710 - INFO - Content: Please ban Freja in Comp
+Everyone bans Sombra instantly, and lets this monster roam free
+2025-05-15 05:16:19,710 - INFO - Image Paths: ['https://preview.redd.it/tksuelrnou0f1.jpeg?auto=webp&s=12a81d921df6acf302a52e6a77c7f10cb0cfe617']
+2025-05-15 05:16:19,710 - INFO - Video Path: 
+2025-05-15 05:16:19,904 - INFO - Downloaded media from https://preview.redd.it/tksuelrnou0f1.jpeg?auto=webp&s=12a81d921df6acf302a52e6a77c7f10cb0cfe617 to temp_image.jpg
+2025-05-15 05:16:22,036 - INFO - Posted content successfully. Tweet ID: 1922883730185781314
