@@ -1795,3 +1795,10 @@ A current look at how many battle pass skins each Hero has gotten as of Season 1
 2025-05-15 18:48:58,200 - INFO - Downloaded media from https://preview.redd.it/bfzv69af2y0f1.png?auto=webp&s=a61e07e2d7252707e1b7403223db52947d0afd92 to temp_image.jpg
 2025-05-15 18:48:59,159 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-15 19:12:15,633 - INFO - Content: I ranked every Overwatch hero based on who I’d let in my house.
+Say these heroes appeared at my front door. These are the hero’s I would allow to come in, or even call the police on just for appearing! Am I crazy for any of these rankings?
+2025-05-15 19:12:15,633 - INFO - Image Paths: ['https://preview.redd.it/zirgg4knpy0f1.jpeg?auto=webp&s=15f33f586510c9ec6280e59e418c37caad2d6959']
+2025-05-15 19:12:15,633 - INFO - Video Path: 
+2025-05-15 19:12:15,665 - INFO - Downloaded media from https://preview.redd.it/zirgg4knpy0f1.jpeg?auto=webp&s=15f33f586510c9ec6280e59e418c37caad2d6959 to temp_image.jpg
+2025-05-15 19:12:16,217 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
