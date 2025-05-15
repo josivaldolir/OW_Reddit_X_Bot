@@ -1815,3 +1815,9 @@ Too Many Requests
 2025-05-15 20:17:36,522 - INFO - Video Path: 
 2025-05-15 20:17:36,601 - INFO - Downloaded media from https://preview.redd.it/bfzv69af2y0f1.png?auto=webp&s=a61e07e2d7252707e1b7403223db52947d0afd92 to temp_image.jpg
 2025-05-15 20:17:38,320 - INFO - Posted content successfully. Tweet ID: 1923110541201190928
+2025-05-15 20:41:06,274 - INFO - Content: I ranked every Overwatch hero based on who I’d let in my house.
+Say these heroes appeared at my front door. These are the hero’s I would allow to come in, or even call the police on just for appearing! Am I crazy for any of these rankings?
+2025-05-15 20:41:06,274 - INFO - Image Paths: ['https://preview.redd.it/zirgg4knpy0f1.jpeg?auto=webp&s=15f33f586510c9ec6280e59e418c37caad2d6959']
+2025-05-15 20:41:06,274 - INFO - Video Path: 
+2025-05-15 20:41:06,308 - INFO - Downloaded media from https://preview.redd.it/zirgg4knpy0f1.jpeg?auto=webp&s=15f33f586510c9ec6280e59e418c37caad2d6959 to temp_image.jpg
+2025-05-15 20:41:07,239 - INFO - Posted content successfully. Tweet ID: 1923116453814788132
