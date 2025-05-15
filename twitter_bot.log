@@ -1732,3 +1732,10 @@ i don't even play these heroes...
 2025-05-15 13:45:59,893 - INFO - Downloaded media from https://preview.redd.it/ics86weoux0f1.jpeg?auto=webp&s=19bfe4cf9565dcc96a17f77deeead0306e07ce44 to temp_image.jpg
 2025-05-15 13:46:00,775 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-15 14:16:03,548 - INFO - Content: maximilien only gave me 4 skins, what did I do to piss him off? 😭
+i don't even play these heroes...
+2025-05-15 14:16:03,548 - INFO - Image Paths: ['https://preview.redd.it/ics86weoux0f1.jpeg?auto=webp&s=19bfe4cf9565dcc96a17f77deeead0306e07ce44']
+2025-05-15 14:16:03,548 - INFO - Video Path: 
+2025-05-15 14:16:03,595 - INFO - Downloaded media from https://preview.redd.it/ics86weoux0f1.jpeg?auto=webp&s=19bfe4cf9565dcc96a17f77deeead0306e07ce44 to temp_image.jpg
+2025-05-15 14:16:04,645 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
