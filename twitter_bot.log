@@ -1776,3 +1776,9 @@ A current look at how many battle pass skins each Hero has gotten as of Season 1
 2025-05-15 17:14:01,527 - INFO - Downloaded media from https://preview.redd.it/qbal88h9py0f1.jpeg?auto=webp&s=893e0f9e8d4e4252bc3f997041ca6ec9f1cd8d87 to temp_image.jpg
 2025-05-15 17:14:02,410 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-15 17:40:57,264 - INFO - Content: Current Battle Pass Skin Distribution (as of S16)
+A current look at how many battle pass skins each Hero has gotten as of Season 16
+2025-05-15 17:40:57,264 - INFO - Image Paths: ['https://preview.redd.it/qbal88h9py0f1.jpeg?auto=webp&s=893e0f9e8d4e4252bc3f997041ca6ec9f1cd8d87']
+2025-05-15 17:40:57,264 - INFO - Video Path: 
+2025-05-15 17:40:57,324 - INFO - Downloaded media from https://preview.redd.it/qbal88h9py0f1.jpeg?auto=webp&s=893e0f9e8d4e4252bc3f997041ca6ec9f1cd8d87 to temp_image.jpg
+2025-05-15 17:40:58,604 - INFO - Posted content successfully. Tweet ID: 1923071118711357786
