@@ -1809,3 +1809,9 @@ Say these heroes appeared at my front door. These are the hero’s I would allow
 2025-05-15 19:36:01,609 - INFO - Downloaded media from https://preview.redd.it/zirgg4knpy0f1.jpeg?auto=webp&s=15f33f586510c9ec6280e59e418c37caad2d6959 to temp_image.jpg
 2025-05-15 19:36:02,426 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-15 20:17:36,521 - INFO - Content: Did I really spend 3 dollars just for this? (yes I did)
+
+2025-05-15 20:17:36,522 - INFO - Image Paths: ['https://preview.redd.it/bfzv69af2y0f1.png?auto=webp&s=a61e07e2d7252707e1b7403223db52947d0afd92']
+2025-05-15 20:17:36,522 - INFO - Video Path: 
+2025-05-15 20:17:36,601 - INFO - Downloaded media from https://preview.redd.it/bfzv69af2y0f1.png?auto=webp&s=a61e07e2d7252707e1b7403223db52947d0afd92 to temp_image.jpg
+2025-05-15 20:17:38,320 - INFO - Posted content successfully. Tweet ID: 1923110541201190928
