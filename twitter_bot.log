@@ -1684,3 +1684,9 @@ In the short time I've been here, I've encountered two types of players: LW OTPs
 2025-05-15 10:17:05,774 - INFO - Downloaded media from https://preview.redd.it/8c87x48j3v0f1.png?auto=webp&s=7f9b14c99e58690f4b1b1eb13779bdd17f624dc6 to temp_image.jpg
 2025-05-15 10:17:06,812 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-15 10:45:22,021 - INFO - Content: Yuh
+Honestly
+2025-05-15 10:45:22,021 - INFO - Image Paths: ['https://preview.redd.it/pjlmkeh9it0f1.jpeg?auto=webp&s=130ba9a2e83e5de5585f8902da30215579c02ba6']
+2025-05-15 10:45:22,021 - INFO - Video Path: 
+2025-05-15 10:45:22,207 - INFO - Downloaded media from https://preview.redd.it/pjlmkeh9it0f1.jpeg?auto=webp&s=130ba9a2e83e5de5585f8902da30215579c02ba6 to temp_image.jpg
+2025-05-15 10:45:23,165 - INFO - Posted content successfully. Tweet ID: 1922966532205990102
