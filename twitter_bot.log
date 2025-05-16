@@ -1971,3 +1971,11 @@ Too Many Requests
 2025-05-16 08:21:43,629 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-16 08:21:48,139 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-16 08:46:48,374 - INFO - Content: Bad from Cassidy, or unlucky?
+
+2025-05-16 08:46:48,374 - INFO - Image Paths: ['https://external-preview.redd.it/Z28wcnMydGYyMDFmMecx3riKyV-Pgj5vepzea-8dzz8qPTpXef-iiDG-oFQ6.png?format=pjpg&auto=webp&s=771e1eddcdfd2dd09e87e49f099d513b89e64a1a']
+2025-05-16 08:46:48,374 - INFO - Video Path: https://v.redd.it/vxfwhvpf201f1/DASH_1080.mp4?source=fallback
+2025-05-16 08:46:48,926 - INFO - Downloaded media from https://v.redd.it/vxfwhvpf201f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-05-16 08:46:49,059 - INFO - Downloaded media from https://v.redd.it/vxfwhvpf201f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-05-16 08:46:49,378 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-16 08:46:53,943 - INFO - Posted content successfully. Tweet ID: 1923299102198263992
