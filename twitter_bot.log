@@ -1878,3 +1878,11 @@ As an Ashe main, Widowmaker’s rifle is pretty unwieldy to use.
 2025-05-16 01:13:53,576 - INFO - Downloaded media from https://preview.redd.it/lfakxbrvw01f1.jpg?width=1000&format=pjpg&auto=webp&s=ebf89c4790f28bd2e9db7d98c9f41a19b73ed9b5 to temp_image.jpg
 2025-05-16 01:13:54,088 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-16 02:56:37,562 - INFO - Content: I honestly feel like Ashe has a point
+As an Ashe main, Widowmaker’s rifle is pretty unwieldy to use.
+2025-05-16 02:56:37,562 - INFO - Image Paths: ['https://preview.redd.it/g39j1brvw01f1.jpg?width=548&format=pjpg&auto=webp&s=7259d56e7ee609dc28f54accf9d003ff4af4ab6b', 'https://preview.redd.it/lfakxbrvw01f1.jpg?width=1000&format=pjpg&auto=webp&s=ebf89c4790f28bd2e9db7d98c9f41a19b73ed9b5']
+2025-05-16 02:56:37,562 - INFO - Video Path: 
+2025-05-16 02:56:37,606 - INFO - Downloaded media from https://preview.redd.it/g39j1brvw01f1.jpg?width=548&format=pjpg&auto=webp&s=7259d56e7ee609dc28f54accf9d003ff4af4ab6b to temp_image.jpg
+2025-05-16 02:56:38,123 - INFO - Downloaded media from https://preview.redd.it/lfakxbrvw01f1.jpg?width=1000&format=pjpg&auto=webp&s=ebf89c4790f28bd2e9db7d98c9f41a19b73ed9b5 to temp_image.jpg
+2025-05-16 02:56:38,737 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
