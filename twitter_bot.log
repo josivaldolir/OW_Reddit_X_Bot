@@ -2027,3 +2027,9 @@ Too Many Requests
 2025-05-16 12:31:04,453 - INFO - Video Path: 
 2025-05-16 12:31:04,478 - INFO - Downloaded media from https://preview.redd.it/m8nt947z841f1.gif?format=png8&s=d9cee47baa8999d6a632da45471666c9e2f67232 to temp_image.jpg
 2025-05-16 12:31:05,238 - INFO - Posted content successfully. Tweet ID: 1923355520888668446
+2025-05-16 13:27:17,360 - INFO - Content: I know it’s a wide match but good Lord
+Guess that’s what happens when you queue with your friend who’s platinum
+2025-05-16 13:27:17,360 - INFO - Image Paths: ['https://preview.redd.it/wvgcbelqa41f1.jpeg?auto=webp&s=2eb66b542be07cfa3140f308c1ac48cb487d5e03']
+2025-05-16 13:27:17,361 - INFO - Video Path: 
+2025-05-16 13:27:17,430 - INFO - Downloaded media from https://preview.redd.it/wvgcbelqa41f1.jpeg?auto=webp&s=2eb66b542be07cfa3140f308c1ac48cb487d5e03 to temp_image.jpg
+2025-05-16 13:27:18,463 - INFO - Posted content successfully. Tweet ID: 1923369668921991622
