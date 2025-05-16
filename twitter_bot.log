@@ -1936,3 +1936,12 @@ Too Many Requests
 2025-05-16 06:22:16,051 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-16 06:22:20,471 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-16 06:48:50,927 - INFO - Content: AgNO3 +NaCl→AgCl↓+NaNO3
+
+2025-05-16 06:48:50,927 - INFO - Image Paths: ['https://external-preview.redd.it/MDl6NmhhNjBuMjFmMcXsoZFDGIc3AmCF0KF8yLUfS91jV7DGxaI4zoJRVWuW.png?format=pjpg&auto=webp&s=69bbf258c11d7f0841947b5dba5ceb6f5f861a8b']
+2025-05-16 06:48:50,927 - INFO - Video Path: https://v.redd.it/xgt2e760n21f1/DASH_1080.mp4?source=fallback
+2025-05-16 06:48:51,216 - INFO - Downloaded media from https://v.redd.it/xgt2e760n21f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-05-16 06:48:51,277 - INFO - Downloaded media from https://v.redd.it/xgt2e760n21f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-05-16 06:48:51,606 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-16 06:48:57,139 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
