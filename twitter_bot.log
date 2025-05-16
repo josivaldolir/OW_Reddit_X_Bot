@@ -2052,3 +2052,12 @@ He is risen
 2025-05-16 14:42:59,687 - INFO - Video Path: 
 2025-05-16 14:42:59,738 - INFO - Downloaded media from https://preview.redd.it/da1zjgh3x41f1.jpeg?auto=webp&s=060f3d2aafb39a07b483ec0f78b327c3c20668df to temp_image.jpg
 2025-05-16 14:43:00,544 - INFO - Posted content successfully. Tweet ID: 1923388719996018732
+2025-05-16 15:18:34,298 - INFO - Content: I love being Torb on a Kitsune Rush
+[https://www.twitch.tv/rimaplays/clip/SplendidLightLatteImGlitch-DnItU8dDTgr3vTfP](https://www.twitch.tv/rimaplays/clip/SplendidLightLatteImGlitch-DnItU8dDTgr3vTfP)
+2025-05-16 15:18:34,298 - INFO - Image Paths: ['https://external-preview.redd.it/dDEzd2NhdG41MzFmMbnMf-xCnjrLPhklfNbmzD4SqsQBBkkmS0dxngyhRo56.png?format=pjpg&auto=webp&s=5b196c7c3d55f2f140dee86a1b3c0d309c0e2768']
+2025-05-16 15:18:34,298 - INFO - Video Path: https://v.redd.it/1q49pctn531f1/DASH_1080.mp4?source=fallback
+2025-05-16 15:18:34,609 - INFO - Downloaded media from https://v.redd.it/1q49pctn531f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-05-16 15:18:34,845 - INFO - Downloaded media from https://v.redd.it/1q49pctn531f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-05-16 15:18:38,061 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-16 15:18:48,912 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
