@@ -1918,3 +1918,12 @@ As an Ashe main, Widowmaker’s rifle is pretty unwieldy to use.
 2025-05-16 05:16:09,987 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-16 05:16:14,978 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-16 05:41:40,547 - INFO - Content: Bad from Cassidy, or unlucky?
+
+2025-05-16 05:41:40,547 - INFO - Image Paths: ['https://external-preview.redd.it/Z28wcnMydGYyMDFmMecx3riKyV-Pgj5vepzea-8dzz8qPTpXef-iiDG-oFQ6.png?format=pjpg&auto=webp&s=771e1eddcdfd2dd09e87e49f099d513b89e64a1a']
+2025-05-16 05:41:40,547 - INFO - Video Path: https://v.redd.it/vxfwhvpf201f1/DASH_1080.mp4?source=fallback
+2025-05-16 05:41:40,732 - INFO - Downloaded media from https://v.redd.it/vxfwhvpf201f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-05-16 05:41:40,798 - INFO - Downloaded media from https://v.redd.it/vxfwhvpf201f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-05-16 05:41:41,103 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-16 05:41:45,712 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
