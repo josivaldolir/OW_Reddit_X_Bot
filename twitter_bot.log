@@ -2138,3 +2138,9 @@ Too Many Requests
 2025-05-16 20:40:07,762 - INFO - Downloaded media from https://external-preview.redd.it/0I3GV_lpf_OtjyJ-0jTALE3za9ZmMHL2rbvNMJVo7tA.jpg?auto=webp&s=07be83aef74741842cd025d6433a5198728c933c to temp_image.jpg
 2025-05-16 20:40:08,814 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-16 21:14:03,727 - INFO - Content: and they somehow make it out with lvl 5 endorsement
+
+2025-05-16 21:14:03,727 - INFO - Image Paths: ['https://preview.redd.it/3jxpkss2371f1.jpeg?auto=webp&s=0aa7356f0b139b8d61d9aa78fd29062bbc7715c8']
+2025-05-16 21:14:03,727 - INFO - Video Path: 
+2025-05-16 21:14:03,742 - INFO - Downloaded media from https://preview.redd.it/3jxpkss2371f1.jpeg?auto=webp&s=0aa7356f0b139b8d61d9aa78fd29062bbc7715c8 to temp_image.jpg
+2025-05-16 21:14:04,448 - INFO - Posted content successfully. Tweet ID: 1923487134843122025
