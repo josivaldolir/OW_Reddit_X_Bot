@@ -2070,3 +2070,10 @@ Too Many Requests
 2025-05-16 15:39:51,056 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-16 15:40:01,523 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-16 16:19:49,755 - INFO - Content: Saw no one talking about my boy getting no skins !
+Ik he's new almost new as Juno tho and got only 1 epic and 1 gold and no one cares except real Hazard mains (only 6 of us by now i guess lol)
+2025-05-16 16:19:49,755 - INFO - Image Paths: ['https://preview.redd.it/syi4yzkxv51f1.jpeg?auto=webp&s=d26c86e8a9dc26358da6f565209df045ad73a07f']
+2025-05-16 16:19:49,755 - INFO - Video Path: 
+2025-05-16 16:19:49,845 - INFO - Downloaded media from https://preview.redd.it/syi4yzkxv51f1.jpeg?auto=webp&s=d26c86e8a9dc26358da6f565209df045ad73a07f to temp_image.jpg
+2025-05-16 16:19:50,555 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
