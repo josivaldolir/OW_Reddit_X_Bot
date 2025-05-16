@@ -2014,3 +2014,10 @@ Too Many Requests
 2025-05-16 11:14:01,887 - INFO - Downloaded media from https://preview.redd.it/m8nt947z841f1.gif?format=png8&s=d9cee47baa8999d6a632da45471666c9e2f67232 to temp_image.jpg
 2025-05-16 11:14:02,701 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-16 11:36:08,628 - INFO - Content: Tf they doing up there?
+
+2025-05-16 11:36:08,628 - INFO - Image Paths: ['https://preview.redd.it/m8nt947z841f1.gif?format=png8&s=d9cee47baa8999d6a632da45471666c9e2f67232']
+2025-05-16 11:36:08,628 - INFO - Video Path: 
+2025-05-16 11:36:08,658 - INFO - Downloaded media from https://preview.redd.it/m8nt947z841f1.gif?format=png8&s=d9cee47baa8999d6a632da45471666c9e2f67232 to temp_image.jpg
+2025-05-16 11:36:09,415 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
