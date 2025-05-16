@@ -2131,3 +2131,10 @@ Too Many Requests
 2025-05-16 20:16:36,846 - INFO - Downloaded media from https://external-preview.redd.it/0I3GV_lpf_OtjyJ-0jTALE3za9ZmMHL2rbvNMJVo7tA.jpg?auto=webp&s=07be83aef74741842cd025d6433a5198728c933c to temp_image.jpg
 2025-05-16 20:16:38,015 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-16 20:40:07,733 - INFO - Content: i think i downloaded the wrong overwatch
+
+2025-05-16 20:40:07,734 - INFO - Image Paths: ['https://external-preview.redd.it/0I3GV_lpf_OtjyJ-0jTALE3za9ZmMHL2rbvNMJVo7tA.jpg?auto=webp&s=07be83aef74741842cd025d6433a5198728c933c']
+2025-05-16 20:40:07,734 - INFO - Video Path: 
+2025-05-16 20:40:07,762 - INFO - Downloaded media from https://external-preview.redd.it/0I3GV_lpf_OtjyJ-0jTALE3za9ZmMHL2rbvNMJVo7tA.jpg?auto=webp&s=07be83aef74741842cd025d6433a5198728c933c to temp_image.jpg
+2025-05-16 20:40:08,814 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
