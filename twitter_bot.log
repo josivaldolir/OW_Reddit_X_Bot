@@ -2326,3 +2326,10 @@ I'm not projecting onto Mercy haha what are you talking about
 2025-05-17 12:27:42,543 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-17 12:27:49,695 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-17 13:01:35,577 - INFO - Content: Apparently raccoons are not allowed??
+wasn't even an insult nor inappropriate, is their a reason why raccoons aren't allowed in this game. 
+2025-05-17 13:01:35,578 - INFO - Image Paths: ['https://preview.redd.it/f92bxe7kwb1f1.png?auto=webp&s=2f8ea9b3b5a3db715b3715bbb76073a2ee727a10']
+2025-05-17 13:01:35,578 - INFO - Video Path: 
+2025-05-17 13:01:35,855 - INFO - Downloaded media from https://preview.redd.it/f92bxe7kwb1f1.png?auto=webp&s=2f8ea9b3b5a3db715b3715bbb76073a2ee727a10 to temp_image.jpg
+2025-05-17 13:01:36,700 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
