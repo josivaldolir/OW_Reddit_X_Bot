@@ -2432,3 +2432,9 @@ Too Many Requests
 2025-05-17 20:16:34,437 - INFO - Video Path: 
 2025-05-17 20:16:34,859 - INFO - Downloaded media from https://preview.redd.it/v6f6mrd10d1f1.jpeg?auto=webp&s=897c03de87dc434c3efb6b4841fec76d5f2c1c48 to temp_image.jpg
 2025-05-17 20:16:36,447 - INFO - Posted content successfully. Tweet ID: 1923835059896975792
+2025-05-17 20:38:25,265 - INFO - Content: I remember doing Retribution on the highest difficulty, I remember that
+Was a peak gamemode. 
+2025-05-17 20:38:25,265 - INFO - Image Paths: ['https://preview.redd.it/he6wvmwv8d1f1.jpeg?auto=webp&s=f6fc601ba3f7d6cbd8252357c9bc899692e8d754']
+2025-05-17 20:38:25,265 - INFO - Video Path: 
+2025-05-17 20:38:25,320 - INFO - Downloaded media from https://preview.redd.it/he6wvmwv8d1f1.jpeg?auto=webp&s=f6fc601ba3f7d6cbd8252357c9bc899692e8d754 to temp_image.jpg
+2025-05-17 20:38:26,560 - INFO - Posted content successfully. Tweet ID: 1923840555366351134
