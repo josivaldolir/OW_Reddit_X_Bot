@@ -2346,3 +2346,10 @@ wasn't even an insult nor inappropriate, is their a reason why raccoons aren't a
 2025-05-17 14:14:34,724 - INFO - Video Path: 
 2025-05-17 14:14:34,932 - INFO - Downloaded media from https://preview.redd.it/f92bxe7kwb1f1.png?auto=webp&s=2f8ea9b3b5a3db715b3715bbb76073a2ee727a10 to temp_image.jpg
 2025-05-17 14:14:36,031 - INFO - Posted content successfully. Tweet ID: 1923743958280364181
+2025-05-17 14:38:42,979 - INFO - Content: This shit is tense bro
+I already scare of Junkerqueen in normal mode, she coming running after me with the damn axe, but in the stadium things are much more complicated and sometimes it even looks like a horror film
+2025-05-17 14:38:42,979 - INFO - Image Paths: ['https://preview.redd.it/5pjochvu8c1f1.jpeg?auto=webp&s=cad30456c23c4369faf6b65bd8e0ec9ac296815e']
+2025-05-17 14:38:42,979 - INFO - Video Path: 
+2025-05-17 14:38:43,136 - INFO - Downloaded media from https://preview.redd.it/5pjochvu8c1f1.jpeg?auto=webp&s=cad30456c23c4369faf6b65bd8e0ec9ac296815e to temp_image.jpg
+2025-05-17 14:38:43,829 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
