@@ -2353,3 +2353,10 @@ I already scare of Junkerqueen in normal mode, she coming running after me with 
 2025-05-17 14:38:43,136 - INFO - Downloaded media from https://preview.redd.it/5pjochvu8c1f1.jpeg?auto=webp&s=cad30456c23c4369faf6b65bd8e0ec9ac296815e to temp_image.jpg
 2025-05-17 14:38:43,829 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-17 15:13:49,701 - INFO - Content: This shit is tense bro
+I already scare of Junkerqueen in normal mode, she coming running after me with the damn axe, but in the stadium things are much more complicated and sometimes it even looks like a horror film
+2025-05-17 15:13:49,701 - INFO - Image Paths: ['https://preview.redd.it/5pjochvu8c1f1.jpeg?auto=webp&s=cad30456c23c4369faf6b65bd8e0ec9ac296815e']
+2025-05-17 15:13:49,701 - INFO - Video Path: 
+2025-05-17 15:13:49,850 - INFO - Downloaded media from https://preview.redd.it/5pjochvu8c1f1.jpeg?auto=webp&s=cad30456c23c4369faf6b65bd8e0ec9ac296815e to temp_image.jpg
+2025-05-17 15:13:50,499 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
