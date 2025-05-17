@@ -2226,3 +2226,10 @@ Early this season we got the Dokiwatch skins as avatars, and today I've just not
 2025-05-17 05:39:37,689 - INFO - Downloaded media from https://preview.redd.it/kh8tca4fj91f1.png?auto=webp&s=790d38482f6afe035ccb3fdf87f6ca8d179073c2 to temp_image.jpg
 2025-05-17 05:39:38,510 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-17 06:20:05,583 - INFO - Content: Likes attract likes
+
+2025-05-17 06:20:05,583 - INFO - Image Paths: ['https://preview.redd.it/gwfmrhdgt91f1.png?auto=webp&s=d52121eb01383fba2d5c1308369f8e74868e876a']
+2025-05-17 06:20:05,583 - INFO - Video Path: 
+2025-05-17 06:20:05,652 - INFO - Downloaded media from https://preview.redd.it/gwfmrhdgt91f1.png?auto=webp&s=d52121eb01383fba2d5c1308369f8e74868e876a to temp_image.jpg
+2025-05-17 06:20:06,206 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
