@@ -2459,3 +2459,12 @@ What is. Favouritecheese. You. Ok. Trampoline 💗
 2025-05-17 22:14:02,840 - INFO - Downloaded media from https://v.redd.it/8xmfu3hvjc1f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-05-17 22:14:04,949 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-17 22:14:15,313 - INFO - Posted content successfully. Tweet ID: 1923864667790729338
+2025-05-17 22:38:56,108 - INFO - Content: Juno’s graduation
+
+2025-05-17 22:38:56,108 - INFO - Image Paths: ['https://external-preview.redd.it/eWRxbDF4Yml6YjFmMTygUjVkRJi0260r3Nrz_MNN5Xzgebw9bao2a-QiSh6H.png?format=pjpg&auto=webp&s=1346a196217ace6556085c8216f10f9f2356c97f']
+2025-05-17 22:38:56,108 - INFO - Video Path: https://v.redd.it/wedkaheizb1f1/DASH_720.mp4?source=fallback
+2025-05-17 22:38:56,160 - INFO - Downloaded media from https://v.redd.it/wedkaheizb1f1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-05-17 22:38:56,182 - INFO - Downloaded media from https://v.redd.it/wedkaheizb1f1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-05-17 22:38:56,868 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-17 22:39:04,423 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
