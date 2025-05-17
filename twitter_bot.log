@@ -2285,3 +2285,11 @@ Too Many Requests
 2025-05-17 09:37:15,454 - INFO - Downloaded media from https://v.redd.it/65ubre91k91f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-05-17 09:37:15,816 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-17 09:37:22,566 - INFO - Posted content successfully. Tweet ID: 1923674192987201725
+2025-05-17 10:15:37,074 - INFO - Content: Ive never had this kind of interaction with Juno.
+
+2025-05-17 10:15:37,074 - INFO - Image Paths: ['https://external-preview.redd.it/dGM1ejRuYzQwNjFmMSIUDD49MVhDawsTfXEi2kyRZ0FCNCydl8aUk80U0Edn.png?format=pjpg&auto=webp&s=ea9c29cde2cf039178c8783f3f9fd72c0561d835']
+2025-05-17 10:15:37,074 - INFO - Video Path: https://v.redd.it/xp134yy2061f1/DASH_1080.mp4?source=fallback
+2025-05-17 10:15:37,711 - INFO - Downloaded media from https://v.redd.it/xp134yy2061f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-05-17 10:15:38,158 - INFO - Downloaded media from https://v.redd.it/xp134yy2061f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-05-17 10:15:38,584 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-17 10:16:16,682 - INFO - Posted content successfully. Tweet ID: 1923683982627176479
