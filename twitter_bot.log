@@ -2247,3 +2247,11 @@ Too Many Requests
 2025-05-17 07:13:41,361 - INFO - Downloaded media from https://preview.redd.it/gwfmrhdgt91f1.png?auto=webp&s=d52121eb01383fba2d5c1308369f8e74868e876a to temp_image.jpg
 2025-05-17 07:13:41,976 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-17 07:35:43,052 - INFO - Content: All heroes now have a battlenet avatar!
+Blizzard stopped adding new Overwatch avatars to bnet several heroes ago. I can't remember exactly when, but while Kiriko was available, Mauga definitely wasn't (aside from the cameo avatar from ow1)
+
+Early this season we got the Dokiwatch skins as avatars, and today I've just noticed that all ow2 heroes have their regular ow2-style avatars available, even Freja! Great news, and hopefully we don't fall so far behind the hero releases again in the future
+2025-05-17 07:35:43,052 - INFO - Image Paths: ['https://preview.redd.it/kh8tca4fj91f1.png?auto=webp&s=790d38482f6afe035ccb3fdf87f6ca8d179073c2']
+2025-05-17 07:35:43,052 - INFO - Video Path: 
+2025-05-17 07:35:43,272 - INFO - Downloaded media from https://preview.redd.it/kh8tca4fj91f1.png?auto=webp&s=790d38482f6afe035ccb3fdf87f6ca8d179073c2 to temp_image.jpg
+2025-05-17 07:35:44,824 - INFO - Posted content successfully. Tweet ID: 1923643582784864315
