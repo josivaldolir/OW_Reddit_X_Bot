@@ -2277,3 +2277,11 @@ Sorry for the quality, I couldn't get it better.
 2025-05-17 09:14:36,131 - INFO - Downloaded media from https://preview.redd.it/lk5k5zquy61f1.jpeg?auto=webp&s=2809171fdf7ae822c75153a1adad9093b4cad616 to temp_image.jpg
 2025-05-17 09:14:37,188 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-17 09:37:14,900 - INFO - Content: Lifeweaver creative way of blocking dva bomb
+
+2025-05-17 09:37:14,900 - INFO - Image Paths: ['https://external-preview.redd.it/OGd3dHRqOTFrOTFmMZnMI2xTGRsSNpmqWXZv0PaJ4x4GV2gBd94XFf4MTuvv.png?format=pjpg&auto=webp&s=29c8b47edc0f223357ab00d70b046cc92bd13d4e']
+2025-05-17 09:37:14,900 - INFO - Video Path: https://v.redd.it/65ubre91k91f1/DASH_1080.mp4?source=fallback
+2025-05-17 09:37:15,315 - INFO - Downloaded media from https://v.redd.it/65ubre91k91f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-05-17 09:37:15,454 - INFO - Downloaded media from https://v.redd.it/65ubre91k91f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-05-17 09:37:15,816 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-17 09:37:22,566 - INFO - Posted content successfully. Tweet ID: 1923674192987201725
