@@ -2255,3 +2255,12 @@ Early this season we got the Dokiwatch skins as avatars, and today I've just not
 2025-05-17 07:35:43,052 - INFO - Video Path: 
 2025-05-17 07:35:43,272 - INFO - Downloaded media from https://preview.redd.it/kh8tca4fj91f1.png?auto=webp&s=790d38482f6afe035ccb3fdf87f6ca8d179073c2 to temp_image.jpg
 2025-05-17 07:35:44,824 - INFO - Posted content successfully. Tweet ID: 1923643582784864315
+2025-05-17 08:18:08,826 - INFO - Content: Lifeweaver creative way of blocking dva bomb
+
+2025-05-17 08:18:08,826 - INFO - Image Paths: ['https://external-preview.redd.it/OGd3dHRqOTFrOTFmMZnMI2xTGRsSNpmqWXZv0PaJ4x4GV2gBd94XFf4MTuvv.png?format=pjpg&auto=webp&s=29c8b47edc0f223357ab00d70b046cc92bd13d4e']
+2025-05-17 08:18:08,826 - INFO - Video Path: https://v.redd.it/65ubre91k91f1/DASH_1080.mp4?source=fallback
+2025-05-17 08:18:09,229 - INFO - Downloaded media from https://v.redd.it/65ubre91k91f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-05-17 08:18:09,428 - INFO - Downloaded media from https://v.redd.it/65ubre91k91f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-05-17 08:18:09,812 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-17 08:18:17,042 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
