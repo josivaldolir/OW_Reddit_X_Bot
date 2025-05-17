@@ -2398,3 +2398,11 @@ Too Many Requests
 2025-05-17 17:37:46,423 - INFO - Downloaded media from https://preview.redd.it/v6f6mrd10d1f1.jpeg?auto=webp&s=897c03de87dc434c3efb6b4841fec76d5f2c1c48 to temp_image.jpg
 2025-05-17 17:37:47,122 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-17 18:19:20,678 - INFO - Content: This bug is an actual epilepsy risk, this was actually painful for me and i dont have epilepsy. Happened about 5 times this one game
+
+2025-05-17 18:19:20,678 - INFO - Image Paths: ['https://external-preview.redd.it/NGRxNjIzMWV0YjFmMaQR1k7kv6UG0mv5rqrcfToLN2ZWph_xdqQqk6Q4h5Ca.png?format=pjpg&auto=webp&s=8a502581c888cdbffd7a09bb8dea38f9f2a56b44']
+2025-05-17 18:19:20,678 - INFO - Video Path: https://v.redd.it/wsin448etb1f1/DASH_720.mp4?source=fallback
+2025-05-17 18:19:21,034 - INFO - Downloaded media from https://v.redd.it/wsin448etb1f1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-05-17 18:19:21,085 - INFO - Downloaded media from https://v.redd.it/wsin448etb1f1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-05-17 18:19:21,859 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-17 18:19:32,134 - INFO - Posted content successfully. Tweet ID: 1923805598371676197
