@@ -2211,3 +2211,9 @@ Too Many Requests
 2025-05-17 04:42:31,924 - INFO - Video Path: 
 2025-05-17 04:42:32,001 - INFO - Downloaded media from https://preview.redd.it/9qfmj0vdn81f1.jpeg?auto=webp&s=d1d8edb064ed4d3b64843a9c019ab2cd734b9929 to temp_image.jpg
 2025-05-17 04:42:33,532 - INFO - Posted content successfully. Tweet ID: 1923599998857670827
+2025-05-17 05:14:30,035 - INFO - Content: Done ruined my night
+
+2025-05-17 05:14:30,035 - INFO - Image Paths: ['https://preview.redd.it/r000spf9y71f1.jpeg?auto=webp&s=1589b4bd868ad84e8f42084247821c9a771d5d80']
+2025-05-17 05:14:30,035 - INFO - Video Path: 
+2025-05-17 05:14:30,403 - INFO - Downloaded media from https://preview.redd.it/r000spf9y71f1.jpeg?auto=webp&s=1589b4bd868ad84e8f42084247821c9a771d5d80 to temp_image.jpg
+2025-05-17 05:14:31,663 - INFO - Posted content successfully. Tweet ID: 1923608044551930033
