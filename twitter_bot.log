@@ -2293,3 +2293,10 @@ Too Many Requests
 2025-05-17 10:15:38,158 - INFO - Downloaded media from https://v.redd.it/xp134yy2061f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-05-17 10:15:38,584 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-17 10:16:16,682 - INFO - Posted content successfully. Tweet ID: 1923683982627176479
+2025-05-17 10:41:26,444 - INFO - Content: I'm gonna be honest, I don't think I'm finding a match
+
+2025-05-17 10:41:26,445 - INFO - Image Paths: ['https://preview.redd.it/14ad14nay81f1.png?width=2559&format=png&auto=webp&s=d2b681dc741be9e9be633c5c508f38165b713f82', 'https://preview.redd.it/sfvlkhyhy81f1.png?width=461&format=png&auto=webp&s=500c905d2e443104db9221ce4a5e08d89fb8f858']
+2025-05-17 10:41:26,445 - INFO - Video Path: 
+2025-05-17 10:41:26,586 - INFO - Downloaded media from https://preview.redd.it/14ad14nay81f1.png?width=2559&format=png&auto=webp&s=d2b681dc741be9e9be633c5c508f38165b713f82 to temp_image.jpg
+2025-05-17 10:41:27,337 - INFO - Downloaded media from https://preview.redd.it/sfvlkhyhy81f1.png?width=461&format=png&auto=webp&s=500c905d2e443104db9221ce4a5e08d89fb8f858 to temp_image.jpg
+2025-05-17 10:41:29,952 - INFO - Posted content successfully. Tweet ID: 1923690322275479979
