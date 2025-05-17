@@ -2413,3 +2413,10 @@ Too Many Requests
 2025-05-17 18:44:26,230 - INFO - Downloaded media from https://preview.redd.it/v6f6mrd10d1f1.jpeg?auto=webp&s=897c03de87dc434c3efb6b4841fec76d5f2c1c48 to temp_image.jpg
 2025-05-17 18:44:29,885 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-17 19:12:11,605 - INFO - Content: Everyone's a DPS if you play efficiently
+
+2025-05-17 19:12:11,605 - INFO - Image Paths: ['https://preview.redd.it/9wn7qqmqpd1f1.png?auto=webp&s=5e4bd642bf71499c4aa1a740cf18e8152720fe66']
+2025-05-17 19:12:11,605 - INFO - Video Path: 
+2025-05-17 19:12:11,761 - INFO - Downloaded media from https://preview.redd.it/9wn7qqmqpd1f1.png?auto=webp&s=5e4bd642bf71499c4aa1a740cf18e8152720fe66 to temp_image.jpg
+2025-05-17 19:12:12,357 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
