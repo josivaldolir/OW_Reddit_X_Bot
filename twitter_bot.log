@@ -2384,3 +2384,10 @@ Too Many Requests
 2025-05-17 16:44:53,045 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-17 16:45:00,279 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-17 17:12:24,603 - INFO - Content: Best way to play
+
+2025-05-17 17:12:24,604 - INFO - Image Paths: ['https://preview.redd.it/v6f6mrd10d1f1.jpeg?auto=webp&s=897c03de87dc434c3efb6b4841fec76d5f2c1c48']
+2025-05-17 17:12:24,604 - INFO - Video Path: 
+2025-05-17 17:12:24,721 - INFO - Downloaded media from https://preview.redd.it/v6f6mrd10d1f1.jpeg?auto=webp&s=897c03de87dc434c3efb6b4841fec76d5f2c1c48 to temp_image.jpg
+2025-05-17 17:12:25,429 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
