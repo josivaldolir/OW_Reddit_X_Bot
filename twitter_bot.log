@@ -2375,3 +2375,12 @@ I already scare of Junkerqueen in normal mode, she coming running after me with 
 2025-05-17 16:17:09,826 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-17 16:17:17,765 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-17 16:44:52,226 - INFO - Content: This bug is an actual epilepsy risk, this was actually painful for me and i dont have epilepsy. Happened about 5 times this one game
+
+2025-05-17 16:44:52,226 - INFO - Image Paths: ['https://external-preview.redd.it/NGRxNjIzMWV0YjFmMaQR1k7kv6UG0mv5rqrcfToLN2ZWph_xdqQqk6Q4h5Ca.png?format=pjpg&auto=webp&s=8a502581c888cdbffd7a09bb8dea38f9f2a56b44']
+2025-05-17 16:44:52,226 - INFO - Video Path: https://v.redd.it/wsin448etb1f1/DASH_720.mp4?source=fallback
+2025-05-17 16:44:52,421 - INFO - Downloaded media from https://v.redd.it/wsin448etb1f1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-05-17 16:44:52,455 - INFO - Downloaded media from https://v.redd.it/wsin448etb1f1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-05-17 16:44:53,045 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-17 16:45:00,279 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
