@@ -2909,3 +2909,9 @@ Too Many Requests
 2025-05-18 20:16:55,556 - INFO - Downloaded media from https://preview.redd.it/3ges5ucsok1f1.jpeg?auto=webp&s=c3579a0799237470daed6a9e255e41f026c1a30a to temp_image.jpg
 2025-05-18 20:16:56,336 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-18 20:38:04,815 - INFO - Content: What means "fat"?
+What does the term "fat" mean in PvP? At the end of a ranked match, I receive 4 commendations and 2 enemies wrote "fat reaper"
+2025-05-18 20:38:04,815 - INFO - Image Paths: []
+2025-05-18 20:38:04,815 - INFO - Video Path: 
+2025-05-18 20:38:05,061 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
