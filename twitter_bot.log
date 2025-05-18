@@ -2639,3 +2639,11 @@ Revealed characters in the Publication section. Subscribe to help the project!
 2025-05-18 10:41:06,537 - INFO - Video Path: 
 2025-05-18 10:41:06,602 - INFO - Downloaded media from https://preview.redd.it/jyutspdnwf1f1.png?auto=webp&s=53b831178127b7d2b82dc6af921695c5601a4b99 to temp_image.jpg
 2025-05-18 10:41:08,498 - INFO - Posted content successfully. Tweet ID: 1924052625257021562
+2025-05-18 11:11:37,876 - INFO - Content: If you could pick one character from every Role to come to Stadium who would you choose?
+
+2025-05-18 11:11:37,877 - INFO - Image Paths: ['https://preview.redd.it/szempyip1f1f1.jpg?width=1600&format=pjpg&auto=webp&s=f74d51ab6c55cea7ffee6191b228daad370142aa', 'https://preview.redd.it/vd3qo4002f1f1.jpg?width=1600&format=pjpg&auto=webp&s=9d387b67111d5c0ee7c409abd20508597afa497d', 'https://preview.redd.it/tsvztss92f1f1.png?width=1920&format=png&auto=webp&s=5a5d4c75190e6357464a3df20d093f87b1b22601']
+2025-05-18 11:11:37,877 - INFO - Video Path: 
+2025-05-18 11:11:37,939 - INFO - Downloaded media from https://preview.redd.it/szempyip1f1f1.jpg?width=1600&format=pjpg&auto=webp&s=f74d51ab6c55cea7ffee6191b228daad370142aa to temp_image.jpg
+2025-05-18 11:11:38,472 - INFO - Downloaded media from https://preview.redd.it/vd3qo4002f1f1.jpg?width=1600&format=pjpg&auto=webp&s=9d387b67111d5c0ee7c409abd20508597afa497d to temp_image.jpg
+2025-05-18 11:11:39,276 - INFO - Downloaded media from https://preview.redd.it/tsvztss92f1f1.png?width=1920&format=png&auto=webp&s=5a5d4c75190e6357464a3df20d093f87b1b22601 to temp_image.jpg
+2025-05-18 11:11:40,693 - INFO - Posted content successfully. Tweet ID: 1924060310358327469
