@@ -2888,3 +2888,10 @@ lastly is the new passive! this would just be good QoL and allow LW to dps more
 2025-05-18 18:44:16,841 - INFO - Downloaded media from https://preview.redd.it/p7ujw05swj1f1.jpeg?auto=webp&s=a69314c761c3c6bca5bada851410bacc45c1352f to temp_image.jpg
 2025-05-18 18:44:17,783 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-18 19:11:24,729 - INFO - Content: Title
+
+2025-05-18 19:11:24,730 - INFO - Image Paths: ['https://preview.redd.it/3ges5ucsok1f1.jpeg?auto=webp&s=c3579a0799237470daed6a9e255e41f026c1a30a']
+2025-05-18 19:11:24,730 - INFO - Video Path: 
+2025-05-18 19:11:24,979 - INFO - Downloaded media from https://preview.redd.it/3ges5ucsok1f1.jpeg?auto=webp&s=c3579a0799237470daed6a9e255e41f026c1a30a to temp_image.jpg
+2025-05-18 19:11:25,885 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
