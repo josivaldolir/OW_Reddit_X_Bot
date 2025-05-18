@@ -2812,3 +2812,12 @@ Alright then my desertion's finally over, Winston is the character of the day an
 2025-05-18 15:37:09,337 - INFO - Downloaded media from https://preview.redd.it/saobgl3tsi1f1.png?auto=webp&s=0e3929e6c0d48e35caaf0a020e9536e221309571 to temp_image.jpg
 2025-05-18 15:37:10,249 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-18 16:17:47,809 - INFO - Content: Reinhardt is a vertical hero!
+
+2025-05-18 16:17:47,809 - INFO - Image Paths: ['https://external-preview.redd.it/ZnhtOXVzOTN5ajFmMehyglw3RewSRMBlAGYtKzkHBBpmX_RywgAzpBDptY6t.png?format=pjpg&auto=webp&s=fa96080a2ca38e663af8912bef4156d0e1bfc002']
+2025-05-18 16:17:47,809 - INFO - Video Path: https://v.redd.it/x9ziea93yj1f1/DASH_1080.mp4?source=fallback
+2025-05-18 16:17:48,094 - INFO - Downloaded media from https://v.redd.it/x9ziea93yj1f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-05-18 16:17:48,223 - INFO - Downloaded media from https://v.redd.it/x9ziea93yj1f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-05-18 16:17:50,490 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-18 16:17:59,954 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
