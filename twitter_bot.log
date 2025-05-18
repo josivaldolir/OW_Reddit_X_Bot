@@ -2587,3 +2587,10 @@ i hope you enjoy !!
 2025-05-18 07:13:46,474 - INFO - Downloaded media from https://preview.redd.it/s3lt48xe0g1f1.jpg?width=2710&format=pjpg&auto=webp&s=c4e26fb8d2ac74fe140940d72ced9230e00c160f to temp_image.jpg
 2025-05-18 07:13:48,182 - INFO - Downloaded media from https://preview.redd.it/snqldb3f0g1f1.jpg?width=3084&format=pjpg&auto=webp&s=ebdb577f8c945e28908eb305e44391e62633f431 to temp_image.jpg
 2025-05-18 07:13:50,686 - INFO - Posted content successfully. Tweet ID: 1924000457850224939
+2025-05-18 07:36:19,701 - INFO - Content: Pure art.
+
+2025-05-18 07:36:19,701 - INFO - Image Paths: ['https://preview.redd.it/evkhj7qi6c1f1.jpeg?auto=webp&s=8d0c5785e1d820a3d41d8c1abe79bace3a630a04']
+2025-05-18 07:36:19,702 - INFO - Video Path: 
+2025-05-18 07:36:19,845 - INFO - Downloaded media from https://preview.redd.it/evkhj7qi6c1f1.jpeg?auto=webp&s=8d0c5785e1d820a3d41d8c1abe79bace3a630a04 to temp_image.jpg
+2025-05-18 07:36:20,625 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
