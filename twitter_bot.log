@@ -2614,3 +2614,9 @@ Why do they allow already purchased items in the vault. It seems like a pretty e
 2025-05-18 09:14:14,805 - INFO - Downloaded media from https://preview.redd.it/ycuvt6gqbf1f1.jpeg?auto=webp&s=747cb1a11c0b2dab2eff3d892a216db7bf259ee6 to temp_image.jpg
 2025-05-18 09:14:16,355 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-18 09:39:08,054 - INFO - Content: What is this?
+Why do they allow already purchased items in the vault. It seems like a pretty easy thing to avoid 
+2025-05-18 09:39:08,054 - INFO - Image Paths: ['https://preview.redd.it/ycuvt6gqbf1f1.jpeg?auto=webp&s=747cb1a11c0b2dab2eff3d892a216db7bf259ee6']
+2025-05-18 09:39:08,054 - INFO - Video Path: 
+2025-05-18 09:39:08,162 - INFO - Downloaded media from https://preview.redd.it/ycuvt6gqbf1f1.jpeg?auto=webp&s=747cb1a11c0b2dab2eff3d892a216db7bf259ee6 to temp_image.jpg
+2025-05-18 09:39:11,210 - INFO - Posted content successfully. Tweet ID: 1924037033624011214
