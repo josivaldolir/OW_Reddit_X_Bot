@@ -2821,3 +2821,12 @@ Too Many Requests
 2025-05-18 16:17:50,490 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-18 16:17:59,954 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-18 16:42:43,242 - INFO - Content: Reinhardt is a vertical hero!
+
+2025-05-18 16:42:43,242 - INFO - Image Paths: ['https://external-preview.redd.it/ZnhtOXVzOTN5ajFmMehyglw3RewSRMBlAGYtKzkHBBpmX_RywgAzpBDptY6t.png?format=pjpg&auto=webp&s=fa96080a2ca38e663af8912bef4156d0e1bfc002']
+2025-05-18 16:42:43,242 - INFO - Video Path: https://v.redd.it/x9ziea93yj1f1/DASH_1080.mp4?source=fallback
+2025-05-18 16:42:44,962 - INFO - Downloaded media from https://v.redd.it/x9ziea93yj1f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-05-18 16:42:45,111 - INFO - Downloaded media from https://v.redd.it/x9ziea93yj1f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-05-18 16:42:45,505 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-18 16:42:56,922 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
