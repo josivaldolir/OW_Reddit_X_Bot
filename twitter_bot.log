@@ -2519,3 +2519,9 @@ A heartbroken Sombra main 😞
 2025-05-18 04:26:20,173 - INFO - Downloaded media from https://preview.redd.it/3z0o9d0xag1f1.jpeg?auto=webp&s=dcf5f4b95046e5f7f6210cbeeeab04475efc1285 to temp_image.jpg
 2025-05-18 04:26:20,805 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-18 04:47:50,896 - INFO - Content: Wake up honey, a new reason why they lost got dropped
+
+2025-05-18 04:47:50,896 - INFO - Image Paths: ['https://preview.redd.it/3z0o9d0xag1f1.jpeg?auto=webp&s=dcf5f4b95046e5f7f6210cbeeeab04475efc1285']
+2025-05-18 04:47:50,896 - INFO - Video Path: 
+2025-05-18 04:47:50,952 - INFO - Downloaded media from https://preview.redd.it/3z0o9d0xag1f1.jpeg?auto=webp&s=dcf5f4b95046e5f7f6210cbeeeab04475efc1285 to temp_image.jpg
+2025-05-18 04:47:52,322 - INFO - Posted content successfully. Tweet ID: 1923963724295176566
