@@ -2653,3 +2653,11 @@ Sorry for the quality, I couldn't get it better.
 2025-05-18 11:37:10,438 - INFO - Video Path: 
 2025-05-18 11:37:10,483 - INFO - Downloaded media from https://preview.redd.it/lk5k5zquy61f1.jpeg?auto=webp&s=2809171fdf7ae822c75153a1adad9093b4cad616 to temp_image.jpg
 2025-05-18 11:37:11,425 - INFO - Posted content successfully. Tweet ID: 1924066732534108282
+2025-05-18 12:28:07,288 - INFO - Content: This has got to be the ugliest torb skin
+
+2025-05-18 12:28:07,288 - INFO - Image Paths: ['https://external-preview.redd.it/ZW94dm8yY3Z2aTFmMQUTwVAThM_jmft2cUwI4pQ7Tv2390n23iOb0j14NclU.png?format=pjpg&auto=webp&s=e9c9ebb0e396105b2c47ee5275f39a9fb9a641dc']
+2025-05-18 12:28:07,288 - INFO - Video Path: https://v.redd.it/38vvyhdvvi1f1/DASH_1080.mp4?source=fallback
+2025-05-18 12:28:07,655 - INFO - Downloaded media from https://v.redd.it/38vvyhdvvi1f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-05-18 12:28:07,734 - INFO - Downloaded media from https://v.redd.it/38vvyhdvvi1f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-05-18 12:28:08,475 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-18 12:28:12,626 - INFO - Posted content successfully. Tweet ID: 1924079572422942878
