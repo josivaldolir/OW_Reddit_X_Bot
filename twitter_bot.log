@@ -2934,3 +2934,9 @@ I changed shit and I forgot to add Cass I think but he'd be in D sorry cass
 2025-05-18 22:13:38,658 - INFO - Downloaded media from https://preview.redd.it/pl35qn4uql1f1.png?auto=webp&s=cf2b153041eb51c9bbd18398b96e18bb2792256f to temp_image.jpg
 2025-05-18 22:13:39,417 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-18 22:39:24,887 - INFO - Content: What means "fat"?
+What does the term "fat" mean in PvP? At the end of a ranked match, I receive 4 commendations and 2 enemies wrote "fat reaper"
+2025-05-18 22:39:24,887 - INFO - Image Paths: []
+2025-05-18 22:39:24,887 - INFO - Video Path: 
+2025-05-18 22:39:25,060 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
