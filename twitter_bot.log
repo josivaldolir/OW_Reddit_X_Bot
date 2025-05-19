@@ -3101,3 +3101,11 @@ But I have never seen minus progression after a victory…
 2025-05-19 12:33:15,976 - INFO - Video Path: 
 2025-05-19 12:33:15,999 - INFO - Downloaded media from https://preview.redd.it/lm2bjhedyn1f1.jpeg?auto=webp&s=2728f2ff5caf38d4da9b65f613bc36fb3a5aaeaa to temp_image.jpg
 2025-05-19 12:33:17,141 - INFO - Posted content successfully. Tweet ID: 1924443237210628097
+2025-05-19 13:28:49,744 - INFO - Content: Three? Where's the rest of them?
+
+2025-05-19 13:28:49,744 - INFO - Image Paths: ['https://external-preview.redd.it/bXh0MzAzNzJlcTFmMd2Qzjmb7B0qsq0leC23MarvPmp2MIbshumQpu7t9z98.png?format=pjpg&auto=webp&s=76fbbc008e86329375917e87398078cc1536dd64']
+2025-05-19 13:28:49,744 - INFO - Video Path: https://v.redd.it/55i8t172eq1f1/DASH_270.mp4?source=fallback
+2025-05-19 13:28:49,846 - INFO - Downloaded media from https://v.redd.it/55i8t172eq1f1/DASH_270.mp4?source=fallback to temp_video.mp4
+2025-05-19 13:28:49,874 - INFO - Downloaded media from https://v.redd.it/55i8t172eq1f1/DASH_270.mp4?source=fallback to temp_audio.mp4
+2025-05-19 13:28:50,120 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-19 13:28:52,347 - INFO - Posted content successfully. Tweet ID: 1924457226673979846
