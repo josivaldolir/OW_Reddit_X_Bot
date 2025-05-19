@@ -2995,3 +2995,10 @@ Too Many Requests
 2025-05-19 05:42:09,901 - INFO - Video Path: 
 2025-05-19 05:42:10,220 - INFO - Downloaded media from https://preview.redd.it/jw0ovumqxn1f1.png?auto=webp&s=89aced279c3b4763735318cb4a91d38aa8e60373 to temp_image.jpg
 2025-05-19 05:42:11,918 - INFO - Posted content successfully. Tweet ID: 1924339782584533391
+2025-05-19 06:23:08,745 - INFO - Content: Crippling peanut butter addiction
+
+2025-05-19 06:23:08,745 - INFO - Image Paths: ['https://preview.redd.it/pui4v8kexm1f1.jpeg?auto=webp&s=fd51e3a67de5fcfba5a7fa7688e0b34572f12d8e']
+2025-05-19 06:23:08,745 - INFO - Video Path: 
+2025-05-19 06:23:08,821 - INFO - Downloaded media from https://preview.redd.it/pui4v8kexm1f1.jpeg?auto=webp&s=fd51e3a67de5fcfba5a7fa7688e0b34572f12d8e to temp_image.jpg
+2025-05-19 06:23:10,352 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
