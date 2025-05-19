@@ -3164,3 +3164,9 @@ Too Many Requests
 2025-05-19 17:13:55,818 - INFO - Video Path: 
 2025-05-19 17:13:56,022 - INFO - Downloaded media from https://preview.redd.it/1wtpmot5ir1f1.png?auto=webp&s=f49013b218fb780a6a755cc6ec7e7756ac87bd96 to temp_image.jpg
 2025-05-19 17:13:57,534 - INFO - Posted content successfully. Tweet ID: 1924513868694618538
+2025-05-19 17:40:02,537 - INFO - Content: Overwatch 2 x Street Fighter 6 | Gameplay Trailer
+
+2025-05-19 17:40:02,538 - INFO - Image Paths: ['https://external-preview.redd.it/IJEf9pxG-0RsVzBnqcTM0Ol6aqqFtxnIF-5BuK_7-Qk.jpg?auto=webp&s=5646072abd5a7c6b122607a59646f1b7dab50c6e']
+2025-05-19 17:40:02,538 - INFO - Video Path: 
+2025-05-19 17:40:02,605 - INFO - Downloaded media from https://external-preview.redd.it/IJEf9pxG-0RsVzBnqcTM0Ol6aqqFtxnIF-5BuK_7-Qk.jpg?auto=webp&s=5646072abd5a7c6b122607a59646f1b7dab50c6e to temp_image.jpg
+2025-05-19 17:40:03,549 - INFO - Posted content successfully. Tweet ID: 1924520439801643324
