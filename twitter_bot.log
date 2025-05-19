@@ -3042,3 +3042,10 @@ But I have never seen minus progression after a victory…
 2025-05-19 08:22:56,318 - INFO - Downloaded media from https://preview.redd.it/lm2bjhedyn1f1.jpeg?auto=webp&s=2728f2ff5caf38d4da9b65f613bc36fb3a5aaeaa to temp_image.jpg
 2025-05-19 08:22:57,267 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-19 08:49:41,623 - INFO - Content: Crippling peanut butter addiction
+
+2025-05-19 08:49:41,623 - INFO - Image Paths: ['https://preview.redd.it/pui4v8kexm1f1.jpeg?auto=webp&s=fd51e3a67de5fcfba5a7fa7688e0b34572f12d8e']
+2025-05-19 08:49:41,623 - INFO - Video Path: 
+2025-05-19 08:49:41,652 - INFO - Downloaded media from https://preview.redd.it/pui4v8kexm1f1.jpeg?auto=webp&s=fd51e3a67de5fcfba5a7fa7688e0b34572f12d8e to temp_image.jpg
+2025-05-19 08:49:42,357 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
