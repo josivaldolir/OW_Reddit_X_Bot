@@ -3076,3 +3076,10 @@ I changed shit and I forgot to add Cass I think but he'd be in D sorry cass
 2025-05-19 10:45:21,539 - INFO - Video Path: 
 2025-05-19 10:45:21,751 - INFO - Downloaded media from https://preview.redd.it/pl35qn4uql1f1.png?auto=webp&s=cf2b153041eb51c9bbd18398b96e18bb2792256f to temp_image.jpg
 2025-05-19 10:45:23,127 - INFO - Posted content successfully. Tweet ID: 1924416082645045652
+2025-05-19 11:13:29,539 - INFO - Content: Two Illusratrations inspired by Tarot cards
+
+2025-05-19 11:13:29,539 - INFO - Image Paths: ['https://preview.redd.it/zvpucpiabp1f1.png?width=2480&format=png&auto=webp&s=c352b8096b61f57d2fc7f8f7d7fba2d0dfa461a2', 'https://preview.redd.it/ij2lynzabp1f1.png?width=2480&format=png&auto=webp&s=1ec5fd0807d202558078b00dfe9e9b0d411003ab']
+2025-05-19 11:13:29,539 - INFO - Video Path: 
+2025-05-19 11:13:29,758 - INFO - Downloaded media from https://preview.redd.it/zvpucpiabp1f1.png?width=2480&format=png&auto=webp&s=c352b8096b61f57d2fc7f8f7d7fba2d0dfa461a2 to temp_image.jpg
+2025-05-19 11:13:30,438 - INFO - Downloaded media from https://preview.redd.it/ij2lynzabp1f1.png?width=2480&format=png&auto=webp&s=1ec5fd0807d202558078b00dfe9e9b0d411003ab to temp_image.jpg
+2025-05-19 11:13:33,537 - INFO - Posted content successfully. Tweet ID: 1924423165020713135
