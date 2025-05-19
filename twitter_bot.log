@@ -3255,3 +3255,10 @@ Not picking Brig against hard dive is an instant 🚩, especially if you have an
 2025-05-19 23:14:30,042 - INFO - Video Path: 
 2025-05-19 23:14:30,093 - INFO - Downloaded media from https://preview.redd.it/jypk4zq3os1f1.png?auto=webp&s=635b752d9b865bead37bb3b37ca2d493fe24ef9f to temp_image.jpg
 2025-05-19 23:14:31,273 - INFO - Posted content successfully. Tweet ID: 1924604608816570836
+2025-05-19 23:37:39,795 - INFO - Content: Are you guys playing 4D chess or...?
+
+2025-05-19 23:37:39,795 - INFO - Image Paths: ['https://preview.redd.it/0cqs03w4qs1f1.jpeg?auto=webp&s=d762ef4af9719462b4ce8dba88841a62019ac05e']
+2025-05-19 23:37:39,795 - INFO - Video Path: 
+2025-05-19 23:37:40,009 - INFO - Downloaded media from https://preview.redd.it/0cqs03w4qs1f1.jpeg?auto=webp&s=d762ef4af9719462b4ce8dba88841a62019ac05e to temp_image.jpg
+2025-05-19 23:37:41,256 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
