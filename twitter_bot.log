@@ -3151,3 +3151,10 @@ Plz Blizzard, let us earn more!
 2025-05-19 16:19:13,226 - INFO - Video Path: 
 2025-05-19 16:19:13,428 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-19 16:47:12,567 - INFO - Content: The Overwatch 2 X Street Fighter Collaboration Is "A Match Made In Heaven"
+[https://www.gamespot.com/articles/the-overwatch-2-x-street-fighter-collaboration-is-a-match-made-in-heaven/1100-6531643/](https://www.gamespot.com/articles/the-overwatch-2-x-street-fighter-collaboration-is-a-match-made-in-heaven/1100-6531643/)
+2025-05-19 16:47:12,567 - INFO - Image Paths: ['https://preview.redd.it/1wtpmot5ir1f1.png?auto=webp&s=f49013b218fb780a6a755cc6ec7e7756ac87bd96']
+2025-05-19 16:47:12,567 - INFO - Video Path: 
+2025-05-19 16:47:12,663 - INFO - Downloaded media from https://preview.redd.it/1wtpmot5ir1f1.png?auto=webp&s=f49013b218fb780a6a755cc6ec7e7756ac87bd96 to temp_image.jpg
+2025-05-19 16:47:13,425 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
