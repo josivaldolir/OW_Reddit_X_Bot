@@ -3179,3 +3179,13 @@ I would like apologise for anyone who remembers or likes my series I haven’t  
 2025-05-19 18:21:31,154 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-19 18:21:40,546 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-19 18:48:06,821 - INFO - Content: Street Fighter 6 Collab Skin Models In-Game Screenshots
+
+2025-05-19 18:48:06,821 - INFO - Image Paths: ['https://preview.redd.it/s3v917dhur1f1.png?width=3840&format=png&auto=webp&s=6a26b11139b3ef9ee0c1eef2d7d3b2f0b24595ae', 'https://preview.redd.it/8qcv83dhur1f1.png?width=3840&format=png&auto=webp&s=3d88bf985bb625b81f12a6d8ded73703ec80daba', 'https://preview.redd.it/3x23j4dhur1f1.png?width=3840&format=png&auto=webp&s=893436df800624360eae0d14474f68a5d2e33c80', 'https://preview.redd.it/jcfm23dhur1f1.png?width=3840&format=png&auto=webp&s=a7567a90a47d51d23af83f53d2c9ba37b951eab0']
+2025-05-19 18:48:06,821 - INFO - Video Path: 
+2025-05-19 18:48:06,916 - INFO - Downloaded media from https://preview.redd.it/s3v917dhur1f1.png?width=3840&format=png&auto=webp&s=6a26b11139b3ef9ee0c1eef2d7d3b2f0b24595ae to temp_image.jpg
+2025-05-19 18:48:07,923 - INFO - Downloaded media from https://preview.redd.it/8qcv83dhur1f1.png?width=3840&format=png&auto=webp&s=3d88bf985bb625b81f12a6d8ded73703ec80daba to temp_image.jpg
+2025-05-19 18:48:08,721 - INFO - Downloaded media from https://preview.redd.it/3x23j4dhur1f1.png?width=3840&format=png&auto=webp&s=893436df800624360eae0d14474f68a5d2e33c80 to temp_image.jpg
+2025-05-19 18:48:09,579 - INFO - Downloaded media from https://preview.redd.it/jcfm23dhur1f1.png?width=3840&format=png&auto=webp&s=a7567a90a47d51d23af83f53d2c9ba37b951eab0 to temp_image.jpg
+2025-05-19 18:48:10,575 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
