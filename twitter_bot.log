@@ -3056,3 +3056,11 @@ Too Many Requests
 2025-05-19 09:17:38,256 - INFO - Downloaded media from https://preview.redd.it/pui4v8kexm1f1.jpeg?auto=webp&s=fd51e3a67de5fcfba5a7fa7688e0b34572f12d8e to temp_image.jpg
 2025-05-19 09:17:39,049 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-19 09:41:56,468 - INFO - Content: Two Illusratrations inspired by Tarot cards
+
+2025-05-19 09:41:56,469 - INFO - Image Paths: ['https://preview.redd.it/zvpucpiabp1f1.png?width=2480&format=png&auto=webp&s=c352b8096b61f57d2fc7f8f7d7fba2d0dfa461a2', 'https://preview.redd.it/ij2lynzabp1f1.png?width=2480&format=png&auto=webp&s=1ec5fd0807d202558078b00dfe9e9b0d411003ab']
+2025-05-19 09:41:56,469 - INFO - Video Path: 
+2025-05-19 09:41:56,624 - INFO - Downloaded media from https://preview.redd.it/zvpucpiabp1f1.png?width=2480&format=png&auto=webp&s=c352b8096b61f57d2fc7f8f7d7fba2d0dfa461a2 to temp_image.jpg
+2025-05-19 09:41:57,265 - INFO - Downloaded media from https://preview.redd.it/ij2lynzabp1f1.png?width=2480&format=png&auto=webp&s=1ec5fd0807d202558078b00dfe9e9b0d411003ab to temp_image.jpg
+2025-05-19 09:41:57,881 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
