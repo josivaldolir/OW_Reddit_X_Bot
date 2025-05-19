@@ -3243,3 +3243,9 @@ Too Many Requests
 2025-05-19 22:15:03,958 - INFO - Downloaded media from https://preview.redd.it/jcfm23dhur1f1.png?width=3840&format=png&auto=webp&s=a7567a90a47d51d23af83f53d2c9ba37b951eab0 to temp_image.jpg
 2025-05-19 22:15:05,025 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-19 22:41:28,468 - INFO - Content: this was way funnier in my head
+
+2025-05-19 22:41:28,468 - INFO - Image Paths: ['https://preview.redd.it/7q9bqzqlgs1f1.png?auto=webp&s=c69cc858ea01d44b984853ef9d294999e59e9774']
+2025-05-19 22:41:28,468 - INFO - Video Path: 
+2025-05-19 22:41:28,537 - INFO - Downloaded media from https://preview.redd.it/7q9bqzqlgs1f1.png?auto=webp&s=c69cc858ea01d44b984853ef9d294999e59e9774 to temp_image.jpg
+2025-05-19 22:41:29,756 - INFO - Posted content successfully. Tweet ID: 1924596298780705280
