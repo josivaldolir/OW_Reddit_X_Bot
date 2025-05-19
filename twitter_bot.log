@@ -3115,3 +3115,11 @@ I get she's dominant or even oppressive in the right hands but damn!
 2025-05-19 13:49:17,754 - INFO - Video Path: 
 2025-05-19 13:49:17,800 - INFO - Downloaded media from https://preview.redd.it/w71730dnoq1f1.png?auto=webp&s=1199f03e3e3f9ae66fd4dc9b95e948f5512f95db to temp_image.jpg
 2025-05-19 13:49:18,635 - INFO - Posted content successfully. Tweet ID: 1924462369981550826
+2025-05-19 14:17:39,067 - INFO - Content: I honestly would have just left her
+
+2025-05-19 14:17:39,067 - INFO - Image Paths: ['https://external-preview.redd.it/ZXFuOWNxemZ2bDFmMTFeU6i8z9XiNp-ebpv_Dl-auPIiqzKpqZ4SCPJ0LW_z.png?format=pjpg&auto=webp&s=ce1564664c7ce0aa871f815050f0e3700131a922']
+2025-05-19 14:17:39,067 - INFO - Video Path: https://v.redd.it/l1i6nqzfvl1f1/DASH_720.mp4?source=fallback
+2025-05-19 14:17:39,125 - INFO - Downloaded media from https://v.redd.it/l1i6nqzfvl1f1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-05-19 14:17:39,144 - INFO - Downloaded media from https://v.redd.it/l1i6nqzfvl1f1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-05-19 14:17:46,917 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-19 14:17:54,660 - INFO - Posted content successfully. Tweet ID: 1924469567528575041
