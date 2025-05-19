@@ -3002,3 +3002,10 @@ Too Many Requests
 2025-05-19 06:23:08,821 - INFO - Downloaded media from https://preview.redd.it/pui4v8kexm1f1.jpeg?auto=webp&s=fd51e3a67de5fcfba5a7fa7688e0b34572f12d8e to temp_image.jpg
 2025-05-19 06:23:10,352 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-19 06:50:28,665 - INFO - Content: That damn Christmas Bastion skin.
+I always laughed at the videos of people being 1 coin short for a new skin, coincidentally because of the Gingerbread Bastion skin. Today, I am people.
+2025-05-19 06:50:28,665 - INFO - Image Paths: ['https://preview.redd.it/6cj1r1dr9n1f1.jpg?width=178&format=pjpg&auto=webp&s=9a8e0d740cfe7af168035964a8132bb795fe16c2', 'https://preview.redd.it/2rr0dwer9n1f1.jpg?width=729&format=pjpg&auto=webp&s=d59153b8343df9918f6dd407f46f93295ea36a45']
+2025-05-19 06:50:28,665 - INFO - Video Path: 
+2025-05-19 06:50:28,878 - INFO - Downloaded media from https://preview.redd.it/6cj1r1dr9n1f1.jpg?width=178&format=pjpg&auto=webp&s=9a8e0d740cfe7af168035964a8132bb795fe16c2 to temp_image.jpg
+2025-05-19 06:50:29,634 - INFO - Downloaded media from https://preview.redd.it/2rr0dwer9n1f1.jpg?width=729&format=pjpg&auto=webp&s=d59153b8343df9918f6dd407f46f93295ea36a45 to temp_image.jpg
+2025-05-19 06:50:30,937 - INFO - Posted content successfully. Tweet ID: 1924356976152338784
