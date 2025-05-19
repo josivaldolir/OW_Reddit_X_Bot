@@ -3170,3 +3170,12 @@ Too Many Requests
 2025-05-19 17:40:02,538 - INFO - Video Path: 
 2025-05-19 17:40:02,605 - INFO - Downloaded media from https://external-preview.redd.it/IJEf9pxG-0RsVzBnqcTM0Ol6aqqFtxnIF-5BuK_7-Qk.jpg?auto=webp&s=5646072abd5a7c6b122607a59646f1b7dab50c6e to temp_image.jpg
 2025-05-19 17:40:03,549 - INFO - Posted content successfully. Tweet ID: 1924520439801643324
+2025-05-19 18:21:28,238 - INFO - Content: Day 10 as a marvel rivals player playing overwatch 2
+I would like apologise for anyone who remembers or likes my series I haven’t  been playing for over two months I’ve been busy with life playing different games and having fun with rivals personal issues all that stuff but The new update for overwatch has peaked my interest a lot from the new game mode with the customising your character 6v6 and third person which when I saw I was pretty excited about but for now, I did some games with sigma as I am magneto main on rivals and I must say they’re pretty much the same but different so this post mark on my return to form and try to play more overwatch so yeah sorry for the long wait and I love you all 
+2025-05-19 18:21:28,238 - INFO - Image Paths: ['https://external-preview.redd.it/YzYycGtyZXh2cjFmMf8F9lWhwoDVIb2D8DEOUnaV5tp_gfEk_pplwmUq3yVq.png?format=pjpg&auto=webp&s=ddc649cd32fa305dc906c28c5c5020b0a00b6579']
+2025-05-19 18:21:28,238 - INFO - Video Path: https://v.redd.it/atansskxvr1f1/DASH_1080.mp4?source=fallback
+2025-05-19 18:21:29,618 - INFO - Downloaded media from https://v.redd.it/atansskxvr1f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-05-19 18:21:30,537 - INFO - Downloaded media from https://v.redd.it/atansskxvr1f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-05-19 18:21:31,154 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-19 18:21:40,546 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
