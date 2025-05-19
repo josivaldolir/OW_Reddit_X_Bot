@@ -3029,3 +3029,16 @@ Too Many Requests
 2025-05-19 07:38:27,362 - INFO - Downloaded media from https://preview.redd.it/pui4v8kexm1f1.jpeg?auto=webp&s=fd51e3a67de5fcfba5a7fa7688e0b34572f12d8e to temp_image.jpg
 2025-05-19 07:38:28,399 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-19 08:22:56,055 - INFO - Content: I tried so hard and got so far…
+Could someone please explain this? 
+Our buddy is Plat 4 after playing his placements with us, and got the same sort of stats as we do, not great not terrible but when ever we play now we get into wide matches, and when we finally manage to win a Wide one. This happens. 
+
+But I have never seen minus progression after a victory…
+
+
+
+2025-05-19 08:22:56,055 - INFO - Image Paths: ['https://preview.redd.it/lm2bjhedyn1f1.jpeg?auto=webp&s=2728f2ff5caf38d4da9b65f613bc36fb3a5aaeaa']
+2025-05-19 08:22:56,055 - INFO - Video Path: 
+2025-05-19 08:22:56,318 - INFO - Downloaded media from https://preview.redd.it/lm2bjhedyn1f1.jpeg?auto=webp&s=2728f2ff5caf38d4da9b65f613bc36fb3a5aaeaa to temp_image.jpg
+2025-05-19 08:22:57,267 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
