@@ -3123,3 +3123,11 @@ I get she's dominant or even oppressive in the right hands but damn!
 2025-05-19 14:17:39,144 - INFO - Downloaded media from https://v.redd.it/l1i6nqzfvl1f1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-05-19 14:17:46,917 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-19 14:17:54,660 - INFO - Posted content successfully. Tweet ID: 1924469567528575041
+2025-05-19 14:43:58,008 - INFO - Content: Roadhog slingshot compilation
+
+2025-05-19 14:43:58,008 - INFO - Image Paths: ['https://external-preview.redd.it/aGN6ZmNjcDVqcDFmMbzDjoCW8IKIqRXMev0x1jkJRWM3sC8vwLmSWdYadUG-.png?format=pjpg&auto=webp&s=28d9c49bc31c02395c02c86787c9a8e12c67132e']
+2025-05-19 14:43:58,008 - INFO - Video Path: https://v.redd.it/498eoez5jp1f1/DASH_480.mp4?source=fallback
+2025-05-19 14:43:58,969 - INFO - Downloaded media from https://v.redd.it/498eoez5jp1f1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-05-19 14:43:59,119 - INFO - Downloaded media from https://v.redd.it/498eoez5jp1f1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-05-19 14:44:01,481 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-19 14:44:09,515 - INFO - Posted content successfully. Tweet ID: 1924476173050139038
