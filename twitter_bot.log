@@ -2989,3 +2989,9 @@ I always laughed at the videos of people being 1 coin short for a new skin, coin
 2025-05-19 05:15:37,041 - INFO - Downloaded media from https://preview.redd.it/2rr0dwer9n1f1.jpg?width=729&format=pjpg&auto=webp&s=d59153b8343df9918f6dd407f46f93295ea36a45 to temp_image.jpg
 2025-05-19 05:15:37,610 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-19 05:42:09,901 - INFO - Content: WOE! GRAVITY BE UPON THEE!
+
+2025-05-19 05:42:09,901 - INFO - Image Paths: ['https://preview.redd.it/jw0ovumqxn1f1.png?auto=webp&s=89aced279c3b4763735318cb4a91d38aa8e60373']
+2025-05-19 05:42:09,901 - INFO - Video Path: 
+2025-05-19 05:42:10,220 - INFO - Downloaded media from https://preview.redd.it/jw0ovumqxn1f1.png?auto=webp&s=89aced279c3b4763735318cb4a91d38aa8e60373 to temp_image.jpg
+2025-05-19 05:42:11,918 - INFO - Posted content successfully. Tweet ID: 1924339782584533391
