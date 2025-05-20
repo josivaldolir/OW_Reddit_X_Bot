@@ -3368,3 +3368,10 @@ Idk why this moment has resurfaced as a meme recently. But might as well use it 
 2025-05-20 09:41:52,697 - INFO - Downloaded media from https://preview.redd.it/qcysi12v9v1f1.jpeg?auto=webp&s=ec295df47aa0a43b4aa9f9f88eff84df8c44fbbd to temp_image.jpg
 2025-05-20 09:41:53,413 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-20 10:17:42,711 - INFO - Content: We've all had this happen 🤣 (OC)
+Idk why this moment has resurfaced as a meme recently. But might as well use it 🤭
+2025-05-20 10:17:42,711 - INFO - Image Paths: ['https://preview.redd.it/qcysi12v9v1f1.jpeg?auto=webp&s=ec295df47aa0a43b4aa9f9f88eff84df8c44fbbd']
+2025-05-20 10:17:42,711 - INFO - Video Path: 
+2025-05-20 10:17:42,844 - INFO - Downloaded media from https://preview.redd.it/qcysi12v9v1f1.jpeg?auto=webp&s=ec295df47aa0a43b4aa9f9f88eff84df8c44fbbd to temp_image.jpg
+2025-05-20 10:17:43,425 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
