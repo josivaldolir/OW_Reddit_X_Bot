@@ -3326,3 +3326,10 @@ I know it’s basically just “roadhog = fat” but I E. Honda was lowkey my fa
 2025-05-20 06:49:34,645 - INFO - Downloaded media from https://preview.redd.it/dqs7ttln7u1f1.jpg?width=950&format=pjpg&auto=webp&s=675f6d015498ee76a1767f588b4e7b9dad7b0791 to temp_image.jpg
 2025-05-20 06:49:35,125 - INFO - Downloaded media from https://preview.redd.it/wceo6tln7u1f1.jpg?width=220&format=pjpg&auto=webp&s=fd97ce5df71f3d0bc04510cd50c632f6d89fbe31 to temp_image.jpg
 2025-05-20 06:49:35,951 - INFO - Posted content successfully. Tweet ID: 1924719133759045728
+2025-05-20 07:15:30,222 - INFO - Content: Ozemfist🥀
+
+2025-05-20 07:15:30,222 - INFO - Image Paths: ['https://preview.redd.it/txdemnzsmt1f1.jpeg?auto=webp&s=975975d48f7421cc4f96f4c8b5afaf9b067628b3']
+2025-05-20 07:15:30,222 - INFO - Video Path: 
+2025-05-20 07:15:30,246 - INFO - Downloaded media from https://preview.redd.it/txdemnzsmt1f1.jpeg?auto=webp&s=975975d48f7421cc4f96f4c8b5afaf9b067628b3 to temp_image.jpg
+2025-05-20 07:15:30,908 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
