@@ -3285,3 +3285,10 @@ Too Many Requests
 2025-05-20 03:41:05,088 - INFO - Downloaded media from https://preview.redd.it/txdemnzsmt1f1.jpeg?auto=webp&s=975975d48f7421cc4f96f4c8b5afaf9b067628b3 to temp_image.jpg
 2025-05-20 03:41:05,740 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-20 04:20:14,936 - INFO - Content: This is SO funny!
+Since they keep giving Kiriko skins give her this shit! IM SOBBINGGGGG I TOOK THIS FROM TWITTER WHO MADE THISSSS! 😭
+2025-05-20 04:20:14,936 - INFO - Image Paths: ['https://preview.redd.it/zt9lu09jit1f1.jpeg?auto=webp&s=4026fad34eb3809c2052c8eb6fb04b835852bc00']
+2025-05-20 04:20:14,936 - INFO - Video Path: 
+2025-05-20 04:20:14,964 - INFO - Downloaded media from https://preview.redd.it/zt9lu09jit1f1.jpeg?auto=webp&s=4026fad34eb3809c2052c8eb6fb04b835852bc00 to temp_image.jpg
+2025-05-20 04:20:15,530 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
