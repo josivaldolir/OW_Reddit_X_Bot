@@ -3453,3 +3453,9 @@ Too Many Requests
 2025-05-20 16:19:27,151 - INFO - Video Path: 
 2025-05-20 16:19:27,387 - INFO - Downloaded media from https://preview.redd.it/0hnsaazfpx1f1.jpeg?auto=webp&s=e5b956833bc2e3702ad08d0ee6ad07fd979b7ae5 to temp_image.jpg
 2025-05-20 16:19:28,727 - INFO - Posted content successfully. Tweet ID: 1924862548589084881
+2025-05-20 16:47:31,952 - INFO - Content: Wait up!
+You know who you are, fast tanks.
+2025-05-20 16:47:31,952 - INFO - Image Paths: ['https://preview.redd.it/86mm12p3zx1f1.png?auto=webp&s=040e4ed04665fbe3c4bae443bd44f797f1d4189f']
+2025-05-20 16:47:31,952 - INFO - Video Path: 
+2025-05-20 16:47:32,096 - INFO - Downloaded media from https://preview.redd.it/86mm12p3zx1f1.png?auto=webp&s=040e4ed04665fbe3c4bae443bd44f797f1d4189f to temp_image.jpg
+2025-05-20 16:47:33,356 - INFO - Posted content successfully. Tweet ID: 1924869613768364526
