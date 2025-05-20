@@ -3396,3 +3396,12 @@ What you all think?
 2025-05-20 11:37:07,443 - INFO - Video Path: 
 2025-05-20 11:37:07,530 - INFO - Downloaded media from https://preview.redd.it/aniu8sab8w1f1.jpeg?auto=webp&s=4a79040532270291ffd57ba9f8ccf1e0d91ff633 to temp_image.jpg
 2025-05-20 11:37:08,879 - INFO - Posted content successfully. Tweet ID: 1924791497284571325
+2025-05-20 12:32:03,181 - INFO - Content: Something, something, something, the definition of insanity
+
+2025-05-20 12:32:03,181 - INFO - Image Paths: ['https://external-preview.redd.it/N3ljYzNxaWVpdTFmMRQllirDwW4XAA4erAxxra17P6s-Kl3VRbP2hzYHnUhv.png?format=pjpg&auto=webp&s=50fa537a499ff684f4725b3b79eb468d7410b030']
+2025-05-20 12:32:03,181 - INFO - Video Path: https://v.redd.it/z8d40pzeiu1f1/DASH_1080.mp4?source=fallback
+2025-05-20 12:32:03,659 - INFO - Downloaded media from https://v.redd.it/z8d40pzeiu1f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-05-20 12:32:04,017 - INFO - Downloaded media from https://v.redd.it/z8d40pzeiu1f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-05-20 12:32:04,505 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-20 12:32:13,555 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
