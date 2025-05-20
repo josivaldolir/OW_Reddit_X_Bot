@@ -3486,3 +3486,10 @@ Enjoy my art I hope you all like it took me 4 days
 2025-05-20 18:48:59,855 - INFO - Downloaded media from https://preview.redd.it/cxfs19jhbz1f1.jpeg?auto=webp&s=045b0b3760700d571759d876bef74797491fb63c to temp_image.jpg
 2025-05-20 18:49:00,785 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-20 19:12:06,761 - INFO - Content: 9,900 Coins??
+And of course they split Kiri and Juno into two fully separate bundles.
+2025-05-20 19:12:06,761 - INFO - Image Paths: ['https://preview.redd.it/3pn3l3lg8z1f1.png?auto=webp&s=5cc93c4474060f59ba398a616f3a7569af15744e']
+2025-05-20 19:12:06,762 - INFO - Video Path: 
+2025-05-20 19:12:06,900 - INFO - Downloaded media from https://preview.redd.it/3pn3l3lg8z1f1.png?auto=webp&s=5cc93c4474060f59ba398a616f3a7569af15744e to temp_image.jpg
+2025-05-20 19:12:07,870 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
