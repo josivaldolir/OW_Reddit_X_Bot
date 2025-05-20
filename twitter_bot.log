@@ -3520,3 +3520,11 @@ And of course they split Kiri and Juno into two fully separate bundles.
 2025-05-20 21:14:29,815 - INFO - Video Path: 
 2025-05-20 21:14:30,055 - INFO - Downloaded media from https://preview.redd.it/3pn3l3lg8z1f1.png?auto=webp&s=5cc93c4474060f59ba398a616f3a7569af15744e to temp_image.jpg
 2025-05-20 21:14:33,166 - INFO - Posted content successfully. Tweet ID: 1924936799434280973
+2025-05-20 21:38:30,241 - INFO - Content: Blizzard reused a Tracer Highlight intro for the Kiriko SF6 Collab
+
+2025-05-20 21:38:30,241 - INFO - Image Paths: ['https://external-preview.redd.it/bTNwdW84eW9nejFmMc-gORs7YHnvNdv3manZ2li8_3FIzuiClcAEUAbh7mEg.png?format=pjpg&auto=webp&s=1046195185b5d09b70bd2d96b4cf1daf98a8a82d']
+2025-05-20 21:38:30,241 - INFO - Video Path: https://v.redd.it/nngl7ayogz1f1/DASH_720.mp4?source=fallback
+2025-05-20 21:38:30,385 - INFO - Downloaded media from https://v.redd.it/nngl7ayogz1f1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-05-20 21:38:30,443 - INFO - Downloaded media from https://v.redd.it/nngl7ayogz1f1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-05-20 21:38:31,131 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-20 21:38:36,773 - INFO - Posted content successfully. Tweet ID: 1924942861747007781
