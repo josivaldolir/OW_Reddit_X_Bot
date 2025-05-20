@@ -3405,3 +3405,10 @@ What you all think?
 2025-05-20 12:32:04,505 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-20 12:32:13,555 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-20 13:30:52,674 - INFO - Content: Kiriko got another skin showing grippers
+
+2025-05-20 13:30:52,674 - INFO - Image Paths: ['https://preview.redd.it/0hnsaazfpx1f1.jpeg?auto=webp&s=e5b956833bc2e3702ad08d0ee6ad07fd979b7ae5']
+2025-05-20 13:30:52,674 - INFO - Video Path: 
+2025-05-20 13:30:52,855 - INFO - Downloaded media from https://preview.redd.it/0hnsaazfpx1f1.jpeg?auto=webp&s=e5b956833bc2e3702ad08d0ee6ad07fd979b7ae5 to temp_image.jpg
+2025-05-20 13:30:53,781 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
