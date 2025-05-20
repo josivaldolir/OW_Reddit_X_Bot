@@ -3500,3 +3500,10 @@ And of course they split Kiri and Juno into two fully separate bundles.
 2025-05-20 19:35:57,950 - INFO - Downloaded media from https://preview.redd.it/3pn3l3lg8z1f1.png?auto=webp&s=5cc93c4474060f59ba398a616f3a7569af15744e to temp_image.jpg
 2025-05-20 19:35:58,791 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-20 20:17:17,377 - INFO - Content: Kiriko got Grippers 🦶🦶🦶
+🦶🦶🦶
+2025-05-20 20:17:17,377 - INFO - Image Paths: ['https://preview.redd.it/cxfs19jhbz1f1.jpeg?auto=webp&s=045b0b3760700d571759d876bef74797491fb63c']
+2025-05-20 20:17:17,377 - INFO - Video Path: 
+2025-05-20 20:17:17,452 - INFO - Downloaded media from https://preview.redd.it/cxfs19jhbz1f1.jpeg?auto=webp&s=045b0b3760700d571759d876bef74797491fb63c to temp_image.jpg
+2025-05-20 20:17:18,425 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
