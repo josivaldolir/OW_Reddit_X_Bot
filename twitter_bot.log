@@ -3528,3 +3528,10 @@ And of course they split Kiri and Juno into two fully separate bundles.
 2025-05-20 21:38:30,443 - INFO - Downloaded media from https://v.redd.it/nngl7ayogz1f1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-05-20 21:38:31,131 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-20 21:38:36,773 - INFO - Posted content successfully. Tweet ID: 1924942861747007781
+2025-05-20 22:16:01,544 - INFO - Content: Kiriko got Grippers 🦶🦶🦶
+🦶🦶🦶
+2025-05-20 22:16:01,544 - INFO - Image Paths: ['https://preview.redd.it/cxfs19jhbz1f1.jpeg?auto=webp&s=045b0b3760700d571759d876bef74797491fb63c']
+2025-05-20 22:16:01,544 - INFO - Video Path: 
+2025-05-20 22:16:01,570 - INFO - Downloaded media from https://preview.redd.it/cxfs19jhbz1f1.jpeg?auto=webp&s=045b0b3760700d571759d876bef74797491fb63c to temp_image.jpg
+2025-05-20 22:16:02,719 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
