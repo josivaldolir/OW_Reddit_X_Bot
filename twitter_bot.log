@@ -3473,3 +3473,9 @@ Enjoy my art I hope you all like it took me 4 days
 2025-05-20 17:40:05,670 - INFO - Downloaded media from https://preview.redd.it/oq56sitp7y1f1.png?auto=webp&s=8c814ccdfeb7a8e58662f9f5ef4cb779dea255f2 to temp_image.jpg
 2025-05-20 17:40:06,365 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-20 18:22:46,391 - INFO - Content: I drew my main can you guess who it is and what style it is
+Enjoy my art I hope you all like it took me 4 days
+2025-05-20 18:22:46,391 - INFO - Image Paths: ['https://preview.redd.it/oq56sitp7y1f1.png?auto=webp&s=8c814ccdfeb7a8e58662f9f5ef4cb779dea255f2']
+2025-05-20 18:22:46,391 - INFO - Video Path: 
+2025-05-20 18:22:46,459 - INFO - Downloaded media from https://preview.redd.it/oq56sitp7y1f1.png?auto=webp&s=8c814ccdfeb7a8e58662f9f5ef4cb779dea255f2 to temp_image.jpg
+2025-05-20 18:22:47,557 - INFO - Posted content successfully. Tweet ID: 1924893580583371123
