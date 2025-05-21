@@ -296,3 +296,10 @@ Too Many Requests
 2025-05-21 22:15:51,454 - INFO - Downloaded media from https://preview.redd.it/wkdpbhowx62f1.png?auto=webp&s=3822bd20f37faf482ab77c2d5a26ecd4d9133137 to temp_image.jpg
 2025-05-21 22:15:52,427 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-21 22:41:13,425 - INFO - Content: Mistake made (you stepped out of spawn)
+
+2025-05-21 22:41:13,425 - INFO - Image Paths: ['https://preview.redd.it/wkdpbhowx62f1.png?auto=webp&s=3822bd20f37faf482ab77c2d5a26ecd4d9133137']
+2025-05-21 22:41:13,425 - INFO - Video Path: 
+2025-05-21 22:41:13,626 - INFO - Downloaded media from https://preview.redd.it/wkdpbhowx62f1.png?auto=webp&s=3822bd20f37faf482ab77c2d5a26ecd4d9133137 to temp_image.jpg
+2025-05-21 22:41:14,347 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
