@@ -161,3 +161,13 @@ Especially the new Stadium challenge, that would be super fun and cutesy if we h
 2025-05-21 14:16:13,488 - INFO - Downloaded media from https://preview.redd.it/uz4re7u9m42f1.png?width=697&format=png&auto=webp&s=a62b4e09e4438d44d1c6fab971ee499d5c9f65ee to temp_image.jpg
 2025-05-21 14:16:13,956 - INFO - Downloaded media from https://preview.redd.it/7ccu9h6cm42f1.png?width=706&format=png&auto=webp&s=c141154855ef44be52f9f8747f47e878d5948e42 to temp_image.jpg
 2025-05-21 14:16:14,835 - INFO - Posted content successfully. Tweet ID: 1925193924169363709
+2025-05-21 14:45:06,030 - INFO - Content: In case you need another reason to not buy the SF skins: Soldier and Winston's weapons are recolors of the default
+Sure, Ein WB, Fawksey Junkrat and Katara Mei have this problem too, but at least those were free skins. Huge red flag on Blizzard's side
+2025-05-21 14:45:06,030 - INFO - Image Paths: ['https://preview.redd.it/98erfdzmk42f1.png?width=988&format=png&auto=webp&s=5421ac7ca7f0b92ebfe93552ae7d07a3a7b260ae', 'https://preview.redd.it/cbxcvflnk42f1.png?width=1047&format=png&auto=webp&s=d766b641592087a3eaca24868e1a2b8423a4bf04', 'https://preview.redd.it/grf7buyxk42f1.png?width=956&format=png&auto=webp&s=0dcbf59c8565e0b8ea8d3804ee33465b948d4595', 'https://preview.redd.it/fz0c4wn1l42f1.png?width=1054&format=png&auto=webp&s=f5e065f9be7712a7ea1299f0b60e3efb895642a8']
+2025-05-21 14:45:06,030 - INFO - Video Path: 
+2025-05-21 14:45:06,105 - INFO - Downloaded media from https://preview.redd.it/98erfdzmk42f1.png?width=988&format=png&auto=webp&s=5421ac7ca7f0b92ebfe93552ae7d07a3a7b260ae to temp_image.jpg
+2025-05-21 14:45:06,707 - INFO - Downloaded media from https://preview.redd.it/cbxcvflnk42f1.png?width=1047&format=png&auto=webp&s=d766b641592087a3eaca24868e1a2b8423a4bf04 to temp_image.jpg
+2025-05-21 14:45:07,182 - INFO - Downloaded media from https://preview.redd.it/grf7buyxk42f1.png?width=956&format=png&auto=webp&s=0dcbf59c8565e0b8ea8d3804ee33465b948d4595 to temp_image.jpg
+2025-05-21 14:45:07,750 - INFO - Downloaded media from https://preview.redd.it/fz0c4wn1l42f1.png?width=1054&format=png&auto=webp&s=f5e065f9be7712a7ea1299f0b60e3efb895642a8 to temp_image.jpg
+2025-05-21 14:45:08,346 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
