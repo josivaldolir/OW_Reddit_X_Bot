@@ -77,3 +77,10 @@ Too Many Requests
 2025-05-21 07:39:53,697 - INFO - Downloaded media from https://preview.redd.it/i9raz6kh912f1.png?auto=webp&s=57782bd5e35868ea801847209029ae00d3d3947a to temp_image.jpg
 2025-05-21 07:39:54,589 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-21 08:20:38,134 - INFO - Content: mercy mythic
+
+2025-05-21 08:20:38,134 - INFO - Image Paths: ['https://preview.redd.it/i9raz6kh912f1.png?auto=webp&s=57782bd5e35868ea801847209029ae00d3d3947a']
+2025-05-21 08:20:38,134 - INFO - Video Path: 
+2025-05-21 08:20:38,283 - INFO - Downloaded media from https://preview.redd.it/i9raz6kh912f1.png?auto=webp&s=57782bd5e35868ea801847209029ae00d3d3947a to temp_image.jpg
+2025-05-21 08:20:38,944 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
