@@ -6,3 +6,10 @@
 2025-05-21 01:14:02,500 - INFO - Downloaded media from https://preview.redd.it/ik07q2sjvz1f1.png?auto=webp&s=1d76ce3d663f571e49a0d0f843174a1174432330 to temp_image.jpg
 2025-05-21 01:14:03,396 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-21 02:56:13,902 - INFO - Content: That's an... unfortunate typo
+...Or is it????
+2025-05-21 02:56:13,902 - INFO - Image Paths: ['https://preview.redd.it/ik07q2sjvz1f1.png?auto=webp&s=1d76ce3d663f571e49a0d0f843174a1174432330']
+2025-05-21 02:56:13,902 - INFO - Video Path: 
+2025-05-21 02:56:14,042 - INFO - Downloaded media from https://preview.redd.it/ik07q2sjvz1f1.png?auto=webp&s=1d76ce3d663f571e49a0d0f843174a1174432330 to temp_image.jpg
+2025-05-21 02:56:14,672 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
