@@ -180,3 +180,10 @@ Sure, Ein WB, Fawksey Junkrat and Katara Mei have this problem too, but at least
 2025-05-21 15:17:32,760 - INFO - Downloaded media from https://preview.redd.it/grf7buyxk42f1.png?width=956&format=png&auto=webp&s=0dcbf59c8565e0b8ea8d3804ee33465b948d4595 to temp_image.jpg
 2025-05-21 15:17:33,425 - INFO - Downloaded media from https://preview.redd.it/fz0c4wn1l42f1.png?width=1054&format=png&auto=webp&s=f5e065f9be7712a7ea1299f0b60e3efb895642a8 to temp_image.jpg
 2025-05-21 15:17:34,793 - INFO - Posted content successfully. Tweet ID: 1925209358214017221
+2025-05-21 15:43:00,273 - INFO - Content: ban sombra. life good.
+
+2025-05-21 15:43:00,274 - INFO - Image Paths: ['https://preview.redd.it/0btq392bf52f1.jpeg?auto=webp&s=bbba317d57c82f7d680ad2f90a05eb708b321489']
+2025-05-21 15:43:00,274 - INFO - Video Path: 
+2025-05-21 15:43:00,527 - INFO - Downloaded media from https://preview.redd.it/0btq392bf52f1.jpeg?auto=webp&s=bbba317d57c82f7d680ad2f90a05eb708b321489 to temp_image.jpg
+2025-05-21 15:43:01,685 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
