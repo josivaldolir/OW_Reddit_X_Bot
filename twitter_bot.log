@@ -145,3 +145,9 @@ Realizing that all four elements could be represented across emotes and victory 
 2025-05-21 13:28:10,151 - INFO - Downloaded media from https://v.redd.it/re2iod9hiz1f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-05-21 13:28:10,393 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-21 13:28:14,892 - INFO - Posted content successfully. Tweet ID: 1925181845261394391
+2025-05-21 13:48:13,076 - INFO - Content: They added Freja to Stadium before Winston. Damn
+
+2025-05-21 13:48:13,076 - INFO - Image Paths: ['https://preview.redd.it/a1p76ljw942f1.gif?format=png8&s=c02ce1f8a67f7ba89f740370ed62a6f59095920a']
+2025-05-21 13:48:13,076 - INFO - Video Path: 
+2025-05-21 13:48:13,136 - INFO - Downloaded media from https://preview.redd.it/a1p76ljw942f1.gif?format=png8&s=c02ce1f8a67f7ba89f740370ed62a6f59095920a to temp_image.jpg
+2025-05-21 13:48:14,206 - INFO - Posted content successfully. Tweet ID: 1925186874785816731
