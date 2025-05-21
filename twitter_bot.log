@@ -137,3 +137,11 @@ Realizing that all four elements could be represented across emotes and victory 
 2025-05-21 12:32:58,017 - INFO - Video Path: 
 2025-05-21 12:32:58,130 - INFO - Downloaded media from https://preview.redd.it/ay4wrcihn32f1.jpeg?auto=webp&s=2b690f2a1957f80c79f4a0ef44411891b0f0bc42 to temp_image.jpg
 2025-05-21 12:32:59,651 - INFO - Posted content successfully. Tweet ID: 1925167938853859788
+2025-05-21 13:28:09,995 - INFO - Content: Bald Soldier still combs his hair
+
+2025-05-21 13:28:09,995 - INFO - Image Paths: ['https://external-preview.redd.it/NXg3a2R0OGhpejFmMdcwHB-oN6XkR3aqLhb_Lo-RBBfIDDd-kKP8DDBqb3pW.png?format=pjpg&auto=webp&s=fa1add4bc24005ba37dd6a6046c7d58cdfe8dd4f']
+2025-05-21 13:28:09,995 - INFO - Video Path: https://v.redd.it/re2iod9hiz1f1/DASH_1080.mp4?source=fallback
+2025-05-21 13:28:10,092 - INFO - Downloaded media from https://v.redd.it/re2iod9hiz1f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-05-21 13:28:10,151 - INFO - Downloaded media from https://v.redd.it/re2iod9hiz1f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-05-21 13:28:10,393 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-21 13:28:14,892 - INFO - Posted content successfully. Tweet ID: 1925181845261394391
