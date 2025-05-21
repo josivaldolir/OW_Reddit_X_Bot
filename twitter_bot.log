@@ -56,3 +56,10 @@ Too Many Requests
 2025-05-21 06:22:37,232 - INFO - Downloaded media from https://preview.redd.it/i9raz6kh912f1.png?auto=webp&s=57782bd5e35868ea801847209029ae00d3d3947a to temp_image.jpg
 2025-05-21 06:22:37,921 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-21 06:49:37,078 - INFO - Content: I made a Overwatch promposal poster for my GF
+Second picture is it hung up in her room, had fun making it
+2025-05-21 06:49:37,078 - INFO - Image Paths: ['https://preview.redd.it/8pd2uhtof12f1.jpg?width=4284&format=pjpg&auto=webp&s=53a866470a2fa71335af80f66665abe7116a3632', 'https://preview.redd.it/ynpeh2tof12f1.jpg?width=4032&format=pjpg&auto=webp&s=9c87acca2034db9b9fc1b9eeda64aab8d3806f1b']
+2025-05-21 06:49:37,078 - INFO - Video Path: 
+2025-05-21 06:49:37,334 - INFO - Downloaded media from https://preview.redd.it/8pd2uhtof12f1.jpg?width=4284&format=pjpg&auto=webp&s=53a866470a2fa71335af80f66665abe7116a3632 to temp_image.jpg
+2025-05-21 06:49:39,993 - INFO - Downloaded media from https://preview.redd.it/ynpeh2tof12f1.jpg?width=4032&format=pjpg&auto=webp&s=9c87acca2034db9b9fc1b9eeda64aab8d3806f1b to temp_image.jpg
+2025-05-21 06:49:42,423 - INFO - Posted content successfully. Tweet ID: 1925081546048078118
