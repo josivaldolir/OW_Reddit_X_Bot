@@ -117,3 +117,10 @@ Realizing that all four elements could be represented across emotes and victory 
 2025-05-21 10:44:24,557 - INFO - Downloaded media from https://preview.redd.it/ay4wrcihn32f1.jpeg?auto=webp&s=2b690f2a1957f80c79f4a0ef44411891b0f0bc42 to temp_image.jpg
 2025-05-21 10:44:25,733 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-21 11:13:26,534 - INFO - Content: Now that we have the 'Dhalsim Wins' emote, we can truly become Aang the Avatar...
+Realizing that all four elements could be represented across emotes and victory poses is NOT helping me resist buying the SF6 colab...
+2025-05-21 11:13:26,534 - INFO - Image Paths: ['https://preview.redd.it/ay4wrcihn32f1.jpeg?auto=webp&s=2b690f2a1957f80c79f4a0ef44411891b0f0bc42']
+2025-05-21 11:13:26,534 - INFO - Video Path: 
+2025-05-21 11:13:26,563 - INFO - Downloaded media from https://preview.redd.it/ay4wrcihn32f1.jpeg?auto=webp&s=2b690f2a1957f80c79f4a0ef44411891b0f0bc42 to temp_image.jpg
+2025-05-21 11:13:27,762 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
