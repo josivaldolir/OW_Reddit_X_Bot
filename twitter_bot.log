@@ -1,1 +1,8 @@
 
+2025-05-21 01:14:02,344 - INFO - Content: That's an... unfortunate typo
+...Or is it????
+2025-05-21 01:14:02,344 - INFO - Image Paths: ['https://preview.redd.it/ik07q2sjvz1f1.png?auto=webp&s=1d76ce3d663f571e49a0d0f843174a1174432330']
+2025-05-21 01:14:02,344 - INFO - Video Path: 
+2025-05-21 01:14:02,500 - INFO - Downloaded media from https://preview.redd.it/ik07q2sjvz1f1.png?auto=webp&s=1d76ce3d663f571e49a0d0f843174a1174432330 to temp_image.jpg
+2025-05-21 01:14:03,396 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
