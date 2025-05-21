@@ -20,3 +20,12 @@ Too Many Requests
 2025-05-21 03:40:15,174 - INFO - Downloaded media from https://preview.redd.it/ik07q2sjvz1f1.png?auto=webp&s=1d76ce3d663f571e49a0d0f843174a1174432330 to temp_image.jpg
 2025-05-21 03:40:15,714 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-21 04:19:28,892 - INFO - Content: Incase you were wondering.. Yes the tracer highlight into was reused entirely if you don’t have the Juri skin on.
+
+2025-05-21 04:19:28,893 - INFO - Image Paths: ['https://external-preview.redd.it/bmFsemRxcWtmejFmMQWbRfxV88iCVuulRZ6cttZz0_NbJPsUhfzbCucrtu_U.png?format=pjpg&auto=webp&s=94b2af798d7f8a99df6f5e4a9e71e9f91277c60a']
+2025-05-21 04:19:28,893 - INFO - Video Path: https://v.redd.it/51xggxukfz1f1/DASH_1080.mp4?source=fallback
+2025-05-21 04:19:32,260 - INFO - Downloaded media from https://v.redd.it/51xggxukfz1f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-05-21 04:19:32,292 - INFO - Downloaded media from https://v.redd.it/51xggxukfz1f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-05-21 04:19:32,658 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-21 04:19:41,137 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
