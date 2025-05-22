@@ -356,3 +356,10 @@ I love stadiums so much as Lucio, I forgot you can do like a infinite boop was j
 2025-05-22 05:16:14,531 - INFO - Video Path: 
 2025-05-22 05:16:14,577 - INFO - Downloaded media from https://preview.redd.it/nm5z6ezyj62f1.jpeg?auto=webp&s=3ca3fc8aac15a62fb42c3176144448d7a080484b to temp_image.jpg
 2025-05-22 05:16:15,459 - INFO - Posted content successfully. Tweet ID: 1925420419462615114
+2025-05-22 05:41:49,069 - INFO - Content: I can't be the only one who feels like this.
+It's just so not my taste, too chaotic and unbalanced.  
+2025-05-22 05:41:49,069 - INFO - Image Paths: ['https://preview.redd.it/0y3lglqui52f1.jpeg?auto=webp&s=dae24d0d19aa3c36e052ccbd0b643b379691ce78']
+2025-05-22 05:41:49,069 - INFO - Video Path: 
+2025-05-22 05:41:49,127 - INFO - Downloaded media from https://preview.redd.it/0y3lglqui52f1.jpeg?auto=webp&s=dae24d0d19aa3c36e052ccbd0b643b379691ce78 to temp_image.jpg
+2025-05-22 05:41:49,858 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
