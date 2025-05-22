@@ -518,3 +518,9 @@ Street Fighter 6 $40
 2025-05-22 14:43:41,962 - INFO - Image Paths: []
 2025-05-22 14:43:41,962 - INFO - Video Path: 
 2025-05-22 14:43:42,272 - INFO - Posted content successfully. Tweet ID: 1925563222469615901
+2025-05-22 15:16:37,258 - INFO - Content: The Trio Explained
+
+2025-05-22 15:16:37,258 - INFO - Image Paths: ['https://preview.redd.it/qspobb68cc2f1.jpeg?auto=webp&s=0fd10eaaa575b168c2dfa9999747230fa95acc11']
+2025-05-22 15:16:37,258 - INFO - Video Path: 
+2025-05-22 15:16:37,341 - INFO - Downloaded media from https://preview.redd.it/qspobb68cc2f1.jpeg?auto=webp&s=0fd10eaaa575b168c2dfa9999747230fa95acc11 to temp_image.jpg
+2025-05-22 15:16:38,333 - INFO - Posted content successfully. Tweet ID: 1925571510103584950
