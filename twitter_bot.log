@@ -639,3 +639,11 @@ Too Many Requests
 2025-05-22 23:14:39,281 - INFO - Downloaded media from https://preview.redd.it/q8rsomihtc2f1.gif?format=png8&s=45cdbd8b383d22439f925bcbdef3eada35d6008b to temp_image.jpg
 2025-05-22 23:14:40,123 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-22 23:37:31,809 - INFO - Content: So I bought Mercy's mythic staff, and guess what dropped in my very next lootbox
+
+2025-05-22 23:37:31,809 - INFO - Image Paths: ['https://preview.redd.it/cokwtgv84e2f1.jpg?width=1920&format=pjpg&auto=webp&s=76b1b16a87ee47709afb0600cc63fbbfa3ae7306', 'https://preview.redd.it/5ycrjcma4e2f1.jpg?width=736&format=pjpg&auto=webp&s=402aab7de9ecff1f52b9b8173e726e252d62b587']
+2025-05-22 23:37:31,809 - INFO - Video Path: 
+2025-05-22 23:37:31,988 - INFO - Downloaded media from https://preview.redd.it/cokwtgv84e2f1.jpg?width=1920&format=pjpg&auto=webp&s=76b1b16a87ee47709afb0600cc63fbbfa3ae7306 to temp_image.jpg
+2025-05-22 23:37:32,861 - INFO - Downloaded media from https://preview.redd.it/5ycrjcma4e2f1.jpg?width=736&format=pjpg&auto=webp&s=402aab7de9ecff1f52b9b8173e726e252d62b587 to temp_image.jpg
+2025-05-22 23:37:33,478 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
