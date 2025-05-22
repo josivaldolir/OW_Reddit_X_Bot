@@ -574,3 +574,10 @@ Too Many Requests
 2025-05-22 18:48:04,750 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-22 18:48:06,348 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-22 19:12:30,185 - INFO - Content: Idk why, I half expected Juno’s victory pose to be this
+
+2025-05-22 19:12:30,185 - INFO - Image Paths: ['https://preview.redd.it/q8rsomihtc2f1.gif?format=png8&s=45cdbd8b383d22439f925bcbdef3eada35d6008b']
+2025-05-22 19:12:30,185 - INFO - Video Path: 
+2025-05-22 19:12:30,439 - INFO - Downloaded media from https://preview.redd.it/q8rsomihtc2f1.gif?format=png8&s=45cdbd8b383d22439f925bcbdef3eada35d6008b to temp_image.jpg
+2025-05-22 19:12:32,073 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
