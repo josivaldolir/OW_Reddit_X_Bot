@@ -371,3 +371,10 @@ Too Many Requests
 2025-05-22 06:22:41,532 - INFO - Downloaded media from https://v.redd.it/0m0zed1qh72f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-05-22 06:22:44,290 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-22 06:22:56,258 - INFO - Posted content successfully. Tweet ID: 1925437200172556762
+2025-05-22 06:49:58,660 - INFO - Content: HOLY SHIT I CAN HIT MY SHOTS
+
+2025-05-22 06:49:58,660 - INFO - Image Paths: ['https://preview.redd.it/xakkrq3wl42f1.jpeg?auto=webp&s=87f1a898836c27f81888050f3a03b4f0901d7664']
+2025-05-22 06:49:58,660 - INFO - Video Path: 
+2025-05-22 06:49:58,829 - INFO - Downloaded media from https://preview.redd.it/xakkrq3wl42f1.jpeg?auto=webp&s=87f1a898836c27f81888050f3a03b4f0901d7664 to temp_image.jpg
+2025-05-22 06:49:59,437 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
