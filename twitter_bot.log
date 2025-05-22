@@ -419,3 +419,9 @@ Too Many Requests
 2025-05-22 09:40:57,744 - INFO - Downloaded media from https://preview.redd.it/rjea7pjrya2f1.png?auto=webp&s=92d31094f01966aadfa6a32ff101ab0dd0d6efe2 to temp_image.jpg
 2025-05-22 09:40:58,437 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-22 10:17:22,012 - INFO - Content: The duality of the OW player. (Original Post linked in comments.)
+
+2025-05-22 10:17:22,012 - INFO - Image Paths: ['https://preview.redd.it/rjea7pjrya2f1.png?auto=webp&s=92d31094f01966aadfa6a32ff101ab0dd0d6efe2']
+2025-05-22 10:17:22,012 - INFO - Video Path: 
+2025-05-22 10:17:22,224 - INFO - Downloaded media from https://preview.redd.it/rjea7pjrya2f1.png?auto=webp&s=92d31094f01966aadfa6a32ff101ab0dd0d6efe2 to temp_image.jpg
+2025-05-22 10:17:23,114 - INFO - Posted content successfully. Tweet ID: 1925496200905859463
