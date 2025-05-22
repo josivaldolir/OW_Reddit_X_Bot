@@ -565,3 +565,12 @@ Too Many Requests
 2025-05-22 18:21:15,896 - INFO - Downloaded media from https://preview.redd.it/q8rsomihtc2f1.gif?format=png8&s=45cdbd8b383d22439f925bcbdef3eada35d6008b to temp_image.jpg
 2025-05-22 18:21:16,785 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-22 18:48:04,049 - INFO - Content: New Drive Signature for the end of this season
+
+2025-05-22 18:48:04,050 - INFO - Image Paths: ['https://external-preview.redd.it/d2UweDNyY2pzYzJmMV1RlSVY3NhKCs2k716LErC6GrzQZOmL5YjyQDEm_TCb.png?format=pjpg&auto=webp&s=ec3b392bcd68803d36b17e0e0b3dbef9734ef4d9']
+2025-05-22 18:48:04,050 - INFO - Video Path: https://v.redd.it/43wg7kbjsc2f1/DASH_220.mp4?source=fallback
+2025-05-22 18:48:04,320 - INFO - Downloaded media from https://v.redd.it/43wg7kbjsc2f1/DASH_220.mp4?source=fallback to temp_video.mp4
+2025-05-22 18:48:04,334 - INFO - Downloaded media from https://v.redd.it/43wg7kbjsc2f1/DASH_220.mp4?source=fallback to temp_audio.mp4
+2025-05-22 18:48:04,750 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-22 18:48:06,348 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
