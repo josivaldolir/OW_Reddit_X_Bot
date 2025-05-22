@@ -425,3 +425,12 @@ Too Many Requests
 2025-05-22 10:17:22,012 - INFO - Video Path: 
 2025-05-22 10:17:22,224 - INFO - Downloaded media from https://preview.redd.it/rjea7pjrya2f1.png?auto=webp&s=92d31094f01966aadfa6a32ff101ab0dd0d6efe2 to temp_image.jpg
 2025-05-22 10:17:23,114 - INFO - Posted content successfully. Tweet ID: 1925496200905859463
+2025-05-22 10:45:00,859 - INFO - Content: You Sombra Players are Weird
+Sombra Players: “I’m sick of people banning Sombra!!”
+
+Sombra Players:
+2025-05-22 10:45:00,860 - INFO - Image Paths: ['https://preview.redd.it/mo7hnze8g92f1.jpeg?auto=webp&s=a45184cee6cf39ced68f9fe8c343086f8be9cb56']
+2025-05-22 10:45:00,860 - INFO - Video Path: 
+2025-05-22 10:45:01,080 - INFO - Downloaded media from https://preview.redd.it/mo7hnze8g92f1.jpeg?auto=webp&s=a45184cee6cf39ced68f9fe8c343086f8be9cb56 to temp_image.jpg
+2025-05-22 10:45:01,692 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
