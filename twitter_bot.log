@@ -434,3 +434,9 @@ Sombra Players:
 2025-05-22 10:45:01,080 - INFO - Downloaded media from https://preview.redd.it/mo7hnze8g92f1.jpeg?auto=webp&s=a45184cee6cf39ced68f9fe8c343086f8be9cb56 to temp_image.jpg
 2025-05-22 10:45:01,692 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-22 11:13:51,839 - INFO - Content: As a Moira main, every time I hear about a skin collaboration
+Can Moira at least get one cute skin?? 😩
+2025-05-22 11:13:51,839 - INFO - Image Paths: ['https://preview.redd.it/1qq4x7v22b2f1.jpeg?auto=webp&s=23ede4907ff7df1ee1cba60331cf1f58451a88e8']
+2025-05-22 11:13:51,839 - INFO - Video Path: 
+2025-05-22 11:13:52,046 - INFO - Downloaded media from https://preview.redd.it/1qq4x7v22b2f1.jpeg?auto=webp&s=23ede4907ff7df1ee1cba60331cf1f58451a88e8 to temp_image.jpg
+2025-05-22 11:13:52,781 - INFO - Posted content successfully. Tweet ID: 1925510418145190348
