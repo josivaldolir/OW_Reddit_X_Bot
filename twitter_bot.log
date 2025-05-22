@@ -363,3 +363,11 @@ It's just so not my taste, too chaotic and unbalanced.
 2025-05-22 05:41:49,127 - INFO - Downloaded media from https://preview.redd.it/0y3lglqui52f1.jpeg?auto=webp&s=dae24d0d19aa3c36e052ccbd0b643b379691ce78 to temp_image.jpg
 2025-05-22 05:41:49,858 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-22 06:22:39,926 - INFO - Content: Yeah, I main Chomper
+
+2025-05-22 06:22:39,926 - INFO - Image Paths: ['https://external-preview.redd.it/bnZtdm55MnFoNzJmMcE3iqW6SmYxfNfDysThjBG5ucdwkeUnQy9xu9EMMcZt.png?format=pjpg&auto=webp&s=203a2c11a5afcfa441f717b1c4f5ecf8715104cc']
+2025-05-22 06:22:39,926 - INFO - Video Path: https://v.redd.it/0m0zed1qh72f1/DASH_1080.mp4?source=fallback
+2025-05-22 06:22:41,313 - INFO - Downloaded media from https://v.redd.it/0m0zed1qh72f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-05-22 06:22:41,532 - INFO - Downloaded media from https://v.redd.it/0m0zed1qh72f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-05-22 06:22:44,290 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-22 06:22:56,258 - INFO - Posted content successfully. Tweet ID: 1925437200172556762
