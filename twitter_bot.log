@@ -545,3 +545,10 @@ I follow all patch notes always read them and I SWEAR I have never seen this?? U
 2025-05-22 16:47:02,424 - INFO - Downloaded media from https://preview.redd.it/xx346la4vc2f1.png?width=1864&format=png&auto=webp&s=c2797973986675a62e32d02bbc2bbed787dada9d to temp_image.jpg
 2025-05-22 16:47:03,053 - INFO - Downloaded media from https://preview.redd.it/9g64ska4vc2f1.png?width=1376&format=png&auto=webp&s=1ad3ffd8683d2177bc3766b69b3cb489b8febbc4 to temp_image.jpg
 2025-05-22 16:47:04,855 - INFO - Posted content successfully. Tweet ID: 1925594267717636391
+2025-05-22 17:13:54,054 - INFO - Content: I want whatever the post game stat screen is smoking
+
+2025-05-22 17:13:54,054 - INFO - Image Paths: ['https://preview.redd.it/0sk0z8klsc2f1.jpeg?auto=webp&s=657ee41f606d413eacc9b489130302b117b92e88']
+2025-05-22 17:13:54,054 - INFO - Video Path: 
+2025-05-22 17:13:54,111 - INFO - Downloaded media from https://preview.redd.it/0sk0z8klsc2f1.jpeg?auto=webp&s=657ee41f606d413eacc9b489130302b117b92e88 to temp_image.jpg
+2025-05-22 17:13:54,809 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
