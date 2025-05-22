@@ -392,3 +392,10 @@ Be thankful of today's game, because this classic patch shows how bad it could g
 2025-05-22 07:38:49,002 - INFO - Downloaded media from https://preview.redd.it/xakkrq3wl42f1.jpeg?auto=webp&s=87f1a898836c27f81888050f3a03b4f0901d7664 to temp_image.jpg
 2025-05-22 07:38:49,643 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-22 08:20:32,413 - INFO - Content: What don't we know about Illari yet?
+
+2025-05-22 08:20:32,413 - INFO - Image Paths: ['https://preview.redd.it/95ypab0ola2f1.jpeg?auto=webp&s=88a548c07411a49812d8e426bf557e111fdb551f']
+2025-05-22 08:20:32,413 - INFO - Video Path: 
+2025-05-22 08:20:32,539 - INFO - Downloaded media from https://preview.redd.it/95ypab0ola2f1.jpeg?auto=webp&s=88a548c07411a49812d8e426bf557e111fdb551f to temp_image.jpg
+2025-05-22 08:20:33,340 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
