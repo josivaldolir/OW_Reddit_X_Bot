@@ -808,3 +808,10 @@ instantly banning the only heroes your teammates are favoring
 2025-05-23 14:14:52,566 - INFO - Downloaded media from https://preview.redd.it/gxqx54inxh2f1.png?auto=webp&s=38fdb33e60cc02bbcdc84d1e73c4a9dd780b40bb to temp_image.jpg
 2025-05-23 14:14:53,307 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-23 14:42:16,025 - INFO - Content: I see no difference
+
+2025-05-23 14:42:16,025 - INFO - Image Paths: ['https://preview.redd.it/ijwvej7meg2f1.jpeg?auto=webp&s=c281b59958d0d9d41f08b0b6c81e14ad05617179']
+2025-05-23 14:42:16,025 - INFO - Video Path: 
+2025-05-23 14:42:16,109 - INFO - Downloaded media from https://preview.redd.it/ijwvej7meg2f1.jpeg?auto=webp&s=c281b59958d0d9d41f08b0b6c81e14ad05617179 to temp_image.jpg
+2025-05-23 14:42:17,557 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
