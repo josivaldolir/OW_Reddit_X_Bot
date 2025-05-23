@@ -857,3 +857,10 @@ Too Many Requests
 2025-05-23 17:39:52,606 - INFO - Downloaded media from https://preview.redd.it/sw9bteng9j2f1.jpeg?auto=webp&s=cb0e2ab7ad062f0572594438deccbeaa86e3a7c6 to temp_image.jpg
 2025-05-23 17:39:54,217 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-23 18:20:04,005 - INFO - Content: Not DPS mains trying to dictate what happens in the match
+
+2025-05-23 18:20:04,005 - INFO - Image Paths: ['https://preview.redd.it/sw9bteng9j2f1.jpeg?auto=webp&s=cb0e2ab7ad062f0572594438deccbeaa86e3a7c6']
+2025-05-23 18:20:04,005 - INFO - Video Path: 
+2025-05-23 18:20:04,276 - INFO - Downloaded media from https://preview.redd.it/sw9bteng9j2f1.jpeg?auto=webp&s=cb0e2ab7ad062f0572594438deccbeaa86e3a7c6 to temp_image.jpg
+2025-05-23 18:20:06,285 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
