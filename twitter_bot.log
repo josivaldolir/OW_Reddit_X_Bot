@@ -654,3 +654,10 @@ Too Many Requests
 2025-05-23 01:13:23,654 - INFO - Downloaded media from https://preview.redd.it/q8rsomihtc2f1.gif?format=png8&s=45cdbd8b383d22439f925bcbdef3eada35d6008b to temp_image.jpg
 2025-05-23 01:13:24,511 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-23 02:55:41,343 - INFO - Content: Hero bans
+
+2025-05-23 02:55:41,343 - INFO - Image Paths: ['https://preview.redd.it/sw03wbuhcf2f1.jpeg?auto=webp&s=7106ca15bc1554719d6a521fd16a731021207975']
+2025-05-23 02:55:41,343 - INFO - Video Path: 
+2025-05-23 02:55:41,560 - INFO - Downloaded media from https://preview.redd.it/sw03wbuhcf2f1.jpeg?auto=webp&s=7106ca15bc1554719d6a521fd16a731021207975 to temp_image.jpg
+2025-05-23 02:55:42,603 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
