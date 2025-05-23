@@ -934,3 +934,10 @@ Too Many Requests
 2025-05-23 23:14:41,183 - INFO - Downloaded media from https://preview.redd.it/sw9bteng9j2f1.jpeg?auto=webp&s=cb0e2ab7ad062f0572594438deccbeaa86e3a7c6 to temp_image.jpg
 2025-05-23 23:14:43,022 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-23 23:38:55,576 - INFO - Content: I choose 1
+
+2025-05-23 23:38:55,576 - INFO - Image Paths: ['https://preview.redd.it/a9uwp3vm0m2f1.jpeg?auto=webp&s=c708d29cb12efb138086354293c1eb1715e8a6aa']
+2025-05-23 23:38:55,576 - INFO - Video Path: 
+2025-05-23 23:38:55,648 - INFO - Downloaded media from https://preview.redd.it/a9uwp3vm0m2f1.jpeg?auto=webp&s=c708d29cb12efb138086354293c1eb1715e8a6aa to temp_image.jpg
+2025-05-23 23:38:56,625 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
