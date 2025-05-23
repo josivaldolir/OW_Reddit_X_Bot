@@ -843,3 +843,10 @@ Too Many Requests
 2025-05-23 16:45:22,508 - INFO - Downloaded media from https://preview.redd.it/sw9bteng9j2f1.jpeg?auto=webp&s=cb0e2ab7ad062f0572594438deccbeaa86e3a7c6 to temp_image.jpg
 2025-05-23 16:45:24,428 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-23 17:13:52,776 - INFO - Content: How is this gonna help us win help me understand
+instantly banning the only heroes your teammates are favoring
+2025-05-23 17:13:52,776 - INFO - Image Paths: ['https://preview.redd.it/gxqx54inxh2f1.png?auto=webp&s=38fdb33e60cc02bbcdc84d1e73c4a9dd780b40bb']
+2025-05-23 17:13:52,776 - INFO - Video Path: 
+2025-05-23 17:13:52,879 - INFO - Downloaded media from https://preview.redd.it/gxqx54inxh2f1.png?auto=webp&s=38fdb33e60cc02bbcdc84d1e73c4a9dd780b40bb to temp_image.jpg
+2025-05-23 17:13:53,820 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
