@@ -1032,3 +1032,10 @@ It's foolproof
 2025-05-24 08:42:04,162 - INFO - Downloaded media from https://preview.redd.it/ijmxhjllgm2f1.jpeg?auto=webp&s=a584e61eb51b05637574729294799122f42ea69e to temp_image.jpg
 2025-05-24 08:42:05,156 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-24 09:14:20,343 - INFO - Content: Guys I gave a solution for Sombra
+It's foolproof
+2025-05-24 09:14:20,343 - INFO - Image Paths: ['https://preview.redd.it/ijmxhjllgm2f1.jpeg?auto=webp&s=a584e61eb51b05637574729294799122f42ea69e']
+2025-05-24 09:14:20,343 - INFO - Video Path: 
+2025-05-24 09:14:20,572 - INFO - Downloaded media from https://preview.redd.it/ijmxhjllgm2f1.jpeg?auto=webp&s=a584e61eb51b05637574729294799122f42ea69e to temp_image.jpg
+2025-05-24 09:14:21,702 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
