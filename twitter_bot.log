@@ -990,3 +990,10 @@ Honestly hilarious how drastically different it is. I salute the Sombra mains st
 2025-05-24 05:40:02,891 - INFO - Downloaded media from https://preview.redd.it/p7ym2ofdwm2f1.gif?format=png8&s=6acf3b83faceecd2500023a138e3909b067f62cc to temp_image.jpg
 2025-05-24 05:40:03,554 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-24 06:19:32,004 - INFO - Content: Guys I gave a solution for Sombra
+It's foolproof
+2025-05-24 06:19:32,004 - INFO - Image Paths: ['https://preview.redd.it/ijmxhjllgm2f1.jpeg?auto=webp&s=a584e61eb51b05637574729294799122f42ea69e']
+2025-05-24 06:19:32,004 - INFO - Video Path: 
+2025-05-24 06:19:32,140 - INFO - Downloaded media from https://preview.redd.it/ijmxhjllgm2f1.jpeg?auto=webp&s=a584e61eb51b05637574729294799122f42ea69e to temp_image.jpg
+2025-05-24 06:19:32,888 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
