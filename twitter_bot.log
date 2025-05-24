@@ -1219,3 +1219,12 @@ I turned it off almost immediately when Kiri (or Overwatch 2 for that matter) wa
 2025-05-24 20:38:20,519 - INFO - Downloaded media from https://preview.redd.it/xalgmtxuzr2f1.jpeg?auto=webp&s=ce2a35a163261e04483b1b16e3afac04cdadd058 to temp_image.jpg
 2025-05-24 20:38:21,492 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-24 21:13:06,609 - INFO - Content: We are all one within the Iris
+
+2025-05-24 21:13:06,609 - INFO - Image Paths: ['https://external-preview.redd.it/NDQ3Z2s0azdicjJmMe4Od98n10qRJeFY3OR8glutVZHaMI697w_Ul1dm_6Dx.png?format=pjpg&auto=webp&s=4aa1c6d1fcbc0f0f3c09c2e3d31e21777192fca5']
+2025-05-24 21:13:06,609 - INFO - Video Path: https://v.redd.it/hrradyq7br2f1/DASH_480.mp4?source=fallback
+2025-05-24 21:13:06,913 - INFO - Downloaded media from https://v.redd.it/hrradyq7br2f1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-05-24 21:13:06,948 - INFO - Downloaded media from https://v.redd.it/hrradyq7br2f1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-05-24 21:13:07,277 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-24 21:13:12,290 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
