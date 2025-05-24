@@ -1074,3 +1074,16 @@ It's foolproof
 2025-05-24 11:37:05,163 - INFO - Downloaded media from https://preview.redd.it/ijmxhjllgm2f1.jpeg?auto=webp&s=a584e61eb51b05637574729294799122f42ea69e to temp_image.jpg
 2025-05-24 11:37:05,887 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-24 12:28:58,746 - INFO - Content: So were we being gaslit about Sombra?
+It seemed like every single day there was a thread about how only low Metal ranks are banning Sombra and the “good” players don’t really ban her that much because “she’s easy to deal with.” 
+
+Now the ban data has dropped and she’s the second most banned DPS in Masters+.
+
+Beg for forgiveness… lol
+
+[Ban Data](https://overwatch.blizzard.com/en-us/news/24205940/weekly-recall-hero-bans/)
+2025-05-24 12:28:58,746 - INFO - Image Paths: ['https://external-preview.redd.it/_ZSKJ09Okx9DjFkGdXpMsUO7QNm4oVELESqclWOT_8s.jpg?auto=webp&s=5de7676f62eddec33f05c94d7441170190c9c556']
+2025-05-24 12:28:58,746 - INFO - Video Path: 
+2025-05-24 12:28:58,771 - INFO - Downloaded media from https://external-preview.redd.it/_ZSKJ09Okx9DjFkGdXpMsUO7QNm4oVELESqclWOT_8s.jpg?auto=webp&s=5de7676f62eddec33f05c94d7441170190c9c556 to temp_image.jpg
+2025-05-24 12:28:59,557 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
