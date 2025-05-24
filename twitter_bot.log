@@ -1264,3 +1264,10 @@ Too Many Requests
 2025-05-24 23:14:07,987 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-24 23:14:14,591 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-24 23:37:15,773 - INFO - Content: Is the Healing Ofuda UI element almost completely useless or am I missing something?
+I turned it off almost immediately when Kiri (or Overwatch 2 for that matter) was released and I've never turned it back on because I for one have never considered it to be valuable. After all, it's an unlimited resource that tracks allies with virtually no effort. I've never been like "Wait, do I have enough healing ofuda for this engagement?"
+2025-05-24 23:37:15,774 - INFO - Image Paths: ['https://preview.redd.it/xalgmtxuzr2f1.jpeg?auto=webp&s=ce2a35a163261e04483b1b16e3afac04cdadd058']
+2025-05-24 23:37:15,774 - INFO - Video Path: 
+2025-05-24 23:37:15,827 - INFO - Downloaded media from https://preview.redd.it/xalgmtxuzr2f1.jpeg?auto=webp&s=ce2a35a163261e04483b1b16e3afac04cdadd058 to temp_image.jpg
+2025-05-24 23:37:16,688 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
