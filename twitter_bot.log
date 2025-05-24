@@ -1176,3 +1176,12 @@ Too Many Requests
 2025-05-24 18:18:55,099 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-24 18:18:59,419 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-24 18:44:19,953 - INFO - Content: We are all one within the Iris
+
+2025-05-24 18:44:19,953 - INFO - Image Paths: ['https://external-preview.redd.it/NDQ3Z2s0azdicjJmMe4Od98n10qRJeFY3OR8glutVZHaMI697w_Ul1dm_6Dx.png?format=pjpg&auto=webp&s=4aa1c6d1fcbc0f0f3c09c2e3d31e21777192fca5']
+2025-05-24 18:44:19,953 - INFO - Video Path: https://v.redd.it/hrradyq7br2f1/DASH_480.mp4?source=fallback
+2025-05-24 18:44:20,302 - INFO - Downloaded media from https://v.redd.it/hrradyq7br2f1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-05-24 18:44:20,383 - INFO - Downloaded media from https://v.redd.it/hrradyq7br2f1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-05-24 18:44:20,922 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-24 18:44:25,270 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
