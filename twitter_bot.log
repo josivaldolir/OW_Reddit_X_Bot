@@ -1107,3 +1107,10 @@ It's foolproof
 2025-05-24 13:42:17,405 - INFO - Downloaded media from https://preview.redd.it/ijmxhjllgm2f1.jpeg?auto=webp&s=a584e61eb51b05637574729294799122f42ea69e to temp_image.jpg
 2025-05-24 13:42:18,203 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-24 14:12:39,429 - INFO - Content: today is Overwatch 1’s anniversary, what is your favs memory?
+on this day in 2016, Overwatch was released. my favourite memory I have is when I got widowmakers cute spray back then because it made me feel like all of my practice with her was finally paying off. I also met some great people while playing the game, some of the best people I ever met! 
+2025-05-24 14:12:39,429 - INFO - Image Paths: ['https://preview.redd.it/2x5xhuzgbq2f1.jpeg?auto=webp&s=ab14f80a887df3ac0224a2aeb9e5562543c8bfc3']
+2025-05-24 14:12:39,429 - INFO - Video Path: 
+2025-05-24 14:12:39,627 - INFO - Downloaded media from https://preview.redd.it/2x5xhuzgbq2f1.jpeg?auto=webp&s=ab14f80a887df3ac0224a2aeb9e5562543c8bfc3 to temp_image.jpg
+2025-05-24 14:12:40,147 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
