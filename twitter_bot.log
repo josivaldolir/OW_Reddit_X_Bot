@@ -1004,3 +1004,10 @@ It's foolproof
 2025-05-24 06:44:38,435 - INFO - Downloaded media from https://preview.redd.it/ijmxhjllgm2f1.jpeg?auto=webp&s=a584e61eb51b05637574729294799122f42ea69e to temp_image.jpg
 2025-05-24 06:44:39,056 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-24 07:13:36,877 - INFO - Content: Non-Sombra mains looking at the ban rates.
+Honestly hilarious how drastically different it is. I salute the Sombra mains struggling to play as her lol.
+2025-05-24 07:13:36,877 - INFO - Image Paths: ['https://preview.redd.it/p7ym2ofdwm2f1.gif?format=png8&s=6acf3b83faceecd2500023a138e3909b067f62cc']
+2025-05-24 07:13:36,877 - INFO - Video Path: 
+2025-05-24 07:13:37,033 - INFO - Downloaded media from https://preview.redd.it/p7ym2ofdwm2f1.gif?format=png8&s=6acf3b83faceecd2500023a138e3909b067f62cc to temp_image.jpg
+2025-05-24 07:13:37,708 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
