@@ -1100,3 +1100,10 @@ Beg for forgiveness… lol
 2025-05-24 13:03:15,995 - INFO - Downloaded media from https://external-preview.redd.it/_ZSKJ09Okx9DjFkGdXpMsUO7QNm4oVELESqclWOT_8s.jpg?auto=webp&s=5de7676f62eddec33f05c94d7441170190c9c556 to temp_image.jpg
 2025-05-24 13:03:16,699 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-24 13:42:17,322 - INFO - Content: Guys I gave a solution for Sombra
+It's foolproof
+2025-05-24 13:42:17,322 - INFO - Image Paths: ['https://preview.redd.it/ijmxhjllgm2f1.jpeg?auto=webp&s=a584e61eb51b05637574729294799122f42ea69e']
+2025-05-24 13:42:17,322 - INFO - Video Path: 
+2025-05-24 13:42:17,405 - INFO - Downloaded media from https://preview.redd.it/ijmxhjllgm2f1.jpeg?auto=webp&s=a584e61eb51b05637574729294799122f42ea69e to temp_image.jpg
+2025-05-24 13:42:18,203 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
