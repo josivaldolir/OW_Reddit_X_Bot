@@ -948,3 +948,10 @@ Too Many Requests
 2025-05-24 01:10:37,890 - INFO - Downloaded media from https://preview.redd.it/a9uwp3vm0m2f1.jpeg?auto=webp&s=c708d29cb12efb138086354293c1eb1715e8a6aa to temp_image.jpg
 2025-05-24 01:10:38,565 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-24 02:50:15,571 - INFO - Content: Guys I gave a solution for Sombra
+It's foolproof
+2025-05-24 02:50:15,571 - INFO - Image Paths: ['https://preview.redd.it/ijmxhjllgm2f1.jpeg?auto=webp&s=a584e61eb51b05637574729294799122f42ea69e']
+2025-05-24 02:50:15,571 - INFO - Video Path: 
+2025-05-24 02:50:15,642 - INFO - Downloaded media from https://preview.redd.it/ijmxhjllgm2f1.jpeg?auto=webp&s=a584e61eb51b05637574729294799122f42ea69e to temp_image.jpg
+2025-05-24 02:50:16,710 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
