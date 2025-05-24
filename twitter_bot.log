@@ -1149,3 +1149,12 @@ It's foolproof
 2025-05-24 16:43:17,487 - INFO - Downloaded media from https://preview.redd.it/ijmxhjllgm2f1.jpeg?auto=webp&s=a584e61eb51b05637574729294799122f42ea69e to temp_image.jpg
 2025-05-24 16:43:18,185 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-24 17:12:08,314 - INFO - Content: We are all one within the Iris
+
+2025-05-24 17:12:08,314 - INFO - Image Paths: ['https://external-preview.redd.it/NDQ3Z2s0azdicjJmMe4Od98n10qRJeFY3OR8glutVZHaMI697w_Ul1dm_6Dx.png?format=pjpg&auto=webp&s=4aa1c6d1fcbc0f0f3c09c2e3d31e21777192fca5']
+2025-05-24 17:12:08,314 - INFO - Video Path: https://v.redd.it/hrradyq7br2f1/DASH_480.mp4?source=fallback
+2025-05-24 17:12:08,476 - INFO - Downloaded media from https://v.redd.it/hrradyq7br2f1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-05-24 17:12:08,501 - INFO - Downloaded media from https://v.redd.it/hrradyq7br2f1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-05-24 17:12:08,679 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-24 17:12:14,130 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
