@@ -1538,3 +1538,14 @@ Also both games are "Rated T for Teen" this should be fine.
 2025-05-25 19:11:27,964 - INFO - Downloaded media from https://preview.redd.it/0d8kquugpv2f1.png?width=1270&format=png&auto=webp&s=31830cc98abc320c5dbd83beea36263263a94e34 to temp_image.jpg
 2025-05-25 19:11:28,827 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-25 19:36:06,506 - INFO - Content: Widowmaker Cammy edit short pant out.
+I have soft spot for fighting games so I did bought the **Ultra Bundle** for SF6 Collab event, but I'm quite disspointed with how the skin was chosen to do for Widowmaker x Cammy, So I put some effort to edit and paint over the short pant out,   
+This is about doing it right  (• - •)ゝ  
+Also both games are "Rated T for Teen" this should be fine.
+2025-05-25 19:36:06,506 - INFO - Image Paths: ['https://preview.redd.it/1dv6tlsfpv2f1.jpg?width=5344&format=pjpg&auto=webp&s=60f5eac0d40bf91aa44a0e5093ed09095f457ba1', 'https://preview.redd.it/gy3em2fgpv2f1.jpg?width=3456&format=pjpg&auto=webp&s=12732d4cf83bed518beb3b477451239380fb32a5', 'https://preview.redd.it/0d8kquugpv2f1.png?width=1270&format=png&auto=webp&s=31830cc98abc320c5dbd83beea36263263a94e34']
+2025-05-25 19:36:06,506 - INFO - Video Path: 
+2025-05-25 19:36:06,715 - INFO - Downloaded media from https://preview.redd.it/1dv6tlsfpv2f1.jpg?width=5344&format=pjpg&auto=webp&s=60f5eac0d40bf91aa44a0e5093ed09095f457ba1 to temp_image.jpg
+2025-05-25 19:36:09,192 - INFO - Downloaded media from https://preview.redd.it/gy3em2fgpv2f1.jpg?width=3456&format=pjpg&auto=webp&s=12732d4cf83bed518beb3b477451239380fb32a5 to temp_image.jpg
+2025-05-25 19:36:11,311 - INFO - Downloaded media from https://preview.redd.it/0d8kquugpv2f1.png?width=1270&format=png&auto=webp&s=31830cc98abc320c5dbd83beea36263263a94e34 to temp_image.jpg
+2025-05-25 19:36:12,046 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
