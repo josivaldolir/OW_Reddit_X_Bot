@@ -1426,3 +1426,12 @@ Too Many Requests
 2025-05-25 13:03:24,105 - INFO - Downloaded media from https://preview.redd.it/5zkjstzcou2f1.jpg?width=960&format=pjpg&auto=webp&s=d2bf2cc51b11a7268e253a2b2e8ae41f8f3ddd3e to temp_image.jpg
 2025-05-25 13:03:24,845 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-25 13:41:28,691 - INFO - Content: Peace and tranquility be upon you all
+
+2025-05-25 13:41:28,691 - INFO - Image Paths: ['https://external-preview.redd.it/b2l6aXYyNnU5dzJmMa399EmbGI_FM3FHxZcngFERMHMfullB3lKM2RBucyxm.png?format=pjpg&auto=webp&s=8ecf2ee0cc8d63826c2d710b016141d6d80c73d4']
+2025-05-25 13:41:28,691 - INFO - Video Path: https://v.redd.it/05axhccu9w2f1/DASH_480.mp4?source=fallback
+2025-05-25 13:41:28,854 - INFO - Downloaded media from https://v.redd.it/05axhccu9w2f1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-05-25 13:41:28,899 - INFO - Downloaded media from https://v.redd.it/05axhccu9w2f1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-05-25 13:41:31,175 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-25 13:41:34,198 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
