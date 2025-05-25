@@ -1558,3 +1558,10 @@ Too Many Requests
 2025-05-25 20:15:39,392 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-25 20:15:42,424 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-25 20:38:04,818 - INFO - Content: Juno in overwatch (1/?)
+been a long while since i made an ow2 comic so trying to get back into it haha
+2025-05-25 20:38:04,818 - INFO - Image Paths: ['https://preview.redd.it/r3pzcs3z7y2f1.png?auto=webp&s=06df7a6b949f8042045a94917c579c3f550aad91']
+2025-05-25 20:38:04,818 - INFO - Video Path: 
+2025-05-25 20:38:04,990 - INFO - Downloaded media from https://preview.redd.it/r3pzcs3z7y2f1.png?auto=webp&s=06df7a6b949f8042045a94917c579c3f550aad91 to temp_image.jpg
+2025-05-25 20:38:05,715 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
