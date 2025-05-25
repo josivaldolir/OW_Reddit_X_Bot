@@ -1366,3 +1366,10 @@ Too Many Requests
 2025-05-25 09:14:33,989 - INFO - Downloaded media from https://preview.redd.it/vbaj4p4pou2f1.jpeg?auto=webp&s=6860455283c908fc42891f77fa6ea45a4448a6c5 to temp_image.jpg
 2025-05-25 09:14:34,864 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-25 09:36:59,742 - INFO - Content: Ow characters by how likely they’re going to call you the F-slur
+
+2025-05-25 09:36:59,742 - INFO - Image Paths: ['https://preview.redd.it/vbaj4p4pou2f1.jpeg?auto=webp&s=6860455283c908fc42891f77fa6ea45a4448a6c5']
+2025-05-25 09:36:59,742 - INFO - Video Path: 
+2025-05-25 09:36:59,800 - INFO - Downloaded media from https://preview.redd.it/vbaj4p4pou2f1.jpeg?auto=webp&s=6860455283c908fc42891f77fa6ea45a4448a6c5 to temp_image.jpg
+2025-05-25 09:37:00,472 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
