@@ -1464,3 +1464,12 @@ Also both games are "Rated T for Teen" this should be fine.
 2025-05-25 15:15:25,557 - INFO - Downloaded media from https://preview.redd.it/0d8kquugpv2f1.png?width=1270&format=png&auto=webp&s=31830cc98abc320c5dbd83beea36263263a94e34 to temp_image.jpg
 2025-05-25 15:15:26,556 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-25 15:37:20,397 - INFO - Content: Peace and tranquility be upon you all
+
+2025-05-25 15:37:20,397 - INFO - Image Paths: ['https://external-preview.redd.it/b2l6aXYyNnU5dzJmMa399EmbGI_FM3FHxZcngFERMHMfullB3lKM2RBucyxm.png?format=pjpg&auto=webp&s=8ecf2ee0cc8d63826c2d710b016141d6d80c73d4']
+2025-05-25 15:37:20,397 - INFO - Video Path: https://v.redd.it/05axhccu9w2f1/DASH_480.mp4?source=fallback
+2025-05-25 15:37:20,526 - INFO - Downloaded media from https://v.redd.it/05axhccu9w2f1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-05-25 15:37:20,545 - INFO - Downloaded media from https://v.redd.it/05axhccu9w2f1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-05-25 15:37:20,855 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-25 15:37:24,401 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
