@@ -1592,3 +1592,15 @@ Too Many Requests
 2025-05-25 22:13:46,827 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-25 22:13:49,824 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-25 22:40:45,154 - INFO - Content: I made heart pins of every support in Overwatch!
+I’m currently working on drawing the tanks, and after that, I will make a pin of every dps :)
+
+If you’re interesting in getting one, I have an Etsy! (TasusGoods) 
+2025-05-25 22:40:45,154 - INFO - Image Paths: ['https://preview.redd.it/hev45sf3cz2f1.jpg?width=2571&format=pjpg&auto=webp&s=28c133af300934c3aada3dd4faceb9a381967926', 'https://preview.redd.it/3jobrpf3cz2f1.jpg?width=1776&format=pjpg&auto=webp&s=dcc564355f147ce80964b1d22f7b72f6ff1d3687', 'https://preview.redd.it/zjdnwpf3cz2f1.jpg?width=1749&format=pjpg&auto=webp&s=edb1cc20228426e3fe35827692c7b65ea8fd9e26', 'https://preview.redd.it/k3zfzpf3cz2f1.jpg?width=1889&format=pjpg&auto=webp&s=688359a4e344b77a3eeacbfcd813d4b7597cc3ee']
+2025-05-25 22:40:45,154 - INFO - Video Path: 
+2025-05-25 22:40:45,428 - INFO - Downloaded media from https://preview.redd.it/hev45sf3cz2f1.jpg?width=2571&format=pjpg&auto=webp&s=28c133af300934c3aada3dd4faceb9a381967926 to temp_image.jpg
+2025-05-25 22:40:46,872 - INFO - Downloaded media from https://preview.redd.it/3jobrpf3cz2f1.jpg?width=1776&format=pjpg&auto=webp&s=dcc564355f147ce80964b1d22f7b72f6ff1d3687 to temp_image.jpg
+2025-05-25 22:40:47,892 - INFO - Downloaded media from https://preview.redd.it/zjdnwpf3cz2f1.jpg?width=1749&format=pjpg&auto=webp&s=edb1cc20228426e3fe35827692c7b65ea8fd9e26 to temp_image.jpg
+2025-05-25 22:40:48,759 - INFO - Downloaded media from https://preview.redd.it/k3zfzpf3cz2f1.jpg?width=1889&format=pjpg&auto=webp&s=688359a4e344b77a3eeacbfcd813d4b7597cc3ee to temp_image.jpg
+2025-05-25 22:40:50,172 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
