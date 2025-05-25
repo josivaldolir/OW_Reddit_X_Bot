@@ -1380,3 +1380,13 @@ Too Many Requests
 2025-05-25 10:14:32,137 - INFO - Downloaded media from https://preview.redd.it/vbaj4p4pou2f1.jpeg?auto=webp&s=6860455283c908fc42891f77fa6ea45a4448a6c5 to temp_image.jpg
 2025-05-25 10:14:32,916 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-25 10:42:46,789 - INFO - Content: Cultural misunderstanding
+
+2025-05-25 10:42:46,789 - INFO - Image Paths: ['https://preview.redd.it/1pmng60dou2f1.jpg?width=3024&format=pjpg&auto=webp&s=f3a290c89ebfa5a7fb3c5bad66af1acae927e180', 'https://preview.redd.it/72o6v50dou2f1.jpg?width=3024&format=pjpg&auto=webp&s=a19ead01f87405d2a331767571bb8831388667a4', 'https://preview.redd.it/y322n60dou2f1.jpg?width=3024&format=pjpg&auto=webp&s=d2e863be5cd8aaf031ac7ca53f2d3ff0c861eea6', 'https://preview.redd.it/5zkjstzcou2f1.jpg?width=960&format=pjpg&auto=webp&s=d2bf2cc51b11a7268e253a2b2e8ae41f8f3ddd3e']
+2025-05-25 10:42:46,789 - INFO - Video Path: 
+2025-05-25 10:42:46,843 - INFO - Downloaded media from https://preview.redd.it/1pmng60dou2f1.jpg?width=3024&format=pjpg&auto=webp&s=f3a290c89ebfa5a7fb3c5bad66af1acae927e180 to temp_image.jpg
+2025-05-25 10:42:48,483 - INFO - Downloaded media from https://preview.redd.it/72o6v50dou2f1.jpg?width=3024&format=pjpg&auto=webp&s=a19ead01f87405d2a331767571bb8831388667a4 to temp_image.jpg
+2025-05-25 10:42:49,820 - INFO - Downloaded media from https://preview.redd.it/y322n60dou2f1.jpg?width=3024&format=pjpg&auto=webp&s=d2e863be5cd8aaf031ac7ca53f2d3ff0c861eea6 to temp_image.jpg
+2025-05-25 10:42:51,439 - INFO - Downloaded media from https://preview.redd.it/5zkjstzcou2f1.jpg?width=960&format=pjpg&auto=webp&s=d2bf2cc51b11a7268e253a2b2e8ae41f8f3ddd3e to temp_image.jpg
+2025-05-25 10:42:52,353 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
