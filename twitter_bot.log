@@ -1872,3 +1872,12 @@ It's like Blizzard hates us 😞
 2025-05-26 20:39:30,036 - INFO - Downloaded media from https://preview.redd.it/aj17ub8e763f1.png?auto=webp&s=d128b30843af05617f71f54238e420d684e08aca to temp_image.jpg
 2025-05-26 20:39:31,086 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-26 21:13:44,961 - INFO - Content: I f***ing quit
+Been playing classic for the challenges, this game is my 8th loss in a row, what did I do to Aaron Keller?
+2025-05-26 21:13:44,961 - INFO - Image Paths: ['https://external-preview.redd.it/cHJub2UzMnZpNjNmMRSWOOU5Eg9VNqqgMVjmywlMF9JYcWO2EamOC66JmO9u.png?format=pjpg&auto=webp&s=3c22c8d5287d4475a6ca4c0ba329153845e1bd72']
+2025-05-26 21:13:44,961 - INFO - Video Path: https://v.redd.it/kg9xz9evi63f1/DASH_1080.mp4?source=fallback
+2025-05-26 21:13:45,274 - INFO - Downloaded media from https://v.redd.it/kg9xz9evi63f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-05-26 21:13:45,426 - INFO - Downloaded media from https://v.redd.it/kg9xz9evi63f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-05-26 21:13:45,750 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-26 21:13:54,259 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
