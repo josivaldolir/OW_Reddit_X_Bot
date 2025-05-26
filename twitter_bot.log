@@ -1865,3 +1865,10 @@ Too Many Requests
 2025-05-26 20:16:44,897 - INFO - Downloaded media from https://preview.redd.it/vj15duspz43f1.png?auto=webp&s=6c2710691b8f5a8ac7f58e1e4767a81c67da66b6 to temp_image.jpg
 2025-05-26 20:16:45,471 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-26 20:39:29,837 - INFO - Content: Can't believe Overwatch has been out for 9 years and we STILL don't have this skin
+It's like Blizzard hates us 😞
+2025-05-26 20:39:29,837 - INFO - Image Paths: ['https://preview.redd.it/aj17ub8e763f1.png?auto=webp&s=d128b30843af05617f71f54238e420d684e08aca']
+2025-05-26 20:39:29,837 - INFO - Video Path: 
+2025-05-26 20:39:30,036 - INFO - Downloaded media from https://preview.redd.it/aj17ub8e763f1.png?auto=webp&s=d128b30843af05617f71f54238e420d684e08aca to temp_image.jpg
+2025-05-26 20:39:31,086 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
