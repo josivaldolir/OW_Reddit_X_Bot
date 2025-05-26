@@ -1881,3 +1881,10 @@ Been playing classic for the challenges, this game is my 8th loss in a row, what
 2025-05-26 21:13:45,750 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-26 21:13:54,259 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-26 21:37:57,487 - INFO - Content: Can't believe Overwatch has been out for 9 years and we STILL don't have this skin
+It's like Blizzard hates us 😞
+2025-05-26 21:37:57,487 - INFO - Image Paths: ['https://preview.redd.it/aj17ub8e763f1.png?auto=webp&s=d128b30843af05617f71f54238e420d684e08aca']
+2025-05-26 21:37:57,487 - INFO - Video Path: 
+2025-05-26 21:37:57,631 - INFO - Downloaded media from https://preview.redd.it/aj17ub8e763f1.png?auto=webp&s=d128b30843af05617f71f54238e420d684e08aca to temp_image.jpg
+2025-05-26 21:37:58,464 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
