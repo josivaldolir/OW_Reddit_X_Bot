@@ -1781,3 +1781,10 @@ Too Many Requests
 2025-05-26 14:15:20,371 - INFO - Downloaded media from https://preview.redd.it/mtxx9usm423f1.png?auto=webp&s=dc19bf654b2980195b47a5bd6f040505b796c16b to temp_image.jpg
 2025-05-26 14:15:21,156 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-26 14:42:24,262 - INFO - Content: Saw the upvote meme and immediately thought of this lol
+
+2025-05-26 14:42:24,263 - INFO - Image Paths: ['https://preview.redd.it/d1awkk55v43f1.jpeg?auto=webp&s=f7d86ac5fee10b10c3572d7b7137ec54d81b370d']
+2025-05-26 14:42:24,263 - INFO - Video Path: 
+2025-05-26 14:42:24,406 - INFO - Downloaded media from https://preview.redd.it/d1awkk55v43f1.jpeg?auto=webp&s=f7d86ac5fee10b10c3572d7b7137ec54d81b370d to temp_image.jpg
+2025-05-26 14:42:25,298 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
