@@ -1704,3 +1704,10 @@ Too Many Requests
 2025-05-26 07:19:15,237 - INFO - Downloaded media from https://preview.redd.it/mtxx9usm423f1.png?auto=webp&s=dc19bf654b2980195b47a5bd6f040505b796c16b to temp_image.jpg
 2025-05-26 07:19:15,995 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-26 07:51:30,399 - INFO - Content: Ball doesn't need to die he just needs to leave the fight people
+
+2025-05-26 07:51:30,400 - INFO - Image Paths: ['https://preview.redd.it/mtxx9usm423f1.png?auto=webp&s=dc19bf654b2980195b47a5bd6f040505b796c16b']
+2025-05-26 07:51:30,400 - INFO - Video Path: 
+2025-05-26 07:51:30,682 - INFO - Downloaded media from https://preview.redd.it/mtxx9usm423f1.png?auto=webp&s=dc19bf654b2980195b47a5bd6f040505b796c16b to temp_image.jpg
+2025-05-26 07:51:31,635 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
