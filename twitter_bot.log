@@ -1746,3 +1746,10 @@ Too Many Requests
 2025-05-26 11:13:10,703 - INFO - Downloaded media from https://preview.redd.it/mtxx9usm423f1.png?auto=webp&s=dc19bf654b2980195b47a5bd6f040505b796c16b to temp_image.jpg
 2025-05-26 11:13:11,382 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-26 11:36:50,530 - INFO - Content: I got every negative modifier from a match lol
+I literally have been losing so much the past week on every role it was only a matter of time before I saw it.
+2025-05-26 11:36:50,530 - INFO - Image Paths: ['https://preview.redd.it/3dxx4kxqn23f1.png?auto=webp&s=91b0fb8f52120eea75f01601f44b14761df3301f']
+2025-05-26 11:36:50,530 - INFO - Video Path: 
+2025-05-26 11:36:50,771 - INFO - Downloaded media from https://preview.redd.it/3dxx4kxqn23f1.png?auto=webp&s=91b0fb8f52120eea75f01601f44b14761df3301f to temp_image.jpg
+2025-05-26 11:36:51,971 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
