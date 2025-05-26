@@ -1640,3 +1640,10 @@ Too Many Requests
 2025-05-26 03:01:55,444 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-26 03:01:58,828 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-26 03:59:19,931 - INFO - Content: Horrible Event Quest
+Why is it necessary for me to win THREE (3) games as t\*nk or d\*m\*ge to get that god forsaken legendary lootbox... I'm 5 matches in trying to complete those horrible quests and I'm going clinically insane I DON'T KNOW HOW TO PLAY ANYTHING THAT ISN'T SUPPORT
+2025-05-26 03:59:19,931 - INFO - Image Paths: ['https://preview.redd.it/0hwou06zsz2f1.jpeg?auto=webp&s=9052bac923f7584c418b56b82279386cd4da0df6']
+2025-05-26 03:59:19,931 - INFO - Video Path: 
+2025-05-26 03:59:20,098 - INFO - Downloaded media from https://preview.redd.it/0hwou06zsz2f1.jpeg?auto=webp&s=9052bac923f7584c418b56b82279386cd4da0df6 to temp_image.jpg
+2025-05-26 03:59:20,861 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
