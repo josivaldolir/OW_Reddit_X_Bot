@@ -1858,3 +1858,10 @@ Happy 9 year anniversary overwatch
 2025-05-26 19:36:19,531 - INFO - Downloaded media from https://preview.redd.it/c9lfi0lmf53f1.jpeg?auto=webp&s=6dc7d9ed61297d68a327157994f494a2cf673cce to temp_image.jpg
 2025-05-26 19:36:20,461 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-26 20:16:44,864 - INFO - Content: everytime they interact in spawn room
+
+2025-05-26 20:16:44,864 - INFO - Image Paths: ['https://preview.redd.it/vj15duspz43f1.png?auto=webp&s=6c2710691b8f5a8ac7f58e1e4767a81c67da66b6']
+2025-05-26 20:16:44,864 - INFO - Video Path: 
+2025-05-26 20:16:44,897 - INFO - Downloaded media from https://preview.redd.it/vj15duspz43f1.png?auto=webp&s=6c2710691b8f5a8ac7f58e1e4767a81c67da66b6 to temp_image.jpg
+2025-05-26 20:16:45,471 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
