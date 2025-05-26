@@ -1888,3 +1888,10 @@ It's like Blizzard hates us 😞
 2025-05-26 21:37:57,631 - INFO - Downloaded media from https://preview.redd.it/aj17ub8e763f1.png?auto=webp&s=d128b30843af05617f71f54238e420d684e08aca to temp_image.jpg
 2025-05-26 21:37:58,464 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-26 22:14:34,365 - INFO - Content: Can't believe Overwatch has been out for 9 years and we STILL don't have this skin
+It's like Blizzard hates us 😞
+2025-05-26 22:14:34,365 - INFO - Image Paths: ['https://preview.redd.it/aj17ub8e763f1.png?auto=webp&s=d128b30843af05617f71f54238e420d684e08aca']
+2025-05-26 22:14:34,365 - INFO - Video Path: 
+2025-05-26 22:14:34,606 - INFO - Downloaded media from https://preview.redd.it/aj17ub8e763f1.png?auto=webp&s=d128b30843af05617f71f54238e420d684e08aca to temp_image.jpg
+2025-05-26 22:14:35,618 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
