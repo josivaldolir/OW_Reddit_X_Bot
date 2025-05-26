@@ -1844,3 +1844,10 @@ Too Many Requests
 2025-05-26 18:46:02,681 - INFO - Downloaded media from https://preview.redd.it/vj15duspz43f1.png?auto=webp&s=6c2710691b8f5a8ac7f58e1e4767a81c67da66b6 to temp_image.jpg
 2025-05-26 18:46:03,657 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-26 19:12:34,626 - INFO - Content: everytime they interact in spawn room
+
+2025-05-26 19:12:34,626 - INFO - Image Paths: ['https://preview.redd.it/vj15duspz43f1.png?auto=webp&s=6c2710691b8f5a8ac7f58e1e4767a81c67da66b6']
+2025-05-26 19:12:34,626 - INFO - Video Path: 
+2025-05-26 19:12:34,652 - INFO - Downloaded media from https://preview.redd.it/vj15duspz43f1.png?auto=webp&s=6c2710691b8f5a8ac7f58e1e4767a81c67da66b6 to temp_image.jpg
+2025-05-26 19:12:35,255 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
