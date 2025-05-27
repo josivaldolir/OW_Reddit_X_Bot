@@ -2154,3 +2154,10 @@ Too Many Requests
 2025-05-27 18:48:53,460 - INFO - Downloaded media from https://preview.redd.it/3nrapufemb3f1.png?auto=webp&s=78be92a3aa516c22aa51d9009e305e137384e7e4 to temp_image.jpg
 2025-05-27 18:48:54,169 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-27 19:12:06,112 - INFO - Content: Seriously, do you have brain damage?
+
+2025-05-27 19:12:06,112 - INFO - Image Paths: ['https://preview.redd.it/3nrapufemb3f1.png?auto=webp&s=78be92a3aa516c22aa51d9009e305e137384e7e4']
+2025-05-27 19:12:06,112 - INFO - Video Path: 
+2025-05-27 19:12:06,155 - INFO - Downloaded media from https://preview.redd.it/3nrapufemb3f1.png?auto=webp&s=78be92a3aa516c22aa51d9009e305e137384e7e4 to temp_image.jpg
+2025-05-27 19:12:07,013 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
