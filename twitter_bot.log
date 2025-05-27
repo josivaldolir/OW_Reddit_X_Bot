@@ -1980,3 +1980,10 @@ Too Many Requests
 2025-05-27 06:22:09,997 - INFO - Downloaded media from https://preview.redd.it/uca5kn3u673f1.png?auto=webp&s=48ba1ac171cbcb7cbdc6e5819cc2b659158ee872 to temp_image.jpg
 2025-05-27 06:22:10,975 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-27 06:48:55,598 - INFO - Content: Average Wifeleaver on your team
+
+2025-05-27 06:48:55,599 - INFO - Image Paths: ['https://preview.redd.it/uca5kn3u673f1.png?auto=webp&s=48ba1ac171cbcb7cbdc6e5819cc2b659158ee872']
+2025-05-27 06:48:55,599 - INFO - Video Path: 
+2025-05-27 06:48:55,655 - INFO - Downloaded media from https://preview.redd.it/uca5kn3u673f1.png?auto=webp&s=48ba1ac171cbcb7cbdc6e5819cc2b659158ee872 to temp_image.jpg
+2025-05-27 06:48:56,602 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
