@@ -2217,3 +2217,10 @@ Too Many Requests
 2025-05-27 23:14:19,646 - INFO - Downloaded media from https://preview.redd.it/3nrapufemb3f1.png?auto=webp&s=78be92a3aa516c22aa51d9009e305e137384e7e4 to temp_image.jpg
 2025-05-27 23:14:20,604 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-27 23:37:37,526 - INFO - Content: Very very dumb, always
+It doesn't matter if you think you're dominating, all it takes is the other team getting fed up of your "bot mode?" in chat to har focus and steam roll you. DON'T do this!
+2025-05-27 23:37:37,526 - INFO - Image Paths: ['https://preview.redd.it/1k60aubktb3f1.png?auto=webp&s=d8db394b9240503ee30d7096d9452386851bdc7b']
+2025-05-27 23:37:37,526 - INFO - Video Path: 
+2025-05-27 23:37:37,591 - INFO - Downloaded media from https://preview.redd.it/1k60aubktb3f1.png?auto=webp&s=d8db394b9240503ee30d7096d9452386851bdc7b to temp_image.jpg
+2025-05-27 23:37:38,327 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
