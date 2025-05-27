@@ -1948,3 +1948,12 @@ Been playing classic for the challenges, this game is my 8th loss in a row, what
 2025-05-27 04:22:39,467 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-27 04:22:46,499 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-27 04:46:26,648 - INFO - Content: I f***ing quit
+Been playing classic for the challenges, this game is my 8th loss in a row, what did I do to Aaron Keller?
+2025-05-27 04:46:26,648 - INFO - Image Paths: ['https://external-preview.redd.it/cHJub2UzMnZpNjNmMRSWOOU5Eg9VNqqgMVjmywlMF9JYcWO2EamOC66JmO9u.png?format=pjpg&auto=webp&s=3c22c8d5287d4475a6ca4c0ba329153845e1bd72']
+2025-05-27 04:46:26,648 - INFO - Video Path: https://v.redd.it/kg9xz9evi63f1/DASH_1080.mp4?source=fallback
+2025-05-27 04:46:26,798 - INFO - Downloaded media from https://v.redd.it/kg9xz9evi63f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-05-27 04:46:26,899 - INFO - Downloaded media from https://v.redd.it/kg9xz9evi63f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-05-27 04:46:27,270 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-27 04:46:33,889 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
