@@ -1957,3 +1957,10 @@ Been playing classic for the challenges, this game is my 8th loss in a row, what
 2025-05-27 04:46:27,270 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-27 04:46:33,889 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-27 05:15:26,232 - INFO - Content: Average Wifeleaver on your team
+
+2025-05-27 05:15:26,232 - INFO - Image Paths: ['https://preview.redd.it/uca5kn3u673f1.png?auto=webp&s=48ba1ac171cbcb7cbdc6e5819cc2b659158ee872']
+2025-05-27 05:15:26,232 - INFO - Video Path: 
+2025-05-27 05:15:26,393 - INFO - Downloaded media from https://preview.redd.it/uca5kn3u673f1.png?auto=webp&s=48ba1ac171cbcb7cbdc6e5819cc2b659158ee872 to temp_image.jpg
+2025-05-27 05:15:27,253 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
