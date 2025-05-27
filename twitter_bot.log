@@ -2147,3 +2147,10 @@ It doesn't matter if you think you're dominating, all it takes is the other team
 2025-05-27 18:20:54,777 - INFO - Downloaded media from https://preview.redd.it/1k60aubktb3f1.png?auto=webp&s=d8db394b9240503ee30d7096d9452386851bdc7b to temp_image.jpg
 2025-05-27 18:20:55,676 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-27 18:48:53,435 - INFO - Content: Seriously, do you have brain damage?
+
+2025-05-27 18:48:53,435 - INFO - Image Paths: ['https://preview.redd.it/3nrapufemb3f1.png?auto=webp&s=78be92a3aa516c22aa51d9009e305e137384e7e4']
+2025-05-27 18:48:53,435 - INFO - Video Path: 
+2025-05-27 18:48:53,460 - INFO - Downloaded media from https://preview.redd.it/3nrapufemb3f1.png?auto=webp&s=78be92a3aa516c22aa51d9009e305e137384e7e4 to temp_image.jpg
+2025-05-27 18:48:54,169 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
