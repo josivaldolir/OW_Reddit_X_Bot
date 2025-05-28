@@ -2353,3 +2353,9 @@ Too Many Requests
 2025-05-28 11:13:43,959 - INFO - Downloaded media from https://preview.redd.it/3nrapufemb3f1.png?auto=webp&s=78be92a3aa516c22aa51d9009e305e137384e7e4 to temp_image.jpg
 2025-05-28 11:13:44,640 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-28 11:37:18,794 - INFO - Content: Y'all are invited to my thick boy slammer
+
+2025-05-28 11:37:18,795 - INFO - Image Paths: ['https://preview.redd.it/31pwiaa44i3f1.png?auto=webp&s=099b61b607fe01c06fda26092e3143dd8eb18e2d']
+2025-05-28 11:37:18,795 - INFO - Video Path: 
+2025-05-28 11:37:19,066 - INFO - Downloaded media from https://preview.redd.it/31pwiaa44i3f1.png?auto=webp&s=099b61b607fe01c06fda26092e3143dd8eb18e2d to temp_image.jpg
+2025-05-28 11:37:21,942 - INFO - Posted content successfully. Tweet ID: 1927690649127829978
