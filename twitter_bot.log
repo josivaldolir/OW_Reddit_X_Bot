@@ -2423,3 +2423,10 @@ Too Many Requests
 2025-05-28 16:47:11,127 - INFO - Downloaded media from https://preview.redd.it/0kw0wg0ehj3f1.jpeg?auto=webp&s=d1b4e0c562d6e7e5ecc0289d7a5fcb8b2530bc60 to temp_image.jpg
 2025-05-28 16:47:11,744 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-28 17:14:35,980 - INFO - Content: I want to remind you all that he canonically still has it
+
+2025-05-28 17:14:35,980 - INFO - Image Paths: ['https://preview.redd.it/0kw0wg0ehj3f1.jpeg?auto=webp&s=d1b4e0c562d6e7e5ecc0289d7a5fcb8b2530bc60']
+2025-05-28 17:14:35,980 - INFO - Video Path: 
+2025-05-28 17:14:36,098 - INFO - Downloaded media from https://preview.redd.it/0kw0wg0ehj3f1.jpeg?auto=webp&s=d1b4e0c562d6e7e5ecc0289d7a5fcb8b2530bc60 to temp_image.jpg
+2025-05-28 17:14:36,795 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
