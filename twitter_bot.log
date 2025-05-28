@@ -2416,3 +2416,10 @@ Too Many Requests
 2025-05-28 16:18:16,694 - INFO - Video Path: 
 2025-05-28 16:18:16,965 - INFO - Downloaded media from https://preview.redd.it/9xnkctw7ki3f1.png?auto=webp&s=288d4aa8afaaab6a475c459e1ebf80c342f59455 to temp_image.jpg
 2025-05-28 16:18:18,246 - INFO - Posted content successfully. Tweet ID: 1927761355295363390
+2025-05-28 16:47:11,103 - INFO - Content: I want to remind you all that he canonically still has it
+
+2025-05-28 16:47:11,103 - INFO - Image Paths: ['https://preview.redd.it/0kw0wg0ehj3f1.jpeg?auto=webp&s=d1b4e0c562d6e7e5ecc0289d7a5fcb8b2530bc60']
+2025-05-28 16:47:11,103 - INFO - Video Path: 
+2025-05-28 16:47:11,127 - INFO - Downloaded media from https://preview.redd.it/0kw0wg0ehj3f1.jpeg?auto=webp&s=d1b4e0c562d6e7e5ecc0289d7a5fcb8b2530bc60 to temp_image.jpg
+2025-05-28 16:47:11,744 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
