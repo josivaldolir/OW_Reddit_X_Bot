@@ -2288,3 +2288,11 @@ Too Many Requests
 2025-05-28 06:49:20,097 - INFO - Downloaded media from https://preview.redd.it/fj7hvnewzf3f1.png?auto=webp&s=4f039f994f495c49fa63002670ca8d420bbd5b67 to temp_image.jpg
 2025-05-28 06:49:21,035 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-28 07:15:24,427 - INFO - Content: Be wary Stadium Kiriko Players! You might get banned.
+Just yesterday my account got banned for cheating after I had played a few rounds of stadium, one where I was playing Kiriko using the Clone jutsu ability. People started calling me a cheater in chat and I got very confused. After talking to customer support, it seems there's a fault in the system where in the killcams of people dying to the clone Kiriko, all they see is you, aimbotting. 
+
+This caused my Day 1 account with a few thousand hours to get banned, luckily it all got fixed within about 24 hours. Just giving people playing Stadium a heads up that picking the Clone power with Kiriko could result in a ban
+2025-05-28 07:15:24,427 - INFO - Image Paths: []
+2025-05-28 07:15:24,427 - INFO - Video Path: 
+2025-05-28 07:15:24,580 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
