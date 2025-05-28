@@ -2367,3 +2367,10 @@ This caused my Day 1 account with a few thousand hours to get banned, luckily it
 2025-05-28 12:32:02,328 - INFO - Video Path: 
 2025-05-28 12:32:02,521 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-28 13:29:24,878 - INFO - Content: We engage in a mild amount of tomfoolery
+
+2025-05-28 13:29:24,878 - INFO - Image Paths: ['https://preview.redd.it/9xnkctw7ki3f1.png?auto=webp&s=288d4aa8afaaab6a475c459e1ebf80c342f59455']
+2025-05-28 13:29:24,878 - INFO - Video Path: 
+2025-05-28 13:29:25,300 - INFO - Downloaded media from https://preview.redd.it/9xnkctw7ki3f1.png?auto=webp&s=288d4aa8afaaab6a475c459e1ebf80c342f59455 to temp_image.jpg
+2025-05-28 13:29:26,374 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
