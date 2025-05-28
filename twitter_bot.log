@@ -2450,3 +2450,9 @@ i was thinking of doing more of these, like ok computer echo or kid a hazard, bu
 2025-05-28 18:47:21,130 - INFO - Downloaded media from https://preview.redd.it/j7tko6o1pj3f1.png?auto=webp&s=444541a889a3b230a94963c328115f4b216c5ca8 to temp_image.jpg
 2025-05-28 18:47:22,084 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-28 19:13:03,316 - INFO - Content: i like radiohead and lucio, so i made a silly skin based off of the test specimen in radiohead ^_^
+i was thinking of doing more of these, like ok computer echo or kid a hazard, but i feel like i can connect the album's meanings / story to the characters rather than basing it off of visuals alone. but at the same time pretty = pretty so
+2025-05-28 19:13:03,316 - INFO - Image Paths: ['https://preview.redd.it/j7tko6o1pj3f1.png?auto=webp&s=444541a889a3b230a94963c328115f4b216c5ca8']
+2025-05-28 19:13:03,316 - INFO - Video Path: 
+2025-05-28 19:13:03,569 - INFO - Downloaded media from https://preview.redd.it/j7tko6o1pj3f1.png?auto=webp&s=444541a889a3b230a94963c328115f4b216c5ca8 to temp_image.jpg
+2025-05-28 19:13:05,086 - INFO - Posted content successfully. Tweet ID: 1927805338843238429
