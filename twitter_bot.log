@@ -2246,3 +2246,10 @@ This caused my Day 1 account with a few thousand hours to get banned, luckily it
 2025-05-28 03:44:25,602 - INFO - Video Path: 
 2025-05-28 03:44:25,839 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-28 04:20:19,100 - INFO - Content: Follow me, and you will never again accidentally make a play.
+
+2025-05-28 04:20:19,100 - INFO - Image Paths: ['https://preview.redd.it/fj7hvnewzf3f1.png?auto=webp&s=4f039f994f495c49fa63002670ca8d420bbd5b67']
+2025-05-28 04:20:19,100 - INFO - Video Path: 
+2025-05-28 04:20:19,148 - INFO - Downloaded media from https://preview.redd.it/fj7hvnewzf3f1.png?auto=webp&s=4f039f994f495c49fa63002670ca8d420bbd5b67 to temp_image.jpg
+2025-05-28 04:20:19,919 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
