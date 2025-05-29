@@ -2836,3 +2836,9 @@ Too Many Requests
 2025-05-29 20:17:47,247 - INFO - Downloaded media from https://v.redd.it/hhkw7jfthr3f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-05-29 20:17:47,578 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-29 20:17:58,546 - INFO - Posted content successfully. Tweet ID: 1928184059160842647
+2025-05-29 20:41:12,037 - INFO - Content: I really hope we don’t get anymore hyper-mobile, high burst-damage DPS in the future
+I really am tired of every match being dominated by the same two heroes, you all know who I’m talking about and they’re even more obnoxious with the mercy pocket. for the sake of my sanity can we please choose a different style for the next DPS hero 
+2025-05-29 20:41:12,037 - INFO - Image Paths: []
+2025-05-29 20:41:12,037 - INFO - Video Path: 
+2025-05-29 20:41:12,264 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
