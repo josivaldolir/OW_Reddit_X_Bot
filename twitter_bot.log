@@ -2856,3 +2856,11 @@ I really am tired of every match being dominated by the same two heroes, you all
 2025-05-29 21:37:19,321 - INFO - Video Path: 
 2025-05-29 21:37:19,461 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-29 22:14:53,800 - INFO - Content: (NSFW: Profanity) This Was the Map That Made Me Realize How Useful the Ascendance Perk is
+I still get cyberbullied by Lucios but not as much anymore
+2025-05-29 22:14:53,800 - INFO - Image Paths: ['https://external-preview.redd.it/YzZicGZ4MHBkczNmMc6XSf62rTFsLMsa90PIUV58huGqZ20zu7V4W648qM4F.png?format=pjpg&auto=webp&s=22662bd5217f6c5879dcb6bcae45bbe94a66bf8a']
+2025-05-29 22:14:53,800 - INFO - Video Path: https://v.redd.it/rdifgvyods3f1/DASH_1080.mp4?source=fallback
+2025-05-29 22:14:54,872 - INFO - Downloaded media from https://v.redd.it/rdifgvyods3f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-05-29 22:14:55,111 - INFO - Downloaded media from https://v.redd.it/rdifgvyods3f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-05-29 22:14:55,405 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-29 22:15:02,528 - INFO - Posted content successfully. Tweet ID: 1928213520228962372
