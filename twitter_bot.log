@@ -2620,3 +2620,10 @@ This is a very serious petition for a very serious removal of a very serious thu
 2025-05-29 05:42:35,833 - INFO - Downloaded media from https://preview.redd.it/xu10yhdeak3f1.png?auto=webp&s=1dc3b9bb598dc4c862b26592cfead9eba423f5ed to temp_image.jpg
 2025-05-29 05:42:36,459 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-29 06:23:25,685 - INFO - Content: I just realized that this is the only spray and pic we know that orisa has two normal arms
+in case if you were wondering orisa's crossing guard spray is the only image showing orisa without her gun arm 
+2025-05-29 06:23:25,686 - INFO - Image Paths: ['https://preview.redd.it/9d1v23fkim3f1.png?auto=webp&s=7550d1c12a299118fbf65ff756938b89733c4ec6']
+2025-05-29 06:23:25,686 - INFO - Video Path: 
+2025-05-29 06:23:25,746 - INFO - Downloaded media from https://preview.redd.it/9d1v23fkim3f1.png?auto=webp&s=7550d1c12a299118fbf65ff756938b89733c4ec6 to temp_image.jpg
+2025-05-29 06:23:26,297 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
