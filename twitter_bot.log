@@ -2864,3 +2864,9 @@ I still get cyberbullied by Lucios but not as much anymore
 2025-05-29 22:14:55,111 - INFO - Downloaded media from https://v.redd.it/rdifgvyods3f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-05-29 22:14:55,405 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-29 22:15:02,528 - INFO - Posted content successfully. Tweet ID: 1928213520228962372
+2025-05-29 22:42:17,588 - INFO - Content: Totally real zenyatta stadium power
+
+2025-05-29 22:42:17,588 - INFO - Image Paths: ['https://preview.redd.it/y5ocujywyc3f1.png?auto=webp&s=d49f3d13a3329644475a3c07e3ac15312ad16a39']
+2025-05-29 22:42:17,588 - INFO - Video Path: 
+2025-05-29 22:42:17,818 - INFO - Downloaded media from https://preview.redd.it/y5ocujywyc3f1.png?auto=webp&s=d49f3d13a3329644475a3c07e3ac15312ad16a39 to temp_image.jpg
+2025-05-29 22:42:18,750 - INFO - Posted content successfully. Tweet ID: 1928220382261301347
