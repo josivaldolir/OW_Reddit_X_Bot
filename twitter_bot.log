@@ -2598,3 +2598,10 @@ in case if you were wondering orisa's crossing guard spray is the only image sho
 2025-05-29 04:20:39,662 - INFO - Downloaded media from https://preview.redd.it/9d1v23fkim3f1.png?auto=webp&s=7550d1c12a299118fbf65ff756938b89733c4ec6 to temp_image.jpg
 2025-05-29 04:20:40,253 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-29 04:45:54,392 - INFO - Content: I just realized that this is the only spray and pic we know that orisa has two normal arms
+in case if you were wondering orisa's crossing guard spray is the only image showing orisa without her gun arm 
+2025-05-29 04:45:54,392 - INFO - Image Paths: ['https://preview.redd.it/9d1v23fkim3f1.png?auto=webp&s=7550d1c12a299118fbf65ff756938b89733c4ec6']
+2025-05-29 04:45:54,392 - INFO - Video Path: 
+2025-05-29 04:45:54,445 - INFO - Downloaded media from https://preview.redd.it/9d1v23fkim3f1.png?auto=webp&s=7550d1c12a299118fbf65ff756938b89733c4ec6 to temp_image.jpg
+2025-05-29 04:45:54,860 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
