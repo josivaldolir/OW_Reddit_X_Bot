@@ -2679,3 +2679,11 @@ As a kiriko main even I know she has WAY too many skins lmao, I can’t keep up 
 2025-05-29 09:18:21,796 - INFO - Downloaded media from https://preview.redd.it/u9qbssnq5m3f1.jpg?width=4000&format=pjpg&auto=webp&s=c2cf0244b804243009f725a2d344cb1dbbd353fb to temp_image.jpg
 2025-05-29 09:18:23,023 - INFO - Downloaded media from https://preview.redd.it/wvyriqnq5m3f1.jpg?width=4000&format=pjpg&auto=webp&s=cae34618c59bcb38fb7cdef5dd95d55663725826 to temp_image.jpg
 2025-05-29 09:18:25,772 - INFO - Posted content successfully. Tweet ID: 1928018075850547302
+2025-05-29 09:41:02,575 - INFO - Content: ez dodge
+N
+2025-05-29 09:41:02,575 - INFO - Image Paths: ['https://external-preview.redd.it/OHR2NXcxOWxjbzNmMTLasYNHByEB35eW4YD4cKV0FfbCHoVuuwn28F0ikDD4.png?format=pjpg&auto=webp&s=11fc9b93da16f8193cfa13143e63e3f005e83994']
+2025-05-29 09:41:02,575 - INFO - Video Path: https://v.redd.it/24r29ebhco3f1/DASH_480.mp4?source=fallback
+2025-05-29 09:41:03,181 - INFO - Downloaded media from https://v.redd.it/24r29ebhco3f1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-05-29 09:41:03,224 - INFO - Downloaded media from https://v.redd.it/24r29ebhco3f1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-05-29 09:41:03,597 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-29 09:41:09,718 - INFO - Posted content successfully. Tweet ID: 1928023800085631387
