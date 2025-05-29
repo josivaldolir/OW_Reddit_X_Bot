@@ -2659,3 +2659,14 @@ Has anyone else experienced this? And do you think I’ll get banned if I spend 
 2025-05-29 08:20:54,019 - INFO - Downloaded media from https://preview.redd.it/gk2oo4832n3f1.jpg?width=1320&format=pjpg&auto=webp&s=20a0590276d9d4b01d6b117cf75a19d78ee641c2 to temp_image.jpg
 2025-05-29 08:20:54,633 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-29 08:47:15,647 - INFO - Content: Randomly got 11k OW coins?
+Hey! Last week on the 21st I bought the 11k OW coins and bought the Street Fighter 6 bundle and the new mythic weapon all through the Battle.net shop as I was on a holiday. I log in again 2 days ago for the second time this week and I have 12k coins in my account? Mind you I already bought the SF6 bundle and have played with the skins. I checked yesterday and today and it is still there. I checked my balance history and it says I didn’t buy anything, just the 10k for the SF6. The only thing though is that in the transactions it had not said that I actually bought the street fighter 6 bundle despite me owning it in game and having played it. 
+
+I experienced this ONCE before back in 2022 when the Pacific all star skins came out, I bought the mercy one and a few hours later I see i still have the same amount of coins in my balance so I bought the DVA pacific all star skin. I never got banned or anything for spending the money too. 
+
+Has anyone else experienced this? And do you think I’ll get banned if I spend the coins now? Because last time it happened I never got into the negatives. I am grateful that I got a good glitch though :’)
+2025-05-29 08:47:15,647 - INFO - Image Paths: ['https://preview.redd.it/a33sz4832n3f1.jpg?width=1319&format=pjpg&auto=webp&s=dd0c4e3bc58db92edbd7aa28c14d9114e78c15b4', 'https://preview.redd.it/gk2oo4832n3f1.jpg?width=1320&format=pjpg&auto=webp&s=20a0590276d9d4b01d6b117cf75a19d78ee641c2']
+2025-05-29 08:47:15,647 - INFO - Video Path: 
+2025-05-29 08:47:15,877 - INFO - Downloaded media from https://preview.redd.it/a33sz4832n3f1.jpg?width=1319&format=pjpg&auto=webp&s=dd0c4e3bc58db92edbd7aa28c14d9114e78c15b4 to temp_image.jpg
+2025-05-29 08:47:16,547 - INFO - Downloaded media from https://preview.redd.it/gk2oo4832n3f1.jpg?width=1320&format=pjpg&auto=webp&s=20a0590276d9d4b01d6b117cf75a19d78ee641c2 to temp_image.jpg
+2025-05-29 08:47:17,690 - INFO - Posted content successfully. Tweet ID: 1928010243163967948
