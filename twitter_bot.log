@@ -2702,3 +2702,12 @@ This is a very serious petition for a very serious removal of a very serious thu
 2025-05-29 10:45:34,092 - INFO - Downloaded media from https://preview.redd.it/xu10yhdeak3f1.png?auto=webp&s=1dc3b9bb598dc4c862b26592cfead9eba423f5ed to temp_image.jpg
 2025-05-29 10:45:34,611 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-29 11:13:26,356 - INFO - Content: Obviously Very Serious Post about a Very serious topic (Orange shirt thumbnail)
+This is a very serious petition for a very serious removal of a very serious thumbnail that has now been lost to time.
+
+[https://chng.it/ChNGysSFHq](https://chng.it/ChNGysSFHq)
+2025-05-29 11:13:26,357 - INFO - Image Paths: ['https://preview.redd.it/xu10yhdeak3f1.png?auto=webp&s=1dc3b9bb598dc4c862b26592cfead9eba423f5ed']
+2025-05-29 11:13:26,357 - INFO - Video Path: 
+2025-05-29 11:13:26,403 - INFO - Downloaded media from https://preview.redd.it/xu10yhdeak3f1.png?auto=webp&s=1dc3b9bb598dc4c862b26592cfead9eba423f5ed to temp_image.jpg
+2025-05-29 11:13:26,969 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
