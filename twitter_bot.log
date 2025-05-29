@@ -2828,3 +2828,11 @@ I really am tired of every match being dominated by the same two heroes, you all
 2025-05-29 19:37:30,063 - INFO - Video Path: 
 2025-05-29 19:37:30,217 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-29 20:17:45,993 - INFO - Content: This is one example of the objects on the wall issue on new maps. Paraiso for example is a nightmare. When they rework maps I hope they take this into consideration
+
+2025-05-29 20:17:45,993 - INFO - Image Paths: ['https://external-preview.redd.it/b3pkcHllZnRocjNmMdwB3I7hEuxuI_iUWNcw0TZscyTBK_-3ZtC0wSnemROx.png?format=pjpg&auto=webp&s=20ca834738674b281ead7534ac8fe645cab3218e']
+2025-05-29 20:17:45,993 - INFO - Video Path: https://v.redd.it/hhkw7jfthr3f1/DASH_1080.mp4?source=fallback
+2025-05-29 20:17:46,987 - INFO - Downloaded media from https://v.redd.it/hhkw7jfthr3f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-05-29 20:17:47,247 - INFO - Downloaded media from https://v.redd.it/hhkw7jfthr3f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-05-29 20:17:47,578 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-29 20:17:58,546 - INFO - Posted content successfully. Tweet ID: 1928184059160842647
