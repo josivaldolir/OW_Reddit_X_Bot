@@ -2842,3 +2842,11 @@ I really am tired of every match being dominated by the same two heroes, you all
 2025-05-29 20:41:12,037 - INFO - Video Path: 
 2025-05-29 20:41:12,264 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-29 21:14:45,839 - INFO - Content: the absolute peak of overwatch gameplay.
+it took so much skill and effort to win this game.
+2025-05-29 21:14:45,839 - INFO - Image Paths: ['https://external-preview.redd.it/YW15M3l3Z3ZkczNmMZ-UBnFfK5TmK9j64D59KCCp6Rdk6anLaZdGMIYWyHfx.png?format=pjpg&auto=webp&s=a87fca4f089be084974929a734771f18ba3703c1']
+2025-05-29 21:14:45,839 - INFO - Video Path: https://v.redd.it/sybyt9ovds3f1/DASH_1080.mp4?source=fallback
+2025-05-29 21:14:48,653 - INFO - Downloaded media from https://v.redd.it/sybyt9ovds3f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-05-29 21:14:48,813 - INFO - Downloaded media from https://v.redd.it/sybyt9ovds3f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-05-29 21:14:49,161 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-29 21:15:00,865 - INFO - Posted content successfully. Tweet ID: 1928198413830738302
