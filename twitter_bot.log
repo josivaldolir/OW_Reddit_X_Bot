@@ -2755,3 +2755,11 @@ Not only can he fly now, but now his barrier is applies to all his teammates, an
 2025-05-29 14:42:56,883 - INFO - Video Path: 
 2025-05-29 14:42:57,177 - INFO - Downloaded media from https://preview.redd.it/js167ockeq3f1.jpeg?auto=webp&s=d46c1f4728ff2f30102521c1ffd6cf33ed4a64cd to temp_image.jpg
 2025-05-29 14:42:58,127 - INFO - Posted content successfully. Tweet ID: 1928099752060801146
+2025-05-29 15:16:10,394 - INFO - Content: Where can i find pictures like these?
+I would like more if there is more
+2025-05-29 15:16:10,395 - INFO - Image Paths: ['https://preview.redd.it/nj8rqnz3kp3f1.png?width=389&format=png&auto=webp&s=e65f819b1d6d027e78b0652bcea340a3dea24fb0', 'https://preview.redd.it/z41sio14kp3f1.jpg?width=1080&format=pjpg&auto=webp&s=b842e6c4476d72b9d65fe3c6ab91b0f85faf84d2', 'https://preview.redd.it/hqljj334kp3f1.jpg?width=1440&format=pjpg&auto=webp&s=a33bb19f24db4cd44b431586bf88c396859ac7a2']
+2025-05-29 15:16:10,395 - INFO - Video Path: 
+2025-05-29 15:16:10,459 - INFO - Downloaded media from https://preview.redd.it/nj8rqnz3kp3f1.png?width=389&format=png&auto=webp&s=e65f819b1d6d027e78b0652bcea340a3dea24fb0 to temp_image.jpg
+2025-05-29 15:16:10,837 - INFO - Downloaded media from https://preview.redd.it/z41sio14kp3f1.jpg?width=1080&format=pjpg&auto=webp&s=b842e6c4476d72b9d65fe3c6ab91b0f85faf84d2 to temp_image.jpg
+2025-05-29 15:16:11,349 - INFO - Downloaded media from https://preview.redd.it/hqljj334kp3f1.jpg?width=1440&format=pjpg&auto=webp&s=a33bb19f24db4cd44b431586bf88c396859ac7a2 to temp_image.jpg
+2025-05-29 15:16:12,410 - INFO - Posted content successfully. Tweet ID: 1928108116354158894
