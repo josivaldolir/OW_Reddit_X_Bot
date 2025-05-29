@@ -2585,3 +2585,9 @@ Too Many Requests
 2025-05-29 02:57:43,973 - INFO - Downloaded media from https://preview.redd.it/vaxbwnbl7k3f1.jpeg?auto=webp&s=5d8c895b25cf79ef8630ef883f626511f425f167 to temp_image.jpg
 2025-05-29 02:57:44,710 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-29 03:45:29,391 - INFO - Content: ana crits are actually kinda dope
+
+2025-05-29 03:45:29,392 - INFO - Image Paths: ['https://preview.redd.it/vaxbwnbl7k3f1.jpeg?auto=webp&s=5d8c895b25cf79ef8630ef883f626511f425f167']
+2025-05-29 03:45:29,392 - INFO - Video Path: 
+2025-05-29 03:45:29,694 - INFO - Downloaded media from https://preview.redd.it/vaxbwnbl7k3f1.jpeg?auto=webp&s=5d8c895b25cf79ef8630ef883f626511f425f167 to temp_image.jpg
+2025-05-29 03:45:30,852 - INFO - Posted content successfully. Tweet ID: 1927934298226594188
