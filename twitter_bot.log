@@ -2687,3 +2687,9 @@ N
 2025-05-29 09:41:03,224 - INFO - Downloaded media from https://v.redd.it/24r29ebhco3f1/DASH_480.mp4?source=fallback to temp_audio.mp4
 2025-05-29 09:41:03,597 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-29 09:41:09,718 - INFO - Posted content successfully. Tweet ID: 1928023800085631387
+2025-05-29 10:17:47,010 - INFO - Content: My old concept skin for Roadhog
+
+2025-05-29 10:17:47,011 - INFO - Image Paths: ['https://preview.redd.it/3deiw8dvzo3f1.png?auto=webp&s=60e75e2d868408a0db6a2a5481c45ff45129c28b']
+2025-05-29 10:17:47,011 - INFO - Video Path: 
+2025-05-29 10:17:47,310 - INFO - Downloaded media from https://preview.redd.it/3deiw8dvzo3f1.png?auto=webp&s=60e75e2d868408a0db6a2a5481c45ff45129c28b to temp_image.jpg
+2025-05-29 10:17:48,346 - INFO - Posted content successfully. Tweet ID: 1928033021313307019
