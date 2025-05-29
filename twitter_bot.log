@@ -2571,3 +2571,10 @@ I posted pictures of my Juno cosplay earlier this year, I recently wore her agai
 2025-05-28 23:37:53,706 - INFO - Downloaded media from https://preview.redd.it/r27wm5quzk3f1.jpg?width=2730&format=pjpg&auto=webp&s=5668606f47decf82b1a8f106fe8cc00369a44b58 to temp_image.jpg
 2025-05-28 23:37:54,829 - INFO - Downloaded media from https://preview.redd.it/9zrpe6quzk3f1.jpg?width=2438&format=pjpg&auto=webp&s=f56ca8d4c0290c7e19be56c8610c8b578c393232 to temp_image.jpg
 2025-05-28 23:37:56,646 - INFO - Posted content successfully. Tweet ID: 1927871993740980732
+2025-05-29 01:14:10,608 - INFO - Content: ana crits are actually kinda dope
+
+2025-05-29 01:14:10,608 - INFO - Image Paths: ['https://preview.redd.it/vaxbwnbl7k3f1.jpeg?auto=webp&s=5d8c895b25cf79ef8630ef883f626511f425f167']
+2025-05-29 01:14:10,609 - INFO - Video Path: 
+2025-05-29 01:14:10,896 - INFO - Downloaded media from https://preview.redd.it/vaxbwnbl7k3f1.jpeg?auto=webp&s=5d8c895b25cf79ef8630ef883f626511f425f167 to temp_image.jpg
+2025-05-29 01:14:11,584 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
