@@ -3046,3 +3046,12 @@ Too Many Requests
 2025-05-30 11:14:11,352 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-30 11:14:15,566 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-30 11:37:23,040 - INFO - Content: Kiriko is definitely not passing
+
+2025-05-30 11:37:23,040 - INFO - Image Paths: ['https://external-preview.redd.it/c3I1a3JrbGZqdzNmMdj7hLlWJ-e__Tr_l8CcJm-mnaxF6eJYJj2wbvwbsDvm.png?format=pjpg&auto=webp&s=0490d678d1a3f8ea41a4ab709915ec764b7c0e9e']
+2025-05-30 11:37:23,040 - INFO - Video Path: https://v.redd.it/r0o2qlkfjw3f1/DASH_720.mp4?source=fallback
+2025-05-30 11:37:23,219 - INFO - Downloaded media from https://v.redd.it/r0o2qlkfjw3f1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-05-30 11:37:23,253 - INFO - Downloaded media from https://v.redd.it/r0o2qlkfjw3f1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-05-30 11:37:26,625 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-30 11:37:30,993 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
