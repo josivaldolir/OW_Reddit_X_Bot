@@ -3173,3 +3173,10 @@ It’s so awesome I LOVE it !!
 2025-05-30 18:47:50,264 - INFO - Downloaded media from https://preview.redd.it/2sq92o21tx3f1.jpg?width=1007&format=pjpg&auto=webp&s=ce397d3331ca072b200c9de022a11adbbe0a2e3c to temp_image.jpg
 2025-05-30 18:47:51,138 - INFO - Downloaded media from https://preview.redd.it/f1dgfn21tx3f1.jpg?width=1007&format=pjpg&auto=webp&s=dbfe4d1f74e48c1d781f7c96afc39714eb9dca99 to temp_image.jpg
 2025-05-30 18:47:52,172 - INFO - Posted content successfully. Tweet ID: 1928523771180363852
+2025-05-30 19:12:33,890 - INFO - Content: My heroes
+
+2025-05-30 19:12:33,890 - INFO - Image Paths: ['https://preview.redd.it/7jdlydlqty3f1.jpeg?auto=webp&s=849286f286984e33aa8aca680f9ecbc7b8d1789b']
+2025-05-30 19:12:33,890 - INFO - Video Path: 
+2025-05-30 19:12:33,952 - INFO - Downloaded media from https://preview.redd.it/7jdlydlqty3f1.jpeg?auto=webp&s=849286f286984e33aa8aca680f9ecbc7b8d1789b to temp_image.jpg
+2025-05-30 19:12:34,802 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
