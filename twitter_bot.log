@@ -2973,3 +2973,35 @@ I’m a tank main and i usually do a pretty good job unless we get rolled. I had
 2025-05-30 08:20:41,052 - INFO - Downloaded media from https://v.redd.it/hzb924rzza3f1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-05-30 08:20:44,579 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-30 08:20:46,955 - INFO - Posted content successfully. Tweet ID: 1928365959745826897
+2025-05-30 08:47:09,843 - INFO - Content: Freja's damage should be focused on the hit damage of the bomb arrows(Take aim)
+To put it simple, nerf the explosion damage. ANd if you must, increase the shot damage instead.
+
+The reason that makes Freja dangerous is her ability to shoot 2~3 bomb arrows("Take aim.") in a short amount of time.
+
+The bomb arrow's max damage per shot is 170.(40×2+90) If it's not a crit, it would be 130.(40+90)
+ 
+Therfore, the damage of two arrows combined would be 340(170+170, both crit), 300(170+130, half and half), 260(all body shots). 
+
+The problem is with the third one, 260.
+
+Most of the heroes in the Support/DPS sections are below 250 HP. Although there are other ways to survive(* Venture's passive and skills, Kiriko's cleanse and etc), these depend on the skill's availability.
+
+The exceptions are
+DPS: Bastion(250+100 Armor), Cassidy(275), Mei/Reaper(300), Symmetra(125+150 Shield), Torbjörn(225+75 Armor)
+Support: Lifeweaver(225+50 Shield)
+
+Among the 19 DPS amd 11 Supports, only 6 DPS and Lifeweaver can survive from two body shots. 
+
+There are other DPS that share simillar traits(Small size of shot/long range) that also land burst damage in a short amount of time(Widow/Hanzo/Sojourn/Ashe), 
+BUT NONE OF THEM CAN KILL A HERO with two body shots(except Hanzo).
+
+
+Hanzo is the only exception, but unlike Freja, Hanzo takes at least 1.12(drawback 0.5 s+charge 0.72s)s and most importantly, affected by gravity, which makes it more difficult to land shots. Not to mention, Hanzo does not have any skills that make him "fly into midair".
+
+Even Sojourn's railgun damage output is 120(100 energy).  
+
+I am not saying that the max damage output of Freja should be nerfed, due to the difficulty of headshots, but the min damage should be nerfed below 225.
+2025-05-30 08:47:09,843 - INFO - Image Paths: []
+2025-05-30 08:47:09,843 - INFO - Video Path: 
+2025-05-30 08:47:09,970 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
