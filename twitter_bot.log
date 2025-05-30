@@ -3133,3 +3133,12 @@ I don't play Hanzo or Sombra but I'm happy to say the least. The Heir skin for H
 2025-05-30 16:19:14,308 - INFO - Video Path: 
 2025-05-30 16:19:14,332 - INFO - Downloaded media from https://preview.redd.it/ux2wanyzsx3f1.jpeg?auto=webp&s=b8c3197a549e918582c7e61764993ed6ff1cee69 to temp_image.jpg
 2025-05-30 16:19:15,810 - INFO - Posted content successfully. Tweet ID: 1928486372391653459
+2025-05-30 16:46:21,049 - INFO - Content: Gotta love combos🙏
+Had to give them a few warning shots but they didn’t listen😈
+2025-05-30 16:46:21,049 - INFO - Image Paths: ['https://external-preview.redd.it/YnV3YTdlcm9vdzNmMSPlHhSFSCv0pTPA_hudtXvbvLYoLP64J5S53vhjLq7a.png?format=pjpg&auto=webp&s=999a2ebf5dc6910250df9a68660bceb7a81bba3c']
+2025-05-30 16:46:21,049 - INFO - Video Path: https://v.redd.it/x9ei1lyoow3f1/DASH_720.mp4?source=fallback
+2025-05-30 16:46:21,170 - INFO - Downloaded media from https://v.redd.it/x9ei1lyoow3f1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-05-30 16:46:21,184 - INFO - Downloaded media from https://v.redd.it/x9ei1lyoow3f1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-05-30 16:46:21,846 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-30 16:46:27,817 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
