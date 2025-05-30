@@ -3216,3 +3216,11 @@ Do my fav 6 say more about playstyle or the type of person I am? 🫩
 2025-05-30 21:37:01,389 - INFO - Video Path: 
 2025-05-30 21:37:01,454 - INFO - Downloaded media from https://preview.redd.it/vjse9imksy3f1.jpeg?auto=webp&s=c9a1c690f55a2f4cc360eafab357b415658944cd to temp_image.jpg
 2025-05-30 21:37:02,589 - INFO - Posted content successfully. Tweet ID: 1928566344540368967
+2025-05-30 22:14:44,107 - INFO - Content: I mean... You might as well
+
+2025-05-30 22:14:44,107 - INFO - Image Paths: ['https://external-preview.redd.it/Znd4ZTQzYW45ejNmMfv580jahtDgOcI0cVQZYaTa17o9onVYyaXfGsxIAMPX.png?format=pjpg&auto=webp&s=d366c37594bf98965f462c9092fffdb749b910f5']
+2025-05-30 22:14:44,107 - INFO - Video Path: https://v.redd.it/mg0efy3n9z3f1/DASH_1080.mp4?source=fallback
+2025-05-30 22:14:44,308 - INFO - Downloaded media from https://v.redd.it/mg0efy3n9z3f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-05-30 22:14:44,380 - INFO - Downloaded media from https://v.redd.it/mg0efy3n9z3f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-05-30 22:14:44,778 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-30 22:14:48,360 - INFO - Posted content successfully. Tweet ID: 1928575848598360230
