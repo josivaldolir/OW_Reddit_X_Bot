@@ -2965,3 +2965,11 @@ I’m a tank main and i usually do a pretty good job unless we get rolled. I had
 2025-05-30 07:37:46,182 - INFO - Image Paths: []
 2025-05-30 07:37:46,182 - INFO - Video Path: 
 2025-05-30 07:37:46,479 - INFO - Posted content successfully. Tweet ID: 1928355136692441120
+2025-05-30 08:20:40,675 - INFO - Content: i was fighting for my life that game and you pull this shit?
+
+2025-05-30 08:20:40,676 - INFO - Image Paths: ['https://external-preview.redd.it/bzFhbDczcnp6YTNmMVmjFjAaodqHwbaFp0z4xkTIo7ok9h606Gqfd-POCsi8.png?format=pjpg&auto=webp&s=52b48dbbe54599f6d49a8bc1a770d9074701522b']
+2025-05-30 08:20:40,676 - INFO - Video Path: https://v.redd.it/hzb924rzza3f1/DASH_720.mp4?source=fallback
+2025-05-30 08:20:41,021 - INFO - Downloaded media from https://v.redd.it/hzb924rzza3f1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-05-30 08:20:41,052 - INFO - Downloaded media from https://v.redd.it/hzb924rzza3f1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-05-30 08:20:44,579 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-30 08:20:46,955 - INFO - Posted content successfully. Tweet ID: 1928365959745826897
