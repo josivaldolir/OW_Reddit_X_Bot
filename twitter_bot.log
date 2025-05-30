@@ -2908,3 +2908,9 @@ Too Many Requests
 2025-05-30 03:40:36,978 - INFO - Downloaded media from https://v.redd.it/dm4vi119jt3f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-05-30 03:40:37,357 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-30 03:40:43,854 - INFO - Posted content successfully. Tweet ID: 1928295482419548162
+2025-05-30 04:20:16,622 - INFO - Content: when you nano the wrong hero
+We’ve all been there. You line up the perfect nanoblade combo, your finger hovers over Q like it’s the goddamn nuclear codes... and then your brain short-circuits. Now the enemy team gets to witness a juiced-up Lucio desperately trying to boop them to death.
+2025-05-30 04:20:16,622 - INFO - Image Paths: ['https://preview.redd.it/a2s0p2mnys3f1.jpeg?auto=webp&s=c12b28eebce991b1154337f12e42907f50b3a45f']
+2025-05-30 04:20:16,622 - INFO - Video Path: 
+2025-05-30 04:20:16,675 - INFO - Downloaded media from https://preview.redd.it/a2s0p2mnys3f1.jpeg?auto=webp&s=c12b28eebce991b1154337f12e42907f50b3a45f to temp_image.jpg
+2025-05-30 04:20:17,554 - INFO - Posted content successfully. Tweet ID: 1928305438375768350
