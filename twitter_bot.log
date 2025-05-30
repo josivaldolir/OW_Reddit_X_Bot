@@ -3063,3 +3063,11 @@ Too Many Requests
 2025-05-30 12:30:57,874 - INFO - Downloaded media from https://v.redd.it/r0o2qlkfjw3f1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-05-30 12:31:00,532 - INFO - Combined video and audio into temp_combined.mp4
 2025-05-30 12:31:04,814 - INFO - Posted content successfully. Tweet ID: 1928428949253902507
+2025-05-30 13:27:34,414 - INFO - Content: What Does My Big3 Mains Say About Me?
+
+2025-05-30 13:27:34,414 - INFO - Image Paths: ['https://external-preview.redd.it/bXhzZ3R6ZW04dzNmMZRYKQMoShvXvy25EsZ7ajyNKU7gADkCyZDlMHFAF_Bl.png?format=pjpg&auto=webp&s=2e5617b38951b1904a9b39751ec41254c8861208']
+2025-05-30 13:27:34,414 - INFO - Video Path: https://v.redd.it/6uinspcm8w3f1/DASH_1080.mp4?source=fallback
+2025-05-30 13:27:34,924 - INFO - Downloaded media from https://v.redd.it/6uinspcm8w3f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-05-30 13:27:35,030 - INFO - Downloaded media from https://v.redd.it/6uinspcm8w3f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-05-30 13:27:35,576 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-30 13:27:40,158 - INFO - Posted content successfully. Tweet ID: 1928443190266540490
