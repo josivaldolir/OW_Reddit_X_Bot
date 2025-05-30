@@ -3078,3 +3078,9 @@ Too Many Requests
 2025-05-30 13:46:09,741 - INFO - Downloaded media from https://preview.redd.it/qh808meq4a3f1.jpeg?auto=webp&s=8c7e55b79366ae6037e201a6e221f789415e49fd to temp_image.jpg
 2025-05-30 13:46:10,497 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-30 14:16:23,885 - INFO - Content: Genji mains defecting my punches like I am going to run out of punches
+
+2025-05-30 14:16:23,885 - INFO - Image Paths: ['https://preview.redd.it/qh808meq4a3f1.jpeg?auto=webp&s=8c7e55b79366ae6037e201a6e221f789415e49fd']
+2025-05-30 14:16:23,885 - INFO - Video Path: 
+2025-05-30 14:16:24,070 - INFO - Downloaded media from https://preview.redd.it/qh808meq4a3f1.jpeg?auto=webp&s=8c7e55b79366ae6037e201a6e221f789415e49fd to temp_image.jpg
+2025-05-30 14:16:24,977 - INFO - Posted content successfully. Tweet ID: 1928455457938850118
