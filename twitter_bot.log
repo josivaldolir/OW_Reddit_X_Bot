@@ -3180,3 +3180,9 @@ It’s so awesome I LOVE it !!
 2025-05-30 19:12:33,952 - INFO - Downloaded media from https://preview.redd.it/7jdlydlqty3f1.jpeg?auto=webp&s=849286f286984e33aa8aca680f9ecbc7b8d1789b to temp_image.jpg
 2025-05-30 19:12:34,802 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-30 19:36:02,687 - INFO - Content: Weekly Recall: Tuning Up Stadium
+
+2025-05-30 19:36:02,687 - INFO - Image Paths: ['https://external-preview.redd.it/GkMS3qGl5_QqeCHnpZBlYRnyvorR5RT2qibZnlhHF2g.jpg?auto=webp&s=e2ad2347ea85abbe822b000bb61074dd48459ffe']
+2025-05-30 19:36:02,687 - INFO - Video Path: 
+2025-05-30 19:36:02,748 - INFO - Downloaded media from https://external-preview.redd.it/GkMS3qGl5_QqeCHnpZBlYRnyvorR5RT2qibZnlhHF2g.jpg?auto=webp&s=e2ad2347ea85abbe822b000bb61074dd48459ffe to temp_image.jpg
+2025-05-30 19:36:03,537 - INFO - Posted content successfully. Tweet ID: 1928535898599338414
