@@ -2884,3 +2884,10 @@ Too Many Requests
 2025-05-29 23:37:46,338 - INFO - Downloaded media from https://external-preview.redd.it/jJ4hsdVovqJf5zhsIL61UuYPZLOFYlO9iOQFGL7F5tE.jpg?auto=webp&s=907122904c8b67f336b3c6756dbf430ccb9a46de to temp_image.jpg
 2025-05-29 23:37:47,001 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-30 01:12:18,231 - INFO - Content: Overwatch 2 Retail Patch Notes – May 29, 2025
+
+2025-05-30 01:12:18,232 - INFO - Image Paths: ['https://external-preview.redd.it/jJ4hsdVovqJf5zhsIL61UuYPZLOFYlO9iOQFGL7F5tE.jpg?auto=webp&s=907122904c8b67f336b3c6756dbf430ccb9a46de']
+2025-05-30 01:12:18,232 - INFO - Video Path: 
+2025-05-30 01:12:18,290 - INFO - Downloaded media from https://external-preview.redd.it/jJ4hsdVovqJf5zhsIL61UuYPZLOFYlO9iOQFGL7F5tE.jpg?auto=webp&s=907122904c8b67f336b3c6756dbf430ccb9a46de to temp_image.jpg
+2025-05-30 01:12:18,885 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
