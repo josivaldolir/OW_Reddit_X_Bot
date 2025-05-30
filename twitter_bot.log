@@ -3037,3 +3037,12 @@ Swipe to see the awful thing they said that needed forgiveness
 2025-05-30 10:43:25,842 - INFO - Downloaded media from https://preview.redd.it/aslnvym3qv3f1.jpg?width=462&format=pjpg&auto=webp&s=84fadb622875fe52470d351ce2b1d4a103f646c5 to temp_image.jpg
 2025-05-30 10:43:26,494 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-30 11:14:09,952 - INFO - Content: Kiriko is definitely not passing
+
+2025-05-30 11:14:09,952 - INFO - Image Paths: ['https://external-preview.redd.it/c3I1a3JrbGZqdzNmMdj7hLlWJ-e__Tr_l8CcJm-mnaxF6eJYJj2wbvwbsDvm.png?format=pjpg&auto=webp&s=0490d678d1a3f8ea41a4ab709915ec764b7c0e9e']
+2025-05-30 11:14:09,952 - INFO - Video Path: https://v.redd.it/r0o2qlkfjw3f1/DASH_720.mp4?source=fallback
+2025-05-30 11:14:10,183 - INFO - Downloaded media from https://v.redd.it/r0o2qlkfjw3f1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-05-30 11:14:10,334 - INFO - Downloaded media from https://v.redd.it/r0o2qlkfjw3f1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-05-30 11:14:11,352 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-30 11:14:15,566 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
