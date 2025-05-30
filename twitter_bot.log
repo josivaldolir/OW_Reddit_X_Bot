@@ -3232,3 +3232,11 @@ here's a picture I got from a random friendly lobby
 2025-05-30 22:41:01,145 - INFO - Downloaded media from https://preview.redd.it/j3bvb1gzkz3f1.png?auto=webp&s=ea49fe52ef341cd96af1119b8ac05b75f1f404e7 to temp_image.jpg
 2025-05-30 22:41:01,734 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-30 23:14:25,114 - INFO - Content: New soldier skin and emote censored version
+Starting may 30th the overwatch pride event comes to celebrate lgbtq+ people and characters yet not everyone get to celebrate or enjoy the event some people were wondering why they didn't get the emote nor the skin so I figured I make this post to remind them not everyone get to celebrate pride in the game apparently the skin appears as default while the emote is just blue smoke 
+here's a picture I got from a random friendly lobby
+2025-05-30 23:14:25,114 - INFO - Image Paths: ['https://preview.redd.it/j3bvb1gzkz3f1.png?auto=webp&s=ea49fe52ef341cd96af1119b8ac05b75f1f404e7']
+2025-05-30 23:14:25,114 - INFO - Video Path: 
+2025-05-30 23:14:25,160 - INFO - Downloaded media from https://preview.redd.it/j3bvb1gzkz3f1.png?auto=webp&s=ea49fe52ef341cd96af1119b8ac05b75f1f404e7 to temp_image.jpg
+2025-05-30 23:14:25,722 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
