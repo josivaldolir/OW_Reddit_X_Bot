@@ -2891,3 +2891,12 @@ Too Many Requests
 2025-05-30 01:12:18,290 - INFO - Downloaded media from https://external-preview.redd.it/jJ4hsdVovqJf5zhsIL61UuYPZLOFYlO9iOQFGL7F5tE.jpg?auto=webp&s=907122904c8b67f336b3c6756dbf430ccb9a46de to temp_image.jpg
 2025-05-30 01:12:18,885 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-30 02:55:28,579 - INFO - Content: This character is utterly diabolical
+
+2025-05-30 02:55:28,579 - INFO - Image Paths: ['https://external-preview.redd.it/NmY5aXgwMTlqdDNmMYk9f2TDoOves9KpXE4KQtuWOqXJg6Bq1ZXFPDTNhizH.png?format=pjpg&auto=webp&s=16b4d5f5dec5b688e24efb8e25a07c3930cd10cf']
+2025-05-30 02:55:28,579 - INFO - Video Path: https://v.redd.it/dm4vi119jt3f1/DASH_1080.mp4?source=fallback
+2025-05-30 02:55:29,304 - INFO - Downloaded media from https://v.redd.it/dm4vi119jt3f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-05-30 02:55:29,579 - INFO - Downloaded media from https://v.redd.it/dm4vi119jt3f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-05-30 02:55:29,988 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-30 02:55:34,040 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
