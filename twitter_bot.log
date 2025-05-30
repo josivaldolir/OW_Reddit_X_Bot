@@ -3202,3 +3202,9 @@ Do my fav 6 say more about playstyle or the type of person I am? 🫩
 2025-05-30 20:41:32,349 - INFO - Downloaded media from https://preview.redd.it/vjse9imksy3f1.jpeg?auto=webp&s=c9a1c690f55a2f4cc360eafab357b415658944cd to temp_image.jpg
 2025-05-30 20:41:33,185 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-30 21:13:52,400 - INFO - Content: My heroes
+
+2025-05-30 21:13:52,400 - INFO - Image Paths: ['https://preview.redd.it/7jdlydlqty3f1.jpeg?auto=webp&s=849286f286984e33aa8aca680f9ecbc7b8d1789b']
+2025-05-30 21:13:52,400 - INFO - Video Path: 
+2025-05-30 21:13:52,930 - INFO - Downloaded media from https://preview.redd.it/7jdlydlqty3f1.jpeg?auto=webp&s=849286f286984e33aa8aca680f9ecbc7b8d1789b to temp_image.jpg
+2025-05-30 21:13:53,708 - INFO - Posted content successfully. Tweet ID: 1928560519893647721
