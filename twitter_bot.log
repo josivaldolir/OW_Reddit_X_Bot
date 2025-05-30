@@ -3013,3 +3013,11 @@ Swipe to see the awful thing they said that needed forgiveness
 2025-05-30 09:16:32,760 - INFO - Downloaded media from https://preview.redd.it/aslnvym3qv3f1.jpg?width=462&format=pjpg&auto=webp&s=84fadb622875fe52470d351ce2b1d4a103f646c5 to temp_image.jpg
 2025-05-30 09:16:33,618 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-30 09:41:02,958 - INFO - Content: Match chat is one of the best parts of this game
+Swipe to see the awful thing they said that needed forgiveness 
+2025-05-30 09:41:02,958 - INFO - Image Paths: ['https://preview.redd.it/xvx1jym3qv3f1.jpg?width=408&format=pjpg&auto=webp&s=4f69ed2bd0f4e2b33297f987ca312c6c61351349', 'https://preview.redd.it/aslnvym3qv3f1.jpg?width=462&format=pjpg&auto=webp&s=84fadb622875fe52470d351ce2b1d4a103f646c5']
+2025-05-30 09:41:02,958 - INFO - Video Path: 
+2025-05-30 09:41:03,149 - INFO - Downloaded media from https://preview.redd.it/xvx1jym3qv3f1.jpg?width=408&format=pjpg&auto=webp&s=4f69ed2bd0f4e2b33297f987ca312c6c61351349 to temp_image.jpg
+2025-05-30 09:41:03,624 - INFO - Downloaded media from https://preview.redd.it/aslnvym3qv3f1.jpg?width=462&format=pjpg&auto=webp&s=84fadb622875fe52470d351ce2b1d4a103f646c5 to temp_image.jpg
+2025-05-30 09:41:04,111 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
