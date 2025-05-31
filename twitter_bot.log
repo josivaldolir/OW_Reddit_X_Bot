@@ -3475,3 +3475,15 @@ FUN
 2025-05-31 16:46:19,311 - INFO - Video Path: 
 2025-05-31 16:46:19,510 - INFO - Downloaded media from https://preview.redd.it/xkmwhwjdf44f1.jpeg?auto=webp&s=7a23d9bb195b8be0604bb52ac7fb571df809a7c2 to temp_image.jpg
 2025-05-31 16:46:20,572 - INFO - Posted content successfully. Tweet ID: 1928855575946768761
+2025-05-31 17:13:40,801 - INFO - Content: Dream Arcane x Overwatch collab (it will never happen)
+This will NEVER happen but god there are some good matchups for the characters 
+
+Only added Viktor as Moira because I saw someone else post about the possibility, so this is my tribute to u lol 
+2025-05-31 17:13:40,801 - INFO - Image Paths: ['https://preview.redd.it/6aym4e8tu44f1.jpg?width=1800&format=pjpg&auto=webp&s=87447c9cb9e2b55d8933f7a34bbb1ad1f0adf072', 'https://preview.redd.it/ael42d8tu44f1.jpg?width=1800&format=pjpg&auto=webp&s=306811f793ef770ca0ced0ed2696ff9d4dd8000d', 'https://preview.redd.it/v7e0hd8tu44f1.jpg?width=1800&format=pjpg&auto=webp&s=e5ecf4e9860500c1fee9167a5f04bf0eafc7d1f1', 'https://preview.redd.it/lezvei8tu44f1.jpg?width=1800&format=pjpg&auto=webp&s=cd3e5b1b3ddefd5403cb87eb47c320938d5858da']
+2025-05-31 17:13:40,801 - INFO - Video Path: 
+2025-05-31 17:13:40,830 - INFO - Downloaded media from https://preview.redd.it/6aym4e8tu44f1.jpg?width=1800&format=pjpg&auto=webp&s=87447c9cb9e2b55d8933f7a34bbb1ad1f0adf072 to temp_image.jpg
+2025-05-31 17:13:41,535 - INFO - Downloaded media from https://preview.redd.it/ael42d8tu44f1.jpg?width=1800&format=pjpg&auto=webp&s=306811f793ef770ca0ced0ed2696ff9d4dd8000d to temp_image.jpg
+2025-05-31 17:13:42,225 - INFO - Downloaded media from https://preview.redd.it/v7e0hd8tu44f1.jpg?width=1800&format=pjpg&auto=webp&s=e5ecf4e9860500c1fee9167a5f04bf0eafc7d1f1 to temp_image.jpg
+2025-05-31 17:13:42,915 - INFO - Downloaded media from https://preview.redd.it/lezvei8tu44f1.jpg?width=1800&format=pjpg&auto=webp&s=cd3e5b1b3ddefd5403cb87eb47c320938d5858da to temp_image.jpg
+2025-05-31 17:13:43,725 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
