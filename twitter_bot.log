@@ -3548,3 +3548,10 @@ Some of mine:
 2025-05-31 20:15:34,657 - INFO - Video Path: 
 2025-05-31 20:15:34,829 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-31 20:37:51,931 - INFO - Content: We are not the same
+No I will not stop banning Zenyatta and none of these console windows ever cut it 
+2025-05-31 20:37:51,931 - INFO - Image Paths: ['https://preview.redd.it/fzwu2u8g164f1.jpeg?auto=webp&s=5848c70e19908b396d25005cd979e4194ce48210']
+2025-05-31 20:37:51,931 - INFO - Video Path: 
+2025-05-31 20:37:52,091 - INFO - Downloaded media from https://preview.redd.it/fzwu2u8g164f1.jpeg?auto=webp&s=5848c70e19908b396d25005cd979e4194ce48210 to temp_image.jpg
+2025-05-31 20:37:52,849 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
