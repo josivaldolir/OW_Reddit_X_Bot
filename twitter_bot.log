@@ -3422,3 +3422,10 @@ Playing with my friend I'm joking around about a Masters of the Universe collab 
 2025-05-31 14:13:06,771 - INFO - Downloaded media from https://preview.redd.it/5l8hhg88944f1.jpg?width=1418&format=pjpg&auto=webp&s=b4b462784f838bf49137157bbf1e559fb5f1539f to temp_image.jpg
 2025-05-31 14:13:07,426 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-31 14:39:37,819 - INFO - Content: How can this person keep their original drives banner?
+as the title says- i had this person in my unranked game a few days ago- i figure its a visual glitch but it was very weird seeing it 
+2025-05-31 14:39:37,819 - INFO - Image Paths: ['https://preview.redd.it/tjirb0v1744f1.jpeg?auto=webp&s=c1b716aa9bb371916acc23dc55bcd0d1bd5b976f']
+2025-05-31 14:39:37,819 - INFO - Video Path: 
+2025-05-31 14:39:37,847 - INFO - Downloaded media from https://preview.redd.it/tjirb0v1744f1.jpeg?auto=webp&s=c1b716aa9bb371916acc23dc55bcd0d1bd5b976f to temp_image.jpg
+2025-05-31 14:39:39,073 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
