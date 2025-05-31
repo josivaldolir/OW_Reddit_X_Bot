@@ -3247,3 +3247,10 @@ here's a picture I got from a random friendly lobby
 2025-05-30 23:38:03,413 - INFO - Video Path: 
 2025-05-30 23:38:03,640 - INFO - Downloaded media from https://preview.redd.it/j3bvb1gzkz3f1.png?auto=webp&s=ea49fe52ef341cd96af1119b8ac05b75f1f404e7 to temp_image.jpg
 2025-05-30 23:38:04,806 - INFO - Posted content successfully. Tweet ID: 1928596805048217682
+2025-05-31 01:13:16,293 - INFO - Content: Regret not getting all the achievements for it
+
+2025-05-31 01:13:16,293 - INFO - Image Paths: ['https://preview.redd.it/jwj7hle2d04f1.jpeg?auto=webp&s=b171ae6d60a2ac7e7c70f55c9c25232b6d526fe2']
+2025-05-31 01:13:16,293 - INFO - Video Path: 
+2025-05-31 01:13:16,597 - INFO - Downloaded media from https://preview.redd.it/jwj7hle2d04f1.jpeg?auto=webp&s=b171ae6d60a2ac7e7c70f55c9c25232b6d526fe2 to temp_image.jpg
+2025-05-31 01:13:17,802 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
