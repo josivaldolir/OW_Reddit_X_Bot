@@ -3267,3 +3267,12 @@ Since soldier 76 was made as the cod class for those players than subsequently w
 2025-05-31 03:39:08,532 - INFO - Image Paths: []
 2025-05-31 03:39:08,532 - INFO - Video Path: 
 2025-05-31 03:39:08,830 - INFO - Posted content successfully. Tweet ID: 1928657471985573923
+2025-05-31 04:19:11,700 - INFO - Content: Entire lobby was in stitches and it basically wiped their push...
+One player even left... (not sure if it was the rein), but they still won after a long back and forth OT.
+2025-05-31 04:19:11,700 - INFO - Image Paths: ['https://external-preview.redd.it/ZnV4a28xOHlqejNmMYlezbLEyjKMyux43nd4zTVUeK4NTocciC684A0S9SqX.png?format=pjpg&auto=webp&s=d500eb745cec61a15f3ca8b8a740ed5921763c4e']
+2025-05-31 04:19:11,700 - INFO - Video Path: https://v.redd.it/psweqkdqjz3f1/DASH_1080.mp4?source=fallback
+2025-05-31 04:19:11,975 - INFO - Downloaded media from https://v.redd.it/psweqkdqjz3f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-05-31 04:19:12,213 - INFO - Downloaded media from https://v.redd.it/psweqkdqjz3f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-05-31 04:19:14,401 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-31 04:19:22,935 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
