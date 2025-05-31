@@ -3576,3 +3576,9 @@ No I will not stop banning Zenyatta and none of these console windows ever cut i
 2025-05-31 22:14:26,189 - INFO - Downloaded media from https://preview.redd.it/fzwu2u8g164f1.jpeg?auto=webp&s=5848c70e19908b396d25005cd979e4194ce48210 to temp_image.jpg
 2025-05-31 22:14:26,915 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-31 22:40:46,477 - INFO - Content: We are not the same
+No I will not stop banning Zenyatta and none of these console windows ever cut it 
+2025-05-31 22:40:46,477 - INFO - Image Paths: ['https://preview.redd.it/fzwu2u8g164f1.jpeg?auto=webp&s=5848c70e19908b396d25005cd979e4194ce48210']
+2025-05-31 22:40:46,477 - INFO - Video Path: 
+2025-05-31 22:40:46,707 - INFO - Downloaded media from https://preview.redd.it/fzwu2u8g164f1.jpeg?auto=webp&s=5848c70e19908b396d25005cd979e4194ce48210 to temp_image.jpg
+2025-05-31 22:40:47,881 - INFO - Posted content successfully. Tweet ID: 1928944777355247796
