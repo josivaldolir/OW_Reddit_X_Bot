@@ -3494,3 +3494,9 @@ Too Many Requests
 2025-05-31 17:37:39,974 - INFO - Downloaded media from https://preview.redd.it/hfdcif99f54f1.jpeg?auto=webp&s=45e1b0559feb94b66377658260e762494dbd17d3 to temp_image.jpg
 2025-05-31 17:37:40,649 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-31 18:19:49,188 - INFO - Content: Does Blizzard really expect us to enjoy this?
+
+2025-05-31 18:19:49,188 - INFO - Image Paths: ['https://preview.redd.it/hfdcif99f54f1.jpeg?auto=webp&s=45e1b0559feb94b66377658260e762494dbd17d3']
+2025-05-31 18:19:49,188 - INFO - Video Path: 
+2025-05-31 18:19:49,690 - INFO - Downloaded media from https://preview.redd.it/hfdcif99f54f1.jpeg?auto=webp&s=45e1b0559feb94b66377658260e762494dbd17d3 to temp_image.jpg
+2025-05-31 18:19:50,705 - INFO - Posted content successfully. Tweet ID: 1928879106655138225
