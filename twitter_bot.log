@@ -3254,3 +3254,9 @@ here's a picture I got from a random friendly lobby
 2025-05-31 01:13:16,597 - INFO - Downloaded media from https://preview.redd.it/jwj7hle2d04f1.jpeg?auto=webp&s=b171ae6d60a2ac7e7c70f55c9c25232b6d526fe2 to temp_image.jpg
 2025-05-31 01:13:17,802 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-31 02:53:47,302 - INFO - Content: Regret not getting all the achievements for it
+
+2025-05-31 02:53:47,302 - INFO - Image Paths: ['https://preview.redd.it/jwj7hle2d04f1.jpeg?auto=webp&s=b171ae6d60a2ac7e7c70f55c9c25232b6d526fe2']
+2025-05-31 02:53:47,302 - INFO - Video Path: 
+2025-05-31 02:53:47,573 - INFO - Downloaded media from https://preview.redd.it/jwj7hle2d04f1.jpeg?auto=webp&s=b171ae6d60a2ac7e7c70f55c9c25232b6d526fe2 to temp_image.jpg
+2025-05-31 02:53:49,088 - INFO - Posted content successfully. Tweet ID: 1928646063948456300
