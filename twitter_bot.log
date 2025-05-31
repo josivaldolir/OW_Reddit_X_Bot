@@ -3487,3 +3487,10 @@ Only added Viktor as Moira because I saw someone else post about the possibility
 2025-05-31 17:13:42,915 - INFO - Downloaded media from https://preview.redd.it/lezvei8tu44f1.jpg?width=1800&format=pjpg&auto=webp&s=cd3e5b1b3ddefd5403cb87eb47c320938d5858da to temp_image.jpg
 2025-05-31 17:13:43,725 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-31 17:37:39,904 - INFO - Content: Does Blizzard really expect us to enjoy this?
+
+2025-05-31 17:37:39,904 - INFO - Image Paths: ['https://preview.redd.it/hfdcif99f54f1.jpeg?auto=webp&s=45e1b0559feb94b66377658260e762494dbd17d3']
+2025-05-31 17:37:39,904 - INFO - Video Path: 
+2025-05-31 17:37:39,974 - INFO - Downloaded media from https://preview.redd.it/hfdcif99f54f1.jpeg?auto=webp&s=45e1b0559feb94b66377658260e762494dbd17d3 to temp_image.jpg
+2025-05-31 17:37:40,649 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
