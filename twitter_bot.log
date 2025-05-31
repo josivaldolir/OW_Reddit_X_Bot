@@ -3302,3 +3302,4 @@ i just got on for the first time today a few minutes ago when it said i was rewa
 2025-05-31 06:21:19,035 - INFO - Video Path: 
 2025-05-31 06:21:19,272 - INFO - Downloaded media from https://preview.redd.it/nz8a6cvuwy3f1.jpeg?auto=webp&s=5b3de694d35e196c05af9f7d1d5224b7ca893f98 to temp_image.jpg
 2025-05-31 06:21:20,684 - INFO - Posted content successfully. Tweet ID: 1928698290003976424
+2025-05-31 06:45:41,504 - ERROR - Error in main loop: 'u'
