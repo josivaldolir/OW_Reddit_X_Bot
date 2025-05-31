@@ -3536,3 +3536,15 @@ Only added Viktor as Moira because I saw someone else post about the possibility
 2025-05-31 19:36:02,393 - INFO - Downloaded media from https://preview.redd.it/lezvei8tu44f1.jpg?width=1800&format=pjpg&auto=webp&s=cd3e5b1b3ddefd5403cb87eb47c320938d5858da to temp_image.jpg
 2025-05-31 19:36:03,678 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-31 20:15:34,656 - INFO - Content: What are some made up names you gave heros? for example LifeWeaver -> WifeLeaver
+I can't be the only one who does that.
+
+Some of mine:
+
+* LifeWeaver -> WifeLeaver
+* Ramattra -> Ratata
+* Freja -> Frida
+2025-05-31 20:15:34,657 - INFO - Image Paths: []
+2025-05-31 20:15:34,657 - INFO - Video Path: 
+2025-05-31 20:15:34,829 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
