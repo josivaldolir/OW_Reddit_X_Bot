@@ -3327,3 +3327,13 @@ Honorable mentions to S76 and Sombra.
 2025-05-31 09:37:32,912 - INFO - Downloaded media from https://preview.redd.it/9jk63m04493f1.png?auto=webp&s=acde643633aa0db30017e08f6f32ec6af3bfb295 to temp_image.jpg
 2025-05-31 09:37:33,780 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-05-31 10:14:59,314 - INFO - Content: mercy (dr. ziegler) cosplay!
+so happy with this cosplay 🙏🏻 can't wait to cosplay more mercy skins in the future!
+2025-05-31 10:14:59,314 - INFO - Image Paths: ['https://preview.redd.it/x6z1cqhlu24f1.jpg?width=3024&format=pjpg&auto=webp&s=d1e011115b0e4009f178a89614e9eef7d1da3428', 'https://preview.redd.it/0714rohlu24f1.jpg?width=3024&format=pjpg&auto=webp&s=f5e94cf3496f3d12890525b5df311149b0adacd7', 'https://preview.redd.it/qjuyjphlu24f1.jpg?width=2911&format=pjpg&auto=webp&s=827f0261a42d600401cb277ceb509115b51daaf5', 'https://preview.redd.it/670yaqhlu24f1.jpg?width=2994&format=pjpg&auto=webp&s=40a7ef090fe80840626f2689e01a6f167660e9d4']
+2025-05-31 10:14:59,314 - INFO - Video Path: 
+2025-05-31 10:14:59,412 - INFO - Downloaded media from https://preview.redd.it/x6z1cqhlu24f1.jpg?width=3024&format=pjpg&auto=webp&s=d1e011115b0e4009f178a89614e9eef7d1da3428 to temp_image.jpg
+2025-05-31 10:15:01,142 - INFO - Downloaded media from https://preview.redd.it/0714rohlu24f1.jpg?width=3024&format=pjpg&auto=webp&s=f5e94cf3496f3d12890525b5df311149b0adacd7 to temp_image.jpg
+2025-05-31 10:15:03,051 - INFO - Downloaded media from https://preview.redd.it/qjuyjphlu24f1.jpg?width=2911&format=pjpg&auto=webp&s=827f0261a42d600401cb277ceb509115b51daaf5 to temp_image.jpg
+2025-05-31 10:15:04,484 - INFO - Downloaded media from https://preview.redd.it/670yaqhlu24f1.jpg?width=2994&format=pjpg&auto=webp&s=40a7ef090fe80840626f2689e01a6f167660e9d4 to temp_image.jpg
+2025-05-31 10:15:05,731 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
