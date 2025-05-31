@@ -3282,3 +3282,11 @@ Too Many Requests
 2025-05-31 04:44:28,429 - INFO - Video Path: 
 2025-05-31 04:44:28,563 - INFO - Downloaded media from https://preview.redd.it/havy5wrmk14f1.jpeg?auto=webp&s=b02f29a8c541b4556f3111d7dd8d853adc8d0359 to temp_image.jpg
 2025-05-31 04:44:29,578 - INFO - Posted content successfully. Tweet ID: 1928673916219707819
+2025-05-31 05:14:39,096 - INFO - Content: Entire lobby was in stitches and it basically wiped their push...
+One player even left... (not sure if it was the rein), but they still won after a long back and forth OT.
+2025-05-31 05:14:39,096 - INFO - Image Paths: ['https://external-preview.redd.it/ZnV4a28xOHlqejNmMYlezbLEyjKMyux43nd4zTVUeK4NTocciC684A0S9SqX.png?format=pjpg&auto=webp&s=d500eb745cec61a15f3ca8b8a740ed5921763c4e']
+2025-05-31 05:14:39,096 - INFO - Video Path: https://v.redd.it/psweqkdqjz3f1/DASH_1080.mp4?source=fallback
+2025-05-31 05:14:39,230 - INFO - Downloaded media from https://v.redd.it/psweqkdqjz3f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-05-31 05:14:39,302 - INFO - Downloaded media from https://v.redd.it/psweqkdqjz3f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-05-31 05:14:39,988 - INFO - Combined video and audio into temp_combined.mp4
+2025-05-31 05:14:47,543 - INFO - Posted content successfully. Tweet ID: 1928681541623783482
