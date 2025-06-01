@@ -3635,3 +3635,10 @@ Too Many Requests
 2025-06-01 05:15:36,943 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-01 05:15:38,496 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-01 05:42:26,797 - INFO - Content: I ranked overwatch characters based on how much money they have
+how accurate do you think this is?
+2025-06-01 05:42:26,797 - INFO - Image Paths: ['https://preview.redd.it/g1m8w7jcm74f1.png?auto=webp&s=c36f35ccf9d530d92373d6dead53df22f54fb471']
+2025-06-01 05:42:26,797 - INFO - Video Path: 
+2025-06-01 05:42:26,873 - INFO - Downloaded media from https://preview.redd.it/g1m8w7jcm74f1.png?auto=webp&s=c36f35ccf9d530d92373d6dead53df22f54fb471 to temp_image.jpg
+2025-06-01 05:42:27,566 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
