@@ -34,3 +34,10 @@ Too Many Requests
 2025-06-01 21:14:07,776 - INFO - Downloaded media from https://preview.redd.it/saivrnrb8d4f1.gif?format=png8&s=6895e8f622e112963cf74a9a18dabbbcb15389e2 to temp_image.jpg
 2025-06-01 21:14:08,696 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-01 21:36:34,153 - INFO - Content: i hate my job bro, fuck this i'm becoming a findom.
+
+2025-06-01 21:36:34,153 - INFO - Image Paths: ['https://preview.redd.it/saivrnrb8d4f1.gif?format=png8&s=6895e8f622e112963cf74a9a18dabbbcb15389e2']
+2025-06-01 21:36:34,153 - INFO - Video Path: 
+2025-06-01 21:36:34,256 - INFO - Downloaded media from https://preview.redd.it/saivrnrb8d4f1.gif?format=png8&s=6895e8f622e112963cf74a9a18dabbbcb15389e2 to temp_image.jpg
+2025-06-01 21:36:34,850 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
