@@ -3777,3 +3777,12 @@ Figuring out how to best click heads in stadium has been unsuccessful
 2025-06-01 15:14:28,437 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-01 15:14:31,459 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-01 15:37:59,653 - INFO - Content: Chadhardt protects the team in a different way..
+
+2025-06-01 15:37:59,653 - INFO - Image Paths: ['https://external-preview.redd.it/dzJtcWFyMmNvYTRmMb-1EUiayj4rHYSrNYl3CJaCsKoFg5OAO2e0Ri6E7V6L.png?format=pjpg&auto=webp&s=da7d55bce3b1fcd091a62c6a8d26b7d55808a461']
+2025-06-01 15:37:59,653 - INFO - Video Path: https://v.redd.it/wj5fqp2coa4f1/DASH_1080.mp4?source=fallback
+2025-06-01 15:38:00,254 - INFO - Downloaded media from https://v.redd.it/wj5fqp2coa4f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-01 15:38:00,359 - INFO - Downloaded media from https://v.redd.it/wj5fqp2coa4f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-01 15:38:00,881 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-01 15:38:11,293 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
