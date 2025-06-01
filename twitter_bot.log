@@ -3656,3 +3656,10 @@ Too Many Requests
 2025-06-01 06:47:43,783 - INFO - Downloaded media from https://preview.redd.it/zop84q25394f1.jpeg?auto=webp&s=ac81c232b7c7e92adc73992d94c31336368ee886 to temp_image.jpg
 2025-06-01 06:47:44,447 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-01 07:14:28,240 - INFO - Content: Fellow spawn boosters, if you know, you know
+
+2025-06-01 07:14:28,240 - INFO - Image Paths: ['https://preview.redd.it/zop84q25394f1.jpeg?auto=webp&s=ac81c232b7c7e92adc73992d94c31336368ee886']
+2025-06-01 07:14:28,240 - INFO - Video Path: 
+2025-06-01 07:14:28,334 - INFO - Downloaded media from https://preview.redd.it/zop84q25394f1.jpeg?auto=webp&s=ac81c232b7c7e92adc73992d94c31336368ee886 to temp_image.jpg
+2025-06-01 07:14:29,107 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
