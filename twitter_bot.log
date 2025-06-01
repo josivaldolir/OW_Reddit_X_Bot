@@ -3596,3 +3596,10 @@ Too Many Requests
 2025-05-31 23:37:31,183 - INFO - Downloaded media from https://preview.redd.it/rfk0j81oe64f1.jpeg?auto=webp&s=fd6e3c88e7421fa480f26ec268e497f5df37172c to temp_image.jpg
 2025-05-31 23:37:31,824 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-01 01:27:15,999 - INFO - Content: Sorry to these guys…
+”go dps mercy” they said and i did, fuck it was funny but it did not work xd
+2025-06-01 01:27:15,999 - INFO - Image Paths: ['https://preview.redd.it/rfk0j81oe64f1.jpeg?auto=webp&s=fd6e3c88e7421fa480f26ec268e497f5df37172c']
+2025-06-01 01:27:15,999 - INFO - Video Path: 
+2025-06-01 01:27:16,067 - INFO - Downloaded media from https://preview.redd.it/rfk0j81oe64f1.jpeg?auto=webp&s=fd6e3c88e7421fa480f26ec268e497f5df37172c to temp_image.jpg
+2025-06-01 01:27:16,769 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
