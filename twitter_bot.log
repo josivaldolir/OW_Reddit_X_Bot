@@ -3794,3 +3794,12 @@ Too Many Requests
 2025-06-01 16:17:54,067 - INFO - Downloaded media from https://v.redd.it/jqcamrs5ya4f1/DASH_480.mp4?source=fallback to temp_audio.mp4
 2025-06-01 16:17:54,354 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-01 16:17:57,510 - INFO - Posted content successfully. Tweet ID: 1929210820854165889
+2025-06-01 16:44:59,598 - INFO - Content: Chadhardt protects the team in a different way..
+
+2025-06-01 16:44:59,598 - INFO - Image Paths: ['https://external-preview.redd.it/dzJtcWFyMmNvYTRmMb-1EUiayj4rHYSrNYl3CJaCsKoFg5OAO2e0Ri6E7V6L.png?format=pjpg&auto=webp&s=da7d55bce3b1fcd091a62c6a8d26b7d55808a461']
+2025-06-01 16:44:59,598 - INFO - Video Path: https://v.redd.it/wj5fqp2coa4f1/DASH_1080.mp4?source=fallback
+2025-06-01 16:45:00,138 - INFO - Downloaded media from https://v.redd.it/wj5fqp2coa4f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-01 16:45:00,456 - INFO - Downloaded media from https://v.redd.it/wj5fqp2coa4f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-01 16:45:00,727 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-01 16:45:11,157 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
