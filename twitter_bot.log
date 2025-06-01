@@ -3707,3 +3707,10 @@ Too Many Requests
 2025-06-01 10:15:38,915 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-01 10:15:40,493 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-01 10:42:05,210 - INFO - Content: Based on your main, this is what I'll give you
+
+2025-06-01 10:42:05,210 - INFO - Image Paths: ['https://preview.redd.it/ka6rjpi4da4f1.png?auto=webp&s=2e102cf362df72966f39cc035d18838977d63df4']
+2025-06-01 10:42:05,210 - INFO - Video Path: 
+2025-06-01 10:42:05,346 - INFO - Downloaded media from https://preview.redd.it/ka6rjpi4da4f1.png?auto=webp&s=2e102cf362df72966f39cc035d18838977d63df4 to temp_image.jpg
+2025-06-01 10:42:05,953 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
