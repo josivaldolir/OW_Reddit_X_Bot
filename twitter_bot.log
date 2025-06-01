@@ -3689,3 +3689,12 @@ how accurate do you think this is?
 2025-06-01 09:16:16,375 - INFO - Video Path: 
 2025-06-01 09:16:16,446 - INFO - Downloaded media from https://preview.redd.it/g1m8w7jcm74f1.png?auto=webp&s=c36f35ccf9d530d92373d6dead53df22f54fb471 to temp_image.jpg
 2025-06-01 09:16:17,388 - INFO - Posted content successfully. Tweet ID: 1929104703973097895
+2025-06-01 09:38:08,547 - INFO - Content: is this ture?
+
+2025-06-01 09:38:08,547 - INFO - Image Paths: ['https://external-preview.redd.it/eHlkb25ydDl0ODRmMTY2YEFbvfdDszbySLuGh_RqoynOA0smZVfQyf7iIKfC.png?format=pjpg&auto=webp&s=3e4dc1506ea929128bc8af118345fe8deef1ac1c']
+2025-06-01 09:38:08,547 - INFO - Video Path: https://v.redd.it/wujqtlo9t84f1/DASH_480.mp4?source=fallback
+2025-06-01 09:38:08,691 - INFO - Downloaded media from https://v.redd.it/wujqtlo9t84f1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-06-01 09:38:08,736 - INFO - Downloaded media from https://v.redd.it/wujqtlo9t84f1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-06-01 09:38:12,280 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-01 09:38:13,935 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
