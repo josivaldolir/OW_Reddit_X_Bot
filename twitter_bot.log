@@ -3827,3 +3827,10 @@ Diamond-masters is plagued with ximmers on console. They are always incredibly t
 2025-06-01 18:19:39,164 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-01 18:19:46,400 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-01 18:45:20,225 - INFO - Content: Fyi: if you’re cocky enough to not vote for anything, I assume that means you can deal with everything. So don’t expect babysitting from me
+Based on a match where only 1 teammate had Som as their 2nd vote or something and our Mercy didn’t vote at all. So I (was on tank) told them at the start that they can deal with Som then, if there is 1. And then they proceeded to get FARMED by 1 all game
+2025-06-01 18:45:20,225 - INFO - Image Paths: ['https://preview.redd.it/4tokigthdc4f1.jpeg?auto=webp&s=350418696e7eac7a0ee3a7ededa463752c80399e']
+2025-06-01 18:45:20,226 - INFO - Video Path: 
+2025-06-01 18:45:20,252 - INFO - Downloaded media from https://preview.redd.it/4tokigthdc4f1.jpeg?auto=webp&s=350418696e7eac7a0ee3a7ededa463752c80399e to temp_image.jpg
+2025-06-01 18:45:21,235 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
