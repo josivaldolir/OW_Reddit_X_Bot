@@ -3743,3 +3743,11 @@ Figuring out how to best click heads in stadium has been unsuccessful
 2025-06-01 13:03:57,883 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-01 13:04:02,658 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-01 13:42:32,394 - INFO - Content: is this ture?
+
+2025-06-01 13:42:32,394 - INFO - Image Paths: ['https://external-preview.redd.it/eHlkb25ydDl0ODRmMTY2YEFbvfdDszbySLuGh_RqoynOA0smZVfQyf7iIKfC.png?format=pjpg&auto=webp&s=3e4dc1506ea929128bc8af118345fe8deef1ac1c']
+2025-06-01 13:42:32,394 - INFO - Video Path: https://v.redd.it/wujqtlo9t84f1/DASH_480.mp4?source=fallback
+2025-06-01 13:42:32,701 - INFO - Downloaded media from https://v.redd.it/wujqtlo9t84f1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-06-01 13:42:32,765 - INFO - Downloaded media from https://v.redd.it/wujqtlo9t84f1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-06-01 13:42:33,175 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-01 13:42:35,008 - INFO - Posted content successfully. Tweet ID: 1929171719379718575
