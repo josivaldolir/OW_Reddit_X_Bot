@@ -61,3 +61,11 @@ Too Many Requests
 2025-06-01 23:14:17,736 - INFO - Video Path: 
 2025-06-01 23:14:18,005 - INFO - Downloaded media from https://preview.redd.it/saivrnrb8d4f1.gif?format=png8&s=6895e8f622e112963cf74a9a18dabbbcb15389e2 to temp_image.jpg
 2025-06-01 23:14:19,132 - INFO - Posted content successfully. Tweet ID: 1929315601115435125
+2025-06-01 23:37:25,643 - INFO - Content: Pink Mercy cosplay by me
+My very first big and high-quality Mercy cosplay — what do you think? 💖✨
+2025-06-01 23:37:25,643 - INFO - Image Paths: ['https://preview.redd.it/0ya2x2hlfd4f1.jpg?width=960&format=pjpg&auto=webp&s=49b9521a2eb1b94275bda19fe8baf09b3f318203', 'https://preview.redd.it/r9wz2srpfd4f1.jpg?width=960&format=pjpg&auto=webp&s=745108505d03ea114d4432addfe88901580a7583']
+2025-06-01 23:37:25,643 - INFO - Video Path: 
+2025-06-01 23:37:25,865 - INFO - Downloaded media from https://preview.redd.it/0ya2x2hlfd4f1.jpg?width=960&format=pjpg&auto=webp&s=49b9521a2eb1b94275bda19fe8baf09b3f318203 to temp_image.jpg
+2025-06-01 23:37:26,548 - INFO - Downloaded media from https://preview.redd.it/r9wz2srpfd4f1.jpg?width=960&format=pjpg&auto=webp&s=745108505d03ea114d4432addfe88901580a7583 to temp_image.jpg
+2025-06-01 23:37:27,187 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
