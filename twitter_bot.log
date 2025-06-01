@@ -3617,3 +3617,12 @@ how accurate do you think this is?
 2025-06-01 04:10:37,531 - INFO - Downloaded media from https://preview.redd.it/g1m8w7jcm74f1.png?auto=webp&s=c36f35ccf9d530d92373d6dead53df22f54fb471 to temp_image.jpg
 2025-06-01 04:10:38,216 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-01 04:52:46,262 - INFO - Content: is this ture?
+
+2025-06-01 04:52:46,262 - INFO - Image Paths: ['https://external-preview.redd.it/eHlkb25ydDl0ODRmMTY2YEFbvfdDszbySLuGh_RqoynOA0smZVfQyf7iIKfC.png?format=pjpg&auto=webp&s=3e4dc1506ea929128bc8af118345fe8deef1ac1c']
+2025-06-01 04:52:46,262 - INFO - Video Path: https://v.redd.it/wujqtlo9t84f1/DASH_480.mp4?source=fallback
+2025-06-01 04:52:46,432 - INFO - Downloaded media from https://v.redd.it/wujqtlo9t84f1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-06-01 04:52:46,448 - INFO - Downloaded media from https://v.redd.it/wujqtlo9t84f1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-06-01 04:52:46,613 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-01 04:52:48,483 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
