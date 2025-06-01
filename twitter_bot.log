@@ -41,3 +41,10 @@ Too Many Requests
 2025-06-01 21:36:34,256 - INFO - Downloaded media from https://preview.redd.it/saivrnrb8d4f1.gif?format=png8&s=6895e8f622e112963cf74a9a18dabbbcb15389e2 to temp_image.jpg
 2025-06-01 21:36:34,850 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-01 22:14:09,248 - INFO - Content: Sombra hate every match
+Funniest thing ever because every match she is banned and the chat always celebrates 💀
+2025-06-01 22:14:09,248 - INFO - Image Paths: ['https://preview.redd.it/wf510zcihd4f1.jpeg?auto=webp&s=41d6dd2b2a9c08f45c32d74d64221a7e6c42dee1']
+2025-06-01 22:14:09,248 - INFO - Video Path: 
+2025-06-01 22:14:09,424 - INFO - Downloaded media from https://preview.redd.it/wf510zcihd4f1.jpeg?auto=webp&s=41d6dd2b2a9c08f45c32d74d64221a7e6c42dee1 to temp_image.jpg
+2025-06-01 22:14:12,256 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
