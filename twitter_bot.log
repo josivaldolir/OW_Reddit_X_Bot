@@ -3610,3 +3610,10 @@ Junkerqueen’s melee leaves permanent marks on walls. So I made a soup store wi
 2025-06-01 03:20:04,433 - INFO - Downloaded media from https://preview.redd.it/uypu3gia974f1.jpg?width=3840&format=pjpg&auto=webp&s=08a616fdd2a4b8694c27ad45938097bb626cd67c to temp_image.jpg
 2025-06-01 03:20:05,381 - INFO - Downloaded media from https://preview.redd.it/0w63rfia974f1.jpg?width=3840&format=pjpg&auto=webp&s=2fd0cd8100c0dcad4651cbc53c8adac72d7bdb57 to temp_image.jpg
 2025-06-01 03:20:06,823 - INFO - Posted content successfully. Tweet ID: 1929015068446044265
+2025-06-01 04:10:37,472 - INFO - Content: I ranked overwatch characters based on how much money they have
+how accurate do you think this is?
+2025-06-01 04:10:37,472 - INFO - Image Paths: ['https://preview.redd.it/g1m8w7jcm74f1.png?auto=webp&s=c36f35ccf9d530d92373d6dead53df22f54fb471']
+2025-06-01 04:10:37,472 - INFO - Video Path: 
+2025-06-01 04:10:37,531 - INFO - Downloaded media from https://preview.redd.it/g1m8w7jcm74f1.png?auto=webp&s=c36f35ccf9d530d92373d6dead53df22f54fb471 to temp_image.jpg
+2025-06-01 04:10:38,216 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
