@@ -3603,3 +3603,10 @@ Too Many Requests
 2025-06-01 01:27:16,067 - INFO - Downloaded media from https://preview.redd.it/rfk0j81oe64f1.jpeg?auto=webp&s=fd6e3c88e7421fa480f26ec268e497f5df37172c to temp_image.jpg
 2025-06-01 01:27:16,769 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-01 03:20:04,362 - INFO - Content: I joined a custom game and made a soup store
+Junkerqueen’s melee leaves permanent marks on walls. So I made a soup store with a full menu.
+2025-06-01 03:20:04,362 - INFO - Image Paths: ['https://preview.redd.it/uypu3gia974f1.jpg?width=3840&format=pjpg&auto=webp&s=08a616fdd2a4b8694c27ad45938097bb626cd67c', 'https://preview.redd.it/0w63rfia974f1.jpg?width=3840&format=pjpg&auto=webp&s=2fd0cd8100c0dcad4651cbc53c8adac72d7bdb57']
+2025-06-01 03:20:04,362 - INFO - Video Path: 
+2025-06-01 03:20:04,433 - INFO - Downloaded media from https://preview.redd.it/uypu3gia974f1.jpg?width=3840&format=pjpg&auto=webp&s=08a616fdd2a4b8694c27ad45938097bb626cd67c to temp_image.jpg
+2025-06-01 03:20:05,381 - INFO - Downloaded media from https://preview.redd.it/0w63rfia974f1.jpg?width=3840&format=pjpg&auto=webp&s=2fd0cd8100c0dcad4651cbc53c8adac72d7bdb57 to temp_image.jpg
+2025-06-01 03:20:06,823 - INFO - Posted content successfully. Tweet ID: 1929015068446044265
