@@ -426,3 +426,12 @@ This doesn't mean I will stop banning her every single game tho. I just acknowle
 2025-06-02 22:16:32,655 - INFO - Downloaded media from https://preview.redd.it/pg6xm2ztsi4f1.jpeg?auto=webp&s=c45afa96a88b98d5a8eac2ea5d8f254dd4f410e7 to temp_image.jpg
 2025-06-02 22:16:33,812 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-02 22:41:46,259 - INFO - Content: Why are the chicken nuggets shaped like dinosaurs?
+Animation by nonamesleft 
+2025-06-02 22:41:46,259 - INFO - Image Paths: ['https://external-preview.redd.it/dHp3cmk5YnBpazRmMbF2hW1b-6fTXliql4lDIJ-FgmyLtFQYejbgXLj1zSNF.png?format=pjpg&auto=webp&s=68957f9e3b22471eb48a0202545c149d5033b5a2']
+2025-06-02 22:41:46,259 - INFO - Video Path: https://v.redd.it/7iw20ofpik4f1/DASH_720.mp4?source=fallback
+2025-06-02 22:41:46,454 - INFO - Downloaded media from https://v.redd.it/7iw20ofpik4f1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-06-02 22:41:46,491 - INFO - Downloaded media from https://v.redd.it/7iw20ofpik4f1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-06-02 22:41:49,442 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-02 22:41:55,479 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
