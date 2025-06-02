@@ -159,3 +159,10 @@ I find Junker Queen, Roadhog and Juno debatable; not sure if the environments th
 2025-06-02 08:48:17,112 - INFO - Video Path: 
 2025-06-02 08:48:17,349 - INFO - Downloaded media from https://preview.redd.it/gbseufdbhg4f1.png?auto=webp&s=0d6fd508bf827b7ae00ef6a7fc4c90ee3b35f5a2 to temp_image.jpg
 2025-06-02 08:48:18,263 - INFO - Posted content successfully. Tweet ID: 1929460048935493724
+2025-06-02 09:18:01,797 - INFO - Content: I mean it might do something if you would kindly STAND NEEAAAR IT.
+
+2025-06-02 09:18:01,797 - INFO - Image Paths: ['https://preview.redd.it/j5ogpy0e3g4f1.gif?format=png8&s=2ea3c6a14473db9c80e08c2a3c16cb216a6bd37d']
+2025-06-02 09:18:01,797 - INFO - Video Path: 
+2025-06-02 09:18:02,015 - INFO - Downloaded media from https://preview.redd.it/j5ogpy0e3g4f1.gif?format=png8&s=2ea3c6a14473db9c80e08c2a3c16cb216a6bd37d to temp_image.jpg
+2025-06-02 09:18:02,845 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
