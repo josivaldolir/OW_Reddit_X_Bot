@@ -262,3 +262,10 @@ Too Many Requests
 2025-06-02 15:17:45,092 - INFO - Downloaded media from https://preview.redd.it/os1romczsi4f1.jpeg?auto=webp&s=ad3803032b0ef6fca222c67b48f2073bbd88cd04 to temp_image.jpg
 2025-06-02 15:17:46,236 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-02 15:42:42,464 - INFO - Content: Being a Sombra main must suck since hero bans were introduced 🤣
+
+2025-06-02 15:42:42,464 - INFO - Image Paths: ['https://preview.redd.it/os1romczsi4f1.jpeg?auto=webp&s=ad3803032b0ef6fca222c67b48f2073bbd88cd04']
+2025-06-02 15:42:42,464 - INFO - Video Path: 
+2025-06-02 15:42:42,490 - INFO - Downloaded media from https://preview.redd.it/os1romczsi4f1.jpeg?auto=webp&s=ad3803032b0ef6fca222c67b48f2073bbd88cd04 to temp_image.jpg
+2025-06-02 15:42:43,888 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
