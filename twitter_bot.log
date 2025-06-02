@@ -401,3 +401,21 @@ Animation by nonamesleft
 2025-06-02 21:17:30,872 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-02 21:17:35,738 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-02 21:41:02,233 - INFO - Content: The grammar of this pisses me off almost as much as the fact that someone left.
+There should be a comma after "leaving" so that it reads:
+
+>Due to a player leaving, this competitive match...
+
+The way it's currently worded, it looks like "this competitive match" is connected to "due to a player leaving," not "will shutdown in 10 seconds." That is, it looks like it's saying this:
+
+>Due to a player leaving this competitive match ***it*** will shutdown in 10 seconds."
+
+But there's no "it," so the flow is weird. And honestly, that one could even do with a comma after "match."
+
+Not to mention that "shutdown" is a noun (like, "we beat them so hard that it was a shutdown!"), but it's operating as a verb in that sentence. It should be two words: "shut down."
+
+Please fix this, Blizzard, for it hurts my English major soul.
+2025-06-02 21:41:02,233 - INFO - Image Paths: ['https://preview.redd.it/gaqc5pt12k4f1.png?auto=webp&s=7f622fa4735b628d7a0dacb53cf6bffbd5354470']
+2025-06-02 21:41:02,233 - INFO - Video Path: 
+2025-06-02 21:41:02,340 - INFO - Downloaded media from https://preview.redd.it/gaqc5pt12k4f1.png?auto=webp&s=7f622fa4735b628d7a0dacb53cf6bffbd5354470 to temp_image.jpg
+2025-06-02 21:41:03,512 - INFO - Posted content successfully. Tweet ID: 1929654519383855354
