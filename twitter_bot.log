@@ -186,3 +186,11 @@ Too Many Requests
 2025-06-02 10:17:41,911 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-02 10:17:49,018 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-02 10:45:11,895 - INFO - Content: The wife beater ult experience:
+
+2025-06-02 10:45:11,895 - INFO - Image Paths: ['https://external-preview.redd.it/ZTNmZzcwaGliaDRmMW2pSET8-r6nu1Rt0GweWxpO1yUAPZ-bE81OvITciWIp.png?format=pjpg&auto=webp&s=85ad839d15d0c5fa4cdb332ac4e2d7d1b9a61af5']
+2025-06-02 10:45:11,896 - INFO - Video Path: https://v.redd.it/dwffa5hibh4f1/DASH_1080.mp4?source=fallback
+2025-06-02 10:45:12,792 - INFO - Downloaded media from https://v.redd.it/dwffa5hibh4f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-02 10:45:12,957 - INFO - Downloaded media from https://v.redd.it/dwffa5hibh4f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-02 10:45:13,427 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-02 10:45:18,895 - INFO - Posted content successfully. Tweet ID: 1929489496250499275
