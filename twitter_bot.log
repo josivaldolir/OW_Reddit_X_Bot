@@ -194,3 +194,14 @@ Too Many Requests
 2025-06-02 10:45:12,957 - INFO - Downloaded media from https://v.redd.it/dwffa5hibh4f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-06-02 10:45:13,427 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-02 10:45:18,895 - INFO - Posted content successfully. Tweet ID: 1929489496250499275
+2025-06-02 11:14:01,431 - INFO - Content: What the heck do you expect me to do here, Blizzard?!
+Needless to say, we were overrun and **LITERALLY** spawn locked. I was trying to pick their healers from the safety of the spawn room, but apparently dealing damage from inside it doesn’t count as being an active player…
+
+Imagine if that Mei walled me off ONE SECOND sooner lol
+2025-06-02 11:14:01,431 - INFO - Image Paths: ['https://external-preview.redd.it/anY1anAzMHl4ZjRmMdk5yPUOqv6V97lp0P-1rJoqyxvmxrHmIH-aR1lD6Dt_.png?format=pjpg&auto=webp&s=c4a4df51d14a1fee778667d55c085a9a35ced790']
+2025-06-02 11:14:01,431 - INFO - Video Path: https://v.redd.it/ngpcp06yxf4f1/DASH_720.mp4?source=fallback
+2025-06-02 11:14:01,508 - INFO - Downloaded media from https://v.redd.it/ngpcp06yxf4f1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-06-02 11:14:01,524 - INFO - Downloaded media from https://v.redd.it/ngpcp06yxf4f1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-06-02 11:14:02,236 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-02 11:14:09,910 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
