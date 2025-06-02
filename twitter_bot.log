@@ -435,3 +435,12 @@ Animation by nonamesleft
 2025-06-02 22:41:49,442 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-02 22:41:55,479 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-02 23:14:55,061 - INFO - Content: Why are the chicken nuggets shaped like dinosaurs?
+Animation by nonamesleft 
+2025-06-02 23:14:55,061 - INFO - Image Paths: ['https://external-preview.redd.it/dHp3cmk5YnBpazRmMbF2hW1b-6fTXliql4lDIJ-FgmyLtFQYejbgXLj1zSNF.png?format=pjpg&auto=webp&s=68957f9e3b22471eb48a0202545c149d5033b5a2']
+2025-06-02 23:14:55,061 - INFO - Video Path: https://v.redd.it/7iw20ofpik4f1/DASH_720.mp4?source=fallback
+2025-06-02 23:14:55,175 - INFO - Downloaded media from https://v.redd.it/7iw20ofpik4f1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-06-02 23:14:55,213 - INFO - Downloaded media from https://v.redd.it/7iw20ofpik4f1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-06-02 23:14:58,043 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-02 23:15:02,824 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
