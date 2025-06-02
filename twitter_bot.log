@@ -311,3 +311,10 @@ Too Many Requests
 2025-06-02 17:40:57,614 - INFO - Downloaded media from https://preview.redd.it/6enfn6ib9j4f1.jpeg?auto=webp&s=421c76dc5a1bd7920522869911747674dc465e99 to temp_image.jpg
 2025-06-02 17:40:58,527 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-02 18:22:27,820 - INFO - Content: Nobody knows what a C9 is
+
+2025-06-02 18:22:27,820 - INFO - Image Paths: ['https://preview.redd.it/nb22bbcgsj4f1.jpeg?auto=webp&s=74d9d2945e5339beb5f230ac7506c1199f4fbc77']
+2025-06-02 18:22:27,820 - INFO - Video Path: 
+2025-06-02 18:22:27,867 - INFO - Downloaded media from https://preview.redd.it/nb22bbcgsj4f1.jpeg?auto=webp&s=74d9d2945e5339beb5f230ac7506c1199f4fbc77 to temp_image.jpg
+2025-06-02 18:22:28,557 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
