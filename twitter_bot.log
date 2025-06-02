@@ -205,3 +205,10 @@ Imagine if that Mei walled me off ONE SECOND sooner lol
 2025-06-02 11:14:02,236 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-02 11:14:09,910 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-02 11:37:20,346 - INFO - Content: I mean it might do something if you would kindly STAND NEEAAAR IT.
+
+2025-06-02 11:37:20,346 - INFO - Image Paths: ['https://preview.redd.it/j5ogpy0e3g4f1.gif?format=png8&s=2ea3c6a14473db9c80e08c2a3c16cb216a6bd37d']
+2025-06-02 11:37:20,346 - INFO - Video Path: 
+2025-06-02 11:37:20,406 - INFO - Downloaded media from https://preview.redd.it/j5ogpy0e3g4f1.gif?format=png8&s=2ea3c6a14473db9c80e08c2a3c16cb216a6bd37d to temp_image.jpg
+2025-06-02 11:37:20,891 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
