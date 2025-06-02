@@ -241,3 +241,10 @@ Ah yes, my favorite hero, WifeLeaver.
 2025-06-02 13:49:28,529 - INFO - Downloaded media from https://preview.redd.it/ui27ehw6ci4f1.png?auto=webp&s=b4fedf4808f54bb627d2e0ee516bd8b6b32f71ad to temp_image.jpg
 2025-06-02 13:49:29,328 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-02 14:16:10,017 - INFO - Content: We all do that, right?
+Ah yes, my favorite hero, WifeLeaver.
+2025-06-02 14:16:10,017 - INFO - Image Paths: ['https://preview.redd.it/ui27ehw6ci4f1.png?auto=webp&s=b4fedf4808f54bb627d2e0ee516bd8b6b32f71ad']
+2025-06-02 14:16:10,017 - INFO - Video Path: 
+2025-06-02 14:16:10,200 - INFO - Downloaded media from https://preview.redd.it/ui27ehw6ci4f1.png?auto=webp&s=b4fedf4808f54bb627d2e0ee516bd8b6b32f71ad to temp_image.jpg
+2025-06-02 14:16:11,003 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
