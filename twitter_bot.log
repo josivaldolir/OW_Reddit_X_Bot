@@ -138,3 +138,14 @@ I find Junker Queen, Roadhog and Juno debatable; not sure if the environments th
 2025-06-02 07:39:55,723 - INFO - Downloaded media from https://preview.redd.it/gbseufdbhg4f1.png?auto=webp&s=0d6fd508bf827b7ae00ef6a7fc4c90ee3b35f5a2 to temp_image.jpg
 2025-06-02 07:39:56,351 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-02 08:23:06,120 - INFO - Content: Overwatch Heroes and their physical disabilities
+***"How many of you Overwatch people are missing an eye?!"**
+
+I love the disability representation OW has.
+
+I find Junker Queen, Roadhog and Juno debatable; not sure if the environments they come from render their bodies weaker or stronger.
+2025-06-02 08:23:06,120 - INFO - Image Paths: ['https://preview.redd.it/gbseufdbhg4f1.png?auto=webp&s=0d6fd508bf827b7ae00ef6a7fc4c90ee3b35f5a2']
+2025-06-02 08:23:06,120 - INFO - Video Path: 
+2025-06-02 08:23:06,165 - INFO - Downloaded media from https://preview.redd.it/gbseufdbhg4f1.png?auto=webp&s=0d6fd508bf827b7ae00ef6a7fc4c90ee3b35f5a2 to temp_image.jpg
+2025-06-02 08:23:06,733 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
