@@ -83,3 +83,10 @@ First off, I have yet to play stadium so this is standard mode talk(5v5). But I 
 2025-06-02 03:08:14,333 - INFO - Downloaded media from https://preview.redd.it/mr4njpxjze4f1.jpeg?auto=webp&s=6cb1ac6c45639c905578de4f04d59f8f3b4fa12e to temp_image.jpg
 2025-06-02 03:08:15,089 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-02 04:04:04,066 - INFO - Content: GG, lost at character select
+
+2025-06-02 04:04:04,066 - INFO - Image Paths: ['https://preview.redd.it/i4snsf6i1f4f1.png?auto=webp&s=44af12f36229dcd1dd02a7f65a8861308c95f8b8']
+2025-06-02 04:04:04,066 - INFO - Video Path: 
+2025-06-02 04:04:04,173 - INFO - Downloaded media from https://preview.redd.it/i4snsf6i1f4f1.png?auto=webp&s=44af12f36229dcd1dd02a7f65a8861308c95f8b8 to temp_image.jpg
+2025-06-02 04:04:04,847 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
