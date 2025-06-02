@@ -97,3 +97,9 @@ Too Many Requests
 2025-06-02 04:50:59,156 - INFO - Downloaded media from https://preview.redd.it/6vrrxd9nqf4f1.jpeg?auto=webp&s=904c97846b151885e26422d3c08896339d44513c to temp_image.jpg
 2025-06-02 04:51:00,003 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-02 05:16:56,703 - INFO - Content: I speak for the trees
+
+2025-06-02 05:16:56,703 - INFO - Image Paths: ['https://preview.redd.it/6vrrxd9nqf4f1.jpeg?auto=webp&s=904c97846b151885e26422d3c08896339d44513c']
+2025-06-02 05:16:56,703 - INFO - Video Path: 
+2025-06-02 05:16:56,732 - INFO - Downloaded media from https://preview.redd.it/6vrrxd9nqf4f1.jpeg?auto=webp&s=904c97846b151885e26422d3c08896339d44513c to temp_image.jpg
+2025-06-02 05:16:57,538 - INFO - Posted content successfully. Tweet ID: 1929406862572863940
