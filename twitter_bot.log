@@ -255,3 +255,10 @@ Ah yes, my favorite hero, WifeLeaver.
 2025-06-02 14:45:39,796 - INFO - Downloaded media from https://preview.redd.it/ui27ehw6ci4f1.png?auto=webp&s=b4fedf4808f54bb627d2e0ee516bd8b6b32f71ad to temp_image.jpg
 2025-06-02 14:45:40,788 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-02 15:17:45,015 - INFO - Content: Being a Sombra main must suck since hero bans were introduced 🤣
+
+2025-06-02 15:17:45,016 - INFO - Image Paths: ['https://preview.redd.it/os1romczsi4f1.jpeg?auto=webp&s=ad3803032b0ef6fca222c67b48f2073bbd88cd04']
+2025-06-02 15:17:45,016 - INFO - Video Path: 
+2025-06-02 15:17:45,092 - INFO - Downloaded media from https://preview.redd.it/os1romczsi4f1.jpeg?auto=webp&s=ad3803032b0ef6fca222c67b48f2073bbd88cd04 to temp_image.jpg
+2025-06-02 15:17:46,236 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
