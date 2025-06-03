@@ -752,3 +752,11 @@ Too Many Requests
 2025-06-03 20:40:31,458 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-03 20:40:35,971 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-03 21:13:50,205 - INFO - Content: Lucio
+
+2025-06-03 21:13:50,205 - INFO - Image Paths: ['https://external-preview.redd.it/b2oyeWN5eWlucTRmMVIr1jxH1-Px-iSN7Ne4Z9L7kgIrjStM8MF2xNZ0Nvz5.png?format=pjpg&auto=webp&s=16e257276199eb7e6c37ac7c8b4bc71b4a1f3eab']
+2025-06-03 21:13:50,205 - INFO - Video Path: https://v.redd.it/urwoz0zinq4f1/DASH_480.mp4?source=fallback
+2025-06-03 21:13:50,318 - INFO - Downloaded media from https://v.redd.it/urwoz0zinq4f1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-06-03 21:13:50,412 - INFO - Downloaded media from https://v.redd.it/urwoz0zinq4f1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-06-03 21:13:50,714 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-03 21:13:55,573 - INFO - Posted content successfully. Tweet ID: 1930010079270711728
