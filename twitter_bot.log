@@ -506,3 +506,9 @@ All hail the queen
 2025-06-03 05:42:27,573 - INFO - Downloaded media from https://preview.redd.it/dw4l0td85n4f1.png?auto=webp&s=190b2483ecfa7e3286e5a03c8a11fdac175b428d to temp_image.jpg
 2025-06-03 05:42:28,261 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-03 06:23:16,137 - INFO - Content: Goodbye forever random friends.
+
+2025-06-03 06:23:16,137 - INFO - Image Paths: ['https://preview.redd.it/ok26s3pi9n4f1.jpeg?auto=webp&s=88e80dab2621de39f5dd2ab11e01512f147b3708']
+2025-06-03 06:23:16,137 - INFO - Video Path: 
+2025-06-03 06:23:16,599 - INFO - Downloaded media from https://preview.redd.it/ok26s3pi9n4f1.jpeg?auto=webp&s=88e80dab2621de39f5dd2ab11e01512f147b3708 to temp_image.jpg
+2025-06-03 06:23:17,526 - INFO - Posted content successfully. Tweet ID: 1929785943894249661
