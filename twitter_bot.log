@@ -668,3 +668,10 @@ Too Many Requests
 2025-06-03 15:44:14,938 - INFO - Downloaded media from https://preview.redd.it/1dxfzt7nnp4f1.jpeg?auto=webp&s=01f5c5568478f18952bf4acf31e4bd9abe524b6e to temp_image.jpg
 2025-06-03 15:44:16,272 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-03 16:20:59,957 - INFO - Content: And I knock on the door and I say "Anaaa! Anaaa, I gotta talk to you about Freja!"
+
+2025-06-03 16:20:59,957 - INFO - Image Paths: ['https://preview.redd.it/1dxfzt7nnp4f1.jpeg?auto=webp&s=01f5c5568478f18952bf4acf31e4bd9abe524b6e']
+2025-06-03 16:20:59,957 - INFO - Video Path: 
+2025-06-03 16:21:00,099 - INFO - Downloaded media from https://preview.redd.it/1dxfzt7nnp4f1.jpeg?auto=webp&s=01f5c5568478f18952bf4acf31e4bd9abe524b6e to temp_image.jpg
+2025-06-03 16:21:01,453 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
