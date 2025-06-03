@@ -789,3 +789,12 @@ While watching a replay I was flabbergasted by how far her biotic grasp can reac
 2025-06-03 23:14:45,871 - INFO - Downloaded media from https://preview.redd.it/c0kw4leqiq4f1.jpeg?auto=webp&s=f6a8128884731d97aa715cd468bee7a033072089 to temp_image.jpg
 2025-06-03 23:14:47,064 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-03 23:37:59,724 - INFO - Content: dad and his 4 daughters
+
+2025-06-03 23:37:59,724 - INFO - Image Paths: ['https://external-preview.redd.it/Nms2ZjQyYnI3cjRmMcb9IoGO0K8zhKCnyzym23gSxQ6gP2TTFuLeAfRlQOu4.png?format=pjpg&auto=webp&s=5d591472c34d9cec6d6b9805ce222fa9dfaaacb7']
+2025-06-03 23:37:59,724 - INFO - Video Path: https://v.redd.it/lubbr38r7r4f1/DASH_480.mp4?source=fallback
+2025-06-03 23:37:59,892 - INFO - Downloaded media from https://v.redd.it/lubbr38r7r4f1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-06-03 23:37:59,937 - INFO - Downloaded media from https://v.redd.it/lubbr38r7r4f1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-06-03 23:38:03,653 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-03 23:38:06,626 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
