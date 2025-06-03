@@ -718,3 +718,10 @@ Too Many Requests
 2025-06-03 18:49:51,621 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-03 18:49:55,997 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-03 19:12:25,728 - INFO - Content: What do u guys think about Moira's attack range?
+While watching a replay I was flabbergasted by how far her biotic grasp can reach. Am I just too noob or is this really kinda messed up? I read online that it can reach up to 20m, which is crazy to me
+2025-06-03 19:12:25,729 - INFO - Image Paths: ['https://preview.redd.it/c0kw4leqiq4f1.jpeg?auto=webp&s=f6a8128884731d97aa715cd468bee7a033072089']
+2025-06-03 19:12:25,729 - INFO - Video Path: 
+2025-06-03 19:12:25,878 - INFO - Downloaded media from https://preview.redd.it/c0kw4leqiq4f1.jpeg?auto=webp&s=f6a8128884731d97aa715cd468bee7a033072089 to temp_image.jpg
+2025-06-03 19:12:26,897 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
