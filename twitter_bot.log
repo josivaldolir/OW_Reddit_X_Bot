@@ -647,3 +647,10 @@ Too Many Requests
 2025-06-03 14:16:16,002 - INFO - Downloaded media from https://preview.redd.it/1dxfzt7nnp4f1.jpeg?auto=webp&s=01f5c5568478f18952bf4acf31e4bd9abe524b6e to temp_image.jpg
 2025-06-03 14:16:17,161 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-03 14:47:15,755 - INFO - Content: are these the two rarest skins in the game?
+
+2025-06-03 14:47:15,755 - INFO - Image Paths: ['https://preview.redd.it/ch2rk5fo4p4f1.jpg?width=1000&format=pjpg&auto=webp&s=24fb900480e00d2a2315e95b2c8f4788cf91cd2e', 'https://preview.redd.it/tvyry4fo4p4f1.jpg?width=1000&format=pjpg&auto=webp&s=8081d5c9dc4028d58193507c720abcc86d15c509']
+2025-06-03 14:47:15,755 - INFO - Video Path: 
+2025-06-03 14:47:16,035 - INFO - Downloaded media from https://preview.redd.it/ch2rk5fo4p4f1.jpg?width=1000&format=pjpg&auto=webp&s=24fb900480e00d2a2315e95b2c8f4788cf91cd2e to temp_image.jpg
+2025-06-03 14:47:16,595 - INFO - Downloaded media from https://preview.redd.it/tvyry4fo4p4f1.jpg?width=1000&format=pjpg&auto=webp&s=8081d5c9dc4028d58193507c720abcc86d15c509 to temp_image.jpg
+2025-06-03 14:47:17,760 - INFO - Posted content successfully. Tweet ID: 1929912780192448998
