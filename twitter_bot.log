@@ -549,3 +549,10 @@ I used to play OW daily , havnt played in a couple years but I don't think ill e
 2025-06-03 08:50:16,297 - INFO - Downloaded media from https://preview.redd.it/qpna1gdihj4f1.jpeg?auto=webp&s=0a40cd1fe9cbb4f7136e1bd0e8a3b95ffca89433 to temp_image.jpg
 2025-06-03 08:50:17,458 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-03 09:17:19,585 - INFO - Content: I mean it might do something if you would kindly STAND NEEAAAR IT.
+
+2025-06-03 09:17:19,585 - INFO - Image Paths: ['https://preview.redd.it/j5ogpy0e3g4f1.gif?format=png8&s=2ea3c6a14473db9c80e08c2a3c16cb216a6bd37d']
+2025-06-03 09:17:19,585 - INFO - Video Path: 
+2025-06-03 09:17:19,718 - INFO - Downloaded media from https://preview.redd.it/j5ogpy0e3g4f1.gif?format=png8&s=2ea3c6a14473db9c80e08c2a3c16cb216a6bd37d to temp_image.jpg
+2025-06-03 09:17:20,397 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
