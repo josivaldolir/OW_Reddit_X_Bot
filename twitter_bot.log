@@ -452,3 +452,12 @@ Animation by nonamesleft
 2025-06-02 23:39:54,350 - INFO - Downloaded media from https://v.redd.it/7iw20ofpik4f1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-06-02 23:39:55,481 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-02 23:40:00,699 - INFO - Posted content successfully. Tweet ID: 1929684455096246653
+2025-06-03 01:17:07,098 - INFO - Content: Why are the chicken nuggets shaped like dinosaurs?
+Animation by nonamesleft 
+2025-06-03 01:17:07,098 - INFO - Image Paths: ['https://preview.redd.it/wz91jj1fik4f1.jpg?width=827&format=pjpg&auto=webp&s=0703397138d7226ddbee0e29ecc5925f2861ff83', 'https://preview.redd.it/lc358j1fik4f1.jpg?width=827&format=pjpg&auto=webp&s=cbfc7ef13ff323240e0d80aef27151cb6b6f7bef', 'https://preview.redd.it/25vwvi1fik4f1.jpg?width=827&format=pjpg&auto=webp&s=3781002f782c0f954b69b94cb4084f0d7b090de4', 'https://preview.redd.it/wff42j1fik4f1.jpg?width=827&format=pjpg&auto=webp&s=076cc3a05076be102227ec2c6592b8a890339e75']
+2025-06-03 01:17:07,098 - INFO - Video Path: 
+2025-06-03 01:17:07,350 - INFO - Downloaded media from https://preview.redd.it/wz91jj1fik4f1.jpg?width=827&format=pjpg&auto=webp&s=0703397138d7226ddbee0e29ecc5925f2861ff83 to temp_image.jpg
+2025-06-03 01:17:08,070 - INFO - Downloaded media from https://preview.redd.it/lc358j1fik4f1.jpg?width=827&format=pjpg&auto=webp&s=cbfc7ef13ff323240e0d80aef27151cb6b6f7bef to temp_image.jpg
+2025-06-03 01:17:08,630 - INFO - Downloaded media from https://preview.redd.it/25vwvi1fik4f1.jpg?width=827&format=pjpg&auto=webp&s=3781002f782c0f954b69b94cb4084f0d7b090de4 to temp_image.jpg
+2025-06-03 01:17:09,138 - INFO - Downloaded media from https://preview.redd.it/wff42j1fik4f1.jpg?width=827&format=pjpg&auto=webp&s=076cc3a05076be102227ec2c6592b8a890339e75 to temp_image.jpg
+2025-06-03 01:17:09,995 - INFO - Posted content successfully. Tweet ID: 1929708904675737642
