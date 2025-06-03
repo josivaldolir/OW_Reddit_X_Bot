@@ -700,3 +700,12 @@ While watching a replay I was flabbergasted by how far her biotic grasp can reac
 2025-06-03 17:41:46,567 - INFO - Downloaded media from https://preview.redd.it/c0kw4leqiq4f1.jpeg?auto=webp&s=f6a8128884731d97aa715cd468bee7a033072089 to temp_image.jpg
 2025-06-03 17:41:47,659 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-03 18:22:04,568 - INFO - Content: Lucio
+
+2025-06-03 18:22:04,569 - INFO - Image Paths: ['https://external-preview.redd.it/b2oyeWN5eWlucTRmMVIr1jxH1-Px-iSN7Ne4Z9L7kgIrjStM8MF2xNZ0Nvz5.png?format=pjpg&auto=webp&s=16e257276199eb7e6c37ac7c8b4bc71b4a1f3eab']
+2025-06-03 18:22:04,569 - INFO - Video Path: https://v.redd.it/urwoz0zinq4f1/DASH_480.mp4?source=fallback
+2025-06-03 18:22:04,656 - INFO - Downloaded media from https://v.redd.it/urwoz0zinq4f1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-06-03 18:22:04,721 - INFO - Downloaded media from https://v.redd.it/urwoz0zinq4f1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-06-03 18:22:05,063 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-03 18:22:11,846 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
