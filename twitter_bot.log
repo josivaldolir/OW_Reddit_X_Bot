@@ -769,3 +769,9 @@ Too Many Requests
 2025-06-03 21:38:07,079 - INFO - Downloaded media from https://preview.redd.it/oouberfp5r4f1.png?width=4129&format=png&auto=webp&s=c67577395e17c9ec56197759257c0577b6798b21 to temp_image.jpg
 2025-06-03 21:38:08,143 - INFO - Downloaded media from https://preview.redd.it/d9dq0isq5r4f1.png?width=4129&format=png&auto=webp&s=97fd3ca78625acef960d8158ff0803131c56b401 to temp_image.jpg
 2025-06-03 21:38:11,268 - INFO - Posted content successfully. Tweet ID: 1930016177281266062
+2025-06-03 22:15:13,927 - INFO - Content: A soul for a soul
+
+2025-06-03 22:15:13,927 - INFO - Image Paths: ['https://preview.redd.it/blolwyh9yr4f1.jpeg?auto=webp&s=bf5c6936bb56f4c3a48ec8954a67babd0c157197']
+2025-06-03 22:15:13,927 - INFO - Video Path: 
+2025-06-03 22:15:14,001 - INFO - Downloaded media from https://preview.redd.it/blolwyh9yr4f1.jpeg?auto=webp&s=bf5c6936bb56f4c3a48ec8954a67babd0c157197 to temp_image.jpg
+2025-06-03 22:15:15,101 - INFO - Posted content successfully. Tweet ID: 1930025512283562398
