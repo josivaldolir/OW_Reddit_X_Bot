@@ -556,3 +556,9 @@ Too Many Requests
 2025-06-03 09:17:19,718 - INFO - Downloaded media from https://preview.redd.it/j5ogpy0e3g4f1.gif?format=png8&s=2ea3c6a14473db9c80e08c2a3c16cb216a6bd37d to temp_image.jpg
 2025-06-03 09:17:20,397 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-03 09:42:16,006 - INFO - Content: I mean it might do something if you would kindly STAND NEEAAAR IT.
+
+2025-06-03 09:42:16,006 - INFO - Image Paths: ['https://preview.redd.it/j5ogpy0e3g4f1.gif?format=png8&s=2ea3c6a14473db9c80e08c2a3c16cb216a6bd37d']
+2025-06-03 09:42:16,006 - INFO - Video Path: 
+2025-06-03 09:42:16,267 - INFO - Downloaded media from https://preview.redd.it/j5ogpy0e3g4f1.gif?format=png8&s=2ea3c6a14473db9c80e08c2a3c16cb216a6bd37d to temp_image.jpg
+2025-06-03 09:42:17,027 - INFO - Posted content successfully. Tweet ID: 1929836021736452097
