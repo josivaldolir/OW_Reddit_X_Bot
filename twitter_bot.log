@@ -592,3 +592,13 @@ I’m going to go to sleep and I’ll continue tomorrow, thank you all so much f
 2025-06-03 11:13:49,785 - INFO - Downloaded media from https://preview.redd.it/08wpewr99n4f1.jpg?width=1280&format=pjpg&auto=webp&s=b7a8ddd9a7f91a5fb11024ca11003a70b98e654a to temp_image.jpg
 2025-06-03 11:13:50,384 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-03 11:38:14,962 - INFO - Content: Some of the requests!! (If you want any made find my other post)
+I’m going to go to sleep and I’ll continue tomorrow, thank you all so much for these funny requests I enjoyed making them sm
+2025-06-03 11:38:14,963 - INFO - Image Paths: ['https://preview.redd.it/om4a6lq99n4f1.jpg?width=370&format=pjpg&auto=webp&s=4cc02f89fbbfd7a79408ebb62b24f48c25b01f1f', 'https://preview.redd.it/6kzlonr99n4f1.jpg?width=1280&format=pjpg&auto=webp&s=24b3e1edc5fbcbed80876e3397a00ba476774249', 'https://preview.redd.it/akpoflq99n4f1.jpg?width=1280&format=pjpg&auto=webp&s=688c1c376bfbc090a52f70261629ad4030c4dfdc', 'https://preview.redd.it/08wpewr99n4f1.jpg?width=1280&format=pjpg&auto=webp&s=b7a8ddd9a7f91a5fb11024ca11003a70b98e654a']
+2025-06-03 11:38:14,963 - INFO - Video Path: 
+2025-06-03 11:38:15,132 - INFO - Downloaded media from https://preview.redd.it/om4a6lq99n4f1.jpg?width=370&format=pjpg&auto=webp&s=4cc02f89fbbfd7a79408ebb62b24f48c25b01f1f to temp_image.jpg
+2025-06-03 11:38:15,759 - INFO - Downloaded media from https://preview.redd.it/6kzlonr99n4f1.jpg?width=1280&format=pjpg&auto=webp&s=24b3e1edc5fbcbed80876e3397a00ba476774249 to temp_image.jpg
+2025-06-03 11:38:16,283 - INFO - Downloaded media from https://preview.redd.it/akpoflq99n4f1.jpg?width=1280&format=pjpg&auto=webp&s=688c1c376bfbc090a52f70261629ad4030c4dfdc to temp_image.jpg
+2025-06-03 11:38:16,792 - INFO - Downloaded media from https://preview.redd.it/08wpewr99n4f1.jpg?width=1280&format=pjpg&auto=webp&s=b7a8ddd9a7f91a5fb11024ca11003a70b98e654a to temp_image.jpg
+2025-06-03 11:38:17,595 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
