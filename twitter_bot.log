@@ -542,3 +542,10 @@ So Ashe is the only hero left that still uses the regular ultimate voice line fo
 2025-06-03 08:22:57,791 - INFO - Image Paths: []
 2025-06-03 08:22:57,791 - INFO - Video Path: 
 2025-06-03 08:22:58,076 - INFO - Posted content successfully. Tweet ID: 1929816061450334450
+2025-06-03 08:50:16,267 - INFO - Content: My holy grails
+I used to play OW daily , havnt played in a couple years but I don't think ill ever get rid of these !  My favorite OW items I own . 
+2025-06-03 08:50:16,267 - INFO - Image Paths: ['https://preview.redd.it/qpna1gdihj4f1.jpeg?auto=webp&s=0a40cd1fe9cbb4f7136e1bd0e8a3b95ffca89433']
+2025-06-03 08:50:16,267 - INFO - Video Path: 
+2025-06-03 08:50:16,297 - INFO - Downloaded media from https://preview.redd.it/qpna1gdihj4f1.jpeg?auto=webp&s=0a40cd1fe9cbb4f7136e1bd0e8a3b95ffca89433 to temp_image.jpg
+2025-06-03 08:50:17,458 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
