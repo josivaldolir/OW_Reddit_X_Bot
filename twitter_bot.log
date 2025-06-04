@@ -893,3 +893,11 @@ Too Many Requests
 2025-06-04 06:49:39,871 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-04 06:49:51,910 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-04 07:15:51,220 - INFO - Content: Tracer rollouts I bet you've never seen!
+
+2025-06-04 07:15:51,220 - INFO - Image Paths: ['https://external-preview.redd.it/NDM4MGQyb3Y3czRmMYclbtWB-Z-vvprPxHmSZ0R-E7JvglS5-B5lhaKWbba2.png?format=pjpg&auto=webp&s=f21f8203a803cff3cea5af42243a13301b5b64fa']
+2025-06-04 07:15:51,220 - INFO - Video Path: https://v.redd.it/tj07cznv7s4f1/DASH_1080.mp4?source=fallback
+2025-06-04 07:15:51,678 - INFO - Downloaded media from https://v.redd.it/tj07cznv7s4f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-04 07:15:52,218 - INFO - Downloaded media from https://v.redd.it/tj07cznv7s4f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-04 07:15:52,602 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-04 07:16:07,898 - INFO - Posted content successfully. Tweet ID: 1930161629234377067
