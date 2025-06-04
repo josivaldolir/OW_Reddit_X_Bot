@@ -862,3 +862,11 @@ Doubtful anything will happen on Xbox, but I’m praying something happens on OW
 2025-06-04 04:47:46,465 - INFO - Video Path: 
 2025-06-04 04:47:46,808 - INFO - Downloaded media from https://preview.redd.it/3n0zu2n6it4f1.jpeg?auto=webp&s=cba557d75f6688f8ded8f8c5110ab5a579ef5ef4 to temp_image.jpg
 2025-06-04 04:47:49,793 - INFO - Posted content successfully. Tweet ID: 1930124304517345393
+2025-06-04 05:16:09,852 - INFO - Content: dad and his 4 daughters
+
+2025-06-04 05:16:09,852 - INFO - Image Paths: ['https://external-preview.redd.it/Nms2ZjQyYnI3cjRmMcb9IoGO0K8zhKCnyzym23gSxQ6gP2TTFuLeAfRlQOu4.png?format=pjpg&auto=webp&s=5d591472c34d9cec6d6b9805ce222fa9dfaaacb7']
+2025-06-04 05:16:09,852 - INFO - Video Path: https://v.redd.it/lubbr38r7r4f1/DASH_480.mp4?source=fallback
+2025-06-04 05:16:10,077 - INFO - Downloaded media from https://v.redd.it/lubbr38r7r4f1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-06-04 05:16:10,142 - INFO - Downloaded media from https://v.redd.it/lubbr38r7r4f1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-06-04 05:16:10,427 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-04 05:16:14,153 - INFO - Posted content successfully. Tweet ID: 1930131456497725589
