@@ -951,3 +951,9 @@ I know some characters introduced in Overwatch 2 (Not the new launch heroes) hav
 2025-06-04 10:45:41,756 - INFO - Downloaded media from https://preview.redd.it/xdvwm6ee2v4f1.jpeg?auto=webp&s=3e64d1b411baf01141d8f92d45c6b92de1bf6645 to temp_image.jpg
 2025-06-04 10:45:42,352 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-04 11:14:00,290 - INFO - Content: And I knock on the door and I say "Anaaa! Anaaa, I gotta talk to you about Freja!"
+
+2025-06-04 11:14:00,290 - INFO - Image Paths: ['https://preview.redd.it/1dxfzt7nnp4f1.jpeg?auto=webp&s=01f5c5568478f18952bf4acf31e4bd9abe524b6e']
+2025-06-04 11:14:00,290 - INFO - Video Path: 
+2025-06-04 11:14:00,593 - INFO - Downloaded media from https://preview.redd.it/1dxfzt7nnp4f1.jpeg?auto=webp&s=01f5c5568478f18952bf4acf31e4bd9abe524b6e to temp_image.jpg
+2025-06-04 11:14:02,354 - INFO - Posted content successfully. Tweet ID: 1930221499530789239
