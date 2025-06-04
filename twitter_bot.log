@@ -1024,3 +1024,11 @@ Too Many Requests
 2025-06-04 17:41:26,378 - INFO - Video Path: 
 2025-06-04 17:41:26,458 - INFO - Downloaded media from https://preview.redd.it/182pllutvx4f1.png?auto=webp&s=e867268af559a4f6587949cf2317161ba3786fb1 to temp_image.jpg
 2025-06-04 17:41:27,698 - INFO - Posted content successfully. Tweet ID: 1930318996928069791
+2025-06-04 18:21:35,722 - INFO - Content: peak overwatch scene (after playing for 8 years) :
+watch it till end
+2025-06-04 18:21:35,722 - INFO - Image Paths: ['https://external-preview.redd.it/eGZrYXB1cGQ5eTRmMccW8GnznSuBiTfRUOaNJk7aQq6v4KbBz_Q_pkLJLfq6.png?format=pjpg&auto=webp&s=c9044de7458ccb012965534abc7dff2799cfb4fd']
+2025-06-04 18:21:35,722 - INFO - Video Path: https://v.redd.it/qfhvqtmd9y4f1/DASH_480.mp4?source=fallback
+2025-06-04 18:21:35,794 - INFO - Downloaded media from https://v.redd.it/qfhvqtmd9y4f1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-06-04 18:21:35,841 - INFO - Downloaded media from https://v.redd.it/qfhvqtmd9y4f1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-06-04 18:21:36,308 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-04 18:21:42,513 - INFO - Posted content successfully. Tweet ID: 1930329127086674160
