@@ -998,3 +998,9 @@ I noticed many people does this, but not really my case. If she's not banned or 
 2025-06-04 15:55:00,428 - INFO - Downloaded media from https://preview.redd.it/aydeqztn3x4f1.jpeg?auto=webp&s=a330f1ed25937442f237000d082f1befde958fab to temp_image.jpg
 2025-06-04 15:55:01,569 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-04 16:17:56,861 - INFO - Content: Overwatch rank is out of fucking hand
+i’m sure this has been posted but it’s still funny
+2025-06-04 16:17:56,861 - INFO - Image Paths: ['https://preview.redd.it/9q3ghjb6fx4f1.jpeg?auto=webp&s=7a8213785c3293c3af792fb5d001f9933b86161c']
+2025-06-04 16:17:56,861 - INFO - Video Path: 
+2025-06-04 16:17:56,947 - INFO - Downloaded media from https://preview.redd.it/9q3ghjb6fx4f1.jpeg?auto=webp&s=7a8213785c3293c3af792fb5d001f9933b86161c to temp_image.jpg
+2025-06-04 16:17:58,041 - INFO - Posted content successfully. Tweet ID: 1930297986506207500
