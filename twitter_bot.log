@@ -1084,3 +1084,9 @@ Too Many Requests
 2025-06-04 21:35:40,081 - INFO - Downloaded media from https://v.redd.it/29uqe2qzyx4f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-06-04 21:35:40,554 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-04 21:35:49,646 - INFO - Posted content successfully. Tweet ID: 1930377978787311838
+2025-06-04 22:14:30,848 - INFO - Content: The rare winston
+
+2025-06-04 22:14:30,848 - INFO - Image Paths: ['https://preview.redd.it/wrtl7j2h0z4f1.jpeg?auto=webp&s=9c9f91c57f8c7dab591f0cc9d0aa57eab029067a']
+2025-06-04 22:14:30,848 - INFO - Video Path: 
+2025-06-04 22:14:31,185 - INFO - Downloaded media from https://preview.redd.it/wrtl7j2h0z4f1.jpeg?auto=webp&s=9c9f91c57f8c7dab591f0cc9d0aa57eab029067a to temp_image.jpg
+2025-06-04 22:14:32,499 - INFO - Posted content successfully. Tweet ID: 1930387721002070295
