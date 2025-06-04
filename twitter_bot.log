@@ -1090,3 +1090,12 @@ Too Many Requests
 2025-06-04 22:14:30,848 - INFO - Video Path: 
 2025-06-04 22:14:31,185 - INFO - Downloaded media from https://preview.redd.it/wrtl7j2h0z4f1.jpeg?auto=webp&s=9c9f91c57f8c7dab591f0cc9d0aa57eab029067a to temp_image.jpg
 2025-06-04 22:14:32,499 - INFO - Posted content successfully. Tweet ID: 1930387721002070295
+2025-06-04 22:37:33,090 - INFO - Content: hammer wayyyyyyyyyy down
+
+2025-06-04 22:37:33,090 - INFO - Image Paths: ['https://external-preview.redd.it/amVrOGRtMW1mdzRmMU05tgRksspXh9BwYR1pFAcF8xxmxAMP3wQ9UgYpteIu.png?format=pjpg&auto=webp&s=1dbcb4725a64d30eb79c6de890e7fe9184b017b8']
+2025-06-04 22:37:33,090 - INFO - Video Path: https://v.redd.it/r0dgsq1mfw4f1/DASH_1080.mp4?source=fallback
+2025-06-04 22:37:33,666 - INFO - Downloaded media from https://v.redd.it/r0dgsq1mfw4f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-04 22:37:33,776 - INFO - Downloaded media from https://v.redd.it/r0dgsq1mfw4f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-04 22:37:34,236 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-04 22:37:41,413 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
