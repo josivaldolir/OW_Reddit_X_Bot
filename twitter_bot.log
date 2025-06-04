@@ -1099,3 +1099,10 @@ Too Many Requests
 2025-06-04 22:37:34,236 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-04 22:37:41,413 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-04 23:14:50,025 - INFO - Content: Is Reyes really in pain?
+2nd part in comments!
+2025-06-04 23:14:50,025 - INFO - Image Paths: ['https://preview.redd.it/wm3tgdibjz4f1.png?auto=webp&s=a2106a8443ce79a64938aac9de77e17c4808f931']
+2025-06-04 23:14:50,025 - INFO - Video Path: 
+2025-06-04 23:14:50,101 - INFO - Downloaded media from https://preview.redd.it/wm3tgdibjz4f1.png?auto=webp&s=a2106a8443ce79a64938aac9de77e17c4808f931 to temp_image.jpg
+2025-06-04 23:14:50,758 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
