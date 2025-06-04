@@ -978,3 +978,10 @@ I made it! now… where is my lobby?
 2025-06-04 13:31:10,216 - INFO - Downloaded media from https://preview.redd.it/gtkzx9sfrv4f1.jpeg?auto=webp&s=8df08f960e6fe4b81920ae4a3a9446e0d747ac75 to temp_image.jpg
 2025-06-04 13:31:11,938 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-04 14:13:14,424 - INFO - Content: I am Master 5
+I made it! now… where is my lobby?
+2025-06-04 14:13:14,425 - INFO - Image Paths: ['https://preview.redd.it/gtkzx9sfrv4f1.jpeg?auto=webp&s=8df08f960e6fe4b81920ae4a3a9446e0d747ac75']
+2025-06-04 14:13:14,425 - INFO - Video Path: 
+2025-06-04 14:13:14,567 - INFO - Downloaded media from https://preview.redd.it/gtkzx9sfrv4f1.jpeg?auto=webp&s=8df08f960e6fe4b81920ae4a3a9446e0d747ac75 to temp_image.jpg
+2025-06-04 14:13:16,525 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
