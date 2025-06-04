@@ -942,3 +942,12 @@ Too Many Requests
 2025-06-04 10:17:23,132 - INFO - Downloaded media from https://preview.redd.it/1dxfzt7nnp4f1.jpeg?auto=webp&s=01f5c5568478f18952bf4acf31e4bd9abe524b6e to temp_image.jpg
 2025-06-04 10:17:24,564 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-04 10:45:41,672 - INFO - Content: If Blizzard brought back their 3d animated cinematics, tier list on how interested I’d be on watching it
+This tier list is me ranking how interested I’d be watching a cinematic based off on the character. My rationale for the ranking is if this character has a lot of lore that needs to be explored, or just needs some time in the light, the higher the ranking. The lower the ranking, either I believe their lore has been explored enough via mini comics and short stories, narratively not worth expanding upon in a cinematic, or I think their character is just flat-out disinteresting. 
+
+I know some characters introduced in Overwatch 2 (Not the new launch heroes) have already technically been represented in an animated short, but let’s just put on our thinking caps for a second an have some fun! 
+2025-06-04 10:45:41,672 - INFO - Image Paths: ['https://preview.redd.it/xdvwm6ee2v4f1.jpeg?auto=webp&s=3e64d1b411baf01141d8f92d45c6b92de1bf6645']
+2025-06-04 10:45:41,672 - INFO - Video Path: 
+2025-06-04 10:45:41,756 - INFO - Downloaded media from https://preview.redd.it/xdvwm6ee2v4f1.jpeg?auto=webp&s=3e64d1b411baf01141d8f92d45c6b92de1bf6645 to temp_image.jpg
+2025-06-04 10:45:42,352 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
