@@ -935,3 +935,10 @@ While watching a replay I was flabbergasted by how far her biotic grasp can reac
 2025-06-04 09:41:43,644 - INFO - Downloaded media from https://preview.redd.it/c0kw4leqiq4f1.jpeg?auto=webp&s=f6a8128884731d97aa715cd468bee7a033072089 to temp_image.jpg
 2025-06-04 09:41:44,720 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-04 10:17:22,970 - INFO - Content: And I knock on the door and I say "Anaaa! Anaaa, I gotta talk to you about Freja!"
+
+2025-06-04 10:17:22,970 - INFO - Image Paths: ['https://preview.redd.it/1dxfzt7nnp4f1.jpeg?auto=webp&s=01f5c5568478f18952bf4acf31e4bd9abe524b6e']
+2025-06-04 10:17:22,970 - INFO - Video Path: 
+2025-06-04 10:17:23,132 - INFO - Downloaded media from https://preview.redd.it/1dxfzt7nnp4f1.jpeg?auto=webp&s=01f5c5568478f18952bf4acf31e4bd9abe524b6e to temp_image.jpg
+2025-06-04 10:17:24,564 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
