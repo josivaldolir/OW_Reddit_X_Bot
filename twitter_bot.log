@@ -908,3 +908,10 @@ Names were hidden for their own safety.
 2025-06-04 07:39:17,615 - INFO - Downloaded media from https://preview.redd.it/4cky19jsxq4f1.jpeg?auto=webp&s=222ce2c627c9efb761f1703ea4f38b00b6a66326 to temp_image.jpg
 2025-06-04 07:39:18,294 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-04 08:22:24,339 - INFO - Content: ez win
+Names were hidden for their own safety.
+2025-06-04 08:22:24,339 - INFO - Image Paths: ['https://preview.redd.it/4cky19jsxq4f1.jpeg?auto=webp&s=222ce2c627c9efb761f1703ea4f38b00b6a66326']
+2025-06-04 08:22:24,339 - INFO - Video Path: 
+2025-06-04 08:22:24,508 - INFO - Downloaded media from https://preview.redd.it/4cky19jsxq4f1.jpeg?auto=webp&s=222ce2c627c9efb761f1703ea4f38b00b6a66326 to temp_image.jpg
+2025-06-04 08:22:25,213 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
