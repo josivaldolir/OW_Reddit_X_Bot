@@ -1018,3 +1018,9 @@ I noticed many people does this, but not really my case. If she's not banned or 
 2025-06-04 17:14:15,284 - INFO - Downloaded media from https://preview.redd.it/aydeqztn3x4f1.jpeg?auto=webp&s=a330f1ed25937442f237000d082f1befde958fab to temp_image.jpg
 2025-06-04 17:14:16,489 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-04 17:41:26,378 - INFO - Content: Cowards
+
+2025-06-04 17:41:26,378 - INFO - Image Paths: ['https://preview.redd.it/182pllutvx4f1.png?auto=webp&s=e867268af559a4f6587949cf2317161ba3786fb1']
+2025-06-04 17:41:26,378 - INFO - Video Path: 
+2025-06-04 17:41:26,458 - INFO - Downloaded media from https://preview.redd.it/182pllutvx4f1.png?auto=webp&s=e867268af559a4f6587949cf2317161ba3786fb1 to temp_image.jpg
+2025-06-04 17:41:27,698 - INFO - Posted content successfully. Tweet ID: 1930318996928069791
