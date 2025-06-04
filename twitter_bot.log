@@ -971,3 +971,10 @@ Not only did Winston create a popular virtual band Gorillaz, he also founded a m
 2025-06-04 12:32:36,772 - INFO - Video Path: 
 2025-06-04 12:32:36,950 - INFO - Downloaded media from https://preview.redd.it/lasicaz1xr4f1.png?auto=webp&s=6e7c3da07b199d27e467bc3ecd0ba09cce511d45 to temp_image.jpg
 2025-06-04 12:32:37,837 - INFO - Posted content successfully. Tweet ID: 1930241278077481375
+2025-06-04 13:31:10,092 - INFO - Content: I am Master 5
+I made it! now… where is my lobby?
+2025-06-04 13:31:10,092 - INFO - Image Paths: ['https://preview.redd.it/gtkzx9sfrv4f1.jpeg?auto=webp&s=8df08f960e6fe4b81920ae4a3a9446e0d747ac75']
+2025-06-04 13:31:10,092 - INFO - Video Path: 
+2025-06-04 13:31:10,216 - INFO - Downloaded media from https://preview.redd.it/gtkzx9sfrv4f1.jpeg?auto=webp&s=8df08f960e6fe4b81920ae4a3a9446e0d747ac75 to temp_image.jpg
+2025-06-04 13:31:11,938 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
