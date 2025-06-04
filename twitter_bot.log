@@ -870,3 +870,10 @@ Doubtful anything will happen on Xbox, but I’m praying something happens on OW
 2025-06-04 05:16:10,142 - INFO - Downloaded media from https://v.redd.it/lubbr38r7r4f1/DASH_480.mp4?source=fallback to temp_audio.mp4
 2025-06-04 05:16:10,427 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-04 05:16:14,153 - INFO - Posted content successfully. Tweet ID: 1930131456497725589
+2025-06-04 05:42:36,106 - INFO - Content: ez win
+Names were hidden for their own safety.
+2025-06-04 05:42:36,107 - INFO - Image Paths: ['https://preview.redd.it/4cky19jsxq4f1.jpeg?auto=webp&s=222ce2c627c9efb761f1703ea4f38b00b6a66326']
+2025-06-04 05:42:36,107 - INFO - Video Path: 
+2025-06-04 05:42:36,165 - INFO - Downloaded media from https://preview.redd.it/4cky19jsxq4f1.jpeg?auto=webp&s=222ce2c627c9efb761f1703ea4f38b00b6a66326 to temp_image.jpg
+2025-06-04 05:42:36,773 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
