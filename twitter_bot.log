@@ -1391,3 +1391,9 @@ Before yall get mad I was going to switch after shatter anyway, and we rolled th
 2025-06-05 20:35:43,544 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-05 20:35:49,821 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-05 21:14:48,437 - INFO - Content: Stay away from me, you freaks
+
+2025-06-05 21:14:48,437 - INFO - Image Paths: ['https://preview.redd.it/n5dbkv7k065f1.jpeg?auto=webp&s=287cc9e861fcc4a4582cc23fca178c74d24bf3c0']
+2025-06-05 21:14:48,437 - INFO - Video Path: 
+2025-06-05 21:14:48,583 - INFO - Downloaded media from https://preview.redd.it/n5dbkv7k065f1.jpeg?auto=webp&s=287cc9e861fcc4a4582cc23fca178c74d24bf3c0 to temp_image.jpg
+2025-06-05 21:14:50,223 - INFO - Posted content successfully. Tweet ID: 1930735082236739885
