@@ -1295,3 +1295,11 @@ Too Many Requests
 2025-06-05 13:50:51,529 - INFO - Downloaded media from https://preview.redd.it/ezawyhfco35f1.jpg?width=2258&format=pjpg&auto=webp&s=531c983ff5a9bc67ae1b59086888b0193f73d9a9 to temp_image.jpg
 2025-06-05 13:50:52,609 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-05 14:16:06,787 - INFO - Content: My Reinhardt cosplay
+
+2025-06-05 14:16:06,787 - INFO - Image Paths: ['https://preview.redd.it/v9svkjfco35f1.jpg?width=2333&format=pjpg&auto=webp&s=2fff3c8fb922bdf9d4e10042ef02aa4f750585a7', 'https://preview.redd.it/gckuvkfco35f1.jpg?width=3000&format=pjpg&auto=webp&s=e8c1f79f17745af67ddf25ab69fdd9800318eac1', 'https://preview.redd.it/ezawyhfco35f1.jpg?width=2258&format=pjpg&auto=webp&s=531c983ff5a9bc67ae1b59086888b0193f73d9a9']
+2025-06-05 14:16:06,787 - INFO - Video Path: 
+2025-06-05 14:16:07,037 - INFO - Downloaded media from https://preview.redd.it/v9svkjfco35f1.jpg?width=2333&format=pjpg&auto=webp&s=2fff3c8fb922bdf9d4e10042ef02aa4f750585a7 to temp_image.jpg
+2025-06-05 14:16:08,273 - INFO - Downloaded media from https://preview.redd.it/gckuvkfco35f1.jpg?width=3000&format=pjpg&auto=webp&s=e8c1f79f17745af67ddf25ab69fdd9800318eac1 to temp_image.jpg
+2025-06-05 14:16:09,758 - INFO - Downloaded media from https://preview.redd.it/ezawyhfco35f1.jpg?width=2258&format=pjpg&auto=webp&s=531c983ff5a9bc67ae1b59086888b0193f73d9a9 to temp_image.jpg
+2025-06-05 14:16:11,881 - INFO - Posted content successfully. Tweet ID: 1930629727993405799
