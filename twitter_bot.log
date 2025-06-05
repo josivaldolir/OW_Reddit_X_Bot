@@ -1229,3 +1229,12 @@ I genuinely can’t even believe what I’m seeing played against this person in
 2025-06-05 09:22:25,963 - INFO - Video Path: 
 2025-06-05 09:22:26,221 - INFO - Downloaded media from https://preview.redd.it/8yxnp06nc15f1.jpeg?auto=webp&s=89e31dda196035e6d53e522c98b38d90fbb4ae06 to temp_image.jpg
 2025-06-05 09:22:27,887 - INFO - Posted content successfully. Tweet ID: 1930555809022525926
+2025-06-05 09:41:31,322 - INFO - Content: One of my dumbest Doomfist plays to date
+
+2025-06-05 09:41:31,322 - INFO - Image Paths: ['https://external-preview.redd.it/Z2gzNWtlZXFuMDVmMUd2Skc1TDbvS7NMAxbFbCZTg3CWbFmV7TUZh8UhhO8a.png?format=pjpg&auto=webp&s=0b87c587a8bec0fda4fa677d8757f5816aaa2b52']
+2025-06-05 09:41:31,322 - INFO - Video Path: https://v.redd.it/dqjof9oqn05f1/DASH_1080.mp4?source=fallback
+2025-06-05 09:41:31,507 - INFO - Downloaded media from https://v.redd.it/dqjof9oqn05f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-05 09:41:31,565 - INFO - Downloaded media from https://v.redd.it/dqjof9oqn05f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-05 09:41:39,095 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-05 09:41:45,978 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
