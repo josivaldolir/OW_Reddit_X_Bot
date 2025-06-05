@@ -1216,3 +1216,10 @@ Too Many Requests
 2025-06-05 08:21:04,691 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-05 08:21:14,762 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-05 08:49:54,246 - INFO - Content: Bro what did I just find.
+I genuinely can’t even believe what I’m seeing played against this person in a death match they went dva and were super toxic to everyone decided to check the profile and holy this can’t be legit right?…
+2025-06-05 08:49:54,246 - INFO - Image Paths: ['https://preview.redd.it/8yxnp06nc15f1.jpeg?auto=webp&s=89e31dda196035e6d53e522c98b38d90fbb4ae06']
+2025-06-05 08:49:54,246 - INFO - Video Path: 
+2025-06-05 08:49:54,321 - INFO - Downloaded media from https://preview.redd.it/8yxnp06nc15f1.jpeg?auto=webp&s=89e31dda196035e6d53e522c98b38d90fbb4ae06 to temp_image.jpg
+2025-06-05 08:49:55,226 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
