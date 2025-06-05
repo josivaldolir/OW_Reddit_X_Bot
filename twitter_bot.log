@@ -1319,3 +1319,10 @@ Too Many Requests
 2025-06-05 15:16:50,516 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-05 15:17:01,848 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-05 15:41:45,373 - INFO - Content: How Players Who Refuse to Use Perks Think of Themselves
+The reality is no one cares. 
+2025-06-05 15:41:45,373 - INFO - Image Paths: ['https://preview.redd.it/08982t79u35f1.jpeg?auto=webp&s=7888a95d1a04564a943f44097ff43ddbebe13481']
+2025-06-05 15:41:45,373 - INFO - Video Path: 
+2025-06-05 15:41:45,502 - INFO - Downloaded media from https://preview.redd.it/08982t79u35f1.jpeg?auto=webp&s=7888a95d1a04564a943f44097ff43ddbebe13481 to temp_image.jpg
+2025-06-05 15:41:46,087 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
