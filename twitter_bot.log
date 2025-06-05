@@ -1412,3 +1412,10 @@ https://x.com/PlayOverwatch/status/1930686059429388666?t=6Tl0DdQe2GfnO7bS5AVQeA&
 2025-06-05 22:14:06,150 - INFO - Downloaded media from https://preview.redd.it/bfxesmmok55f1.jpeg?auto=webp&s=6a74ad1fd6a6b3984f9b07a3e9cb6db5facfd604 to temp_image.jpg
 2025-06-05 22:14:07,082 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-05 22:41:02,648 - INFO - Content: Junkrat's Loot Box Hunt Event - June 6-8
+https://x.com/PlayOverwatch/status/1930686059429388666?t=6Tl0DdQe2GfnO7bS5AVQeA&s=19
+2025-06-05 22:41:02,648 - INFO - Image Paths: ['https://preview.redd.it/bfxesmmok55f1.jpeg?auto=webp&s=6a74ad1fd6a6b3984f9b07a3e9cb6db5facfd604']
+2025-06-05 22:41:02,648 - INFO - Video Path: 
+2025-06-05 22:41:02,825 - INFO - Downloaded media from https://preview.redd.it/bfxesmmok55f1.jpeg?auto=webp&s=6a74ad1fd6a6b3984f9b07a3e9cb6db5facfd604 to temp_image.jpg
+2025-06-05 22:41:03,602 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
