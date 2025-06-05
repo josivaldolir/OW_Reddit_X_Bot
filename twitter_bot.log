@@ -1310,3 +1310,12 @@ The reality is no one cares.
 2025-06-05 14:42:49,247 - INFO - Downloaded media from https://preview.redd.it/08982t79u35f1.jpeg?auto=webp&s=7888a95d1a04564a943f44097ff43ddbebe13481 to temp_image.jpg
 2025-06-05 14:42:50,033 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-05 15:16:49,510 - INFO - Content: Playing Overwatch with a drawing tablet
+
+2025-06-05 15:16:49,511 - INFO - Image Paths: ['https://external-preview.redd.it/YzkxZ3FpN25oMTVmMQq-PBIa2_8Jqg38M3d6FkgWc3A8696eegwYWNZ7cvTy.png?format=pjpg&auto=webp&s=52b8b5ab78308ab1b43e83a4d93e93f4e5597ea6']
+2025-06-05 15:16:49,511 - INFO - Video Path: https://v.redd.it/293n2f7nh15f1/DASH_1080.mp4?source=fallback
+2025-06-05 15:16:49,813 - INFO - Downloaded media from https://v.redd.it/293n2f7nh15f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-05 15:16:50,109 - INFO - Downloaded media from https://v.redd.it/293n2f7nh15f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-05 15:16:50,516 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-05 15:17:01,848 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
