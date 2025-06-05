@@ -1198,3 +1198,12 @@ Too Many Requests
 2025-06-05 07:15:33,101 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-05 07:15:39,685 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-05 07:38:12,979 - INFO - Content: One of my dumbest Doomfist plays to date
+
+2025-06-05 07:38:12,980 - INFO - Image Paths: ['https://external-preview.redd.it/Z2gzNWtlZXFuMDVmMUd2Skc1TDbvS7NMAxbFbCZTg3CWbFmV7TUZh8UhhO8a.png?format=pjpg&auto=webp&s=0b87c587a8bec0fda4fa677d8757f5816aaa2b52']
+2025-06-05 07:38:12,980 - INFO - Video Path: https://v.redd.it/dqjof9oqn05f1/DASH_1080.mp4?source=fallback
+2025-06-05 07:38:13,221 - INFO - Downloaded media from https://v.redd.it/dqjof9oqn05f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-05 07:38:13,267 - INFO - Downloaded media from https://v.redd.it/dqjof9oqn05f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-05 07:38:13,546 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-05 07:38:19,932 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
