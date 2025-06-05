@@ -1382,3 +1382,12 @@ Before yall get mad I was going to switch after shatter anyway, and we rolled th
 2025-06-05 20:16:02,323 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-05 20:16:10,692 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-05 20:35:42,595 - INFO - Content: Gotta love life weaver mains🙏
+Before yall get mad I was going to switch after shatter anyway, and we rolled them after this encounter too.
+2025-06-05 20:35:42,595 - INFO - Image Paths: ['https://external-preview.redd.it/ejMyY3V3a3E4NTVmMUrvFjMjtzLKF7_kvKJfXHMdI3W3t3C-Q75Ru6xDbU98.png?format=pjpg&auto=webp&s=c752f16f7a9356302e96f034e6fe38f97f381ba4']
+2025-06-05 20:35:42,595 - INFO - Video Path: https://v.redd.it/ywh3exnq855f1/DASH_720.mp4?source=fallback
+2025-06-05 20:35:42,707 - INFO - Downloaded media from https://v.redd.it/ywh3exnq855f1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-06-05 20:35:42,723 - INFO - Downloaded media from https://v.redd.it/ywh3exnq855f1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-06-05 20:35:43,544 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-05 20:35:49,821 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
