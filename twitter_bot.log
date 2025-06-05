@@ -1367,3 +1367,9 @@ This is me just chilling on the objective while me team gets a bunch of money fr
 2025-06-05 19:15:07,330 - INFO - Image Paths: []
 2025-06-05 19:15:07,330 - INFO - Video Path: 
 2025-06-05 19:15:07,622 - INFO - Posted content successfully. Tweet ID: 1930704958342709514
+2025-06-05 19:35:33,684 - INFO - Content: Aw yis
+
+2025-06-05 19:35:33,684 - INFO - Image Paths: ['https://preview.redd.it/k2qu8ndhm55f1.png?auto=webp&s=cc8b55cfab763f8375ca543ec4da9f09d16e0841']
+2025-06-05 19:35:33,684 - INFO - Video Path: 
+2025-06-05 19:35:33,767 - INFO - Downloaded media from https://preview.redd.it/k2qu8ndhm55f1.png?auto=webp&s=cc8b55cfab763f8375ca543ec4da9f09d16e0841 to temp_image.jpg
+2025-06-05 19:35:34,889 - INFO - Posted content successfully. Tweet ID: 1930710104501862812
