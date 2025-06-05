@@ -1277,3 +1277,12 @@ Too Many Requests
 2025-06-05 12:33:19,958 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-05 12:33:36,292 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-05 13:30:12,566 - INFO - Content: My Reinhardt cosplay
+
+2025-06-05 13:30:12,566 - INFO - Image Paths: ['https://preview.redd.it/v9svkjfco35f1.jpg?width=2333&format=pjpg&auto=webp&s=2fff3c8fb922bdf9d4e10042ef02aa4f750585a7', 'https://preview.redd.it/gckuvkfco35f1.jpg?width=3000&format=pjpg&auto=webp&s=e8c1f79f17745af67ddf25ab69fdd9800318eac1', 'https://preview.redd.it/ezawyhfco35f1.jpg?width=2258&format=pjpg&auto=webp&s=531c983ff5a9bc67ae1b59086888b0193f73d9a9']
+2025-06-05 13:30:12,566 - INFO - Video Path: 
+2025-06-05 13:30:12,645 - INFO - Downloaded media from https://preview.redd.it/v9svkjfco35f1.jpg?width=2333&format=pjpg&auto=webp&s=2fff3c8fb922bdf9d4e10042ef02aa4f750585a7 to temp_image.jpg
+2025-06-05 13:30:13,717 - INFO - Downloaded media from https://preview.redd.it/gckuvkfco35f1.jpg?width=3000&format=pjpg&auto=webp&s=e8c1f79f17745af67ddf25ab69fdd9800318eac1 to temp_image.jpg
+2025-06-05 13:30:15,034 - INFO - Downloaded media from https://preview.redd.it/ezawyhfco35f1.jpg?width=2258&format=pjpg&auto=webp&s=531c983ff5a9bc67ae1b59086888b0193f73d9a9 to temp_image.jpg
+2025-06-05 13:30:16,077 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
