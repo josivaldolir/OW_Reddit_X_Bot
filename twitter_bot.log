@@ -1405,3 +1405,10 @@ Before yall get mad I was going to switch after shatter anyway, and we rolled th
 2025-06-05 21:38:05,731 - INFO - Downloaded media from https://v.redd.it/ywh3exnq855f1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-06-05 21:38:06,558 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-05 21:38:12,898 - INFO - Posted content successfully. Tweet ID: 1930740967335973187
+2025-06-05 22:14:06,035 - INFO - Content: Junkrat's Loot Box Hunt Event - June 6-8
+https://x.com/PlayOverwatch/status/1930686059429388666?t=6Tl0DdQe2GfnO7bS5AVQeA&s=19
+2025-06-05 22:14:06,035 - INFO - Image Paths: ['https://preview.redd.it/bfxesmmok55f1.jpeg?auto=webp&s=6a74ad1fd6a6b3984f9b07a3e9cb6db5facfd604']
+2025-06-05 22:14:06,035 - INFO - Video Path: 
+2025-06-05 22:14:06,150 - INFO - Downloaded media from https://preview.redd.it/bfxesmmok55f1.jpeg?auto=webp&s=6a74ad1fd6a6b3984f9b07a3e9cb6db5facfd604 to temp_image.jpg
+2025-06-05 22:14:07,082 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
