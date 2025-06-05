@@ -1259,3 +1259,12 @@ Too Many Requests
 2025-06-05 11:14:37,792 - INFO - Video Path: 
 2025-06-05 11:14:38,002 - INFO - Downloaded media from https://preview.redd.it/q3icob8ou25f1.jpeg?auto=webp&s=ea4f623da148b4719e4b7abfd60e5ccb630e89ac to temp_image.jpg
 2025-06-05 11:14:38,679 - INFO - Posted content successfully. Tweet ID: 1930584040861733040
+2025-06-05 11:38:44,793 - INFO - Content: Playing Overwatch with a drawing tablet
+
+2025-06-05 11:38:44,793 - INFO - Image Paths: ['https://external-preview.redd.it/YzkxZ3FpN25oMTVmMQq-PBIa2_8Jqg38M3d6FkgWc3A8696eegwYWNZ7cvTy.png?format=pjpg&auto=webp&s=52b8b5ab78308ab1b43e83a4d93e93f4e5597ea6']
+2025-06-05 11:38:44,793 - INFO - Video Path: https://v.redd.it/293n2f7nh15f1/DASH_1080.mp4?source=fallback
+2025-06-05 11:38:45,191 - INFO - Downloaded media from https://v.redd.it/293n2f7nh15f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-05 11:38:45,349 - INFO - Downloaded media from https://v.redd.it/293n2f7nh15f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-05 11:38:46,440 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-05 11:39:03,546 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
