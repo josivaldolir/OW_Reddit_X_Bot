@@ -1253,3 +1253,9 @@ Too Many Requests
 2025-06-05 10:47:05,208 - INFO - Downloaded media from https://preview.redd.it/q3icob8ou25f1.jpeg?auto=webp&s=ea4f623da148b4719e4b7abfd60e5ccb630e89ac to temp_image.jpg
 2025-06-05 10:47:05,838 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-05 11:14:37,792 - INFO - Content: Roadhog > healthpack
+
+2025-06-05 11:14:37,792 - INFO - Image Paths: ['https://preview.redd.it/q3icob8ou25f1.jpeg?auto=webp&s=ea4f623da148b4719e4b7abfd60e5ccb630e89ac']
+2025-06-05 11:14:37,792 - INFO - Video Path: 
+2025-06-05 11:14:38,002 - INFO - Downloaded media from https://preview.redd.it/q3icob8ou25f1.jpeg?auto=webp&s=ea4f623da148b4719e4b7abfd60e5ccb630e89ac to temp_image.jpg
+2025-06-05 11:14:38,679 - INFO - Posted content successfully. Tweet ID: 1930584040861733040
