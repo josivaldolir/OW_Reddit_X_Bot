@@ -1340,3 +1340,10 @@ The reality is no one cares.
 2025-06-05 16:47:03,054 - INFO - Downloaded media from https://preview.redd.it/08982t79u35f1.jpeg?auto=webp&s=7888a95d1a04564a943f44097ff43ddbebe13481 to temp_image.jpg
 2025-06-05 16:47:03,741 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-05 17:11:53,462 - INFO - Content: How Players Who Refuse to Use Perks Think of Themselves
+The reality is no one cares. 
+2025-06-05 17:11:53,462 - INFO - Image Paths: ['https://preview.redd.it/08982t79u35f1.jpeg?auto=webp&s=7888a95d1a04564a943f44097ff43ddbebe13481']
+2025-06-05 17:11:53,462 - INFO - Video Path: 
+2025-06-05 17:11:53,483 - INFO - Downloaded media from https://preview.redd.it/08982t79u35f1.jpeg?auto=webp&s=7888a95d1a04564a943f44097ff43ddbebe13481 to temp_image.jpg
+2025-06-05 17:11:54,293 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
