@@ -1628,3 +1628,12 @@ THINK before you start crying
 2025-06-06 15:13:47,549 - INFO - Video Path: 
 2025-06-06 15:13:47,700 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-06 15:39:44,633 - INFO - Content: Guys I think there's a sniper
+
+2025-06-06 15:39:44,633 - INFO - Image Paths: ['https://external-preview.redd.it/M21lOTExcGIwYjVmMWg3BZk_8iS8FoYd9OylPZFiPc2XK2QwM4umTIgrSknc.png?format=pjpg&auto=webp&s=8764c19434851b3c22783fc3b4aa0790128c6a4b']
+2025-06-06 15:39:44,633 - INFO - Video Path: https://v.redd.it/dhaysirb0b5f1/DASH_270.mp4?source=fallback
+2025-06-06 15:39:44,794 - INFO - Downloaded media from https://v.redd.it/dhaysirb0b5f1/DASH_270.mp4?source=fallback to temp_video.mp4
+2025-06-06 15:39:44,841 - INFO - Downloaded media from https://v.redd.it/dhaysirb0b5f1/DASH_270.mp4?source=fallback to temp_audio.mp4
+2025-06-06 15:39:45,177 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-06 15:39:46,892 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
