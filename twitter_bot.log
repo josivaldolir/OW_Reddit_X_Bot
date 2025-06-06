@@ -1677,3 +1677,12 @@ Now it's 2, 5, and 10 matches (with every win grant double progress)
 2025-06-06 18:21:40,318 - INFO - Video Path: 
 2025-06-06 18:21:40,368 - INFO - Downloaded media from https://preview.redd.it/aet2rszw5c5f1.png?auto=webp&s=005e1a4c54f532e1c062df23bb3b85d0f8d826f4 to temp_image.jpg
 2025-06-06 18:21:41,193 - INFO - Posted content successfully. Tweet ID: 1931053896862179425
+2025-06-06 18:48:30,679 - INFO - Content: Guys I think there's a sniper
+
+2025-06-06 18:48:30,679 - INFO - Image Paths: ['https://external-preview.redd.it/M21lOTExcGIwYjVmMWg3BZk_8iS8FoYd9OylPZFiPc2XK2QwM4umTIgrSknc.png?format=pjpg&auto=webp&s=8764c19434851b3c22783fc3b4aa0790128c6a4b']
+2025-06-06 18:48:30,679 - INFO - Video Path: https://v.redd.it/dhaysirb0b5f1/DASH_270.mp4?source=fallback
+2025-06-06 18:48:30,762 - INFO - Downloaded media from https://v.redd.it/dhaysirb0b5f1/DASH_270.mp4?source=fallback to temp_video.mp4
+2025-06-06 18:48:30,802 - INFO - Downloaded media from https://v.redd.it/dhaysirb0b5f1/DASH_270.mp4?source=fallback to temp_audio.mp4
+2025-06-06 18:48:31,323 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-06 18:48:33,149 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
