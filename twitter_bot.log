@@ -1489,3 +1489,13 @@ Too Many Requests
 2025-06-06 06:23:16,851 - INFO - Downloaded media from https://preview.redd.it/3nls7jtkf55f1.jpeg?auto=webp&s=418f544d0fc81ff56826280d1ace8459fa1f7260 to temp_image.jpg
 2025-06-06 06:23:17,677 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-06 06:52:40,646 - INFO - Content: Widowmaker x Cammy fan art, by me
+Hey every one!, i made this fan art based on the new concept of Widowmaker with Cammy, I'm not sure if we should say Widowmaker cosplaying Cammy, or Cammy cosplaying Widowmaker, but either way, i love Widowmaker and i find Cammy a very interesting character designed, so i def wanted to make a fan art of her. 
+
+  
+Hope you guys like it!, and let me know what other character's fan art would you guys like to see! 
+2025-06-06 06:52:40,646 - INFO - Image Paths: ['https://preview.redd.it/y3a6okmlw75f1.jpeg?auto=webp&s=3bf12c0b077bf7f2fe3871c3fbde8106aa30278e']
+2025-06-06 06:52:40,646 - INFO - Video Path: 
+2025-06-06 06:52:40,879 - INFO - Downloaded media from https://preview.redd.it/y3a6okmlw75f1.jpeg?auto=webp&s=3bf12c0b077bf7f2fe3871c3fbde8106aa30278e to temp_image.jpg
+2025-06-06 06:52:42,367 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
