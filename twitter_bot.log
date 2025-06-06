@@ -1694,3 +1694,9 @@ Too Many Requests
 2025-06-06 19:12:41,330 - INFO - Downloaded media from https://v.redd.it/dhaysirb0b5f1/DASH_270.mp4?source=fallback to temp_audio.mp4
 2025-06-06 19:12:41,705 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-06 19:12:43,821 - INFO - Posted content successfully. Tweet ID: 1931066742979055760
+2025-06-06 19:35:39,681 - INFO - Content: Support is the new DPS
+
+2025-06-06 19:35:39,681 - INFO - Image Paths: ['https://preview.redd.it/aayuso2lcc5f1.png?auto=webp&s=0250ad28cca20ac6df87fd0565ba4831f3ee39f0']
+2025-06-06 19:35:39,681 - INFO - Video Path: 
+2025-06-06 19:35:39,739 - INFO - Downloaded media from https://preview.redd.it/aayuso2lcc5f1.png?auto=webp&s=0250ad28cca20ac6df87fd0565ba4831f3ee39f0 to temp_image.jpg
+2025-06-06 19:35:41,083 - INFO - Posted content successfully. Tweet ID: 1931072517549998471
