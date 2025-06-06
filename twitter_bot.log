@@ -1762,3 +1762,17 @@ For better resolution and details:
 2025-06-06 23:14:55,653 - INFO - Downloaded media from https://preview.redd.it/bxqrhpncoc5f1.png?width=4000&format=png&auto=webp&s=c2af3ab766b9262b42aa00db6ffd183a92a1129f to temp_image.jpg
 2025-06-06 23:14:56,490 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-06 23:38:33,910 - INFO - Content: Overwatch x NARUTO - Fan-made Collab Skins - Concept Art
+I brought back my **Genji x Naruto** & **Hanzo x Sasuke** concept back from 2017-18, **improved and expanded** ft. Kiriko x Sakura now! -I know, *''Another Kiriko skin >:( ?!''*, but c'mon, 3 ninja chars X 3 ninja chars is a perfect match!  
+  
+I also made a whole **ViDoc** going through all the details and references I put in these designs: [https://youtu.be/zhV9PR-ls9o](https://youtu.be/zhV9PR-ls9o)
+
+For better resolution and details:  
+[https://www.artstation.com/artwork/AZWZLm](https://www.artstation.com/artwork/AZWZLm)
+2025-06-06 23:38:33,910 - INFO - Image Paths: ['https://preview.redd.it/ja71a201pc5f1.png?width=5760&format=png&auto=webp&s=8206489b566f4f39d5550a993e9c629db81334d2', 'https://preview.redd.it/panxdgncoc5f1.png?width=4000&format=png&auto=webp&s=b7e3b6bff6ee03e3c02e0eb81988d051de11a238', 'https://preview.redd.it/nrezjmncoc5f1.png?width=4000&format=png&auto=webp&s=46b0787a3ffe5b3099bdebe98b6715b4d18b893a', 'https://preview.redd.it/bxqrhpncoc5f1.png?width=4000&format=png&auto=webp&s=c2af3ab766b9262b42aa00db6ffd183a92a1129f']
+2025-06-06 23:38:33,910 - INFO - Video Path: 
+2025-06-06 23:38:34,123 - INFO - Downloaded media from https://preview.redd.it/ja71a201pc5f1.png?width=5760&format=png&auto=webp&s=8206489b566f4f39d5550a993e9c629db81334d2 to temp_image.jpg
+2025-06-06 23:38:35,351 - INFO - Downloaded media from https://preview.redd.it/panxdgncoc5f1.png?width=4000&format=png&auto=webp&s=b7e3b6bff6ee03e3c02e0eb81988d051de11a238 to temp_image.jpg
+2025-06-06 23:38:36,176 - INFO - Downloaded media from https://preview.redd.it/nrezjmncoc5f1.png?width=4000&format=png&auto=webp&s=46b0787a3ffe5b3099bdebe98b6715b4d18b893a to temp_image.jpg
+2025-06-06 23:38:37,155 - INFO - Downloaded media from https://preview.redd.it/bxqrhpncoc5f1.png?width=4000&format=png&auto=webp&s=c2af3ab766b9262b42aa00db6ffd183a92a1129f to temp_image.jpg
+2025-06-06 23:38:40,542 - INFO - Posted content successfully. Tweet ID: 1931133660390216159
