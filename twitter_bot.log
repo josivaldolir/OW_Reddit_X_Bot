@@ -1447,3 +1447,10 @@ Too Many Requests
 2025-06-06 02:59:01,321 - INFO - Downloaded media from https://preview.redd.it/nh3rzao4375f1.jpg?width=1868&format=pjpg&auto=webp&s=2e7a078014d33dba719e54d2bc0424c4b77954f2 to temp_image.jpg
 2025-06-06 02:59:02,592 - INFO - Downloaded media from https://preview.redd.it/gv0s1aq4375f1.jpg?width=1868&format=pjpg&auto=webp&s=519993d3b41ea5768482ac05b72bd508dc248023 to temp_image.jpg
 2025-06-06 02:59:04,382 - INFO - Posted content successfully. Tweet ID: 1930821712448499717
+2025-06-06 03:48:25,906 - INFO - Content: It can't be a coincidence
+
+2025-06-06 03:48:25,906 - INFO - Image Paths: ['https://preview.redd.it/3nls7jtkf55f1.jpeg?auto=webp&s=418f544d0fc81ff56826280d1ace8459fa1f7260']
+2025-06-06 03:48:25,906 - INFO - Video Path: 
+2025-06-06 03:48:25,991 - INFO - Downloaded media from https://preview.redd.it/3nls7jtkf55f1.jpeg?auto=webp&s=418f544d0fc81ff56826280d1ace8459fa1f7260 to temp_image.jpg
+2025-06-06 03:48:27,113 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
