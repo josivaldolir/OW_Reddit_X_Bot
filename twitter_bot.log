@@ -1561,3 +1561,10 @@ I feel like 30 matches (20 if you have 50% winrate) is too much for a day, no?
 2025-06-06 10:47:02,595 - INFO - Downloaded media from https://v.redd.it/rswn4ioen05f1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-06-06 10:47:06,204 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-06 10:47:10,514 - INFO - Posted content successfully. Tweet ID: 1930939515813941488
+2025-06-06 11:14:50,374 - INFO - Content: Who likes Lifeweaver?
+I'm a healer, and I like handsome long-haired characters, and I especially like the voice actor. There are a lot of people who don't like him because he's a pan-sexual. The skin is pretty. Oh, except for Eros skin. 😂
+2025-06-06 11:14:50,374 - INFO - Image Paths: ['https://preview.redd.it/54xeyubqc85f1.jpeg?auto=webp&s=21320deef0ee8541608d068ff381fafdeb61e7b3']
+2025-06-06 11:14:50,374 - INFO - Video Path: 
+2025-06-06 11:14:50,819 - INFO - Downloaded media from https://preview.redd.it/54xeyubqc85f1.jpeg?auto=webp&s=21320deef0ee8541608d068ff381fafdeb61e7b3 to temp_image.jpg
+2025-06-06 11:14:51,984 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
