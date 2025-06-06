@@ -1700,3 +1700,9 @@ Too Many Requests
 2025-06-06 19:35:39,681 - INFO - Video Path: 
 2025-06-06 19:35:39,739 - INFO - Downloaded media from https://preview.redd.it/aayuso2lcc5f1.png?auto=webp&s=0250ad28cca20ac6df87fd0565ba4831f3ee39f0 to temp_image.jpg
 2025-06-06 19:35:41,083 - INFO - Posted content successfully. Tweet ID: 1931072517549998471
+2025-06-06 20:17:46,945 - INFO - Content: There is something wrong with the Iris
+
+2025-06-06 20:17:46,945 - INFO - Image Paths: ['https://preview.redd.it/jabv71k00d5f1.jpeg?auto=webp&s=542c3cf77ec138757aef9d07f7ec9528fd1525ac']
+2025-06-06 20:17:46,945 - INFO - Video Path: 
+2025-06-06 20:17:47,028 - INFO - Downloaded media from https://preview.redd.it/jabv71k00d5f1.jpeg?auto=webp&s=542c3cf77ec138757aef9d07f7ec9528fd1525ac to temp_image.jpg
+2025-06-06 20:17:47,820 - INFO - Posted content successfully. Tweet ID: 1931083117504147689
