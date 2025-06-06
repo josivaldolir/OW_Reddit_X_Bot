@@ -1568,3 +1568,10 @@ I'm a healer, and I like handsome long-haired characters, and I especially like 
 2025-06-06 11:14:50,819 - INFO - Downloaded media from https://preview.redd.it/54xeyubqc85f1.jpeg?auto=webp&s=21320deef0ee8541608d068ff381fafdeb61e7b3 to temp_image.jpg
 2025-06-06 11:14:51,984 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-06 11:37:32,417 - INFO - Content: Who likes Lifeweaver?
+I'm a healer, and I like handsome long-haired characters, and I especially like the voice actor. There are a lot of people who don't like him because he's a pan-sexual. The skin is pretty. Oh, except for Eros skin. 😂
+2025-06-06 11:37:32,417 - INFO - Image Paths: ['https://preview.redd.it/54xeyubqc85f1.jpeg?auto=webp&s=21320deef0ee8541608d068ff381fafdeb61e7b3']
+2025-06-06 11:37:32,417 - INFO - Video Path: 
+2025-06-06 11:37:32,460 - INFO - Downloaded media from https://preview.redd.it/54xeyubqc85f1.jpeg?auto=webp&s=21320deef0ee8541608d068ff381fafdeb61e7b3 to temp_image.jpg
+2025-06-06 11:37:33,296 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
