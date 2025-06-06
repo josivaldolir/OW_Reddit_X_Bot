@@ -1637,3 +1637,13 @@ Too Many Requests
 2025-06-06 15:39:45,177 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-06 15:39:46,892 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-06 16:20:06,054 - INFO - Content: The junkrat tried at least
+tick tock tick tock
+Credits to @avaeia on tiktok~~
+2025-06-06 16:20:06,054 - INFO - Image Paths: ['https://external-preview.redd.it/NWh6MWZydHV1YjVmMevBwZlot0s8S2S8DBlRU3Ek9ywst0mnc3wTrHdS-DSr.png?format=pjpg&auto=webp&s=23fc5061c1836bac6491aa2d67d80c3e71e756c9']
+2025-06-06 16:20:06,054 - INFO - Video Path: https://v.redd.it/l0sfjssuub5f1/DASH_1080.mp4?source=fallback
+2025-06-06 16:20:06,109 - INFO - Downloaded media from https://v.redd.it/l0sfjssuub5f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-06 16:20:06,143 - INFO - Downloaded media from https://v.redd.it/l0sfjssuub5f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-06 16:20:06,474 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-06 16:20:10,869 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
