@@ -1665,3 +1665,9 @@ Credits to @avaeia on tiktok~~
 2025-06-06 17:14:15,462 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-06 17:14:17,337 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-06 17:41:20,714 - INFO - Content: One of Moiras rabbits escaped.
+
+2025-06-06 17:41:20,714 - INFO - Image Paths: ['https://preview.redd.it/34etxriteb5f1.png?auto=webp&s=9f149611e285884d449cb892c67fb92a5e70eefa']
+2025-06-06 17:41:20,714 - INFO - Video Path: 
+2025-06-06 17:41:20,994 - INFO - Downloaded media from https://preview.redd.it/34etxriteb5f1.png?auto=webp&s=9f149611e285884d449cb892c67fb92a5e70eefa to temp_image.jpg
+2025-06-06 17:41:24,014 - INFO - Posted content successfully. Tweet ID: 1931043750727614586
