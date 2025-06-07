@@ -2111,3 +2111,11 @@ Finally back with more Kiri photos from April =\^\^=! The hunt for a red 'bike' 
 2025-06-07 22:14:15,703 - INFO - Downloaded media from https://preview.redd.it/3uvohm29zj5f1.jpg?width=2658&format=pjpg&auto=webp&s=e6287b06f6eb87fda50580e4b00b83bd7888348a to temp_image.jpg
 2025-06-07 22:14:17,401 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-07 22:40:50,853 - INFO - Content: Neighbor's WiFi be like :
+
+2025-06-07 22:40:50,853 - INFO - Image Paths: ['https://external-preview.redd.it/ZHJxeXZjZ2dkazVmMQ6t6l5QNZ8s-_8wXAAxGy7ie3HyPafYP9_PkHFCJrrp.png?format=pjpg&auto=webp&s=4e674782f5de27d46a58d00b9de8218b1c8631ea']
+2025-06-07 22:40:50,853 - INFO - Video Path: https://v.redd.it/1zz52aegdk5f1/DASH_480.mp4?source=fallback
+2025-06-07 22:40:51,262 - INFO - Downloaded media from https://v.redd.it/1zz52aegdk5f1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-06-07 22:40:51,349 - INFO - Downloaded media from https://v.redd.it/1zz52aegdk5f1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-06-07 22:40:51,814 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-07 22:40:56,635 - INFO - Posted content successfully. Tweet ID: 1931481529479516267
