@@ -1991,3 +1991,10 @@ the sojourn was trying stand in front of me and protect me at the end lol. so sa
 2025-06-07 15:14:35,629 - INFO - Downloaded media from https://preview.redd.it/29p7rtvbpi5f1.png?auto=webp&s=598e36e8a5ee609a0d648a00b3d0d9be52f561ec to temp_image.jpg
 2025-06-07 15:14:36,228 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-07 15:38:26,472 - INFO - Content: I think I like that name...
+
+2025-06-07 15:38:26,472 - INFO - Image Paths: ['https://preview.redd.it/29p7rtvbpi5f1.png?auto=webp&s=598e36e8a5ee609a0d648a00b3d0d9be52f561ec']
+2025-06-07 15:38:26,472 - INFO - Video Path: 
+2025-06-07 15:38:26,496 - INFO - Downloaded media from https://preview.redd.it/29p7rtvbpi5f1.png?auto=webp&s=598e36e8a5ee609a0d648a00b3d0d9be52f561ec to temp_image.jpg
+2025-06-07 15:38:27,175 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
