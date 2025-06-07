@@ -2047,3 +2047,14 @@ My whole team had just died and it was the last fight, so no reason not to ult 1
 2025-06-07 18:45:22,281 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-07 18:45:29,529 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-07 19:11:32,183 - INFO - Content: Every AP Reaper's Dream
+Full AP, and some ability life steal mixed in.
+
+My whole team had just died and it was the last fight, so no reason not to ult 1v5 and hope for the best!
+2025-06-07 19:11:32,183 - INFO - Image Paths: ['https://external-preview.redd.it/dmM4Y3pubXZ4aTVmMTl5ILA8obmuIXp7jPAOfQkVbMBRHWS93YPYqUMZRWK2.png?format=pjpg&auto=webp&s=2f576f5ef59f1032774b4a904f51474397569963']
+2025-06-07 19:11:32,183 - INFO - Video Path: https://v.redd.it/55l14pmvxi5f1/DASH_1080.mp4?source=fallback
+2025-06-07 19:11:32,319 - INFO - Downloaded media from https://v.redd.it/55l14pmvxi5f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-07 19:11:32,395 - INFO - Downloaded media from https://v.redd.it/55l14pmvxi5f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-07 19:11:36,175 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-07 19:11:45,436 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
