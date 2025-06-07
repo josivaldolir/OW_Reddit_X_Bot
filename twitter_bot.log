@@ -1984,3 +1984,10 @@ the sojourn was trying stand in front of me and protect me at the end lol. so sa
 2025-06-07 14:39:16,438 - INFO - Downloaded media from https://v.redd.it/9vtu53l8ci5f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-06-07 14:39:17,166 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-07 14:39:21,879 - INFO - Posted content successfully. Tweet ID: 1931360336092778798
+2025-06-07 15:14:35,595 - INFO - Content: I think I like that name...
+
+2025-06-07 15:14:35,595 - INFO - Image Paths: ['https://preview.redd.it/29p7rtvbpi5f1.png?auto=webp&s=598e36e8a5ee609a0d648a00b3d0d9be52f561ec']
+2025-06-07 15:14:35,595 - INFO - Video Path: 
+2025-06-07 15:14:35,629 - INFO - Downloaded media from https://preview.redd.it/29p7rtvbpi5f1.png?auto=webp&s=598e36e8a5ee609a0d648a00b3d0d9be52f561ec to temp_image.jpg
+2025-06-07 15:14:36,228 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
