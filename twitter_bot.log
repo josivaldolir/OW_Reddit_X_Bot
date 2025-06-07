@@ -2099,3 +2099,15 @@ Too Many Requests
 2025-06-07 21:37:18,046 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-07 21:37:23,038 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-07 22:14:12,967 - INFO - Content: Wait 'til you see me on my bike // My Kiriko Cosplay!
+# ° Wait 'til you see me on my bike ° Finally did the thing 🏍️!
+
+Finally back with more Kiri photos from April =\^\^=! The hunt for a red 'bike' was exceptionally difficult for some strange reason. || cosplayer - myself (IG) [nierlios ](https://www.instagram.com/nierlios/)| photographer - (IG) [cielstrom](https://www.instagram.com/cielstrom/)
+2025-06-07 22:14:12,967 - INFO - Image Paths: ['https://preview.redd.it/3f2t11dwxj5f1.jpg?width=2000&format=pjpg&auto=webp&s=89d7f0ed38ebbcac5f027df50294068043546751', 'https://preview.redd.it/4fo255dwxj5f1.jpg?width=2000&format=pjpg&auto=webp&s=cb71458b4bedd09597f178a1d25f4ea534906a8f', 'https://preview.redd.it/npesc4dwxj5f1.jpg?width=2000&format=pjpg&auto=webp&s=8ff8f72720e526bbce9b1938e06d0175baabba37', 'https://preview.redd.it/3uvohm29zj5f1.jpg?width=2658&format=pjpg&auto=webp&s=e6287b06f6eb87fda50580e4b00b83bd7888348a']
+2025-06-07 22:14:12,967 - INFO - Video Path: 
+2025-06-07 22:14:13,155 - INFO - Downloaded media from https://preview.redd.it/3f2t11dwxj5f1.jpg?width=2000&format=pjpg&auto=webp&s=89d7f0ed38ebbcac5f027df50294068043546751 to temp_image.jpg
+2025-06-07 22:14:13,871 - INFO - Downloaded media from https://preview.redd.it/4fo255dwxj5f1.jpg?width=2000&format=pjpg&auto=webp&s=cb71458b4bedd09597f178a1d25f4ea534906a8f to temp_image.jpg
+2025-06-07 22:14:14,778 - INFO - Downloaded media from https://preview.redd.it/npesc4dwxj5f1.jpg?width=2000&format=pjpg&auto=webp&s=8ff8f72720e526bbce9b1938e06d0175baabba37 to temp_image.jpg
+2025-06-07 22:14:15,703 - INFO - Downloaded media from https://preview.redd.it/3uvohm29zj5f1.jpg?width=2658&format=pjpg&auto=webp&s=e6287b06f6eb87fda50580e4b00b83bd7888348a to temp_image.jpg
+2025-06-07 22:14:17,401 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
