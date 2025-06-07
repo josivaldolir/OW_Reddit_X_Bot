@@ -1822,3 +1822,9 @@ So I now want to take a moment to apologize to all these stadium teammates I wat
 2025-06-07 04:44:14,949 - INFO - Image Paths: []
 2025-06-07 04:44:14,950 - INFO - Video Path: 
 2025-06-07 04:44:15,223 - INFO - Posted content successfully. Tweet ID: 1931210571652993244
+2025-06-07 05:16:02,711 - INFO - Content: I used up all my luck to hit that
+
+2025-06-07 05:16:02,711 - INFO - Image Paths: ['https://preview.redd.it/56johtyvmf5f1.jpeg?auto=webp&s=88337c511d3c4f719ce200941021aa64614fae67']
+2025-06-07 05:16:02,711 - INFO - Video Path: 
+2025-06-07 05:16:02,931 - INFO - Downloaded media from https://preview.redd.it/56johtyvmf5f1.jpeg?auto=webp&s=88337c511d3c4f719ce200941021aa64614fae67 to temp_image.jpg
+2025-06-07 05:16:03,691 - INFO - Posted content successfully. Tweet ID: 1931218576159166563
