@@ -2081,3 +2081,12 @@ The difference is so big like i won almost all games before the weekend then the
 2025-06-07 20:38:58,603 - INFO - Downloaded media from https://preview.redd.it/eoyuwmmpij5f1.jpg?width=1800&format=pjpg&auto=webp&s=5168b70e465a27a3496e275c4e31b354d73f74dd to temp_image.jpg
 2025-06-07 20:38:59,890 - INFO - Downloaded media from https://preview.redd.it/17369fxpij5f1.jpg?width=1800&format=pjpg&auto=webp&s=c3eb02ebe243e86a1f1bdd57f87246534d6e5d32 to temp_image.jpg
 2025-06-07 20:39:01,977 - INFO - Posted content successfully. Tweet ID: 1931450847210180894
+2025-06-07 21:14:55,051 - INFO - Content: Neighbor's WiFi be like :
+
+2025-06-07 21:14:55,051 - INFO - Image Paths: ['https://external-preview.redd.it/ZHJxeXZjZ2dkazVmMQ6t6l5QNZ8s-_8wXAAxGy7ie3HyPafYP9_PkHFCJrrp.png?format=pjpg&auto=webp&s=4e674782f5de27d46a58d00b9de8218b1c8631ea']
+2025-06-07 21:14:55,051 - INFO - Video Path: https://v.redd.it/1zz52aegdk5f1/DASH_480.mp4?source=fallback
+2025-06-07 21:14:55,170 - INFO - Downloaded media from https://v.redd.it/1zz52aegdk5f1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-06-07 21:14:55,208 - INFO - Downloaded media from https://v.redd.it/1zz52aegdk5f1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-06-07 21:14:56,040 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-07 21:15:05,546 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
