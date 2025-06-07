@@ -2012,3 +2012,10 @@ Too Many Requests
 2025-06-07 16:47:30,274 - INFO - Downloaded media from https://preview.redd.it/29p7rtvbpi5f1.png?auto=webp&s=598e36e8a5ee609a0d648a00b3d0d9be52f561ec to temp_image.jpg
 2025-06-07 16:47:30,999 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-07 17:12:40,372 - INFO - Content: I think I like that name...
+
+2025-06-07 17:12:40,372 - INFO - Image Paths: ['https://preview.redd.it/29p7rtvbpi5f1.png?auto=webp&s=598e36e8a5ee609a0d648a00b3d0d9be52f561ec']
+2025-06-07 17:12:40,372 - INFO - Video Path: 
+2025-06-07 17:12:40,417 - INFO - Downloaded media from https://preview.redd.it/29p7rtvbpi5f1.png?auto=webp&s=598e36e8a5ee609a0d648a00b3d0d9be52f561ec to temp_image.jpg
+2025-06-07 17:12:41,109 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
