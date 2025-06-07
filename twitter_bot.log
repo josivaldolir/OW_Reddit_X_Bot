@@ -1783,3 +1783,10 @@ For better resolution and details:
 2025-06-07 01:13:48,511 - INFO - Downloaded media from https://preview.redd.it/u8eu444t8e5f1.png?auto=webp&s=6b358e32f5ce4fcc257db3771862729e6116ade0 to temp_image.jpg
 2025-06-07 01:13:49,357 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-07 02:56:11,311 - INFO - Content: Happy birthday Winton :)
+
+2025-06-07 02:56:11,311 - INFO - Image Paths: ['https://preview.redd.it/u8eu444t8e5f1.png?auto=webp&s=6b358e32f5ce4fcc257db3771862729e6116ade0']
+2025-06-07 02:56:11,311 - INFO - Video Path: 
+2025-06-07 02:56:11,367 - INFO - Downloaded media from https://preview.redd.it/u8eu444t8e5f1.png?auto=webp&s=6b358e32f5ce4fcc257db3771862729e6116ade0 to temp_image.jpg
+2025-06-07 02:56:12,077 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
