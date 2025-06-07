@@ -1949,3 +1949,11 @@ Credits to @antagonist.ow on tiktok 🤍
 2025-06-07 11:37:18,850 - INFO - Video Path: 
 2025-06-07 11:37:19,108 - INFO - Downloaded media from https://preview.redd.it/6tkrib342h5f1.png?auto=webp&s=e44fe1707b5257c6e69aabc4ff8ecaa7a34e153c to temp_image.jpg
 2025-06-07 11:37:20,319 - INFO - Posted content successfully. Tweet ID: 1931314526982684964
+2025-06-07 12:28:12,744 - INFO - Content: Good aim (My aim isn't always like this)
+
+2025-06-07 12:28:12,744 - INFO - Image Paths: ['https://external-preview.redd.it/N3BjcGx4Z2c2ZTVmMesk4fsW_0dPw4D0GPH64Et99ln3dnjgjH4Wcx_nmNmx.png?format=pjpg&auto=webp&s=c1aa3140f4449e1f26346737da538244f91c74c0']
+2025-06-07 12:28:12,744 - INFO - Video Path: https://v.redd.it/93s3d6dg6e5f1/DASH_1080.mp4?source=fallback
+2025-06-07 12:28:13,007 - INFO - Downloaded media from https://v.redd.it/93s3d6dg6e5f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-07 12:28:13,145 - INFO - Downloaded media from https://v.redd.it/93s3d6dg6e5f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-07 12:28:13,464 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-07 12:28:20,952 - INFO - Posted content successfully. Tweet ID: 1931327364937429046
