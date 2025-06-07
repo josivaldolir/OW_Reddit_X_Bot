@@ -2025,3 +2025,14 @@ Too Many Requests
 2025-06-07 17:38:21,123 - INFO - Video Path: 
 2025-06-07 17:38:21,363 - INFO - Downloaded media from https://preview.redd.it/29p7rtvbpi5f1.png?auto=webp&s=598e36e8a5ee609a0d648a00b3d0d9be52f561ec to temp_image.jpg
 2025-06-07 17:38:22,652 - INFO - Posted content successfully. Tweet ID: 1931405384843186345
+2025-06-07 18:19:48,182 - INFO - Content: Every AP Reaper's Dream
+Full AP, and some ability life steal mixed in.
+
+My whole team had just died and it was the last fight, so no reason not to ult 1v5 and hope for the best!
+2025-06-07 18:19:48,182 - INFO - Image Paths: ['https://external-preview.redd.it/dmM4Y3pubXZ4aTVmMTl5ILA8obmuIXp7jPAOfQkVbMBRHWS93YPYqUMZRWK2.png?format=pjpg&auto=webp&s=2f576f5ef59f1032774b4a904f51474397569963']
+2025-06-07 18:19:48,182 - INFO - Video Path: https://v.redd.it/55l14pmvxi5f1/DASH_1080.mp4?source=fallback
+2025-06-07 18:19:48,638 - INFO - Downloaded media from https://v.redd.it/55l14pmvxi5f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-07 18:19:48,701 - INFO - Downloaded media from https://v.redd.it/55l14pmvxi5f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-07 18:19:49,035 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-07 18:19:56,605 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
