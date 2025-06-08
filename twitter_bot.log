@@ -2487,3 +2487,9 @@ Too Many Requests
 2025-06-08 14:13:05,263 - INFO - Downloaded media from https://preview.redd.it/8mdxbd683p5f1.jpeg?auto=webp&s=f6877085e44b61c700bec10d8b5858938cf71508 to temp_image.jpg
 2025-06-08 14:13:06,212 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-08 14:39:21,504 - INFO - Content: I pulled a little sneaky on y'all
+
+2025-06-08 14:39:21,504 - INFO - Image Paths: ['https://preview.redd.it/8mdxbd683p5f1.jpeg?auto=webp&s=f6877085e44b61c700bec10d8b5858938cf71508']
+2025-06-08 14:39:21,504 - INFO - Video Path: 
+2025-06-08 14:39:21,743 - INFO - Downloaded media from https://preview.redd.it/8mdxbd683p5f1.jpeg?auto=webp&s=f6877085e44b61c700bec10d8b5858938cf71508 to temp_image.jpg
+2025-06-08 14:39:23,019 - INFO - Posted content successfully. Tweet ID: 1931722728173957360
