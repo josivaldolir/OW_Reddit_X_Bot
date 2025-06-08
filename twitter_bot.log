@@ -2530,3 +2530,12 @@ Actual Looney Tunes grade activity.
 2025-06-08 17:12:45,465 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-08 17:12:47,790 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-08 17:38:09,622 - INFO - Content: gg wp
+
+2025-06-08 17:38:09,623 - INFO - Image Paths: ['https://external-preview.redd.it/MXZ5MWtxa3NicTVmMZvtWTicS_T9N4IKkel_peJLa-zNsSuhPCUepsZYpnNV.png?format=pjpg&auto=webp&s=1d6928ebe077d03c3f5777da6d1f76155d8756e4']
+2025-06-08 17:38:09,623 - INFO - Video Path: https://v.redd.it/foommahsbq5f1/DASH_480.mp4?source=fallback
+2025-06-08 17:38:09,894 - INFO - Downloaded media from https://v.redd.it/foommahsbq5f1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-06-08 17:38:09,975 - INFO - Downloaded media from https://v.redd.it/foommahsbq5f1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-06-08 17:38:10,458 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-08 17:38:12,334 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
