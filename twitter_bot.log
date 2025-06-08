@@ -2588,3 +2588,11 @@ New to overwatch and I lost every match over about 5 days snice I unlocked comp
 2025-06-08 21:13:24,152 - INFO - Video Path: 
 2025-06-08 21:13:24,334 - INFO - Downloaded media from https://external-preview.redd.it/Qt4cbtSjm-T_PAO0yp54RpfjhuHIIXrGY_CC2GPshis.jpg?auto=webp&s=93da80d6bc171243f78e37cc352cd56b88af7a34 to temp_image.jpg
 2025-06-08 21:13:25,682 - INFO - Posted content successfully. Tweet ID: 1931821892031094899
+2025-06-08 21:36:14,004 - INFO - Content: Clutch nades from spawn
+I hit them fairly often but Im looking to save a teammate or clutch finish an enemy with these 
+2025-06-08 21:36:14,004 - INFO - Image Paths: ['https://external-preview.redd.it/N2RxbXIxOG0yZTRmMUGqosMbcaFN9kq8nPHHZVONdYZvWLfO0_9y8VneemSH.png?format=pjpg&auto=webp&s=52ca15ec9e75c461f22554087f016ba86647b41a']
+2025-06-08 21:36:14,004 - INFO - Video Path: https://v.redd.it/clj9jawk2e4f1/DASH_1080.mp4?source=fallback
+2025-06-08 21:36:15,251 - INFO - Downloaded media from https://v.redd.it/clj9jawk2e4f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-08 21:36:15,346 - INFO - Downloaded media from https://v.redd.it/clj9jawk2e4f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-08 21:36:15,785 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-08 21:36:23,714 - INFO - Posted content successfully. Tweet ID: 1931827673090633964
