@@ -2555,3 +2555,10 @@ Too Many Requests
 2025-06-08 18:45:52,655 - INFO - Downloaded media from https://v.redd.it/vunmz8y0wo5f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-06-08 18:45:53,156 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-08 18:45:58,069 - INFO - Posted content successfully. Tweet ID: 1931784783711129659
+2025-06-08 19:11:59,238 - INFO - Content: My friend made a tier list of how smart the chars are. I disagree but need some good reasoning. Its even sorted in the rows.
+
+2025-06-08 19:11:59,238 - INFO - Image Paths: ['https://preview.redd.it/gfm66w2tqq5f1.png?auto=webp&s=37f2be12c0c6138a1258846ca5b94b46ede08127']
+2025-06-08 19:11:59,238 - INFO - Video Path: 
+2025-06-08 19:11:59,396 - INFO - Downloaded media from https://preview.redd.it/gfm66w2tqq5f1.png?auto=webp&s=37f2be12c0c6138a1258846ca5b94b46ede08127 to temp_image.jpg
+2025-06-08 19:12:00,102 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
