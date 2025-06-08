@@ -2435,3 +2435,12 @@ Please... there isn't really an excuse as to why Sojourn can't be 225HP when Fre
 2025-06-08 10:16:22,545 - INFO - Image Paths: []
 2025-06-08 10:16:22,545 - INFO - Video Path: 
 2025-06-08 10:16:22,830 - INFO - Posted content successfully. Tweet ID: 1931656541956091974
+2025-06-08 10:42:22,524 - INFO - Content: I’m never trusting a Doomfist ever again🥲
+Can’t have shit in Eichenwalde
+2025-06-08 10:42:22,525 - INFO - Image Paths: ['https://external-preview.redd.it/Z2wzZDcyOTV6ZzRmMSV_6xc11U2oszi2wy7jGPRAmUhbQDsCBCZMBhJW5Hmv.png?format=pjpg&auto=webp&s=53547cc7a17152b718010637deb397e8b19f1e60']
+2025-06-08 10:42:22,525 - INFO - Video Path: https://v.redd.it/nakjbhh5zg4f1/DASH_1080.mp4?source=fallback
+2025-06-08 10:42:23,876 - INFO - Downloaded media from https://v.redd.it/nakjbhh5zg4f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-08 10:42:24,138 - INFO - Downloaded media from https://v.redd.it/nakjbhh5zg4f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-08 10:42:24,515 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-08 10:42:33,575 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
