@@ -2493,3 +2493,11 @@ Too Many Requests
 2025-06-08 14:39:21,504 - INFO - Video Path: 
 2025-06-08 14:39:21,743 - INFO - Downloaded media from https://preview.redd.it/8mdxbd683p5f1.jpeg?auto=webp&s=f6877085e44b61c700bec10d8b5858938cf71508 to temp_image.jpg
 2025-06-08 14:39:23,019 - INFO - Posted content successfully. Tweet ID: 1931722728173957360
+2025-06-08 15:15:26,606 - INFO - Content: Reinhardt cosplay
+Some asked if I could move in the Reinhardt armor so here it is in motion: Yes you can walk and everything however its quite bulky and my room isn‘t really built for Reinhardt dimensions. I will add a realistic jetpack to this now but then test it outside next time I learned my lesson
+2025-06-08 15:15:26,606 - INFO - Image Paths: ['https://external-preview.redd.it/bDA4MTJ0eTAycDVmMV-F2g_yoyQVxEXZO_OKcIKyY-W3E58-Aso_TGdWb6iV.png?format=pjpg&auto=webp&s=9d0a095eae573baf44f283d542d5f5c9aba6da87']
+2025-06-08 15:15:26,606 - INFO - Video Path: https://v.redd.it/fjof7l412p5f1/DASH_1080.mp4?source=fallback
+2025-06-08 15:15:26,749 - INFO - Downloaded media from https://v.redd.it/fjof7l412p5f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-08 15:15:26,880 - INFO - Downloaded media from https://v.redd.it/fjof7l412p5f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-08 15:15:27,155 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-08 15:15:31,687 - INFO - Posted content successfully. Tweet ID: 1931731824738541657
