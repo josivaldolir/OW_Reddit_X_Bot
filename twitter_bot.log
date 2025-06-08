@@ -2508,3 +2508,10 @@ Actual Looney Tunes grade activity.
 2025-06-08 15:40:53,102 - INFO - Downloaded media from https://preview.redd.it/bvp6caebnp5f1.png?auto=webp&s=c1dc12c39ea79e314963ed7865e9243fe79252c3 to temp_image.jpg
 2025-06-08 15:40:53,770 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-08 16:17:23,368 - INFO - Content: He was foretold
+Actual Looney Tunes grade activity.
+2025-06-08 16:17:23,368 - INFO - Image Paths: ['https://preview.redd.it/bvp6caebnp5f1.png?auto=webp&s=c1dc12c39ea79e314963ed7865e9243fe79252c3']
+2025-06-08 16:17:23,368 - INFO - Video Path: 
+2025-06-08 16:17:23,524 - INFO - Downloaded media from https://preview.redd.it/bvp6caebnp5f1.png?auto=webp&s=c1dc12c39ea79e314963ed7865e9243fe79252c3 to temp_image.jpg
+2025-06-08 16:17:24,278 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
