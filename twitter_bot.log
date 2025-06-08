@@ -2161,3 +2161,34 @@ Thanks for reading. If anyone has insight, I’d really appreciate it.
 2025-06-07 23:38:49,161 - INFO - Downloaded media from https://external-preview.redd.it/GugoGFEx_fnbQ9GAtGuBWcie1yrIZ24QeexvX6RpRMs.jpg?auto=webp&s=87b129e0bf0f79f40e32f876679e30b9d52d472b to temp_image.jpg
 2025-06-07 23:38:49,804 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-08 01:23:08,819 - INFO - Content: Banned for "cheating" after using Freya’s wallhack perk — support won't clarify
+Hey all,
+
+I’m a long-time Overwatch player since OW1 and recently ran into a really frustrating and confusing situation with Blizzard support. About a month ago, I was permanently banned from Overwatch 2 with no warning and no clear explanation — just a generic email citing the Code of Conduct and a violation of the EULA.
+
+Though they did not disclose the reason, I had a strong feeling that it was for cheating due to the most recent game I had played. It was a very lengthy 6v6 ranked placement on Eichenwald, both teams full capped so it ended up going for 4 rounds, and by the end we had won, and I had my personal record kills ever in a match, almost 80. By the end of the game at least 4 players on the enemy team confirmed that they believed I was cheating and reported me, some citing ESP. The worst thing about this is that I was playing Freya and using her "tracking instinct" perk, which literally **gives you wallhacks** on half health players. Throughout the game, there were many instances where this perk let me get an easy prefire kills that I wouldn't normally be able to get, some of which directly resulted in match chat hackusations.
+
+Naturally, I appealed it, thinking it was a mistake. I made many attempts but every support ticket I opened was closed almost immediately with what seemed like copy-pasted replies. No specifics were ever given, just that the ban was for a violation and they wouldn’t go into detail.
+
+It was only after filing a data request, I finally saw what Blizzard had internally labeled the ban as: “**cheating**.” This confirmed my suspicions that my ban was likely the result of the enemy team mass reporting me during that Eichenwald game. This was far from the first time someone has accused me of cheating in game, but as a longstanding legitimate player, I always laughed them off. I have never cheated; no third-party software, no scripts, no hardware macros, nothing.
+
+I politely asked for a human re-review, clarification, or even just what category of cheating it supposedly was (e.g. automation, wallhacks, etc.), but got nothing back beyond more copy-paste denials and a refusal to discuss it further.
+
+I’ll include some images below showing the initial email, ticket replies, and the data logs that label the offense as “cheating.”
+
+[https://imgur.com/a/xIdP4FT](https://imgur.com/a/xIdP4FT)
+
+I’m not posting this expecting Blizzard to reverse the ban here — I know that’s not how this works — but I *am* genuinely wondering:
+
+* Has this happened to anyone else recently?
+* Is there a known false positive issue going around?
+* Any advice from people who’ve navigated this before?
+
+I know it’s easy to assume “if you got banned, you probably cheated,” and I get that skepticism. But I’m being 100% real — this has left me completely confused and disappointed.
+
+Thanks for reading. If anyone has insight, I’d really appreciate it.
+2025-06-08 01:23:08,819 - INFO - Image Paths: ['https://external-preview.redd.it/GugoGFEx_fnbQ9GAtGuBWcie1yrIZ24QeexvX6RpRMs.jpg?auto=webp&s=87b129e0bf0f79f40e32f876679e30b9d52d472b']
+2025-06-08 01:23:08,819 - INFO - Video Path: 
+2025-06-08 01:23:08,990 - INFO - Downloaded media from https://external-preview.redd.it/GugoGFEx_fnbQ9GAtGuBWcie1yrIZ24QeexvX6RpRMs.jpg?auto=webp&s=87b129e0bf0f79f40e32f876679e30b9d52d472b to temp_image.jpg
+2025-06-08 01:23:09,616 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
