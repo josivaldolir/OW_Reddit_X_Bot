@@ -2452,3 +2452,10 @@ Can’t have shit in Eichenwalde
 2025-06-08 11:12:33,752 - INFO - Downloaded media from https://v.redd.it/nakjbhh5zg4f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-06-08 11:12:34,159 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-08 11:12:42,262 - INFO - Posted content successfully. Tweet ID: 1931670716208087226
+2025-06-08 11:36:38,018 - INFO - Content: Am I suppose to lose all my placement matches?
+New to overwatch and I lost every match over about 5 days snice I unlocked comp
+2025-06-08 11:36:38,018 - INFO - Image Paths: ['https://preview.redd.it/7zesqoq7nn5f1.jpeg?auto=webp&s=0debadf8bb62464b226930338f160c22149c4ca8']
+2025-06-08 11:36:38,019 - INFO - Video Path: 
+2025-06-08 11:36:38,164 - INFO - Downloaded media from https://preview.redd.it/7zesqoq7nn5f1.jpeg?auto=webp&s=0debadf8bb62464b226930338f160c22149c4ca8 to temp_image.jpg
+2025-06-08 11:36:38,877 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
