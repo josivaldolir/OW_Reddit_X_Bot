@@ -2258,3 +2258,10 @@ I forgot to mention it in the post, but its definitely worth mentioning as it re
 2025-06-08 04:05:20,445 - INFO - Downloaded media from https://external-preview.redd.it/GugoGFEx_fnbQ9GAtGuBWcie1yrIZ24QeexvX6RpRMs.jpg?auto=webp&s=87b129e0bf0f79f40e32f876679e30b9d52d472b to temp_image.jpg
 2025-06-08 04:05:21,071 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-08 04:49:38,992 - INFO - Content: This character needs to get hit with some more nerfs.
+She”s fun & all but her damage is just too much. I just want to play her without feeling like a criminal
+2025-06-08 04:49:38,992 - INFO - Image Paths: ['https://preview.redd.it/5ekiophs3m5f1.jpeg?auto=webp&s=d6cc486bca4baa2b4e320fdcd6ddf95b85469dd3']
+2025-06-08 04:49:38,992 - INFO - Video Path: 
+2025-06-08 04:49:39,466 - INFO - Downloaded media from https://preview.redd.it/5ekiophs3m5f1.jpeg?auto=webp&s=d6cc486bca4baa2b4e320fdcd6ddf95b85469dd3 to temp_image.jpg
+2025-06-08 04:49:40,137 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
