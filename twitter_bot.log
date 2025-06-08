@@ -2280,3 +2280,12 @@ She”s fun & all but her damage is just too much. I just want to play her witho
 2025-06-08 05:41:52,770 - INFO - Downloaded media from https://preview.redd.it/gz9s9eiaam5f1.jpg?width=3024&format=pjpg&auto=webp&s=3529a3d22836b5a76edd6390f54e576bd0ea6c72 to temp_image.jpg
 2025-06-08 05:41:54,344 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-08 06:22:52,307 - INFO - Content: My Brigitte cosplay (@kawaiitsu)
+
+2025-06-08 06:22:52,307 - INFO - Image Paths: ['https://preview.redd.it/ubzn7qiaam5f1.jpg?width=3107&format=pjpg&auto=webp&s=07ba54ca6860fcfcf4d206d482e0d8630abee5cf', 'https://preview.redd.it/ppe20eiaam5f1.jpg?width=3024&format=pjpg&auto=webp&s=c28a81d5732ec121bc49c16b3c89616229490be1', 'https://preview.redd.it/gz9s9eiaam5f1.jpg?width=3024&format=pjpg&auto=webp&s=3529a3d22836b5a76edd6390f54e576bd0ea6c72']
+2025-06-08 06:22:52,307 - INFO - Video Path: 
+2025-06-08 06:22:52,346 - INFO - Downloaded media from https://preview.redd.it/ubzn7qiaam5f1.jpg?width=3107&format=pjpg&auto=webp&s=07ba54ca6860fcfcf4d206d482e0d8630abee5cf to temp_image.jpg
+2025-06-08 06:22:53,760 - INFO - Downloaded media from https://preview.redd.it/ppe20eiaam5f1.jpg?width=3024&format=pjpg&auto=webp&s=c28a81d5732ec121bc49c16b3c89616229490be1 to temp_image.jpg
+2025-06-08 06:22:55,026 - INFO - Downloaded media from https://preview.redd.it/gz9s9eiaam5f1.jpg?width=3024&format=pjpg&auto=webp&s=3529a3d22836b5a76edd6390f54e576bd0ea6c72 to temp_image.jpg
+2025-06-08 06:22:56,423 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
