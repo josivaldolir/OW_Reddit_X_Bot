@@ -2712,3 +2712,12 @@ I have to type a bunch of random stuff just so I can purchase this. Dang that su
 2025-06-09 07:16:46,810 - INFO - Downloaded media from https://preview.redd.it/uwkgkwoh2t5f1.jpeg?auto=webp&s=c0664db7acd65c7bed305c094bac361cb434349d to temp_image.jpg
 2025-06-09 07:16:47,614 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-09 07:39:21,162 - INFO - Content: They added genji to Fortnite?!
+Knock off genji
+
+I have to type a bunch of random stuff just so I can purchase this. Dang that sucks. Well I guess I’ll do that. I wonder how much I’ll have to type. I hope this will be enough.
+2025-06-09 07:39:21,162 - INFO - Image Paths: ['https://preview.redd.it/uwkgkwoh2t5f1.jpeg?auto=webp&s=c0664db7acd65c7bed305c094bac361cb434349d']
+2025-06-09 07:39:21,162 - INFO - Video Path: 
+2025-06-09 07:39:21,212 - INFO - Downloaded media from https://preview.redd.it/uwkgkwoh2t5f1.jpeg?auto=webp&s=c0664db7acd65c7bed305c094bac361cb434349d to temp_image.jpg
+2025-06-09 07:39:21,917 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
