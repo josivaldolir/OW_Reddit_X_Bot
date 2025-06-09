@@ -2878,3 +2878,10 @@ Too Many Requests
 2025-06-09 18:22:32,278 - INFO - Downloaded media from https://preview.redd.it/lcwbdg6aox5f1.jpeg?auto=webp&s=49e799cf45d05388637414aa8547f74fea085319 to temp_image.jpg
 2025-06-09 18:22:34,708 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-09 18:48:01,660 - INFO - Content: 2 weapon skins in one lootbox
+And i play neither of the two but its cool. Thank you Junkrat.
+2025-06-09 18:48:01,660 - INFO - Image Paths: ['https://preview.redd.it/ch7d1mmrrw5f1.png?auto=webp&s=22e44d8969307949b8075315576e200c485e106f']
+2025-06-09 18:48:01,660 - INFO - Video Path: 
+2025-06-09 18:48:01,698 - INFO - Downloaded media from https://preview.redd.it/ch7d1mmrrw5f1.png?auto=webp&s=22e44d8969307949b8075315576e200c485e106f to temp_image.jpg
+2025-06-09 18:48:02,473 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
