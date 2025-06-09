@@ -2738,3 +2738,11 @@ I have to type a bunch of random stuff just so I can purchase this. Dang that su
 2025-06-09 08:49:05,667 - INFO - Video Path: 
 2025-06-09 08:49:06,568 - INFO - Downloaded media from https://preview.redd.it/uwkgkwoh2t5f1.jpeg?auto=webp&s=c0664db7acd65c7bed305c094bac361cb434349d to temp_image.jpg
 2025-06-09 08:49:07,460 - INFO - Posted content successfully. Tweet ID: 1931996970669019351
+2025-06-09 09:18:40,435 - INFO - Content: Shaking, crying, screaming
+pulled from a regular loot box 😩😩😩
+
+2025-06-09 09:18:40,435 - INFO - Image Paths: ['https://preview.redd.it/ehfc7awpot5f1.png?auto=webp&s=56617b3ac2384dd73e38c3832bbe42c06dd662a2']
+2025-06-09 09:18:40,435 - INFO - Video Path: 
+2025-06-09 09:18:40,590 - INFO - Downloaded media from https://preview.redd.it/ehfc7awpot5f1.png?auto=webp&s=56617b3ac2384dd73e38c3832bbe42c06dd662a2 to temp_image.jpg
+2025-06-09 09:18:41,325 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
