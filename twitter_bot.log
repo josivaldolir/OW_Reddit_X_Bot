@@ -2663,3 +2663,12 @@ At 2:30pm today I got an email from blizzard titled Overwatch - Closure Overturn
 2025-06-09 04:04:10,682 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-09 04:04:14,502 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-09 04:51:12,235 - INFO - Content: Not to nitpick or anything, but why does Ramattra have a breathing animation if he’s an omnic?
+
+2025-06-09 04:51:12,235 - INFO - Image Paths: ['https://external-preview.redd.it/cXI0eDh6ZzFzczVmMVZ_feFdIoqCR8uPKiFN5m_lhxuKSWkOg_IbA38P_sii.png?format=pjpg&auto=webp&s=4eb071e0abc3db246d8638b74c9cc52942801d63']
+2025-06-09 04:51:12,235 - INFO - Video Path: https://v.redd.it/d7lcdri1ss5f1/DASH_480.mp4?source=fallback
+2025-06-09 04:51:12,510 - INFO - Downloaded media from https://v.redd.it/d7lcdri1ss5f1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-06-09 04:51:12,599 - INFO - Downloaded media from https://v.redd.it/d7lcdri1ss5f1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-06-09 04:51:12,926 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-09 04:51:15,241 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
