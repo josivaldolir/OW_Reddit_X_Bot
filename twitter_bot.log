@@ -2687,3 +2687,12 @@ Too Many Requests
 2025-06-09 05:44:17,941 - INFO - Downloaded media from https://v.redd.it/d7lcdri1ss5f1/DASH_480.mp4?source=fallback to temp_audio.mp4
 2025-06-09 05:44:18,535 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-09 05:44:20,370 - INFO - Posted content successfully. Tweet ID: 1931950468290527360
+2025-06-09 06:26:01,011 - INFO - Content: They added genji to Fortnite?!
+Knock off genji
+
+I have to type a bunch of random stuff just so I can purchase this. Dang that sucks. Well I guess I’ll do that. I wonder how much I’ll have to type. I hope this will be enough.
+2025-06-09 06:26:01,011 - INFO - Image Paths: ['https://preview.redd.it/uwkgkwoh2t5f1.jpeg?auto=webp&s=c0664db7acd65c7bed305c094bac361cb434349d']
+2025-06-09 06:26:01,011 - INFO - Video Path: 
+2025-06-09 06:26:01,060 - INFO - Downloaded media from https://preview.redd.it/uwkgkwoh2t5f1.jpeg?auto=webp&s=c0664db7acd65c7bed305c094bac361cb434349d to temp_image.jpg
+2025-06-09 06:26:01,798 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
