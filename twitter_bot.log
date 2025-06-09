@@ -2951,3 +2951,10 @@ We both got drunk one night and decided to make a whole list based on who smelle
 2025-06-09 23:14:59,593 - INFO - Downloaded media from https://preview.redd.it/9wwjfwr40z5f1.jpeg?auto=webp&s=53491ace71b3371c5988fae73cefa8fdf58e9930 to temp_image.jpg
 2025-06-09 23:15:00,298 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-09 23:38:36,403 - INFO - Content: My gf and I had a long discussion about this lol. Thoughts?
+We both got drunk one night and decided to make a whole list based on who smelled like what. 
+2025-06-09 23:38:36,403 - INFO - Image Paths: ['https://preview.redd.it/9wwjfwr40z5f1.jpeg?auto=webp&s=53491ace71b3371c5988fae73cefa8fdf58e9930']
+2025-06-09 23:38:36,403 - INFO - Video Path: 
+2025-06-09 23:38:36,713 - INFO - Downloaded media from https://preview.redd.it/9wwjfwr40z5f1.jpeg?auto=webp&s=53491ace71b3371c5988fae73cefa8fdf58e9930 to temp_image.jpg
+2025-06-09 23:38:37,675 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
