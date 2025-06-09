@@ -2780,3 +2780,9 @@ I guess they needed an altered version for it to fit in this screen in the Stadi
 2025-06-09 11:37:49,092 - INFO - Downloaded media from https://preview.redd.it/czfn9pwbct5f1.png?auto=webp&s=5168f69926e1fd3efb57a9d9ac01600850381c47 to temp_image.jpg
 2025-06-09 11:37:49,839 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-09 12:32:23,291 - INFO - Content: Ah, so this was why Kiriko's OPM pose broke at the start of the season
+I guess they needed an altered version for it to fit in this screen in the Stadium arena, but they mistakenly altered the base victory pose as well.
+2025-06-09 12:32:23,291 - INFO - Image Paths: ['https://preview.redd.it/czfn9pwbct5f1.png?auto=webp&s=5168f69926e1fd3efb57a9d9ac01600850381c47']
+2025-06-09 12:32:23,291 - INFO - Video Path: 
+2025-06-09 12:32:23,521 - INFO - Downloaded media from https://preview.redd.it/czfn9pwbct5f1.png?auto=webp&s=5168f69926e1fd3efb57a9d9ac01600850381c47 to temp_image.jpg
+2025-06-09 12:32:24,491 - INFO - Posted content successfully. Tweet ID: 1932053161205977155
