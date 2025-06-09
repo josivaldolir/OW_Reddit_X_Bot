@@ -2871,3 +2871,10 @@ Too Many Requests
 2025-06-09 17:39:28,048 - INFO - Downloaded media from https://preview.redd.it/lcwbdg6aox5f1.jpeg?auto=webp&s=49e799cf45d05388637414aa8547f74fea085319 to temp_image.jpg
 2025-06-09 17:39:30,153 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-09 18:22:32,114 - INFO - Content: Time to boil this annoying thing
+
+2025-06-09 18:22:32,114 - INFO - Image Paths: ['https://preview.redd.it/lcwbdg6aox5f1.jpeg?auto=webp&s=49e799cf45d05388637414aa8547f74fea085319']
+2025-06-09 18:22:32,114 - INFO - Video Path: 
+2025-06-09 18:22:32,278 - INFO - Downloaded media from https://preview.redd.it/lcwbdg6aox5f1.jpeg?auto=webp&s=49e799cf45d05388637414aa8547f74fea085319 to temp_image.jpg
+2025-06-09 18:22:34,708 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
