@@ -2767,3 +2767,9 @@ Too Many Requests
 2025-06-09 10:45:43,891 - INFO - Video Path: 
 2025-06-09 10:45:44,178 - INFO - Downloaded media from https://preview.redd.it/4tjz9i7upv5f1.png?auto=webp&s=0085d88fb88c84544d7ff9915d2977296fd4962e to temp_image.jpg
 2025-06-09 10:45:45,310 - INFO - Posted content successfully. Tweet ID: 1932026321196183978
+2025-06-09 11:14:10,189 - INFO - Content: You and Your Birthday Month are hanging out for an entire day
+
+2025-06-09 11:14:10,189 - INFO - Image Paths: ['https://preview.redd.it/wozr88rchv5f1.png?auto=webp&s=e26df9c1dab903c668bab2a44c2459808d281cdc']
+2025-06-09 11:14:10,189 - INFO - Video Path: 
+2025-06-09 11:14:10,428 - INFO - Downloaded media from https://preview.redd.it/wozr88rchv5f1.png?auto=webp&s=e26df9c1dab903c668bab2a44c2459808d281cdc to temp_image.jpg
+2025-06-09 11:14:12,147 - INFO - Posted content successfully. Tweet ID: 1932033479740686534
