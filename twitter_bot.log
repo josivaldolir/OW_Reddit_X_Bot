@@ -2761,3 +2761,9 @@ Too Many Requests
 2025-06-09 10:18:27,175 - INFO - Downloaded media from https://preview.redd.it/wozr88rchv5f1.png?auto=webp&s=e26df9c1dab903c668bab2a44c2459808d281cdc to temp_image.jpg
 2025-06-09 10:18:27,944 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-09 10:45:43,891 - INFO - Content: Overwatch has always been LGBTQ
+
+2025-06-09 10:45:43,891 - INFO - Image Paths: ['https://preview.redd.it/4tjz9i7upv5f1.png?auto=webp&s=0085d88fb88c84544d7ff9915d2977296fd4962e']
+2025-06-09 10:45:43,891 - INFO - Video Path: 
+2025-06-09 10:45:44,178 - INFO - Downloaded media from https://preview.redd.it/4tjz9i7upv5f1.png?auto=webp&s=0085d88fb88c84544d7ff9915d2977296fd4962e to temp_image.jpg
+2025-06-09 10:45:45,310 - INFO - Posted content successfully. Tweet ID: 1932026321196183978
