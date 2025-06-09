@@ -2915,3 +2915,12 @@ Credits to @malice11111 and @nswerszx 🤍
 2025-06-09 20:41:03,159 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-09 20:41:06,026 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-09 21:14:32,915 - INFO - Content: Junker Queen is that you???
+time for the reckoning 🗣🗣🔥
+Credits to @malice11111 and @nswerszx 🤍
+2025-06-09 21:14:32,915 - INFO - Image Paths: ['https://external-preview.redd.it/cDE3MGgzeGlweDVmMaz2zo2w0zgRi0KdCFVdMfvsNIHAeyQPaKSauV4wN_ZE.png?format=pjpg&auto=webp&s=5594f9d26899d973022306ff46bed3e211e9e36d']
+2025-06-09 21:14:32,915 - INFO - Video Path: https://v.redd.it/5zab2lxipx5f1/DASH_480.mp4?source=fallback
+2025-06-09 21:14:32,964 - INFO - Downloaded media from https://v.redd.it/5zab2lxipx5f1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-06-09 21:14:32,986 - INFO - Downloaded media from https://v.redd.it/5zab2lxipx5f1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-06-09 21:14:33,393 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-09 21:14:35,389 - INFO - Posted content successfully. Tweet ID: 1932184573326115181
