@@ -2829,3 +2829,10 @@ Too Many Requests
 2025-06-09 14:45:16,186 - INFO - Downloaded media from https://preview.redd.it/jtnm8s3wjw5f1.jpeg?auto=webp&s=21996358f3752e1da0a75782f6d3acafee180977 to temp_image.jpg
 2025-06-09 14:45:17,381 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-09 15:17:09,594 - INFO - Content: Let the ofuda throwings begin!
+
+2025-06-09 15:17:09,594 - INFO - Image Paths: ['https://preview.redd.it/jtnm8s3wjw5f1.jpeg?auto=webp&s=21996358f3752e1da0a75782f6d3acafee180977']
+2025-06-09 15:17:09,594 - INFO - Video Path: 
+2025-06-09 15:17:09,681 - INFO - Downloaded media from https://preview.redd.it/jtnm8s3wjw5f1.jpeg?auto=webp&s=21996358f3752e1da0a75782f6d3acafee180977 to temp_image.jpg
+2025-06-09 15:17:10,860 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
