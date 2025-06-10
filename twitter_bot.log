@@ -3040,3 +3040,10 @@ Something I found on the-website-that-shall-not-be-named
 2025-06-10 08:49:21,108 - INFO - Downloaded media from https://external-preview.redd.it/uFxqnKDwtbs-BldvFajITO4JtpuBerYOPrYqCZUfboY.jpg?auto=webp&s=8b2669cfdfd692d915e6969e45a8d2b7afc552ec to temp_image.jpg
 2025-06-10 08:49:22,579 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-10 09:17:30,313 - INFO - Content: Please try to enjoy each fact equally
+
+2025-06-10 09:17:30,313 - INFO - Image Paths: ['https://preview.redd.it/b96pc9m5n06f1.jpeg?auto=webp&s=e5c81983e602388cb72ca244dfdcbe952161cc98']
+2025-06-10 09:17:30,313 - INFO - Video Path: 
+2025-06-10 09:17:30,353 - INFO - Downloaded media from https://preview.redd.it/b96pc9m5n06f1.jpeg?auto=webp&s=e5c81983e602388cb72ca244dfdcbe952161cc98 to temp_image.jpg
+2025-06-10 09:17:31,025 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
