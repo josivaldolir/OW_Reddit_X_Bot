@@ -3027,3 +3027,9 @@ Something I found on the-website-that-shall-not-be-named
 2025-06-10 07:39:02,708 - INFO - Downloaded media from https://preview.redd.it/6pvovajtc06f1.png?auto=webp&s=ab9b0315f46b0f95dd6750b7a1c822a011ce08f0 to temp_image.jpg
 2025-06-10 07:39:03,475 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-10 08:22:01,938 - INFO - Content: Characters ranked by likelihood of being "experienced"
+Something I found on the-website-that-shall-not-be-named
+2025-06-10 08:22:01,939 - INFO - Image Paths: ['https://preview.redd.it/6pvovajtc06f1.png?auto=webp&s=ab9b0315f46b0f95dd6750b7a1c822a011ce08f0']
+2025-06-10 08:22:01,939 - INFO - Video Path: 
+2025-06-10 08:22:02,207 - INFO - Downloaded media from https://preview.redd.it/6pvovajtc06f1.png?auto=webp&s=ab9b0315f46b0f95dd6750b7a1c822a011ce08f0 to temp_image.jpg
+2025-06-10 08:22:03,579 - INFO - Posted content successfully. Tweet ID: 1932352547123277983
