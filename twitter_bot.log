@@ -3212,3 +3212,10 @@ Credits to @ichigo.ow2 🤍🤍
 2025-06-10 20:17:54,893 - INFO - Downloaded media from https://v.redd.it/uavs2mnzt36f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-06-10 20:17:55,264 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-10 20:18:01,134 - INFO - Posted content successfully. Tweet ID: 1932532724813996466
+2025-06-10 20:41:17,796 - INFO - Content: I fixed that guy's friend's intelligence tierlist
+
+2025-06-10 20:41:17,796 - INFO - Image Paths: ['https://preview.redd.it/zj0k4khk556f1.png?auto=webp&s=74b231ffa91cbeb978e2de3dffb7fb2ad0a5029f']
+2025-06-10 20:41:17,796 - INFO - Video Path: 
+2025-06-10 20:41:17,877 - INFO - Downloaded media from https://preview.redd.it/zj0k4khk556f1.png?auto=webp&s=74b231ffa91cbeb978e2de3dffb7fb2ad0a5029f to temp_image.jpg
+2025-06-10 20:41:18,555 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
