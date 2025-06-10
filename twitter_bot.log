@@ -3127,3 +3127,12 @@ Too Many Requests
 2025-06-10 15:17:21,926 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-10 15:17:39,078 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-10 15:41:36,356 - INFO - Content: No need to choose the 2-person Beam Perk when YOU can be the Major perk
+
+2025-06-10 15:41:36,356 - INFO - Image Paths: ['https://external-preview.redd.it/bTdodTAzb3FuMzZmMderejlYoxgud5S-y5u3H_Lffq74Ge1hUlwNqLQ2PIHz.png?format=pjpg&auto=webp&s=60c52bcbb739e54b0108545aa65ca6af563b69b4']
+2025-06-10 15:41:36,356 - INFO - Video Path: https://v.redd.it/rlw9j2oqn36f1/DASH_1080.mp4?source=fallback
+2025-06-10 15:41:36,706 - INFO - Downloaded media from https://v.redd.it/rlw9j2oqn36f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-10 15:41:36,906 - INFO - Downloaded media from https://v.redd.it/rlw9j2oqn36f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-10 15:41:37,548 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-10 15:41:48,286 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
