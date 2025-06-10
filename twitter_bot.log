@@ -3090,3 +3090,11 @@ I feel like it’s such a grind getting the galactic weapon skins, i don’t eve
 2025-06-10 12:32:26,334 - INFO - Downloaded media from https://preview.redd.it/h4l71tb9006f1.jpeg?auto=webp&s=c0218caec5fafb65518f61ac8d5a30201fc54a7f to temp_image.jpg
 2025-06-10 12:32:27,256 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-10 13:31:41,555 - INFO - Content: So this is what happiness feels like😮‍💨
+
+2025-06-10 13:31:41,555 - INFO - Image Paths: ['https://external-preview.redd.it/bGJjdXB3ZTZmMzZmMQV8G03rMRf6FGGzS7jM8ofhrQ35T5aDC4Ufhz2OO1B0.png?format=pjpg&auto=webp&s=6e8506293b2b54151d7ec99c599bba6131a6993d']
+2025-06-10 13:31:41,555 - INFO - Video Path: https://v.redd.it/blxa5rg6f36f1/DASH_270.mp4?source=fallback
+2025-06-10 13:31:41,813 - INFO - Downloaded media from https://v.redd.it/blxa5rg6f36f1/DASH_270.mp4?source=fallback to temp_video.mp4
+2025-06-10 13:31:41,878 - INFO - Downloaded media from https://v.redd.it/blxa5rg6f36f1/DASH_270.mp4?source=fallback to temp_audio.mp4
+2025-06-10 13:31:45,142 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-10 13:31:46,969 - INFO - Posted content successfully. Tweet ID: 1932430492076536055
