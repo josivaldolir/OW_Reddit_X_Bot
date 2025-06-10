@@ -3112,3 +3112,9 @@ Too Many Requests
 2025-06-10 14:16:13,926 - INFO - Downloaded media from https://preview.redd.it/f9gr972hj36f1.jpeg?auto=webp&s=4a0a5f7f4244b40d0c48a5c36a2580033a9ad6af to temp_image.jpg
 2025-06-10 14:16:15,465 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-10 14:43:59,610 - INFO - Content: Blow that piece of junk out of the sky!!!
+
+2025-06-10 14:43:59,610 - INFO - Image Paths: ['https://preview.redd.it/f9gr972hj36f1.jpeg?auto=webp&s=4a0a5f7f4244b40d0c48a5c36a2580033a9ad6af']
+2025-06-10 14:43:59,610 - INFO - Video Path: 
+2025-06-10 14:43:59,748 - INFO - Downloaded media from https://preview.redd.it/f9gr972hj36f1.jpeg?auto=webp&s=4a0a5f7f4244b40d0c48a5c36a2580033a9ad6af to temp_image.jpg
+2025-06-10 14:44:02,067 - INFO - Posted content successfully. Tweet ID: 1932448672635367894
