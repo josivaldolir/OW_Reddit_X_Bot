@@ -3149,3 +3149,12 @@ Along with Flashpoint and Push. Complete mood killer maps.
 2025-06-10 16:49:55,608 - INFO - Video Path: 
 2025-06-10 16:49:55,681 - INFO - Downloaded media from https://preview.redd.it/gycxrg0uk36f1.jpeg?auto=webp&s=7b8ccd6b729aa641f3313c4a20cc531ea62b5419 to temp_image.jpg
 2025-06-10 16:50:01,772 - INFO - Posted content successfully. Tweet ID: 1932480382332776552
+2025-06-10 17:14:06,655 - INFO - Content: No need to choose the 2-person Beam Perk when YOU can be the Major perk
+
+2025-06-10 17:14:06,655 - INFO - Image Paths: ['https://external-preview.redd.it/bTdodTAzb3FuMzZmMderejlYoxgud5S-y5u3H_Lffq74Ge1hUlwNqLQ2PIHz.png?format=pjpg&auto=webp&s=60c52bcbb739e54b0108545aa65ca6af563b69b4']
+2025-06-10 17:14:06,655 - INFO - Video Path: https://v.redd.it/rlw9j2oqn36f1/DASH_1080.mp4?source=fallback
+2025-06-10 17:14:07,219 - INFO - Downloaded media from https://v.redd.it/rlw9j2oqn36f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-10 17:14:07,754 - INFO - Downloaded media from https://v.redd.it/rlw9j2oqn36f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-10 17:14:08,427 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-10 17:14:26,819 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
