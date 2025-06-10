@@ -3136,3 +3136,10 @@ Too Many Requests
 2025-06-10 15:41:37,548 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-10 15:41:48,286 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-10 16:22:05,568 - INFO - Content: Why does this keep happening to me?
+Along with Flashpoint and Push. Complete mood killer maps.
+2025-06-10 16:22:05,568 - INFO - Image Paths: ['https://preview.redd.it/gycxrg0uk36f1.jpeg?auto=webp&s=7b8ccd6b729aa641f3313c4a20cc531ea62b5419']
+2025-06-10 16:22:05,568 - INFO - Video Path: 
+2025-06-10 16:22:05,728 - INFO - Downloaded media from https://preview.redd.it/gycxrg0uk36f1.jpeg?auto=webp&s=7b8ccd6b729aa641f3313c4a20cc531ea62b5419 to temp_image.jpg
+2025-06-10 16:22:06,477 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
