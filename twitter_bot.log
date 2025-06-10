@@ -3246,3 +3246,11 @@ Yaaay, for the first time in my life I made and wore such a massive and cool cos
 2025-06-10 22:41:59,739 - INFO - Video Path: 
 2025-06-10 22:41:59,856 - INFO - Downloaded media from https://preview.redd.it/x2crs005c66f1.png?auto=webp&s=f860ac1dc7dd5e8e83efeddea003111bfa1163d4 to temp_image.jpg
 2025-06-10 22:42:01,055 - INFO - Posted content successfully. Tweet ID: 1932568962119733322
+2025-06-10 23:14:38,536 - INFO - Content: No need to choose the 2-person Beam Perk when YOU can be the Major perk
+
+2025-06-10 23:14:38,536 - INFO - Image Paths: ['https://external-preview.redd.it/bTdodTAzb3FuMzZmMderejlYoxgud5S-y5u3H_Lffq74Ge1hUlwNqLQ2PIHz.png?format=pjpg&auto=webp&s=60c52bcbb739e54b0108545aa65ca6af563b69b4']
+2025-06-10 23:14:38,536 - INFO - Video Path: https://v.redd.it/rlw9j2oqn36f1/DASH_1080.mp4?source=fallback
+2025-06-10 23:14:38,860 - INFO - Downloaded media from https://v.redd.it/rlw9j2oqn36f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-10 23:14:39,198 - INFO - Downloaded media from https://v.redd.it/rlw9j2oqn36f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-10 23:14:40,019 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-10 23:14:57,883 - INFO - Posted content successfully. Tweet ID: 1932577254657114243
