@@ -2985,3 +2985,10 @@ I feel like it’s such a grind getting the galactic weapon skins, i don’t eve
 2025-06-10 04:48:29,024 - INFO - Downloaded media from https://preview.redd.it/h4l71tb9006f1.jpeg?auto=webp&s=c0218caec5fafb65518f61ac8d5a30201fc54a7f to temp_image.jpg
 2025-06-10 04:48:29,704 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-10 05:17:04,211 - INFO - Content: Characters ranked by likelihood of being "experienced"
+Something I found on the-website-that-shall-not-be-named
+2025-06-10 05:17:04,211 - INFO - Image Paths: ['https://preview.redd.it/6pvovajtc06f1.png?auto=webp&s=ab9b0315f46b0f95dd6750b7a1c822a011ce08f0']
+2025-06-10 05:17:04,211 - INFO - Video Path: 
+2025-06-10 05:17:04,550 - INFO - Downloaded media from https://preview.redd.it/6pvovajtc06f1.png?auto=webp&s=ab9b0315f46b0f95dd6750b7a1c822a011ce08f0 to temp_image.jpg
+2025-06-10 05:17:05,149 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
