@@ -3323,3 +3323,10 @@ Too Many Requests
 2025-06-11 07:15:39,453 - INFO - Downloaded media from https://preview.redd.it/fy4aas0rk66f1.png?auto=webp&s=10832ae5f8dcc64e8220003c8d025872611ca5a6 to temp_image.jpg
 2025-06-11 07:15:40,559 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-11 07:39:00,902 - INFO - Content: Fix. Stadium. Matchmaking.
+5 seconds into the first round. 
+2025-06-11 07:39:00,902 - INFO - Image Paths: ['https://preview.redd.it/o83esr15086f1.png?auto=webp&s=a78a665d894c2ec153252e274119202f08e2c1fc']
+2025-06-11 07:39:00,902 - INFO - Video Path: 
+2025-06-11 07:39:01,176 - INFO - Downloaded media from https://preview.redd.it/o83esr15086f1.png?auto=webp&s=a78a665d894c2ec153252e274119202f08e2c1fc to temp_image.jpg
+2025-06-11 07:39:02,069 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
