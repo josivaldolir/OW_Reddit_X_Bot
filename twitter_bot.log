@@ -3503,3 +3503,10 @@ Credits to @smokeysalem on tiktok!! 🤍🤍
 2025-06-11 20:16:18,892 - INFO - Downloaded media from https://v.redd.it/iulce6lhtb6f1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-06-11 20:16:20,542 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-11 20:16:26,724 - INFO - Posted content successfully. Tweet ID: 1932894716657586604
+2025-06-11 20:41:15,405 - INFO - Content: Blackwatch Moira > Everything else
+I mean, we all agree, right? Blackwatch Moira is probably the best skin out of them all.
+2025-06-11 20:41:15,405 - INFO - Image Paths: ['https://preview.redd.it/cxu27mglab6f1.jpeg?auto=webp&s=a9365e0a126edbe6385057852550b699bc191be1']
+2025-06-11 20:41:15,405 - INFO - Video Path: 
+2025-06-11 20:41:15,512 - INFO - Downloaded media from https://preview.redd.it/cxu27mglab6f1.jpeg?auto=webp&s=a9365e0a126edbe6385057852550b699bc191be1 to temp_image.jpg
+2025-06-11 20:41:16,716 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
