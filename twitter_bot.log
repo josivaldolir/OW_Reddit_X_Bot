@@ -3459,3 +3459,12 @@ Credits to @smokeysalem on tiktok!! 🤍🤍
 2025-06-11 17:43:47,361 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-11 17:43:54,074 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-11 18:21:45,302 - INFO - Content: LMAO
+
+2025-06-11 18:21:45,302 - INFO - Image Paths: ['https://external-preview.redd.it/eTM3MTM0eG5wYTZmMVPn58f2V4Bsyi0_VPD-gkvLAI5HxkEExifRlqIHFZAk.png?format=pjpg&auto=webp&s=571ac13c934194ebdc278e7ac428896c4223563c']
+2025-06-11 18:21:45,302 - INFO - Video Path: https://v.redd.it/0mgbcwunpa6f1/DASH_480.mp4?source=fallback
+2025-06-11 18:21:45,430 - INFO - Downloaded media from https://v.redd.it/0mgbcwunpa6f1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-06-11 18:21:45,482 - INFO - Downloaded media from https://v.redd.it/0mgbcwunpa6f1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-06-11 18:21:45,786 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-11 18:21:50,128 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
