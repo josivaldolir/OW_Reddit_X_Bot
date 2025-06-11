@@ -3450,3 +3450,12 @@ I mean, we all agree, right? Blackwatch Moira is probably the best skin out of t
 2025-06-11 17:17:39,222 - INFO - Downloaded media from https://preview.redd.it/cxu27mglab6f1.jpeg?auto=webp&s=a9365e0a126edbe6385057852550b699bc191be1 to temp_image.jpg
 2025-06-11 17:17:40,451 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-11 17:43:40,209 - INFO - Content: I love silly moments in overwatch like this
+Credits to @smokeysalem on tiktok!! 🤍🤍
+2025-06-11 17:43:40,209 - INFO - Image Paths: ['https://external-preview.redd.it/OWRtcmkxbWh0YjZmMa7ogEN3nA3GR6504gafwx1PvgNen7YKvmysu9RqNvqW.png?format=pjpg&auto=webp&s=92310e104b3be32e46dd83cb606ea7f34c7f29b1']
+2025-06-11 17:43:40,209 - INFO - Video Path: https://v.redd.it/iulce6lhtb6f1/DASH_720.mp4?source=fallback
+2025-06-11 17:43:40,325 - INFO - Downloaded media from https://v.redd.it/iulce6lhtb6f1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-06-11 17:43:40,379 - INFO - Downloaded media from https://v.redd.it/iulce6lhtb6f1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-06-11 17:43:47,361 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-11 17:43:54,074 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
