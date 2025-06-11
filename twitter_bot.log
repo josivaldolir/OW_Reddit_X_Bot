@@ -3517,3 +3517,11 @@ I mean, we all agree, right? Blackwatch Moira is probably the best skin out of t
 2025-06-11 21:14:49,848 - INFO - Downloaded media from https://preview.redd.it/cxu27mglab6f1.jpeg?auto=webp&s=a9365e0a126edbe6385057852550b699bc191be1 to temp_image.jpg
 2025-06-11 21:14:51,131 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-11 21:38:48,085 - INFO - Content: LMAO
+
+2025-06-11 21:38:48,085 - INFO - Image Paths: ['https://external-preview.redd.it/eTM3MTM0eG5wYTZmMVPn58f2V4Bsyi0_VPD-gkvLAI5HxkEExifRlqIHFZAk.png?format=pjpg&auto=webp&s=571ac13c934194ebdc278e7ac428896c4223563c']
+2025-06-11 21:38:48,085 - INFO - Video Path: https://v.redd.it/0mgbcwunpa6f1/DASH_480.mp4?source=fallback
+2025-06-11 21:38:48,183 - INFO - Downloaded media from https://v.redd.it/0mgbcwunpa6f1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-06-11 21:38:48,223 - INFO - Downloaded media from https://v.redd.it/0mgbcwunpa6f1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-06-11 21:38:48,572 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-11 21:38:55,848 - INFO - Posted content successfully. Tweet ID: 1932915474813116465
