@@ -3267,3 +3267,10 @@ Thank you Blizzard!!!! Never bought something so quick 🙏
 2025-06-11 01:15:54,272 - INFO - Downloaded media from https://preview.redd.it/yhj0lqe6656f1.jpeg?auto=webp&s=f6a26494028466acd48acad5bd5e4ac4825f1b29 to temp_image.jpg
 2025-06-11 01:15:55,520 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-11 03:02:41,103 - INFO - Content: Guess we're doing these now
+
+2025-06-11 03:02:41,103 - INFO - Image Paths: ['https://preview.redd.it/fy4aas0rk66f1.png?auto=webp&s=10832ae5f8dcc64e8220003c8d025872611ca5a6']
+2025-06-11 03:02:41,103 - INFO - Video Path: 
+2025-06-11 03:02:41,158 - INFO - Downloaded media from https://preview.redd.it/fy4aas0rk66f1.png?auto=webp&s=10832ae5f8dcc64e8220003c8d025872611ca5a6 to temp_image.jpg
+2025-06-11 03:02:41,804 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
