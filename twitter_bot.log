@@ -3397,3 +3397,10 @@ Too Many Requests
 2025-06-11 13:30:13,894 - INFO - Downloaded media from https://preview.redd.it/kanmhdwwla6f1.jpeg?auto=webp&s=00cda4d7278fd93ecff5f761d53c74a5f8c72646 to temp_image.jpg
 2025-06-11 13:30:15,099 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-11 13:52:41,002 - INFO - Content: Ah, turrets. Here we go again
+
+2025-06-11 13:52:41,003 - INFO - Image Paths: ['https://preview.redd.it/kanmhdwwla6f1.jpeg?auto=webp&s=00cda4d7278fd93ecff5f761d53c74a5f8c72646']
+2025-06-11 13:52:41,003 - INFO - Video Path: 
+2025-06-11 13:52:41,159 - INFO - Downloaded media from https://preview.redd.it/kanmhdwwla6f1.jpeg?auto=webp&s=00cda4d7278fd93ecff5f761d53c74a5f8c72646 to temp_image.jpg
+2025-06-11 13:52:42,177 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
