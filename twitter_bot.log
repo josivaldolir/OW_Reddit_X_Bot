@@ -3411,3 +3411,9 @@ Hey guys, so I was a long time OW player since 2016, ended up leaving the game t
 2025-06-11 14:14:42,789 - INFO - Downloaded media from https://preview.redd.it/1dkkmnp6r96f1.jpeg?auto=webp&s=bbc9d341ec3ea447c985cf688f864308753351ae to temp_image.jpg
 2025-06-11 14:14:45,641 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-11 14:44:29,342 - INFO - Content: Ah, turrets. Here we go again
+
+2025-06-11 14:44:29,342 - INFO - Image Paths: ['https://preview.redd.it/kanmhdwwla6f1.jpeg?auto=webp&s=00cda4d7278fd93ecff5f761d53c74a5f8c72646']
+2025-06-11 14:44:29,342 - INFO - Video Path: 
+2025-06-11 14:44:29,599 - INFO - Downloaded media from https://preview.redd.it/kanmhdwwla6f1.jpeg?auto=webp&s=00cda4d7278fd93ecff5f761d53c74a5f8c72646 to temp_image.jpg
+2025-06-11 14:44:31,167 - INFO - Posted content successfully. Tweet ID: 1932811183452754160
