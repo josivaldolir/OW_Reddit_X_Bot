@@ -3430,3 +3430,10 @@ Honestly, I don't see what's so hard to get here
 2025-06-11 15:41:56,509 - INFO - Video Path: 
 2025-06-11 15:41:56,575 - INFO - Downloaded media from https://preview.redd.it/62ymmftkoa6f1.png?auto=webp&s=755450f39fce22c8fc9f8af66329baed23a46397 to temp_image.jpg
 2025-06-11 15:41:57,879 - INFO - Posted content successfully. Tweet ID: 1932825639784181924
+2025-06-11 16:20:28,488 - INFO - Content: Blackwatch Moira > Everything else
+I mean, we all agree, right? Blackwatch Moira is probably the best skin out of them all.
+2025-06-11 16:20:28,488 - INFO - Image Paths: ['https://preview.redd.it/cxu27mglab6f1.jpeg?auto=webp&s=a9365e0a126edbe6385057852550b699bc191be1']
+2025-06-11 16:20:28,488 - INFO - Video Path: 
+2025-06-11 16:20:28,905 - INFO - Downloaded media from https://preview.redd.it/cxu27mglab6f1.jpeg?auto=webp&s=a9365e0a126edbe6385057852550b699bc191be1 to temp_image.jpg
+2025-06-11 16:20:30,444 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
