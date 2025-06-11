@@ -3544,3 +3544,12 @@ Set out to prove I could do it. Set out to prove your gear doesn't hold you back
 2025-06-11 23:16:23,569 - INFO - Downloaded media from https://preview.redd.it/guxr4og9dd6f1.jpg?width=3024&format=pjpg&auto=webp&s=8d827141c50eb7e341eaa3eb07bfdce66f742edb to temp_image.jpg
 2025-06-11 23:16:24,704 - INFO - Downloaded media from https://preview.redd.it/qpdqyng9dd6f1.jpg?width=1852&format=pjpg&auto=webp&s=face0e3616bd6187237f81e0b28ea0c1f7a19027 to temp_image.jpg
 2025-06-11 23:16:26,233 - INFO - Posted content successfully. Tweet ID: 1932940011319800166
+2025-06-11 23:39:42,953 - INFO - Content: uhh....(ft. the freest 5k of my life)
+backfilled into a quickplay match and the whole lobby had basic names and moved like bots...? apparently its been going like this for a round
+2025-06-11 23:39:42,953 - INFO - Image Paths: ['https://external-preview.redd.it/dXl2MDVsOGpnYzZmMUCDFpcbbkylSLTsw1g6NaOeYOwtEYkKiQnw7eB2blSK.png?format=pjpg&auto=webp&s=786488cdeb68cbfd21a74a1a1f76f3355667b989']
+2025-06-11 23:39:42,954 - INFO - Video Path: https://v.redd.it/g2awcj8jgc6f1/DASH_720.mp4?source=fallback
+2025-06-11 23:39:43,246 - INFO - Downloaded media from https://v.redd.it/g2awcj8jgc6f1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-06-11 23:39:43,327 - INFO - Downloaded media from https://v.redd.it/g2awcj8jgc6f1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-06-11 23:39:44,595 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-11 23:39:53,727 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
