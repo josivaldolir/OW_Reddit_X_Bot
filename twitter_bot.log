@@ -3390,3 +3390,10 @@ Hey guys, so I was a long time OW player since 2016, ended up leaving the game t
 2025-06-11 12:33:01,860 - INFO - Downloaded media from https://preview.redd.it/1dkkmnp6r96f1.jpeg?auto=webp&s=bbc9d341ec3ea447c985cf688f864308753351ae to temp_image.jpg
 2025-06-11 12:33:04,360 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-11 13:30:13,847 - INFO - Content: Ah, turrets. Here we go again
+
+2025-06-11 13:30:13,847 - INFO - Image Paths: ['https://preview.redd.it/kanmhdwwla6f1.jpeg?auto=webp&s=00cda4d7278fd93ecff5f761d53c74a5f8c72646']
+2025-06-11 13:30:13,847 - INFO - Video Path: 
+2025-06-11 13:30:13,894 - INFO - Downloaded media from https://preview.redd.it/kanmhdwwla6f1.jpeg?auto=webp&s=00cda4d7278fd93ecff5f761d53c74a5f8c72646 to temp_image.jpg
+2025-06-11 13:30:15,099 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
