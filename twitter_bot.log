@@ -3525,3 +3525,9 @@ Too Many Requests
 2025-06-11 21:38:48,223 - INFO - Downloaded media from https://v.redd.it/0mgbcwunpa6f1/DASH_480.mp4?source=fallback to temp_audio.mp4
 2025-06-11 21:38:48,572 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-11 21:38:55,848 - INFO - Posted content successfully. Tweet ID: 1932915474813116465
+2025-06-11 22:16:07,343 - INFO - Content: Stadium powers were NOT made equally
+
+2025-06-11 22:16:07,344 - INFO - Image Paths: ['https://preview.redd.it/9118m3yo9d6f1.png?auto=webp&s=0464540bca63e533c45c25bc6343837c5f956245']
+2025-06-11 22:16:07,344 - INFO - Video Path: 
+2025-06-11 22:16:07,470 - INFO - Downloaded media from https://preview.redd.it/9118m3yo9d6f1.png?auto=webp&s=0464540bca63e533c45c25bc6343837c5f956245 to temp_image.jpg
+2025-06-11 22:16:08,442 - INFO - Posted content successfully. Tweet ID: 1932924838848380931
