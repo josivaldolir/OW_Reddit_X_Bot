@@ -3349,3 +3349,10 @@ Too Many Requests
 2025-06-11 09:17:44,494 - INFO - Video Path: 
 2025-06-11 09:17:44,736 - INFO - Downloaded media from https://preview.redd.it/fy4aas0rk66f1.png?auto=webp&s=10832ae5f8dcc64e8220003c8d025872611ca5a6 to temp_image.jpg
 2025-06-11 09:17:45,999 - INFO - Posted content successfully. Tweet ID: 1932728954114486766
+2025-06-11 09:42:22,352 - INFO - Content: And then comes Rein, and then Ram, and then Mauga and then DVa again…
+Counterwatch: “what is my purpose?” says the new hero created. “You counter X” replied the dev team. I <3 OW.
+2025-06-11 09:42:22,352 - INFO - Image Paths: ['https://preview.redd.it/t495sobrs76f1.jpeg?auto=webp&s=c6dfa402ae71d3bb0c529bbfce39d8b5f462c65c']
+2025-06-11 09:42:22,352 - INFO - Video Path: 
+2025-06-11 09:42:22,763 - INFO - Downloaded media from https://preview.redd.it/t495sobrs76f1.jpeg?auto=webp&s=c6dfa402ae71d3bb0c529bbfce39d8b5f462c65c to temp_image.jpg
+2025-06-11 09:42:23,609 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
