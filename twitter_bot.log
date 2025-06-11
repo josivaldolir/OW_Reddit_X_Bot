@@ -3404,3 +3404,10 @@ Too Many Requests
 2025-06-11 13:52:41,159 - INFO - Downloaded media from https://preview.redd.it/kanmhdwwla6f1.jpeg?auto=webp&s=00cda4d7278fd93ecff5f761d53c74a5f8c72646 to temp_image.jpg
 2025-06-11 13:52:42,177 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-11 14:14:42,619 - INFO - Content: What skins are still considered ‘Rare’ in the game?
+Hey guys, so I was a long time OW player since 2016, ended up leaving the game to play MR but now after seeing MR rerelease pretty much all of their exclusive skins it has me thinking, what skins are still exclusive in Overwatch? I’ve done some research about rare skins like obviously Alien Zarya and Noire Widow, but i’ve been super out of the loop regarding overwatch news. What i’ve heard is that they’ve brought lootboxes back to the game, and in turn have brought a lot of these formerly ‘rare’ skins back to now just being normal skins. Now the unfortunate part is that most of the lists of skins and articles regarding these rare skins are now dating at 1-2 years old, and aren’t really telling me what’s considered ‘rare’ anymore. So current OW friends, what skins were not brought back in loot boxes and are considered rare? and What skins are back in lootboxes and are no longer considered rare? 
+2025-06-11 14:14:42,619 - INFO - Image Paths: ['https://preview.redd.it/1dkkmnp6r96f1.jpeg?auto=webp&s=bbc9d341ec3ea447c985cf688f864308753351ae']
+2025-06-11 14:14:42,619 - INFO - Video Path: 
+2025-06-11 14:14:42,789 - INFO - Downloaded media from https://preview.redd.it/1dkkmnp6r96f1.jpeg?auto=webp&s=bbc9d341ec3ea447c985cf688f864308753351ae to temp_image.jpg
+2025-06-11 14:14:45,641 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
