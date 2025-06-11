@@ -3495,3 +3495,11 @@ Credits to @smokeysalem on tiktok!! 🤍🤍
 2025-06-11 19:36:30,037 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-11 19:36:36,305 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-11 20:16:18,253 - INFO - Content: I love silly moments in overwatch like this
+Credits to @smokeysalem on tiktok!! 🤍🤍
+2025-06-11 20:16:18,253 - INFO - Image Paths: ['https://external-preview.redd.it/OWRtcmkxbWh0YjZmMa7ogEN3nA3GR6504gafwx1PvgNen7YKvmysu9RqNvqW.png?format=pjpg&auto=webp&s=92310e104b3be32e46dd83cb606ea7f34c7f29b1']
+2025-06-11 20:16:18,253 - INFO - Video Path: https://v.redd.it/iulce6lhtb6f1/DASH_720.mp4?source=fallback
+2025-06-11 20:16:18,812 - INFO - Downloaded media from https://v.redd.it/iulce6lhtb6f1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-06-11 20:16:18,892 - INFO - Downloaded media from https://v.redd.it/iulce6lhtb6f1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-06-11 20:16:20,542 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-11 20:16:26,724 - INFO - Posted content successfully. Tweet ID: 1932894716657586604
