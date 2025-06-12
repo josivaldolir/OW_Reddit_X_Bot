@@ -3890,3 +3890,10 @@ I mean, think about it: I get to play my favorite roles all the time and I don't
 2025-06-12 17:14:35,525 - INFO - Downloaded media from https://preview.redd.it/dvw4rtcxuh6f1.jpeg?auto=webp&s=3f37357f4107bbbe8e0ba82f07141ff874a376d4 to temp_image.jpg
 2025-06-12 17:14:36,824 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-12 17:41:27,249 - INFO - Content: I'll be your shield!
+I mean, think about it: I get to play my favorite roles all the time and I don't even have to wait that long in the lobby. It's a win-win!
+2025-06-12 17:41:27,249 - INFO - Image Paths: ['https://preview.redd.it/dvw4rtcxuh6f1.jpeg?auto=webp&s=3f37357f4107bbbe8e0ba82f07141ff874a376d4']
+2025-06-12 17:41:27,249 - INFO - Video Path: 
+2025-06-12 17:41:27,323 - INFO - Downloaded media from https://preview.redd.it/dvw4rtcxuh6f1.jpeg?auto=webp&s=3f37357f4107bbbe8e0ba82f07141ff874a376d4 to temp_image.jpg
+2025-06-12 17:41:28,595 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
