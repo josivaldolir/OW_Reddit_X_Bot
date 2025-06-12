@@ -3553,3 +3553,9 @@ backfilled into a quickplay match and the whole lobby had basic names and moved 
 2025-06-11 23:39:44,595 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-11 23:39:53,727 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-12 01:14:55,757 - INFO - Content: Sick and tired of peoples incorrect takes on this
+
+2025-06-12 01:14:55,757 - INFO - Image Paths: ['https://preview.redd.it/90npqxkdyd6f1.png?auto=webp&s=079611844451089aa73495966bcb15145462c562']
+2025-06-12 01:14:55,757 - INFO - Video Path: 
+2025-06-12 01:14:55,826 - INFO - Downloaded media from https://preview.redd.it/90npqxkdyd6f1.png?auto=webp&s=079611844451089aa73495966bcb15145462c562 to temp_image.jpg
+2025-06-12 01:14:56,659 - INFO - Posted content successfully. Tweet ID: 1932969835983671309
