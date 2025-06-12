@@ -3618,3 +3618,10 @@ I feel so sad when I see her sad little face.
 2025-06-12 06:50:39,812 - INFO - Downloaded media from https://preview.redd.it/cuagmh0j7e6f1.jpeg?auto=webp&s=2005daf4307889b8597cfa784159703042469480 to temp_image.jpg
 2025-06-12 06:50:40,504 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-12 07:15:48,740 - INFO - Content: Why does the pink shark look so sad
+I feel so sad when I see her sad little face.
+2025-06-12 07:15:48,740 - INFO - Image Paths: ['https://preview.redd.it/cuagmh0j7e6f1.jpeg?auto=webp&s=2005daf4307889b8597cfa784159703042469480']
+2025-06-12 07:15:48,740 - INFO - Video Path: 
+2025-06-12 07:15:48,782 - INFO - Downloaded media from https://preview.redd.it/cuagmh0j7e6f1.jpeg?auto=webp&s=2005daf4307889b8597cfa784159703042469480 to temp_image.jpg
+2025-06-12 07:15:49,393 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
