@@ -3974,3 +3974,9 @@ True story from 5 minutes ago and this popped in my head while I was midway thro
 2025-06-12 21:37:06,088 - INFO - Downloaded media from https://preview.redd.it/ibgxcvc0ri6f1.jpeg?auto=webp&s=703a4d4e5a529fd9cdcc35d6c637a0cd31e01cc6 to temp_image.jpg
 2025-06-12 21:37:06,777 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-12 22:15:04,433 - INFO - Content: My Widowmaker cammy skin cosplay (@sakunakitty)
+Let’s pretend I have the right gun 🫣
+2025-06-12 22:15:04,434 - INFO - Image Paths: ['https://preview.redd.it/lw81h4f2fk6f1.jpeg?auto=webp&s=1efb5a6f65b3f2c69027287132a56eef2e7aee66']
+2025-06-12 22:15:04,434 - INFO - Video Path: 
+2025-06-12 22:15:04,609 - INFO - Downloaded media from https://preview.redd.it/lw81h4f2fk6f1.jpeg?auto=webp&s=1efb5a6f65b3f2c69027287132a56eef2e7aee66 to temp_image.jpg
+2025-06-12 22:15:06,010 - INFO - Posted content successfully. Tweet ID: 1933286963961844068
