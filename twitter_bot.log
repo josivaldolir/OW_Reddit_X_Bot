@@ -3883,3 +3883,10 @@ Thanks for reading.
 2025-06-12 16:48:16,546 - INFO - Video Path: 
 2025-06-12 16:48:16,792 - INFO - Downloaded media from https://preview.redd.it/pvzilk62vh6f1.jpeg?auto=webp&s=747a631d72e1b78e2125dd29f53b7d02251df4cf to temp_image.jpg
 2025-06-12 16:48:18,975 - INFO - Posted content successfully. Tweet ID: 1933204725857726859
+2025-06-12 17:14:35,490 - INFO - Content: I'll be your shield!
+I mean, think about it: I get to play my favorite roles all the time and I don't even have to wait that long in the lobby. It's a win-win!
+2025-06-12 17:14:35,490 - INFO - Image Paths: ['https://preview.redd.it/dvw4rtcxuh6f1.jpeg?auto=webp&s=3f37357f4107bbbe8e0ba82f07141ff874a376d4']
+2025-06-12 17:14:35,490 - INFO - Video Path: 
+2025-06-12 17:14:35,525 - INFO - Downloaded media from https://preview.redd.it/dvw4rtcxuh6f1.jpeg?auto=webp&s=3f37357f4107bbbe8e0ba82f07141ff874a376d4 to temp_image.jpg
+2025-06-12 17:14:36,824 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
