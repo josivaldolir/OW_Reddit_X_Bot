@@ -3796,3 +3796,44 @@ Thanks for reading.
 2025-06-12 15:17:08,634 - INFO - Downloaded media from https://preview.redd.it/wxn6sa2zng6f1.jpeg?auto=webp&s=f3a36f6e6a7f212d548adb3d1f95d94fbd3f0443 to temp_image.jpg
 2025-06-12 15:17:09,395 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-12 15:42:55,447 - INFO - Content: Why is Southern EU so misrepresented compared to the North?
+Splitting extended Europe into half with Northern hemisphere and Southern hemisphere and comparing hero representation.
+
+🟦 **Total: 10 heroes from North**
+
+* **Brigitte**: Sweden
+* **Torbjörn**: Sweden
+* **Reinhardt**: Germany
+* **Bastion:** Germany (Eichenwalde)
+* **Mercy:** Switzerland
+* **Moira:** Ireland
+* **Sigma:** Netherlands
+* **Widowmaker:** France
+* **Tracer:** United Kingdom
+* Ingrid Lindholm and Emily (Lore)
+* Ramattra: UK (Lore)
+
+🟥 **Total: 0 heroes from South**
+
+ (No representation from Italy, Spain, Portugal, Greece, Turkey etc)
+
+Comparing the population of the regions 
+
+Northern hem Total: **\~314.1 million**
+
+Southern hem Total: **\~349 million**
+
+I won't go over Northern America having 7 heroes either.   
+  
+Most games are beginning to put more attention to Southern EU and Middle East to not isolate player-bases, all new characters. Notable examples include: Valorant (Fade - Turkey) , Rainbow Six (Skopós - Greece) , Apex Legends (Sparrow - Italy), Street Fighter (Marisa - Italy/Greece), Tekken  (Claudio - Italy, Miguel - Spain)
+
+# Why the imbalance?
+
+In conclusion, Overwatch has by far the most misrepresented heroes of any major title. 
+
+Thanks for reading.
+2025-06-12 15:42:55,447 - INFO - Image Paths: ['https://preview.redd.it/wxn6sa2zng6f1.jpeg?auto=webp&s=f3a36f6e6a7f212d548adb3d1f95d94fbd3f0443']
+2025-06-12 15:42:55,447 - INFO - Video Path: 
+2025-06-12 15:42:55,510 - INFO - Downloaded media from https://preview.redd.it/wxn6sa2zng6f1.jpeg?auto=webp&s=f3a36f6e6a7f212d548adb3d1f95d94fbd3f0443 to temp_image.jpg
+2025-06-12 15:42:56,164 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
