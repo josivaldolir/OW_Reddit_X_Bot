@@ -3639,3 +3639,9 @@ Too Many Requests
 2025-06-12 08:21:17,211 - INFO - Downloaded media from https://preview.redd.it/znekfao86g6f1.png?auto=webp&s=6c92d77965030604a632cae94811fd9dabb30f1b to temp_image.jpg
 2025-06-12 08:21:18,142 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-12 08:48:18,431 - INFO - Content: Why does the pink shark look so sad
+I feel so sad when I see her sad little face.
+2025-06-12 08:48:18,431 - INFO - Image Paths: ['https://preview.redd.it/cuagmh0j7e6f1.jpeg?auto=webp&s=2005daf4307889b8597cfa784159703042469480']
+2025-06-12 08:48:18,431 - INFO - Video Path: 
+2025-06-12 08:48:18,515 - INFO - Downloaded media from https://preview.redd.it/cuagmh0j7e6f1.jpeg?auto=webp&s=2005daf4307889b8597cfa784159703042469480 to temp_image.jpg
+2025-06-12 08:48:19,575 - INFO - Posted content successfully. Tweet ID: 1933083933530611728
