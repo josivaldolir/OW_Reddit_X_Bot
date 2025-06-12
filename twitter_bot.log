@@ -3687,3 +3687,10 @@ news in 2025 be like :
 2025-06-12 11:38:32,291 - INFO - Downloaded media from https://preview.redd.it/s0ke7v7opf6f1.jpg?width=3472&format=pjpg&auto=webp&s=31f248d1ae66d9a5e0365ce73d1af9822890b851 to temp_image.jpg
 2025-06-12 11:38:33,752 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-12 12:31:37,022 - INFO - Content: It's only fair right
+
+2025-06-12 12:31:37,022 - INFO - Image Paths: ['https://preview.redd.it/gx05pxzpng6f1.jpeg?auto=webp&s=f8da895348057ed7721adb788ff436e9cdbab50a']
+2025-06-12 12:31:37,022 - INFO - Video Path: 
+2025-06-12 12:31:37,044 - INFO - Downloaded media from https://preview.redd.it/gx05pxzpng6f1.jpeg?auto=webp&s=f8da895348057ed7721adb788ff436e9cdbab50a to temp_image.jpg
+2025-06-12 12:31:37,864 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
