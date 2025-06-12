@@ -3679,3 +3679,11 @@ Too Many Requests
 2025-06-12 11:13:57,197 - INFO - Video Path: 
 2025-06-12 11:13:57,409 - INFO - Downloaded media from https://preview.redd.it/byitlshgdg6f1.jpeg?auto=webp&s=7764e76b1076d162b6a43a6face4299372d17107 to temp_image.jpg
 2025-06-12 11:13:58,221 - INFO - Posted content successfully. Tweet ID: 1933120586160685282
+2025-06-12 11:38:31,340 - INFO - Content: an IRANIAN company uses overwatch logo for their product (disc brake pads)
+news in 2025 be like :
+2025-06-12 11:38:31,340 - INFO - Image Paths: ['https://preview.redd.it/nh7ggeunpf6f1.png?width=1080&format=png&auto=webp&s=4e0cabc01bf9fe730ff2c61df1fe88d6a2c60526', 'https://preview.redd.it/s0ke7v7opf6f1.jpg?width=3472&format=pjpg&auto=webp&s=31f248d1ae66d9a5e0365ce73d1af9822890b851']
+2025-06-12 11:38:31,341 - INFO - Video Path: 
+2025-06-12 11:38:31,510 - INFO - Downloaded media from https://preview.redd.it/nh7ggeunpf6f1.png?width=1080&format=png&auto=webp&s=4e0cabc01bf9fe730ff2c61df1fe88d6a2c60526 to temp_image.jpg
+2025-06-12 11:38:32,291 - INFO - Downloaded media from https://preview.redd.it/s0ke7v7opf6f1.jpg?width=3472&format=pjpg&auto=webp&s=31f248d1ae66d9a5e0365ce73d1af9822890b851 to temp_image.jpg
+2025-06-12 11:38:33,752 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
