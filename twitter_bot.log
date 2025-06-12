@@ -3742,3 +3742,9 @@ Too Many Requests
 2025-06-12 13:51:43,157 - INFO - Downloaded media from https://preview.redd.it/gx05pxzpng6f1.jpeg?auto=webp&s=f8da895348057ed7721adb788ff436e9cdbab50a to temp_image.jpg
 2025-06-12 13:51:43,856 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-12 14:19:23,436 - INFO - Content: It's only fair right
+
+2025-06-12 14:19:23,436 - INFO - Image Paths: ['https://preview.redd.it/gx05pxzpng6f1.jpeg?auto=webp&s=f8da895348057ed7721adb788ff436e9cdbab50a']
+2025-06-12 14:19:23,436 - INFO - Video Path: 
+2025-06-12 14:19:23,757 - INFO - Downloaded media from https://preview.redd.it/gx05pxzpng6f1.jpeg?auto=webp&s=f8da895348057ed7721adb788ff436e9cdbab50a to temp_image.jpg
+2025-06-12 14:19:24,884 - INFO - Posted content successfully. Tweet ID: 1933167254159708656
