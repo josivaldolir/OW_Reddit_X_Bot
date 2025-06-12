@@ -3994,3 +3994,11 @@ I rest my case
 2025-06-12 23:15:11,197 - INFO - Video Path: 
 2025-06-12 23:15:11,271 - INFO - Downloaded media from https://preview.redd.it/hy9op7o8hj6f1.png?auto=webp&s=ecbd9832ad512515f49f84040509768fae84e1e6 to temp_image.jpg
 2025-06-12 23:15:12,438 - INFO - Posted content successfully. Tweet ID: 1933302090538864962
+2025-06-12 23:38:30,521 - INFO - Content: Learning Baptiste. How's my lamp placement?
+
+2025-06-12 23:38:30,521 - INFO - Image Paths: ['https://external-preview.redd.it/ODNpeWRwejlvazZmMQvegxlvVXjsapb2f3lJ_mI57bbFNjsGSHzwKM_D4w6I.png?format=pjpg&auto=webp&s=28ad5c195c089ca6e9eafc418a469e7619f188aa']
+2025-06-12 23:38:30,521 - INFO - Video Path: https://v.redd.it/lr87y33aok6f1/DASH_1080.mp4?source=fallback
+2025-06-12 23:38:30,703 - INFO - Downloaded media from https://v.redd.it/lr87y33aok6f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-12 23:38:30,755 - INFO - Downloaded media from https://v.redd.it/lr87y33aok6f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-12 23:38:31,160 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-12 23:38:36,283 - INFO - Posted content successfully. Tweet ID: 1933307979622715838
