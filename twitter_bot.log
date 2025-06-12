@@ -3569,3 +3569,10 @@ I know it's statistically the most likely since I probably had the least amount 
 2025-06-12 03:00:01,799 - INFO - Downloaded media from https://preview.redd.it/gdfaisv6de6f1.jpeg?auto=webp&s=6d8e02176e74280f396cf4d5e65516dfeae123ee to temp_image.jpg
 2025-06-12 03:00:02,554 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-12 03:51:34,662 - INFO - Content: Why is doomfist disabled in comp?
+Just saw this is one of my games, and I had just played with a doomfist in the game before this one. Is it a glitch or is something going on with him?
+2025-06-12 03:51:34,662 - INFO - Image Paths: ['https://preview.redd.it/m4rg46a97e6f1.jpeg?auto=webp&s=fd64f0d2cc5627e4d385227bc7fff50335673ecf']
+2025-06-12 03:51:34,662 - INFO - Video Path: 
+2025-06-12 03:51:34,837 - INFO - Downloaded media from https://preview.redd.it/m4rg46a97e6f1.jpeg?auto=webp&s=fd64f0d2cc5627e4d385227bc7fff50335673ecf to temp_image.jpg
+2025-06-12 03:51:36,121 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
