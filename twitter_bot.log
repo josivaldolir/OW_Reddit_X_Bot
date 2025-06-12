@@ -3961,3 +3961,9 @@ True story from 5 minutes ago and this popped in my head while I was midway thro
 2025-06-12 20:41:48,085 - INFO - Downloaded media from https://preview.redd.it/ibgxcvc0ri6f1.jpeg?auto=webp&s=703a4d4e5a529fd9cdcc35d6c637a0cd31e01cc6 to temp_image.jpg
 2025-06-12 20:41:48,909 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-12 21:15:09,315 - INFO - Content: BREATHE
+
+2025-06-12 21:15:09,316 - INFO - Image Paths: ['https://preview.redd.it/h589jmn85k6f1.jpeg?auto=webp&s=8b0f95b9674be7fd94a8dfc2b8dabf05f9bde158']
+2025-06-12 21:15:09,316 - INFO - Video Path: 
+2025-06-12 21:15:09,401 - INFO - Downloaded media from https://preview.redd.it/h589jmn85k6f1.jpeg?auto=webp&s=8b0f95b9674be7fd94a8dfc2b8dabf05f9bde158 to temp_image.jpg
+2025-06-12 21:15:10,283 - INFO - Posted content successfully. Tweet ID: 1933271883065205043
