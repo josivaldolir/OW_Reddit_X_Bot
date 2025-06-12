@@ -3980,3 +3980,11 @@ Let’s pretend I have the right gun 🫣
 2025-06-12 22:15:04,434 - INFO - Video Path: 
 2025-06-12 22:15:04,609 - INFO - Downloaded media from https://preview.redd.it/lw81h4f2fk6f1.jpeg?auto=webp&s=1efb5a6f65b3f2c69027287132a56eef2e7aee66 to temp_image.jpg
 2025-06-12 22:15:06,010 - INFO - Posted content successfully. Tweet ID: 1933286963961844068
+2025-06-12 22:41:53,351 - INFO - Content: So basically Hog had a heart attack
+
+2025-06-12 22:41:53,351 - INFO - Image Paths: ['https://external-preview.redd.it/YXliOWR1YTY2azZmMW8hIlga1qk5f72Xyoc5AZnCZL8nmQkeTM0ZSZjOJd4V.png?format=pjpg&auto=webp&s=ef0b1a7994e645868b0f0a0a8dd6e913245d2648']
+2025-06-12 22:41:53,351 - INFO - Video Path: https://v.redd.it/7z2tis866k6f1/DASH_1080.mp4?source=fallback
+2025-06-12 22:41:53,457 - INFO - Downloaded media from https://v.redd.it/7z2tis866k6f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-12 22:41:53,537 - INFO - Downloaded media from https://v.redd.it/7z2tis866k6f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-12 22:41:54,023 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-12 22:41:59,119 - INFO - Posted content successfully. Tweet ID: 1933293730850553897
