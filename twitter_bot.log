@@ -3592,3 +3592,9 @@ I know it's statistically the most likely since I probably had the least amount 
 2025-06-12 04:47:34,802 - INFO - Downloaded media from https://preview.redd.it/ovsufjl0ee6f1.png?auto=webp&s=fa0977032f096e7265396e63a20322e17e388d10 to temp_image.jpg
 2025-06-12 04:47:35,545 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-12 05:16:05,977 - INFO - Content: Since Doomfist is currently disabled on Ranked, I fixed it for you, Blizzard
+
+2025-06-12 05:16:05,977 - INFO - Image Paths: ['https://preview.redd.it/ovsufjl0ee6f1.png?auto=webp&s=fa0977032f096e7265396e63a20322e17e388d10']
+2025-06-12 05:16:05,977 - INFO - Video Path: 
+2025-06-12 05:16:06,053 - INFO - Downloaded media from https://preview.redd.it/ovsufjl0ee6f1.png?auto=webp&s=fa0977032f096e7265396e63a20322e17e388d10 to temp_image.jpg
+2025-06-12 05:16:07,299 - INFO - Posted content successfully. Tweet ID: 1933030529059918338
