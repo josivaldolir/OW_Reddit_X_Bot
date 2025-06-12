@@ -3559,3 +3559,13 @@ Too Many Requests
 2025-06-12 01:14:55,757 - INFO - Video Path: 
 2025-06-12 01:14:55,826 - INFO - Downloaded media from https://preview.redd.it/90npqxkdyd6f1.png?auto=webp&s=079611844451089aa73495966bcb15145462c562 to temp_image.jpg
 2025-06-12 01:14:56,659 - INFO - Posted content successfully. Tweet ID: 1932969835983671309
+2025-06-12 03:00:01,775 - INFO - Content: Echo is literally my least played hero but the lootbox Gods do not care
+I swear, without fail, I always pull Echo cosmetics in at least 1 of my 3 weekly boxes despite her being my least played hero.
+
+I know it's statistically the most likely since I probably had the least amount of cosmetics for Echo before hand... but please, enough is enough Blizzard, give me some Brig or Mauga stuff PLEASE
+
+2025-06-12 03:00:01,775 - INFO - Image Paths: ['https://preview.redd.it/gdfaisv6de6f1.jpeg?auto=webp&s=6d8e02176e74280f396cf4d5e65516dfeae123ee']
+2025-06-12 03:00:01,775 - INFO - Video Path: 
+2025-06-12 03:00:01,799 - INFO - Downloaded media from https://preview.redd.it/gdfaisv6de6f1.jpeg?auto=webp&s=6d8e02176e74280f396cf4d5e65516dfeae123ee to temp_image.jpg
+2025-06-12 03:00:02,554 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
