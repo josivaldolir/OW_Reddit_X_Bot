@@ -3652,3 +3652,10 @@ I feel so sad when I see her sad little face.
 2025-06-12 09:16:56,163 - INFO - Downloaded media from https://preview.redd.it/byitlshgdg6f1.jpeg?auto=webp&s=7764e76b1076d162b6a43a6face4299372d17107 to temp_image.jpg
 2025-06-12 09:16:56,904 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-12 09:41:47,438 - INFO - Content: 9/10 OW Matches be like:
+
+2025-06-12 09:41:47,438 - INFO - Image Paths: ['https://preview.redd.it/byitlshgdg6f1.jpeg?auto=webp&s=7764e76b1076d162b6a43a6face4299372d17107']
+2025-06-12 09:41:47,438 - INFO - Video Path: 
+2025-06-12 09:41:47,812 - INFO - Downloaded media from https://preview.redd.it/byitlshgdg6f1.jpeg?auto=webp&s=7764e76b1076d162b6a43a6face4299372d17107 to temp_image.jpg
+2025-06-12 09:41:48,733 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
