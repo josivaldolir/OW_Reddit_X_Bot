@@ -4002,3 +4002,11 @@ I rest my case
 2025-06-12 23:38:30,755 - INFO - Downloaded media from https://v.redd.it/lr87y33aok6f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-06-12 23:38:31,160 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-12 23:38:36,283 - INFO - Posted content successfully. Tweet ID: 1933307979622715838
+2025-06-13 01:15:52,821 - INFO - Content: Accidentally eliminated my team member who was afk
+A team member was AFK regularly through out the game and was getting on my nerves. I was complaining to my partner and said "see, look at him!" And shot him. I didn't know this would happen 😭😂 it at least got their attention! 
+2025-06-13 01:15:52,821 - INFO - Image Paths: ['https://external-preview.redd.it/aTBpc3NoaWhkazZmMTRSevJRKgDVcnH4r-5nTEsD2FPiJ_nqoMHuFXa8DJPG.png?format=pjpg&auto=webp&s=744e65f1aa3104d10b355145f37cd76f22fddb10']
+2025-06-13 01:15:52,821 - INFO - Video Path: https://v.redd.it/hjt1rnhhdk6f1/DASH_1080.mp4?source=fallback
+2025-06-13 01:15:52,925 - INFO - Downloaded media from https://v.redd.it/hjt1rnhhdk6f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-13 01:15:53,012 - INFO - Downloaded media from https://v.redd.it/hjt1rnhhdk6f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-13 01:15:53,463 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-13 01:16:00,077 - INFO - Posted content successfully. Tweet ID: 1933332490183176327
