@@ -4255,3 +4255,10 @@ Too Many Requests
 2025-06-13 20:41:37,277 - INFO - Video Path: 
 2025-06-13 20:41:37,499 - INFO - Downloaded media from https://external-preview.redd.it/sJUZvAhDZD-1qJkgLVXYB8tNv77k-NkbulRFbovSxyw.jpeg?auto=webp&s=0106408afe4d9d165b50acf9d0cdd07c4c623360 to temp_image.jpg
 2025-06-13 20:41:38,478 - INFO - Posted content successfully. Tweet ID: 1933625832595206332
+2025-06-13 21:14:55,225 - INFO - Content: Stop right there. I need you to send me your craziest, stupidest, or funniest Overwatch image or meme
+
+2025-06-13 21:14:55,225 - INFO - Image Paths: ['https://preview.redd.it/gi8i3iqzbm6f1.png?auto=webp&s=7e331bcdd0679e912e3b85c9a52c24c42899a8b5']
+2025-06-13 21:14:55,225 - INFO - Video Path: 
+2025-06-13 21:14:55,503 - INFO - Downloaded media from https://preview.redd.it/gi8i3iqzbm6f1.png?auto=webp&s=7e331bcdd0679e912e3b85c9a52c24c42899a8b5 to temp_image.jpg
+2025-06-13 21:14:56,649 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
