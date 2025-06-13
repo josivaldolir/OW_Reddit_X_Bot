@@ -4208,3 +4208,9 @@ Too Many Requests
 2025-06-13 17:13:54,307 - INFO - Downloaded media from https://v.redd.it/j4uv2h47vp6f1/DASH_480.mp4?source=fallback to temp_audio.mp4
 2025-06-13 17:13:54,784 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-13 17:13:56,737 - INFO - Posted content successfully. Tweet ID: 1933573564789321747
+2025-06-13 17:41:35,143 - INFO - Content: Awesome custom Ana doll!
+Hi, this is my first post ever and I’m so excited :D I commissioned someone to make an Ana doll for me, she redid the makeup, did the hair and the clothes and shoes and hat and even threw in a chocolate bar and a sniper rifle as a freebie + the stand for the doll! She’s super awesome and so talented and super sweet, I’m not sure if I’m allowed to “promote” / “plug” her Instagram so I won’t but if you’re interested just lmk! Also ignore all the clutter behind, sorry !! 
+2025-06-13 17:41:35,143 - INFO - Image Paths: ['https://external-preview.redd.it/bVvLJonJ3fHi_WehYZiDDOtjzRLWZMKc0XZmTh0safA.jpeg?auto=webp&s=72bba64128a0c6756dddaad8c2c82b01775c418e']
+2025-06-13 17:41:35,143 - INFO - Video Path: 
+2025-06-13 17:41:35,424 - INFO - Downloaded media from https://external-preview.redd.it/bVvLJonJ3fHi_WehYZiDDOtjzRLWZMKc0XZmTh0safA.jpeg?auto=webp&s=72bba64128a0c6756dddaad8c2c82b01775c418e to temp_image.jpg
+2025-06-13 17:41:37,660 - INFO - Posted content successfully. Tweet ID: 1933580529380831371
