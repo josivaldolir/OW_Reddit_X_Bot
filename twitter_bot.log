@@ -4268,3 +4268,10 @@ Too Many Requests
 2025-06-13 21:39:33,386 - INFO - Video Path: 
 2025-06-13 21:39:33,447 - INFO - Downloaded media from https://preview.redd.it/gi8i3iqzbm6f1.png?auto=webp&s=7e331bcdd0679e912e3b85c9a52c24c42899a8b5 to temp_image.jpg
 2025-06-13 21:39:34,327 - INFO - Posted content successfully. Tweet ID: 1933640411740070163
+2025-06-13 22:14:50,671 - INFO - Content: made this based off a conversation with my partner
+my birthday is next month :c
+2025-06-13 22:14:50,672 - INFO - Image Paths: ['https://preview.redd.it/hl4twzmjlr6f1.png?auto=webp&s=ebc34062a7ee09d7e8ae7138280995c755cf8907']
+2025-06-13 22:14:50,672 - INFO - Video Path: 
+2025-06-13 22:14:50,773 - INFO - Downloaded media from https://preview.redd.it/hl4twzmjlr6f1.png?auto=webp&s=ebc34062a7ee09d7e8ae7138280995c755cf8907 to temp_image.jpg
+2025-06-13 22:14:51,355 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
