@@ -4194,3 +4194,9 @@ Too Many Requests
 2025-06-13 16:19:47,427 - INFO - Downloaded media from https://preview.redd.it/3kx0pa6xso6f1.png?auto=webp&s=8462a620acd8e3a04e494a89322f8a55716e0de7 to temp_image.jpg
 2025-06-13 16:19:48,122 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-13 16:47:33,116 - INFO - Content: If not threat, why threat color?
+
+2025-06-13 16:47:33,116 - INFO - Image Paths: ['https://preview.redd.it/3kx0pa6xso6f1.png?auto=webp&s=8462a620acd8e3a04e494a89322f8a55716e0de7']
+2025-06-13 16:47:33,116 - INFO - Video Path: 
+2025-06-13 16:47:33,424 - INFO - Downloaded media from https://preview.redd.it/3kx0pa6xso6f1.png?auto=webp&s=8462a620acd8e3a04e494a89322f8a55716e0de7 to temp_image.jpg
+2025-06-13 16:47:34,929 - INFO - Posted content successfully. Tweet ID: 1933566928620339668
