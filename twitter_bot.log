@@ -4010,3 +4010,10 @@ A team member was AFK regularly through out the game and was getting on my nerve
 2025-06-13 01:15:53,012 - INFO - Downloaded media from https://v.redd.it/hjt1rnhhdk6f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-06-13 01:15:53,463 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-13 01:16:00,077 - INFO - Posted content successfully. Tweet ID: 1933332490183176327
+2025-06-13 03:04:15,438 - INFO - Content: I wanna play too ☹️
+
+2025-06-13 03:04:15,438 - INFO - Image Paths: ['https://preview.redd.it/hj3hf3u4ul6f1.jpeg?auto=webp&s=1ffa6397c6ce22f78d8aa80c73f3bbe50ed7f1a3']
+2025-06-13 03:04:15,438 - INFO - Video Path: 
+2025-06-13 03:04:15,605 - INFO - Downloaded media from https://preview.redd.it/hj3hf3u4ul6f1.jpeg?auto=webp&s=1ffa6397c6ce22f78d8aa80c73f3bbe50ed7f1a3 to temp_image.jpg
+2025-06-13 03:04:16,269 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
