@@ -4066,3 +4066,10 @@ I’m really good at sigma but horrid with everything other tank any recommendat
 2025-06-13 07:15:23,802 - INFO - Downloaded media from https://preview.redd.it/fyngv93qwl6f1.jpeg?auto=webp&s=eb1a84491a75d6232134565897ba645aafe4b26d to temp_image.jpg
 2025-06-13 07:15:24,410 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-13 07:38:50,420 - INFO - Content: I wanna play too ☹️
+
+2025-06-13 07:38:50,420 - INFO - Image Paths: ['https://preview.redd.it/hj3hf3u4ul6f1.jpeg?auto=webp&s=1ffa6397c6ce22f78d8aa80c73f3bbe50ed7f1a3']
+2025-06-13 07:38:50,420 - INFO - Video Path: 
+2025-06-13 07:38:50,450 - INFO - Downloaded media from https://preview.redd.it/hj3hf3u4ul6f1.jpeg?auto=webp&s=1ffa6397c6ce22f78d8aa80c73f3bbe50ed7f1a3 to temp_image.jpg
+2025-06-13 07:38:51,017 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
