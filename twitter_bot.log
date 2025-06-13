@@ -4153,3 +4153,9 @@ Too Many Requests
 2025-06-13 13:29:06,965 - INFO - Downloaded media from https://preview.redd.it/s4oaxwzgjo6f1.jpeg?auto=webp&s=1763d0a8a79ac4e74f677187eb1b88da15bdbbab to temp_image.jpg
 2025-06-13 13:29:07,984 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-13 13:49:26,663 - INFO - Content: Genji is chillin
+
+2025-06-13 13:49:26,663 - INFO - Image Paths: ['https://preview.redd.it/s4oaxwzgjo6f1.jpeg?auto=webp&s=1763d0a8a79ac4e74f677187eb1b88da15bdbbab']
+2025-06-13 13:49:26,663 - INFO - Video Path: 
+2025-06-13 13:49:26,929 - INFO - Downloaded media from https://preview.redd.it/s4oaxwzgjo6f1.jpeg?auto=webp&s=1763d0a8a79ac4e74f677187eb1b88da15bdbbab to temp_image.jpg
+2025-06-13 13:49:28,168 - INFO - Posted content successfully. Tweet ID: 1933522106211578146
