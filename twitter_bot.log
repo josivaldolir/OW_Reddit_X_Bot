@@ -4228,3 +4228,10 @@ what do you think?
 2025-06-13 18:48:28,641 - INFO - Downloaded media from https://preview.redd.it/gi8i3iqzbm6f1.png?auto=webp&s=7e331bcdd0679e912e3b85c9a52c24c42899a8b5 to temp_image.jpg
 2025-06-13 18:48:29,376 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-13 19:13:55,923 - INFO - Content: Incoming passive changes in the near future
+
+2025-06-13 19:13:55,923 - INFO - Image Paths: ['https://external-preview.redd.it/sJUZvAhDZD-1qJkgLVXYB8tNv77k-NkbulRFbovSxyw.jpeg?auto=webp&s=0106408afe4d9d165b50acf9d0cdd07c4c623360']
+2025-06-13 19:13:55,923 - INFO - Video Path: 
+2025-06-13 19:13:56,097 - INFO - Downloaded media from https://external-preview.redd.it/sJUZvAhDZD-1qJkgLVXYB8tNv77k-NkbulRFbovSxyw.jpeg?auto=webp&s=0106408afe4d9d165b50acf9d0cdd07c4c623360 to temp_image.jpg
+2025-06-13 19:13:57,966 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
