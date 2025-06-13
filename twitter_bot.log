@@ -4024,3 +4024,10 @@ Too Many Requests
 2025-06-13 03:59:42,661 - INFO - Downloaded media from https://preview.redd.it/hj3hf3u4ul6f1.jpeg?auto=webp&s=1ffa6397c6ce22f78d8aa80c73f3bbe50ed7f1a3 to temp_image.jpg
 2025-06-13 03:59:43,552 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-13 04:33:39,823 - INFO - Content: I wanna play too ☹️
+
+2025-06-13 04:33:39,823 - INFO - Image Paths: ['https://preview.redd.it/hj3hf3u4ul6f1.jpeg?auto=webp&s=1ffa6397c6ce22f78d8aa80c73f3bbe50ed7f1a3']
+2025-06-13 04:33:39,823 - INFO - Video Path: 
+2025-06-13 04:33:40,162 - INFO - Downloaded media from https://preview.redd.it/hj3hf3u4ul6f1.jpeg?auto=webp&s=1ffa6397c6ce22f78d8aa80c73f3bbe50ed7f1a3 to temp_image.jpg
+2025-06-13 04:33:40,809 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
