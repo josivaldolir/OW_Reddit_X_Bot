@@ -4080,3 +4080,10 @@ Too Many Requests
 2025-06-13 08:22:49,761 - INFO - Downloaded media from https://preview.redd.it/hj3hf3u4ul6f1.jpeg?auto=webp&s=1ffa6397c6ce22f78d8aa80c73f3bbe50ed7f1a3 to temp_image.jpg
 2025-06-13 08:22:50,463 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-13 08:47:16,081 - INFO - Content: I’ve become the designated Tank player in my friend group
+I’m really good at sigma but horrid with everything other tank any recommendations on who to learn?
+2025-06-13 08:47:16,081 - INFO - Image Paths: ['https://preview.redd.it/fyngv93qwl6f1.jpeg?auto=webp&s=eb1a84491a75d6232134565897ba645aafe4b26d']
+2025-06-13 08:47:16,081 - INFO - Video Path: 
+2025-06-13 08:47:16,218 - INFO - Downloaded media from https://preview.redd.it/fyngv93qwl6f1.jpeg?auto=webp&s=eb1a84491a75d6232134565897ba645aafe4b26d to temp_image.jpg
+2025-06-13 08:47:16,742 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
