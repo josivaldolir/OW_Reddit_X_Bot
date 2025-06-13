@@ -4110,3 +4110,14 @@ I hope this game has a long and enduring lifetimes, stays as alive as it and get
 2025-06-13 10:17:14,943 - INFO - Downloaded media from https://preview.redd.it/qh60ezh79m6f1.jpeg?auto=webp&s=711738fdcb94982efcd808d0cf385d27c93715d4 to temp_image.jpg
 2025-06-13 10:17:15,598 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-13 10:45:59,844 - INFO - Content: Overwatch is truly a great game
+I was watching some of the old cinematics of Overwatch, just reminiscing at how big a part of my life it has been and how incredible it is that the game is still going. Regardless of the corporate issues, the long delay in development, the unfulfilled promises, at it’s core, Overwatch is and always has been, at every point in its existence a truly great game.
+
+When you read all the lore, watch the cinematics, read the comics and the books and focus on all the character interactions, it’s all so much more potent. 
+
+I hope this game has a long and enduring lifetimes, stays as alive as it and gets even more popular and goes down as truly one of the greats in the history of gaming, despite everything that has happened and may happen.
+2025-06-13 10:45:59,844 - INFO - Image Paths: ['https://preview.redd.it/qh60ezh79m6f1.jpeg?auto=webp&s=711738fdcb94982efcd808d0cf385d27c93715d4']
+2025-06-13 10:45:59,844 - INFO - Video Path: 
+2025-06-13 10:45:59,889 - INFO - Downloaded media from https://preview.redd.it/qh60ezh79m6f1.jpeg?auto=webp&s=711738fdcb94982efcd808d0cf385d27c93715d4 to temp_image.jpg
+2025-06-13 10:46:00,628 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
