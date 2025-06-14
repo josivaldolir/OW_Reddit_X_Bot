@@ -4592,3 +4592,11 @@ Too Many Requests
 2025-06-14 21:13:33,484 - ERROR - Failed to download media from https://v.redd.it/shn6yeoy0y6f1/DASH_AUDIO_128.mp4?source=fallback: 403 Client Error: Forbidden for url: https://v.redd.it/shn6yeoy0y6f1/DASH_AUDIO_128.mp4?source=fallback
 2025-06-14 21:13:33,650 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-14 21:37:05,671 - INFO - Content: Noooooo my favorite overwatch subreddit, noooooo!
+
+2025-06-14 21:37:05,671 - INFO - Image Paths: ['https://external-preview.redd.it/dHA0OXRsbHkweTZmMU5Lux40eiccCMxb2M5-sDKMVxAsNyuQ9t0kp2i3a1qr.png?format=pjpg&auto=webp&s=83ed2488e75863fbd4fca704216a1d6c67fde3fe']
+2025-06-14 21:37:05,671 - INFO - Video Path: https://v.redd.it/shn6yeoy0y6f1/DASH_720.mp4?source=fallback
+2025-06-14 21:37:05,814 - INFO - Downloaded media from https://v.redd.it/shn6yeoy0y6f1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-06-14 21:37:05,826 - ERROR - Failed to download media from https://v.redd.it/shn6yeoy0y6f1/DASH_AUDIO_128.mp4?source=fallback: 403 Client Error: Forbidden for url: https://v.redd.it/shn6yeoy0y6f1/DASH_AUDIO_128.mp4?source=fallback
+2025-06-14 21:37:05,953 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
