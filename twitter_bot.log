@@ -4425,3 +4425,10 @@ Too Many Requests
 2025-06-14 09:41:21,752 - INFO - Downloaded media from https://external-preview.redd.it/wYNMTcLl6EcxabvimgCRXvOR75VJTbpyPMYCnh108yI.jpeg?auto=webp&s=f477021f09ec922b88c5cdc969c71d2dc865ab55 to temp_image.jpg
 2025-06-14 09:41:22,494 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-14 10:15:08,756 - INFO - Content: Brigitte Lindholm overwatch cosplay ✨
+
+2025-06-14 10:15:08,756 - INFO - Image Paths: ['https://external-preview.redd.it/wYNMTcLl6EcxabvimgCRXvOR75VJTbpyPMYCnh108yI.jpeg?auto=webp&s=f477021f09ec922b88c5cdc969c71d2dc865ab55']
+2025-06-14 10:15:08,756 - INFO - Video Path: 
+2025-06-14 10:15:08,945 - INFO - Downloaded media from https://external-preview.redd.it/wYNMTcLl6EcxabvimgCRXvOR75VJTbpyPMYCnh108yI.jpeg?auto=webp&s=f477021f09ec922b88c5cdc969c71d2dc865ab55 to temp_image.jpg
+2025-06-14 10:15:09,708 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
