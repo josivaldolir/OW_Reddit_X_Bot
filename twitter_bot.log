@@ -4547,3 +4547,10 @@ https://x.com/pommuart/status/1933751447017173125?t=ZbCS_tE9Hqx3xOUF80UztQ&s=19 
 2025-06-14 18:19:20,218 - INFO - Downloaded media from https://external-preview.redd.it/FLStQVq1N61A3JtG3EMxUxeG2fWO2a4eC2R9WAUBkw4.jpeg?auto=webp&s=c64fe30b4159c6ce111479225a16ee5a74706559 to temp_image.jpg
 2025-06-14 18:19:21,258 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-14 18:45:35,708 - INFO - Content: WHEN YOU PUNCH A GENJI MAIN BUT HIS CRUSTY FILTH SHIELDS HIM FROM DAMAGE:
+
+2025-06-14 18:45:35,708 - INFO - Image Paths: ['https://preview.redd.it/wrvl28qxwc6f1.jpeg?auto=webp&s=70b1d673be485a17d3392731aedb70234b95c713']
+2025-06-14 18:45:35,708 - INFO - Video Path: 
+2025-06-14 18:45:35,940 - INFO - Downloaded media from https://preview.redd.it/wrvl28qxwc6f1.jpeg?auto=webp&s=70b1d673be485a17d3392731aedb70234b95c713 to temp_image.jpg
+2025-06-14 18:45:36,934 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
