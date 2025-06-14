@@ -4475,3 +4475,12 @@ Too Many Requests
 2025-06-14 13:42:10,735 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-14 13:42:13,697 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-14 14:12:53,725 - INFO - Content: BONk!
+
+2025-06-14 14:12:53,725 - INFO - Image Paths: ['https://external-preview.redd.it/MGJleTJncTEydzZmMXCxDRfdUzPQ0ydOy83S3ZTNopGxVRUl8pH4giGO-e-m.png?format=pjpg&auto=webp&s=73aeed5a92285ba605a6fa40bd215b790f3f7e5d']
+2025-06-14 14:12:53,725 - INFO - Video Path: https://v.redd.it/bhmqv8o12w6f1/DASH_480.mp4?source=fallback
+2025-06-14 14:12:53,860 - INFO - Downloaded media from https://v.redd.it/bhmqv8o12w6f1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-06-14 14:12:53,880 - INFO - Downloaded media from https://v.redd.it/bhmqv8o12w6f1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-06-14 14:12:54,222 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-14 14:12:58,382 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
