@@ -4533,3 +4533,10 @@ Too Many Requests
 2025-06-14 17:13:24,042 - INFO - Downloaded media from https://preview.redd.it/wrvl28qxwc6f1.jpeg?auto=webp&s=70b1d673be485a17d3392731aedb70234b95c713 to temp_image.jpg
 2025-06-14 17:13:25,058 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-14 17:38:08,780 - INFO - Content: Fight by Pommuart!
+https://x.com/pommuart/status/1933751447017173125?t=ZbCS_tE9Hqx3xOUF80UztQ&s=19 Anyone want a tag team fighter game?
+2025-06-14 17:38:08,780 - INFO - Image Paths: ['https://external-preview.redd.it/FLStQVq1N61A3JtG3EMxUxeG2fWO2a4eC2R9WAUBkw4.jpeg?auto=webp&s=c64fe30b4159c6ce111479225a16ee5a74706559']
+2025-06-14 17:38:08,780 - INFO - Video Path: 
+2025-06-14 17:38:08,866 - INFO - Downloaded media from https://external-preview.redd.it/FLStQVq1N61A3JtG3EMxUxeG2fWO2a4eC2R9WAUBkw4.jpeg?auto=webp&s=c64fe30b4159c6ce111479225a16ee5a74706559 to temp_image.jpg
+2025-06-14 17:38:10,002 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
