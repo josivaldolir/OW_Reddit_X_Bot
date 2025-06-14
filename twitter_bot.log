@@ -4466,3 +4466,12 @@ https://x.com/pommuart/status/1933751447017173125?t=ZbCS_tE9Hqx3xOUF80UztQ&s=19 
 2025-06-14 13:03:56,032 - INFO - Downloaded media from https://external-preview.redd.it/FLStQVq1N61A3JtG3EMxUxeG2fWO2a4eC2R9WAUBkw4.jpeg?auto=webp&s=c64fe30b4159c6ce111479225a16ee5a74706559 to temp_image.jpg
 2025-06-14 13:03:57,165 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-14 13:42:10,188 - INFO - Content: BONk!
+
+2025-06-14 13:42:10,188 - INFO - Image Paths: ['https://external-preview.redd.it/MGJleTJncTEydzZmMXCxDRfdUzPQ0ydOy83S3ZTNopGxVRUl8pH4giGO-e-m.png?format=pjpg&auto=webp&s=73aeed5a92285ba605a6fa40bd215b790f3f7e5d']
+2025-06-14 13:42:10,188 - INFO - Video Path: https://v.redd.it/bhmqv8o12w6f1/DASH_480.mp4?source=fallback
+2025-06-14 13:42:10,237 - INFO - Downloaded media from https://v.redd.it/bhmqv8o12w6f1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-06-14 13:42:10,258 - INFO - Downloaded media from https://v.redd.it/bhmqv8o12w6f1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-06-14 13:42:10,735 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-14 13:42:13,697 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
