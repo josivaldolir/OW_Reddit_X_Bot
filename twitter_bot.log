@@ -4404,3 +4404,10 @@ I want to be able to have him teach me but do something a beginner player wouldn
 2025-06-14 08:18:40,646 - INFO - Image Paths: []
 2025-06-14 08:18:40,646 - INFO - Video Path: 
 2025-06-14 08:18:40,927 - INFO - Posted content successfully. Tweet ID: 1933801249373368670
+2025-06-14 08:43:23,492 - INFO - Content: Fight by Pommuart!
+https://x.com/pommuart/status/1933751447017173125?t=ZbCS_tE9Hqx3xOUF80UztQ&s=19 Anyone want a tag team fighter game?
+2025-06-14 08:43:23,492 - INFO - Image Paths: ['https://external-preview.redd.it/FLStQVq1N61A3JtG3EMxUxeG2fWO2a4eC2R9WAUBkw4.jpeg?auto=webp&s=c64fe30b4159c6ce111479225a16ee5a74706559']
+2025-06-14 08:43:23,492 - INFO - Video Path: 
+2025-06-14 08:43:23,592 - INFO - Downloaded media from https://external-preview.redd.it/FLStQVq1N61A3JtG3EMxUxeG2fWO2a4eC2R9WAUBkw4.jpeg?auto=webp&s=c64fe30b4159c6ce111479225a16ee5a74706559 to temp_image.jpg
+2025-06-14 08:43:24,751 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
