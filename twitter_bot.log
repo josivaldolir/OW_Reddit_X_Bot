@@ -4324,3 +4324,12 @@ DPS passive increase once again? Can't wait to explode for peeking a corner!
 2025-06-14 04:19:29,209 - INFO - Video Path: 
 2025-06-14 04:19:29,424 - INFO - Downloaded media from https://preview.redd.it/n12m3k4rft6f1.jpeg?auto=webp&s=805da08f83cadaff649214208eb8a85c7ecaa772 to temp_image.jpg
 2025-06-14 04:19:30,249 - INFO - Posted content successfully. Tweet ID: 1933741057898090538
+2025-06-14 04:46:09,599 - INFO - Content: Carolina Ravassa as Sombra 💜
+@Carolina Ravassa
+Credit: Melanie Jasmine
+2025-06-14 04:46:09,599 - INFO - Image Paths: ['https://external-preview.redd.it/ajlhNmRmN2F3cTZmMZZqNRLcVShmNl308-JMa_PEPOkGQH5h4YtzV4Ff6xaR.png?format=pjpg&auto=webp&s=961c8add49ab49c01a3cdeec2855e134481a4384']
+2025-06-14 04:46:09,599 - INFO - Video Path: https://v.redd.it/ljm3hmbawq6f1/DASH_480.mp4?source=fallback
+2025-06-14 04:46:09,633 - INFO - Downloaded media from https://v.redd.it/ljm3hmbawq6f1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-06-14 04:46:09,657 - INFO - Downloaded media from https://v.redd.it/ljm3hmbawq6f1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-06-14 04:46:10,160 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-14 04:46:14,446 - INFO - Posted content successfully. Tweet ID: 1933747786580680729
