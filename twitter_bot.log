@@ -4526,3 +4526,10 @@ Too Many Requests
 2025-06-14 16:44:08,557 - INFO - Downloaded media from https://v.redd.it/bhmqv8o12w6f1/DASH_480.mp4?source=fallback to temp_audio.mp4
 2025-06-14 16:44:10,558 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-14 16:44:14,764 - INFO - Posted content successfully. Tweet ID: 1933928478468124799
+2025-06-14 17:13:23,873 - INFO - Content: WHEN YOU PUNCH A GENJI MAIN BUT HIS CRUSTY FILTH SHIELDS HIM FROM DAMAGE:
+
+2025-06-14 17:13:23,873 - INFO - Image Paths: ['https://preview.redd.it/wrvl28qxwc6f1.jpeg?auto=webp&s=70b1d673be485a17d3392731aedb70234b95c713']
+2025-06-14 17:13:23,873 - INFO - Video Path: 
+2025-06-14 17:13:24,042 - INFO - Downloaded media from https://preview.redd.it/wrvl28qxwc6f1.jpeg?auto=webp&s=70b1d673be485a17d3392731aedb70234b95c713 to temp_image.jpg
+2025-06-14 17:13:25,058 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
