@@ -4554,3 +4554,10 @@ Too Many Requests
 2025-06-14 18:45:35,940 - INFO - Downloaded media from https://preview.redd.it/wrvl28qxwc6f1.jpeg?auto=webp&s=70b1d673be485a17d3392731aedb70234b95c713 to temp_image.jpg
 2025-06-14 18:45:36,934 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-14 19:11:40,879 - INFO - Content: Charms should not be epic rarity...
+
+2025-06-14 19:11:40,879 - INFO - Image Paths: ['https://external-preview.redd.it/voig0-Cnf2hh5tB1A3B4NfJugvdwhi71e081xR0NOp4.png?auto=webp&s=af1f7058276e3fc5605a4b7c4019cff64456cf0f']
+2025-06-14 19:11:40,879 - INFO - Video Path: 
+2025-06-14 19:11:41,055 - INFO - Downloaded media from https://external-preview.redd.it/voig0-Cnf2hh5tB1A3B4NfJugvdwhi71e081xR0NOp4.png?auto=webp&s=af1f7058276e3fc5605a4b7c4019cff64456cf0f to temp_image.jpg
+2025-06-14 19:11:41,717 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
