@@ -4620,3 +4620,9 @@ Too Many Requests
 2025-06-14 23:15:14,175 - INFO - Video Path: 
 2025-06-14 23:15:14,398 - INFO - Downloaded media from https://external-preview.redd.it/voig0-Cnf2hh5tB1A3B4NfJugvdwhi71e081xR0NOp4.png?auto=webp&s=af1f7058276e3fc5605a4b7c4019cff64456cf0f to temp_image.jpg
 2025-06-14 23:15:15,546 - INFO - Posted content successfully. Tweet ID: 1934026879830577645
+2025-06-14 23:38:36,796 - INFO - Content: He is shrinking ;;
+
+2025-06-14 23:38:36,796 - INFO - Image Paths: ['https://preview.redd.it/2ksphgld1z6f1.png?auto=webp&s=decd7cb1c31e09aa424a76ec59cc3b2badcb40bc']
+2025-06-14 23:38:36,796 - INFO - Video Path: 
+2025-06-14 23:38:36,871 - INFO - Downloaded media from https://preview.redd.it/2ksphgld1z6f1.png?auto=webp&s=decd7cb1c31e09aa424a76ec59cc3b2badcb40bc to temp_image.jpg
+2025-06-14 23:38:37,785 - INFO - Posted content successfully. Tweet ID: 1934032761100058772
