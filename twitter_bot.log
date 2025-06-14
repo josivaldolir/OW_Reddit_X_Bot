@@ -4418,3 +4418,10 @@ https://x.com/pommuart/status/1933751447017173125?t=ZbCS_tE9Hqx3xOUF80UztQ&s=19 
 2025-06-14 09:16:02,195 - INFO - Downloaded media from https://external-preview.redd.it/FLStQVq1N61A3JtG3EMxUxeG2fWO2a4eC2R9WAUBkw4.jpeg?auto=webp&s=c64fe30b4159c6ce111479225a16ee5a74706559 to temp_image.jpg
 2025-06-14 09:16:03,310 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-14 09:41:21,577 - INFO - Content: Brigitte Lindholm overwatch cosplay ✨
+
+2025-06-14 09:41:21,577 - INFO - Image Paths: ['https://external-preview.redd.it/wYNMTcLl6EcxabvimgCRXvOR75VJTbpyPMYCnh108yI.jpeg?auto=webp&s=f477021f09ec922b88c5cdc969c71d2dc865ab55']
+2025-06-14 09:41:21,577 - INFO - Video Path: 
+2025-06-14 09:41:21,752 - INFO - Downloaded media from https://external-preview.redd.it/wYNMTcLl6EcxabvimgCRXvOR75VJTbpyPMYCnh108yI.jpeg?auto=webp&s=f477021f09ec922b88c5cdc969c71d2dc865ab55 to temp_image.jpg
+2025-06-14 09:41:22,494 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
