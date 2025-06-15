@@ -4660,3 +4660,10 @@ Instead of fighting all the time we should be making our buff men kiss
 2025-06-15 05:15:09,262 - INFO - Video Path: 
 2025-06-15 05:15:09,315 - INFO - Downloaded media from https://preview.redd.it/e5wxikgpr07f1.png?auto=webp&s=1dbb2d04599f01bab36ec59d13262247c7ea1adf to temp_image.jpg
 2025-06-15 05:15:10,410 - INFO - Posted content successfully. Tweet ID: 1934117454990455279
+2025-06-15 05:42:21,313 - INFO - Content: Going to be playing Overwatch 2 for the first time ever. Any tips for a newbie?
+This isn't usually the type of game that I would play, but I thought I'd try something outside of my comfort zone for a change. I'm going to be playing the Nintendo Switch version via my Switch 2.
+2025-06-15 05:42:21,313 - INFO - Image Paths: ['https://preview.redd.it/crtbq9d8ly6f1.jpeg?auto=webp&s=4e165ebadc5f18c1530e640c13665460b39cf9d4']
+2025-06-15 05:42:21,313 - INFO - Video Path: 
+2025-06-15 05:42:21,505 - INFO - Downloaded media from https://preview.redd.it/crtbq9d8ly6f1.jpeg?auto=webp&s=4e165ebadc5f18c1530e640c13665460b39cf9d4 to temp_image.jpg
+2025-06-15 05:42:22,227 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
