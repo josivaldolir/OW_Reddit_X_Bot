@@ -4729,3 +4729,12 @@ Too Many Requests
 2025-06-15 10:16:27,610 - INFO - Video Path: 
 2025-06-15 10:16:27,804 - INFO - Downloaded media from https://preview.redd.it/yx4ojvt8e17f1.png?auto=webp&s=5721f333d2befbed2137cf166817374e904eec90 to temp_image.jpg
 2025-06-15 10:16:28,992 - INFO - Posted content successfully. Tweet ID: 1934193281539424343
+2025-06-15 10:43:50,785 - INFO - Content: Spraying the enemy hazard with the shower head because i hate him
+
+2025-06-15 10:43:50,785 - INFO - Image Paths: ['https://external-preview.redd.it/a3hsbWNqaXBzMTdmMdpO16Ou0pfD3BDeznsRU2hpHHkUlmCA_A3xvK3Z3RaK.png?format=pjpg&auto=webp&s=f4cc578c578c68b89e8df83a21bbb7cf7d1d5625']
+2025-06-15 10:43:50,785 - INFO - Video Path: https://v.redd.it/xzfk9iips17f1/DASH_1080.mp4?source=fallback
+2025-06-15 10:43:50,979 - INFO - Downloaded media from https://v.redd.it/xzfk9iips17f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-15 10:43:51,000 - INFO - Downloaded media from https://v.redd.it/xzfk9iips17f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-15 10:43:51,417 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-15 10:43:55,883 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
