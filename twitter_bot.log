@@ -4680,3 +4680,10 @@ This isn't usually the type of game that I would play, but I thought I'd try som
 2025-06-15 06:46:52,794 - INFO - Downloaded media from https://preview.redd.it/crtbq9d8ly6f1.jpeg?auto=webp&s=4e165ebadc5f18c1530e640c13665460b39cf9d4 to temp_image.jpg
 2025-06-15 06:46:53,388 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-15 07:15:29,698 - INFO - Content: You and Your Birthday Month wake up in a Love Hotel. How do you react?
+
+2025-06-15 07:15:29,698 - INFO - Image Paths: ['https://preview.redd.it/yx4ojvt8e17f1.png?auto=webp&s=5721f333d2befbed2137cf166817374e904eec90']
+2025-06-15 07:15:29,698 - INFO - Video Path: 
+2025-06-15 07:15:29,932 - INFO - Downloaded media from https://preview.redd.it/yx4ojvt8e17f1.png?auto=webp&s=5721f333d2befbed2137cf166817374e904eec90 to temp_image.jpg
+2025-06-15 07:15:30,666 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
