@@ -4738,3 +4738,10 @@ Too Many Requests
 2025-06-15 10:43:51,417 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-15 10:43:55,883 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-15 11:12:14,941 - INFO - Content: How is this a draw?
+I thought I was gonna win and the the game says draw
+2025-06-15 11:12:14,941 - INFO - Image Paths: ['https://preview.redd.it/2q38ee93127f1.png?auto=webp&s=1b023d9184539e048860abd10b5d105ca339ac08']
+2025-06-15 11:12:14,941 - INFO - Video Path: 
+2025-06-15 11:12:15,101 - INFO - Downloaded media from https://preview.redd.it/2q38ee93127f1.png?auto=webp&s=1b023d9184539e048860abd10b5d105ca339ac08 to temp_image.jpg
+2025-06-15 11:12:15,901 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
