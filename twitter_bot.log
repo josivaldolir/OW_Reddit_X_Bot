@@ -4714,3 +4714,12 @@ Too Many Requests
 2025-06-15 09:15:35,759 - INFO - Downloaded media from https://preview.redd.it/yx4ojvt8e17f1.png?auto=webp&s=5721f333d2befbed2137cf166817374e904eec90 to temp_image.jpg
 2025-06-15 09:15:36,883 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-15 09:38:26,147 - INFO - Content: "How's my lamp placement?" KarQ Reaction
+
+2025-06-15 09:38:26,147 - INFO - Image Paths: ['https://external-preview.redd.it/ZTlnZTFwc2Q1MDdmMWzIxXViDxAsTiISPKbmrERFqYZ933w876Q00g-Fm3ym.png?format=pjpg&auto=webp&s=6474601acc14f74125fd2fb54aae7fafbef6907c']
+2025-06-15 09:38:26,148 - INFO - Video Path: https://v.redd.it/cgj71qsd507f1/DASH_1080.mp4?source=fallback
+2025-06-15 09:38:26,364 - INFO - Downloaded media from https://v.redd.it/cgj71qsd507f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-15 09:38:26,400 - INFO - Downloaded media from https://v.redd.it/cgj71qsd507f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-15 09:38:26,773 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-15 09:38:32,578 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
