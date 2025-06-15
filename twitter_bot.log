@@ -4911,3 +4911,13 @@ Remember when a xim used to get you the girls
 2025-06-15 23:14:23,252 - INFO - Video Path: 
 2025-06-15 23:14:23,272 - INFO - Downloaded media from https://preview.redd.it/61en0bys447f1.jpeg?auto=webp&s=ee0353ebccd4577d9302beeb01f5c8c328086774 to temp_image.jpg
 2025-06-15 23:14:24,302 - INFO - Posted content successfully. Tweet ID: 1934389052612153765
+2025-06-15 23:37:47,629 - INFO - Content: My Juno cosplay
+I’m planning to make her gear as well, but I really like how the cosplay looks so far ^^!!
+
+2025-06-15 23:37:47,629 - INFO - Image Paths: ['https://external-preview.redd.it/dTkzMnU2djA3NTdmMdkabEbzosW0uVcImtzY8dT1M42Koj9jl267JgOC_Fmt.png?format=pjpg&auto=webp&s=357fa81dcc430b94a56411424468d25d14a909b9']
+2025-06-15 23:37:47,629 - INFO - Video Path: https://v.redd.it/cp6fybz0757f1/DASH_1080.mp4?source=fallback
+2025-06-15 23:37:47,840 - INFO - Downloaded media from https://v.redd.it/cp6fybz0757f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-15 23:37:47,904 - INFO - Downloaded media from https://v.redd.it/cp6fybz0757f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-15 23:37:48,345 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-15 23:37:54,538 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
