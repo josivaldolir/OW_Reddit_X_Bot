@@ -4723,3 +4723,9 @@ Too Many Requests
 2025-06-15 09:38:26,773 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-15 09:38:32,578 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-15 10:16:27,610 - INFO - Content: You and Your Birthday Month wake up in a Love Hotel. How do you react?
+
+2025-06-15 10:16:27,610 - INFO - Image Paths: ['https://preview.redd.it/yx4ojvt8e17f1.png?auto=webp&s=5721f333d2befbed2137cf166817374e904eec90']
+2025-06-15 10:16:27,610 - INFO - Video Path: 
+2025-06-15 10:16:27,804 - INFO - Downloaded media from https://preview.redd.it/yx4ojvt8e17f1.png?auto=webp&s=5721f333d2befbed2137cf166817374e904eec90 to temp_image.jpg
+2025-06-15 10:16:28,992 - INFO - Posted content successfully. Tweet ID: 1934193281539424343
