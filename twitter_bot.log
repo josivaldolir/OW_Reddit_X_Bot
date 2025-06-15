@@ -4850,3 +4850,10 @@ Propaganda is useless
 2025-06-15 18:45:40,157 - INFO - Video Path: 
 2025-06-15 18:45:40,445 - INFO - Downloaded media from https://preview.redd.it/uozmvl0hq47f1.png?auto=webp&s=a18d7201185b90a0f5f9b5aae65d9d0ad22a9722 to temp_image.jpg
 2025-06-15 18:45:41,754 - INFO - Posted content successfully. Tweet ID: 1934321429069341093
+2025-06-15 19:12:13,397 - INFO - Content: Mercy x Dr House concept art
+i didnt draw the wings because id leave them pretty much the same just different color scheme.. anyway i decided to use my free will today and connected my 2 obsessions
+2025-06-15 19:12:13,397 - INFO - Image Paths: ['https://preview.redd.it/zqeqpjibg47f1.png?auto=webp&s=3b08d2cf8c51673968659185cce08805f39c0081']
+2025-06-15 19:12:13,397 - INFO - Video Path: 
+2025-06-15 19:12:13,445 - INFO - Downloaded media from https://preview.redd.it/zqeqpjibg47f1.png?auto=webp&s=3b08d2cf8c51673968659185cce08805f39c0081 to temp_image.jpg
+2025-06-15 19:12:14,074 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
