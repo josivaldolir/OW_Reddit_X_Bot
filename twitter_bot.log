@@ -4814,3 +4814,12 @@ Spent way too much time on this
 2025-06-15 16:17:52,525 - INFO - Video Path: 
 2025-06-15 16:17:52,733 - INFO - Downloaded media from https://preview.redd.it/3a64gh87f17f1.png?auto=webp&s=fbb7cd465639c0b91c6e44a5ae6a5bcf590463da to temp_image.jpg
 2025-06-15 16:17:53,559 - INFO - Posted content successfully. Tweet ID: 1934284234174480583
+2025-06-15 16:45:35,646 - INFO - Content: "How's my lamp placement?" KarQ Reaction
+
+2025-06-15 16:45:35,646 - INFO - Image Paths: ['https://external-preview.redd.it/ZTlnZTFwc2Q1MDdmMWzIxXViDxAsTiISPKbmrERFqYZ933w876Q00g-Fm3ym.png?format=pjpg&auto=webp&s=6474601acc14f74125fd2fb54aae7fafbef6907c']
+2025-06-15 16:45:35,646 - INFO - Video Path: https://v.redd.it/cgj71qsd507f1/DASH_1080.mp4?source=fallback
+2025-06-15 16:45:36,241 - INFO - Downloaded media from https://v.redd.it/cgj71qsd507f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-15 16:45:36,418 - INFO - Downloaded media from https://v.redd.it/cgj71qsd507f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-15 16:45:36,920 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-15 16:45:43,526 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
