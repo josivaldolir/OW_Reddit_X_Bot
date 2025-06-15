@@ -4884,3 +4884,10 @@ Remember when a xim used to get you the girls
 2025-06-15 21:13:49,808 - INFO - Downloaded media from https://preview.redd.it/61en0bys447f1.jpeg?auto=webp&s=ee0353ebccd4577d9302beeb01f5c8c328086774 to temp_image.jpg
 2025-06-15 21:13:50,476 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-15 21:37:18,174 - INFO - Content: Found this in a Tiktok comment section
+Remember when a xim used to get you the girls
+2025-06-15 21:37:18,174 - INFO - Image Paths: ['https://preview.redd.it/61en0bys447f1.jpeg?auto=webp&s=ee0353ebccd4577d9302beeb01f5c8c328086774']
+2025-06-15 21:37:18,174 - INFO - Video Path: 
+2025-06-15 21:37:18,230 - INFO - Downloaded media from https://preview.redd.it/61en0bys447f1.jpeg?auto=webp&s=ee0353ebccd4577d9302beeb01f5c8c328086774 to temp_image.jpg
+2025-06-15 21:37:18,981 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
