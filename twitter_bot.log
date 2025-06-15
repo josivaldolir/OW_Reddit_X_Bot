@@ -4844,3 +4844,9 @@ Propaganda is useless
 2025-06-15 18:20:34,520 - INFO - Downloaded media from https://preview.redd.it/uozmvl0hq47f1.png?auto=webp&s=a18d7201185b90a0f5f9b5aae65d9d0ad22a9722 to temp_image.jpg
 2025-06-15 18:20:35,149 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-15 18:45:40,157 - INFO - Content: "Het universum zingt voor mij!"
+Propaganda is useless 
+2025-06-15 18:45:40,157 - INFO - Image Paths: ['https://preview.redd.it/uozmvl0hq47f1.png?auto=webp&s=a18d7201185b90a0f5f9b5aae65d9d0ad22a9722']
+2025-06-15 18:45:40,157 - INFO - Video Path: 
+2025-06-15 18:45:40,445 - INFO - Downloaded media from https://preview.redd.it/uozmvl0hq47f1.png?auto=webp&s=a18d7201185b90a0f5f9b5aae65d9d0ad22a9722 to temp_image.jpg
+2025-06-15 18:45:41,754 - INFO - Posted content successfully. Tweet ID: 1934321429069341093
