@@ -4791,3 +4791,12 @@ Spent way too much time on this
 2025-06-15 14:39:32,485 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-15 14:39:40,883 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-15 15:15:31,101 - INFO - Content: I hate invul
+Spent way too much time on this
+2025-06-15 15:15:31,101 - INFO - Image Paths: ['https://external-preview.redd.it/MHZpY3RuaWlqMzdmMdbhe6yMwWdGtU-dGAkZju8YYVN9Xh-kuVwVzmvBFGFA.png?format=pjpg&auto=webp&s=ec0a2e7104281a363d76e55d18b46b05265718f8']
+2025-06-15 15:15:31,101 - INFO - Video Path: https://v.redd.it/k25m4niij37f1/DASH_1080.mp4?source=fallback
+2025-06-15 15:15:31,286 - INFO - Downloaded media from https://v.redd.it/k25m4niij37f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-15 15:15:31,435 - INFO - Downloaded media from https://v.redd.it/k25m4niij37f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-15 15:15:42,841 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-15 15:15:56,982 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
