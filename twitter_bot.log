@@ -4626,3 +4626,9 @@ Too Many Requests
 2025-06-14 23:38:36,796 - INFO - Video Path: 
 2025-06-14 23:38:36,871 - INFO - Downloaded media from https://preview.redd.it/2ksphgld1z6f1.png?auto=webp&s=decd7cb1c31e09aa424a76ec59cc3b2badcb40bc to temp_image.jpg
 2025-06-14 23:38:37,785 - INFO - Posted content successfully. Tweet ID: 1934032761100058772
+2025-06-15 01:24:23,539 - INFO - Content: Hazard PIrate skin, infected by Giant crab
+
+2025-06-15 01:24:23,539 - INFO - Image Paths: ['https://external-preview.redd.it/fa6w9U8QdUSc13xCR1RRUVPgCrMAu6rEhdB_80PGcPU.jpeg?auto=webp&s=c72dbff6dcb0a68b33586473d6b7e97aa8e4cbb8']
+2025-06-15 01:24:23,539 - INFO - Video Path: 
+2025-06-15 01:24:23,798 - INFO - Downloaded media from https://external-preview.redd.it/fa6w9U8QdUSc13xCR1RRUVPgCrMAu6rEhdB_80PGcPU.jpeg?auto=webp&s=c72dbff6dcb0a68b33586473d6b7e97aa8e4cbb8 to temp_image.jpg
+2025-06-15 01:24:26,862 - INFO - Posted content successfully. Tweet ID: 1934059389423669652
