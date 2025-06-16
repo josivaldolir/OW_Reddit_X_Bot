@@ -5069,3 +5069,11 @@ Too Many Requests
 2025-06-16 13:32:13,993 - INFO - Downloaded media from https://v.redd.it/3jpb91ggqa6f1/DASH_360.mp4?source=fallback to temp_audio.mp4
 2025-06-16 13:32:17,297 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-16 13:32:21,714 - INFO - Posted content successfully. Tweet ID: 1934604965051539592
+2025-06-16 14:16:08,884 - INFO - Content: What is Hanzo supposed to be good at?
+Legit question because at this point with projectile heroes, I don't see what the devs want for him. He just is kinda "there" in a way, anything he can do other characters do better. One shots? Widow. Mobility? Freja/Echo. Consistency? Ashe/Freja. 
+
+He just feels the weakest he's ever felt, Dragon's especially feels horrendous. It moves so fast that it doesn't get kills anymore compared to before
+2025-06-16 14:16:08,884 - INFO - Image Paths: []
+2025-06-16 14:16:08,884 - INFO - Video Path: 
+2025-06-16 14:16:09,064 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
