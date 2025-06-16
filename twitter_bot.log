@@ -4962,3 +4962,10 @@ had the most precious match in goonerwatch.. we clutched in the forth round and 
 2025-06-16 05:44:26,910 - INFO - Video Path: 
 2025-06-16 05:44:27,006 - INFO - Downloaded media from https://preview.redd.it/wrvl28qxwc6f1.jpeg?auto=webp&s=70b1d673be485a17d3392731aedb70234b95c713 to temp_image.jpg
 2025-06-16 05:44:28,475 - INFO - Posted content successfully. Tweet ID: 1934487216115310936
+2025-06-16 06:24:49,818 - INFO - Content: Negative comp points
+I have negative -2615 comp points
+2025-06-16 06:24:49,818 - INFO - Image Paths: ['https://preview.redd.it/paot0fo4187f1.jpeg?auto=webp&s=e9ace2e6fbed9115c47e25ac137d2fd932e00234']
+2025-06-16 06:24:49,818 - INFO - Video Path: 
+2025-06-16 06:24:50,002 - INFO - Downloaded media from https://preview.redd.it/paot0fo4187f1.jpeg?auto=webp&s=e9ace2e6fbed9115c47e25ac137d2fd932e00234 to temp_image.jpg
+2025-06-16 06:24:51,225 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
