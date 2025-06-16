@@ -5061,3 +5061,11 @@ Too Many Requests
 2025-06-16 12:33:23,592 - INFO - Video Path: 
 2025-06-16 12:33:23,963 - INFO - Downloaded media from https://preview.redd.it/hh5erwfbck6f1.png?auto=webp&s=9084904995f188e43c9907813b96222f89e34e05 to temp_image.jpg
 2025-06-16 12:33:24,988 - INFO - Posted content successfully. Tweet ID: 1934590130414891022
+2025-06-16 13:32:13,345 - INFO - Content: POV: You play against a Smurf genji or tracer
+
+2025-06-16 13:32:13,345 - INFO - Image Paths: ['https://external-preview.redd.it/MnBoY3h6ZGdxYTZmMQu2u8TfX5ikN5vDteAx2M6aP4xi4noCad3jYqY3dV0q.png?format=pjpg&auto=webp&s=ec68b28918414904284cd93e68bdbf858d02fbfe']
+2025-06-16 13:32:13,345 - INFO - Video Path: https://v.redd.it/3jpb91ggqa6f1/DASH_360.mp4?source=fallback
+2025-06-16 13:32:13,874 - INFO - Downloaded media from https://v.redd.it/3jpb91ggqa6f1/DASH_360.mp4?source=fallback to temp_video.mp4
+2025-06-16 13:32:13,993 - INFO - Downloaded media from https://v.redd.it/3jpb91ggqa6f1/DASH_360.mp4?source=fallback to temp_audio.mp4
+2025-06-16 13:32:17,297 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-16 13:32:21,714 - INFO - Posted content successfully. Tweet ID: 1934604965051539592
