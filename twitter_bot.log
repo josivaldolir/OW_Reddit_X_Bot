@@ -5047,3 +5047,11 @@ He just feels the weakest he's ever felt, Dragon's especially feels horrendous. 
 2025-06-16 11:14:03,672 - INFO - Video Path: 
 2025-06-16 11:14:03,827 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-16 11:38:16,034 - INFO - Content: You telling me I got to see all that for free?
+
+2025-06-16 11:38:16,034 - INFO - Image Paths: ['https://external-preview.redd.it/bmh4ZXIwem9nODdmMZBJDHaB4IjKIidOD0GC9SNz-Cq8_OZ_unADmfV7IdDj.png?format=pjpg&auto=webp&s=0bf65f89a57cc5a43b4f8dea8d19d9da66ff19d0']
+2025-06-16 11:38:16,034 - INFO - Video Path: https://v.redd.it/bo0js62pg87f1/DASH_1080.mp4?source=fallback
+2025-06-16 11:38:16,710 - INFO - Downloaded media from https://v.redd.it/bo0js62pg87f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-16 11:38:16,874 - INFO - Downloaded media from https://v.redd.it/bo0js62pg87f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-16 11:38:17,200 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-16 11:38:23,564 - INFO - Posted content successfully. Tweet ID: 1934576283641667644
