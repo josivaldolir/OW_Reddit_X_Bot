@@ -5113,3 +5113,9 @@ I don’t condone toxicity in chat but sometimes I hear something insane in game
 2025-06-16 17:14:54,474 - INFO - Image Paths: []
 2025-06-16 17:14:54,474 - INFO - Video Path: 
 2025-06-16 17:14:54,877 - INFO - Posted content successfully. Tweet ID: 1934660972377215104
+2025-06-16 17:41:27,816 - INFO - Content: Time to go to work!
+
+2025-06-16 17:41:27,816 - INFO - Image Paths: ['https://preview.redd.it/34p29a9ota6f1.jpeg?auto=webp&s=2d6931c0d46d0882ddf29b02ce2d3072f566ed66']
+2025-06-16 17:41:27,816 - INFO - Video Path: 
+2025-06-16 17:41:28,140 - INFO - Downloaded media from https://preview.redd.it/34p29a9ota6f1.jpeg?auto=webp&s=2d6931c0d46d0882ddf29b02ce2d3072f566ed66 to temp_image.jpg
+2025-06-16 17:41:30,001 - INFO - Posted content successfully. Tweet ID: 1934667661126062215
