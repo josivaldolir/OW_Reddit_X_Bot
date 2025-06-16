@@ -5140,3 +5140,10 @@ BLIZZARD WHY?!?!?!?!?!
 2025-06-16 18:51:11,299 - INFO - Video Path: 
 2025-06-16 18:51:11,380 - INFO - Downloaded media from https://external-preview.redd.it/ERuCnQw9WYDqk_ozATT2uhUCu7KWejeTG8AgiWOUyTo.png?auto=webp&s=6d19776cc74c197031561b045c4e47a4b26adac8 to temp_image.jpg
 2025-06-16 18:51:12,625 - INFO - Posted content successfully. Tweet ID: 1934685204872089995
+2025-06-16 19:12:19,245 - INFO - Content: Overwatch 2 Tier List (Updated as of 6/11/25)
+
+2025-06-16 19:12:19,245 - INFO - Image Paths: ['https://preview.redd.it/b08f1su3y86f1.png?auto=webp&s=c88e54cef25c3b9ce008d6b3623d7c6450e445ac']
+2025-06-16 19:12:19,245 - INFO - Video Path: 
+2025-06-16 19:12:19,914 - INFO - Downloaded media from https://preview.redd.it/b08f1su3y86f1.png?auto=webp&s=c88e54cef25c3b9ce008d6b3623d7c6450e445ac to temp_image.jpg
+2025-06-16 19:12:20,689 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
