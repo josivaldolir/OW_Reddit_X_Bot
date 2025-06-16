@@ -5005,3 +5005,12 @@ He just feels the weakest he's ever felt, Dragon's especially feels horrendous. 
 2025-06-16 08:49:18,759 - INFO - Video Path: 
 2025-06-16 08:49:18,927 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-16 09:18:53,714 - INFO - Content: wasted my dva bomb 😔
+
+2025-06-16 09:18:53,715 - INFO - Image Paths: ['https://external-preview.redd.it/Z21ybDF2Y256ODdmMVqTm7YAOCBem1sypU34zu5X6UuzEWkLZNv5LAWoFluT.png?format=pjpg&auto=webp&s=615be62c2dd82371dca107a8be1c4afd7a0d6998']
+2025-06-16 09:18:53,715 - INFO - Video Path: https://v.redd.it/srp7kvcnz87f1/DASH_1080.mp4?source=fallback
+2025-06-16 09:18:54,000 - INFO - Downloaded media from https://v.redd.it/srp7kvcnz87f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-16 09:18:54,099 - INFO - Downloaded media from https://v.redd.it/srp7kvcnz87f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-16 09:18:54,887 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-16 09:19:00,596 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
