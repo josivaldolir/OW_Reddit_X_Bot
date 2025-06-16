@@ -5023,3 +5023,11 @@ Too Many Requests
 2025-06-16 09:43:41,803 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-16 09:43:48,722 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-16 10:18:05,588 - INFO - Content: wasted my dva bomb 😔
+
+2025-06-16 10:18:05,588 - INFO - Image Paths: ['https://external-preview.redd.it/Z21ybDF2Y256ODdmMVqTm7YAOCBem1sypU34zu5X6UuzEWkLZNv5LAWoFluT.png?format=pjpg&auto=webp&s=615be62c2dd82371dca107a8be1c4afd7a0d6998']
+2025-06-16 10:18:05,588 - INFO - Video Path: https://v.redd.it/srp7kvcnz87f1/DASH_1080.mp4?source=fallback
+2025-06-16 10:18:06,275 - INFO - Downloaded media from https://v.redd.it/srp7kvcnz87f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-16 10:18:06,411 - INFO - Downloaded media from https://v.redd.it/srp7kvcnz87f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-16 10:18:09,005 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-16 10:18:15,337 - INFO - Posted content successfully. Tweet ID: 1934556116643619199
