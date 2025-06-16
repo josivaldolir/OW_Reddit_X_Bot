@@ -5194,3 +5194,12 @@ But in all seriousness, HAS Sombra done anything to class her as villain? I'm no
 2025-06-16 21:38:37,749 - INFO - Video Path: 
 2025-06-16 21:38:37,889 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-16 22:15:15,516 - INFO - Content: Deserved tbh
+
+2025-06-16 22:15:15,516 - INFO - Image Paths: ['https://external-preview.redd.it/eXZvNzM0dnpmYzdmMeWY5FVRT7THJnFHBGXYp-FiOirDPZMUeX9z3Os47MFi.png?format=pjpg&auto=webp&s=9f710e48d887c715934a4541226b621598dece47']
+2025-06-16 22:15:15,516 - INFO - Video Path: https://v.redd.it/ag15vruzfc7f1/DASH_720.mp4?source=fallback
+2025-06-16 22:15:15,725 - INFO - Downloaded media from https://v.redd.it/ag15vruzfc7f1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-06-16 22:15:15,763 - INFO - Downloaded media from https://v.redd.it/ag15vruzfc7f1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-06-16 22:15:16,535 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-16 22:15:23,209 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
