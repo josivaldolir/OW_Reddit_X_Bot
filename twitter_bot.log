@@ -5083,3 +5083,10 @@ I don’t condone toxicity in chat but sometimes I hear something insane in game
 2025-06-16 14:45:06,899 - INFO - Video Path: 
 2025-06-16 14:45:07,073 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-16 15:17:21,162 - INFO - Content: The truth is... I'm just a game mode
+
+2025-06-16 15:17:21,162 - INFO - Image Paths: ['https://preview.redd.it/i4c1n5nr1b7f1.jpeg?auto=webp&s=f0ade9d44095c01e38d039c54bcd1e47401862f5']
+2025-06-16 15:17:21,162 - INFO - Video Path: 
+2025-06-16 15:17:21,214 - INFO - Downloaded media from https://preview.redd.it/i4c1n5nr1b7f1.jpeg?auto=webp&s=f0ade9d44095c01e38d039c54bcd1e47401862f5 to temp_image.jpg
+2025-06-16 15:17:22,527 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
