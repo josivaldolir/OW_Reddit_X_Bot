@@ -5154,3 +5154,10 @@ IG Ashe: raijiro\_ IG Photographer: ashen.photography
 2025-06-16 19:36:17,704 - INFO - Downloaded media from https://preview.redd.it/toc5xjl0rb7f1.png?auto=webp&s=a4cfebc6adccf533af219c021bfffcfaafb5c286 to temp_image.jpg
 2025-06-16 19:36:18,764 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-16 20:17:27,661 - INFO - Content: Poolside Ashe Cosplay!
+IG Ashe: raijiro\_ IG Photographer: ashen.photography
+2025-06-16 20:17:27,661 - INFO - Image Paths: ['https://preview.redd.it/toc5xjl0rb7f1.png?auto=webp&s=a4cfebc6adccf533af219c021bfffcfaafb5c286']
+2025-06-16 20:17:27,661 - INFO - Video Path: 
+2025-06-16 20:17:28,052 - INFO - Downloaded media from https://preview.redd.it/toc5xjl0rb7f1.png?auto=webp&s=a4cfebc6adccf533af219c021bfffcfaafb5c286 to temp_image.jpg
+2025-06-16 20:17:28,730 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
