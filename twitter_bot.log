@@ -5031,3 +5031,11 @@ Too Many Requests
 2025-06-16 10:18:06,411 - INFO - Downloaded media from https://v.redd.it/srp7kvcnz87f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-06-16 10:18:09,005 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-16 10:18:15,337 - INFO - Posted content successfully. Tweet ID: 1934556116643619199
+2025-06-16 10:46:03,798 - INFO - Content: I accidentally baited this Rein for my Lucio.
+
+2025-06-16 10:46:03,798 - INFO - Image Paths: ['https://external-preview.redd.it/Z2kwc25tODY3OTdmMeutVVctA-KCFZkk3eCqRjh0EvxykqHJfwc7j4zNCuut.png?format=pjpg&auto=webp&s=86f2a907334213ad9f7f8cab02cf8889ab9dfb76']
+2025-06-16 10:46:03,798 - INFO - Video Path: https://v.redd.it/za8g287z697f1/DASH_1080.mp4?source=fallback
+2025-06-16 10:46:04,390 - INFO - Downloaded media from https://v.redd.it/za8g287z697f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-16 10:46:04,451 - INFO - Downloaded media from https://v.redd.it/za8g287z697f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-16 10:46:04,822 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-16 10:46:09,639 - INFO - Posted content successfully. Tweet ID: 1934563138789310976
