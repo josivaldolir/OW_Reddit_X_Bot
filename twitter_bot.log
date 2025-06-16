@@ -4976,3 +4976,9 @@ I have negative -2615 comp points
 2025-06-16 06:52:25,205 - INFO - Downloaded media from https://preview.redd.it/paot0fo4187f1.jpeg?auto=webp&s=e9ace2e6fbed9115c47e25ac137d2fd932e00234 to temp_image.jpg
 2025-06-16 06:52:26,869 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-16 07:17:58,798 - INFO - Content: Negative comp points
+I have negative -2615 comp points
+2025-06-16 07:17:58,798 - INFO - Image Paths: ['https://preview.redd.it/paot0fo4187f1.jpeg?auto=webp&s=e9ace2e6fbed9115c47e25ac137d2fd932e00234']
+2025-06-16 07:17:58,798 - INFO - Video Path: 
+2025-06-16 07:17:58,961 - INFO - Downloaded media from https://preview.redd.it/paot0fo4187f1.jpeg?auto=webp&s=e9ace2e6fbed9115c47e25ac137d2fd932e00234 to temp_image.jpg
+2025-06-16 07:18:00,413 - INFO - Posted content successfully. Tweet ID: 1934510754360897670
