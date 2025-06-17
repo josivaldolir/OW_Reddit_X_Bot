@@ -5394,3 +5394,10 @@ Too Many Requests
 2025-06-17 13:50:54,677 - INFO - Downloaded media from https://preview.redd.it/u8frkybgbh7f1.jpeg?auto=webp&s=a10e547a78d14496e09a7610920a1258eb4c37f6 to temp_image.jpg
 2025-06-17 13:50:55,572 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-17 14:16:11,702 - INFO - Content: Is this not a Drawing competition?
+
+2025-06-17 14:16:11,703 - INFO - Image Paths: ['https://preview.redd.it/u8frkybgbh7f1.jpeg?auto=webp&s=a10e547a78d14496e09a7610920a1258eb4c37f6']
+2025-06-17 14:16:11,703 - INFO - Video Path: 
+2025-06-17 14:16:11,848 - INFO - Downloaded media from https://preview.redd.it/u8frkybgbh7f1.jpeg?auto=webp&s=a10e547a78d14496e09a7610920a1258eb4c37f6 to temp_image.jpg
+2025-06-17 14:16:12,846 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
