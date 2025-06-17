@@ -5492,3 +5492,9 @@ Too Many Requests
 2025-06-17 21:14:55,976 - INFO - Downloaded media from https://preview.redd.it/lc41gtv7dj7f1.png?auto=webp&s=6359059d617e6bd3a23f31c6786af212da724555 to temp_image.jpg
 2025-06-17 21:14:57,077 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-17 21:40:08,106 - INFO - Content: Daddy? 😳
+
+2025-06-17 21:40:08,106 - INFO - Image Paths: ['https://preview.redd.it/lc41gtv7dj7f1.png?auto=webp&s=6359059d617e6bd3a23f31c6786af212da724555']
+2025-06-17 21:40:08,106 - INFO - Video Path: 
+2025-06-17 21:40:08,405 - INFO - Downloaded media from https://preview.redd.it/lc41gtv7dj7f1.png?auto=webp&s=6359059d617e6bd3a23f31c6786af212da724555 to temp_image.jpg
+2025-06-17 21:40:09,672 - INFO - Posted content successfully. Tweet ID: 1935090110183420062
