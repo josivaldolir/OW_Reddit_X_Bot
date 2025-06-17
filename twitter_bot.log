@@ -5407,3 +5407,9 @@ Too Many Requests
 2025-06-17 14:44:57,012 - INFO - Video Path: 
 2025-06-17 14:44:57,151 - INFO - Downloaded media from https://preview.redd.it/u8frkybgbh7f1.jpeg?auto=webp&s=a10e547a78d14496e09a7610920a1258eb4c37f6 to temp_image.jpg
 2025-06-17 14:44:58,485 - INFO - Posted content successfully. Tweet ID: 1934985625490571691
+2025-06-17 15:17:30,079 - INFO - Content: Why don’t all supports have a little icon like mercy/zen do
+I personally think that would decrease the number of “HEALS????” comments if people get an indicator that they’re being healed.
+2025-06-17 15:17:30,080 - INFO - Image Paths: []
+2025-06-17 15:17:30,080 - INFO - Video Path: 
+2025-06-17 15:17:30,237 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
