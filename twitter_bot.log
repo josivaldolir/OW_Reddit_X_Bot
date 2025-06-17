@@ -5366,3 +5366,11 @@ Too Many Requests
 2025-06-17 11:13:45,602 - INFO - Downloaded media from https://preview.redd.it/d57kegdfyg7f1.png?auto=webp&s=8c31b75622920a07f84805677724825543336072 to temp_image.jpg
 2025-06-17 11:13:47,750 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-17 11:38:02,519 - INFO - Content: Throwback to my greatest play of the game.
+
+2025-06-17 11:38:02,519 - INFO - Image Paths: ['https://external-preview.redd.it/aWZoM2tnaGJsZzdmMdcQRmfXvn4PVQtDsFnrqHR5X3UXr5GAtGiahVwGTCag.png?format=pjpg&auto=webp&s=b22625b64b24a4b5dc2eca0940e258a3c634fb29']
+2025-06-17 11:38:02,520 - INFO - Video Path: https://v.redd.it/on51ggkblg7f1/DASH_1080.mp4?source=fallback
+2025-06-17 11:38:03,239 - INFO - Downloaded media from https://v.redd.it/on51ggkblg7f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-17 11:38:03,431 - INFO - Downloaded media from https://v.redd.it/on51ggkblg7f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-17 11:38:03,744 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-17 11:38:08,981 - INFO - Posted content successfully. Tweet ID: 1934938610547175637
