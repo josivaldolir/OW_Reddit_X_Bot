@@ -5524,3 +5524,9 @@ Too Many Requests
 2025-06-17 23:15:00,508 - INFO - Video Path: 
 2025-06-17 23:15:00,568 - INFO - Downloaded media from https://preview.redd.it/w9suf0dl7j7f1.jpeg?auto=webp&s=f3644d95e70cc14c87d9aab2f3b53a7e846ac4b4 to temp_image.jpg
 2025-06-17 23:15:01,510 - INFO - Posted content successfully. Tweet ID: 1935113984564408408
+2025-06-17 23:39:01,632 - INFO - Content: Guys, i have another theory
+
+2025-06-17 23:39:01,632 - INFO - Image Paths: ['https://preview.redd.it/l7kwc15nik7f1.jpeg?auto=webp&s=c663a79135ab8b336919be634d8d5d37484f6ae1']
+2025-06-17 23:39:01,632 - INFO - Video Path: 
+2025-06-17 23:39:01,703 - INFO - Downloaded media from https://preview.redd.it/l7kwc15nik7f1.jpeg?auto=webp&s=c663a79135ab8b336919be634d8d5d37484f6ae1 to temp_image.jpg
+2025-06-17 23:39:02,988 - INFO - Posted content successfully. Tweet ID: 1935120030280323356
