@@ -5420,3 +5420,9 @@ Too Many Requests
 2025-06-17 15:43:01,463 - INFO - Downloaded media from https://preview.redd.it/0xucvjk42i7f1.png?auto=webp&s=74fd79926d4ecaf4cca1fa18f885bef1974ff119 to temp_image.jpg
 2025-06-17 15:43:02,166 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-17 16:20:32,356 - INFO - Content: My live reaction to Spilo defending a bigot:
+[https://x.com/FartTart05/status/1934741911283151203](https://x.com/FartTart05/status/1934741911283151203)
+2025-06-17 16:20:32,356 - INFO - Image Paths: ['https://preview.redd.it/0xucvjk42i7f1.png?auto=webp&s=74fd79926d4ecaf4cca1fa18f885bef1974ff119']
+2025-06-17 16:20:32,356 - INFO - Video Path: 
+2025-06-17 16:20:32,541 - INFO - Downloaded media from https://preview.redd.it/0xucvjk42i7f1.png?auto=webp&s=74fd79926d4ecaf4cca1fa18f885bef1974ff119 to temp_image.jpg
+2025-06-17 16:20:33,369 - INFO - Posted content successfully. Tweet ID: 1935009679970840957
