@@ -5359,3 +5359,10 @@ Neither of them were supposed to be fighters, too. You could also add Dom from G
 2025-06-17 10:45:12,427 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-17 10:45:18,350 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-17 11:13:45,367 - INFO - Content: Ash secretly had a daughter?
+
+2025-06-17 11:13:45,367 - INFO - Image Paths: ['https://preview.redd.it/d57kegdfyg7f1.png?auto=webp&s=8c31b75622920a07f84805677724825543336072']
+2025-06-17 11:13:45,367 - INFO - Video Path: 
+2025-06-17 11:13:45,602 - INFO - Downloaded media from https://preview.redd.it/d57kegdfyg7f1.png?auto=webp&s=8c31b75622920a07f84805677724825543336072 to temp_image.jpg
+2025-06-17 11:13:47,750 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
