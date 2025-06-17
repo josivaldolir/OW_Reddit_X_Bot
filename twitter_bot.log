@@ -5245,3 +5245,11 @@ I mean, he controls one of the basic forces of the universe. What do you guys th
 2025-06-17 04:01:12,078 - INFO - Video Path: 
 2025-06-17 04:01:12,155 - INFO - Downloaded media from https://preview.redd.it/0cfw46zmed7f1.jpeg?auto=webp&s=0a386a69f7227708e5708edc27e98cb955e00f7a to temp_image.jpg
 2025-06-17 04:01:13,023 - INFO - Posted content successfully. Tweet ID: 1934823619458420793
+2025-06-17 04:34:58,659 - INFO - Content: BONk (2)
+
+2025-06-17 04:34:58,660 - INFO - Image Paths: ['https://external-preview.redd.it/ZDdhOWZlMTgxZjdmMYBGjiLoi1FkaBPdOiVr0IofSeye4pbDwpeaVfXgtz_V.png?format=pjpg&auto=webp&s=3491ea4448dd3874c3c01ae5a0d91bde312ee0e4']
+2025-06-17 04:34:58,660 - INFO - Video Path: https://v.redd.it/ifygjpx71f7f1/DASH_480.mp4?source=fallback
+2025-06-17 04:34:58,958 - INFO - Downloaded media from https://v.redd.it/ifygjpx71f7f1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-06-17 04:34:59,035 - INFO - Downloaded media from https://v.redd.it/ifygjpx71f7f1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-06-17 04:35:01,694 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-17 04:35:04,608 - INFO - Posted content successfully. Tweet ID: 1934832140694573490
