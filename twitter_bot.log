@@ -5267,3 +5267,11 @@ Hope I can score 100%
 2025-06-17 05:43:17,748 - INFO - Video Path: 
 2025-06-17 05:43:17,975 - INFO - Downloaded media from https://preview.redd.it/4km649mbde7f1.png?auto=webp&s=cb6914677740e184a79bf33ad64d9dc82ebd4704 to temp_image.jpg
 2025-06-17 05:43:18,995 - INFO - Posted content successfully. Tweet ID: 1934849313483706860
+2025-06-17 06:23:33,807 - INFO - Content: Deserved tbh
+
+2025-06-17 06:23:33,808 - INFO - Image Paths: ['https://external-preview.redd.it/eXZvNzM0dnpmYzdmMeWY5FVRT7THJnFHBGXYp-FiOirDPZMUeX9z3Os47MFi.png?format=pjpg&auto=webp&s=9f710e48d887c715934a4541226b621598dece47']
+2025-06-17 06:23:33,808 - INFO - Video Path: https://v.redd.it/ag15vruzfc7f1/DASH_720.mp4?source=fallback
+2025-06-17 06:23:33,952 - INFO - Downloaded media from https://v.redd.it/ag15vruzfc7f1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-06-17 06:23:34,011 - INFO - Downloaded media from https://v.redd.it/ag15vruzfc7f1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-06-17 06:23:36,488 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-17 06:23:47,811 - INFO - Posted content successfully. Tweet ID: 1934859501003522208
