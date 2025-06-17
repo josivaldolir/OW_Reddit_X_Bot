@@ -5508,3 +5508,13 @@ I hope Overwatch will hold a skin contest
 2025-06-17 22:14:43,808 - INFO - Downloaded media from https://preview.redd.it/dbeq64h2vi7f1.jpeg?auto=webp&s=73e11684593376a5eb0f9ef31fb72e81e6361b25 to temp_image.jpg
 2025-06-17 22:14:44,545 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-17 22:43:22,321 - INFO - Content: Venture 'steampunk' skin design
+It's been so long...  
+I drew a skin of venture!
+
+I hope Overwatch will hold a skin contest
+2025-06-17 22:43:22,321 - INFO - Image Paths: ['https://preview.redd.it/dbeq64h2vi7f1.jpeg?auto=webp&s=73e11684593376a5eb0f9ef31fb72e81e6361b25']
+2025-06-17 22:43:22,321 - INFO - Video Path: 
+2025-06-17 22:43:22,623 - INFO - Downloaded media from https://preview.redd.it/dbeq64h2vi7f1.jpeg?auto=webp&s=73e11684593376a5eb0f9ef31fb72e81e6361b25 to temp_image.jpg
+2025-06-17 22:43:23,580 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
