@@ -5471,3 +5471,10 @@ Over on Playoverwatch’s Instagram page, the official account seems to have nam
 2025-06-17 19:40:59,892 - INFO - Downloaded media from https://preview.redd.it/ol8gkhwwxi7f1.jpeg?auto=webp&s=4866f6a799ee578728f6ffc45c685876ce2500c2 to temp_image.jpg
 2025-06-17 19:41:00,518 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-17 20:18:41,139 - INFO - Content: Daddy? 😳
+
+2025-06-17 20:18:41,139 - INFO - Image Paths: ['https://preview.redd.it/lc41gtv7dj7f1.png?auto=webp&s=6359059d617e6bd3a23f31c6786af212da724555']
+2025-06-17 20:18:41,139 - INFO - Video Path: 
+2025-06-17 20:18:41,222 - INFO - Downloaded media from https://preview.redd.it/lc41gtv7dj7f1.png?auto=webp&s=6359059d617e6bd3a23f31c6786af212da724555 to temp_image.jpg
+2025-06-17 20:18:41,910 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
