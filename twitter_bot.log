@@ -5309,3 +5309,13 @@ Whatever happened to “treat others as you would want to be treated”? Probabl
 2025-06-17 07:41:08,420 - INFO - Image Paths: []
 2025-06-17 07:41:08,420 - INFO - Video Path: 
 2025-06-17 07:41:08,726 - INFO - Posted content successfully. Tweet ID: 1934878966466400654
+2025-06-17 08:21:50,250 - INFO - Content: Maximum LW cooldown efficiency
+
+
+2025-06-17 08:21:50,250 - INFO - Image Paths: ['https://external-preview.redd.it/djVwNjBoaTZ0YzdmMWdxvQdcjsoK_L-mRjoe8c-vYEAOWIkMlMgYd5AG5EvU.png?format=pjpg&auto=webp&s=9e3a9bc7201de76386692d49f731b0d43f6113fe']
+2025-06-17 08:21:50,250 - INFO - Video Path: https://v.redd.it/ove7exj6tc7f1/DASH_1080.mp4?source=fallback
+2025-06-17 08:21:50,587 - INFO - Downloaded media from https://v.redd.it/ove7exj6tc7f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-17 08:21:50,736 - INFO - Downloaded media from https://v.redd.it/ove7exj6tc7f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-17 08:21:51,157 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-17 08:22:09,161 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
