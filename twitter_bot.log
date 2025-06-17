@@ -5518,3 +5518,9 @@ I hope Overwatch will hold a skin contest
 2025-06-17 22:43:22,623 - INFO - Downloaded media from https://preview.redd.it/dbeq64h2vi7f1.jpeg?auto=webp&s=73e11684593376a5eb0f9ef31fb72e81e6361b25 to temp_image.jpg
 2025-06-17 22:43:23,580 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-17 23:15:00,508 - INFO - Content: Hammond rolled the worst joints too
+
+2025-06-17 23:15:00,508 - INFO - Image Paths: ['https://preview.redd.it/w9suf0dl7j7f1.jpeg?auto=webp&s=f3644d95e70cc14c87d9aab2f3b53a7e846ac4b4']
+2025-06-17 23:15:00,508 - INFO - Video Path: 
+2025-06-17 23:15:00,568 - INFO - Downloaded media from https://preview.redd.it/w9suf0dl7j7f1.jpeg?auto=webp&s=f3644d95e70cc14c87d9aab2f3b53a7e846ac4b4 to temp_image.jpg
+2025-06-17 23:15:01,510 - INFO - Posted content successfully. Tweet ID: 1935113984564408408
