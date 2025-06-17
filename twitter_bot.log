@@ -5464,3 +5464,10 @@ It was just barely shown on the side menu like 15 seconds into the trailer
 2025-06-17 19:12:51,763 - INFO - Video Path: 
 2025-06-17 19:12:51,990 - INFO - Downloaded media from https://preview.redd.it/r2zgpa1phi7f1.jpeg?auto=webp&s=76c8c27731663c096bd5eaab4c7a6630dfc0d55c to temp_image.jpg
 2025-06-17 19:12:52,710 - INFO - Posted content successfully. Tweet ID: 1935053046641459449
+2025-06-17 19:40:59,823 - INFO - Content: Aqua’s name revealed
+Over on Playoverwatch’s Instagram page, the official account seems to have name dropped Aqua as Wuyang.
+2025-06-17 19:40:59,823 - INFO - Image Paths: ['https://preview.redd.it/ol8gkhwwxi7f1.jpeg?auto=webp&s=4866f6a799ee578728f6ffc45c685876ce2500c2']
+2025-06-17 19:40:59,823 - INFO - Video Path: 
+2025-06-17 19:40:59,892 - INFO - Downloaded media from https://preview.redd.it/ol8gkhwwxi7f1.jpeg?auto=webp&s=4866f6a799ee578728f6ffc45c685876ce2500c2 to temp_image.jpg
+2025-06-17 19:41:00,518 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
