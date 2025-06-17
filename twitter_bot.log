@@ -5374,3 +5374,9 @@ Too Many Requests
 2025-06-17 11:38:03,431 - INFO - Downloaded media from https://v.redd.it/on51ggkblg7f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-06-17 11:38:03,744 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-17 11:38:08,981 - INFO - Posted content successfully. Tweet ID: 1934938610547175637
+2025-06-17 12:35:27,667 - INFO - Content: Ash secretly had a daughter?
+
+2025-06-17 12:35:27,667 - INFO - Image Paths: ['https://preview.redd.it/d57kegdfyg7f1.png?auto=webp&s=8c31b75622920a07f84805677724825543336072']
+2025-06-17 12:35:27,667 - INFO - Video Path: 
+2025-06-17 12:35:28,020 - INFO - Downloaded media from https://preview.redd.it/d57kegdfyg7f1.png?auto=webp&s=8c31b75622920a07f84805677724825543336072 to temp_image.jpg
+2025-06-17 12:35:31,903 - INFO - Posted content successfully. Tweet ID: 1934953041234678069
