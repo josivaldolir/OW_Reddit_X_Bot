@@ -5572,3 +5572,9 @@ I hope Overwatch will hold a skin contest
 2025-06-18 05:16:31,388 - INFO - Downloaded media from https://preview.redd.it/svni9tdzcj7f1.jpeg?auto=webp&s=f0c30036f95101b38146659e7a7a397ed8b8cfcf to temp_image.jpg
 2025-06-18 05:16:32,506 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-18 05:43:07,585 - INFO - Content: I am the woman awayzer
+
+2025-06-18 05:43:07,585 - INFO - Image Paths: ['https://preview.redd.it/gx266k8pdm7f1.jpeg?auto=webp&s=928dafe6052fccfc9e550f15ae4a136eec5a29e6']
+2025-06-18 05:43:07,585 - INFO - Video Path: 
+2025-06-18 05:43:07,728 - INFO - Downloaded media from https://preview.redd.it/gx266k8pdm7f1.jpeg?auto=webp&s=928dafe6052fccfc9e550f15ae4a136eec5a29e6 to temp_image.jpg
+2025-06-18 05:43:08,893 - INFO - Posted content successfully. Tweet ID: 1935211658751709384
