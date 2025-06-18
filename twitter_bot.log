@@ -5632,3 +5632,10 @@ It looks like Mercy has the chad face and it looks like Lifeweaver is giving the
 2025-06-18 10:16:59,683 - INFO - Video Path: 
 2025-06-18 10:16:59,822 - INFO - Downloaded media from https://external-preview.redd.it/h1YwcU3UqF9CWRQwT9j8Dd8FQfhPdkc-iMJtpWFti8c.jpeg?auto=webp&s=a4e06bf507c6ba1450d03b0e8b341ee8dacc9609 to temp_image.jpg
 2025-06-18 10:17:00,844 - INFO - Posted content successfully. Tweet ID: 1935280579592716540
+2025-06-18 10:44:53,189 - INFO - Content: 9 months ago I made this prediction about the new hero "Aqua"
+
+2025-06-18 10:44:53,189 - INFO - Image Paths: ['https://preview.redd.it/slznf3vf0o7f1.png?auto=webp&s=94bf39ef61a80d3d58723d3c2c84a573530c319d']
+2025-06-18 10:44:53,189 - INFO - Video Path: 
+2025-06-18 10:44:53,453 - INFO - Downloaded media from https://preview.redd.it/slznf3vf0o7f1.png?auto=webp&s=94bf39ef61a80d3d58723d3c2c84a573530c319d to temp_image.jpg
+2025-06-18 10:44:54,391 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
