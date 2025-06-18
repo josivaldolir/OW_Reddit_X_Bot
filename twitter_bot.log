@@ -5565,3 +5565,10 @@ I hope Overwatch will hold a skin contest
 2025-06-18 04:35:17,400 - INFO - Video Path: 
 2025-06-18 04:35:17,623 - INFO - Downloaded media from https://preview.redd.it/dbeq64h2vi7f1.jpeg?auto=webp&s=73e11684593376a5eb0f9ef31fb72e81e6361b25 to temp_image.jpg
 2025-06-18 04:35:18,522 - INFO - Posted content successfully. Tweet ID: 1935194586646987162
+2025-06-18 05:16:31,079 - INFO - Content: Rammatra forgot her feet at home
+
+2025-06-18 05:16:31,079 - INFO - Image Paths: ['https://preview.redd.it/svni9tdzcj7f1.jpeg?auto=webp&s=f0c30036f95101b38146659e7a7a397ed8b8cfcf']
+2025-06-18 05:16:31,079 - INFO - Video Path: 
+2025-06-18 05:16:31,388 - INFO - Downloaded media from https://preview.redd.it/svni9tdzcj7f1.jpeg?auto=webp&s=f0c30036f95101b38146659e7a7a397ed8b8cfcf to temp_image.jpg
+2025-06-18 05:16:32,506 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
