@@ -5690,3 +5690,10 @@ Too Many Requests
 2025-06-18 14:45:47,905 - INFO - Video Path: 
 2025-06-18 14:45:47,960 - INFO - Downloaded media from https://preview.redd.it/e616ap0fxo7f1.jpeg?auto=webp&s=d0513f98304d405b75695f3183908e6a4307d035 to temp_image.jpg
 2025-06-18 14:45:49,247 - INFO - Posted content successfully. Tweet ID: 1935348226724651286
+2025-06-18 15:18:30,891 - INFO - Content: How Genji and Hanzo Players Who Refuse to Switch Think of Themselves
+There is no other explanation for why they're extremely stubborn.
+2025-06-18 15:18:30,891 - INFO - Image Paths: ['https://preview.redd.it/nznvzor0uo7f1.gif?format=png8&s=dfec1502c5e8da0337ffed14a0463c77355fa480']
+2025-06-18 15:18:30,891 - INFO - Video Path: 
+2025-06-18 15:18:30,987 - INFO - Downloaded media from https://preview.redd.it/nznvzor0uo7f1.gif?format=png8&s=dfec1502c5e8da0337ffed14a0463c77355fa480 to temp_image.jpg
+2025-06-18 15:18:31,702 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
