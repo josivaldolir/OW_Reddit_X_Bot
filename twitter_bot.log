@@ -5783,3 +5783,9 @@ Even though I am disappointed she's not coming in season 18 I'm still super stok
 2025-06-18 21:38:29,218 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-18 21:38:33,386 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-18 22:14:59,735 - INFO - Content: Everywhere I Watch, I see his Over
+
+2025-06-18 22:14:59,735 - INFO - Image Paths: ['https://preview.redd.it/669h50su4r7f1.jpeg?auto=webp&s=560736096230d7df9785985122b571341c96014b']
+2025-06-18 22:14:59,735 - INFO - Video Path: 
+2025-06-18 22:14:59,938 - INFO - Downloaded media from https://preview.redd.it/669h50su4r7f1.jpeg?auto=webp&s=560736096230d7df9785985122b571341c96014b to temp_image.jpg
+2025-06-18 22:15:01,835 - INFO - Posted content successfully. Tweet ID: 1935461273225089452
