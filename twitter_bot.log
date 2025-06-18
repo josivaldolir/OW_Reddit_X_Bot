@@ -5797,3 +5797,9 @@ Too Many Requests
 2025-06-18 22:43:10,874 - INFO - Downloaded media from https://v.redd.it/5v6wqs7xoq7f1/DASH_480.mp4?source=fallback to temp_audio.mp4
 2025-06-18 22:43:11,315 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-18 22:43:17,652 - INFO - Posted content successfully. Tweet ID: 1935468387146285215
+2025-06-18 23:15:15,050 - INFO - Content: Kiriko's High school skin fanart
+Reddit mobile messed up and it replaced Kiriko with the 2nd image 🥀 
+2025-06-18 23:15:15,050 - INFO - Image Paths: ['https://external-preview.redd.it/LmtQiPmT7JXVVlMG9A7Ms8vc7jLV429MPa7zRI6K2xo.jpeg?auto=webp&s=7a5fb5a8db0ec489420b39bd998bed0bb50297dc']
+2025-06-18 23:15:15,050 - INFO - Video Path: 
+2025-06-18 23:15:15,126 - INFO - Downloaded media from https://external-preview.redd.it/LmtQiPmT7JXVVlMG9A7Ms8vc7jLV429MPa7zRI6K2xo.jpeg?auto=webp&s=7a5fb5a8db0ec489420b39bd998bed0bb50297dc to temp_image.jpg
+2025-06-18 23:15:16,510 - INFO - Posted content successfully. Tweet ID: 1935476434652565556
