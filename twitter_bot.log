@@ -5677,3 +5677,10 @@ Credits to @icemanbry 🤍 🤍
 2025-06-18 13:30:59,751 - INFO - Downloaded media from https://v.redd.it/m855fjdp9n7f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-06-18 13:31:00,370 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-18 13:31:13,693 - INFO - Posted content successfully. Tweet ID: 1935329455217721812
+2025-06-18 14:16:45,087 - INFO - Content: Ok, now what? 🤔
+
+2025-06-18 14:16:45,087 - INFO - Image Paths: ['https://preview.redd.it/e616ap0fxo7f1.jpeg?auto=webp&s=d0513f98304d405b75695f3183908e6a4307d035']
+2025-06-18 14:16:45,087 - INFO - Video Path: 
+2025-06-18 14:16:45,147 - INFO - Downloaded media from https://preview.redd.it/e616ap0fxo7f1.jpeg?auto=webp&s=d0513f98304d405b75695f3183908e6a4307d035 to temp_image.jpg
+2025-06-18 14:16:45,811 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
