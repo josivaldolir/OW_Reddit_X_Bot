@@ -5667,3 +5667,13 @@ Too Many Requests
 2025-06-18 12:32:58,888 - INFO - Downloaded media from https://preview.redd.it/slznf3vf0o7f1.png?auto=webp&s=94bf39ef61a80d3d58723d3c2c84a573530c319d to temp_image.jpg
 2025-06-18 12:32:59,838 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-18 13:30:58,512 - INFO - Content: Overwatch Season 17 skins but with memes
+Croissant?
+
+Credits to @icemanbry 🤍 🤍
+2025-06-18 13:30:58,512 - INFO - Image Paths: ['https://external-preview.redd.it/MXNua3RnZnA5bjdmMe_wtD-vWwQPvRX8Rw8GlmaipzAe8GxUkpuTLXzh8f5D.png?format=pjpg&auto=webp&s=38d29c3e46187e6ed22defbb411e148109c3a06f']
+2025-06-18 13:30:58,512 - INFO - Video Path: https://v.redd.it/m855fjdp9n7f1/DASH_1080.mp4?source=fallback
+2025-06-18 13:30:59,527 - INFO - Downloaded media from https://v.redd.it/m855fjdp9n7f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-18 13:30:59,751 - INFO - Downloaded media from https://v.redd.it/m855fjdp9n7f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-18 13:31:00,370 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-18 13:31:13,693 - INFO - Posted content successfully. Tweet ID: 1935329455217721812
