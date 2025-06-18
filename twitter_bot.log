@@ -5608,3 +5608,9 @@ I find it interesting that they called out aqua as unique. It’s fairly likely 
 2025-06-18 08:21:29,932 - INFO - Video Path: 
 2025-06-18 08:21:30,044 - INFO - Downloaded media from https://preview.redd.it/u3heyc9bpj7f1.jpeg?auto=webp&s=c8bfb84f2bbc08641adf8e86d86397388dfa1cf7 to temp_image.jpg
 2025-06-18 08:21:30,887 - INFO - Posted content successfully. Tweet ID: 1935251513292513551
+2025-06-18 08:49:08,456 - INFO - Content: New dva mythic (horang dva)
+
+2025-06-18 08:49:08,456 - INFO - Image Paths: ['https://external-preview.redd.it/fKWOrTgq8uHgQhlFCNjziBBY5To0gCYVwwilvv1hFK8.jpeg?auto=webp&s=d64b9d53b83b2430fc3c3f6bd961b7ebc273a84a']
+2025-06-18 08:49:08,456 - INFO - Video Path: 
+2025-06-18 08:49:08,802 - INFO - Downloaded media from https://external-preview.redd.it/fKWOrTgq8uHgQhlFCNjziBBY5To0gCYVwwilvv1hFK8.jpeg?auto=webp&s=d64b9d53b83b2430fc3c3f6bd961b7ebc273a84a to temp_image.jpg
+2025-06-18 08:49:10,498 - INFO - Posted content successfully. Tweet ID: 1935258472913789293
