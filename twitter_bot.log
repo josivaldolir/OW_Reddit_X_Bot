@@ -5697,3 +5697,10 @@ There is no other explanation for why they're extremely stubborn.
 2025-06-18 15:18:30,987 - INFO - Downloaded media from https://preview.redd.it/nznvzor0uo7f1.gif?format=png8&s=dfec1502c5e8da0337ffed14a0463c77355fa480 to temp_image.jpg
 2025-06-18 15:18:31,702 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-18 15:43:11,542 - INFO - Content: How Genji and Hanzo Players Who Refuse to Switch Think of Themselves
+There is no other explanation for why they're extremely stubborn.
+2025-06-18 15:43:11,542 - INFO - Image Paths: ['https://preview.redd.it/nznvzor0uo7f1.gif?format=png8&s=dfec1502c5e8da0337ffed14a0463c77355fa480']
+2025-06-18 15:43:11,542 - INFO - Video Path: 
+2025-06-18 15:43:11,652 - INFO - Downloaded media from https://preview.redd.it/nznvzor0uo7f1.gif?format=png8&s=dfec1502c5e8da0337ffed14a0463c77355fa480 to temp_image.jpg
+2025-06-18 15:43:12,672 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
