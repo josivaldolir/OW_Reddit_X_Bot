@@ -287,3 +287,10 @@ Masters support just trying to learn some dps but it hurts sometimes, I know I c
 2025-06-19 22:42:18,982 - INFO - Downloaded media from https://v.redd.it/xqzmo0gbky7f1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-06-19 22:42:19,571 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-19 22:42:27,068 - INFO - Posted content successfully. Tweet ID: 1935830562809561566
+2025-06-19 23:14:51,731 - INFO - Content: At least he got it on
+
+2025-06-19 23:14:51,731 - INFO - Image Paths: ['https://preview.redd.it/i4vas2ak9y7f1.png?auto=webp&s=a8be40af7f727e105045ecd0aef696c33eeba217']
+2025-06-19 23:14:51,731 - INFO - Video Path: 
+2025-06-19 23:14:51,812 - INFO - Downloaded media from https://preview.redd.it/i4vas2ak9y7f1.png?auto=webp&s=a8be40af7f727e105045ecd0aef696c33eeba217 to temp_image.jpg
+2025-06-19 23:14:52,465 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
