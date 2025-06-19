@@ -104,3 +104,10 @@ This is a silly little vent comic I made between Stadium matches. You can check 
 2025-06-19 10:44:58,919 - INFO - Downloaded media from https://v.redd.it/2eo8hbm6dr7f1/DASH_480.mp4?source=fallback to temp_audio.mp4
 2025-06-19 10:44:59,236 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-19 10:45:07,189 - INFO - Posted content successfully. Tweet ID: 1935650040359628872
+2025-06-19 11:13:49,574 - INFO - Content: CHARTS: Skins Per Hero/Season (end of S16) (+Spreadsheet)
+
+2025-06-19 11:13:49,574 - INFO - Image Paths: ['https://external-preview.redd.it/jKX2OfGD7-Hf6bP63d4KG-SCtFOUfv7P-S966Il8Xbo.png?auto=webp&s=67ce698c3ea62b0f1fb2530876f9f4fbd7ea67d8']
+2025-06-19 11:13:49,574 - INFO - Video Path: 
+2025-06-19 11:13:49,774 - INFO - Downloaded media from https://external-preview.redd.it/jKX2OfGD7-Hf6bP63d4KG-SCtFOUfv7P-S966Il8Xbo.png?auto=webp&s=67ce698c3ea62b0f1fb2530876f9f4fbd7ea67d8 to temp_image.jpg
+2025-06-19 11:13:50,537 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
