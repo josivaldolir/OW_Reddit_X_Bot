@@ -33,3 +33,10 @@ This game is just too stressful
 2025-06-19 04:35:03,833 - INFO - Downloaded media from https://preview.redd.it/ez5mhnm7cs7f1.jpeg?auto=webp&s=cb98cf0d0e9ec8740f93cae81dc56d4ca009652b to temp_image.jpg
 2025-06-19 04:35:04,503 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-19 05:15:56,682 - INFO - Content: Season 16: locked into Mei jail because of Dva. Season 17, I get to enjoy my ball heroes. Season 18, locked into Soldier jail because of Pharah
+
+2025-06-19 05:15:56,682 - INFO - Image Paths: ['https://preview.redd.it/8aqyjb29tr7f1.png?auto=webp&s=215b82c7a7a120de8b09de19d07ae56cc398ba60']
+2025-06-19 05:15:56,682 - INFO - Video Path: 
+2025-06-19 05:15:56,760 - INFO - Downloaded media from https://preview.redd.it/8aqyjb29tr7f1.png?auto=webp&s=215b82c7a7a120de8b09de19d07ae56cc398ba60 to temp_image.jpg
+2025-06-19 05:15:57,466 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
