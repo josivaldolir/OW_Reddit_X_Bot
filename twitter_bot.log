@@ -82,3 +82,11 @@ This is a silly little vent comic I made between Stadium matches. You can check 
 2025-06-19 08:48:03,358 - INFO - Video Path: 
 2025-06-19 08:48:03,591 - INFO - Downloaded media from https://preview.redd.it/8fvdi6z34t7f1.png?auto=webp&s=a1247e9f35e409e6600fd785f00676a207e208a2 to temp_image.jpg
 2025-06-19 08:48:05,169 - INFO - Posted content successfully. Tweet ID: 1935620586333724942
+2025-06-19 09:17:27,173 - INFO - Content: Just a little joke that im sure Sombra mains will laugh at
+
+2025-06-19 09:17:27,174 - INFO - Image Paths: ['https://external-preview.redd.it/Mm92OGhyZW52czdmMUWmWXmhHbTOt8DIJGL3eMVykqSjvRWFHM9jWvE-iwo2.png?format=pjpg&auto=webp&s=41de33c993d43d856af7db87ff1a98a0d21abe37']
+2025-06-19 09:17:27,174 - INFO - Video Path: https://v.redd.it/3nre1senvs7f1/DASH_720.mp4?source=fallback
+2025-06-19 09:17:27,684 - INFO - Downloaded media from https://v.redd.it/3nre1senvs7f1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-06-19 09:17:27,794 - INFO - Downloaded media from https://v.redd.it/3nre1senvs7f1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-06-19 09:17:28,860 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-19 09:17:35,659 - INFO - Posted content successfully. Tweet ID: 1935628014336856454
