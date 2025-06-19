@@ -6,3 +6,10 @@
 2025-06-18 23:39:45,019 - INFO - Downloaded media from https://preview.redd.it/8aqyjb29tr7f1.png?auto=webp&s=215b82c7a7a120de8b09de19d07ae56cc398ba60 to temp_image.jpg
 2025-06-18 23:39:45,659 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-19 01:15:45,809 - INFO - Content: "Let's take a look at our competitors"
+Seriously tho, how are they gonna balance this considering you can't swap to hitscan? Even with hitscan in play sometimes pharmercy feels too strong, especially in lower ranks...
+2025-06-19 01:15:45,809 - INFO - Image Paths: ['https://preview.redd.it/ya9duzhr1s7f1.jpeg?auto=webp&s=cb54b58be87718b194b5c6cf2c02d1cd3eba9273']
+2025-06-19 01:15:45,809 - INFO - Video Path: 
+2025-06-19 01:15:45,843 - INFO - Downloaded media from https://preview.redd.it/ya9duzhr1s7f1.jpeg?auto=webp&s=cb54b58be87718b194b5c6cf2c02d1cd3eba9273 to temp_image.jpg
+2025-06-19 01:15:46,953 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
