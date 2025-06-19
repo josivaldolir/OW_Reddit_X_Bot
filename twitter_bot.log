@@ -118,3 +118,10 @@ Too Many Requests
 2025-06-19 11:38:16,384 - INFO - Downloaded media from https://external-preview.redd.it/jKX2OfGD7-Hf6bP63d4KG-SCtFOUfv7P-S966Il8Xbo.png?auto=webp&s=67ce698c3ea62b0f1fb2530876f9f4fbd7ea67d8 to temp_image.jpg
 2025-06-19 11:38:17,124 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-19 12:32:11,508 - INFO - Content: CHARTS: Skins Per Hero/Season (end of S16) (+Spreadsheet)
+
+2025-06-19 12:32:11,508 - INFO - Image Paths: ['https://external-preview.redd.it/jKX2OfGD7-Hf6bP63d4KG-SCtFOUfv7P-S966Il8Xbo.png?auto=webp&s=67ce698c3ea62b0f1fb2530876f9f4fbd7ea67d8']
+2025-06-19 12:32:11,508 - INFO - Video Path: 
+2025-06-19 12:32:11,986 - INFO - Downloaded media from https://external-preview.redd.it/jKX2OfGD7-Hf6bP63d4KG-SCtFOUfv7P-S966Il8Xbo.png?auto=webp&s=67ce698c3ea62b0f1fb2530876f9f4fbd7ea67d8 to temp_image.jpg
+2025-06-19 12:32:12,913 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
