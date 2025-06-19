@@ -279,3 +279,11 @@ Too Many Requests
 2025-06-19 22:14:58,798 - INFO - Downloaded media from https://v.redd.it/ha1n3o5w0y7f1/DASH_480.mp4?source=fallback to temp_audio.mp4
 2025-06-19 22:14:59,087 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-19 22:15:10,583 - INFO - Posted content successfully. Tweet ID: 1935823698663223332
+2025-06-19 22:42:18,563 - INFO - Content: POV: Support main learning  the hard truths of DPS
+Masters support just trying to learn some dps but it hurts sometimes, I know I could have dashed but I thought the first 5 swings would get her
+2025-06-19 22:42:18,563 - INFO - Image Paths: ['https://external-preview.redd.it/NHE3d2tkYWJreTdmMd9NMRihoNbnPPAWwFNyuWKsDHYdwBl-e3i0kQnQKBMe.png?format=pjpg&auto=webp&s=290ac07fc4b4b97696cfb2b24f0983bdea60fb43']
+2025-06-19 22:42:18,563 - INFO - Video Path: https://v.redd.it/xqzmo0gbky7f1/DASH_720.mp4?source=fallback
+2025-06-19 22:42:18,924 - INFO - Downloaded media from https://v.redd.it/xqzmo0gbky7f1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-06-19 22:42:18,982 - INFO - Downloaded media from https://v.redd.it/xqzmo0gbky7f1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-06-19 22:42:19,571 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-19 22:42:27,068 - INFO - Posted content successfully. Tweet ID: 1935830562809561566
