@@ -26,3 +26,10 @@ Seriously tho, how are they gonna balance this considering you can't swap to hit
 2025-06-19 04:00:27,699 - INFO - Video Path: 
 2025-06-19 04:00:27,794 - INFO - Downloaded media from https://preview.redd.it/ya9duzhr1s7f1.jpeg?auto=webp&s=cb54b58be87718b194b5c6cf2c02d1cd3eba9273 to temp_image.jpg
 2025-06-19 04:00:29,464 - INFO - Posted content successfully. Tweet ID: 1935548211533648041
+2025-06-19 04:35:03,808 - INFO - Content: Average ow comp player
+This game is just too stressful
+2025-06-19 04:35:03,808 - INFO - Image Paths: ['https://preview.redd.it/ez5mhnm7cs7f1.jpeg?auto=webp&s=cb98cf0d0e9ec8740f93cae81dc56d4ca009652b']
+2025-06-19 04:35:03,808 - INFO - Video Path: 
+2025-06-19 04:35:03,833 - INFO - Downloaded media from https://preview.redd.it/ez5mhnm7cs7f1.jpeg?auto=webp&s=cb98cf0d0e9ec8740f93cae81dc56d4ca009652b to temp_image.jpg
+2025-06-19 04:35:04,503 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
