@@ -96,3 +96,11 @@ This is a silly little vent comic I made between Stadium matches. You can check 
 2025-06-19 10:17:23,536 - INFO - Video Path: 
 2025-06-19 10:17:23,880 - INFO - Downloaded media from https://preview.redd.it/ylukizjsxu7f1.jpeg?auto=webp&s=36e0624d6952e2f4f88bb1071080bff0c5e6460f to temp_image.jpg
 2025-06-19 10:17:25,219 - INFO - Posted content successfully. Tweet ID: 1935643069527060783
+2025-06-19 10:44:57,936 - INFO - Content: Contested point as Widow 😭
+
+2025-06-19 10:44:57,936 - INFO - Image Paths: ['https://external-preview.redd.it/Z3RjaTNjbzZkcjdmMVHsnE5RjeRTAwWiMrHGQwMRIHkIsiTytKiz57PYYnzD.png?format=pjpg&auto=webp&s=f985debba5143069586df47bdb306968bc31f169']
+2025-06-19 10:44:57,936 - INFO - Video Path: https://v.redd.it/2eo8hbm6dr7f1/DASH_480.mp4?source=fallback
+2025-06-19 10:44:58,872 - INFO - Downloaded media from https://v.redd.it/2eo8hbm6dr7f1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-06-19 10:44:58,919 - INFO - Downloaded media from https://v.redd.it/2eo8hbm6dr7f1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-06-19 10:44:59,236 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-19 10:45:07,189 - INFO - Posted content successfully. Tweet ID: 1935650040359628872
