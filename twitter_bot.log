@@ -204,3 +204,9 @@ Too Many Requests
 2025-06-19 17:43:02,224 - INFO - Video Path: 
 2025-06-19 17:43:02,444 - INFO - Downloaded media from https://preview.redd.it/pd1f8n94sw7f1.jpeg?auto=webp&s=258c7d26b48788c737145c2befb79718f1b1f09f to temp_image.jpg
 2025-06-19 17:43:03,728 - INFO - Posted content successfully. Tweet ID: 1935755218966528018
+2025-06-19 18:21:10,869 - INFO - Content: i love it when my xbox wants to tpose a random character
+
+2025-06-19 18:21:10,870 - INFO - Image Paths: ['https://preview.redd.it/snqhmmtrwv7f1.jpeg?auto=webp&s=2674016e7fff7d182ec3e87855387ad645801c34']
+2025-06-19 18:21:10,870 - INFO - Video Path: 
+2025-06-19 18:21:10,998 - INFO - Downloaded media from https://preview.redd.it/snqhmmtrwv7f1.jpeg?auto=webp&s=2674016e7fff7d182ec3e87855387ad645801c34 to temp_image.jpg
+2025-06-19 18:21:12,522 - INFO - Posted content successfully. Tweet ID: 1935764818675613995
