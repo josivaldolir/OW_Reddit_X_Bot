@@ -125,3 +125,10 @@ Too Many Requests
 2025-06-19 12:32:11,986 - INFO - Downloaded media from https://external-preview.redd.it/jKX2OfGD7-Hf6bP63d4KG-SCtFOUfv7P-S966Il8Xbo.png?auto=webp&s=67ce698c3ea62b0f1fb2530876f9f4fbd7ea67d8 to temp_image.jpg
 2025-06-19 12:32:12,913 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-19 13:28:51,441 - INFO - Content: A season without Kiriko skin? inconceivable!
+Was gonna do Zarya and Torb the other way around, but would argue she got a skin on the pass like last season. I still say Torb at least basically had a Snarf skin in season four and then a captain and all they can come up with for Zarya is "cyborg" or "sport" themed.
+2025-06-19 13:28:51,441 - INFO - Image Paths: ['https://preview.redd.it/hd5pnxgasv7f1.jpeg?auto=webp&s=ec5b63e80de71d9bf4f9b2624a3d7eb608d12e19']
+2025-06-19 13:28:51,441 - INFO - Video Path: 
+2025-06-19 13:28:51,566 - INFO - Downloaded media from https://preview.redd.it/hd5pnxgasv7f1.jpeg?auto=webp&s=ec5b63e80de71d9bf4f9b2624a3d7eb608d12e19 to temp_image.jpg
+2025-06-19 13:28:52,147 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
