@@ -253,3 +253,12 @@ Too Many Requests
 2025-06-19 20:42:12,792 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-19 20:42:15,960 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-19 21:14:05,098 - INFO - Content: Bro is high and still blames supports 😭
+
+2025-06-19 21:14:05,098 - INFO - Image Paths: ['https://external-preview.redd.it/Yjh1aXAwOHcweTdmMUBx7wz_x6oIvATNI-ilkCjFJywNtBovmqXP77mfnADe.png?format=pjpg&auto=webp&s=19af1215f91f95178f3f4fa51ceab73217919f6f']
+2025-06-19 21:14:05,098 - INFO - Video Path: https://v.redd.it/ha1n3o5w0y7f1/DASH_480.mp4?source=fallback
+2025-06-19 21:14:05,409 - INFO - Downloaded media from https://v.redd.it/ha1n3o5w0y7f1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-06-19 21:14:05,480 - INFO - Downloaded media from https://v.redd.it/ha1n3o5w0y7f1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-06-19 21:14:05,988 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-19 21:14:11,698 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
