@@ -90,3 +90,9 @@ This is a silly little vent comic I made between Stadium matches. You can check 
 2025-06-19 09:17:27,794 - INFO - Downloaded media from https://v.redd.it/3nre1senvs7f1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-06-19 09:17:28,860 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-19 09:17:35,659 - INFO - Posted content successfully. Tweet ID: 1935628014336856454
+2025-06-19 10:17:23,536 - INFO - Content: Am I alone?
+
+2025-06-19 10:17:23,536 - INFO - Image Paths: ['https://preview.redd.it/ylukizjsxu7f1.jpeg?auto=webp&s=36e0624d6952e2f4f88bb1071080bff0c5e6460f']
+2025-06-19 10:17:23,536 - INFO - Video Path: 
+2025-06-19 10:17:23,880 - INFO - Downloaded media from https://preview.redd.it/ylukizjsxu7f1.jpeg?auto=webp&s=36e0624d6952e2f4f88bb1071080bff0c5e6460f to temp_image.jpg
+2025-06-19 10:17:25,219 - INFO - Posted content successfully. Tweet ID: 1935643069527060783
