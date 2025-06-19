@@ -198,3 +198,9 @@ Too Many Requests
 2025-06-19 17:13:41,203 - INFO - Downloaded media from https://preview.redd.it/pd1f8n94sw7f1.jpeg?auto=webp&s=258c7d26b48788c737145c2befb79718f1b1f09f to temp_image.jpg
 2025-06-19 17:13:41,844 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-19 17:43:02,224 - INFO - Content: Favouritism
+
+2025-06-19 17:43:02,224 - INFO - Image Paths: ['https://preview.redd.it/pd1f8n94sw7f1.jpeg?auto=webp&s=258c7d26b48788c737145c2befb79718f1b1f09f']
+2025-06-19 17:43:02,224 - INFO - Video Path: 
+2025-06-19 17:43:02,444 - INFO - Downloaded media from https://preview.redd.it/pd1f8n94sw7f1.jpeg?auto=webp&s=258c7d26b48788c737145c2befb79718f1b1f09f to temp_image.jpg
+2025-06-19 17:43:03,728 - INFO - Posted content successfully. Tweet ID: 1935755218966528018
