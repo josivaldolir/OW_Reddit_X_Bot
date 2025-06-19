@@ -162,3 +162,14 @@ Taken DPS passive's value: 25%
 2025-06-19 15:16:12,706 - INFO - Downloaded media from https://preview.redd.it/jjxf2y02bv7f1.png?auto=webp&s=0b76eef1e14af3a1850f7cce3dd14eceee57ebbd to temp_image.jpg
 2025-06-19 15:16:13,523 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-19 15:42:22,121 - INFO - Content: Tier List that shows which heroes Bastion able overheal with repair
+Crit damage and abilities doesn't count, DPS passive included.
+Only primary or secondary fire.
+Taken DPS passive's value: 25%
+
+
+2025-06-19 15:42:22,122 - INFO - Image Paths: ['https://preview.redd.it/jjxf2y02bv7f1.png?auto=webp&s=0b76eef1e14af3a1850f7cce3dd14eceee57ebbd']
+2025-06-19 15:42:22,122 - INFO - Video Path: 
+2025-06-19 15:42:22,277 - INFO - Downloaded media from https://preview.redd.it/jjxf2y02bv7f1.png?auto=webp&s=0b76eef1e14af3a1850f7cce3dd14eceee57ebbd to temp_image.jpg
+2025-06-19 15:42:23,074 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
