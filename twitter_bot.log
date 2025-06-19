@@ -184,3 +184,10 @@ Also, I really hope he has a cleanse somewhere in his base kit (no perk necessar
 2025-06-19 16:19:06,953 - INFO - Downloaded media from https://preview.redd.it/yf2uhrxyjw7f1.jpeg?auto=webp&s=88fd4086bbf863ab0823544b50a4cad94b87e0d6 to temp_image.jpg
 2025-06-19 16:19:07,747 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-19 16:47:14,262 - INFO - Content: i love it when my xbox wants to tpose a random character
+
+2025-06-19 16:47:14,263 - INFO - Image Paths: ['https://preview.redd.it/snqhmmtrwv7f1.jpeg?auto=webp&s=2674016e7fff7d182ec3e87855387ad645801c34']
+2025-06-19 16:47:14,263 - INFO - Video Path: 
+2025-06-19 16:47:14,420 - INFO - Downloaded media from https://preview.redd.it/snqhmmtrwv7f1.jpeg?auto=webp&s=2674016e7fff7d182ec3e87855387ad645801c34 to temp_image.jpg
+2025-06-19 16:47:15,150 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
