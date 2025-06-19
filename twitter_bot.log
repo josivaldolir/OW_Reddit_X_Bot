@@ -244,3 +244,12 @@ God I hate drives.
 2025-06-19 20:18:20,846 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-19 20:18:24,284 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-19 20:42:12,262 - INFO - Content: Brigittesita 😭
+
+2025-06-19 20:42:12,262 - INFO - Image Paths: ['https://external-preview.redd.it/dm1yN29zM21leDdmMRzSSHpyvKXEOgVXZQj9P_Kx2VnhULuUdiO8dX5pNoIC.png?format=pjpg&auto=webp&s=d8c4aaae15b3f186566c1a65d5a2450d618ba866']
+2025-06-19 20:42:12,262 - INFO - Video Path: https://v.redd.it/9ckxpibmex7f1/DASH_480.mp4?source=fallback
+2025-06-19 20:42:12,391 - INFO - Downloaded media from https://v.redd.it/9ckxpibmex7f1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-06-19 20:42:12,442 - INFO - Downloaded media from https://v.redd.it/9ckxpibmex7f1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-06-19 20:42:12,792 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-19 20:42:15,960 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
