@@ -459,3 +459,12 @@ Too Many Requests
 2025-06-20 14:15:17,152 - INFO - Video Path: 
 2025-06-20 14:15:17,285 - INFO - Downloaded media from https://preview.redd.it/lm2hli6p238f1.jpeg?auto=webp&s=9cc7790f048e625ac75f194a3c9c784dd1cf963a to temp_image.jpg
 2025-06-20 14:15:18,705 - INFO - Posted content successfully. Tweet ID: 1936065324526584217
+2025-06-20 14:43:55,828 - INFO - Content: my support duo saved me with the most clutch geometrical lamp i've ever seen
+
+2025-06-20 14:43:55,828 - INFO - Image Paths: ['https://external-preview.redd.it/OTZ5aWV0YzlsMThmMcjn0kZ0DfEMZk3f_JbVie4dDAdx8AA6lw0mM_8n52jX.png?format=pjpg&auto=webp&s=8aef50dc5d22f7efffc83a943a5c0fc10ca9c7da']
+2025-06-20 14:43:55,828 - INFO - Video Path: https://v.redd.it/yvsfrrc9l18f1/DASH_1080.mp4?source=fallback
+2025-06-20 14:43:56,076 - INFO - Downloaded media from https://v.redd.it/yvsfrrc9l18f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-20 14:43:56,202 - INFO - Downloaded media from https://v.redd.it/yvsfrrc9l18f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-20 14:43:59,483 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-20 14:44:06,950 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
