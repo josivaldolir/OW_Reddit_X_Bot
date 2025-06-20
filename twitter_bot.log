@@ -599,3 +599,9 @@ Too Many Requests
 2025-06-20 22:41:56,703 - INFO - Video Path: 
 2025-06-20 22:41:56,814 - INFO - Downloaded media from https://external-preview.redd.it/IcKVDB20JJP1qrrv9zoXhWbjXIj2tvo8dExjdaeKX1o.png?auto=webp&s=07ec84aeb333cc07a2c97e27c60a869603ebe5bc to temp_image.jpg
 2025-06-20 22:41:59,634 - INFO - Posted content successfully. Tweet ID: 1936192829845536800
+2025-06-20 23:16:01,891 - INFO - Content: Guys. I think I know who’s responsible for today’s connection issues.
+
+2025-06-20 23:16:01,891 - INFO - Image Paths: ['https://preview.redd.it/boyl1wd4v58f1.png?auto=webp&s=681151accddad21d8e9dd25fa2b4e1640e3e87ec']
+2025-06-20 23:16:01,891 - INFO - Video Path: 
+2025-06-20 23:16:02,196 - INFO - Downloaded media from https://preview.redd.it/boyl1wd4v58f1.png?auto=webp&s=681151accddad21d8e9dd25fa2b4e1640e3e87ec to temp_image.jpg
+2025-06-20 23:16:04,214 - INFO - Posted content successfully. Tweet ID: 1936201408275247297
