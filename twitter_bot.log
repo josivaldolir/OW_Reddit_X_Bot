@@ -573,3 +573,10 @@ https://x.com/Nonamezleft_/status/1935698140189045182?t=Q3HFY_IeLVYICoO_5cqlPw&s
 2025-06-20 20:18:53,582 - INFO - Downloaded media from https://external-preview.redd.it/IcKVDB20JJP1qrrv9zoXhWbjXIj2tvo8dExjdaeKX1o.png?auto=webp&s=07ec84aeb333cc07a2c97e27c60a869603ebe5bc to temp_image.jpg
 2025-06-20 20:18:54,590 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-20 20:40:57,563 - INFO - Content: With the recent attention to map re-works: can we all agree this is one of the most frustrating choke points of any map?
+
+2025-06-20 20:40:57,563 - INFO - Image Paths: ['https://external-preview.redd.it/IcKVDB20JJP1qrrv9zoXhWbjXIj2tvo8dExjdaeKX1o.png?auto=webp&s=07ec84aeb333cc07a2c97e27c60a869603ebe5bc']
+2025-06-20 20:40:57,563 - INFO - Video Path: 
+2025-06-20 20:40:57,591 - INFO - Downloaded media from https://external-preview.redd.it/IcKVDB20JJP1qrrv9zoXhWbjXIj2tvo8dExjdaeKX1o.png?auto=webp&s=07ec84aeb333cc07a2c97e27c60a869603ebe5bc to temp_image.jpg
+2025-06-20 20:40:58,364 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
