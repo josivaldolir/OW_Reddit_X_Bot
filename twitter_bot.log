@@ -336,3 +336,10 @@ I wanted to post a question on technical support and saw I was banned for 1000 y
 2025-06-20 05:16:20,902 - INFO - Downloaded media from https://preview.redd.it/lhoehcvu9z7f1.png?auto=webp&s=ce25ba560b0cbe9c9a09586a5ebd8e4222686b0d to temp_image.jpg
 2025-06-20 05:16:21,488 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-20 05:43:12,803 - INFO - Content: Banned in 2018 for 1000 years for a bug report.
+I wanted to post a question on technical support and saw I was banned for 1000 years back in 2018, this is my only post on my account so I guess this is why I was banned. Is there any way to appeal this wtf
+2025-06-20 05:43:12,803 - INFO - Image Paths: ['https://preview.redd.it/lhoehcvu9z7f1.png?auto=webp&s=ce25ba560b0cbe9c9a09586a5ebd8e4222686b0d']
+2025-06-20 05:43:12,803 - INFO - Video Path: 
+2025-06-20 05:43:12,875 - INFO - Downloaded media from https://preview.redd.it/lhoehcvu9z7f1.png?auto=webp&s=ce25ba560b0cbe9c9a09586a5ebd8e4222686b0d to temp_image.jpg
+2025-06-20 05:43:13,580 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
