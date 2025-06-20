@@ -301,3 +301,10 @@ Too Many Requests
 2025-06-19 23:39:06,041 - INFO - Downloaded media from https://preview.redd.it/i4vas2ak9y7f1.png?auto=webp&s=a8be40af7f727e105045ecd0aef696c33eeba217 to temp_image.jpg
 2025-06-19 23:39:07,035 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-20 01:15:52,300 - INFO - Content: At least he got it on
+
+2025-06-20 01:15:52,300 - INFO - Image Paths: ['https://preview.redd.it/i4vas2ak9y7f1.png?auto=webp&s=a8be40af7f727e105045ecd0aef696c33eeba217']
+2025-06-20 01:15:52,300 - INFO - Video Path: 
+2025-06-20 01:15:52,358 - INFO - Downloaded media from https://preview.redd.it/i4vas2ak9y7f1.png?auto=webp&s=a8be40af7f727e105045ecd0aef696c33eeba217 to temp_image.jpg
+2025-06-20 01:15:53,164 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
