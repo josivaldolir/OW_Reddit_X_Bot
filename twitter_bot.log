@@ -375,3 +375,10 @@ I threw a nade from spawn and it got capitalized on. Poor Juno.
 2025-06-20 08:21:06,190 - INFO - Downloaded media from https://v.redd.it/m8dxwp5aby7f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-06-20 08:21:06,535 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-20 08:21:19,436 - INFO - Posted content successfully. Tweet ID: 1935976240927982047
+2025-06-20 08:48:54,352 - INFO - Content: The Overwatch 2 Comp Drives experience
+How’s your luck today been going?
+2025-06-20 08:48:54,352 - INFO - Image Paths: ['https://preview.redd.it/7ht65v1lg08f1.jpeg?auto=webp&s=33d3377727372b96eee215df81d1db8a0efb1be5']
+2025-06-20 08:48:54,352 - INFO - Video Path: 
+2025-06-20 08:48:54,540 - INFO - Downloaded media from https://preview.redd.it/7ht65v1lg08f1.jpeg?auto=webp&s=33d3377727372b96eee215df81d1db8a0efb1be5 to temp_image.jpg
+2025-06-20 08:48:55,325 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
