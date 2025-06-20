@@ -587,3 +587,9 @@ Too Many Requests
 2025-06-20 21:15:16,512 - INFO - Downloaded media from https://external-preview.redd.it/IcKVDB20JJP1qrrv9zoXhWbjXIj2tvo8dExjdaeKX1o.png?auto=webp&s=07ec84aeb333cc07a2c97e27c60a869603ebe5bc to temp_image.jpg
 2025-06-20 21:15:17,617 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-20 21:37:50,461 - INFO - Content: Hi guys, meet our new 10% cuter DPS, Bation.
+
+2025-06-20 21:37:50,461 - INFO - Image Paths: ['https://preview.redd.it/a3hje70v658f1.png?auto=webp&s=508f44fb6e95b8aee3b37a366320281438b3fbe4']
+2025-06-20 21:37:50,461 - INFO - Video Path: 
+2025-06-20 21:37:50,712 - INFO - Downloaded media from https://preview.redd.it/a3hje70v658f1.png?auto=webp&s=508f44fb6e95b8aee3b37a366320281438b3fbe4 to temp_image.jpg
+2025-06-20 21:37:52,754 - INFO - Posted content successfully. Tweet ID: 1936176698330132557
