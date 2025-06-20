@@ -388,3 +388,10 @@ How’s your luck today been going?
 2025-06-20 09:16:58,565 - INFO - Video Path: 
 2025-06-20 09:16:58,635 - INFO - Downloaded media from https://preview.redd.it/7ht65v1lg08f1.jpeg?auto=webp&s=33d3377727372b96eee215df81d1db8a0efb1be5 to temp_image.jpg
 2025-06-20 09:16:59,982 - INFO - Posted content successfully. Tweet ID: 1935990251639779414
+2025-06-20 09:41:50,596 - INFO - Content: What do the purple swirls on med packs mean?
+As you can see by the screenshot, there was no Sombra, and Sombra never played the game, so what does it mean?
+2025-06-20 09:41:50,597 - INFO - Image Paths: ['https://preview.redd.it/1h16hkkh608f1.jpeg?auto=webp&s=5dad82c6dd445fd1bea95cfb39dc277acc030390']
+2025-06-20 09:41:50,597 - INFO - Video Path: 
+2025-06-20 09:41:50,639 - INFO - Downloaded media from https://preview.redd.it/1h16hkkh608f1.jpeg?auto=webp&s=5dad82c6dd445fd1bea95cfb39dc277acc030390 to temp_image.jpg
+2025-06-20 09:41:51,491 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
