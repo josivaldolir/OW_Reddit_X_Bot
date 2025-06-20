@@ -349,3 +349,9 @@ Too Many Requests
 2025-06-20 06:24:06,059 - INFO - Video Path: 
 2025-06-20 06:24:06,216 - INFO - Downloaded media from https://preview.redd.it/i4vas2ak9y7f1.png?auto=webp&s=a8be40af7f727e105045ecd0aef696c33eeba217 to temp_image.jpg
 2025-06-20 06:24:07,251 - INFO - Posted content successfully. Tweet ID: 1935946745072029700
+2025-06-20 06:50:30,928 - INFO - Content: Banned in 2018 for 1000 years for a bug report.
+I wanted to post a question on technical support and saw I was banned for 1000 years back in 2018, this is my only post on my account so I guess this is why I was banned. Is there any way to appeal this wtf
+2025-06-20 06:50:30,928 - INFO - Image Paths: ['https://preview.redd.it/lhoehcvu9z7f1.png?auto=webp&s=ce25ba560b0cbe9c9a09586a5ebd8e4222686b0d']
+2025-06-20 06:50:30,928 - INFO - Video Path: 
+2025-06-20 06:50:31,199 - INFO - Downloaded media from https://preview.redd.it/lhoehcvu9z7f1.png?auto=webp&s=ce25ba560b0cbe9c9a09586a5ebd8e4222686b0d to temp_image.jpg
+2025-06-20 06:50:32,497 - INFO - Posted content successfully. Tweet ID: 1935953394369228927
