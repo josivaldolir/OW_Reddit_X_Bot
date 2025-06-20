@@ -401,3 +401,12 @@ As you can see by the screenshot, there was no Sombra, and Sombra never played t
 2025-06-20 10:17:15,521 - INFO - Video Path: 
 2025-06-20 10:17:15,593 - INFO - Downloaded media from https://preview.redd.it/1h16hkkh608f1.jpeg?auto=webp&s=5dad82c6dd445fd1bea95cfb39dc277acc030390 to temp_image.jpg
 2025-06-20 10:17:17,021 - INFO - Posted content successfully. Tweet ID: 1936005422789673453
+2025-06-20 10:44:45,590 - INFO - Content: my support duo saved me with the most clutch geometrical lamp i've ever seen
+
+2025-06-20 10:44:45,590 - INFO - Image Paths: ['https://external-preview.redd.it/OTZ5aWV0YzlsMThmMcjn0kZ0DfEMZk3f_JbVie4dDAdx8AA6lw0mM_8n52jX.png?format=pjpg&auto=webp&s=8aef50dc5d22f7efffc83a943a5c0fc10ca9c7da']
+2025-06-20 10:44:45,590 - INFO - Video Path: https://v.redd.it/yvsfrrc9l18f1/DASH_1080.mp4?source=fallback
+2025-06-20 10:44:45,772 - INFO - Downloaded media from https://v.redd.it/yvsfrrc9l18f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-20 10:44:45,897 - INFO - Downloaded media from https://v.redd.it/yvsfrrc9l18f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-20 10:44:46,289 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-20 10:44:53,667 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
