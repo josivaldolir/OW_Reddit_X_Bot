@@ -419,3 +419,12 @@ Too Many Requests
 2025-06-20 11:14:37,258 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-20 11:14:39,036 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-20 11:39:25,530 - INFO - Content: Me when I can hear Juno’s spaceboots, blaster and abilities for the whole game
+
+2025-06-20 11:39:25,530 - INFO - Image Paths: ['https://external-preview.redd.it/ODF2cWFtOXR6MThmMa6Q_oogUS-sM-EKjLsGkumS23F0AyllS12GzmnDxsi1.png?format=pjpg&auto=webp&s=fc3473e46671ec1fa799245063e6f47c32050fd9']
+2025-06-20 11:39:25,530 - INFO - Video Path: https://v.redd.it/tl4x1d9tz18f1/DASH_480.mp4?source=fallback
+2025-06-20 11:39:25,718 - INFO - Downloaded media from https://v.redd.it/tl4x1d9tz18f1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-06-20 11:39:25,736 - INFO - Downloaded media from https://v.redd.it/tl4x1d9tz18f1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-06-20 11:39:28,448 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-20 11:39:30,223 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
