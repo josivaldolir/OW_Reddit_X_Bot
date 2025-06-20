@@ -453,3 +453,9 @@ Too Many Requests
 2025-06-20 13:47:58,375 - INFO - Downloaded media from https://preview.redd.it/lm2hli6p238f1.jpeg?auto=webp&s=9cc7790f048e625ac75f194a3c9c784dd1cf963a to temp_image.jpg
 2025-06-20 13:47:59,251 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-20 14:15:17,152 - INFO - Content: Juno: Aaaah, mouse! ⠀Illari: What is my dinner doing here?
+
+2025-06-20 14:15:17,152 - INFO - Image Paths: ['https://preview.redd.it/lm2hli6p238f1.jpeg?auto=webp&s=9cc7790f048e625ac75f194a3c9c784dd1cf963a']
+2025-06-20 14:15:17,152 - INFO - Video Path: 
+2025-06-20 14:15:17,285 - INFO - Downloaded media from https://preview.redd.it/lm2hli6p238f1.jpeg?auto=webp&s=9cc7790f048e625ac75f194a3c9c784dd1cf963a to temp_image.jpg
+2025-06-20 14:15:18,705 - INFO - Posted content successfully. Tweet ID: 1936065324526584217
