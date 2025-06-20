@@ -367,3 +367,11 @@ Like, why is he on relatively friendly terms with these two, especially Ashe? I 
 2025-06-20 07:38:53,604 - INFO - Video Path: 
 2025-06-20 07:38:53,740 - INFO - Downloaded media from https://preview.redd.it/418r53cjdz7f1.jpeg?auto=webp&s=d8d982b24e55b1b9577c8d09662f6549111c5e94 to temp_image.jpg
 2025-06-20 07:38:54,776 - INFO - Posted content successfully. Tweet ID: 1935965567938105587
+2025-06-20 08:21:05,196 - INFO - Content: Satisfying nade. Sorry Juno
+I threw a nade from spawn and it got capitalized on. Poor Juno.
+2025-06-20 08:21:05,197 - INFO - Image Paths: ['https://external-preview.redd.it/dm8yeHkzN2FieTdmMS_UrsQA-oXP9wCD_m4PRy-6i3onlzAw7A7eDVJqiQDP.png?format=pjpg&auto=webp&s=61b8b03255db55a9feba64483fd09fc9c82f90cd']
+2025-06-20 08:21:05,197 - INFO - Video Path: https://v.redd.it/m8dxwp5aby7f1/DASH_1080.mp4?source=fallback
+2025-06-20 08:21:06,017 - INFO - Downloaded media from https://v.redd.it/m8dxwp5aby7f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-20 08:21:06,190 - INFO - Downloaded media from https://v.redd.it/m8dxwp5aby7f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-20 08:21:06,535 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-20 08:21:19,436 - INFO - Posted content successfully. Tweet ID: 1935976240927982047
