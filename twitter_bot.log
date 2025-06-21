@@ -682,3 +682,9 @@ I have a feeling that this isn’t exactly a rare occurrence (especially with a 
 2025-06-21 06:20:40,702 - INFO - Video Path: 
 2025-06-21 06:20:40,840 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-21 06:47:02,586 - INFO - Content: How do you do, Fellow Competitive Drive Enjoyers?
+
+2025-06-21 06:47:02,586 - INFO - Image Paths: ['https://preview.redd.it/kpey1e2i188f1.jpeg?auto=webp&s=37e775d5b5ba2b382eaf5dfafb78db83381d326d']
+2025-06-21 06:47:02,586 - INFO - Video Path: 
+2025-06-21 06:47:02,770 - INFO - Downloaded media from https://preview.redd.it/kpey1e2i188f1.jpeg?auto=webp&s=37e775d5b5ba2b382eaf5dfafb78db83381d326d to temp_image.jpg
+2025-06-21 06:47:04,117 - INFO - Posted content successfully. Tweet ID: 1936314908158947381
