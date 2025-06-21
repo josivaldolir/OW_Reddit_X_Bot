@@ -866,3 +866,10 @@ Play with my friend today he played genji and I played hanzo I was a bad hanzo l
 2025-06-21 20:15:47,041 - INFO - Downloaded media from https://preview.redd.it/zi0cu358wb8f1.jpeg?auto=webp&s=9d3b0d5ae4a65be7d01b21bd6c80ef68b007f69a to temp_image.jpg
 2025-06-21 20:15:47,750 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-21 20:39:04,197 - INFO - Content: Day 15 playing OW
+Play with my friend today he played genji and I played hanzo I was a bad hanzo lol he was like 20-3 I went 10-8 but it was fun 
+2025-06-21 20:39:04,198 - INFO - Image Paths: ['https://preview.redd.it/zi0cu358wb8f1.jpeg?auto=webp&s=9d3b0d5ae4a65be7d01b21bd6c80ef68b007f69a']
+2025-06-21 20:39:04,198 - INFO - Video Path: 
+2025-06-21 20:39:04,261 - INFO - Downloaded media from https://preview.redd.it/zi0cu358wb8f1.jpeg?auto=webp&s=9d3b0d5ae4a65be7d01b21bd6c80ef68b007f69a to temp_image.jpg
+2025-06-21 20:39:04,950 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
