@@ -879,3 +879,12 @@ Too Many Requests
 2025-06-21 21:13:32,391 - INFO - Video Path: 
 2025-06-21 21:13:32,641 - INFO - Downloaded media from https://preview.redd.it/6wxgacvybc8f1.jpeg?auto=webp&s=0019292b82996d628393bb54c72ccaa48a3dfa42 to temp_image.jpg
 2025-06-21 21:13:33,893 - INFO - Posted content successfully. Tweet ID: 1936532969520558329
+2025-06-21 21:37:47,071 - INFO - Content: This Ashe is lowkey a sociopath.
+
+2025-06-21 21:37:47,072 - INFO - Image Paths: ['https://external-preview.redd.it/NmVhZnhrenQzYzhmMagu0COao5z7DQE60RRLk1g5ZFaTD3i1ZNnscmXUmQLy.png?format=pjpg&auto=webp&s=74038c8c719e89e4b0ee216b7337df055f1adc15']
+2025-06-21 21:37:47,072 - INFO - Video Path: https://v.redd.it/syj6yfzt3c8f1/DASH_1080.mp4?source=fallback
+2025-06-21 21:37:47,457 - INFO - Downloaded media from https://v.redd.it/syj6yfzt3c8f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-21 21:37:47,522 - INFO - Downloaded media from https://v.redd.it/syj6yfzt3c8f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-21 21:37:47,823 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-21 21:37:55,416 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
