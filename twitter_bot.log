@@ -655,3 +655,10 @@ She’s an actual gladiator, but the Brigitte situation proves they don’t care
 2025-06-21 04:19:36,595 - INFO - Video Path: 
 2025-06-21 04:19:36,817 - INFO - Downloaded media from https://preview.redd.it/zw72bo3bm68f1.jpeg?auto=webp&s=df70551fb2e74a3bec43101bbc41cb42748a4c86 to temp_image.jpg
 2025-06-21 04:19:37,934 - INFO - Posted content successfully. Tweet ID: 1936277804532088994
+2025-06-21 04:45:48,365 - INFO - Content: New Junk City gets a wild rework next Season.
+This is only one example. Watch the Livestream to see much more
+2025-06-21 04:45:48,365 - INFO - Image Paths: ['https://external-preview.redd.it/qq3Iv3SqXGbhA9BjyuhCE0wqOii2XeLnMsB9GYggBH8.png?auto=webp&s=5dfd3c323f935cbceec937009bd5033d4771cbd2']
+2025-06-21 04:45:48,365 - INFO - Video Path: 
+2025-06-21 04:45:48,440 - INFO - Downloaded media from https://external-preview.redd.it/qq3Iv3SqXGbhA9BjyuhCE0wqOii2XeLnMsB9GYggBH8.png?auto=webp&s=5dfd3c323f935cbceec937009bd5033d4771cbd2 to temp_image.jpg
+2025-06-21 04:45:49,432 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
