@@ -752,3 +752,11 @@ personally i think either "Rally to ME" or "SUFFER — AS I HAVE" both hit diffe
 2025-06-21 11:37:28,808 - INFO - Downloaded media from https://v.redd.it/jj30i1b5u18f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-06-21 11:37:29,116 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-21 11:37:36,614 - INFO - Posted content successfully. Tweet ID: 1936388026172637675
+2025-06-21 12:28:41,422 - INFO - Content: Our ashe baited the ennemy rein to secure the rare push draw
+
+2025-06-21 12:28:41,422 - INFO - Image Paths: ['https://external-preview.redd.it/dTVpMnNpNDJsOThmMfAR1gK3oTiMYbh1mQLoooMI2qvvPNBe1Ju8HiHSBQGO.png?format=pjpg&auto=webp&s=b01248a8737e76e2d92470c917a8d273da97ad3b']
+2025-06-21 12:28:41,422 - INFO - Video Path: https://v.redd.it/ps1c6l42l98f1/DASH_1080.mp4?source=fallback
+2025-06-21 12:28:41,586 - INFO - Downloaded media from https://v.redd.it/ps1c6l42l98f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-21 12:28:41,632 - INFO - Downloaded media from https://v.redd.it/ps1c6l42l98f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-21 12:28:41,898 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-21 12:28:46,953 - INFO - Posted content successfully. Tweet ID: 1936400904070058132
