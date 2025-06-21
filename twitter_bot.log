@@ -635,3 +635,10 @@ Sorry for the terrible framerate, I used Windows's built-in screen recording.
 2025-06-21 01:14:14,471 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-21 01:14:28,325 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-21 02:55:27,633 - INFO - Content: Will blizzard actually let hero 45 have muscles?
+She’s an actual gladiator, but the Brigitte situation proves they don’t care about stuff like that. Guess I just wanna start a discussion about this.
+2025-06-21 02:55:27,633 - INFO - Image Paths: ['https://preview.redd.it/zw72bo3bm68f1.jpeg?auto=webp&s=df70551fb2e74a3bec43101bbc41cb42748a4c86']
+2025-06-21 02:55:27,633 - INFO - Video Path: 
+2025-06-21 02:55:27,763 - INFO - Downloaded media from https://preview.redd.it/zw72bo3bm68f1.jpeg?auto=webp&s=df70551fb2e74a3bec43101bbc41cb42748a4c86 to temp_image.jpg
+2025-06-21 02:55:28,668 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
