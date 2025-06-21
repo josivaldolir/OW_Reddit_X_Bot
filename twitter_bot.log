@@ -819,3 +819,10 @@ Too Many Requests
 2025-06-21 16:46:46,591 - INFO - Downloaded media from https://preview.redd.it/2871xkljsa8f1.png?auto=webp&s=1741c4f7da8373776aca97ad5ee140175fd4bc49 to temp_image.jpg
 2025-06-21 16:46:47,214 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-21 17:13:00,957 - INFO - Content: All my homies hate these three fellas
+
+2025-06-21 17:13:00,957 - INFO - Image Paths: ['https://preview.redd.it/2871xkljsa8f1.png?auto=webp&s=1741c4f7da8373776aca97ad5ee140175fd4bc49']
+2025-06-21 17:13:00,957 - INFO - Video Path: 
+2025-06-21 17:13:01,088 - INFO - Downloaded media from https://preview.redd.it/2871xkljsa8f1.png?auto=webp&s=1741c4f7da8373776aca97ad5ee140175fd4bc49 to temp_image.jpg
+2025-06-21 17:13:01,798 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
