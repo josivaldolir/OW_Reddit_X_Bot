@@ -620,3 +620,18 @@ Sorry for the terrible framerate, I used Windows's built-in screen recording.
 2025-06-20 23:38:57,504 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-20 23:39:06,976 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-21 01:14:13,577 - INFO - Content: Weird bug: our Juno spawned dead after the first round and my crossfade... did something? More info + replay code inside
+Replay code (might be useful for devs, I guess?): 9826QW
+
+This was in QP. We played the first round normally (and won - woo!). 
+
+On round 3 she respawned.
+
+Sorry for the terrible framerate, I used Windows's built-in screen recording.
+2025-06-21 01:14:13,578 - INFO - Image Paths: ['https://external-preview.redd.it/YnBlMTJ4d2MyMjhmMQgW9KbrA0bTIrSrCeWw0zQ9S7y2S44PTtb_DVyqTX7K.png?format=pjpg&auto=webp&s=d14a1bfe98f5d1aea12ab9e1d7a95dec514d6379']
+2025-06-21 01:14:13,578 - INFO - Video Path: https://v.redd.it/bhayyzxc228f1/DASH_1080.mp4?source=fallback
+2025-06-21 01:14:14,025 - INFO - Downloaded media from https://v.redd.it/bhayyzxc228f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-21 01:14:14,252 - INFO - Downloaded media from https://v.redd.it/bhayyzxc228f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-21 01:14:14,471 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-21 01:14:28,325 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
