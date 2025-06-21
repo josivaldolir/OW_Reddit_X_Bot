@@ -798,3 +798,10 @@ I know nobody really cares, but this was a great achiement for me on an otherwis
 2025-06-21 15:15:52,130 - INFO - Video Path: 
 2025-06-21 15:15:52,378 - INFO - Downloaded media from https://preview.redd.it/v7985od05a8f1.png?auto=webp&s=9c61beaa9ca1a51b2af0e15312f55fd459bbf975 to temp_image.jpg
 2025-06-21 15:15:55,505 - INFO - Posted content successfully. Tweet ID: 1936442959299481713
+2025-06-21 15:38:28,050 - INFO - Content: We won but still lost progress?
+So we won the round and even had a leaver midgame, who rejoined and we easily won...how do i still lose progess?
+2025-06-21 15:38:28,050 - INFO - Image Paths: ['https://preview.redd.it/l1dd4yg89a8f1.png?auto=webp&s=0b5fe394d4ca9fff75ed9555ee146bdc2dacdbd9']
+2025-06-21 15:38:28,050 - INFO - Video Path: 
+2025-06-21 15:38:28,214 - INFO - Downloaded media from https://preview.redd.it/l1dd4yg89a8f1.png?auto=webp&s=0b5fe394d4ca9fff75ed9555ee146bdc2dacdbd9 to temp_image.jpg
+2025-06-21 15:38:28,986 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
