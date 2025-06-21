@@ -731,3 +731,11 @@ Credits to @cptnsaveah0 🤍🤍
 2025-06-21 10:15:11,289 - INFO - Downloaded media from https://v.redd.it/nb0w2vdnd88f1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-06-21 10:15:12,318 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-21 10:15:23,210 - INFO - Posted content successfully. Tweet ID: 1936367333695721789
+2025-06-21 10:42:34,343 - INFO - Content: It would be a shame if someone were to sneak up on me since I'm so focused on spraying
+
+2025-06-21 10:42:34,343 - INFO - Image Paths: ['https://external-preview.redd.it/NmF6c3hoOXI0ODhmMTUFiTZonF5ptejbhIrxRiFL6ePguK25VGTmtqGKsC7C.png?format=pjpg&auto=webp&s=9f828e9930c56baa05c93943781d4622beae1c6c']
+2025-06-21 10:42:34,343 - INFO - Video Path: https://v.redd.it/hspt1a9r488f1/DASH_1080.mp4?source=fallback
+2025-06-21 10:42:34,605 - INFO - Downloaded media from https://v.redd.it/hspt1a9r488f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-21 10:42:34,681 - INFO - Downloaded media from https://v.redd.it/hspt1a9r488f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-21 10:42:35,030 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-21 10:42:43,228 - INFO - Posted content successfully. Tweet ID: 1936374212739907956
