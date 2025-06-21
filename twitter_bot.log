@@ -760,3 +760,9 @@ personally i think either "Rally to ME" or "SUFFER — AS I HAVE" both hit diffe
 2025-06-21 12:28:41,632 - INFO - Downloaded media from https://v.redd.it/ps1c6l42l98f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-06-21 12:28:41,898 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-21 12:28:46,953 - INFO - Posted content successfully. Tweet ID: 1936400904070058132
+2025-06-21 13:03:48,296 - INFO - Content: R.I.P sombra
+
+2025-06-21 13:03:48,296 - INFO - Image Paths: ['https://preview.redd.it/44arftro0a8f1.jpeg?auto=webp&s=1a78e2916780328c49f019023cb16244c00e601e']
+2025-06-21 13:03:48,296 - INFO - Video Path: 
+2025-06-21 13:03:49,318 - INFO - Downloaded media from https://preview.redd.it/44arftro0a8f1.jpeg?auto=webp&s=1a78e2916780328c49f019023cb16244c00e601e to temp_image.jpg
+2025-06-21 13:03:50,790 - INFO - Posted content successfully. Tweet ID: 1936409727644353019
