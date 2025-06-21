@@ -805,3 +805,10 @@ So we won the round and even had a leaver midgame, who rejoined and we easily wo
 2025-06-21 15:38:28,214 - INFO - Downloaded media from https://preview.redd.it/l1dd4yg89a8f1.png?auto=webp&s=0b5fe394d4ca9fff75ed9555ee146bdc2dacdbd9 to temp_image.jpg
 2025-06-21 15:38:28,986 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-21 16:17:28,617 - INFO - Content: All my homies hate these three fellas
+
+2025-06-21 16:17:28,617 - INFO - Image Paths: ['https://preview.redd.it/2871xkljsa8f1.png?auto=webp&s=1741c4f7da8373776aca97ad5ee140175fd4bc49']
+2025-06-21 16:17:28,617 - INFO - Video Path: 
+2025-06-21 16:17:28,749 - INFO - Downloaded media from https://preview.redd.it/2871xkljsa8f1.png?auto=webp&s=1741c4f7da8373776aca97ad5ee140175fd4bc49 to temp_image.jpg
+2025-06-21 16:17:29,236 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
