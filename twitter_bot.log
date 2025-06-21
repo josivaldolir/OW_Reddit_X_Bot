@@ -700,3 +700,11 @@ I have a feeling that this isn’t exactly a rare occurrence (especially with a 
 2025-06-21 07:37:21,536 - INFO - Image Paths: []
 2025-06-21 07:37:21,536 - INFO - Video Path: 
 2025-06-21 07:37:21,809 - INFO - Posted content successfully. Tweet ID: 1936327566303887606
+2025-06-21 08:19:02,825 - INFO - Content: I'm a newbie to overwatch, and the Tracer character is really hard but engaging and fun!
+
+2025-06-21 08:19:02,825 - INFO - Image Paths: ['https://external-preview.redd.it/cGxqaDF3dTZjNjhmMQo2lM5RAKnlTmSuMKm3pejvUAn6VGq9SsVQaqcWas52.png?format=pjpg&auto=webp&s=7437d64e00116fb0a9b80c7238ab733a7a4dbdbe']
+2025-06-21 08:19:02,825 - INFO - Video Path: https://v.redd.it/exicdnu6c68f1/DASH_1080.mp4?source=fallback
+2025-06-21 08:19:03,078 - INFO - Downloaded media from https://v.redd.it/exicdnu6c68f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-21 08:19:03,198 - INFO - Downloaded media from https://v.redd.it/exicdnu6c68f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-21 08:19:03,526 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-21 08:19:12,338 - INFO - Posted content successfully. Tweet ID: 1936338096078958794
