@@ -708,3 +708,9 @@ I have a feeling that this isn’t exactly a rare occurrence (especially with a 
 2025-06-21 08:19:03,198 - INFO - Downloaded media from https://v.redd.it/exicdnu6c68f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-06-21 08:19:03,526 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-21 08:19:12,338 - INFO - Posted content successfully. Tweet ID: 1936338096078958794
+2025-06-21 08:44:31,180 - INFO - Content: 0 - 5 tonight, but mama didn’t raise no Mercy player! Bring IT ON! I
+Absolutely getting bodied in drive, but on my life I’m playing till I get that card. 
+2025-06-21 08:44:31,181 - INFO - Image Paths: ['https://preview.redd.it/u3e12f5s788f1.jpeg?auto=webp&s=7e2079f5d7a32820748d30ab6e6e53f573849a36']
+2025-06-21 08:44:31,181 - INFO - Video Path: 
+2025-06-21 08:44:31,468 - INFO - Downloaded media from https://preview.redd.it/u3e12f5s788f1.jpeg?auto=webp&s=7e2079f5d7a32820748d30ab6e6e53f573849a36 to temp_image.jpg
+2025-06-21 08:44:33,207 - INFO - Posted content successfully. Tweet ID: 1936344474227179628
