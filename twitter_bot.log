@@ -853,3 +853,9 @@ They are making pre match "social interactions" as they call it why cant we have
 2025-06-21 19:11:29,112 - INFO - Downloaded media from https://preview.redd.it/frvxea8yqa8f1.png?auto=webp&s=62404710722be310e354ade7870393dd877b5ac9 to temp_image.jpg
 2025-06-21 19:11:29,908 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-21 19:36:43,777 - INFO - Content: I really want this back
+They are making pre match "social interactions" as they call it why cant we have these back?
+2025-06-21 19:36:43,777 - INFO - Image Paths: ['https://preview.redd.it/frvxea8yqa8f1.png?auto=webp&s=62404710722be310e354ade7870393dd877b5ac9']
+2025-06-21 19:36:43,777 - INFO - Video Path: 
+2025-06-21 19:36:44,556 - INFO - Downloaded media from https://preview.redd.it/frvxea8yqa8f1.png?auto=webp&s=62404710722be310e354ade7870393dd877b5ac9 to temp_image.jpg
+2025-06-21 19:36:46,179 - INFO - Posted content successfully. Tweet ID: 1936508607828230156
