@@ -888,3 +888,9 @@ Too Many Requests
 2025-06-21 21:37:47,823 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-21 21:37:55,416 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-21 22:14:09,432 - INFO - Content: Who's getting the AUX?
+
+2025-06-21 22:14:09,432 - INFO - Image Paths: ['https://preview.redd.it/b8kewvh4fc8f1.jpeg?auto=webp&s=d1cefb440eb35e99e4235383123789a775fa095a']
+2025-06-21 22:14:09,433 - INFO - Video Path: 
+2025-06-21 22:14:09,698 - INFO - Downloaded media from https://preview.redd.it/b8kewvh4fc8f1.jpeg?auto=webp&s=d1cefb440eb35e99e4235383123789a775fa095a to temp_image.jpg
+2025-06-21 22:14:10,733 - INFO - Posted content successfully. Tweet ID: 1936548223654769071
