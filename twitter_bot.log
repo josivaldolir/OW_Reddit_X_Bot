@@ -668,3 +668,9 @@ Don’t need it!
 2025-06-21 05:16:00,802 - INFO - Video Path: 
 2025-06-21 05:16:01,017 - INFO - Downloaded media from https://preview.redd.it/rq3npp64g78f1.jpeg?auto=webp&s=5148d3be356ca3b41ab2d840c02bdee21efe0c83 to temp_image.jpg
 2025-06-21 05:16:02,531 - INFO - Posted content successfully. Tweet ID: 1936292000770543684
+2025-06-21 05:41:20,607 - INFO - Content: New Junk City gets a wild rework next Season.
+This is only one example. Watch the Livestream to see much more
+2025-06-21 05:41:20,607 - INFO - Image Paths: ['https://external-preview.redd.it/qq3Iv3SqXGbhA9BjyuhCE0wqOii2XeLnMsB9GYggBH8.png?auto=webp&s=5dfd3c323f935cbceec937009bd5033d4771cbd2']
+2025-06-21 05:41:20,607 - INFO - Video Path: 
+2025-06-21 05:41:20,927 - INFO - Downloaded media from https://external-preview.redd.it/qq3Iv3SqXGbhA9BjyuhCE0wqOii2XeLnMsB9GYggBH8.png?auto=webp&s=5dfd3c323f935cbceec937009bd5033d4771cbd2 to temp_image.jpg
+2025-06-21 05:41:24,097 - INFO - Posted content successfully. Tweet ID: 1936298377987473411
