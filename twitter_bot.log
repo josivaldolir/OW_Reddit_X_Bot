@@ -873,3 +873,9 @@ Play with my friend today he played genji and I played hanzo I was a bad hanzo l
 2025-06-21 20:39:04,261 - INFO - Downloaded media from https://preview.redd.it/zi0cu358wb8f1.jpeg?auto=webp&s=9d3b0d5ae4a65be7d01b21bd6c80ef68b007f69a to temp_image.jpg
 2025-06-21 20:39:04,950 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-21 21:13:32,391 - INFO - Content: Sombra mains since S16
+
+2025-06-21 21:13:32,391 - INFO - Image Paths: ['https://preview.redd.it/6wxgacvybc8f1.jpeg?auto=webp&s=0019292b82996d628393bb54c72ccaa48a3dfa42']
+2025-06-21 21:13:32,391 - INFO - Video Path: 
+2025-06-21 21:13:32,641 - INFO - Downloaded media from https://preview.redd.it/6wxgacvybc8f1.jpeg?auto=webp&s=0019292b82996d628393bb54c72ccaa48a3dfa42 to temp_image.jpg
+2025-06-21 21:13:33,893 - INFO - Posted content successfully. Tweet ID: 1936532969520558329
