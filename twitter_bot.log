@@ -902,3 +902,10 @@ Too Many Requests
 2025-06-21 22:41:15,180 - INFO - Downloaded media from https://v.redd.it/syj6yfzt3c8f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-06-21 22:41:15,568 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-21 22:41:26,012 - INFO - Posted content successfully. Tweet ID: 1936555082532954267
+2025-06-21 23:14:24,849 - INFO - Content: Luv me wife, Luv me footy, ‘Ate talon. Simple as.
+Idk what the context was behind making this, maybe something about watching your team fight while you distract the enemy team.
+2025-06-21 23:14:24,849 - INFO - Image Paths: ['https://preview.redd.it/ohbx1nn0vc8f1.jpeg?auto=webp&s=8a811606586eed2c5cde70277181e980d1effb76']
+2025-06-21 23:14:24,849 - INFO - Video Path: 
+2025-06-21 23:14:25,030 - INFO - Downloaded media from https://preview.redd.it/ohbx1nn0vc8f1.jpeg?auto=webp&s=8a811606586eed2c5cde70277181e980d1effb76 to temp_image.jpg
+2025-06-21 23:14:25,839 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
