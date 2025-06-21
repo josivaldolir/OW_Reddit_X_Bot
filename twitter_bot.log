@@ -744,3 +744,11 @@ personally i think either "Rally to ME" or "SUFFER — AS I HAVE" both hit diffe
 2025-06-21 11:13:22,978 - INFO - Image Paths: []
 2025-06-21 11:13:22,978 - INFO - Video Path: 
 2025-06-21 11:13:23,280 - INFO - Posted content successfully. Tweet ID: 1936381930611576841
+2025-06-21 11:37:28,449 - INFO - Content: Bro thinks he can outrun tire 😂😂😂
+
+2025-06-21 11:37:28,449 - INFO - Image Paths: ['https://external-preview.redd.it/dnRmMWx0YTV1MThmMYx5ejSgSHA6xTJ02yT-7IOvnSPnBw7IoTSNYJ9Mk_Zx.png?format=pjpg&auto=webp&s=054d40a97e1e8a91b07209fcec0d2c19c707f61d']
+2025-06-21 11:37:28,449 - INFO - Video Path: https://v.redd.it/jj30i1b5u18f1/DASH_1080.mp4?source=fallback
+2025-06-21 11:37:28,692 - INFO - Downloaded media from https://v.redd.it/jj30i1b5u18f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-21 11:37:28,808 - INFO - Downloaded media from https://v.redd.it/jj30i1b5u18f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-21 11:37:29,116 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-21 11:37:36,614 - INFO - Posted content successfully. Tweet ID: 1936388026172637675
