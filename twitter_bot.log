@@ -1052,3 +1052,10 @@ Ignore how bad i was in this clip lol
 2025-06-22 13:42:34,396 - INFO - Downloaded media from https://v.redd.it/6x6nutkuzg8f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-06-22 13:42:35,214 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-22 13:42:42,295 - INFO - Posted content successfully. Tweet ID: 1936781895125389523
+2025-06-22 14:13:59,991 - INFO - Content: The Title
+
+2025-06-22 14:13:59,991 - INFO - Image Paths: ['https://preview.redd.it/14yqujv8fh8f1.jpeg?auto=webp&s=c88b15e9830dd47de79e7f4c6704c8ac7b4c449c']
+2025-06-22 14:13:59,991 - INFO - Video Path: 
+2025-06-22 14:14:00,038 - INFO - Downloaded media from https://preview.redd.it/14yqujv8fh8f1.jpeg?auto=webp&s=c88b15e9830dd47de79e7f4c6704c8ac7b4c449c to temp_image.jpg
+2025-06-22 14:14:00,744 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
