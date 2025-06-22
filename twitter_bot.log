@@ -1132,3 +1132,10 @@ Want to know why it’s the worst ever? Because you literally can’t escape—u
 2025-06-22 18:47:18,266 - INFO - Downloaded media from https://v.redd.it/z40y9aw1gi8f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-06-22 18:47:22,131 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-22 18:47:40,129 - INFO - Posted content successfully. Tweet ID: 1936858641421983981
+2025-06-22 19:12:14,518 - INFO - Content: You WILL enjoy your mercy lifeweaver backlines
+
+2025-06-22 19:12:14,518 - INFO - Image Paths: ['https://preview.redd.it/6uw0648hqi8f1.jpeg?auto=webp&s=fb8fbc2a799597fed0e29f91e0d682baef68cfe1']
+2025-06-22 19:12:14,518 - INFO - Video Path: 
+2025-06-22 19:12:14,714 - INFO - Downloaded media from https://preview.redd.it/6uw0648hqi8f1.jpeg?auto=webp&s=fb8fbc2a799597fed0e29f91e0d682baef68cfe1 to temp_image.jpg
+2025-06-22 19:12:15,351 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
