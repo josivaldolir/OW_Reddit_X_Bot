@@ -1019,3 +1019,11 @@ Play with my friend today he played genji and I played hanzo I was a bad hanzo l
 2025-06-22 09:39:09,625 - INFO - Video Path: 
 2025-06-22 09:39:09,866 - INFO - Downloaded media from https://preview.redd.it/ahvrfikttc8f1.png?auto=webp&s=3b40e78e04dc33c381d195e7a743bd3fb210506f to temp_image.jpg
 2025-06-22 09:39:11,520 - INFO - Posted content successfully. Tweet ID: 1936720611331682645
+2025-06-22 10:42:15,271 - INFO - Content: this lifeweaver flung his tank off the map 😭
+
+2025-06-22 10:42:15,271 - INFO - Image Paths: ['https://external-preview.redd.it/OTN4eXJlcXluZThmMQeLMxMeIFCl8R8BC7vIDOgWYKj7Ju67s_JU8PEIdWlV.png?format=pjpg&auto=webp&s=957a0346c52a1cfe94ce48d16b9974deb70ab147']
+2025-06-22 10:42:15,271 - INFO - Video Path: https://v.redd.it/2mffifqyne8f1/DASH_1080.mp4?source=fallback
+2025-06-22 10:42:15,553 - INFO - Downloaded media from https://v.redd.it/2mffifqyne8f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-22 10:42:15,590 - INFO - Downloaded media from https://v.redd.it/2mffifqyne8f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-22 10:42:15,989 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-22 10:42:22,028 - INFO - Posted content successfully. Tweet ID: 1936736511698891033
