@@ -974,3 +974,10 @@ Credits to @qlat28 🤍🤍
 2025-06-22 06:22:53,101 - INFO - Downloaded media from https://v.redd.it/0rdb1oexge8f1/DASH_480.mp4?source=fallback to temp_audio.mp4
 2025-06-22 06:22:57,367 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-22 06:23:08,491 - INFO - Posted content successfully. Tweet ID: 1936671274593566994
+2025-06-22 06:47:44,975 - INFO - Content: I only realized after the round ended...if the situations were reversed, I would've c9'ed as well
+
+2025-06-22 06:47:44,975 - INFO - Image Paths: ['https://preview.redd.it/1v1rvuhqpe8f1.jpeg?auto=webp&s=69744f9e4a491652f8b72e09b6f6aca3dcae8305']
+2025-06-22 06:47:44,975 - INFO - Video Path: 
+2025-06-22 06:47:44,996 - INFO - Downloaded media from https://preview.redd.it/1v1rvuhqpe8f1.jpeg?auto=webp&s=69744f9e4a491652f8b72e09b6f6aca3dcae8305 to temp_image.jpg
+2025-06-22 06:47:45,564 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
