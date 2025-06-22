@@ -1202,3 +1202,9 @@ Too Many Requests
 2025-06-22 22:41:50,708 - INFO - Downloaded media from https://external-preview.redd.it/DUHw7WqwkojYvbk7zWT5Z3Zce-VC6gCiu2cSteLA4kw.jpeg?auto=webp&s=57f3d24ce42b39441828de0d6f9049fe4d02fd2a to temp_image.jpg
 2025-06-22 22:41:51,453 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-22 23:14:40,683 - INFO - Content: should i feel bad here...
+
+2025-06-22 23:14:40,683 - INFO - Image Paths: ['https://external-preview.redd.it/DUHw7WqwkojYvbk7zWT5Z3Zce-VC6gCiu2cSteLA4kw.jpeg?auto=webp&s=57f3d24ce42b39441828de0d6f9049fe4d02fd2a']
+2025-06-22 23:14:40,683 - INFO - Video Path: 
+2025-06-22 23:14:40,762 - INFO - Downloaded media from https://external-preview.redd.it/DUHw7WqwkojYvbk7zWT5Z3Zce-VC6gCiu2cSteLA4kw.jpeg?auto=webp&s=57f3d24ce42b39441828de0d6f9049fe4d02fd2a to temp_image.jpg
+2025-06-22 23:14:42,605 - INFO - Posted content successfully. Tweet ID: 1936925844112568809
