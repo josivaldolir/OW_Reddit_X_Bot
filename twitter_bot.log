@@ -915,3 +915,10 @@ Idk what the context was behind making this, maybe something about watching your
 2025-06-21 23:38:02,354 - INFO - Video Path: 
 2025-06-21 23:38:02,591 - INFO - Downloaded media from https://preview.redd.it/ohbx1nn0vc8f1.jpeg?auto=webp&s=8a811606586eed2c5cde70277181e980d1effb76 to temp_image.jpg
 2025-06-21 23:38:03,662 - INFO - Posted content successfully. Tweet ID: 1936569332940841412
+2025-06-22 01:23:21,278 - INFO - Content: What's a sick epic skin you'd love to get (or already have) and consider equipping over the legendary ones?
+
+2025-06-22 01:23:21,278 - INFO - Image Paths: ['https://external-preview.redd.it/9pEVV5w-i3S_2dFkNz-AT2MjIFd47Q_a4uMdQ-J8KCo.png?auto=webp&s=f3ff493df069360f18455eb822cb6037da8d1d5b']
+2025-06-22 01:23:21,278 - INFO - Video Path: 
+2025-06-22 01:23:21,444 - INFO - Downloaded media from https://external-preview.redd.it/9pEVV5w-i3S_2dFkNz-AT2MjIFd47Q_a4uMdQ-J8KCo.png?auto=webp&s=f3ff493df069360f18455eb822cb6037da8d1d5b to temp_image.jpg
+2025-06-22 01:23:22,163 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
