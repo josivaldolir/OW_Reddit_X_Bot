@@ -1088,3 +1088,10 @@ In most cases it feels like freja just does what echo does, from any range, with
 2025-06-22 15:39:31,489 - INFO - Downloaded media from https://preview.redd.it/7wg9an906h8f1.png?auto=webp&s=2d18c8753f678b02005eb0791eb43543cf6670c9 to temp_image.jpg
 2025-06-22 15:39:32,443 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-22 16:18:36,918 - INFO - Content: The Title
+
+2025-06-22 16:18:36,918 - INFO - Image Paths: ['https://preview.redd.it/14yqujv8fh8f1.jpeg?auto=webp&s=c88b15e9830dd47de79e7f4c6704c8ac7b4c449c']
+2025-06-22 16:18:36,918 - INFO - Video Path: 
+2025-06-22 16:18:37,096 - INFO - Downloaded media from https://preview.redd.it/14yqujv8fh8f1.jpeg?auto=webp&s=c88b15e9830dd47de79e7f4c6704c8ac7b4c449c to temp_image.jpg
+2025-06-22 16:18:37,804 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
