@@ -1059,3 +1059,10 @@ Ignore how bad i was in this clip lol
 2025-06-22 14:14:00,038 - INFO - Downloaded media from https://preview.redd.it/14yqujv8fh8f1.jpeg?auto=webp&s=c88b15e9830dd47de79e7f4c6704c8ac7b4c449c to temp_image.jpg
 2025-06-22 14:14:00,744 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-22 14:40:06,231 - INFO - Content: The Title
+
+2025-06-22 14:40:06,231 - INFO - Image Paths: ['https://preview.redd.it/14yqujv8fh8f1.jpeg?auto=webp&s=c88b15e9830dd47de79e7f4c6704c8ac7b4c449c']
+2025-06-22 14:40:06,231 - INFO - Video Path: 
+2025-06-22 14:40:06,376 - INFO - Downloaded media from https://preview.redd.it/14yqujv8fh8f1.jpeg?auto=webp&s=c88b15e9830dd47de79e7f4c6704c8ac7b4c449c to temp_image.jpg
+2025-06-22 14:40:07,077 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
