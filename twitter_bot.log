@@ -1035,3 +1035,12 @@ Play with my friend today he played genji and I played hanzo I was a bad hanzo l
 2025-06-22 11:36:23,434 - INFO - Downloaded media from https://v.redd.it/67o33rwrof8f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-06-22 11:36:23,754 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-22 11:36:31,281 - INFO - Posted content successfully. Tweet ID: 1936750140028604622
+2025-06-22 12:28:34,113 - INFO - Content: I'm not saying you SHOULD do this to Widows on King's Row, I just want you to know that you can.
+
+2025-06-22 12:28:34,113 - INFO - Image Paths: ['https://external-preview.redd.it/cnpydXZrd3FjZThmMZ5TCdZ2rfiHjimAxunUmsQXX9JBfQ5bjUaC3PnNHQPC.png?format=pjpg&auto=webp&s=71bf54eb73f11eb5025fbe4962577cf6271651cb']
+2025-06-22 12:28:34,113 - INFO - Video Path: https://v.redd.it/s4ouwbfoce8f1/DASH_1080.mp4?source=fallback
+2025-06-22 12:28:34,286 - INFO - Downloaded media from https://v.redd.it/s4ouwbfoce8f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-22 12:28:34,344 - INFO - Downloaded media from https://v.redd.it/s4ouwbfoce8f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-22 12:28:34,643 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-22 12:28:40,554 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
