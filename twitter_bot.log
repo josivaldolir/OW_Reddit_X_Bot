@@ -1044,3 +1044,11 @@ Play with my friend today he played genji and I played hanzo I was a bad hanzo l
 2025-06-22 12:28:34,643 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-22 12:28:40,554 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-22 13:42:33,419 - INFO - Content: Why is every rein player like this
+Ignore how bad i was in this clip lol
+2025-06-22 13:42:33,419 - INFO - Image Paths: ['https://external-preview.redd.it/a3NkYzllcXV6ZzhmMQv0jXGbevp6TY8SZgqkICV9AyxobW3g5hR4ekbIPCvv.png?format=pjpg&auto=webp&s=0755a3e739b6cef56cc704490f47f45e3b2aafcb']
+2025-06-22 13:42:33,419 - INFO - Video Path: https://v.redd.it/6x6nutkuzg8f1/DASH_1080.mp4?source=fallback
+2025-06-22 13:42:34,259 - INFO - Downloaded media from https://v.redd.it/6x6nutkuzg8f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-22 13:42:34,396 - INFO - Downloaded media from https://v.redd.it/6x6nutkuzg8f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-22 13:42:35,214 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-22 13:42:42,295 - INFO - Posted content successfully. Tweet ID: 1936781895125389523
