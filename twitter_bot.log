@@ -1146,3 +1146,10 @@ Too Many Requests
 2025-06-22 19:36:09,681 - INFO - Downloaded media from https://preview.redd.it/6uw0648hqi8f1.jpeg?auto=webp&s=fb8fbc2a799597fed0e29f91e0d682baef68cfe1 to temp_image.jpg
 2025-06-22 19:36:10,340 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-22 20:16:02,764 - INFO - Content: You WILL enjoy your mercy lifeweaver backlines
+
+2025-06-22 20:16:02,764 - INFO - Image Paths: ['https://preview.redd.it/6uw0648hqi8f1.jpeg?auto=webp&s=fb8fbc2a799597fed0e29f91e0d682baef68cfe1']
+2025-06-22 20:16:02,764 - INFO - Video Path: 
+2025-06-22 20:16:02,823 - INFO - Downloaded media from https://preview.redd.it/6uw0648hqi8f1.jpeg?auto=webp&s=fb8fbc2a799597fed0e29f91e0d682baef68cfe1 to temp_image.jpg
+2025-06-22 20:16:03,475 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
