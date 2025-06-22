@@ -935,3 +935,14 @@ Too Many Requests
 2025-06-22 04:05:17,171 - INFO - Video Path: 
 2025-06-22 04:05:17,453 - INFO - Downloaded media from https://external-preview.redd.it/9pEVV5w-i3S_2dFkNz-AT2MjIFd47Q_a4uMdQ-J8KCo.png?auto=webp&s=f3ff493df069360f18455eb822cb6037da8d1d5b to temp_image.jpg
 2025-06-22 04:05:18,892 - INFO - Posted content successfully. Tweet ID: 1936636588353802326
+2025-06-22 04:49:25,260 - INFO - Content: Some dps be dodging heals better than the enemy's bullet
+"gg no heals" 
+
+Credits to @qlat28 🤍🤍
+2025-06-22 04:49:25,260 - INFO - Image Paths: ['https://external-preview.redd.it/bHBhNTVmZ3hnZThmMf57ESWvQsOglhjX7e3_SufG1Pt43ypJORS7zUoCSBL5.png?format=pjpg&auto=webp&s=ca041b42f26c53b7e4a82a9b0381d3c939ad0b14']
+2025-06-22 04:49:25,261 - INFO - Video Path: https://v.redd.it/0rdb1oexge8f1/DASH_480.mp4?source=fallback
+2025-06-22 04:49:25,585 - INFO - Downloaded media from https://v.redd.it/0rdb1oexge8f1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-06-22 04:49:25,758 - INFO - Downloaded media from https://v.redd.it/0rdb1oexge8f1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-06-22 04:49:26,202 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-22 04:49:32,260 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
