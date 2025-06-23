@@ -1236,3 +1236,11 @@ Their profile was private. I’ve seen someone do the math for the Legendary tit
 2025-06-23 04:07:30,616 - INFO - Downloaded media from https://preview.redd.it/xa7nxkxl5k8f1.jpeg?auto=webp&s=5428223e9c4875c3f0399803a514a420f3bc9cb4 to temp_image.jpg
 2025-06-23 04:07:31,260 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-23 04:53:25,495 - INFO - Content: xqc little scared of a tire 🥹
+
+2025-06-23 04:53:25,495 - INFO - Image Paths: ['https://external-preview.redd.it/dnE0ZmY3ejVnazhmMWnaNMcK93n8UBJUftusE-L9W0KWp-BQHRWEA6d7lAjZ.png?format=pjpg&auto=webp&s=296ba610e6ad64da10f1c7f9591de934128a6337']
+2025-06-23 04:53:25,495 - INFO - Video Path: https://v.redd.it/v4cla026gk8f1/DASH_480.mp4?source=fallback
+2025-06-23 04:53:25,611 - INFO - Downloaded media from https://v.redd.it/v4cla026gk8f1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-06-23 04:53:25,709 - INFO - Downloaded media from https://v.redd.it/v4cla026gk8f1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-06-23 04:53:26,034 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-23 04:53:28,992 - INFO - Posted content successfully. Tweet ID: 1937011099746095506
