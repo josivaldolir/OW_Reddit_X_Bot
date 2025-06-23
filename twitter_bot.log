@@ -1390,3 +1390,9 @@ I swear some people are dense as a brick wall: they will post a screenshot showi
 2025-06-23 17:14:33,458 - INFO - Downloaded media from https://preview.redd.it/9lgh6a0dso8f1.jpeg?auto=webp&s=3db5b47685db39bc20292b9b1a94d14cb512a775 to temp_image.jpg
 2025-06-23 17:14:34,679 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-23 17:42:19,198 - INFO - Content: "I was banned for no reason!"
+I swear some people are dense as a brick wall: they will post a screenshot showing exactly why they were banned and still saying it was undeserved and clearly a mistake on Blizzard's end 🤣
+2025-06-23 17:42:19,198 - INFO - Image Paths: ['https://preview.redd.it/9lgh6a0dso8f1.jpeg?auto=webp&s=3db5b47685db39bc20292b9b1a94d14cb512a775']
+2025-06-23 17:42:19,198 - INFO - Video Path: 
+2025-06-23 17:42:19,284 - INFO - Downloaded media from https://preview.redd.it/9lgh6a0dso8f1.jpeg?auto=webp&s=3db5b47685db39bc20292b9b1a94d14cb512a775 to temp_image.jpg
+2025-06-23 17:42:20,955 - INFO - Posted content successfully. Tweet ID: 1937204590149316772
