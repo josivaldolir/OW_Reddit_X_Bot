@@ -1336,3 +1336,10 @@ I feel like this would make a great template lol
 2025-06-23 12:33:29,888 - INFO - Downloaded media from https://v.redd.it/ilfdodf8zn8f1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-06-23 12:33:30,301 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-23 12:33:33,461 - INFO - Posted content successfully. Tweet ID: 1937126881532240376
+2025-06-23 13:31:56,737 - INFO - Content: "You're not supposed to be here"
+
+2025-06-23 13:31:56,737 - INFO - Image Paths: ['https://preview.redd.it/m7jzwcxj5o8f1.jpeg?auto=webp&s=0a78aa81639e5f9afce7b4164502e96a6b910907']
+2025-06-23 13:31:56,737 - INFO - Video Path: 
+2025-06-23 13:31:56,874 - INFO - Downloaded media from https://preview.redd.it/m7jzwcxj5o8f1.jpeg?auto=webp&s=0a78aa81639e5f9afce7b4164502e96a6b910907 to temp_image.jpg
+2025-06-23 13:31:57,683 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
