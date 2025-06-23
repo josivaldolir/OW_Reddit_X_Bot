@@ -1396,3 +1396,10 @@ I swear some people are dense as a brick wall: they will post a screenshot showi
 2025-06-23 17:42:19,198 - INFO - Video Path: 
 2025-06-23 17:42:19,284 - INFO - Downloaded media from https://preview.redd.it/9lgh6a0dso8f1.jpeg?auto=webp&s=3db5b47685db39bc20292b9b1a94d14cb512a775 to temp_image.jpg
 2025-06-23 17:42:20,955 - INFO - Posted content successfully. Tweet ID: 1937204590149316772
+2025-06-23 18:22:28,042 - INFO - Content: It's tough out there as a solo-queued only player...
+My skill rating (SR) took a nose dive after the drives started. Was trying to grind for Diamond during the Drive, but that's not going to happen now, haha. 5v5 hasn't been much better, unfortunately. How's your experience been so far?
+2025-06-23 18:22:28,043 - INFO - Image Paths: ['https://external-preview.redd.it/rLFBAz9DvhZrORbvsBv3_9NB3AyUeTo3U3Jl8EIndcc.png?auto=webp&s=2f0d0e0df56568049fb49750b9c98c618facaa25']
+2025-06-23 18:22:28,043 - INFO - Video Path: 
+2025-06-23 18:22:28,066 - INFO - Downloaded media from https://external-preview.redd.it/rLFBAz9DvhZrORbvsBv3_9NB3AyUeTo3U3Jl8EIndcc.png?auto=webp&s=2f0d0e0df56568049fb49750b9c98c618facaa25 to temp_image.jpg
+2025-06-23 18:22:28,887 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
