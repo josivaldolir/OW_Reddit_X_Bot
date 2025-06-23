@@ -1420,3 +1420,10 @@ im required to add a description so this post doesnt get taken down
 2025-06-23 19:13:00,424 - INFO - Video Path: 
 2025-06-23 19:13:00,479 - INFO - Downloaded media from https://preview.redd.it/dg2d7aoaxp8f1.jpeg?auto=webp&s=537f9b08f4601dd81b4decf783e95f39af539c38 to temp_image.jpg
 2025-06-23 19:13:01,402 - INFO - Posted content successfully. Tweet ID: 1937227410149421157
+2025-06-23 19:36:32,895 - INFO - Content: It's tough out there as a solo-queued only player...
+My skill rating (SR) took a nose dive after the drives started. Was trying to grind for Diamond during the Drive, but that's not going to happen now, haha. 5v5 hasn't been much better, unfortunately. How's your experience been so far?
+2025-06-23 19:36:32,895 - INFO - Image Paths: ['https://external-preview.redd.it/rLFBAz9DvhZrORbvsBv3_9NB3AyUeTo3U3Jl8EIndcc.png?auto=webp&s=2f0d0e0df56568049fb49750b9c98c618facaa25']
+2025-06-23 19:36:32,895 - INFO - Video Path: 
+2025-06-23 19:36:33,005 - INFO - Downloaded media from https://external-preview.redd.it/rLFBAz9DvhZrORbvsBv3_9NB3AyUeTo3U3Jl8EIndcc.png?auto=webp&s=2f0d0e0df56568049fb49750b9c98c618facaa25 to temp_image.jpg
+2025-06-23 19:36:33,525 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
