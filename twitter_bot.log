@@ -1533,3 +1533,10 @@ Back in 2020 before overwatch 2 released, blizzard revealed 4 silhouettes of som
 2025-06-23 22:43:03,023 - INFO - Downloaded media from https://preview.redd.it/1obv2py23r8f1.jpeg?auto=webp&s=c401f0be20615513681e015c376806b6bea41d27 to temp_image.jpg
 2025-06-23 22:43:03,712 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-23 23:13:42,619 - INFO - Content: Character silhouettes revealed back in 2020
+Back in 2020 before overwatch 2 released, blizzard revealed 4 silhouettes of some of the upcoming heroes concept art. We know that the third one with the big ninja star is Kiriko and I’m pretty sure that the one with the wizard staff is Ramattra. But what about the others? If I had to guess I’d say the one on the left is maybe Sojourn? But on the right I’ve got no idea (maybe Lifeweaver without the flower on his back but that’s a bit of a stretch) What do you all think? And has blizzard ever show us the original photos of these silhouettes?
+2025-06-23 23:13:42,619 - INFO - Image Paths: ['https://preview.redd.it/1obv2py23r8f1.jpeg?auto=webp&s=c401f0be20615513681e015c376806b6bea41d27']
+2025-06-23 23:13:42,619 - INFO - Video Path: 
+2025-06-23 23:13:42,827 - INFO - Downloaded media from https://preview.redd.it/1obv2py23r8f1.jpeg?auto=webp&s=c401f0be20615513681e015c376806b6bea41d27 to temp_image.jpg
+2025-06-23 23:13:43,588 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
