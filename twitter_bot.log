@@ -1403,3 +1403,12 @@ My skill rating (SR) took a nose dive after the drives started. Was trying to gr
 2025-06-23 18:22:28,066 - INFO - Downloaded media from https://external-preview.redd.it/rLFBAz9DvhZrORbvsBv3_9NB3AyUeTo3U3Jl8EIndcc.png?auto=webp&s=2f0d0e0df56568049fb49750b9c98c618facaa25 to temp_image.jpg
 2025-06-23 18:22:28,887 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-23 18:49:57,021 - INFO - Content: What is 90% of overwatching?
+im required to add a description so this post doesnt get taken down
+
+
+2025-06-23 18:49:57,021 - INFO - Image Paths: ['https://preview.redd.it/dg2d7aoaxp8f1.jpeg?auto=webp&s=537f9b08f4601dd81b4decf783e95f39af539c38']
+2025-06-23 18:49:57,021 - INFO - Video Path: 
+2025-06-23 18:49:57,068 - INFO - Downloaded media from https://preview.redd.it/dg2d7aoaxp8f1.jpeg?auto=webp&s=537f9b08f4601dd81b4decf783e95f39af539c38 to temp_image.jpg
+2025-06-23 18:49:57,918 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
