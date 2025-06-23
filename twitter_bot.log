@@ -1370,3 +1370,10 @@ Too Many Requests
 2025-06-23 15:43:31,242 - INFO - Downloaded media from https://preview.redd.it/uet5g35qso8f1.jpeg?auto=webp&s=7b48ad981997e89295c62970c0a1468f77013ed3 to temp_image.jpg
 2025-06-23 15:43:32,564 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-23 16:20:15,196 - INFO - Content: "I was banned for no reason!"
+I swear some people are dense as a brick wall: they will post a screenshot showing exactly why they were banned and still saying it was undeserved and clearly a mistake on Blizzard's end 🤣
+2025-06-23 16:20:15,197 - INFO - Image Paths: ['https://preview.redd.it/9lgh6a0dso8f1.jpeg?auto=webp&s=3db5b47685db39bc20292b9b1a94d14cb512a775']
+2025-06-23 16:20:15,197 - INFO - Video Path: 
+2025-06-23 16:20:15,289 - INFO - Downloaded media from https://preview.redd.it/9lgh6a0dso8f1.jpeg?auto=webp&s=3db5b47685db39bc20292b9b1a94d14cb512a775 to temp_image.jpg
+2025-06-23 16:20:16,603 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
