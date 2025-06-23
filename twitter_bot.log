@@ -1377,3 +1377,9 @@ I swear some people are dense as a brick wall: they will post a screenshot showi
 2025-06-23 16:20:15,289 - INFO - Downloaded media from https://preview.redd.it/9lgh6a0dso8f1.jpeg?auto=webp&s=3db5b47685db39bc20292b9b1a94d14cb512a775 to temp_image.jpg
 2025-06-23 16:20:16,603 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-23 16:49:18,819 - INFO - Content: "I don't know what I did!" *Posts screenshot showing exactly what they did*
+
+2025-06-23 16:49:18,819 - INFO - Image Paths: ['https://preview.redd.it/uet5g35qso8f1.jpeg?auto=webp&s=7b48ad981997e89295c62970c0a1468f77013ed3']
+2025-06-23 16:49:18,819 - INFO - Video Path: 
+2025-06-23 16:49:19,130 - INFO - Downloaded media from https://preview.redd.it/uet5g35qso8f1.jpeg?auto=webp&s=7b48ad981997e89295c62970c0a1468f77013ed3 to temp_image.jpg
+2025-06-23 16:49:20,916 - INFO - Posted content successfully. Tweet ID: 1937191252170244318
