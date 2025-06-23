@@ -1328,3 +1328,11 @@ I feel like this would make a great template lol
 2025-06-23 11:38:17,141 - INFO - Video Path: 
 2025-06-23 11:38:17,290 - INFO - Downloaded media from https://preview.redd.it/0tmb7adynn8f1.png?auto=webp&s=613b8d87f4d99f0c336c39842e9476db0437b2d6 to temp_image.jpg
 2025-06-23 11:38:18,966 - INFO - Posted content successfully. Tweet ID: 1937112977339208122
+2025-06-23 12:33:29,710 - INFO - Content: New game mode just dropped.
+
+2025-06-23 12:33:29,710 - INFO - Image Paths: ['https://external-preview.redd.it/NzZ4c3hwYzh6bjhmMc0vC7nFmaWeoKgmKLQ1Ys5bOVe80EwBZi0XnuQDGPhR.png?format=pjpg&auto=webp&s=d550fff87a9f8d18b36632c86856949a6fbfecd2']
+2025-06-23 12:33:29,710 - INFO - Video Path: https://v.redd.it/ilfdodf8zn8f1/DASH_720.mp4?source=fallback
+2025-06-23 12:33:29,851 - INFO - Downloaded media from https://v.redd.it/ilfdodf8zn8f1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-06-23 12:33:29,888 - INFO - Downloaded media from https://v.redd.it/ilfdodf8zn8f1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-06-23 12:33:30,301 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-23 12:33:33,461 - INFO - Posted content successfully. Tweet ID: 1937126881532240376
