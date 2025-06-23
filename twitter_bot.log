@@ -1427,3 +1427,11 @@ My skill rating (SR) took a nose dive after the drives started. Was trying to gr
 2025-06-23 19:36:33,005 - INFO - Downloaded media from https://external-preview.redd.it/rLFBAz9DvhZrORbvsBv3_9NB3AyUeTo3U3Jl8EIndcc.png?auto=webp&s=2f0d0e0df56568049fb49750b9c98c618facaa25 to temp_image.jpg
 2025-06-23 19:36:33,525 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-23 20:17:50,312 - INFO - Content: You can always just TP away...
+
+2025-06-23 20:17:50,312 - INFO - Image Paths: ['https://external-preview.redd.it/aWpqMzJseDlscDhmMaYvVNy3ymkxOym9yOhBRvTlTbXK1tpB5RYBd_KiIcJq.png?format=pjpg&auto=webp&s=a0b17ddbb28479acc69bbcdb2f4f987a143811ba']
+2025-06-23 20:17:50,312 - INFO - Video Path: https://v.redd.it/0lqnqox9lp8f1/DASH_720.mp4?source=fallback
+2025-06-23 20:17:50,456 - INFO - Downloaded media from https://v.redd.it/0lqnqox9lp8f1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-06-23 20:17:50,489 - INFO - Downloaded media from https://v.redd.it/0lqnqox9lp8f1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-06-23 20:17:51,210 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-23 20:17:57,098 - INFO - Posted content successfully. Tweet ID: 1937243750150930511
