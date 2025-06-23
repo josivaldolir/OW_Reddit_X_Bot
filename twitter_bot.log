@@ -1435,3 +1435,9 @@ Too Many Requests
 2025-06-23 20:17:50,489 - INFO - Downloaded media from https://v.redd.it/0lqnqox9lp8f1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-06-23 20:17:51,210 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-23 20:17:57,098 - INFO - Posted content successfully. Tweet ID: 1937243750150930511
+2025-06-23 20:42:16,454 - INFO - Content: Totally worth it!
+
+2025-06-23 20:42:16,454 - INFO - Image Paths: ['https://preview.redd.it/g5ez73ntkq8f1.jpeg?auto=webp&s=22b1742a2a3a05dea18ecdc76131c660e4937450']
+2025-06-23 20:42:16,454 - INFO - Video Path: 
+2025-06-23 20:42:16,513 - INFO - Downloaded media from https://preview.redd.it/g5ez73ntkq8f1.jpeg?auto=webp&s=22b1742a2a3a05dea18ecdc76131c660e4937450 to temp_image.jpg
+2025-06-23 20:42:17,973 - INFO - Posted content successfully. Tweet ID: 1937249876263248032
