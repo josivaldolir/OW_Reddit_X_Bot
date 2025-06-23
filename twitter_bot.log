@@ -1412,3 +1412,11 @@ im required to add a description so this post doesnt get taken down
 2025-06-23 18:49:57,068 - INFO - Downloaded media from https://preview.redd.it/dg2d7aoaxp8f1.jpeg?auto=webp&s=537f9b08f4601dd81b4decf783e95f39af539c38 to temp_image.jpg
 2025-06-23 18:49:57,918 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-23 19:13:00,424 - INFO - Content: What is 90% of overwatching?
+im required to add a description so this post doesnt get taken down
+
+
+2025-06-23 19:13:00,424 - INFO - Image Paths: ['https://preview.redd.it/dg2d7aoaxp8f1.jpeg?auto=webp&s=537f9b08f4601dd81b4decf783e95f39af539c38']
+2025-06-23 19:13:00,424 - INFO - Video Path: 
+2025-06-23 19:13:00,479 - INFO - Downloaded media from https://preview.redd.it/dg2d7aoaxp8f1.jpeg?auto=webp&s=537f9b08f4601dd81b4decf783e95f39af539c38 to temp_image.jpg
+2025-06-23 19:13:01,402 - INFO - Posted content successfully. Tweet ID: 1937227410149421157
