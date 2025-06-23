@@ -1244,3 +1244,10 @@ Too Many Requests
 2025-06-23 04:53:25,709 - INFO - Downloaded media from https://v.redd.it/v4cla026gk8f1/DASH_480.mp4?source=fallback to temp_audio.mp4
 2025-06-23 04:53:26,034 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-23 04:53:28,992 - INFO - Posted content successfully. Tweet ID: 1937011099746095506
+2025-06-23 05:18:01,784 - INFO - Content: How many hours does it take to get this title? I genuinely didn’t think it was possible yet.
+Their profile was private. I’ve seen someone do the math for the Legendary title and it seems like that’s only possible if you dedicate hours to playing Overwatch *daily*. And Ultimate is double that. 
+2025-06-23 05:18:01,784 - INFO - Image Paths: ['https://preview.redd.it/xa7nxkxl5k8f1.jpeg?auto=webp&s=5428223e9c4875c3f0399803a514a420f3bc9cb4']
+2025-06-23 05:18:01,784 - INFO - Video Path: 
+2025-06-23 05:18:02,462 - INFO - Downloaded media from https://preview.redd.it/xa7nxkxl5k8f1.jpeg?auto=webp&s=5428223e9c4875c3f0399803a514a420f3bc9cb4 to temp_image.jpg
+2025-06-23 05:18:03,125 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
