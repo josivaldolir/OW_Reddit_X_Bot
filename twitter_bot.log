@@ -1441,3 +1441,73 @@ Too Many Requests
 2025-06-23 20:42:16,454 - INFO - Video Path: 
 2025-06-23 20:42:16,513 - INFO - Downloaded media from https://preview.redd.it/g5ez73ntkq8f1.jpeg?auto=webp&s=22b1742a2a3a05dea18ecdc76131c660e4937450 to temp_image.jpg
 2025-06-23 20:42:17,973 - INFO - Posted content successfully. Tweet ID: 1937249876263248032
+2025-06-23 21:15:21,429 - INFO - Content: StadiumBuilds.io by the Numbers: What You Built in Season 16 (and a lil' teaser)
+Hey everyone, Austin here (aka Nomabond). The last month has been wild, so I wanted to share what’s new, what’s improved, and what’s coming next on [**StadiumBuilds.io**](https://stadiumbuilds.io).
+
+Let’s get into it 👇
+
+# 🏆 Season 16 Rewind is Live!
+
+I just dropped our **first ever season wrap-up**:
+
+🔗 [**https://stadiumbuilds.io/season16-rewind**](https://stadiumbuilds.io/season16-rewind)
+
+* **3,475 builds** from 1,931 builders
+* **25,278 likes** across the site
+* Over **2.2 million views**
+* Top builds, hero usage charts, and more
+* Log in to see **your** personal stats
+
+This will be a regular thing now as a little seasonal celebration of the chaos you all cook up.
+
+# 📊 Brand New: Live Meta Analytics
+
+Want to see how Stadium Mode evolved week-by-week?
+
+🔗 [**https://stadiumbuilds.io/insights**](https://stadiumbuilds.io/insights) (login required)
+
+We now track:
+
+* **Most used items and heroes**
+* Stat shifts and meta swings
+* Everything rendered live from the DB, no smoke, no mirrors
+
+Whether you theorycraft or just like to nerd out on trends, this page is for you.
+
+# 🛠️ Quality of Life & UX Overhauls
+
+* **New Home Page** with live stats + smoother navigation
+* Hero picker redesign
+* Optional Powers finally behave
+* Average round price filtering + better filters overall
+* **Comment threading** is fixed + cleaner replies
+* Round notes now support **images**, **GIFs**, **YouTube links**, and up to **10,000 characters**
+* Unsaved changes modal so you don’t lose your thoughts mid-round
+* Profanity filtering on pronouns.. 😬 (you know who you are)
+
+# 🚀 Site Performance Got a Massive Buff
+
+* Redis-powered view tracking (way faster, way more accurate)
+* CDN + cache invalidation overhaul = fewer janky loads
+* Fixed re-render bugs, reduced layout shift, squashed a ton of weird edge cases
+
+# 💬 Supporter Features (and a Sneak Peek)
+
+* Dedicated [**Supporters Page**](https://stadiumbuilds.io/supporters)
+* Patch Notes tab
+* 🎁 Supporter-only build & profile flair, custom site themes, new layouts, profile perks, permalinks 
+
+>I've been quietly working on a \*\*real-time enhancement\*\* to how you interact with builds. Think less alt-tabbing, more time focused on winning. :)   
+  
+You're going to love it!
+
+This project started as something I built for my wife and now we’re getting thousands of players every week. Thank you for the support, the memes, the builds, and the chaos. Seriously.
+
+As always: feedback, bug reports, hype, and memes welcome in the replies or in the Discord!
+
+Keep building friends,  
+**– Nomabond**
+2025-06-23 21:15:21,429 - INFO - Image Paths: ['https://external-preview.redd.it/MRQ3DUB3ofo5XxH8-y5zScgOW_0MtWgqt5XWVUC3qEQ.jpeg?auto=webp&s=f6d546b6bfffc34fea80cbf6162fbbe408223232']
+2025-06-23 21:15:21,429 - INFO - Video Path: 
+2025-06-23 21:15:21,752 - INFO - Downloaded media from https://external-preview.redd.it/MRQ3DUB3ofo5XxH8-y5zScgOW_0MtWgqt5XWVUC3qEQ.jpeg?auto=webp&s=f6d546b6bfffc34fea80cbf6162fbbe408223232 to temp_image.jpg
+2025-06-23 21:15:23,222 - INFO - Posted content successfully. Tweet ID: 1937258202997129639
