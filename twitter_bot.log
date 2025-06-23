@@ -1517,3 +1517,12 @@ My skill rating (SR) took a nose dive after the drives started. Was trying to gr
 2025-06-23 21:38:44,201 - INFO - Video Path: 
 2025-06-23 21:38:44,389 - INFO - Downloaded media from https://external-preview.redd.it/rLFBAz9DvhZrORbvsBv3_9NB3AyUeTo3U3Jl8EIndcc.png?auto=webp&s=2f0d0e0df56568049fb49750b9c98c618facaa25 to temp_image.jpg
 2025-06-23 21:38:45,227 - INFO - Posted content successfully. Tweet ID: 1937264084207972680
+2025-06-23 22:15:42,874 - INFO - Content: American Dad X Overwatch.
+How have a never seen this before, I just came across it on tik tok. 
+2025-06-23 22:15:42,874 - INFO - Image Paths: ['https://external-preview.redd.it/M2NrenB6d2dvcDhmMQ9sS3f1afgALFIIkMjDsNeM5vmj9QE638wlrwqdsbHq.png?format=pjpg&auto=webp&s=aeb367686aa9df8c5bdcc7f63737be100c2748a2']
+2025-06-23 22:15:42,874 - INFO - Video Path: https://v.redd.it/cqgom40hop8f1/DASH_480.mp4?source=fallback
+2025-06-23 22:15:42,964 - INFO - Downloaded media from https://v.redd.it/cqgom40hop8f1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-06-23 22:15:43,052 - INFO - Downloaded media from https://v.redd.it/cqgom40hop8f1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-06-23 22:15:43,227 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-23 22:15:49,279 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
