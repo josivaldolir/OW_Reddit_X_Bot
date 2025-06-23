@@ -1258,3 +1258,10 @@ Their profile was private. I’ve seen someone do the math for the Legendary tit
 2025-06-23 05:44:06,058 - INFO - Downloaded media from https://preview.redd.it/xa7nxkxl5k8f1.jpeg?auto=webp&s=5428223e9c4875c3f0399803a514a420f3bc9cb4 to temp_image.jpg
 2025-06-23 05:44:06,651 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-23 06:24:38,477 - INFO - Content: New PlayStation background
+
+2025-06-23 06:24:38,477 - INFO - Image Paths: ['https://preview.redd.it/cjzjzw1bdl8f1.jpeg?auto=webp&s=d783d907fe7f0ea9577c6ea193443533ead084f2']
+2025-06-23 06:24:38,477 - INFO - Video Path: 
+2025-06-23 06:24:38,525 - INFO - Downloaded media from https://preview.redd.it/cjzjzw1bdl8f1.jpeg?auto=webp&s=d783d907fe7f0ea9577c6ea193443533ead084f2 to temp_image.jpg
+2025-06-23 06:24:39,208 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
