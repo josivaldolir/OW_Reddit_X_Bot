@@ -1789,3 +1789,10 @@ Too Many Requests
 2025-06-24 19:36:28,041 - INFO - Downloaded media from https://preview.redd.it/hncqus6mkt8f1.png?auto=webp&s=05e534a8d818a2c869360a6d22b37c5cb3ca71c5 to temp_image.jpg
 2025-06-24 19:36:28,815 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-24 20:17:48,668 - INFO - Content: Time to start banning tracer
+I'm a zen main and this is a nightmare
+2025-06-24 20:17:48,669 - INFO - Image Paths: ['https://preview.redd.it/1oa03cvw3x8f1.jpeg?auto=webp&s=f7ce989dcf9608e1330512a2c6ebfaf98093cd61']
+2025-06-24 20:17:48,669 - INFO - Video Path: 
+2025-06-24 20:17:48,822 - INFO - Downloaded media from https://preview.redd.it/1oa03cvw3x8f1.jpeg?auto=webp&s=f7ce989dcf9608e1330512a2c6ebfaf98093cd61 to temp_image.jpg
+2025-06-24 20:17:49,490 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
