@@ -1768,3 +1768,10 @@ If we want the Overwatch movie to REALLY HAPPEN, we gotta get serious about our 
 2025-06-24 18:22:00,284 - INFO - Video Path: 
 2025-06-24 18:22:00,417 - INFO - Downloaded media from https://external-preview.redd.it/lwGUxK1BvCz2vGBmzVqm6_bvfwTsv0ARmBbkXM2s4JM.jpeg?auto=webp&s=e6bc93bc027f6718ff9f2dcdad324a2da0373685 to temp_image.jpg
 2025-06-24 18:22:01,521 - INFO - Posted content successfully. Tweet ID: 1937576963436347781
+2025-06-24 18:49:52,087 - INFO - Content: New Stadium Mercy skin
+
+2025-06-24 18:49:52,087 - INFO - Image Paths: ['https://external-preview.redd.it/Ie2fQbahWTLBndiHmQksFLJ3UXYo54T9yq45J0womEo.jpeg?auto=webp&s=3d42fc86be4e4fd3a9305234498cb93980f6794e']
+2025-06-24 18:49:52,087 - INFO - Video Path: 
+2025-06-24 18:49:52,253 - INFO - Downloaded media from https://external-preview.redd.it/Ie2fQbahWTLBndiHmQksFLJ3UXYo54T9yq45J0womEo.jpeg?auto=webp&s=3d42fc86be4e4fd3a9305234498cb93980f6794e to temp_image.jpg
+2025-06-24 18:49:53,065 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
