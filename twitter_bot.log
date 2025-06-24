@@ -1796,3 +1796,9 @@ I'm a zen main and this is a nightmare
 2025-06-24 20:17:48,822 - INFO - Downloaded media from https://preview.redd.it/1oa03cvw3x8f1.jpeg?auto=webp&s=f7ce989dcf9608e1330512a2c6ebfaf98093cd61 to temp_image.jpg
 2025-06-24 20:17:49,490 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-24 20:41:24,109 - INFO - Content: Tracer in the Overwatch Academy Bundle:
+
+2025-06-24 20:41:24,109 - INFO - Image Paths: ['https://preview.redd.it/fin3bvpzex8f1.jpeg?auto=webp&s=d13b7c701201bb6da9ccc73b21a32d6e5c07425a']
+2025-06-24 20:41:24,109 - INFO - Video Path: 
+2025-06-24 20:41:24,241 - INFO - Downloaded media from https://preview.redd.it/fin3bvpzex8f1.jpeg?auto=webp&s=d13b7c701201bb6da9ccc73b21a32d6e5c07425a to temp_image.jpg
+2025-06-24 20:41:25,148 - INFO - Posted content successfully. Tweet ID: 1937612043420393633
