@@ -1827,3 +1827,10 @@ I hate sombra but I have to have it.
 2025-06-24 22:43:36,506 - INFO - Downloaded media from https://preview.redd.it/hhajp50x8y8f1.jpeg?auto=webp&s=46083d669deb978767df4c16ed6ee6717471ace7 to temp_image.jpg
 2025-06-24 22:43:37,337 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-24 23:15:05,703 - INFO - Content: I'm so mad....
+
+2025-06-24 23:15:05,703 - INFO - Image Paths: ['https://preview.redd.it/hhajp50x8y8f1.jpeg?auto=webp&s=46083d669deb978767df4c16ed6ee6717471ace7']
+2025-06-24 23:15:05,703 - INFO - Video Path: 
+2025-06-24 23:15:05,872 - INFO - Downloaded media from https://preview.redd.it/hhajp50x8y8f1.jpeg?auto=webp&s=46083d669deb978767df4c16ed6ee6717471ace7 to temp_image.jpg
+2025-06-24 23:15:06,664 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
