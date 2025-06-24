@@ -1663,3 +1663,10 @@ Too Many Requests
 2025-06-24 10:17:44,940 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-24 10:18:01,693 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-24 10:46:54,709 - INFO - Content: Come and get them
+
+2025-06-24 10:46:54,709 - INFO - Image Paths: ['https://preview.redd.it/x17iy8lncu8f1.jpeg?auto=webp&s=70451a7ab718f2497f0c3f7d6104c2a5526e2f29']
+2025-06-24 10:46:54,709 - INFO - Video Path: 
+2025-06-24 10:46:54,934 - INFO - Downloaded media from https://preview.redd.it/x17iy8lncu8f1.jpeg?auto=webp&s=70451a7ab718f2497f0c3f7d6104c2a5526e2f29 to temp_image.jpg
+2025-06-24 10:46:55,550 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
