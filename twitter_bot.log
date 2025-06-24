@@ -1679,3 +1679,11 @@ Too Many Requests
 2025-06-24 11:13:59,467 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-24 11:14:17,715 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-24 11:38:23,642 - INFO - Content: SaveAFox founder Mikayla Raines, passed away at the age of 31. Kiriko's kitsune spirit is voiced by the foxes of SaveAFox sanctuary.
+I see nobody brings this up, so I decided to bring it here for visibility. 
+
+Kiriko has been an iconic part of Overwatch 2 and these fox videos helped me pass the days of corona lockdown. So sad that this happened. 
+2025-06-24 11:38:23,642 - INFO - Image Paths: ['https://external-preview.redd.it/up8WMgfo8hRbyeUeh1WFrzKI8mB5A25tfVPSsJz_9fE.jpeg?auto=webp&s=cdaf35da7f50c3208fce631a692aef9ac1460e89']
+2025-06-24 11:38:23,642 - INFO - Video Path: 
+2025-06-24 11:38:23,921 - INFO - Downloaded media from https://external-preview.redd.it/up8WMgfo8hRbyeUeh1WFrzKI8mB5A25tfVPSsJz_9fE.jpeg?auto=webp&s=cdaf35da7f50c3208fce631a692aef9ac1460e89 to temp_image.jpg
+2025-06-24 11:38:24,907 - INFO - Posted content successfully. Tweet ID: 1937475391922545033
