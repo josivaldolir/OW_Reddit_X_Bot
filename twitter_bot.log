@@ -1586,3 +1586,12 @@ Too Many Requests
 2025-06-24 05:17:49,927 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-24 05:17:59,528 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-24 05:44:10,060 - INFO - Content: My average competitive experience.
+
+2025-06-24 05:44:10,060 - INFO - Image Paths: ['https://external-preview.redd.it/NTQ0bmNpemhqczhmMUjsy4iG5aYRwW6sbhkU-knlM1SMhKqF_F54feo54PHv.png?format=pjpg&auto=webp&s=9c586c650f691a47abd99dff5b46f4e1bfdf2bcb']
+2025-06-24 05:44:10,060 - INFO - Video Path: https://v.redd.it/u3kneywhjs8f1/DASH_1080.mp4?source=fallback
+2025-06-24 05:44:11,871 - INFO - Downloaded media from https://v.redd.it/u3kneywhjs8f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-24 05:44:13,346 - INFO - Downloaded media from https://v.redd.it/u3kneywhjs8f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-24 05:44:13,747 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-24 05:44:22,516 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
