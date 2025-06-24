@@ -1610,3 +1610,10 @@ Too Many Requests
 2025-06-24 06:51:28,897 - INFO - Downloaded media from https://preview.redd.it/y96vvz5czs8f1.png?auto=webp&s=e6690c3a1fc75a7f82200807854d9bef152bd1bd to temp_image.jpg
 2025-06-24 06:51:29,682 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-24 07:17:36,109 - INFO - Content: The nightbefore DVAs mythic and 7  epic lootboxes again
+
+2025-06-24 07:17:36,109 - INFO - Image Paths: ['https://preview.redd.it/y96vvz5czs8f1.png?auto=webp&s=e6690c3a1fc75a7f82200807854d9bef152bd1bd']
+2025-06-24 07:17:36,109 - INFO - Video Path: 
+2025-06-24 07:17:36,337 - INFO - Downloaded media from https://preview.redd.it/y96vvz5czs8f1.png?auto=webp&s=e6690c3a1fc75a7f82200807854d9bef152bd1bd to temp_image.jpg
+2025-06-24 07:17:37,179 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
