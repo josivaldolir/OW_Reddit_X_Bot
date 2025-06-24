@@ -1717,3 +1717,10 @@ Too Many Requests
 2025-06-24 14:43:54,388 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-24 14:44:07,554 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-24 15:18:28,474 - INFO - Content: It's a hard-knock life for Tanks!
+
+2025-06-24 15:18:28,474 - INFO - Image Paths: ['https://preview.redd.it/qny847ngsv8f1.jpeg?auto=webp&s=945e4436d77b7bd7a9420cf174b6d521b4eaf86b']
+2025-06-24 15:18:28,474 - INFO - Video Path: 
+2025-06-24 15:18:28,554 - INFO - Downloaded media from https://preview.redd.it/qny847ngsv8f1.jpeg?auto=webp&s=945e4436d77b7bd7a9420cf174b6d521b4eaf86b to temp_image.jpg
+2025-06-24 15:18:29,808 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
