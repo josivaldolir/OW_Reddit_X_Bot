@@ -1670,3 +1670,12 @@ Too Many Requests
 2025-06-24 10:46:54,934 - INFO - Downloaded media from https://preview.redd.it/x17iy8lncu8f1.jpeg?auto=webp&s=70451a7ab718f2497f0c3f7d6104c2a5526e2f29 to temp_image.jpg
 2025-06-24 10:46:55,550 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-24 11:13:58,510 - INFO - Content: Warning shots
+
+2025-06-24 11:13:58,510 - INFO - Image Paths: ['https://external-preview.redd.it/ZmdnN2Z6MTAxdDhmMZ2dyOZFbaJBkPk5hOSnUcO4LrDCUKMW9u1TRPDukQD7.png?format=pjpg&auto=webp&s=181a231233f4c01dd9a2250d668f368b5955e8ac']
+2025-06-24 11:13:58,510 - INFO - Video Path: https://v.redd.it/tl6lfsd01t8f1/DASH_1080.mp4?source=fallback
+2025-06-24 11:13:58,847 - INFO - Downloaded media from https://v.redd.it/tl6lfsd01t8f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-24 11:13:59,149 - INFO - Downloaded media from https://v.redd.it/tl6lfsd01t8f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-24 11:13:59,467 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-24 11:14:17,715 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
