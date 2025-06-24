@@ -1603,3 +1603,10 @@ Too Many Requests
 2025-06-24 06:24:18,854 - INFO - Downloaded media from https://v.redd.it/u3kneywhjs8f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-06-24 06:24:19,279 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-24 06:24:26,761 - INFO - Posted content successfully. Tweet ID: 1937396379506343943
+2025-06-24 06:51:28,811 - INFO - Content: The nightbefore DVAs mythic and 7  epic lootboxes again
+
+2025-06-24 06:51:28,811 - INFO - Image Paths: ['https://preview.redd.it/y96vvz5czs8f1.png?auto=webp&s=e6690c3a1fc75a7f82200807854d9bef152bd1bd']
+2025-06-24 06:51:28,811 - INFO - Video Path: 
+2025-06-24 06:51:28,897 - INFO - Downloaded media from https://preview.redd.it/y96vvz5czs8f1.png?auto=webp&s=e6690c3a1fc75a7f82200807854d9bef152bd1bd to temp_image.jpg
+2025-06-24 06:51:29,682 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
