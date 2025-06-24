@@ -1708,3 +1708,12 @@ Kiriko has been an iconic part of Overwatch 2 and these fox videos helped me pas
 2025-06-24 14:16:04,791 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-24 14:16:17,540 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-24 14:43:53,060 - INFO - Content: Warning shots
+
+2025-06-24 14:43:53,060 - INFO - Image Paths: ['https://external-preview.redd.it/ZmdnN2Z6MTAxdDhmMZ2dyOZFbaJBkPk5hOSnUcO4LrDCUKMW9u1TRPDukQD7.png?format=pjpg&auto=webp&s=181a231233f4c01dd9a2250d668f368b5955e8ac']
+2025-06-24 14:43:53,060 - INFO - Video Path: https://v.redd.it/tl6lfsd01t8f1/DASH_1080.mp4?source=fallback
+2025-06-24 14:43:53,399 - INFO - Downloaded media from https://v.redd.it/tl6lfsd01t8f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-24 14:43:53,697 - INFO - Downloaded media from https://v.redd.it/tl6lfsd01t8f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-24 14:43:54,388 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-24 14:44:07,554 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
