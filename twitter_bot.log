@@ -1775,3 +1775,10 @@ If we want the Overwatch movie to REALLY HAPPEN, we gotta get serious about our 
 2025-06-24 18:49:52,253 - INFO - Downloaded media from https://external-preview.redd.it/Ie2fQbahWTLBndiHmQksFLJ3UXYo54T9yq45J0womEo.jpeg?auto=webp&s=3d42fc86be4e4fd3a9305234498cb93980f6794e to temp_image.jpg
 2025-06-24 18:49:53,065 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-24 19:13:10,949 - INFO - Content: Me hitting all-star on dps at midnight:
+
+2025-06-24 19:13:10,950 - INFO - Image Paths: ['https://preview.redd.it/hncqus6mkt8f1.png?auto=webp&s=05e534a8d818a2c869360a6d22b37c5cb3ca71c5']
+2025-06-24 19:13:10,950 - INFO - Video Path: 
+2025-06-24 19:13:10,975 - INFO - Downloaded media from https://preview.redd.it/hncqus6mkt8f1.png?auto=webp&s=05e534a8d818a2c869360a6d22b37c5cb3ca71c5 to temp_image.jpg
+2025-06-24 19:13:11,723 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
