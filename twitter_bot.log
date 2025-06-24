@@ -1647,3 +1647,10 @@ Too Many Requests
 2025-06-24 09:18:02,611 - INFO - Downloaded media from https://preview.redd.it/y96vvz5czs8f1.png?auto=webp&s=e6690c3a1fc75a7f82200807854d9bef152bd1bd to temp_image.jpg
 2025-06-24 09:18:03,325 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-24 09:43:17,699 - INFO - Content: Me hitting all-star on dps at midnight:
+
+2025-06-24 09:43:17,700 - INFO - Image Paths: ['https://preview.redd.it/hncqus6mkt8f1.png?auto=webp&s=05e534a8d818a2c869360a6d22b37c5cb3ca71c5']
+2025-06-24 09:43:17,700 - INFO - Video Path: 
+2025-06-24 09:43:17,767 - INFO - Downloaded media from https://preview.redd.it/hncqus6mkt8f1.png?auto=webp&s=05e534a8d818a2c869360a6d22b37c5cb3ca71c5 to temp_image.jpg
+2025-06-24 09:43:18,464 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
