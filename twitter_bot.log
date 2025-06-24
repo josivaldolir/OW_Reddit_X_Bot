@@ -1554,3 +1554,10 @@ Items as well.
 2025-06-24 01:16:11,916 - INFO - Video Path: 
 2025-06-24 01:16:12,018 - INFO - Downloaded media from https://external-preview.redd.it/iJHZjo44fCRrtqpJUmjTj7Xvwamv6K5-iUjRbPLMheo.jpeg?auto=webp&s=4f247a9563f86af51aaec186ed1941df0232a621 to temp_image.jpg
 2025-06-24 01:16:13,235 - INFO - Posted content successfully. Tweet ID: 1937318811033829877
+2025-06-24 03:05:35,600 - INFO - Content: My personal tier list on how excited I am for each hero to come to stadium :)
+Honestly this made realize how many characters are already in stadium lol! Also I am very much looking forward to next season!
+2025-06-24 03:05:35,600 - INFO - Image Paths: ['https://preview.redd.it/5hwjofrx4r8f1.jpeg?auto=webp&s=953adf14593aa645768241257b970ff8d827b10e']
+2025-06-24 03:05:35,600 - INFO - Video Path: 
+2025-06-24 03:05:35,751 - INFO - Downloaded media from https://preview.redd.it/5hwjofrx4r8f1.jpeg?auto=webp&s=953adf14593aa645768241257b970ff8d827b10e to temp_image.jpg
+2025-06-24 03:05:36,516 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
