@@ -1963,3 +1963,9 @@ Too Many Requests
 2025-06-25 11:39:01,936 - INFO - Video Path: 
 2025-06-25 11:39:02,209 - INFO - Downloaded media from https://preview.redd.it/e0tl4a6g8z8f1.jpeg?auto=webp&s=0aef5befbae24504e3c8c03148fea06347f5e896 to temp_image.jpg
 2025-06-25 11:39:03,204 - INFO - Posted content successfully. Tweet ID: 1937837940727853282
+2025-06-25 12:33:16,602 - INFO - Content: How do you do, Fellow Diamond players?
+
+2025-06-25 12:33:16,603 - INFO - Image Paths: ['https://preview.redd.it/d8nkce9d829f1.png?auto=webp&s=e6cc46be0bb6c58909e232a3303a15980d240e40']
+2025-06-25 12:33:16,603 - INFO - Video Path: 
+2025-06-25 12:33:16,871 - INFO - Downloaded media from https://preview.redd.it/d8nkce9d829f1.png?auto=webp&s=e6cc46be0bb6c58909e232a3303a15980d240e40 to temp_image.jpg
+2025-06-25 12:33:19,002 - INFO - Posted content successfully. Tweet ID: 1937851592893739271
