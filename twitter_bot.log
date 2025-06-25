@@ -2064,3 +2064,9 @@ Too Many Requests
 2025-06-25 20:17:54,881 - INFO - Downloaded media from https://preview.redd.it/1ij6rxpf649f1.png?auto=webp&s=63bfcf37ad27b76a9eab2ba647d5690d00d73187 to temp_image.jpg
 2025-06-25 20:17:55,519 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-25 20:43:04,342 - INFO - Content: it’s her HOLY
+black suit black hair and the glasses? yeah someone at blizzard wants me to pass out
+2025-06-25 20:43:04,342 - INFO - Image Paths: ['https://preview.redd.it/1ynkgbviz39f1.jpeg?auto=webp&s=f070909ec14c69fdad491f8e7b9ead759aef0ab0']
+2025-06-25 20:43:04,342 - INFO - Video Path: 
+2025-06-25 20:43:04,517 - INFO - Downloaded media from https://preview.redd.it/1ynkgbviz39f1.jpeg?auto=webp&s=f070909ec14c69fdad491f8e7b9ead759aef0ab0 to temp_image.jpg
+2025-06-25 20:43:05,584 - INFO - Posted content successfully. Tweet ID: 1937974852683522435
