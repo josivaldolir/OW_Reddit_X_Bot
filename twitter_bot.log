@@ -1841,3 +1841,9 @@ Too Many Requests
 2025-06-24 23:39:13,314 - INFO - Downloaded media from https://preview.redd.it/hhajp50x8y8f1.jpeg?auto=webp&s=46083d669deb978767df4c16ed6ee6717471ace7 to temp_image.jpg
 2025-06-24 23:39:13,961 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-25 01:17:41,182 - INFO - Content: I'm so mad....
+
+2025-06-25 01:17:41,182 - INFO - Image Paths: ['https://preview.redd.it/hhajp50x8y8f1.jpeg?auto=webp&s=46083d669deb978767df4c16ed6ee6717471ace7']
+2025-06-25 01:17:41,182 - INFO - Video Path: 
+2025-06-25 01:17:41,428 - INFO - Downloaded media from https://preview.redd.it/hhajp50x8y8f1.jpeg?auto=webp&s=46083d669deb978767df4c16ed6ee6717471ace7 to temp_image.jpg
+2025-06-25 01:17:42,515 - INFO - Posted content successfully. Tweet ID: 1937681573975064878
