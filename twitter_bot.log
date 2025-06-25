@@ -2024,3 +2024,9 @@ Too Many Requests
 2025-06-25 17:16:14,307 - INFO - Downloaded media from https://v.redd.it/xtrwiv0bu29f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-06-25 17:16:17,617 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-25 17:16:21,604 - INFO - Posted content successfully. Tweet ID: 1937922826859950298
+2025-06-25 17:42:55,682 - INFO - Content: Y'all need to stop emotional banning. I'm going to crash out.
+
+2025-06-25 17:42:55,683 - INFO - Image Paths: ['https://preview.redd.it/i9nb5v0jq39f1.png?auto=webp&s=4582ab5c887a7e3cdc672e3d108ed83da93cc62d']
+2025-06-25 17:42:55,683 - INFO - Video Path: 
+2025-06-25 17:42:55,793 - INFO - Downloaded media from https://preview.redd.it/i9nb5v0jq39f1.png?auto=webp&s=4582ab5c887a7e3cdc672e3d108ed83da93cc62d to temp_image.jpg
+2025-06-25 17:42:57,177 - INFO - Posted content successfully. Tweet ID: 1937929518393790481
