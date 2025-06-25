@@ -2016,3 +2016,11 @@ Too Many Requests
 2025-06-25 16:49:52,388 - INFO - Downloaded media from https://preview.redd.it/cjb5z3vq919f1.png?auto=webp&s=53bb197ca57739c0b8a2fa57d952fa5d70b4c2c3 to temp_image.jpg
 2025-06-25 16:49:53,122 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-25 17:16:13,935 - INFO - Content: To that one person, I just want to TALK
+
+2025-06-25 17:16:13,935 - INFO - Image Paths: ['https://external-preview.redd.it/c2kxYnJ2MGJ1MjlmMeUDjcmVeLK_0pzJp9gEBQRGsSixynAs6YQ3I0n0cW9-.png?format=pjpg&auto=webp&s=a4b6afa42aa16955bbd2e91161e2a019f3b80fab']
+2025-06-25 17:16:13,935 - INFO - Video Path: https://v.redd.it/xtrwiv0bu29f1/DASH_1080.mp4?source=fallback
+2025-06-25 17:16:14,221 - INFO - Downloaded media from https://v.redd.it/xtrwiv0bu29f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-25 17:16:14,307 - INFO - Downloaded media from https://v.redd.it/xtrwiv0bu29f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-25 17:16:17,617 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-25 17:16:21,604 - INFO - Posted content successfully. Tweet ID: 1937922826859950298
