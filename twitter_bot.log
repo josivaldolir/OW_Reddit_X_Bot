@@ -1976,3 +1976,10 @@ I guess someone will buy it for 5900 coins but looks quite lackluster if you ask
 2025-06-25 13:31:29,441 - INFO - Downloaded media from https://external-preview.redd.it/4gs1z2XUgKCmvk4fC_8IlaJyULU84DDwQsLG6dk2XIY.png?auto=webp&s=1fa74ac94d9d401ed481aeb7b61549a3d3af2b79 to temp_image.jpg
 2025-06-25 13:31:30,117 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-25 14:32:56,522 - INFO - Content: Woow... this looks really worth 5900... waaaait where I have seen this skin before
+I guess someone will buy it for 5900 coins but looks quite lackluster if you ask me
+2025-06-25 14:32:56,522 - INFO - Image Paths: ['https://external-preview.redd.it/4gs1z2XUgKCmvk4fC_8IlaJyULU84DDwQsLG6dk2XIY.png?auto=webp&s=1fa74ac94d9d401ed481aeb7b61549a3d3af2b79']
+2025-06-25 14:32:56,522 - INFO - Video Path: 
+2025-06-25 14:32:56,756 - INFO - Downloaded media from https://external-preview.redd.it/4gs1z2XUgKCmvk4fC_8IlaJyULU84DDwQsLG6dk2XIY.png?auto=webp&s=1fa74ac94d9d401ed481aeb7b61549a3d3af2b79 to temp_image.jpg
+2025-06-25 14:32:57,264 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
