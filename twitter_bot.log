@@ -1923,3 +1923,9 @@ Too Many Requests
 2025-06-25 08:49:14,523 - INFO - Downloaded media from https://preview.redd.it/e0tl4a6g8z8f1.jpeg?auto=webp&s=0aef5befbae24504e3c8c03148fea06347f5e896 to temp_image.jpg
 2025-06-25 08:49:15,128 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-25 09:18:50,208 - INFO - Content: Missed opportunity with Widow's latest skin
+Even Mirrorwatch had "I aim to liberate". A tragic blunder, truly.
+2025-06-25 09:18:50,208 - INFO - Image Paths: ['https://preview.redd.it/qrrhvyqyjy8f1.png?auto=webp&s=f4bffd6172ec27e6381a90ed7a2b401eaa26b597']
+2025-06-25 09:18:50,208 - INFO - Video Path: 
+2025-06-25 09:18:50,447 - INFO - Downloaded media from https://preview.redd.it/qrrhvyqyjy8f1.png?auto=webp&s=f4bffd6172ec27e6381a90ed7a2b401eaa26b597 to temp_image.jpg
+2025-06-25 09:18:51,637 - INFO - Posted content successfully. Tweet ID: 1937802659324686523
