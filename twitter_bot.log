@@ -1950,3 +1950,10 @@ Too Many Requests
 2025-06-25 10:45:51,650 - INFO - Downloaded media from https://preview.redd.it/e0tl4a6g8z8f1.jpeg?auto=webp&s=0aef5befbae24504e3c8c03148fea06347f5e896 to temp_image.jpg
 2025-06-25 10:45:52,316 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-25 11:14:30,920 - INFO - Content: Mythic d.va cosplay
+Here's a look at my mythic d.va cosplay~! I love this skin so much and I couldn't wait to cosplay it when I saw it on the overwatch spotlight. Im so excited to share more on my insta later ☺️💖
+2025-06-25 11:14:30,920 - INFO - Image Paths: ['https://external-preview.redd.it/yYAn3Xmsu4zjglW0aqiOqYaHVckCa2tzYZJk7O2Bg64.jpeg?auto=webp&s=f1426d65428e7d38ac04b1aa7d8d10e5ffc47c07']
+2025-06-25 11:14:30,920 - INFO - Video Path: 
+2025-06-25 11:14:31,071 - INFO - Downloaded media from https://external-preview.redd.it/yYAn3Xmsu4zjglW0aqiOqYaHVckCa2tzYZJk7O2Bg64.jpeg?auto=webp&s=f1426d65428e7d38ac04b1aa7d8d10e5ffc47c07 to temp_image.jpg
+2025-06-25 11:14:34,968 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
