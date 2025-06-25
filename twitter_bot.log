@@ -2002,3 +2002,10 @@ I guess someone will buy it for 5900 coins but looks quite lackluster if you ask
 2025-06-25 15:43:40,916 - INFO - Downloaded media from https://external-preview.redd.it/4gs1z2XUgKCmvk4fC_8IlaJyULU84DDwQsLG6dk2XIY.png?auto=webp&s=1fa74ac94d9d401ed481aeb7b61549a3d3af2b79 to temp_image.jpg
 2025-06-25 15:43:41,547 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-25 16:20:29,897 - INFO - Content: How I feel fighting against them as a Mauga OTP
+
+2025-06-25 16:20:29,897 - INFO - Image Paths: ['https://preview.redd.it/cjb5z3vq919f1.png?auto=webp&s=53bb197ca57739c0b8a2fa57d952fa5d70b4c2c3']
+2025-06-25 16:20:29,897 - INFO - Video Path: 
+2025-06-25 16:20:30,002 - INFO - Downloaded media from https://preview.redd.it/cjb5z3vq919f1.png?auto=webp&s=53bb197ca57739c0b8a2fa57d952fa5d70b4c2c3 to temp_image.jpg
+2025-06-25 16:20:30,662 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
