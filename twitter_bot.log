@@ -2037,3 +2037,10 @@ Too Many Requests
 2025-06-25 18:23:34,919 - INFO - Downloaded media from https://preview.redd.it/cjb5z3vq919f1.png?auto=webp&s=53bb197ca57739c0b8a2fa57d952fa5d70b4c2c3 to temp_image.jpg
 2025-06-25 18:23:35,710 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-25 18:51:17,123 - INFO - Content: Meanwhile, here in Plat
+
+2025-06-25 18:51:17,123 - INFO - Image Paths: ['https://preview.redd.it/x3v350wd049f1.png?auto=webp&s=8a8432ffdefca4a303cc6fa60546d10a0314001a']
+2025-06-25 18:51:17,123 - INFO - Video Path: 
+2025-06-25 18:51:17,198 - INFO - Downloaded media from https://preview.redd.it/x3v350wd049f1.png?auto=webp&s=8a8432ffdefca4a303cc6fa60546d10a0314001a to temp_image.jpg
+2025-06-25 18:51:17,857 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
