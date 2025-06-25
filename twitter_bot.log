@@ -1989,3 +1989,9 @@ Too Many Requests
 2025-06-25 14:45:20,966 - INFO - Video Path: 
 2025-06-25 14:45:21,191 - INFO - Downloaded media from https://preview.redd.it/ylkgdqkzz29f1.jpeg?auto=webp&s=474b425a5693f389f4686eb16988a196511406ab to temp_image.jpg
 2025-06-25 14:45:22,144 - INFO - Posted content successfully. Tweet ID: 1937884828399276086
+2025-06-25 15:18:40,803 - INFO - Content: Is it just me or Reaper's Mythic weapon skin is ridiculously big?
+
+2025-06-25 15:18:40,804 - INFO - Image Paths: ['https://preview.redd.it/1wshmv44529f1.png?auto=webp&s=46967b54024b6d93f4d35b49689cc4884c9f1fa3']
+2025-06-25 15:18:40,804 - INFO - Video Path: 
+2025-06-25 15:18:40,899 - INFO - Downloaded media from https://preview.redd.it/1wshmv44529f1.png?auto=webp&s=46967b54024b6d93f4d35b49689cc4884c9f1fa3 to temp_image.jpg
+2025-06-25 15:18:42,802 - INFO - Posted content successfully. Tweet ID: 1937893217527353385
