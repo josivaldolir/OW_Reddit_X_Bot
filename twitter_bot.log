@@ -1909,3 +1909,10 @@ Even Mirrorwatch had "I aim to liberate". A tragic blunder, truly.
 2025-06-25 07:40:51,202 - INFO - Downloaded media from https://preview.redd.it/qrrhvyqyjy8f1.png?auto=webp&s=f4bffd6172ec27e6381a90ed7a2b401eaa26b597 to temp_image.jpg
 2025-06-25 07:40:55,949 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-25 08:22:22,657 - INFO - Content: This map vote really makes no sense sometimes
+
+2025-06-25 08:22:22,657 - INFO - Image Paths: ['https://preview.redd.it/e0tl4a6g8z8f1.jpeg?auto=webp&s=0aef5befbae24504e3c8c03148fea06347f5e896']
+2025-06-25 08:22:22,657 - INFO - Video Path: 
+2025-06-25 08:22:22,796 - INFO - Downloaded media from https://preview.redd.it/e0tl4a6g8z8f1.jpeg?auto=webp&s=0aef5befbae24504e3c8c03148fea06347f5e896 to temp_image.jpg
+2025-06-25 08:22:23,471 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
