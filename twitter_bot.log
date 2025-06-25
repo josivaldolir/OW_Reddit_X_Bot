@@ -1868,3 +1868,9 @@ Too Many Requests
 2025-06-25 04:50:03,263 - INFO - Downloaded media from https://preview.redd.it/zt8diu0doz8f1.jpeg?auto=webp&s=56a5adb16e7efc009c0f45f636a27831dca27dd3 to temp_image.jpg
 2025-06-25 04:50:03,950 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-25 05:17:45,743 - INFO - Content: I haven't seen a push map since
+
+2025-06-25 05:17:45,743 - INFO - Image Paths: ['https://preview.redd.it/zt8diu0doz8f1.jpeg?auto=webp&s=56a5adb16e7efc009c0f45f636a27831dca27dd3']
+2025-06-25 05:17:45,743 - INFO - Video Path: 
+2025-06-25 05:17:45,808 - INFO - Downloaded media from https://preview.redd.it/zt8diu0doz8f1.jpeg?auto=webp&s=56a5adb16e7efc009c0f45f636a27831dca27dd3 to temp_image.jpg
+2025-06-25 05:17:46,834 - INFO - Posted content successfully. Tweet ID: 1937741989921095700
