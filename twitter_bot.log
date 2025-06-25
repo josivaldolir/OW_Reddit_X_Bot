@@ -1969,3 +1969,10 @@ Too Many Requests
 2025-06-25 12:33:16,603 - INFO - Video Path: 
 2025-06-25 12:33:16,871 - INFO - Downloaded media from https://preview.redd.it/d8nkce9d829f1.png?auto=webp&s=e6cc46be0bb6c58909e232a3303a15980d240e40 to temp_image.jpg
 2025-06-25 12:33:19,002 - INFO - Posted content successfully. Tweet ID: 1937851592893739271
+2025-06-25 13:31:29,347 - INFO - Content: Woow... this looks really worth 5900... waaaait where I have seen this skin before
+I guess someone will buy it for 5900 coins but looks quite lackluster if you ask me
+2025-06-25 13:31:29,347 - INFO - Image Paths: ['https://external-preview.redd.it/4gs1z2XUgKCmvk4fC_8IlaJyULU84DDwQsLG6dk2XIY.png?auto=webp&s=1fa74ac94d9d401ed481aeb7b61549a3d3af2b79']
+2025-06-25 13:31:29,348 - INFO - Video Path: 
+2025-06-25 13:31:29,441 - INFO - Downloaded media from https://external-preview.redd.it/4gs1z2XUgKCmvk4fC_8IlaJyULU84DDwQsLG6dk2XIY.png?auto=webp&s=1fa74ac94d9d401ed481aeb7b61549a3d3af2b79 to temp_image.jpg
+2025-06-25 13:31:30,117 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
