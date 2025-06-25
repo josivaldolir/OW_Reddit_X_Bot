@@ -1983,3 +1983,9 @@ I guess someone will buy it for 5900 coins but looks quite lackluster if you ask
 2025-06-25 14:32:56,756 - INFO - Downloaded media from https://external-preview.redd.it/4gs1z2XUgKCmvk4fC_8IlaJyULU84DDwQsLG6dk2XIY.png?auto=webp&s=1fa74ac94d9d401ed481aeb7b61549a3d3af2b79 to temp_image.jpg
 2025-06-25 14:32:57,264 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-25 14:45:20,965 - INFO - Content: Dude got that SSR Gacha Luck
+
+2025-06-25 14:45:20,966 - INFO - Image Paths: ['https://preview.redd.it/ylkgdqkzz29f1.jpeg?auto=webp&s=474b425a5693f389f4686eb16988a196511406ab']
+2025-06-25 14:45:20,966 - INFO - Video Path: 
+2025-06-25 14:45:21,191 - INFO - Downloaded media from https://preview.redd.it/ylkgdqkzz29f1.jpeg?auto=webp&s=474b425a5693f389f4686eb16988a196511406ab to temp_image.jpg
+2025-06-25 14:45:22,144 - INFO - Posted content successfully. Tweet ID: 1937884828399276086
