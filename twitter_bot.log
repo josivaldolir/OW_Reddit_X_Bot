@@ -2344,3 +2344,12 @@ Too Many Requests
 2025-06-26 16:20:54,675 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-26 16:20:57,564 - ERROR - Failed to post content: 500 Internal Server Error
 Something is broken. This is usually a temporary error, for example in a high load situation or if an endpoint is temporarily having issues. Check in the developer forums in case others are having similar issues, or try again later. 
+2025-06-26 16:48:02,984 - INFO - Content: Enjoy my cinematic Lifeweaver pull.
+Yes I was screaming when I got this 
+2025-06-26 16:48:02,984 - INFO - Image Paths: ['https://external-preview.redd.it/ZTZoYjNmYTBuOTlmMUUOOPxlh_aYVWhRCdrbJ-0XZuXP57pvBNSmUPQAhYAh.png?format=pjpg&auto=webp&s=be968a327aa3c0c7e2d95fc2e0625940d79280d7']
+2025-06-26 16:48:02,984 - INFO - Video Path: https://v.redd.it/jdqil6f0n99f1/DASH_1080.mp4?source=fallback
+2025-06-26 16:48:03,284 - INFO - Downloaded media from https://v.redd.it/jdqil6f0n99f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-26 16:48:03,524 - INFO - Downloaded media from https://v.redd.it/jdqil6f0n99f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-26 16:48:03,918 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-26 16:48:14,629 - ERROR - Failed to post content: 500 Internal Server Error
+Something is broken. This is usually a temporary error, for example in a high load situation or if an endpoint is temporarily having issues. Check in the developer forums in case others are having similar issues, or try again later. 
