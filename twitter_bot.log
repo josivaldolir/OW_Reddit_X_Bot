@@ -2294,3 +2294,10 @@ God forbid they rework the character who most haven’t liked since birth and wh
 2025-06-26 12:33:08,697 - INFO - Downloaded media from https://v.redd.it/o6nehisvn39f1/DASH_480.mp4?source=fallback to temp_audio.mp4
 2025-06-26 12:33:10,477 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-26 12:33:14,823 - INFO - Posted content successfully. Tweet ID: 1938213966867489126
+2025-06-26 13:29:53,731 - INFO - Content: Valid Reaction to All 3 Map Options Being Push
+This guy left when he saw it was only push maps in the map choice round
+2025-06-26 13:29:53,731 - INFO - Image Paths: ['https://preview.redd.it/yt7dhfoul99f1.png?auto=webp&s=a17b40bfe7e793778e67c5855c87c161559acadd']
+2025-06-26 13:29:53,731 - INFO - Video Path: 
+2025-06-26 13:29:53,796 - INFO - Downloaded media from https://preview.redd.it/yt7dhfoul99f1.png?auto=webp&s=a17b40bfe7e793778e67c5855c87c161559acadd to temp_image.jpg
+2025-06-26 13:29:54,447 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
