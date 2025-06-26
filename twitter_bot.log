@@ -2234,3 +2234,9 @@ Hope y’all like it! <3
 2025-06-26 09:42:46,337 - INFO - Downloaded media from https://preview.redd.it/66v7pjo2x59f1.jpeg?auto=webp&s=b2f39abc2ad3d70eeb8ce099e19c79778145dba6 to temp_image.jpg
 2025-06-26 09:42:47,305 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-26 10:17:48,544 - INFO - Content: Found this on an Italian page
+It says that Wuyang will be able to control all liquids, including the sweat from Mercy's armpits 😂
+2025-06-26 10:17:48,545 - INFO - Image Paths: ['https://preview.redd.it/jwpzwegcy79f1.jpeg?auto=webp&s=785ac8b75711d772578ca46c109b51e57b734899']
+2025-06-26 10:17:48,545 - INFO - Video Path: 
+2025-06-26 10:17:48,748 - INFO - Downloaded media from https://preview.redd.it/jwpzwegcy79f1.jpeg?auto=webp&s=785ac8b75711d772578ca46c109b51e57b734899 to temp_image.jpg
+2025-06-26 10:17:49,656 - INFO - Posted content successfully. Tweet ID: 1938179887296122924
