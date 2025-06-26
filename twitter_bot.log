@@ -2301,3 +2301,10 @@ This guy left when he saw it was only push maps in the map choice round
 2025-06-26 13:29:53,796 - INFO - Downloaded media from https://preview.redd.it/yt7dhfoul99f1.png?auto=webp&s=a17b40bfe7e793778e67c5855c87c161559acadd to temp_image.jpg
 2025-06-26 13:29:54,447 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-26 13:51:04,983 - INFO - Content: Valid Reaction to All 3 Map Options Being Push
+This guy left when he saw it was only push maps in the map choice round
+2025-06-26 13:51:04,983 - INFO - Image Paths: ['https://preview.redd.it/yt7dhfoul99f1.png?auto=webp&s=a17b40bfe7e793778e67c5855c87c161559acadd']
+2025-06-26 13:51:04,983 - INFO - Video Path: 
+2025-06-26 13:51:05,036 - INFO - Downloaded media from https://preview.redd.it/yt7dhfoul99f1.png?auto=webp&s=a17b40bfe7e793778e67c5855c87c161559acadd to temp_image.jpg
+2025-06-26 13:51:05,658 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
