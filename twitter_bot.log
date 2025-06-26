@@ -2211,3 +2211,10 @@ In protest I will just heal as Mercy and provide no additional damage in retalia
 2025-06-26 08:49:55,669 - INFO - Video Path: 
 2025-06-26 08:49:55,783 - INFO - Downloaded media from https://external-preview.redd.it/bwCLpAxUMAyOeft8K76JilGKI_zPCXmziyC8Q7_wPic.png?auto=webp&s=683ad5e6987108b70dbd0cd47260d309e1d9d651 to temp_image.jpg
 2025-06-26 08:49:56,925 - INFO - Posted content successfully. Tweet ID: 1938157771045974253
+2025-06-26 09:18:32,720 - INFO - Content: Sigma's balls are apples in the new skin, I felt this was a great opportunity to use this flair
+
+2025-06-26 09:18:32,720 - INFO - Image Paths: ['https://preview.redd.it/3b4frr67t69f1.png?auto=webp&s=b9fba8327aab2936e3f81b54011bd9146b7a47a8']
+2025-06-26 09:18:32,720 - INFO - Video Path: 
+2025-06-26 09:18:32,908 - INFO - Downloaded media from https://preview.redd.it/3b4frr67t69f1.png?auto=webp&s=b9fba8327aab2936e3f81b54011bd9146b7a47a8 to temp_image.jpg
+2025-06-26 09:18:33,658 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
