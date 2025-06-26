@@ -2176,3 +2176,9 @@ Too Many Requests
 2025-06-26 06:51:48,821 - INFO - Downloaded media from https://preview.redd.it/uj74kmes569f1.jpeg?auto=webp&s=945b0d9f9c650973f0f87d9f80cd4b3e9bdb4d24 to temp_image.jpg
 2025-06-26 06:51:49,563 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-26 07:16:31,028 - INFO - Content: Another 6v6 W. This comes from a tank main
+
+2025-06-26 07:16:31,028 - INFO - Image Paths: ['https://preview.redd.it/uj74kmes569f1.jpeg?auto=webp&s=945b0d9f9c650973f0f87d9f80cd4b3e9bdb4d24']
+2025-06-26 07:16:31,028 - INFO - Video Path: 
+2025-06-26 07:16:31,280 - INFO - Downloaded media from https://preview.redd.it/uj74kmes569f1.jpeg?auto=webp&s=945b0d9f9c650973f0f87d9f80cd4b3e9bdb4d24 to temp_image.jpg
+2025-06-26 07:16:32,217 - INFO - Posted content successfully. Tweet ID: 1938134264165589208
