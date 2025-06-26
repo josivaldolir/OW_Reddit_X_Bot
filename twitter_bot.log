@@ -2182,3 +2182,13 @@ Too Many Requests
 2025-06-26 07:16:31,028 - INFO - Video Path: 
 2025-06-26 07:16:31,280 - INFO - Downloaded media from https://preview.redd.it/uj74kmes569f1.jpeg?auto=webp&s=945b0d9f9c650973f0f87d9f80cd4b3e9bdb4d24 to temp_image.jpg
 2025-06-26 07:16:32,217 - INFO - Posted content successfully. Tweet ID: 1938134264165589208
+2025-06-26 07:41:00,135 - INFO - Content: The new Junkrat PoTG has a MAJOR flaw
+The hour hand should be just before the 1 until the minute and second hands reach twelve, marking the new hour. Only then should the hour hand move directly to the 1. It shouldn’t already be pointing at the 1 before the minute and second hands reach the top of the hour, nor should it move past the 1 as soon as the new hour begins.
+
+I am outraged by this absolute crater of an oversight in detail by the Overwatch team.
+In protest I will just heal as Mercy and provide no additional damage in retaliation to Blizzards lack of due diligence. Until they get this detail fixed or prove to me that they know how to read an analog clock my team will be "healed" instead of "supported" by my mercy choice. The ball is in your court Blizzard.
+2025-06-26 07:41:00,135 - INFO - Image Paths: ['https://external-preview.redd.it/bwCLpAxUMAyOeft8K76JilGKI_zPCXmziyC8Q7_wPic.png?auto=webp&s=683ad5e6987108b70dbd0cd47260d309e1d9d651']
+2025-06-26 07:41:00,135 - INFO - Video Path: 
+2025-06-26 07:41:00,285 - INFO - Downloaded media from https://external-preview.redd.it/bwCLpAxUMAyOeft8K76JilGKI_zPCXmziyC8Q7_wPic.png?auto=webp&s=683ad5e6987108b70dbd0cd47260d309e1d9d651 to temp_image.jpg
+2025-06-26 07:41:00,904 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
