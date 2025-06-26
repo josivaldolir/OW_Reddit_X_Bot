@@ -2145,3 +2145,12 @@ Too Many Requests
 2025-06-26 04:51:10,325 - INFO - Downloaded media from https://preview.redd.it/uj74kmes569f1.jpeg?auto=webp&s=945b0d9f9c650973f0f87d9f80cd4b3e9bdb4d24 to temp_image.jpg
 2025-06-26 04:51:10,876 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-26 05:17:33,334 - INFO - Content: G.I. Joe Collab Skins Meme
+
+2025-06-26 05:17:33,334 - INFO - Image Paths: ['https://external-preview.redd.it/b242b2l6end5NTlmMaQheOwNHfcVAxQMj4QkW7cqFOFXJ-LbuDOR-yZZu4r0.png?format=pjpg&auto=webp&s=1dd7ed431cddaffcf4182be57ad2ea579ee7e436']
+2025-06-26 05:17:33,334 - INFO - Video Path: https://v.redd.it/kizl979xy59f1/DASH_720.mp4?source=fallback
+2025-06-26 05:17:33,492 - INFO - Downloaded media from https://v.redd.it/kizl979xy59f1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-06-26 05:17:33,506 - INFO - Downloaded media from https://v.redd.it/kizl979xy59f1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-06-26 05:17:37,289 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-26 05:17:40,106 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
