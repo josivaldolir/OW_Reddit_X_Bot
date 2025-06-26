@@ -2335,3 +2335,12 @@ This guy left when he saw it was only push maps in the map choice round
 2025-06-26 15:43:01,516 - INFO - Downloaded media from https://preview.redd.it/cjb5z3vq919f1.png?auto=webp&s=53bb197ca57739c0b8a2fa57d952fa5d70b4c2c3 to temp_image.jpg
 2025-06-26 15:43:02,205 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-26 16:20:51,697 - INFO - Content: That feeling when you diff your mirror match and win the game
+
+2025-06-26 16:20:51,697 - INFO - Image Paths: ['https://external-preview.redd.it/ZnI2aTNuOG1tYTlmMXZMMbwmKu6CKgks4ivAPwH9f3_TYpSgEcuqdh11D_rC.png?format=pjpg&auto=webp&s=625366681ca3a1314a1710b893353a1e77282854']
+2025-06-26 16:20:51,697 - INFO - Video Path: https://v.redd.it/u1kkptamma9f1/DASH_1080.mp4?source=fallback
+2025-06-26 16:20:51,802 - INFO - Downloaded media from https://v.redd.it/u1kkptamma9f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-26 16:20:51,868 - INFO - Downloaded media from https://v.redd.it/u1kkptamma9f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-26 16:20:54,675 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-26 16:20:57,564 - ERROR - Failed to post content: 500 Internal Server Error
+Something is broken. This is usually a temporary error, for example in a high load situation or if an endpoint is temporarily having issues. Check in the developer forums in case others are having similar issues, or try again later. 
