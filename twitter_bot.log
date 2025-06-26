@@ -2440,3 +2440,11 @@ Set to come out July 01!
 2025-06-26 21:15:50,418 - INFO - Video Path: 
 2025-06-26 21:15:50,658 - INFO - Downloaded media from https://external-preview.redd.it/dqD5pHk5hc3OfhVQJCe2HUAmD6iU7xvi-ki44Jl6Flc.jpeg?auto=webp&s=d237d6b16bb3fc528435fb86f5a76a9740b7e0d9 to temp_image.jpg
 2025-06-26 21:15:52,213 - INFO - Posted content successfully. Tweet ID: 1938345488635302071
+2025-06-26 21:39:11,427 - INFO - Content: Show me a BETTER feeling than doing this to enemy Sombra
+This was so random but I felt on top of the world for a moment lol
+2025-06-26 21:39:11,428 - INFO - Image Paths: ['https://external-preview.redd.it/YzdkNHV2dXVvYTlmMfAb2N50J21iacKeHa7rmOX1ApDoRZKc42vvoDXuNlcn.png?format=pjpg&auto=webp&s=6219d7ba49eed487dc14b83e87f2b24526b117ba']
+2025-06-26 21:39:11,428 - INFO - Video Path: https://v.redd.it/8xkc7ozuoa9f1/DASH_1080.mp4?source=fallback
+2025-06-26 21:39:12,948 - INFO - Downloaded media from https://v.redd.it/8xkc7ozuoa9f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-26 21:39:13,413 - INFO - Downloaded media from https://v.redd.it/8xkc7ozuoa9f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-26 21:39:13,844 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-26 21:39:22,275 - INFO - Posted content successfully. Tweet ID: 1938351403606610327
