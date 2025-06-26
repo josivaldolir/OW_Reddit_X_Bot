@@ -2138,3 +2138,10 @@ This Genji and Hanzo are so lovely
 2025-06-26 04:01:14,495 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-26 04:01:17,443 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-26 04:51:10,181 - INFO - Content: Another 6v6 W. This comes from a tank main
+
+2025-06-26 04:51:10,181 - INFO - Image Paths: ['https://preview.redd.it/uj74kmes569f1.jpeg?auto=webp&s=945b0d9f9c650973f0f87d9f80cd4b3e9bdb4d24']
+2025-06-26 04:51:10,181 - INFO - Video Path: 
+2025-06-26 04:51:10,325 - INFO - Downloaded media from https://preview.redd.it/uj74kmes569f1.jpeg?auto=webp&s=945b0d9f9c650973f0f87d9f80cd4b3e9bdb4d24 to temp_image.jpg
+2025-06-26 04:51:10,876 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
