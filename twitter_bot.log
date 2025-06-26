@@ -2162,3 +2162,10 @@ Too Many Requests
 2025-06-26 05:44:06,702 - INFO - Downloaded media from https://v.redd.it/kizl979xy59f1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-06-26 05:44:07,372 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-26 05:44:10,482 - INFO - Posted content successfully. Tweet ID: 1938111020603740464
+2025-06-26 06:24:33,862 - INFO - Content: Another 6v6 W. This comes from a tank main
+
+2025-06-26 06:24:33,862 - INFO - Image Paths: ['https://preview.redd.it/uj74kmes569f1.jpeg?auto=webp&s=945b0d9f9c650973f0f87d9f80cd4b3e9bdb4d24']
+2025-06-26 06:24:33,862 - INFO - Video Path: 
+2025-06-26 06:24:33,906 - INFO - Downloaded media from https://preview.redd.it/uj74kmes569f1.jpeg?auto=webp&s=945b0d9f9c650973f0f87d9f80cd4b3e9bdb4d24 to temp_image.jpg
+2025-06-26 06:24:34,676 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
