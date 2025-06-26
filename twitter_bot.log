@@ -2379,3 +2379,12 @@ Yes I was screaming when I got this
 2025-06-26 18:22:21,428 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-26 18:22:36,587 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-26 18:49:22,604 - INFO - Content: Enjoy my cinematic Lifeweaver pull.
+Yes I was screaming when I got this 
+2025-06-26 18:49:22,604 - INFO - Image Paths: ['https://external-preview.redd.it/ZTZoYjNmYTBuOTlmMUUOOPxlh_aYVWhRCdrbJ-0XZuXP57pvBNSmUPQAhYAh.png?format=pjpg&auto=webp&s=be968a327aa3c0c7e2d95fc2e0625940d79280d7']
+2025-06-26 18:49:22,604 - INFO - Video Path: https://v.redd.it/jdqil6f0n99f1/DASH_1080.mp4?source=fallback
+2025-06-26 18:49:23,352 - INFO - Downloaded media from https://v.redd.it/jdqil6f0n99f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-26 18:49:23,572 - INFO - Downloaded media from https://v.redd.it/jdqil6f0n99f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-26 18:49:23,892 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-26 18:49:38,322 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
