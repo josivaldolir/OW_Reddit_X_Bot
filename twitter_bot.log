@@ -2362,3 +2362,11 @@ Something is broken. This is usually a temporary error, for example in a high lo
 2025-06-26 17:14:41,537 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-26 17:14:44,845 - ERROR - Failed to post content: 500 Internal Server Error
 Something is broken. This is usually a temporary error, for example in a high load situation or if an endpoint is temporarily having issues. Check in the developer forums in case others are having similar issues, or try again later. 
+2025-06-26 17:41:26,789 - INFO - Content: That feeling when you diff your mirror match and win the game
+
+2025-06-26 17:41:26,789 - INFO - Image Paths: ['https://external-preview.redd.it/ZnI2aTNuOG1tYTlmMXZMMbwmKu6CKgks4ivAPwH9f3_TYpSgEcuqdh11D_rC.png?format=pjpg&auto=webp&s=625366681ca3a1314a1710b893353a1e77282854']
+2025-06-26 17:41:26,789 - INFO - Video Path: https://v.redd.it/u1kkptamma9f1/DASH_1080.mp4?source=fallback
+2025-06-26 17:41:27,002 - INFO - Downloaded media from https://v.redd.it/u1kkptamma9f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-26 17:41:27,082 - INFO - Downloaded media from https://v.redd.it/u1kkptamma9f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-26 17:41:27,470 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-26 17:41:31,439 - INFO - Posted content successfully. Tweet ID: 1938291547277300173
