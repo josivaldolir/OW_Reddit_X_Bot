@@ -2630,3 +2630,10 @@ Too Many Requests
 2025-06-27 13:48:08,261 - INFO - Downloaded media from https://preview.redd.it/fzlyhmjrhg9f1.jpeg?auto=webp&s=5e384e01f82c6d3c4a53b8ea226d4aea1e1948db to temp_image.jpg
 2025-06-27 13:48:09,575 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-27 14:16:00,089 - INFO - Content: Map voting is clearly the superior option
+
+2025-06-27 14:16:00,090 - INFO - Image Paths: ['https://preview.redd.it/fzlyhmjrhg9f1.jpeg?auto=webp&s=5e384e01f82c6d3c4a53b8ea226d4aea1e1948db']
+2025-06-27 14:16:00,090 - INFO - Video Path: 
+2025-06-27 14:16:00,252 - INFO - Downloaded media from https://preview.redd.it/fzlyhmjrhg9f1.jpeg?auto=webp&s=5e384e01f82c6d3c4a53b8ea226d4aea1e1948db to temp_image.jpg
+2025-06-27 14:16:01,500 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
