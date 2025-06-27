@@ -2679,3 +2679,10 @@ Too Many Requests
 2025-06-27 17:14:41,911 - INFO - Downloaded media from https://preview.redd.it/c5pxzgoplh9f1.png?auto=webp&s=0f25c2d5f89f39a3eb071f8f5a7b707ba08cd186 to temp_image.jpg
 2025-06-27 17:14:42,494 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-27 17:40:50,124 - INFO - Content: Stay hating
+
+2025-06-27 17:40:50,124 - INFO - Image Paths: ['https://preview.redd.it/c5pxzgoplh9f1.png?auto=webp&s=0f25c2d5f89f39a3eb071f8f5a7b707ba08cd186']
+2025-06-27 17:40:50,124 - INFO - Video Path: 
+2025-06-27 17:40:50,195 - INFO - Downloaded media from https://preview.redd.it/c5pxzgoplh9f1.png?auto=webp&s=0f25c2d5f89f39a3eb071f8f5a7b707ba08cd186 to temp_image.jpg
+2025-06-27 17:40:50,829 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
