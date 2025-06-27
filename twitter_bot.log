@@ -2616,3 +2616,10 @@ Many people (including me) were wishing for a Scottish character and we finally 
 2025-06-27 12:33:16,749 - INFO - Video Path: 
 2025-06-27 12:33:16,902 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-27 13:27:50,165 - INFO - Content: People asking Blizzard to remove map voting from QP are something else
+I mean, seriously, what is it more democratic than the majority of people getting to say where we play? If you want to play in Junkertown so bad, then vote for it. The system is designed in a way that could make that happen even if you're the only one voting for that map.
+2025-06-27 13:27:50,165 - INFO - Image Paths: ['https://preview.redd.it/f2i554afhg9f1.jpeg?auto=webp&s=e410779fe307d21ae9cd4310555c7dfcefd0e648']
+2025-06-27 13:27:50,165 - INFO - Video Path: 
+2025-06-27 13:27:50,199 - INFO - Downloaded media from https://preview.redd.it/f2i554afhg9f1.jpeg?auto=webp&s=e410779fe307d21ae9cd4310555c7dfcefd0e648 to temp_image.jpg
+2025-06-27 13:27:51,405 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
