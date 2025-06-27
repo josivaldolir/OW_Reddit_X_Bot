@@ -2743,3 +2743,11 @@ my main 5ever
 2025-06-27 22:17:01,753 - INFO - Video Path: 
 2025-06-27 22:17:01,865 - INFO - Downloaded media from https://external-preview.redd.it/wfKJY4cwtf-ZQDEE-17G3qWZfOm5YvXb-w-jiMf0O6E.jpeg?auto=webp&s=980676b856dc78978baa70b51d39b0b4cc58dc29 to temp_image.jpg
 2025-06-27 22:17:02,999 - INFO - Posted content successfully. Tweet ID: 1938723273044378044
+2025-06-27 22:43:27,730 - INFO - Content: In the end I knew I was dreaming too big
+
+2025-06-27 22:43:27,730 - INFO - Image Paths: ['https://external-preview.redd.it/a2EyZW9keXNzNjlmMcBQqgJE4ZUvkf-As_98voBz6GFuetCirGDuP2tqyWwc.png?format=pjpg&auto=webp&s=0dab1d246fe90530b3de24151097d4ad6f64ff2e']
+2025-06-27 22:43:27,730 - INFO - Video Path: https://v.redd.it/ru6f4ywss69f1/DASH_1080.mp4?source=fallback
+2025-06-27 22:43:28,685 - INFO - Downloaded media from https://v.redd.it/ru6f4ywss69f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-27 22:43:29,121 - INFO - Downloaded media from https://v.redd.it/ru6f4ywss69f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-27 22:43:29,717 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-27 22:43:35,264 - INFO - Posted content successfully. Tweet ID: 1938729952133657065
