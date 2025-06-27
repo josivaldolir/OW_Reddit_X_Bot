@@ -2665,3 +2665,10 @@ So simple, and yet so well done. Bravo Blizzard!
 2025-06-27 16:20:32,872 - INFO - Downloaded media from https://preview.redd.it/c5pxzgoplh9f1.png?auto=webp&s=0f25c2d5f89f39a3eb071f8f5a7b707ba08cd186 to temp_image.jpg
 2025-06-27 16:20:33,848 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-27 16:45:58,512 - INFO - Content: Stay hating
+
+2025-06-27 16:45:58,512 - INFO - Image Paths: ['https://preview.redd.it/c5pxzgoplh9f1.png?auto=webp&s=0f25c2d5f89f39a3eb071f8f5a7b707ba08cd186']
+2025-06-27 16:45:58,512 - INFO - Video Path: 
+2025-06-27 16:45:58,612 - INFO - Downloaded media from https://preview.redd.it/c5pxzgoplh9f1.png?auto=webp&s=0f25c2d5f89f39a3eb071f8f5a7b707ba08cd186 to temp_image.jpg
+2025-06-27 16:45:59,179 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
