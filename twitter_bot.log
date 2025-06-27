@@ -2575,3 +2575,12 @@ They added sigma to stadium and one of his powers is maestro which charges his u
 2025-06-27 09:42:16,194 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-27 09:42:19,232 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-27 10:17:46,401 - INFO - Content: The definition of power move
+Is it good that every player has a say and weight on map selection? Definitively. 
+Is it good that there's a 8% chance to make 92%of the lobby play a map they don't enjoy? No, but it's kinda funny that's a possibility. 
+On a more serious vote, how is 11 votes out of 12 not considered overwhelming? Is the feature not working as intended? 
+2025-06-27 10:17:46,401 - INFO - Image Paths: ['https://external-preview.redd.it/feTkYS7XLq2NulXwVov5MC3vQzjdDqI5Yks6vKLNswQ.jpeg?auto=webp&s=8dc3da7cd06dde4e380e11e1d4b7390b860ad1d1']
+2025-06-27 10:17:46,401 - INFO - Video Path: 
+2025-06-27 10:17:46,564 - INFO - Downloaded media from https://external-preview.redd.it/feTkYS7XLq2NulXwVov5MC3vQzjdDqI5Yks6vKLNswQ.jpeg?auto=webp&s=8dc3da7cd06dde4e380e11e1d4b7390b860ad1d1 to temp_image.jpg
+2025-06-27 10:17:47,192 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
