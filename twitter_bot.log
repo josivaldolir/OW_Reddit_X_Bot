@@ -2541,3 +2541,11 @@ Too Many Requests
 2025-06-27 07:17:10,255 - INFO - Video Path: 
 2025-06-27 07:17:10,311 - INFO - Downloaded media from https://preview.redd.it/w5zs8chood9f1.jpeg?auto=webp&s=4c5add22134f421196514ae3a5bde34cdf852c52 to temp_image.jpg
 2025-06-27 07:17:11,361 - INFO - Posted content successfully. Tweet ID: 1938496816108179674
+2025-06-27 07:40:07,585 - INFO - Content: Sombra’s hack is just getting ridiculous
+She straight up hacked my PlayStation, man 🤣
+2025-06-27 07:40:07,585 - INFO - Image Paths: ['https://external-preview.redd.it/M2xldzhrOHZmZTlmMW31t3va5HFFMoGmhu22oCSxRHJ6MDgJ30_vR_w-VCIZ.png?format=pjpg&auto=webp&s=7a927de01b13998e07a1f3d2ebc0e1dc35977a9b']
+2025-06-27 07:40:07,585 - INFO - Video Path: https://v.redd.it/fed3dfcvfe9f1/DASH_1080.mp4?source=fallback
+2025-06-27 07:40:08,163 - INFO - Downloaded media from https://v.redd.it/fed3dfcvfe9f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-27 07:40:08,224 - INFO - Downloaded media from https://v.redd.it/fed3dfcvfe9f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-27 07:40:11,188 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-27 07:40:16,047 - INFO - Posted content successfully. Tweet ID: 1938502624128733635
