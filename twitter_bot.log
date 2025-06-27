@@ -2699,3 +2699,9 @@ Too Many Requests
 2025-06-27 18:48:52,298 - INFO - Video Path: 
 2025-06-27 18:48:52,588 - INFO - Downloaded media from https://preview.redd.it/c5pxzgoplh9f1.png?auto=webp&s=0f25c2d5f89f39a3eb071f8f5a7b707ba08cd186 to temp_image.jpg
 2025-06-27 18:48:53,860 - INFO - Posted content successfully. Tweet ID: 1938670890209943669
+2025-06-27 19:13:09,565 - INFO - Content: Why did Blizzard put the wrong info in the patch notes?
+It says that if players vote "overwhelmingly" for one map, then it is automatically chosen. But there have been so many images where 11/12 votes have gone to one map and 1/12 has gone to another, but the 1/12 map was randomly selected. Is this a feature that was mistakenly left out of this update?
+2025-06-27 19:13:09,565 - INFO - Image Paths: ['https://preview.redd.it/gtoeej2rii9f1.png?auto=webp&s=7c8b7a997031730d2413e2178f1bb818746b2389']
+2025-06-27 19:13:09,565 - INFO - Video Path: 
+2025-06-27 19:13:09,672 - INFO - Downloaded media from https://preview.redd.it/gtoeej2rii9f1.png?auto=webp&s=7c8b7a997031730d2413e2178f1bb818746b2389 to temp_image.jpg
+2025-06-27 19:13:11,004 - INFO - Posted content successfully. Tweet ID: 1938677000451039370
