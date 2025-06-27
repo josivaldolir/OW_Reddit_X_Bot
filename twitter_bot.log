@@ -2561,3 +2561,8 @@ Has anyone else had this issue? Ive been playing all day and nothing. Im startin
 2025-06-27 08:48:38,243 - INFO - Video Path: 
 2025-06-27 08:48:38,457 - INFO - Downloaded media from https://preview.redd.it/bq3l1tpbme9f1.jpeg?auto=webp&s=d447490ac520606093c13f52793bd5bebcbc5cc8 to temp_image.jpg
 2025-06-27 08:48:39,383 - INFO - Posted content successfully. Tweet ID: 1938519834578604140
+2025-06-27 09:17:55,147 - INFO - Content: The overwatch devs should learn geometry
+They added sigma to stadium and one of his powers is maestro which charges his ultimate 50% faster but reduces the radius by 50%. The ultimate is tiny and very hard to hit. This is because reducing the radius of a circle by 50% reduces the area by 75% (area = pi *r^2). I think it would be much more balanced if the area was reduced by 50% instead of the radius. This would be a 30% reduction in radius instead of what it is now.
+2025-06-27 09:17:55,147 - INFO - Image Paths: []
+2025-06-27 09:17:55,147 - INFO - Video Path: 
+2025-06-27 09:17:55,534 - INFO - Posted content successfully. Tweet ID: 1938527200720081164
