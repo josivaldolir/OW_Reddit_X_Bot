@@ -2521,3 +2521,10 @@ Too Many Requests
 2025-06-27 05:44:17,113 - INFO - Downloaded media from https://preview.redd.it/w5zs8chood9f1.jpeg?auto=webp&s=4c5add22134f421196514ae3a5bde34cdf852c52 to temp_image.jpg
 2025-06-27 05:44:17,998 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-27 06:24:46,627 - INFO - Content: Not all Wifeleavers are idiots
+
+2025-06-27 06:24:46,628 - INFO - Image Paths: ['https://preview.redd.it/w5zs8chood9f1.jpeg?auto=webp&s=4c5add22134f421196514ae3a5bde34cdf852c52']
+2025-06-27 06:24:46,628 - INFO - Video Path: 
+2025-06-27 06:24:46,763 - INFO - Downloaded media from https://preview.redd.it/w5zs8chood9f1.jpeg?auto=webp&s=4c5add22134f421196514ae3a5bde34cdf852c52 to temp_image.jpg
+2025-06-27 06:24:47,454 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
