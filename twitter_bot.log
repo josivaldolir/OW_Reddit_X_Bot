@@ -2592,3 +2592,11 @@ Too Many Requests
 2025-06-27 10:44:55,143 - INFO - Downloaded media from https://v.redd.it/zxa6naok7e9f1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-06-27 10:44:55,576 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-27 10:44:58,641 - INFO - Posted content successfully. Tweet ID: 1938549107947081760
+2025-06-27 11:13:50,583 - INFO - Content: The definition of power move
+Is it good that every player has a say and weight on map selection? Definitively. 
+Is it good that there's a 8% chance to make 92%of the lobby play a map they don't enjoy? No, but it's kinda funny that's a possibility. 
+On a more serious vote, how is 11 votes out of 12 not considered overwhelming? Is the feature not working as intended? 
+2025-06-27 11:13:50,583 - INFO - Image Paths: ['https://external-preview.redd.it/feTkYS7XLq2NulXwVov5MC3vQzjdDqI5Yks6vKLNswQ.jpeg?auto=webp&s=8dc3da7cd06dde4e380e11e1d4b7390b860ad1d1']
+2025-06-27 11:13:50,583 - INFO - Video Path: 
+2025-06-27 11:13:50,630 - INFO - Downloaded media from https://external-preview.redd.it/feTkYS7XLq2NulXwVov5MC3vQzjdDqI5Yks6vKLNswQ.jpeg?auto=webp&s=8dc3da7cd06dde4e380e11e1d4b7390b860ad1d1 to temp_image.jpg
+2025-06-27 11:13:51,851 - INFO - Posted content successfully. Tweet ID: 1938556376931835975
