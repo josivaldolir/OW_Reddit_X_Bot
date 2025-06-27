@@ -2566,3 +2566,12 @@ They added sigma to stadium and one of his powers is maestro which charges his u
 2025-06-27 09:17:55,147 - INFO - Image Paths: []
 2025-06-27 09:17:55,147 - INFO - Video Path: 
 2025-06-27 09:17:55,534 - INFO - Posted content successfully. Tweet ID: 1938527200720081164
+2025-06-27 09:42:13,716 - INFO - Content: Hmmmm
+
+2025-06-27 09:42:13,716 - INFO - Image Paths: ['https://external-preview.redd.it/cDluaHV0a2s3ZTlmMYn-UuS2q39cD5kmpc0xeM6idAeSv4vQFur-3FPM_7rk.png?format=pjpg&auto=webp&s=2798a0879c690793380771a07385fcbf256fc9cd']
+2025-06-27 09:42:13,716 - INFO - Video Path: https://v.redd.it/zxa6naok7e9f1/DASH_720.mp4?source=fallback
+2025-06-27 09:42:13,923 - INFO - Downloaded media from https://v.redd.it/zxa6naok7e9f1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-06-27 09:42:13,953 - INFO - Downloaded media from https://v.redd.it/zxa6naok7e9f1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-06-27 09:42:16,194 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-27 09:42:19,232 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
