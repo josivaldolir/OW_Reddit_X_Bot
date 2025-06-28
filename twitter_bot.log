@@ -2888,3 +2888,9 @@ For reference, the votes were Aatlis, Suravasa, and Eichenwalde. Everyone voted 
 2025-06-28 11:13:04,831 - INFO - Downloaded media from https://preview.redd.it/59y1hps5rk9f1.jpeg?auto=webp&s=7a46255fd7516f84f2755e9ee5820595e79d4983 to temp_image.jpg
 2025-06-28 11:13:05,533 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-28 11:37:36,349 - INFO - Content: Common enemy
+
+2025-06-28 11:37:36,349 - INFO - Image Paths: ['https://preview.redd.it/hpxti9tqtk9f1.png?auto=webp&s=a6b5bd3736766d7317e558f2454210b830047551']
+2025-06-28 11:37:36,349 - INFO - Video Path: 
+2025-06-28 11:37:36,613 - INFO - Downloaded media from https://preview.redd.it/hpxti9tqtk9f1.png?auto=webp&s=a6b5bd3736766d7317e558f2454210b830047551 to temp_image.jpg
+2025-06-28 11:37:37,532 - INFO - Posted content successfully. Tweet ID: 1938924744981794859
