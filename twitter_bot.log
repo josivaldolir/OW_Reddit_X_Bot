@@ -2926,3 +2926,12 @@ Too Many Requests
 2025-06-28 14:14:33,015 - INFO - Downloaded media from https://v.redd.it/660jftxpqn9f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-06-28 14:14:36,035 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-28 14:14:40,851 - INFO - Posted content successfully. Tweet ID: 1938964268881453106
+2025-06-28 14:41:21,587 - INFO - Content: Look, Ik I'm bad but what sin have I committed to be subjected to this agony?
+Mercy rezzing infront of the enemy reaper
+2025-06-28 14:41:21,587 - INFO - Image Paths: ['https://external-preview.redd.it/Ym82enA0ZDV6bTlmMeSGRTWtCi6glMKt_OT3E4mPpUBge8cKKXlV_rG5gQKq.png?format=pjpg&auto=webp&s=4863f882267a04cc0fe18eea2ab734ec3cb202bb']
+2025-06-28 14:41:21,587 - INFO - Video Path: https://v.redd.it/ebkyazc5zm9f1/DASH_720.mp4?source=fallback
+2025-06-28 14:41:21,830 - INFO - Downloaded media from https://v.redd.it/ebkyazc5zm9f1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-06-28 14:41:21,864 - INFO - Downloaded media from https://v.redd.it/ebkyazc5zm9f1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-06-28 14:41:24,889 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-28 14:41:30,615 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
