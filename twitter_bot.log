@@ -3015,3 +3015,4 @@ Mercy rezzing infront of the enemy reaper
 2025-06-28 19:11:44,984 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-28 19:11:51,541 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-28 19:36:35,210 - ERROR - Error in main loop: 'u'
