@@ -2970,3 +2970,13 @@ Too Many Requests
 2025-06-28 16:45:12,227 - INFO - Video Path: 
 2025-06-28 16:45:12,437 - INFO - Downloaded media from https://preview.redd.it/l72y11eelo9f1.png?auto=webp&s=7925b34504bcb38f648588b7392fa83eaa32d2bb to temp_image.jpg
 2025-06-28 16:45:14,145 - INFO - Posted content successfully. Tweet ID: 1939002156390223916
+2025-06-28 17:13:06,836 - INFO - Content: Why don’t people like push?
+I really enjoy push as a game mode. To me it’s dynamic and the back and forth is great for creating tension in close games
+
+A good push game is some of the most fun ive ever had in overwatch
+
+But when map voting happens, people very rarely vote for push I’m usually the one one. And I don’t understand why
+2025-06-28 17:13:06,836 - INFO - Image Paths: []
+2025-06-28 17:13:06,836 - INFO - Video Path: 
+2025-06-28 17:13:06,965 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
