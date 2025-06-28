@@ -2964,3 +2964,9 @@ But when map voting happens, people very rarely vote for push I’m usually the 
 2025-06-28 16:18:54,434 - INFO - Video Path: 
 2025-06-28 16:18:54,587 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-28 16:45:12,227 - INFO - Content: the duality of the playerbase
+
+2025-06-28 16:45:12,227 - INFO - Image Paths: ['https://preview.redd.it/l72y11eelo9f1.png?auto=webp&s=7925b34504bcb38f648588b7392fa83eaa32d2bb']
+2025-06-28 16:45:12,227 - INFO - Video Path: 
+2025-06-28 16:45:12,437 - INFO - Downloaded media from https://preview.redd.it/l72y11eelo9f1.png?auto=webp&s=7925b34504bcb38f648588b7392fa83eaa32d2bb to temp_image.jpg
+2025-06-28 16:45:14,145 - INFO - Posted content successfully. Tweet ID: 1939002156390223916
