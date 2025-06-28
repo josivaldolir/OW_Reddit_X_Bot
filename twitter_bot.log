@@ -2766,3 +2766,9 @@ Down from diamond 1 to soon gold. Mates doesnt even talk anymore on this low ran
 2025-06-27 23:38:59,605 - INFO - Downloaded media from https://preview.redd.it/iy8ewnfpwi9f1.jpeg?auto=webp&s=ef7f320d04df817e962c320ec5d8cff5b9edec87 to temp_image.jpg
 2025-06-27 23:39:06,035 - ERROR - Failed to post content: 400 Bad Request
 Your media IDs are invalid.
+2025-06-28 01:13:41,165 - INFO - Content: How I feel fighting against them as a Mauga OTP
+
+2025-06-28 01:13:41,165 - INFO - Image Paths: ['https://preview.redd.it/cjb5z3vq919f1.png?auto=webp&s=53bb197ca57739c0b8a2fa57d952fa5d70b4c2c3']
+2025-06-28 01:13:41,165 - INFO - Video Path: 
+2025-06-28 01:13:41,191 - INFO - Downloaded media from https://preview.redd.it/cjb5z3vq919f1.png?auto=webp&s=53bb197ca57739c0b8a2fa57d952fa5d70b4c2c3 to temp_image.jpg
+2025-06-28 01:13:42,135 - INFO - Posted content successfully. Tweet ID: 1938767728887705651
