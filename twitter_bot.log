@@ -2947,3 +2947,10 @@ Also, because this is all a hypothetical, I would like to imagine all four of th
 2025-06-28 15:15:23,398 - INFO - Downloaded media from https://external-preview.redd.it/CPuLbuMbFl0W-oKdth-fypW4ZFTD4H6ew5h-AsbegUU.jpeg?auto=webp&s=8db845ce4d9eba4b57413e5f1a6dfc92f0c95582 to temp_image.jpg
 2025-06-28 15:15:24,240 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-28 15:39:39,170 - INFO - Content: the duality of the playerbase
+
+2025-06-28 15:39:39,170 - INFO - Image Paths: ['https://preview.redd.it/l72y11eelo9f1.png?auto=webp&s=7925b34504bcb38f648588b7392fa83eaa32d2bb']
+2025-06-28 15:39:39,170 - INFO - Video Path: 
+2025-06-28 15:39:39,330 - INFO - Downloaded media from https://preview.redd.it/l72y11eelo9f1.png?auto=webp&s=7925b34504bcb38f648588b7392fa83eaa32d2bb to temp_image.jpg
+2025-06-28 15:39:39,909 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
