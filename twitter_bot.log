@@ -2806,3 +2806,10 @@ I'm gonna be honest, even has a band-aid fix it's not doing much but at least th
 2025-06-28 05:16:28,512 - INFO - Downloaded media from https://preview.redd.it/or62pcrbvk9f1.jpeg?auto=webp&s=e771b7eb1bd90cbb9576b1cbf047faabd6e149d1 to temp_image.jpg
 2025-06-28 05:16:29,314 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-28 05:42:22,510 - INFO - Content: And I'm not afraid to say it
+
+2025-06-28 05:42:22,510 - INFO - Image Paths: ['https://preview.redd.it/or62pcrbvk9f1.jpeg?auto=webp&s=e771b7eb1bd90cbb9576b1cbf047faabd6e149d1']
+2025-06-28 05:42:22,510 - INFO - Video Path: 
+2025-06-28 05:42:22,678 - INFO - Downloaded media from https://preview.redd.it/or62pcrbvk9f1.jpeg?auto=webp&s=e771b7eb1bd90cbb9576b1cbf047faabd6e149d1 to temp_image.jpg
+2025-06-28 05:42:23,310 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
