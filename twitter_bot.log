@@ -2918,3 +2918,11 @@ Mercy rezzing infront of the enemy reaper
 2025-06-28 13:43:51,232 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-28 13:43:56,706 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-28 14:14:32,431 - INFO - Content: Did they add a way to see where your friendly Moira is fading to?
+
+2025-06-28 14:14:32,431 - INFO - Image Paths: ['https://external-preview.redd.it/amU1d2JzeHBxbjlmMV1ibQV2UC7yMcxXW-n6zOjfNIqzv_3pVP_mtLrWDZlI.png?format=pjpg&auto=webp&s=a8299ef8abe325ec479eff5b346689e367cd1eb2']
+2025-06-28 14:14:32,431 - INFO - Video Path: https://v.redd.it/660jftxpqn9f1/DASH_1080.mp4?source=fallback
+2025-06-28 14:14:32,756 - INFO - Downloaded media from https://v.redd.it/660jftxpqn9f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-28 14:14:33,015 - INFO - Downloaded media from https://v.redd.it/660jftxpqn9f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-28 14:14:36,035 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-28 14:14:40,851 - INFO - Posted content successfully. Tweet ID: 1938964268881453106
