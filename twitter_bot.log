@@ -2867,3 +2867,10 @@ Too Many Requests
 2025-06-28 09:40:45,027 - INFO - Downloaded media from https://preview.redd.it/hpxti9tqtk9f1.png?auto=webp&s=a6b5bd3736766d7317e558f2454210b830047551 to temp_image.jpg
 2025-06-28 09:40:45,603 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-28 10:16:04,817 - INFO - Content: Common enemy
+
+2025-06-28 10:16:04,817 - INFO - Image Paths: ['https://preview.redd.it/hpxti9tqtk9f1.png?auto=webp&s=a6b5bd3736766d7317e558f2454210b830047551']
+2025-06-28 10:16:04,817 - INFO - Video Path: 
+2025-06-28 10:16:04,886 - INFO - Downloaded media from https://preview.redd.it/hpxti9tqtk9f1.png?auto=webp&s=a6b5bd3736766d7317e558f2454210b830047551 to temp_image.jpg
+2025-06-28 10:16:05,546 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
