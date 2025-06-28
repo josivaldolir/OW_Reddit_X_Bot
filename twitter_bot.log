@@ -2989,3 +2989,12 @@ Mercy rezzing infront of the enemy reaper
 2025-06-28 17:39:07,491 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-28 17:39:12,915 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-28 18:21:07,674 - INFO - Content: Look, Ik I'm bad but what sin have I committed to be subjected to this agony?
+Mercy rezzing infront of the enemy reaper
+2025-06-28 18:21:07,674 - INFO - Image Paths: ['https://external-preview.redd.it/Ym82enA0ZDV6bTlmMeSGRTWtCi6glMKt_OT3E4mPpUBge8cKKXlV_rG5gQKq.png?format=pjpg&auto=webp&s=4863f882267a04cc0fe18eea2ab734ec3cb202bb']
+2025-06-28 18:21:07,674 - INFO - Video Path: https://v.redd.it/ebkyazc5zm9f1/DASH_720.mp4?source=fallback
+2025-06-28 18:21:07,925 - INFO - Downloaded media from https://v.redd.it/ebkyazc5zm9f1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-06-28 18:21:07,967 - INFO - Downloaded media from https://v.redd.it/ebkyazc5zm9f1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-06-28 18:21:11,709 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-28 18:21:17,696 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
