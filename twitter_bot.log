@@ -2894,3 +2894,11 @@ Too Many Requests
 2025-06-28 11:37:36,349 - INFO - Video Path: 
 2025-06-28 11:37:36,613 - INFO - Downloaded media from https://preview.redd.it/hpxti9tqtk9f1.png?auto=webp&s=a6b5bd3736766d7317e558f2454210b830047551 to temp_image.jpg
 2025-06-28 11:37:37,532 - INFO - Posted content successfully. Tweet ID: 1938924744981794859
+2025-06-28 12:31:35,813 - INFO - Content: Bastion 10% size reduction proves to be a huge advantage.
+
+2025-06-28 12:31:35,813 - INFO - Image Paths: ['https://external-preview.redd.it/M3NxZ3R6N2FlbjlmMV0ZXzHBGg-mvPxclj57FKpddjDNnL0kEiYv_mKaQ94p.png?format=pjpg&auto=webp&s=63e7f57961daa56ed45d9c6047e3834d9ebc7f85']
+2025-06-28 12:31:35,813 - INFO - Video Path: https://v.redd.it/ywbx1p7aen9f1/DASH_1080.mp4?source=fallback
+2025-06-28 12:31:37,475 - INFO - Downloaded media from https://v.redd.it/ywbx1p7aen9f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-28 12:31:37,792 - INFO - Downloaded media from https://v.redd.it/ywbx1p7aen9f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-28 12:31:40,402 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-28 12:32:02,454 - INFO - Posted content successfully. Tweet ID: 1938938438797140285
