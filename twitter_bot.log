@@ -3017,3 +3017,12 @@ Mercy rezzing infront of the enemy reaper
 Too Many Requests
 2025-06-28 19:36:35,210 - ERROR - Error in main loop: 'u'
 2025-06-28 20:16:17,416 - ERROR - Error in main loop: 'u'
+2025-06-28 20:40:02,714 - INFO - Content: Look, Ik I'm bad but what sin have I committed to be subjected to this agony?
+Mercy rezzing infront of the enemy reaper
+2025-06-28 20:40:02,714 - INFO - Image Paths: ['https://external-preview.redd.it/Ym82enA0ZDV6bTlmMeSGRTWtCi6glMKt_OT3E4mPpUBge8cKKXlV_rG5gQKq.png?format=pjpg&auto=webp&s=4863f882267a04cc0fe18eea2ab734ec3cb202bb']
+2025-06-28 20:40:02,714 - INFO - Video Path: https://v.redd.it/ebkyazc5zm9f1/DASH_720.mp4?source=fallback
+2025-06-28 20:40:02,884 - INFO - Downloaded media from https://v.redd.it/ebkyazc5zm9f1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-06-28 20:40:02,901 - INFO - Downloaded media from https://v.redd.it/ebkyazc5zm9f1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-06-28 20:40:03,597 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-28 20:40:09,163 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
