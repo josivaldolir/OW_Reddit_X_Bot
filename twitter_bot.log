@@ -3335,3 +3335,10 @@ It took me about 5 hours to but I like how the colors came out
 2025-06-29 19:11:58,308 - INFO - Downloaded media from https://preview.redd.it/oc983huitw9f1.png?auto=webp&s=d6d8eb4e35d19d1ccd4f17d6b835c427ac9e0e49 to temp_image.jpg
 2025-06-29 19:11:59,073 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-29 19:35:57,599 - INFO - Content: Major miss to not have Moira as Dr Mindbender in the GI Joe collab
+
+2025-06-29 19:35:57,599 - INFO - Image Paths: ['https://preview.redd.it/iostmg3m4w9f1.jpeg?auto=webp&s=ef11fdc874c25c7bef543096300373b7913b52a7']
+2025-06-29 19:35:57,599 - INFO - Video Path: 
+2025-06-29 19:35:57,721 - INFO - Downloaded media from https://preview.redd.it/iostmg3m4w9f1.jpeg?auto=webp&s=ef11fdc874c25c7bef543096300373b7913b52a7 to temp_image.jpg
+2025-06-29 19:35:58,307 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
