@@ -3304,3 +3304,11 @@ Too Many Requests
 2025-06-29 17:13:02,950 - INFO - Video Path: 
 2025-06-29 17:13:03,174 - INFO - Downloaded media from https://preview.redd.it/kuhelfmgbw9f1.jpeg?auto=webp&s=888d048f286003996ee461ae80486c8eaf84af33 to temp_image.jpg
 2025-06-29 17:13:04,547 - INFO - Posted content successfully. Tweet ID: 1939371551335551134
+2025-06-29 17:41:13,286 - INFO - Content: Practice vs AI Tracer bots randomly die for no reason?
+Something I noticed happening after the season 17 update released.
+2025-06-29 17:41:13,286 - INFO - Image Paths: ['https://external-preview.redd.it/YnczdjM0NWV5djlmMc7HeH_HFHpM1CDmmdbG_U-8nBD4zhrVQl323Ugu6k8j.png?format=pjpg&auto=webp&s=fc4a0d48831be626517913ae1f26661a529cecfb']
+2025-06-29 17:41:13,286 - INFO - Video Path: https://v.redd.it/aypdz75eyv9f1/DASH_720.mp4?source=fallback
+2025-06-29 17:41:13,615 - INFO - Downloaded media from https://v.redd.it/aypdz75eyv9f1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-06-29 17:41:13,666 - INFO - Downloaded media from https://v.redd.it/aypdz75eyv9f1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-06-29 17:41:16,432 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-29 17:41:25,750 - INFO - Posted content successfully. Tweet ID: 1939378686723285143
