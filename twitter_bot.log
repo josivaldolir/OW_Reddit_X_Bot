@@ -3289,3 +3289,12 @@ Love these skins, just bought Kiriko and Sigma from the ultimate BP bundle. Hope
 2025-06-29 16:17:47,200 - INFO - Downloaded media from https://preview.redd.it/iostmg3m4w9f1.jpeg?auto=webp&s=ef11fdc874c25c7bef543096300373b7913b52a7 to temp_image.jpg
 2025-06-29 16:17:48,049 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-29 16:45:36,293 - INFO - Content: Practice vs AI Tracer bots randomly die for no reason?
+Something I noticed happening after the season 17 update released.
+2025-06-29 16:45:36,293 - INFO - Image Paths: ['https://external-preview.redd.it/YnczdjM0NWV5djlmMc7HeH_HFHpM1CDmmdbG_U-8nBD4zhrVQl323Ugu6k8j.png?format=pjpg&auto=webp&s=fc4a0d48831be626517913ae1f26661a529cecfb']
+2025-06-29 16:45:36,293 - INFO - Video Path: https://v.redd.it/aypdz75eyv9f1/DASH_720.mp4?source=fallback
+2025-06-29 16:45:36,365 - INFO - Downloaded media from https://v.redd.it/aypdz75eyv9f1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-06-29 16:45:36,380 - INFO - Downloaded media from https://v.redd.it/aypdz75eyv9f1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-06-29 16:45:40,078 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-29 16:45:47,738 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
