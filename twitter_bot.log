@@ -3205,3 +3205,12 @@ Also zarya’s healing bubble perk is bugged and doesn’t heal for some reason
 2025-06-29 10:18:05,169 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-29 10:18:07,920 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-29 10:44:44,814 - INFO - Content: sadge
+
+2025-06-29 10:44:44,814 - INFO - Image Paths: ['https://external-preview.redd.it/Ym5ta3k3dTZ6czlmMTGS4ASgUnF-LTZ6Lj8gD9JK6hI1Y2wGcEQkwGA3JlF6.png?format=pjpg&auto=webp&s=7ac015b1644638974bd996be9e9bfb2e46e71fda']
+2025-06-29 10:44:44,814 - INFO - Video Path: https://v.redd.it/ea4iieffzs9f1/DASH_480.mp4?source=fallback
+2025-06-29 10:44:44,975 - INFO - Downloaded media from https://v.redd.it/ea4iieffzs9f1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-06-29 10:44:45,028 - INFO - Downloaded media from https://v.redd.it/ea4iieffzs9f1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-06-29 10:44:47,194 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-29 10:44:50,244 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
