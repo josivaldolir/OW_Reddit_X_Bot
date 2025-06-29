@@ -3321,3 +3321,10 @@ Something I noticed happening after the season 17 update released.
 2025-06-29 18:21:04,752 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-29 18:21:11,095 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-29 18:47:03,715 - INFO - Content: Major miss to not have Moira as Dr Mindbender in the GI Joe collab
+
+2025-06-29 18:47:03,715 - INFO - Image Paths: ['https://preview.redd.it/iostmg3m4w9f1.jpeg?auto=webp&s=ef11fdc874c25c7bef543096300373b7913b52a7']
+2025-06-29 18:47:03,715 - INFO - Video Path: 
+2025-06-29 18:47:03,886 - INFO - Downloaded media from https://preview.redd.it/iostmg3m4w9f1.jpeg?auto=webp&s=ef11fdc874c25c7bef543096300373b7913b52a7 to temp_image.jpg
+2025-06-29 18:47:04,590 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
