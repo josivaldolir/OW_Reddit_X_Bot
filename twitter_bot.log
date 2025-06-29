@@ -3362,3 +3362,9 @@ Too Many Requests
 2025-06-29 21:14:10,552 - INFO - Video Path: 
 2025-06-29 21:14:10,780 - INFO - Downloaded media from https://preview.redd.it/z57v2uht7x9f1.jpeg?auto=webp&s=9d0b0cc41f20f2c8cf857d11bf3b851229755647 to temp_image.jpg
 2025-06-29 21:14:12,109 - INFO - Posted content successfully. Tweet ID: 1939432232630014399
+2025-06-29 21:38:44,918 - INFO - Content: Major miss to not have Moira as Dr Mindbender in the GI Joe collab
+
+2025-06-29 21:38:44,918 - INFO - Image Paths: ['https://preview.redd.it/iostmg3m4w9f1.jpeg?auto=webp&s=ef11fdc874c25c7bef543096300373b7913b52a7']
+2025-06-29 21:38:44,918 - INFO - Video Path: 
+2025-06-29 21:38:45,136 - INFO - Downloaded media from https://preview.redd.it/iostmg3m4w9f1.jpeg?auto=webp&s=ef11fdc874c25c7bef543096300373b7913b52a7 to temp_image.jpg
+2025-06-29 21:38:46,171 - INFO - Posted content successfully. Tweet ID: 1939438415612969408
