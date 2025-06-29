@@ -3185,3 +3185,14 @@ Also zarya’s healing bubble perk is bugged and doesn’t heal for some reason
 2025-06-29 09:15:22,855 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-29 09:15:28,875 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-29 09:39:46,625 - INFO - Content: Anybody noticing that zarya’s beam sometimes stops registring damage?
+I thought it was my aim but after VOD reviewing it there really is a glitch preventing me from doing damage. And no its not the 90 ping I’ve played on that my entire life without any problems like this
+
+
+Also zarya’s healing bubble perk is bugged and doesn’t heal for some reason
+2025-06-29 09:39:46,625 - INFO - Image Paths: ['https://external-preview.redd.it/anYwMjcxZmt6cjlmMb-eEOs23sNEemV2mLCNyqn5HFaF8JaSvMVxbLGK0uLx.png?format=pjpg&auto=webp&s=34430517cdc9bfa3d183b715c34b69ae4b708b3c']
+2025-06-29 09:39:46,625 - INFO - Video Path: https://v.redd.it/z1s91qmkzr9f1/DASH_1080.mp4?source=fallback
+2025-06-29 09:39:46,988 - INFO - Downloaded media from https://v.redd.it/z1s91qmkzr9f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-29 09:39:47,162 - INFO - Downloaded media from https://v.redd.it/z1s91qmkzr9f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-29 09:39:49,241 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-29 09:39:58,601 - INFO - Posted content successfully. Tweet ID: 1939257525360382058
