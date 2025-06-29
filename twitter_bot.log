@@ -3349,3 +3349,10 @@ Too Many Requests
 2025-06-29 20:17:45,476 - INFO - Downloaded media from https://preview.redd.it/z57v2uht7x9f1.jpeg?auto=webp&s=9d0b0cc41f20f2c8cf857d11bf3b851229755647 to temp_image.jpg
 2025-06-29 20:17:46,364 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-29 20:41:22,763 - INFO - Content: Hello fellow martians! I have made Juno out of perler beads!
+It took me about 5 hours to but I like how the colors came out
+2025-06-29 20:41:22,763 - INFO - Image Paths: ['https://preview.redd.it/oc983huitw9f1.png?auto=webp&s=d6d8eb4e35d19d1ccd4f17d6b835c427ac9e0e49']
+2025-06-29 20:41:22,763 - INFO - Video Path: 
+2025-06-29 20:41:22,933 - INFO - Downloaded media from https://preview.redd.it/oc983huitw9f1.png?auto=webp&s=d6d8eb4e35d19d1ccd4f17d6b835c427ac9e0e49 to temp_image.jpg
+2025-06-29 20:41:23,611 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
