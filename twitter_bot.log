@@ -3312,3 +3312,12 @@ Something I noticed happening after the season 17 update released.
 2025-06-29 17:41:13,666 - INFO - Downloaded media from https://v.redd.it/aypdz75eyv9f1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-06-29 17:41:16,432 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-29 17:41:25,750 - INFO - Posted content successfully. Tweet ID: 1939378686723285143
+2025-06-29 18:21:01,848 - INFO - Content: BMing Junkrat get's the most INSTANTANEOUS KARMA you've ever seen
+
+2025-06-29 18:21:01,848 - INFO - Image Paths: ['https://external-preview.redd.it/N25jcmYxOW53czlmMV5QDjW1F1dM84Aa0GPV5aIBTvrB02Q7zoCgVC-ev6X1.png?format=pjpg&auto=webp&s=35766bed983eb8991b0d8efec4381723310c69f6']
+2025-06-29 18:21:01,848 - INFO - Video Path: https://v.redd.it/3rh7u66nws9f1/DASH_1080.mp4?source=fallback
+2025-06-29 18:21:02,092 - INFO - Downloaded media from https://v.redd.it/3rh7u66nws9f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-29 18:21:02,170 - INFO - Downloaded media from https://v.redd.it/3rh7u66nws9f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-29 18:21:04,752 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-29 18:21:11,095 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
