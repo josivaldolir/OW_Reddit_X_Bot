@@ -3257,3 +3257,12 @@ Reinhardt was born in like 2015 based off of his age so he'd be 10. That's weird
 2025-06-29 14:14:12,759 - INFO - Image Paths: []
 2025-06-29 14:14:12,759 - INFO - Video Path: 
 2025-06-29 14:14:13,083 - INFO - Posted content successfully. Tweet ID: 1939326540820464042
+2025-06-29 14:40:38,064 - INFO - Content: Why do my Overwatch 2 clips all look like this?
+I make clips using Medal, but no other clips have this effect on them. 
+2025-06-29 14:40:38,064 - INFO - Image Paths: ['https://external-preview.redd.it/YnB1Z3VsYzFpdjlmMcpfW4W605tdDG5X9DQzHe5um0Bjsr2tgJTDTPbADKPQ.png?format=pjpg&auto=webp&s=51cfcd8f00a63fb832986503206f3fae7ce440f9']
+2025-06-29 14:40:38,064 - INFO - Video Path: https://v.redd.it/ja8kmbc1iv9f1/DASH_1080.mp4?source=fallback
+2025-06-29 14:40:38,684 - INFO - Downloaded media from https://v.redd.it/ja8kmbc1iv9f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-29 14:40:38,980 - INFO - Downloaded media from https://v.redd.it/ja8kmbc1iv9f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-29 14:40:41,266 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-29 14:40:50,451 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
