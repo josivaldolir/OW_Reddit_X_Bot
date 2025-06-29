@@ -3244,3 +3244,11 @@ Idk why but it made me laugh so hard that I forgot about 7 games loss streak. Al
 2025-06-29 13:04:59,804 - INFO - Downloaded media from https://v.redd.it/qjwc8j5f0v9f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-06-29 13:05:02,831 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-29 13:05:07,286 - INFO - Posted content successfully. Tweet ID: 1939309151961681927
+2025-06-29 13:44:54,849 - INFO - Content: How does this even happen?
+
+2025-06-29 13:44:54,849 - INFO - Image Paths: ['https://external-preview.redd.it/bm1oaWdoODBydTlmMSOJzc9xyNZD0SCaVgoNaiNndb4XxwGH9Be5V8xUlMm_.png?format=pjpg&auto=webp&s=3bb52e337b4811f44643011a7c92b44ee2aef346']
+2025-06-29 13:44:54,849 - INFO - Video Path: https://v.redd.it/k5g4kk80ru9f1/DASH_1080.mp4?source=fallback
+2025-06-29 13:44:54,987 - INFO - Downloaded media from https://v.redd.it/k5g4kk80ru9f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-29 13:44:55,087 - INFO - Downloaded media from https://v.redd.it/k5g4kk80ru9f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-29 13:44:57,376 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-29 13:45:04,340 - INFO - Posted content successfully. Tweet ID: 1939319205985219068
