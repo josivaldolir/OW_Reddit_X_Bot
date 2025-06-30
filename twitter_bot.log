@@ -3432,3 +3432,10 @@ Art source: [https://x.com/F01Q\_Art/status/1938325802426462575](https://x.com/F
 2025-06-30 05:19:05,705 - INFO - Downloaded media from https://preview.redd.it/zuuq85947z9f1.jpeg?auto=webp&s=72f70ec15a429ed123c116759e90d918e046761b to temp_image.jpg
 2025-06-30 05:19:06,620 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-30 05:44:27,207 - INFO - Content: Me hitting all-star on dps at midnight:
+
+2025-06-30 05:44:27,207 - INFO - Image Paths: ['https://preview.redd.it/hncqus6mkt8f1.png?auto=webp&s=05e534a8d818a2c869360a6d22b37c5cb3ca71c5']
+2025-06-30 05:44:27,208 - INFO - Video Path: 
+2025-06-30 05:44:27,401 - INFO - Downloaded media from https://preview.redd.it/hncqus6mkt8f1.png?auto=webp&s=05e534a8d818a2c869360a6d22b37c5cb3ca71c5 to temp_image.jpg
+2025-06-30 05:44:28,046 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
