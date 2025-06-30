@@ -3394,3 +3394,12 @@ It took me about 5 hours to but I like how the colors came out
 2025-06-29 23:39:19,644 - INFO - Video Path: 
 2025-06-29 23:39:19,775 - INFO - Downloaded media from https://preview.redd.it/oc983huitw9f1.png?auto=webp&s=d6d8eb4e35d19d1ccd4f17d6b835c427ac9e0e49 to temp_image.jpg
 2025-06-29 23:39:20,963 - INFO - Posted content successfully. Tweet ID: 1939468759787356263
+2025-06-30 01:20:30,352 - INFO - Content: POV: You think you're the best tank and that your team is throwing
+I play support and I got this tank on my team. He was insulting us the whole time openly in match chat and bragging that he was the only one doing anything because he got a pick. The enemy team had us pinned down every round with their lucio+zarya.
+2025-06-30 01:20:30,352 - INFO - Image Paths: ['https://external-preview.redd.it/OXBncHRid3k5eDlmMXjDn0XjG6BNye_8phWGa7vDlL1ZKkmgg401OZd24dwY.png?format=pjpg&auto=webp&s=4368568fbc38216ed2d39a3411df62a21bf710fb']
+2025-06-30 01:20:30,352 - INFO - Video Path: https://v.redd.it/qfo65izy9x9f1/DASH_1080.mp4?source=fallback
+2025-06-30 01:20:30,782 - INFO - Downloaded media from https://v.redd.it/qfo65izy9x9f1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-30 01:20:31,130 - INFO - Downloaded media from https://v.redd.it/qfo65izy9x9f1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-30 01:20:31,588 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-30 01:20:52,917 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
