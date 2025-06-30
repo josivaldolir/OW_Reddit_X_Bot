@@ -3544,3 +3544,9 @@ But what do you think?
 2025-06-30 14:45:15,815 - INFO - Video Path: 
 2025-06-30 14:45:15,908 - INFO - Downloaded media from https://preview.redd.it/m0lk6jutj2af1.jpeg?auto=webp&s=5b449ebda72b32b7232c6a58299c0fcdec2aa5f4 to temp_image.jpg
 2025-06-30 14:45:17,877 - INFO - Posted content successfully. Tweet ID: 1939696747766501493
+2025-06-30 15:19:18,265 - INFO - Content: Now it all makes sense
+
+2025-06-30 15:19:18,265 - INFO - Image Paths: ['https://preview.redd.it/cezf28u2m2af1.jpeg?auto=webp&s=3c0ed093c72b7aedcf6318e2d473906e760dd681']
+2025-06-30 15:19:18,266 - INFO - Video Path: 
+2025-06-30 15:19:18,399 - INFO - Downloaded media from https://preview.redd.it/cezf28u2m2af1.jpeg?auto=webp&s=3c0ed093c72b7aedcf6318e2d473906e760dd681 to temp_image.jpg
+2025-06-30 15:19:20,101 - INFO - Posted content successfully. Tweet ID: 1939705313768161711
