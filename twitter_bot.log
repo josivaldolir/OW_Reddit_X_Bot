@@ -3550,3 +3550,24 @@ But what do you think?
 2025-06-30 15:19:18,266 - INFO - Video Path: 
 2025-06-30 15:19:18,399 - INFO - Downloaded media from https://preview.redd.it/cezf28u2m2af1.jpeg?auto=webp&s=3c0ed093c72b7aedcf6318e2d473906e760dd681 to temp_image.jpg
 2025-06-30 15:19:20,101 - INFO - Posted content successfully. Tweet ID: 1939705313768161711
+2025-06-30 15:43:19,844 - INFO - Content: Clickbait. Bastion is literally shortest hero in the game in Tank form now
+Pictures are taken from Marblr video on YouTube. So, Bastion's size before the S17 patch
+
+Maybe offtop. I was surprised during long time (in days of OW1 mostly) why people was saying "Torbjorn is shortest hero in the game" while Bastion in tank form literally was the real dwarf. Yes, I know that is the specific condition, but nobody just even didn't mention it. Seems like Bastion was forgotten
+
+Yellow lines indicate the level of the camera, the green dot is the center of this intersection, the place where the camera is located.
+
+Due to the great length of the tank Bastion, it appears that the tracks are not level with Torbjorn's legs. But heights are quite accurate.
+
+Camera level for Torbjorn – 1m
+Camera level for tank Bastion (tank) – 1.02m
+
+However, after patch S17, the Bastion Tank camera level should be: 0.92m due to a 10% model decreasing and tank model should become for 0.7 cells lower. Roughly calculating, the height of the top of Torbjorn's head is 6.5 cells on the picture. The Bastion had 7 cells, became 6.3 cells.
+If the tank configuration returns, Bastion will become one of the shortest heroes in all respects
+ 
+How likely is it that Tank Configuration will return?
+2025-06-30 15:43:19,845 - INFO - Image Paths: ['https://preview.redd.it/c0v7h3ye72af1.jpeg?auto=webp&s=a1362afff625aa4c9d29532a30dc721e8cf5d2f3']
+2025-06-30 15:43:19,845 - INFO - Video Path: 
+2025-06-30 15:43:19,884 - INFO - Downloaded media from https://preview.redd.it/c0v7h3ye72af1.jpeg?auto=webp&s=a1362afff625aa4c9d29532a30dc721e8cf5d2f3 to temp_image.jpg
+2025-06-30 15:43:20,693 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
