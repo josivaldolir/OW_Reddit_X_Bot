@@ -3618,3 +3618,11 @@ Either Overlord or Dae-hyun. Both are mechanics/engineers so would fit the suppo
 2025-06-30 18:23:12,139 - INFO - Video Path: 
 2025-06-30 18:23:12,362 - INFO - Downloaded media from https://preview.redd.it/35fmnnttf2af1.jpeg?auto=webp&s=be9a21c09208c7e84347a06f0dfa629613ded71a to temp_image.jpg
 2025-06-30 18:23:13,972 - INFO - Posted content successfully. Tweet ID: 1939751593953640875
+2025-06-30 18:49:51,497 - INFO - Content: Sigma's mini shield in Stadium
+
+2025-06-30 18:49:51,497 - INFO - Image Paths: ['https://external-preview.redd.it/YzlmcG9uam4wNGFmMbirryQ8915b9Ay09fOul4dLnCov1SGT56Mr1U1OQA9k.png?format=pjpg&auto=webp&s=0c34122563eb1199476e0c5f183254afd5e62203']
+2025-06-30 18:49:51,497 - INFO - Video Path: https://v.redd.it/mi9hkmkn04af1/DASH_720.mp4?source=fallback
+2025-06-30 18:49:51,698 - INFO - Downloaded media from https://v.redd.it/mi9hkmkn04af1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-06-30 18:49:51,947 - INFO - Downloaded media from https://v.redd.it/mi9hkmkn04af1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-06-30 18:49:52,525 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-30 18:49:56,289 - INFO - Posted content successfully. Tweet ID: 1939758315871117663
