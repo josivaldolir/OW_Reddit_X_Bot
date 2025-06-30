@@ -3654,3 +3654,10 @@ I saw a post of a guy saying he was learning Widowmaker to play as her when The 
 2025-06-30 20:41:23,633 - INFO - Downloaded media from https://preview.redd.it/pgy7q5wkj2af1.jpeg?auto=webp&s=754cbaaef99936818554e6c365c5807c95e32b21 to temp_image.jpg
 2025-06-30 20:41:26,052 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-30 21:16:00,953 - INFO - Content: Incoming: 20 game loss streak, guaranteed
+"Oh, I see you're about to hit masters? How about instead I give you 20 games of losing the Doom coinflip instead." - the matchmaking gremlin, probably
+2025-06-30 21:16:00,953 - INFO - Image Paths: ['https://preview.redd.it/mq2hc7rz64af1.png?auto=webp&s=fd04412806309cb14925038a58e2d1139b69dce5']
+2025-06-30 21:16:00,953 - INFO - Video Path: 
+2025-06-30 21:16:01,098 - INFO - Downloaded media from https://preview.redd.it/mq2hc7rz64af1.png?auto=webp&s=fd04412806309cb14925038a58e2d1139b69dce5 to temp_image.jpg
+2025-06-30 21:16:01,942 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
