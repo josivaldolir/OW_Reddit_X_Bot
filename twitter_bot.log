@@ -3633,3 +3633,10 @@ I saw a post of a guy saying he was learning Widowmaker to play as her when The 
 2025-06-30 19:12:27,007 - INFO - Downloaded media from https://preview.redd.it/pgy7q5wkj2af1.jpeg?auto=webp&s=754cbaaef99936818554e6c365c5807c95e32b21 to temp_image.jpg
 2025-06-30 19:12:28,394 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-30 19:36:59,755 - INFO - Content: Hey, I won't be the one judging people
+I saw a post of a guy saying he was learning Widowmaker to play as her when The Baroness' skin released and I just had to make this 🤣
+2025-06-30 19:36:59,755 - INFO - Image Paths: ['https://preview.redd.it/pgy7q5wkj2af1.jpeg?auto=webp&s=754cbaaef99936818554e6c365c5807c95e32b21']
+2025-06-30 19:36:59,755 - INFO - Video Path: 
+2025-06-30 19:36:59,842 - INFO - Downloaded media from https://preview.redd.it/pgy7q5wkj2af1.jpeg?auto=webp&s=754cbaaef99936818554e6c365c5807c95e32b21 to temp_image.jpg
+2025-06-30 19:37:01,082 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
