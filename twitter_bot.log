@@ -3502,3 +3502,9 @@ I’m manifesting 💔
 2025-06-30 10:18:09,032 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-30 10:18:16,036 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-30 11:14:06,810 - INFO - Content: Map voting haters
+The old system was so random with 30 maps in quickplay rotation, now we have a better system that is just an upgrade to the last one and people are mad
+2025-06-30 11:14:06,810 - INFO - Image Paths: ['https://preview.redd.it/fyh6hpevf1af1.png?auto=webp&s=89dcc05b7eeb002e8d6d8a075db7bb975de86eb3']
+2025-06-30 11:14:06,810 - INFO - Video Path: 
+2025-06-30 11:14:06,956 - INFO - Downloaded media from https://preview.redd.it/fyh6hpevf1af1.png?auto=webp&s=89dcc05b7eeb002e8d6d8a075db7bb975de86eb3 to temp_image.jpg
+2025-06-30 11:14:08,346 - INFO - Posted content successfully. Tweet ID: 1939643608103088482
