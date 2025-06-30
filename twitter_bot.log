@@ -3538,3 +3538,9 @@ But what do you think?
 2025-06-30 14:15:55,334 - INFO - Video Path: 
 2025-06-30 14:15:55,417 - INFO - Downloaded media from https://external-preview.redd.it/zKAzBbYyg96D29qboQIQVgDR0QYLBE8SdLLWo7L6Pws.png?auto=webp&s=ebc14352d5db0012077823af24765c5d3ddcb721 to temp_image.jpg
 2025-06-30 14:15:58,038 - INFO - Posted content successfully. Tweet ID: 1939689362561908965
+2025-06-30 14:45:15,815 - INFO - Content: He that is without sin among you, cast the first stone
+
+2025-06-30 14:45:15,815 - INFO - Image Paths: ['https://preview.redd.it/m0lk6jutj2af1.jpeg?auto=webp&s=5b449ebda72b32b7232c6a58299c0fcdec2aa5f4']
+2025-06-30 14:45:15,815 - INFO - Video Path: 
+2025-06-30 14:45:15,908 - INFO - Downloaded media from https://preview.redd.it/m0lk6jutj2af1.jpeg?auto=webp&s=5b449ebda72b32b7232c6a58299c0fcdec2aa5f4 to temp_image.jpg
+2025-06-30 14:45:17,877 - INFO - Posted content successfully. Tweet ID: 1939696747766501493
