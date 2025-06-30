@@ -3661,3 +3661,9 @@ Too Many Requests
 2025-06-30 21:16:01,098 - INFO - Downloaded media from https://preview.redd.it/mq2hc7rz64af1.png?auto=webp&s=fd04412806309cb14925038a58e2d1139b69dce5 to temp_image.jpg
 2025-06-30 21:16:01,942 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-06-30 21:39:40,980 - INFO - Content: Incoming: 20 game loss streak, guaranteed
+"Oh, I see you're about to hit masters? How about instead I give you 20 games of losing the Doom coinflip instead." - the matchmaking gremlin, probably
+2025-06-30 21:39:40,980 - INFO - Image Paths: ['https://preview.redd.it/mq2hc7rz64af1.png?auto=webp&s=fd04412806309cb14925038a58e2d1139b69dce5']
+2025-06-30 21:39:40,980 - INFO - Video Path: 
+2025-06-30 21:39:41,104 - INFO - Downloaded media from https://preview.redd.it/mq2hc7rz64af1.png?auto=webp&s=fd04412806309cb14925038a58e2d1139b69dce5 to temp_image.jpg
+2025-06-30 21:39:44,050 - INFO - Posted content successfully. Tweet ID: 1939801039131254968
