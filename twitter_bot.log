@@ -3508,3 +3508,11 @@ The old system was so random with 30 maps in quickplay rotation, now we have a b
 2025-06-30 11:14:06,810 - INFO - Video Path: 
 2025-06-30 11:14:06,956 - INFO - Downloaded media from https://preview.redd.it/fyh6hpevf1af1.png?auto=webp&s=89dcc05b7eeb002e8d6d8a075db7bb975de86eb3 to temp_image.jpg
 2025-06-30 11:14:08,346 - INFO - Posted content successfully. Tweet ID: 1939643608103088482
+2025-06-30 11:38:46,219 - INFO - Content: My greatest Orisa moment ever.
+
+2025-06-30 11:38:46,219 - INFO - Image Paths: ['https://external-preview.redd.it/NHM2ejA1bzgwMGFmMVk5afoMEApWqIwFrf1WnyJczI_INxIYemiTrzfVpQ27.png?format=pjpg&auto=webp&s=d026338417a38bf2c64de3e32abe210b6b9366a5']
+2025-06-30 11:38:46,219 - INFO - Video Path: https://v.redd.it/u2a2i3o800af1/DASH_1080.mp4?source=fallback
+2025-06-30 11:38:46,538 - INFO - Downloaded media from https://v.redd.it/u2a2i3o800af1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-30 11:38:46,606 - INFO - Downloaded media from https://v.redd.it/u2a2i3o800af1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-30 11:38:47,075 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-30 11:38:54,035 - INFO - Posted content successfully. Tweet ID: 1939649841568645248
