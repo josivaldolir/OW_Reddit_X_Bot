@@ -3680,3 +3680,11 @@ I saw a post of a guy saying he was learning Widowmaker to play as her when The 
 2025-06-30 22:43:30,949 - INFO - Video Path: 
 2025-06-30 22:43:31,072 - INFO - Downloaded media from https://preview.redd.it/pgy7q5wkj2af1.jpeg?auto=webp&s=754cbaaef99936818554e6c365c5807c95e32b21 to temp_image.jpg
 2025-06-30 22:43:33,193 - INFO - Posted content successfully. Tweet ID: 1939817104426897867
+2025-06-30 23:15:43,637 - INFO - Content: Don't do it man! You have so much to live for!
+
+2025-06-30 23:15:43,637 - INFO - Image Paths: ['https://external-preview.redd.it/OG9vbGJsYWR1NGFmMcBZElQSdUjHuAYdzfspwqlYANIAhYeIzXCg67pxNIsG.png?format=pjpg&auto=webp&s=49a9fceb8fe39387fa7dc72e5d05084f86e26a93']
+2025-06-30 23:15:43,637 - INFO - Video Path: https://v.redd.it/b3pjlz8du4af1/DASH_1080.mp4?source=fallback
+2025-06-30 23:15:44,012 - INFO - Downloaded media from https://v.redd.it/b3pjlz8du4af1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-30 23:15:44,059 - INFO - Downloaded media from https://v.redd.it/b3pjlz8du4af1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-30 23:15:44,962 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-30 23:15:50,667 - INFO - Posted content successfully. Tweet ID: 1939825233394897331
