@@ -3528,3 +3528,13 @@ The old system was so random with 30 maps in quickplay rotation, now we have a b
 2025-06-30 13:51:45,920 - INFO - Video Path: 
 2025-06-30 13:51:45,976 - INFO - Downloaded media from https://preview.redd.it/navw62axh2af1.jpeg?auto=webp&s=9826676ce9b188afccb9d62c0f9dc23bdec2e8a0 to temp_image.jpg
 2025-06-30 13:51:46,740 - INFO - Posted content successfully. Tweet ID: 1939683281395384773
+2025-06-30 14:15:55,334 - INFO - Content: Should Stadium color-code items by price AND category?
+Hi everyone.   
+  
+I made a quick little mock-up to illustrate the idea. I personally find it really unintuitive that your build icons on the left can be of the same color, even when they \_all\_ belong to different categories. If half of your items are rare - they will all be light-blue, no matter what category - weapon, ability or survival - they belong to, same for all other rarities. I think when each category has its own color palette, it makes it possible to get the idea of your build at a glance, which is a significant improvement to readability in my opinion. 
+
+But what do you think? 
+2025-06-30 14:15:55,334 - INFO - Image Paths: ['https://external-preview.redd.it/zKAzBbYyg96D29qboQIQVgDR0QYLBE8SdLLWo7L6Pws.png?auto=webp&s=ebc14352d5db0012077823af24765c5d3ddcb721']
+2025-06-30 14:15:55,334 - INFO - Video Path: 
+2025-06-30 14:15:55,417 - INFO - Downloaded media from https://external-preview.redd.it/zKAzBbYyg96D29qboQIQVgDR0QYLBE8SdLLWo7L6Pws.png?auto=webp&s=ebc14352d5db0012077823af24765c5d3ddcb721 to temp_image.jpg
+2025-06-30 14:15:58,038 - INFO - Posted content successfully. Tweet ID: 1939689362561908965
