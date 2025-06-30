@@ -3493,3 +3493,12 @@ I’m manifesting 💔
 2025-06-30 09:44:30,519 - INFO - Image Paths: []
 2025-06-30 09:44:30,520 - INFO - Video Path: 
 2025-06-30 09:44:30,854 - INFO - Posted content successfully. Tweet ID: 1939621055578181767
+2025-06-30 10:18:06,558 - INFO - Content: My greatest Orisa moment ever.
+
+2025-06-30 10:18:06,558 - INFO - Image Paths: ['https://external-preview.redd.it/NHM2ejA1bzgwMGFmMVk5afoMEApWqIwFrf1WnyJczI_INxIYemiTrzfVpQ27.png?format=pjpg&auto=webp&s=d026338417a38bf2c64de3e32abe210b6b9366a5']
+2025-06-30 10:18:06,558 - INFO - Video Path: https://v.redd.it/u2a2i3o800af1/DASH_1080.mp4?source=fallback
+2025-06-30 10:18:06,815 - INFO - Downloaded media from https://v.redd.it/u2a2i3o800af1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-30 10:18:06,930 - INFO - Downloaded media from https://v.redd.it/u2a2i3o800af1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-30 10:18:09,032 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-30 10:18:16,036 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
