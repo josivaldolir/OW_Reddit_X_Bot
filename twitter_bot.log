@@ -3688,3 +3688,12 @@ I saw a post of a guy saying he was learning Widowmaker to play as her when The 
 2025-06-30 23:15:44,059 - INFO - Downloaded media from https://v.redd.it/b3pjlz8du4af1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-06-30 23:15:44,962 - INFO - Combined video and audio into temp_combined.mp4
 2025-06-30 23:15:50,667 - INFO - Posted content successfully. Tweet ID: 1939825233394897331
+2025-06-30 23:39:02,758 - INFO - Content: Compilation of my Venture Skins (Inspired by Kiriko/Mercy earlier)
+
+2025-06-30 23:39:02,758 - INFO - Image Paths: ['https://external-preview.redd.it/bm80NWM1bGx0NGFmMfOmXkx_KC85d6_FHx4A88YYQRpuWp20fY5fiUp_z-ft.png?format=pjpg&auto=webp&s=c3e81b677757761c852c0584d6f2225e5d55c7fd']
+2025-06-30 23:39:02,758 - INFO - Video Path: https://v.redd.it/ls0qv3llt4af1/DASH_1080.mp4?source=fallback
+2025-06-30 23:39:03,146 - INFO - Downloaded media from https://v.redd.it/ls0qv3llt4af1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-06-30 23:39:03,195 - INFO - Downloaded media from https://v.redd.it/ls0qv3llt4af1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-06-30 23:39:07,185 - INFO - Combined video and audio into temp_combined.mp4
+2025-06-30 23:39:12,265 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
