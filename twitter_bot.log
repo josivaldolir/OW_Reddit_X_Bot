@@ -3924,3 +3924,10 @@ Remember: you can get 20 kills and still lose if the other team is doing better 
 2025-07-01 19:12:25,309 - INFO - Downloaded media from https://preview.redd.it/gvbbeofpsaaf1.jpeg?auto=webp&s=5c830ce15e28a3442b2d3a8670cb01a6b069646e to temp_image.jpg
 2025-07-01 19:12:26,611 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-01 19:36:28,751 - INFO - Content: What overwatch opinion will get you downvoted like this?
+
+2025-07-01 19:36:28,751 - INFO - Image Paths: ['https://preview.redd.it/fpmw5rgd9baf1.jpeg?auto=webp&s=ebb5c542a9c630d25efabf629a355e1210c2ce55']
+2025-07-01 19:36:28,751 - INFO - Video Path: 
+2025-07-01 19:36:28,833 - INFO - Downloaded media from https://preview.redd.it/fpmw5rgd9baf1.jpeg?auto=webp&s=ebb5c542a9c630d25efabf629a355e1210c2ce55 to temp_image.jpg
+2025-07-01 19:36:29,651 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
