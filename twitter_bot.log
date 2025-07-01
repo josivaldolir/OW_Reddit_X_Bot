@@ -3917,3 +3917,10 @@ Too Many Requests
 2025-07-01 18:49:02,383 - INFO - Video Path: 
 2025-07-01 18:49:02,685 - INFO - Downloaded media from https://preview.redd.it/fsnlw7p1taaf1.jpeg?auto=webp&s=a8b6a19758036ee761a5dcd9e001b4a3f6d696fe to temp_image.jpg
 2025-07-01 18:49:05,126 - INFO - Posted content successfully. Tweet ID: 1940120487079944602
+2025-07-01 19:12:25,143 - INFO - Content: DPS mentality be like:
+Remember: you can get 20 kills and still lose if the other team is doing better overall. Kills doesn't mean squat if you're not playing the objective.
+2025-07-01 19:12:25,143 - INFO - Image Paths: ['https://preview.redd.it/gvbbeofpsaaf1.jpeg?auto=webp&s=5c830ce15e28a3442b2d3a8670cb01a6b069646e']
+2025-07-01 19:12:25,143 - INFO - Video Path: 
+2025-07-01 19:12:25,309 - INFO - Downloaded media from https://preview.redd.it/gvbbeofpsaaf1.jpeg?auto=webp&s=5c830ce15e28a3442b2d3a8670cb01a6b069646e to temp_image.jpg
+2025-07-01 19:12:26,611 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
