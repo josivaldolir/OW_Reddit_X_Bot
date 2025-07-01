@@ -3800,3 +3800,10 @@ Too Many Requests
 2025-07-01 10:17:42,770 - INFO - Downloaded media from https://preview.redd.it/xav7cwcaj8af1.png?auto=webp&s=2dbe46f46f897a006217a965497693117d88b8b8 to temp_image.jpg
 2025-07-01 10:17:43,546 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-01 10:46:09,610 - INFO - Content: My experience with newbie lifeweavers
+
+2025-07-01 10:46:09,610 - INFO - Image Paths: ['https://preview.redd.it/xav7cwcaj8af1.png?auto=webp&s=2dbe46f46f897a006217a965497693117d88b8b8']
+2025-07-01 10:46:09,610 - INFO - Video Path: 
+2025-07-01 10:46:10,158 - INFO - Downloaded media from https://preview.redd.it/xav7cwcaj8af1.png?auto=webp&s=2dbe46f46f897a006217a965497693117d88b8b8 to temp_image.jpg
+2025-07-01 10:46:11,400 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
