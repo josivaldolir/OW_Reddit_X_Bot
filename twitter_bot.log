@@ -3952,3 +3952,10 @@ Too Many Requests
 2025-07-01 21:15:35,443 - INFO - Downloaded media from https://preview.redd.it/fpmw5rgd9baf1.jpeg?auto=webp&s=ebb5c542a9c630d25efabf629a355e1210c2ce55 to temp_image.jpg
 2025-07-01 21:15:36,132 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-01 21:39:15,100 - INFO - Content: So we’re just never getting a free collab skin again right? Just 60$ packages?
+I think the last free collab skin we got was Katara Mei, but I guess before that I cant remember one other than Mumen Rider Soldier 76. I guess I’m just confused because we’re getting collabs with up to 8 skins (Street Fighter) and not getting any free when there was only 4 skins in the One Punch Man collab and we still got a free one. 
+2025-07-01 21:39:15,100 - INFO - Image Paths: ['https://preview.redd.it/jcxyf6ja2baf1.jpeg?auto=webp&s=9a21804d38364cfab13eedab8192528110bb4286']
+2025-07-01 21:39:15,100 - INFO - Video Path: 
+2025-07-01 21:39:15,154 - INFO - Downloaded media from https://preview.redd.it/jcxyf6ja2baf1.jpeg?auto=webp&s=9a21804d38364cfab13eedab8192528110bb4286 to temp_image.jpg
+2025-07-01 21:39:15,880 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
