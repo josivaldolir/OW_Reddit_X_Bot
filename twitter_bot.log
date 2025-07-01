@@ -3820,3 +3820,11 @@ Too Many Requests
 2025-07-01 11:38:42,765 - INFO - Video Path: 
 2025-07-01 11:38:42,879 - INFO - Downloaded media from https://preview.redd.it/xav7cwcaj8af1.png?auto=webp&s=2dbe46f46f897a006217a965497693117d88b8b8 to temp_image.jpg
 2025-07-01 11:38:44,180 - INFO - Posted content successfully. Tweet ID: 1940012187461816550
+2025-07-01 12:32:57,637 - INFO - Content: insane
+
+2025-07-01 12:32:57,637 - INFO - Image Paths: ['https://external-preview.redd.it/bnlwbTJ0cjh0OGFmMTmw4yBBqEyVSv6P08mYtDh4WkenwBPoIvdxy6e4Mwem.png?format=pjpg&auto=webp&s=abf93cf0e33e39b067a1782e1d24bf9d004b10d2']
+2025-07-01 12:32:57,637 - INFO - Video Path: https://v.redd.it/a69z7jq8t8af1/DASH_480.mp4?source=fallback
+2025-07-01 12:32:57,887 - INFO - Downloaded media from https://v.redd.it/a69z7jq8t8af1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-07-01 12:32:57,902 - INFO - Downloaded media from https://v.redd.it/a69z7jq8t8af1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-07-01 12:33:00,176 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-01 12:33:03,891 - INFO - Posted content successfully. Tweet ID: 1940025860184289383
