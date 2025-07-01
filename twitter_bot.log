@@ -3718,3 +3718,10 @@ As you can see its possible for Zarya to get good skins. Theres other good ones 
 2025-07-01 04:12:13,234 - INFO - Video Path: 
 2025-07-01 04:12:13,455 - INFO - Downloaded media from https://preview.redd.it/zptjegekg5af1.jpeg?auto=webp&s=6a72a3bbfdcb77894d7c148a4d8b35e37b06dd32 to temp_image.jpg
 2025-07-01 04:12:14,792 - INFO - Posted content successfully. Tweet ID: 1939899824666734886
+2025-07-01 04:55:33,721 - INFO - Content: What does this orange arrow mean beside my picture
+I've only just got back into overwatch recently. I looked online but can't find an answer 
+2025-07-01 04:55:33,721 - INFO - Image Paths: ['https://preview.redd.it/p3x11ftpb5af1.jpeg?auto=webp&s=9affd57f35b4f4a32e254d72b33b7e28120cea2c']
+2025-07-01 04:55:33,721 - INFO - Video Path: 
+2025-07-01 04:55:33,884 - INFO - Downloaded media from https://preview.redd.it/p3x11ftpb5af1.jpeg?auto=webp&s=9affd57f35b4f4a32e254d72b33b7e28120cea2c to temp_image.jpg
+2025-07-01 04:55:35,114 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
