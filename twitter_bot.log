@@ -3858,3 +3858,10 @@ I’m in korea and I was testing out the dva mythic in shop at a pc bang. Two da
 2025-07-01 14:43:06,834 - INFO - Video Path: 
 2025-07-01 14:43:06,857 - INFO - Downloaded media from https://preview.redd.it/h2nult8uc7af1.jpeg?auto=webp&s=41abe69d0edcd47160467e6c8aba19a5aa0418e1 to temp_image.jpg
 2025-07-01 14:43:09,812 - INFO - Posted content successfully. Tweet ID: 1940058597968461970
+2025-07-01 15:18:02,241 - INFO - Content: That's just how I feel
+
+2025-07-01 15:18:02,241 - INFO - Image Paths: ['https://preview.redd.it/pvgwlkck29af1.jpeg?auto=webp&s=9713919b22fea9204eeeaf617c0c9aa50c51979b']
+2025-07-01 15:18:02,241 - INFO - Video Path: 
+2025-07-01 15:18:02,352 - INFO - Downloaded media from https://preview.redd.it/pvgwlkck29af1.jpeg?auto=webp&s=9713919b22fea9204eeeaf617c0c9aa50c51979b to temp_image.jpg
+2025-07-01 15:18:03,343 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
