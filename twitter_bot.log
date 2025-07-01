@@ -3878,3 +3878,11 @@ I don't mean to stereotype an entire player base of people that play mercy, but 
 2025-07-01 16:20:36,129 - INFO - Downloaded media from https://preview.redd.it/8l6tc8d5k7af1.jpeg?auto=webp&s=c22df631359b7fe4bc5f73848c76a7781f515e21 to temp_image.jpg
 2025-07-01 16:20:36,950 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-01 16:50:19,929 - INFO - Content: He’s going to juggle me
+
+2025-07-01 16:50:19,929 - INFO - Image Paths: ['https://external-preview.redd.it/dnIxMHFheHppYWFmMTdylKPu756Ezqkqq2fGGaraAzCEyg33QW1I_MUljEgZ.png?format=pjpg&auto=webp&s=8ec11575c38a0061d37a9f80c1d83d6df4bbae8e']
+2025-07-01 16:50:19,929 - INFO - Video Path: https://v.redd.it/0uzjk1zziaaf1/DASH_720.mp4?source=fallback
+2025-07-01 16:50:20,053 - INFO - Downloaded media from https://v.redd.it/0uzjk1zziaaf1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-07-01 16:50:20,124 - INFO - Downloaded media from https://v.redd.it/0uzjk1zziaaf1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-07-01 16:50:22,344 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-01 16:50:26,355 - INFO - Posted content successfully. Tweet ID: 1940090630631489840
