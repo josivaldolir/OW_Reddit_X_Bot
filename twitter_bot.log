@@ -3752,3 +3752,10 @@ I've only just got back into overwatch recently. I looked online but can't find 
 2025-07-01 06:52:00,608 - INFO - Downloaded media from https://preview.redd.it/p3x11ftpb5af1.jpeg?auto=webp&s=9affd57f35b4f4a32e254d72b33b7e28120cea2c to temp_image.jpg
 2025-07-01 06:52:02,307 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-01 07:17:59,016 - INFO - Content: What does this orange arrow mean beside my picture
+I've only just got back into overwatch recently. I looked online but can't find an answer 
+2025-07-01 07:17:59,017 - INFO - Image Paths: ['https://preview.redd.it/p3x11ftpb5af1.jpeg?auto=webp&s=9affd57f35b4f4a32e254d72b33b7e28120cea2c']
+2025-07-01 07:17:59,017 - INFO - Video Path: 
+2025-07-01 07:17:59,188 - INFO - Downloaded media from https://preview.redd.it/p3x11ftpb5af1.jpeg?auto=webp&s=9affd57f35b4f4a32e254d72b33b7e28120cea2c to temp_image.jpg
+2025-07-01 07:18:00,453 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
