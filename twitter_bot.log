@@ -3902,3 +3902,12 @@ Too Many Requests
 2025-07-01 17:44:04,272 - INFO - Downloaded media from https://preview.redd.it/fsnlw7p1taaf1.jpeg?auto=webp&s=a8b6a19758036ee761a5dcd9e001b4a3f6d696fe to temp_image.jpg
 2025-07-01 17:44:05,610 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-01 18:21:41,852 - INFO - Content: Compilation of my Hazard Skins (Inspired by Kiriko/Mercy earlier)
+
+2025-07-01 18:21:41,852 - INFO - Image Paths: ['https://external-preview.redd.it/eGo4bmhjN2x1OWFmMRf3EipiDY64bhp3EqyBAbUA0WDAPn1lZhThWx6nCPyj.png?format=pjpg&auto=webp&s=f175057f4e9ade6753f5596e0e939df8fa463207']
+2025-07-01 18:21:41,852 - INFO - Video Path: https://v.redd.it/b9g53g7lu9af1/DASH_1080.mp4?source=fallback
+2025-07-01 18:21:42,174 - INFO - Downloaded media from https://v.redd.it/b9g53g7lu9af1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-07-01 18:21:43,487 - INFO - Downloaded media from https://v.redd.it/b9g53g7lu9af1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-07-01 18:21:43,962 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-01 18:21:51,514 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
