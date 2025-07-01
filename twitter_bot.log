@@ -3966,3 +3966,9 @@ Too Many Requests
 2025-07-01 22:14:52,850 - INFO - Downloaded media from https://preview.redd.it/wwxi9a65ibaf1.png?auto=webp&s=8827aec6166058315a846667196d22e7020ba708 to temp_image.jpg
 2025-07-01 22:14:53,595 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-01 22:43:56,131 - INFO - Content: Legendary Skin, sure
+
+2025-07-01 22:43:56,132 - INFO - Image Paths: ['https://preview.redd.it/wwxi9a65ibaf1.png?auto=webp&s=8827aec6166058315a846667196d22e7020ba708']
+2025-07-01 22:43:56,132 - INFO - Video Path: 
+2025-07-01 22:43:56,192 - INFO - Downloaded media from https://preview.redd.it/wwxi9a65ibaf1.png?auto=webp&s=8827aec6166058315a846667196d22e7020ba708 to temp_image.jpg
+2025-07-01 22:43:57,873 - INFO - Posted content successfully. Tweet ID: 1940179596932260344
