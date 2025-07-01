@@ -3911,3 +3911,9 @@ Too Many Requests
 2025-07-01 18:21:43,962 - INFO - Combined video and audio into temp_combined.mp4
 2025-07-01 18:21:51,514 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-01 18:49:02,382 - INFO - Content: DPS players who think they're hot shit
+
+2025-07-01 18:49:02,382 - INFO - Image Paths: ['https://preview.redd.it/fsnlw7p1taaf1.jpeg?auto=webp&s=a8b6a19758036ee761a5dcd9e001b4a3f6d696fe']
+2025-07-01 18:49:02,383 - INFO - Video Path: 
+2025-07-01 18:49:02,685 - INFO - Downloaded media from https://preview.redd.it/fsnlw7p1taaf1.jpeg?auto=webp&s=a8b6a19758036ee761a5dcd9e001b4a3f6d696fe to temp_image.jpg
+2025-07-01 18:49:05,126 - INFO - Posted content successfully. Tweet ID: 1940120487079944602
