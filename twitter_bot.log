@@ -3959,3 +3959,10 @@ I think the last free collab skin we got was Katara Mei, but I guess before that
 2025-07-01 21:39:15,154 - INFO - Downloaded media from https://preview.redd.it/jcxyf6ja2baf1.jpeg?auto=webp&s=9a21804d38364cfab13eedab8192528110bb4286 to temp_image.jpg
 2025-07-01 21:39:15,880 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-01 22:14:52,799 - INFO - Content: Legendary Skin, sure
+
+2025-07-01 22:14:52,799 - INFO - Image Paths: ['https://preview.redd.it/wwxi9a65ibaf1.png?auto=webp&s=8827aec6166058315a846667196d22e7020ba708']
+2025-07-01 22:14:52,799 - INFO - Video Path: 
+2025-07-01 22:14:52,850 - INFO - Downloaded media from https://preview.redd.it/wwxi9a65ibaf1.png?auto=webp&s=8827aec6166058315a846667196d22e7020ba708 to temp_image.jpg
+2025-07-01 22:14:53,595 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
