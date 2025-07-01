@@ -3725,3 +3725,9 @@ I've only just got back into overwatch recently. I looked online but can't find 
 2025-07-01 04:55:33,884 - INFO - Downloaded media from https://preview.redd.it/p3x11ftpb5af1.jpeg?auto=webp&s=9affd57f35b4f4a32e254d72b33b7e28120cea2c to temp_image.jpg
 2025-07-01 04:55:35,114 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-01 05:20:10,044 - INFO - Content: Pixar Animation Studios.
+
+2025-07-01 05:20:10,045 - INFO - Image Paths: ['https://preview.redd.it/btg9n8ivp6af1.jpeg?auto=webp&s=bc0a81251c045edb7e3d766d2c86995841c4a538']
+2025-07-01 05:20:10,045 - INFO - Video Path: 
+2025-07-01 05:20:10,171 - INFO - Downloaded media from https://preview.redd.it/btg9n8ivp6af1.jpeg?auto=webp&s=bc0a81251c045edb7e3d766d2c86995841c4a538 to temp_image.jpg
+2025-07-01 05:20:11,666 - INFO - Posted content successfully. Tweet ID: 1939916924139487719
