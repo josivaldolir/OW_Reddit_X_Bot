@@ -3871,3 +3871,10 @@ Too Many Requests
 2025-07-01 15:43:21,102 - INFO - Video Path: 
 2025-07-01 15:43:21,159 - INFO - Downloaded media from https://preview.redd.it/pvgwlkck29af1.jpeg?auto=webp&s=9713919b22fea9204eeeaf617c0c9aa50c51979b to temp_image.jpg
 2025-07-01 15:43:22,377 - INFO - Posted content successfully. Tweet ID: 1940073752752160936
+2025-07-01 16:20:35,984 - INFO - Content: Mercy main straight up left the game because she couldn't play mercy.... One tricks smh
+I don't mean to stereotype an entire player base of people that play mercy, but why is it from my experience anytime I meet a mercy player in-game, there's a high chance they'll either be toxic, won't heal you, or they're a stubborn one trick and god forbid you take their character from them. Because they don't know how to play anything else apparently.
+2025-07-01 16:20:35,984 - INFO - Image Paths: ['https://preview.redd.it/8l6tc8d5k7af1.jpeg?auto=webp&s=c22df631359b7fe4bc5f73848c76a7781f515e21']
+2025-07-01 16:20:35,985 - INFO - Video Path: 
+2025-07-01 16:20:36,129 - INFO - Downloaded media from https://preview.redd.it/8l6tc8d5k7af1.jpeg?auto=webp&s=c22df631359b7fe4bc5f73848c76a7781f515e21 to temp_image.jpg
+2025-07-01 16:20:36,950 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
