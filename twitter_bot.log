@@ -4225,3 +4225,9 @@ Too Many Requests
 2025-07-02 18:23:07,029 - INFO - Downloaded media from https://preview.redd.it/1uzgbc935haf1.jpeg?auto=webp&s=bcd9efc36bccda96029cebbaf1149a81c85afa09 to temp_image.jpg
 2025-07-02 18:23:08,056 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-02 18:50:36,998 - INFO - Content: 100GB includes the patches for OW3
+
+2025-07-02 18:50:36,998 - INFO - Image Paths: ['https://preview.redd.it/1uzgbc935haf1.jpeg?auto=webp&s=bcd9efc36bccda96029cebbaf1149a81c85afa09']
+2025-07-02 18:50:36,998 - INFO - Video Path: 
+2025-07-02 18:50:37,277 - INFO - Downloaded media from https://preview.redd.it/1uzgbc935haf1.jpeg?auto=webp&s=bcd9efc36bccda96029cebbaf1149a81c85afa09 to temp_image.jpg
+2025-07-02 18:50:38,672 - INFO - Posted content successfully. Tweet ID: 1940483268513878354
