@@ -4204,3 +4204,10 @@ Wait just a couple of seconds so we can all respawn and charge together! 5 peopl
 2025-07-02 16:49:38,789 - INFO - Downloaded media from https://preview.redd.it/1h92jvuxygaf1.jpeg?auto=webp&s=d51423d6d421e622c84529150b910dcbfe8f1f8e to temp_image.jpg
 2025-07-02 16:49:40,449 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-02 17:15:25,704 - INFO - Content: 100GB includes the patches for OW3
+
+2025-07-02 17:15:25,704 - INFO - Image Paths: ['https://preview.redd.it/1uzgbc935haf1.jpeg?auto=webp&s=bcd9efc36bccda96029cebbaf1149a81c85afa09']
+2025-07-02 17:15:25,704 - INFO - Video Path: 
+2025-07-02 17:15:25,839 - INFO - Downloaded media from https://preview.redd.it/1uzgbc935haf1.jpeg?auto=webp&s=bcd9efc36bccda96029cebbaf1149a81c85afa09 to temp_image.jpg
+2025-07-02 17:15:26,814 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
