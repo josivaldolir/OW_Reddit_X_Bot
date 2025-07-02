@@ -4170,3 +4170,11 @@ Please John Overwatch i'm tired of playing payload maps, i had to play five in a
 2025-07-02 14:16:36,391 - INFO - Downloaded media from https://preview.redd.it/l3cvfdwafgaf1.jpg?width=1920&format=pjpg&auto=webp&s=1fdd91733d8710801147a945231aca737323dcd9 to temp_image.jpg
 2025-07-02 14:16:36,985 - INFO - Downloaded media from https://preview.redd.it/ruqxi1sbfgaf1.jpg?width=344&format=pjpg&auto=webp&s=a7ae5b263f83f783f17bbf32050ca8ef8546e975 to temp_image.jpg
 2025-07-02 14:16:37,899 - INFO - Posted content successfully. Tweet ID: 1940414311286902956
+2025-07-02 14:45:05,249 - INFO - Content: Playing missions in 2025
+
+2025-07-02 14:45:05,249 - INFO - Image Paths: ['https://external-preview.redd.it/NHpldTlwNHZwZWFmMa8QXXFN_-YCoY5hiK3_DBBtiaItGQrP1KgGV1vPflhm.png?format=pjpg&auto=webp&s=dd58c52b0a0e1e989aa93bc4408d7a4133262823']
+2025-07-02 14:45:05,249 - INFO - Video Path: https://v.redd.it/oxvuun4vpeaf1/DASH_1080.mp4?source=fallback
+2025-07-02 14:45:05,584 - INFO - Downloaded media from https://v.redd.it/oxvuun4vpeaf1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-07-02 14:45:05,627 - INFO - Downloaded media from https://v.redd.it/oxvuun4vpeaf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-07-02 14:45:05,872 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-02 14:45:12,564 - INFO - Posted content successfully. Tweet ID: 1940421503608029376
