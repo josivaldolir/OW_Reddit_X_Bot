@@ -4154,3 +4154,12 @@ Legendary, but default skin and new helmet.
 2025-07-02 13:29:41,361 - INFO - Downloaded media from https://v.redd.it/n9fovax8afaf1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-07-02 13:29:42,505 - INFO - Combined video and audio into temp_combined.mp4
 2025-07-02 13:29:53,885 - INFO - Posted content successfully. Tweet ID: 1940402550752100579
+2025-07-02 13:51:13,220 - INFO - Content: Dragon x overwatch Collection
+Hope you like it
+2025-07-02 13:51:13,220 - INFO - Image Paths: ['https://preview.redd.it/7yug5bxv1gaf1.jpg?width=1280&format=pjpg&auto=webp&s=f4a77e5c9fbcf52b10a18075082cd8abf0ef8400', 'https://preview.redd.it/6h88hg7w1gaf1.jpg?width=1280&format=pjpg&auto=webp&s=e68a353e190cf34df48565a31fa260fbf2e19c57', 'https://preview.redd.it/sh8anhgw1gaf1.jpg?width=1280&format=pjpg&auto=webp&s=9384b2c852247cbf663e0cf7b9c7f4b9ce710b9a', 'https://preview.redd.it/knax59mw1gaf1.jpg?width=1280&format=pjpg&auto=webp&s=d5b9f907476404a105193f7a6097601c7396d763']
+2025-07-02 13:51:13,220 - INFO - Video Path: 
+2025-07-02 13:51:13,464 - INFO - Downloaded media from https://preview.redd.it/7yug5bxv1gaf1.jpg?width=1280&format=pjpg&auto=webp&s=f4a77e5c9fbcf52b10a18075082cd8abf0ef8400 to temp_image.jpg
+2025-07-02 13:51:14,753 - INFO - Downloaded media from https://preview.redd.it/6h88hg7w1gaf1.jpg?width=1280&format=pjpg&auto=webp&s=e68a353e190cf34df48565a31fa260fbf2e19c57 to temp_image.jpg
+2025-07-02 13:51:16,243 - INFO - Downloaded media from https://preview.redd.it/sh8anhgw1gaf1.jpg?width=1280&format=pjpg&auto=webp&s=9384b2c852247cbf663e0cf7b9c7f4b9ce710b9a to temp_image.jpg
+2025-07-02 13:51:17,232 - INFO - Downloaded media from https://preview.redd.it/knax59mw1gaf1.jpg?width=1280&format=pjpg&auto=webp&s=d5b9f907476404a105193f7a6097601c7396d763 to temp_image.jpg
+2025-07-02 13:51:18,925 - INFO - Posted content successfully. Tweet ID: 1940407939250237654
