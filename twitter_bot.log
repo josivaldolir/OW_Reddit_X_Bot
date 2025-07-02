@@ -4086,3 +4086,12 @@ Remember: you can get 20 kills and still lose if the other team is doing better 
 2025-07-02 08:49:13,712 - INFO - Downloaded media from https://preview.redd.it/xvguhymrtbaf1.jpeg?auto=webp&s=c1dd02ec74735cf5bf7ce134ea41ef1c0f0971ba to temp_image.jpg
 2025-07-02 08:49:14,298 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-02 09:19:23,881 - INFO - Content: The Reaper new collab skin!
+Legendary, but default skin and new helmet.
+2025-07-02 09:19:23,881 - INFO - Image Paths: ['https://external-preview.redd.it/Y2g3cWowZXlqZWFmMVgZlAx9T6bERxxsCBO-BQErwidCsa8VpjcuaZolZbTd.png?format=pjpg&auto=webp&s=31282466ce6bbedd16263c1ab74c1885f5e6cc03']
+2025-07-02 09:19:23,881 - INFO - Video Path: https://v.redd.it/s24p7olyjeaf1/DASH_360.mp4?source=fallback
+2025-07-02 09:19:24,254 - INFO - Downloaded media from https://v.redd.it/s24p7olyjeaf1/DASH_360.mp4?source=fallback to temp_video.mp4
+2025-07-02 09:19:24,481 - INFO - Downloaded media from https://v.redd.it/s24p7olyjeaf1/DASH_360.mp4?source=fallback to temp_audio.mp4
+2025-07-02 09:19:26,181 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-02 09:19:28,187 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
