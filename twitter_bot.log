@@ -4023,3 +4023,9 @@ Now that it's been around for a little while, what does everyone think of Aatlis
 2025-07-02 03:05:03,446 - INFO - Downloaded media from https://preview.redd.it/3zdrculldbaf1.jpeg?auto=webp&s=22b9ddf3b128ca0e4f8091b04d8be59eb3c50242 to temp_image.jpg
 2025-07-02 03:05:04,227 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-02 04:02:51,721 - INFO - Content: And questionable morals too? I'm fucking going broke
+
+2025-07-02 04:02:51,721 - INFO - Image Paths: ['https://preview.redd.it/ynt3f10gmcaf1.jpeg?auto=webp&s=a0e743889f9ab7d31ab5c1e287dcdf7c02fbbcb3']
+2025-07-02 04:02:51,721 - INFO - Video Path: 
+2025-07-02 04:02:51,737 - INFO - Downloaded media from https://preview.redd.it/ynt3f10gmcaf1.jpeg?auto=webp&s=a0e743889f9ab7d31ab5c1e287dcdf7c02fbbcb3 to temp_image.jpg
+2025-07-02 04:02:53,151 - INFO - Posted content successfully. Tweet ID: 1940259856994509007
