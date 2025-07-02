@@ -4095,3 +4095,9 @@ Legendary, but default skin and new helmet.
 2025-07-02 09:19:26,181 - INFO - Combined video and audio into temp_combined.mp4
 2025-07-02 09:19:28,187 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-02 09:44:41,099 - INFO - Content: 50 MORE SKINS
+
+2025-07-02 09:44:41,099 - INFO - Image Paths: ['https://preview.redd.it/xvguhymrtbaf1.jpeg?auto=webp&s=c1dd02ec74735cf5bf7ce134ea41ef1c0f0971ba']
+2025-07-02 09:44:41,100 - INFO - Video Path: 
+2025-07-02 09:44:41,116 - INFO - Downloaded media from https://preview.redd.it/xvguhymrtbaf1.jpeg?auto=webp&s=c1dd02ec74735cf5bf7ce134ea41ef1c0f0971ba to temp_image.jpg
+2025-07-02 09:44:42,100 - INFO - Posted content successfully. Tweet ID: 1940345878000357753
