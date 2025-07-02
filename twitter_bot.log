@@ -4129,3 +4129,12 @@ So cool
 2025-07-02 11:14:42,704 - INFO - Downloaded media from https://preview.redd.it/t7xz2d48kfaf1.jpg?width=1280&format=pjpg&auto=webp&s=f06efa9c75e48dd0617226811fd87ba343ac0cd8 to temp_image.jpg
 2025-07-02 11:14:43,722 - INFO - Downloaded media from https://preview.redd.it/xh8d7398kfaf1.jpg?width=1280&format=pjpg&auto=webp&s=fc3c84372933af6273364818e33aca6a13e70473 to temp_image.jpg
 2025-07-02 11:14:45,056 - INFO - Posted content successfully. Tweet ID: 1940368539099209866
+2025-07-02 11:38:58,715 - INFO - Content: KFC McDonald's x overwatch
+Hope you like this 
+2025-07-02 11:38:58,715 - INFO - Image Paths: ['https://preview.redd.it/h8ggjcyg2gaf1.jpg?width=1280&format=pjpg&auto=webp&s=150ae3c4912ca4d48bab8560841704d9393ec804', 'https://preview.redd.it/5zr1ca8h2gaf1.jpg?width=1280&format=pjpg&auto=webp&s=2e096f9e8012612ce6a5e6408e856f0194eaa7ac', 'https://preview.redd.it/x0y9lpch2gaf1.jpg?width=1280&format=pjpg&auto=webp&s=08cd9db52a62550aebf22ef8e115f31311c3c152', 'https://preview.redd.it/74ss57ih2gaf1.jpg?width=1280&format=pjpg&auto=webp&s=243867695b708615faf93873feb0af14aeb40aef']
+2025-07-02 11:38:58,715 - INFO - Video Path: 
+2025-07-02 11:38:58,765 - INFO - Downloaded media from https://preview.redd.it/h8ggjcyg2gaf1.jpg?width=1280&format=pjpg&auto=webp&s=150ae3c4912ca4d48bab8560841704d9393ec804 to temp_image.jpg
+2025-07-02 11:38:59,404 - INFO - Downloaded media from https://preview.redd.it/5zr1ca8h2gaf1.jpg?width=1280&format=pjpg&auto=webp&s=2e096f9e8012612ce6a5e6408e856f0194eaa7ac to temp_image.jpg
+2025-07-02 11:39:00,052 - INFO - Downloaded media from https://preview.redd.it/x0y9lpch2gaf1.jpg?width=1280&format=pjpg&auto=webp&s=08cd9db52a62550aebf22ef8e115f31311c3c152 to temp_image.jpg
+2025-07-02 11:39:00,780 - INFO - Downloaded media from https://preview.redd.it/74ss57ih2gaf1.jpg?width=1280&format=pjpg&auto=webp&s=243867695b708615faf93873feb0af14aeb40aef to temp_image.jpg
+2025-07-02 11:39:01,913 - INFO - Posted content successfully. Tweet ID: 1940374649570775442
