@@ -4111,3 +4111,12 @@ So cool
 2025-07-02 10:18:17,358 - INFO - Downloaded media from https://preview.redd.it/8zlgyd47afaf1.jpg?width=1280&format=pjpg&auto=webp&s=2a27dfaf3a54c01d898cc9d39343b3cfa0ac54c3 to temp_image.jpg
 2025-07-02 10:18:18,019 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-02 10:46:05,272 - INFO - Content: Dragon ball x overwatch
+So cool
+2025-07-02 10:46:05,272 - INFO - Image Paths: ['https://preview.redd.it/036os4i6afaf1.jpg?width=1280&format=pjpg&auto=webp&s=3be1aa5eb58143d3b953bd9ddd38e502a4c1acde', 'https://preview.redd.it/36f5zmt6afaf1.jpg?width=1280&format=pjpg&auto=webp&s=df4b179f205b7a938a3ef8fc001b87ab19706c4f', 'https://preview.redd.it/71i6c0z6afaf1.jpg?width=1280&format=pjpg&auto=webp&s=1b344c44ecb77331ae3de3116e01424e80b8729c', 'https://preview.redd.it/8zlgyd47afaf1.jpg?width=1280&format=pjpg&auto=webp&s=2a27dfaf3a54c01d898cc9d39343b3cfa0ac54c3']
+2025-07-02 10:46:05,272 - INFO - Video Path: 
+2025-07-02 10:46:05,519 - INFO - Downloaded media from https://preview.redd.it/036os4i6afaf1.jpg?width=1280&format=pjpg&auto=webp&s=3be1aa5eb58143d3b953bd9ddd38e502a4c1acde to temp_image.jpg
+2025-07-02 10:46:06,535 - INFO - Downloaded media from https://preview.redd.it/36f5zmt6afaf1.jpg?width=1280&format=pjpg&auto=webp&s=df4b179f205b7a938a3ef8fc001b87ab19706c4f to temp_image.jpg
+2025-07-02 10:46:07,472 - INFO - Downloaded media from https://preview.redd.it/71i6c0z6afaf1.jpg?width=1280&format=pjpg&auto=webp&s=1b344c44ecb77331ae3de3116e01424e80b8729c to temp_image.jpg
+2025-07-02 10:46:08,300 - INFO - Downloaded media from https://preview.redd.it/8zlgyd47afaf1.jpg?width=1280&format=pjpg&auto=webp&s=2a27dfaf3a54c01d898cc9d39343b3cfa0ac54c3 to temp_image.jpg
+2025-07-02 10:46:09,878 - INFO - Posted content successfully. Tweet ID: 1940361344169267695
