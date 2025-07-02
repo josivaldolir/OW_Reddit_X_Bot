@@ -4016,3 +4016,10 @@ I couldnt find any links for playstation (your email invoice can be used as proo
 2025-07-02 01:16:20,089 - INFO - Downloaded media from https://preview.redd.it/ynt3f10gmcaf1.jpeg?auto=webp&s=a0e743889f9ab7d31ab5c1e287dcdf7c02fbbcb3 to temp_image.jpg
 2025-07-02 01:16:20,710 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-02 03:05:03,208 - INFO - Content: What do we think of Aatlis?
+Now that it's been around for a little while, what does everyone think of Aatlis? I've been maining Juno lately and she's been really fun here with all the quick cover, but wide sightlines for hitting juicy torpedos
+2025-07-02 03:05:03,208 - INFO - Image Paths: ['https://preview.redd.it/3zdrculldbaf1.jpeg?auto=webp&s=22b9ddf3b128ca0e4f8091b04d8be59eb3c50242']
+2025-07-02 03:05:03,208 - INFO - Video Path: 
+2025-07-02 03:05:03,446 - INFO - Downloaded media from https://preview.redd.it/3zdrculldbaf1.jpeg?auto=webp&s=22b9ddf3b128ca0e4f8091b04d8be59eb3c50242 to temp_image.jpg
+2025-07-02 03:05:04,227 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
