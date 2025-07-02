@@ -4029,3 +4029,10 @@ Too Many Requests
 2025-07-02 04:02:51,721 - INFO - Video Path: 
 2025-07-02 04:02:51,737 - INFO - Downloaded media from https://preview.redd.it/ynt3f10gmcaf1.jpeg?auto=webp&s=a0e743889f9ab7d31ab5c1e287dcdf7c02fbbcb3 to temp_image.jpg
 2025-07-02 04:02:53,151 - INFO - Posted content successfully. Tweet ID: 1940259856994509007
+2025-07-02 04:50:21,709 - INFO - Content: What overwatch opinion will get you downvoted like this?
+
+2025-07-02 04:50:21,709 - INFO - Image Paths: ['https://preview.redd.it/fpmw5rgd9baf1.jpeg?auto=webp&s=ebb5c542a9c630d25efabf629a355e1210c2ce55']
+2025-07-02 04:50:21,709 - INFO - Video Path: 
+2025-07-02 04:50:21,737 - INFO - Downloaded media from https://preview.redd.it/fpmw5rgd9baf1.jpeg?auto=webp&s=ebb5c542a9c630d25efabf629a355e1210c2ce55 to temp_image.jpg
+2025-07-02 04:50:22,312 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
