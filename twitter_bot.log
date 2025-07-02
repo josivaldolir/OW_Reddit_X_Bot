@@ -4079,3 +4079,10 @@ Remember: you can get 20 kills and still lose if the other team is doing better 
 2025-07-02 08:22:38,166 - INFO - Downloaded media from https://v.redd.it/p0n10vefneaf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-07-02 08:22:40,030 - INFO - Combined video and audio into temp_combined.mp4
 2025-07-02 08:22:48,693 - INFO - Posted content successfully. Tweet ID: 1940325269652611311
+2025-07-02 08:49:13,651 - INFO - Content: 50 MORE SKINS
+
+2025-07-02 08:49:13,651 - INFO - Image Paths: ['https://preview.redd.it/xvguhymrtbaf1.jpeg?auto=webp&s=c1dd02ec74735cf5bf7ce134ea41ef1c0f0971ba']
+2025-07-02 08:49:13,651 - INFO - Video Path: 
+2025-07-02 08:49:13,712 - INFO - Downloaded media from https://preview.redd.it/xvguhymrtbaf1.jpeg?auto=webp&s=c1dd02ec74735cf5bf7ce134ea41ef1c0f0971ba to temp_image.jpg
+2025-07-02 08:49:14,298 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
