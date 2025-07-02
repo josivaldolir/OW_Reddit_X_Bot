@@ -4120,3 +4120,12 @@ So cool
 2025-07-02 10:46:07,472 - INFO - Downloaded media from https://preview.redd.it/71i6c0z6afaf1.jpg?width=1280&format=pjpg&auto=webp&s=1b344c44ecb77331ae3de3116e01424e80b8729c to temp_image.jpg
 2025-07-02 10:46:08,300 - INFO - Downloaded media from https://preview.redd.it/8zlgyd47afaf1.jpg?width=1280&format=pjpg&auto=webp&s=2a27dfaf3a54c01d898cc9d39343b3cfa0ac54c3 to temp_image.jpg
 2025-07-02 10:46:09,878 - INFO - Posted content successfully. Tweet ID: 1940361344169267695
+2025-07-02 11:14:40,582 - INFO - Content: Dragon x overwatch
+So cool 
+2025-07-02 11:14:40,582 - INFO - Image Paths: ['https://preview.redd.it/3yvoxtp7kfaf1.jpg?width=1280&format=pjpg&auto=webp&s=4a4f1cf05070c7a57c06a45ff5e75868ec46c9fb', 'https://preview.redd.it/spyx6qz7kfaf1.jpg?width=1280&format=pjpg&auto=webp&s=6830aa500b51a77ef87f35d3f1a5b5f3a195e62b', 'https://preview.redd.it/t7xz2d48kfaf1.jpg?width=1280&format=pjpg&auto=webp&s=f06efa9c75e48dd0617226811fd87ba343ac0cd8', 'https://preview.redd.it/xh8d7398kfaf1.jpg?width=1280&format=pjpg&auto=webp&s=fc3c84372933af6273364818e33aca6a13e70473']
+2025-07-02 11:14:40,582 - INFO - Video Path: 
+2025-07-02 11:14:40,881 - INFO - Downloaded media from https://preview.redd.it/3yvoxtp7kfaf1.jpg?width=1280&format=pjpg&auto=webp&s=4a4f1cf05070c7a57c06a45ff5e75868ec46c9fb to temp_image.jpg
+2025-07-02 11:14:41,939 - INFO - Downloaded media from https://preview.redd.it/spyx6qz7kfaf1.jpg?width=1280&format=pjpg&auto=webp&s=6830aa500b51a77ef87f35d3f1a5b5f3a195e62b to temp_image.jpg
+2025-07-02 11:14:42,704 - INFO - Downloaded media from https://preview.redd.it/t7xz2d48kfaf1.jpg?width=1280&format=pjpg&auto=webp&s=f06efa9c75e48dd0617226811fd87ba343ac0cd8 to temp_image.jpg
+2025-07-02 11:14:43,722 - INFO - Downloaded media from https://preview.redd.it/xh8d7398kfaf1.jpg?width=1280&format=pjpg&auto=webp&s=fc3c84372933af6273364818e33aca6a13e70473 to temp_image.jpg
+2025-07-02 11:14:45,056 - INFO - Posted content successfully. Tweet ID: 1940368539099209866
