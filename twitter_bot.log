@@ -4643,3 +4643,11 @@ Certain heroes have underwhelming perks compared to others, a couple of examples
 2025-07-03 22:43:21,899 - INFO - Downloaded media from https://preview.redd.it/ron7klqqopaf1.jpeg?auto=webp&s=83af4d4351360b01455c40903ec2868fb894e5b3 to temp_image.jpg
 2025-07-03 22:43:22,878 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-03 23:16:11,999 - INFO - Content: D.va melee build my beloved
+(made by a friend who doesnt have enough internet points to post themselves)
+2025-07-03 23:16:11,999 - INFO - Image Paths: ['https://external-preview.redd.it/YjA4a2x1Z2FpcWFmMUbwHPJ4CLZOTWMZxeJhkFo-27DNwazx8Bx4pCkGzbu2.png?format=pjpg&auto=webp&s=4a92118874df08ffb03df346dc430da64fced2a7']
+2025-07-03 23:16:11,999 - INFO - Video Path: https://v.redd.it/bp9gqtgaiqaf1/DASH_1080.mp4?source=fallback
+2025-07-03 23:16:12,268 - INFO - Downloaded media from https://v.redd.it/bp9gqtgaiqaf1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-07-03 23:16:12,367 - INFO - Downloaded media from https://v.redd.it/bp9gqtgaiqaf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-07-03 23:16:14,944 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-03 23:16:24,815 - INFO - Posted content successfully. Tweet ID: 1940912540101341654
