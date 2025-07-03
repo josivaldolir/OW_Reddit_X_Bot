@@ -4651,3 +4651,11 @@ Too Many Requests
 2025-07-03 23:16:12,367 - INFO - Downloaded media from https://v.redd.it/bp9gqtgaiqaf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-07-03 23:16:14,944 - INFO - Combined video and audio into temp_combined.mp4
 2025-07-03 23:16:24,815 - INFO - Posted content successfully. Tweet ID: 1940912540101341654
+2025-07-03 23:40:04,282 - INFO - Content: If you could change any current perks for any hero, what would you replace it with?
+Certain heroes have underwhelming perks compared to others, a couple of examples is obviously Moira, Lifeweaver, etc. Interested in seeing what perks you guys would want changed in Overwatch!
+
+(Had to delete and repost due to incomplete description.)
+2025-07-03 23:40:04,282 - INFO - Image Paths: ['https://preview.redd.it/ron7klqqopaf1.jpeg?auto=webp&s=83af4d4351360b01455c40903ec2868fb894e5b3']
+2025-07-03 23:40:04,282 - INFO - Video Path: 
+2025-07-03 23:40:04,440 - INFO - Downloaded media from https://preview.redd.it/ron7klqqopaf1.jpeg?auto=webp&s=83af4d4351360b01455c40903ec2868fb894e5b3 to temp_image.jpg
+2025-07-03 23:40:05,563 - INFO - Posted content successfully. Tweet ID: 1940918498726723705
