@@ -4381,3 +4381,13 @@ They either make an Over the Top/Funny face, a Normal/Realistic face, a Weirdly 
 2025-07-03 06:25:18,275 - INFO - Downloaded media from https://preview.redd.it/ugobpwx5ilaf1.jpg?width=1109&format=pjpg&auto=webp&s=889679095cab18090c29a0e58c69df8a0ff11e9e to temp_image.jpg
 2025-07-03 06:25:19,071 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-03 06:52:40,809 - INFO - Content: Sometimes I wonder what’s the dev team’s thought process is when creating death faces
+They either make an Over the Top/Funny face, a Normal/Realistic face, a Weirdly lewd looking face, or just straight up don’t bother lol (Also it seems that they put more effort into female characters than in males which is… weird)
+2025-07-03 06:52:40,809 - INFO - Image Paths: ['https://preview.redd.it/nmpvyxx5ilaf1.jpg?width=363&format=pjpg&auto=webp&s=897ba06c9895ccb6729ea8437b12510edf5f0965', 'https://preview.redd.it/wcnwgxx5ilaf1.jpg?width=1015&format=pjpg&auto=webp&s=ea2c886747e3cf93b7fdedf5ce1eb95b2341cb5d', 'https://preview.redd.it/8i6xmwx5ilaf1.jpg?width=861&format=pjpg&auto=webp&s=fbbf27f0543adb1d8d22f6c9e505250e6c9b61a0', 'https://preview.redd.it/ugobpwx5ilaf1.jpg?width=1109&format=pjpg&auto=webp&s=889679095cab18090c29a0e58c69df8a0ff11e9e']
+2025-07-03 06:52:40,809 - INFO - Video Path: 
+2025-07-03 06:52:40,936 - INFO - Downloaded media from https://preview.redd.it/nmpvyxx5ilaf1.jpg?width=363&format=pjpg&auto=webp&s=897ba06c9895ccb6729ea8437b12510edf5f0965 to temp_image.jpg
+2025-07-03 06:52:41,466 - INFO - Downloaded media from https://preview.redd.it/wcnwgxx5ilaf1.jpg?width=1015&format=pjpg&auto=webp&s=ea2c886747e3cf93b7fdedf5ce1eb95b2341cb5d to temp_image.jpg
+2025-07-03 06:52:41,998 - INFO - Downloaded media from https://preview.redd.it/8i6xmwx5ilaf1.jpg?width=861&format=pjpg&auto=webp&s=fbbf27f0543adb1d8d22f6c9e505250e6c9b61a0 to temp_image.jpg
+2025-07-03 06:52:42,547 - INFO - Downloaded media from https://preview.redd.it/ugobpwx5ilaf1.jpg?width=1109&format=pjpg&auto=webp&s=889679095cab18090c29a0e58c69df8a0ff11e9e to temp_image.jpg
+2025-07-03 06:52:43,187 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
