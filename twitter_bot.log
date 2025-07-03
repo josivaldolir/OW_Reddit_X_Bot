@@ -4362,3 +4362,12 @@ short clip from full video : [https://youtu.be/Ndo546PRmnY?si=a7uGDhUySiZrGCLl](
 2025-07-03 05:20:47,163 - INFO - Combined video and audio into temp_combined.mp4
 2025-07-03 05:20:54,795 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-03 05:46:09,938 - INFO - Content: U ever roll so hard the enemy team flames eachother and gives up lol
+short clip from full video : [https://youtu.be/Ndo546PRmnY?si=a7uGDhUySiZrGCLl](https://youtu.be/Ndo546PRmnY?si=a7uGDhUySiZrGCLl) :)
+2025-07-03 05:46:09,938 - INFO - Image Paths: ['https://external-preview.redd.it/MG9xbzQ3MWRuamFmMfJ_VcT9GbLwT-e0AJTvQhY597S_LCQzbiYaPvaK3DCY.png?format=pjpg&auto=webp&s=c07f1ef667298c2a6398a15541f658190689211c']
+2025-07-03 05:46:09,938 - INFO - Video Path: https://v.redd.it/ggn769f7njaf1/DASH_1080.mp4?source=fallback
+2025-07-03 05:46:10,175 - INFO - Downloaded media from https://v.redd.it/ggn769f7njaf1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-07-03 05:46:10,320 - INFO - Downloaded media from https://v.redd.it/ggn769f7njaf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-07-03 05:46:10,594 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-03 05:46:20,475 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
