@@ -4593,3 +4593,12 @@ Genji as Silver Chariot. Do not share w/o premission on other social medias! –ù–
 2025-07-03 19:38:23,771 - INFO - Downloaded media from https://preview.redd.it/5l1cpobohoaf1.jpg?width=6500&format=pjpg&auto=webp&s=69d6a378a09b3d94fb8f40a4fd851f430be19b6b to temp_image.jpg
 2025-07-03 19:38:26,342 - INFO - Downloaded media from https://preview.redd.it/n16en5zohoaf1.jpg?width=6500&format=pjpg&auto=webp&s=e7ca672b6f2c9c1acc588826d2e3af073a8a275f to temp_image.jpg
 2025-07-03 19:38:30,356 - INFO - Posted content successfully. Tweet ID: 1940857698532446680
+2025-07-03 20:17:00,980 - INFO - Content: I got the secret ending
+And I guess his was the cannon ending
+2025-07-03 20:17:00,980 - INFO - Image Paths: ['https://external-preview.redd.it/a3VzMWcwbzF1bmFmMTZ-Sn7c48RiE1XtwQ-ld5d7jFaUO3K1CAkTJIL1muoe.png?format=pjpg&auto=webp&s=82e11ca28d7c8842e7d87188e40d0d917bfd2314']
+2025-07-03 20:17:00,980 - INFO - Video Path: https://v.redd.it/woxvohj1unaf1/DASH_1080.mp4?source=fallback
+2025-07-03 20:17:01,159 - INFO - Downloaded media from https://v.redd.it/woxvohj1unaf1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-07-03 20:17:01,277 - INFO - Downloaded media from https://v.redd.it/woxvohj1unaf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-07-03 20:17:01,785 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-03 20:17:09,087 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
