@@ -4460,3 +4460,9 @@ Too Many Requests
 2025-07-03 10:46:28,720 - INFO - Combined video and audio into temp_combined.mp4
 2025-07-03 10:47:20,735 - ERROR - Failed to post content: 403 Forbidden
 This user is not allowed to post a video longer than 2 minutes.
+2025-07-03 11:14:57,463 - INFO - Content: Also Harambe's Incident as well
+
+2025-07-03 11:14:57,463 - INFO - Image Paths: ['https://preview.redd.it/4jvacmt20naf1.jpeg?auto=webp&s=e80e6703da6c84cb07db67c6282c780553ff4341']
+2025-07-03 11:14:57,463 - INFO - Video Path: 
+2025-07-03 11:14:57,546 - INFO - Downloaded media from https://preview.redd.it/4jvacmt20naf1.jpeg?auto=webp&s=e80e6703da6c84cb07db67c6282c780553ff4341 to temp_image.jpg
+2025-07-03 11:14:58,298 - INFO - Posted content successfully. Tweet ID: 1940730983390892505
