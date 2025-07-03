@@ -4500,3 +4500,11 @@ Overall what I find funny is that people tend to ban who they don't like playing
 2025-07-03 13:49:55,344 - INFO - Video Path: 
 2025-07-03 13:49:55,495 - INFO - Downloaded media from https://preview.redd.it/93azsocjrnaf1.png?auto=webp&s=512bbdbb0ebf16f783c306e6ea9f6af301dc7206 to temp_image.jpg
 2025-07-03 13:49:58,276 - INFO - Posted content successfully. Tweet ID: 1940769983614644633
+2025-07-03 14:16:41,079 - INFO - Content: Y'ALL look at how cleanly this Rein blocked my nade
+
+2025-07-03 14:16:41,079 - INFO - Image Paths: ['https://external-preview.redd.it/dXo4YnJncmZsbmFmMWQF5o5GkA_3XLkgppIVMqv2LmW8qmO1BOi2oH4tf3mu.png?format=pjpg&auto=webp&s=fd926a833009294681de94b477ca9e6e0f493c12']
+2025-07-03 14:16:41,079 - INFO - Video Path: https://v.redd.it/jmahzdrflnaf1/DASH_1080.mp4?source=fallback
+2025-07-03 14:16:41,544 - INFO - Downloaded media from https://v.redd.it/jmahzdrflnaf1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-07-03 14:16:41,638 - INFO - Downloaded media from https://v.redd.it/jmahzdrflnaf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-07-03 14:16:43,931 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-03 14:16:51,097 - INFO - Posted content successfully. Tweet ID: 1940776754857295959
