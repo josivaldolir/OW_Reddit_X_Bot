@@ -4522,3 +4522,11 @@ Overall what I find funny is that people tend to ban who they don't like playing
 2025-07-03 15:17:11,017 - INFO - Video Path: 
 2025-07-03 15:17:11,111 - INFO - Downloaded media from https://preview.redd.it/ydon7l23doaf1.jpeg?auto=webp&s=4ac81677a18b539186b8ed7982d1aeac122af1b4 to temp_image.jpg
 2025-07-03 15:17:13,276 - INFO - Posted content successfully. Tweet ID: 1940791945527251384
+2025-07-03 15:43:04,788 - INFO - Content: Just when I thought I could actually play this map for the first time...
+I guess there's really no reason to play this new season...
+2025-07-03 15:43:04,788 - INFO - Image Paths: ['https://external-preview.redd.it/Z3AxbDBjNnY2bWFmMREWLrdhZI7S0fXAOiYzDW9tQoithX6y66-wBYL7m0bc.png?format=pjpg&auto=webp&s=40a50cc1b8aa3dc9ded77ae0cd28f36063684a49']
+2025-07-03 15:43:04,788 - INFO - Video Path: https://v.redd.it/jjccda6v6maf1/DASH_1080.mp4?source=fallback
+2025-07-03 15:43:04,820 - INFO - Downloaded media from https://v.redd.it/jjccda6v6maf1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-07-03 15:43:04,855 - INFO - Downloaded media from https://v.redd.it/jjccda6v6maf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-07-03 15:43:05,188 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-03 15:43:09,467 - INFO - Posted content successfully. Tweet ID: 1940798474540257787
