@@ -4484,3 +4484,9 @@ This user is not allowed to post a video longer than 2 minutes.
 2025-07-03 12:34:14,419 - INFO - Combined video and audio into temp_combined.mp4
 2025-07-03 12:34:52,781 - ERROR - Failed to post content: 403 Forbidden
 This user is not allowed to post a video longer than 2 minutes.
+2025-07-03 13:29:58,040 - INFO - Content: Going deep into the enemy team just means you can fire in any direction
+
+2025-07-03 13:29:58,040 - INFO - Image Paths: ['https://preview.redd.it/93aynrx9inaf1.png?auto=webp&s=6e7eed0babe0bdf2a708b116a093cb0dd3e722c9']
+2025-07-03 13:29:58,040 - INFO - Video Path: 
+2025-07-03 13:29:58,065 - INFO - Downloaded media from https://preview.redd.it/93aynrx9inaf1.png?auto=webp&s=6e7eed0babe0bdf2a708b116a093cb0dd3e722c9 to temp_image.jpg
+2025-07-03 13:29:59,355 - INFO - Posted content successfully. Tweet ID: 1940764960310559108
