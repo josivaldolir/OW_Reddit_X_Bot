@@ -4451,3 +4451,12 @@ This user is not allowed to post a video longer than 2 minutes.
 2025-07-03 10:18:24,821 - INFO - Combined video and audio into temp_combined.mp4
 2025-07-03 10:18:53,051 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-03 10:46:26,184 - INFO - Content: Some Perk concepts I made in Workshop
+
+2025-07-03 10:46:26,184 - INFO - Image Paths: ['https://external-preview.redd.it/YXNscDUyNjdlbGFmMU7kGyROLZQsMqUJUSfAP13GCZqWU8v0Y4wVjwMYOk2h.png?format=pjpg&auto=webp&s=1244205e2346b63a9a0264ed6bd35a61645dc977']
+2025-07-03 10:46:26,184 - INFO - Video Path: https://v.redd.it/440vv667elaf1/DASH_1080.mp4?source=fallback
+2025-07-03 10:46:27,325 - INFO - Downloaded media from https://v.redd.it/440vv667elaf1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-07-03 10:46:28,115 - INFO - Downloaded media from https://v.redd.it/440vv667elaf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-07-03 10:46:28,720 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-03 10:47:20,735 - ERROR - Failed to post content: 403 Forbidden
+This user is not allowed to post a video longer than 2 minutes.
