@@ -4615,3 +4615,10 @@ I never care enough to say anything about but I feel like I gotta
 2025-07-03 20:41:24,246 - INFO - Downloaded media from https://preview.redd.it/j4r52z1uvpaf1.jpeg?auto=webp&s=bde52c603ca99f3439057201ceb6ebb258aa5e60 to temp_image.jpg
 2025-07-03 20:41:26,169 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-03 21:15:15,825 - INFO - Content: Stalling in overtime as Mei
+
+2025-07-03 21:15:15,825 - INFO - Image Paths: ['https://preview.redd.it/wri6ht4rqpaf1.jpeg?auto=webp&s=6b7f439021a19a3b1d2731b9f9b15ac35980c886']
+2025-07-03 21:15:15,826 - INFO - Video Path: 
+2025-07-03 21:15:15,854 - INFO - Downloaded media from https://preview.redd.it/wri6ht4rqpaf1.jpeg?auto=webp&s=6b7f439021a19a3b1d2731b9f9b15ac35980c886 to temp_image.jpg
+2025-07-03 21:15:17,094 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
