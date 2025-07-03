@@ -4516,3 +4516,9 @@ Overall what I find funny is that people tend to ban who they don't like playing
 2025-07-03 14:43:38,293 - INFO - Downloaded media from https://v.redd.it/o15e9xz60oaf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-07-03 14:43:40,240 - INFO - Combined video and audio into temp_combined.mp4
 2025-07-03 14:43:45,746 - INFO - Posted content successfully. Tweet ID: 1940783527202529747
+2025-07-03 15:17:11,016 - INFO - Content: The cavalry's here!
+
+2025-07-03 15:17:11,017 - INFO - Image Paths: ['https://preview.redd.it/ydon7l23doaf1.jpeg?auto=webp&s=4ac81677a18b539186b8ed7982d1aeac122af1b4']
+2025-07-03 15:17:11,017 - INFO - Video Path: 
+2025-07-03 15:17:11,111 - INFO - Downloaded media from https://preview.redd.it/ydon7l23doaf1.jpeg?auto=webp&s=4ac81677a18b539186b8ed7982d1aeac122af1b4 to temp_image.jpg
+2025-07-03 15:17:13,276 - INFO - Posted content successfully. Tweet ID: 1940791945527251384
