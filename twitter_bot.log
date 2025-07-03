@@ -4415,3 +4415,12 @@ It's a shame the voting is not democratic.
 2025-07-03 08:21:49,525 - INFO - Downloaded media from https://preview.redd.it/g76ci820lkaf1.png?auto=webp&s=16f420b96753cba5e13a04eefa5cebe9b24dc46a to temp_image.jpg
 2025-07-03 08:21:50,155 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-03 08:48:00,117 - INFO - Content: Some Perk concepts I made in Workshop
+
+2025-07-03 08:48:00,117 - INFO - Image Paths: ['https://external-preview.redd.it/YXNscDUyNjdlbGFmMU7kGyROLZQsMqUJUSfAP13GCZqWU8v0Y4wVjwMYOk2h.png?format=pjpg&auto=webp&s=1244205e2346b63a9a0264ed6bd35a61645dc977']
+2025-07-03 08:48:00,117 - INFO - Video Path: https://v.redd.it/440vv667elaf1/DASH_1080.mp4?source=fallback
+2025-07-03 08:48:01,605 - INFO - Downloaded media from https://v.redd.it/440vv667elaf1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-07-03 08:48:02,391 - INFO - Downloaded media from https://v.redd.it/440vv667elaf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-07-03 08:48:04,731 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-03 08:48:28,604 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
