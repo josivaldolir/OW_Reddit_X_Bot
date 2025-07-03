@@ -4329,3 +4329,11 @@ short clip from full video : [https://youtu.be/Ndo546PRmnY?si=a7uGDhUySiZrGCLl](
 2025-07-03 01:16:17,860 - INFO - Combined video and audio into temp_combined.mp4
 2025-07-03 01:16:25,126 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-03 03:08:08,553 - INFO - Content: Yeah that’s not a stadium power up
+I was the Genji that got killed first by him. Immediately seeing the killcam, I called it out and left but still was able to see match chat? Enemy team said it was a power-up, me not being that versed in stadium(sub 5 hours), I believed them. Glad to see I wasn’t tripping upon review. 
+2025-07-03 03:08:08,553 - INFO - Image Paths: ['https://external-preview.redd.it/OGk5c2s0dnB6Z2FmMfKE80fosnUU99NDIVuamkLh_4f-EPeVJnh1a32WFGhr.png?format=pjpg&auto=webp&s=15fc8aad7314651071f3a384690d461077d0c84a']
+2025-07-03 03:08:08,553 - INFO - Video Path: https://v.redd.it/bijanp3qzgaf1/DASH_1080.mp4?source=fallback
+2025-07-03 03:08:09,748 - INFO - Downloaded media from https://v.redd.it/bijanp3qzgaf1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-07-03 03:08:09,971 - INFO - Downloaded media from https://v.redd.it/bijanp3qzgaf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-07-03 03:08:12,401 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-03 03:08:29,048 - INFO - Posted content successfully. Tweet ID: 1940608554295349432
