@@ -4391,3 +4391,11 @@ They either make an Over the Top/Funny face, a Normal/Realistic face, a Weirdly 
 2025-07-03 06:52:42,547 - INFO - Downloaded media from https://preview.redd.it/ugobpwx5ilaf1.jpg?width=1109&format=pjpg&auto=webp&s=889679095cab18090c29a0e58c69df8a0ff11e9e to temp_image.jpg
 2025-07-03 06:52:43,187 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-03 07:17:38,499 - INFO - Content: U ever roll so hard the enemy team flames eachother and gives up lol
+short clip from full video : [https://youtu.be/Ndo546PRmnY?si=a7uGDhUySiZrGCLl](https://youtu.be/Ndo546PRmnY?si=a7uGDhUySiZrGCLl) :)
+2025-07-03 07:17:38,499 - INFO - Image Paths: ['https://external-preview.redd.it/MG9xbzQ3MWRuamFmMfJ_VcT9GbLwT-e0AJTvQhY597S_LCQzbiYaPvaK3DCY.png?format=pjpg&auto=webp&s=c07f1ef667298c2a6398a15541f658190689211c']
+2025-07-03 07:17:38,499 - INFO - Video Path: https://v.redd.it/ggn769f7njaf1/DASH_1080.mp4?source=fallback
+2025-07-03 07:17:39,590 - INFO - Downloaded media from https://v.redd.it/ggn769f7njaf1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-07-03 07:17:39,732 - INFO - Downloaded media from https://v.redd.it/ggn769f7njaf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-07-03 07:17:40,157 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-03 07:17:50,811 - INFO - Posted content successfully. Tweet ID: 1940671308666441835
