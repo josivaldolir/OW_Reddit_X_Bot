@@ -4572,3 +4572,9 @@ This is one of the biggest W I've seen in the gaming industy for a long time bec
 2025-07-03 17:43:17,063 - INFO - Downloaded media from https://preview.redd.it/hl0sadc2yoaf1.png?auto=webp&s=9ef98a5b056cc3af4089e7301d0eac2a2b862fbc to temp_image.jpg
 2025-07-03 17:43:18,063 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-03 18:21:46,948 - INFO - Content: Queuing for all roles and getting picked as Support 33,550,336 times
+
+2025-07-03 18:21:46,948 - INFO - Image Paths: ['https://preview.redd.it/hl0sadc2yoaf1.png?auto=webp&s=9ef98a5b056cc3af4089e7301d0eac2a2b862fbc']
+2025-07-03 18:21:46,948 - INFO - Video Path: 
+2025-07-03 18:21:47,082 - INFO - Downloaded media from https://preview.redd.it/hl0sadc2yoaf1.png?auto=webp&s=9ef98a5b056cc3af4089e7301d0eac2a2b862fbc to temp_image.jpg
+2025-07-03 18:21:49,680 - INFO - Posted content successfully. Tweet ID: 1940838398849437924
