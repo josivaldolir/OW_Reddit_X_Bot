@@ -4628,3 +4628,9 @@ Too Many Requests
 2025-07-03 21:38:44,763 - INFO - Video Path: 
 2025-07-03 21:38:44,937 - INFO - Downloaded media from https://preview.redd.it/wri6ht4rqpaf1.jpeg?auto=webp&s=6b7f439021a19a3b1d2731b9f9b15ac35980c886 to temp_image.jpg
 2025-07-03 21:38:47,194 - INFO - Posted content successfully. Tweet ID: 1940887969793249378
+2025-07-03 22:15:41,753 - INFO - Content: The Stadium matchmaking is somehow even worse than in the main game
+
+2025-07-03 22:15:41,753 - INFO - Image Paths: ['https://preview.redd.it/ppqelmetxpaf1.jpeg?auto=webp&s=be3f1a349c3d7d36089a34c6f6b392622c6ed1c9']
+2025-07-03 22:15:41,753 - INFO - Video Path: 
+2025-07-03 22:15:41,807 - INFO - Downloaded media from https://preview.redd.it/ppqelmetxpaf1.jpeg?auto=webp&s=be3f1a349c3d7d36089a34c6f6b392622c6ed1c9 to temp_image.jpg
+2025-07-03 22:15:42,839 - INFO - Posted content successfully. Tweet ID: 1940897264492552604
