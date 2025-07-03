@@ -4320,3 +4320,12 @@ I was the Genji that got killed first by him. Immediately seeing the killcam, I 
 2025-07-02 23:40:46,582 - INFO - Combined video and audio into temp_combined.mp4
 2025-07-02 23:40:53,535 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-03 01:16:16,748 - INFO - Content: U ever roll so hard the enemy team flames eachother and gives up lol
+short clip from full video : [https://youtu.be/Ndo546PRmnY?si=a7uGDhUySiZrGCLl](https://youtu.be/Ndo546PRmnY?si=a7uGDhUySiZrGCLl) :)
+2025-07-03 01:16:16,748 - INFO - Image Paths: ['https://external-preview.redd.it/MG9xbzQ3MWRuamFmMfJ_VcT9GbLwT-e0AJTvQhY597S_LCQzbiYaPvaK3DCY.png?format=pjpg&auto=webp&s=c07f1ef667298c2a6398a15541f658190689211c']
+2025-07-03 01:16:16,748 - INFO - Video Path: https://v.redd.it/ggn769f7njaf1/DASH_1080.mp4?source=fallback
+2025-07-03 01:16:17,067 - INFO - Downloaded media from https://v.redd.it/ggn769f7njaf1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-07-03 01:16:17,238 - INFO - Downloaded media from https://v.redd.it/ggn769f7njaf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-07-03 01:16:17,860 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-03 01:16:25,126 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
