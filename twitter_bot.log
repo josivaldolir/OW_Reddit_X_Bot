@@ -4408,3 +4408,10 @@ They either make an Over the Top/Funny face, a Normal/Realistic face, a Weirdly 
 2025-07-03 07:40:23,103 - INFO - Downloaded media from https://preview.redd.it/8i6xmwx5ilaf1.jpg?width=861&format=pjpg&auto=webp&s=fbbf27f0543adb1d8d22f6c9e505250e6c9b61a0 to temp_image.jpg
 2025-07-03 07:40:23,629 - INFO - Downloaded media from https://preview.redd.it/ugobpwx5ilaf1.jpg?width=1109&format=pjpg&auto=webp&s=889679095cab18090c29a0e58c69df8a0ff11e9e to temp_image.jpg
 2025-07-03 07:40:24,667 - INFO - Posted content successfully. Tweet ID: 1940676987124887573
+2025-07-03 08:21:49,405 - INFO - Content: What do you think of Attlis? I don't know, I've never played it.
+It's a shame the voting is not democratic.
+2025-07-03 08:21:49,405 - INFO - Image Paths: ['https://preview.redd.it/g76ci820lkaf1.png?auto=webp&s=16f420b96753cba5e13a04eefa5cebe9b24dc46a']
+2025-07-03 08:21:49,405 - INFO - Video Path: 
+2025-07-03 08:21:49,525 - INFO - Downloaded media from https://preview.redd.it/g76ci820lkaf1.png?auto=webp&s=16f420b96753cba5e13a04eefa5cebe9b24dc46a to temp_image.jpg
+2025-07-03 08:21:50,155 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
