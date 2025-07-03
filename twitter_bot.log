@@ -4466,3 +4466,12 @@ This user is not allowed to post a video longer than 2 minutes.
 2025-07-03 11:14:57,463 - INFO - Video Path: 
 2025-07-03 11:14:57,546 - INFO - Downloaded media from https://preview.redd.it/4jvacmt20naf1.jpeg?auto=webp&s=e80e6703da6c84cb07db67c6282c780553ff4341 to temp_image.jpg
 2025-07-03 11:14:58,298 - INFO - Posted content successfully. Tweet ID: 1940730983390892505
+2025-07-03 11:39:18,954 - INFO - Content: Some Perk concepts I made in Workshop
+
+2025-07-03 11:39:18,955 - INFO - Image Paths: ['https://external-preview.redd.it/YXNscDUyNjdlbGFmMU7kGyROLZQsMqUJUSfAP13GCZqWU8v0Y4wVjwMYOk2h.png?format=pjpg&auto=webp&s=1244205e2346b63a9a0264ed6bd35a61645dc977']
+2025-07-03 11:39:18,955 - INFO - Video Path: https://v.redd.it/440vv667elaf1/DASH_1080.mp4?source=fallback
+2025-07-03 11:39:20,078 - INFO - Downloaded media from https://v.redd.it/440vv667elaf1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-07-03 11:39:21,304 - INFO - Downloaded media from https://v.redd.it/440vv667elaf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-07-03 11:39:26,356 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-03 11:39:47,234 - ERROR - Failed to post content: 403 Forbidden
+This user is not allowed to post a video longer than 2 minutes.
