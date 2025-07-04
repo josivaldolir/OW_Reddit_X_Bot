@@ -4808,3 +4808,12 @@ I hope you all like it!
 2025-07-04 11:38:00,625 - INFO - Downloaded media from https://preview.redd.it/qxa16iow3raf1.jpeg?auto=webp&s=9ae7097561411543f58e27b9ab5b2726b6024989 to temp_image.jpg
 2025-07-04 11:38:01,654 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-04 12:31:57,682 - INFO - Content: I believe the recording of death sounds went something like this:
+
+2025-07-04 12:31:57,682 - INFO - Image Paths: ['https://preview.redd.it/9nsakxfv4uaf1.jpg?width=1636&format=pjpg&auto=webp&s=88e5a75aacb0d3f68a90bb38f9aae217acc3f6ee', 'https://preview.redd.it/foe89xfv4uaf1.jpg?width=1636&format=pjpg&auto=webp&s=42def197761f957d2ac424d513b7b5cab5dc5fde', 'https://preview.redd.it/ktnw4xfv4uaf1.jpg?width=1636&format=pjpg&auto=webp&s=0b76f074c4a7ca4ff69e01674af0e0557d46ab70', 'https://preview.redd.it/pf4cixfv4uaf1.jpg?width=1636&format=pjpg&auto=webp&s=255d950dd5f67ad2523a3035ddbe7e0cf3c799a6']
+2025-07-04 12:31:57,682 - INFO - Video Path: 
+2025-07-04 12:31:57,772 - INFO - Downloaded media from https://preview.redd.it/9nsakxfv4uaf1.jpg?width=1636&format=pjpg&auto=webp&s=88e5a75aacb0d3f68a90bb38f9aae217acc3f6ee to temp_image.jpg
+2025-07-04 12:31:59,077 - INFO - Downloaded media from https://preview.redd.it/foe89xfv4uaf1.jpg?width=1636&format=pjpg&auto=webp&s=42def197761f957d2ac424d513b7b5cab5dc5fde to temp_image.jpg
+2025-07-04 12:32:00,246 - INFO - Downloaded media from https://preview.redd.it/ktnw4xfv4uaf1.jpg?width=1636&format=pjpg&auto=webp&s=0b76f074c4a7ca4ff69e01674af0e0557d46ab70 to temp_image.jpg
+2025-07-04 12:32:01,432 - INFO - Downloaded media from https://preview.redd.it/pf4cixfv4uaf1.jpg?width=1636&format=pjpg&auto=webp&s=255d950dd5f67ad2523a3035ddbe7e0cf3c799a6 to temp_image.jpg
+2025-07-04 12:32:03,058 - INFO - Posted content successfully. Tweet ID: 1941112767668437494
