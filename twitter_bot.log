@@ -4667,3 +4667,11 @@ Certain heroes have underwhelming perks compared to others, a couple of examples
 2025-07-04 01:16:27,259 - INFO - Downloaded media from https://v.redd.it/9ztv6vxkjqaf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-07-04 01:16:29,418 - INFO - Combined video and audio into temp_combined.mp4
 2025-07-04 01:16:33,932 - INFO - Posted content successfully. Tweet ID: 1940942777488998847
+2025-07-04 03:05:34,527 - INFO - Content: Longest uncontested push on payload?
+I've never seen such a bloodthirsty team so completely ignorant of the objective. 
+2025-07-04 03:05:34,527 - INFO - Image Paths: ['https://external-preview.redd.it/aHVnazFlNDQ2cWFmMSM-yF60NANoxkwrUH4VKDcoklqrkNhl--1J-69rpg8j.png?format=pjpg&auto=webp&s=1178d8ae9d8985de2232224fb665e28e1a09393a']
+2025-07-04 03:05:34,527 - INFO - Video Path: https://v.redd.it/q136ed446qaf1/DASH_1080.mp4?source=fallback
+2025-07-04 03:05:35,024 - INFO - Downloaded media from https://v.redd.it/q136ed446qaf1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-07-04 03:05:35,195 - INFO - Downloaded media from https://v.redd.it/q136ed446qaf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-07-04 03:05:35,648 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-04 03:06:02,172 - INFO - Posted content successfully. Tweet ID: 1940970326214823946
