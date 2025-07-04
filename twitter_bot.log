@@ -4723,3 +4723,13 @@ Too Many Requests
 2025-07-04 07:17:23,200 - INFO - Downloaded media from https://v.redd.it/zx2fed1isqaf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-07-04 07:17:26,492 - INFO - Combined video and audio into temp_combined.mp4
 2025-07-04 07:17:38,779 - INFO - Posted content successfully. Tweet ID: 1941033646372409365
+2025-07-04 07:41:05,144 - INFO - Content: Freja Gothic Skin Concept
+I’ve been a certified Freja main ever since she released so I wanted to take some time and design a skin for her! 
+
+I hope you all like it! 
+
+2025-07-04 07:41:05,144 - INFO - Image Paths: ['https://preview.redd.it/qxa16iow3raf1.jpeg?auto=webp&s=9ae7097561411543f58e27b9ab5b2726b6024989']
+2025-07-04 07:41:05,144 - INFO - Video Path: 
+2025-07-04 07:41:05,201 - INFO - Downloaded media from https://preview.redd.it/qxa16iow3raf1.jpeg?auto=webp&s=9ae7097561411543f58e27b9ab5b2726b6024989 to temp_image.jpg
+2025-07-04 07:41:06,229 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
