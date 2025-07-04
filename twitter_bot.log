@@ -4823,3 +4823,11 @@ Too Many Requests
 2025-07-04 13:28:59,907 - INFO - Video Path: 
 2025-07-04 13:29:00,096 - INFO - Downloaded media from https://preview.redd.it/iwrn8l7iuuaf1.jpeg?auto=webp&s=86f4b87c5d3f4c3a6b4571a4f834f7ca798a3e0c to temp_image.jpg
 2025-07-04 13:29:02,353 - INFO - Posted content successfully. Tweet ID: 1941127108291391618
+2025-07-04 13:48:48,344 - INFO - Content: forrr geelouri
+
+2025-07-04 13:48:48,344 - INFO - Image Paths: ['https://external-preview.redd.it/anh2bDhseGV3dWFmMR-AJ18dOQQNN0X0F5qR3QcFmlvYwtmxV5xCkKA7gmqE.png?format=pjpg&auto=webp&s=41fa89e80231ce259c67594daa060e76c566f5b7']
+2025-07-04 13:48:48,344 - INFO - Video Path: https://v.redd.it/cxtvl0wewuaf1/DASH_480.mp4?source=fallback
+2025-07-04 13:48:48,479 - INFO - Downloaded media from https://v.redd.it/cxtvl0wewuaf1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-07-04 13:48:48,503 - INFO - Downloaded media from https://v.redd.it/cxtvl0wewuaf1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-07-04 13:48:50,722 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-04 13:48:56,583 - INFO - Posted content successfully. Tweet ID: 1941132119364731313
