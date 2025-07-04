@@ -4743,3 +4743,13 @@ I hope you all like it!
 2025-07-04 08:22:18,058 - INFO - Downloaded media from https://preview.redd.it/qxa16iow3raf1.jpeg?auto=webp&s=9ae7097561411543f58e27b9ab5b2726b6024989 to temp_image.jpg
 2025-07-04 08:22:19,191 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-04 08:47:41,813 - INFO - Content: Freja Gothic Skin Concept
+I’ve been a certified Freja main ever since she released so I wanted to take some time and design a skin for her! 
+
+I hope you all like it! 
+
+2025-07-04 08:47:41,813 - INFO - Image Paths: ['https://preview.redd.it/qxa16iow3raf1.jpeg?auto=webp&s=9ae7097561411543f58e27b9ab5b2726b6024989']
+2025-07-04 08:47:41,813 - INFO - Video Path: 
+2025-07-04 08:47:41,989 - INFO - Downloaded media from https://preview.redd.it/qxa16iow3raf1.jpeg?auto=webp&s=9ae7097561411543f58e27b9ab5b2726b6024989 to temp_image.jpg
+2025-07-04 08:47:42,922 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
