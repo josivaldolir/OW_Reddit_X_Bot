@@ -4709,3 +4709,9 @@ Too Many Requests
 2025-07-04 06:23:56,176 - INFO - Downloaded media from https://external-preview.redd.it/fV4DJkYJZBBnQvlf_EK_Ce4ihoXex6vJgh0IQGwEr_A.png?auto=webp&s=5c470a8a009cc2606d2110e7fa60de20a5baedcc to temp_image.jpg
 2025-07-04 06:23:56,804 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-04 06:52:13,124 - INFO - Content: It's me, I'm the Genji
+
+2025-07-04 06:52:13,124 - INFO - Image Paths: ['https://external-preview.redd.it/fV4DJkYJZBBnQvlf_EK_Ce4ihoXex6vJgh0IQGwEr_A.png?auto=webp&s=5c470a8a009cc2606d2110e7fa60de20a5baedcc']
+2025-07-04 06:52:13,124 - INFO - Video Path: 
+2025-07-04 06:52:13,297 - INFO - Downloaded media from https://external-preview.redd.it/fV4DJkYJZBBnQvlf_EK_Ce4ihoXex6vJgh0IQGwEr_A.png?auto=webp&s=5c470a8a009cc2606d2110e7fa60de20a5baedcc to temp_image.jpg
+2025-07-04 06:52:14,471 - INFO - Posted content successfully. Tweet ID: 1941027252566888668
