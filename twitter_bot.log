@@ -4891,3 +4891,12 @@ Too Many Requests
 2025-07-04 16:46:52,017 - INFO - Combined video and audio into temp_combined.mp4
 2025-07-04 16:47:01,724 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-04 17:13:35,354 - INFO - Content: A debate between men
+
+2025-07-04 17:13:35,354 - INFO - Image Paths: ['https://external-preview.redd.it/aXpyYzkxbzgzdmFmMSkA1IaH_bqSPuDju_ZeCuLgo9jEuY7mms6BAvHpLoGV.png?format=pjpg&auto=webp&s=8adb41b568dd7be2b5394df98005662c0c8f8650']
+2025-07-04 17:13:35,354 - INFO - Video Path: https://v.redd.it/vxrtw0o83vaf1/DASH_1080.mp4?source=fallback
+2025-07-04 17:13:35,736 - INFO - Downloaded media from https://v.redd.it/vxrtw0o83vaf1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-07-04 17:13:35,811 - INFO - Downloaded media from https://v.redd.it/vxrtw0o83vaf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-07-04 17:13:39,313 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-04 17:13:45,375 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
