@@ -4762,3 +4762,12 @@ Twitter is lighting him up about it so hopefully he actually sees.
 2025-07-04 09:17:33,909 - INFO - Image Paths: []
 2025-07-04 09:17:33,909 - INFO - Video Path: 
 2025-07-04 09:17:34,205 - INFO - Posted content successfully. Tweet ID: 1941063826340032794
+2025-07-04 09:42:06,548 - INFO - Content: Some of the custom games on Overwatch are wild
+
+2025-07-04 09:42:06,548 - INFO - Image Paths: ['https://external-preview.redd.it/MjhubTk0eXlncmFmMXhscDfA2DDzioFpnTNLqYUMoPxMvK9O-iWGGU1cfg2t.png?format=pjpg&auto=webp&s=4ec3a00745a912e4bedd78829d48a5ebefd1f511']
+2025-07-04 09:42:06,548 - INFO - Video Path: https://v.redd.it/qrdhg86zgraf1/DASH_480.mp4?source=fallback
+2025-07-04 09:42:06,730 - INFO - Downloaded media from https://v.redd.it/qrdhg86zgraf1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-07-04 09:42:06,791 - INFO - Downloaded media from https://v.redd.it/qrdhg86zgraf1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-07-04 09:42:09,538 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-04 09:42:14,098 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
