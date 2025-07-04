@@ -4831,3 +4831,9 @@ Too Many Requests
 2025-07-04 13:48:48,503 - INFO - Downloaded media from https://v.redd.it/cxtvl0wewuaf1/DASH_480.mp4?source=fallback to temp_audio.mp4
 2025-07-04 13:48:50,722 - INFO - Combined video and audio into temp_combined.mp4
 2025-07-04 13:48:56,583 - INFO - Posted content successfully. Tweet ID: 1941132119364731313
+2025-07-04 14:16:04,451 - INFO - Content: How do I play this guy?
+Just picked up this character to learn. I think he can be a good option when my main is banned. How should I play him? What are the good positions and how to engage with him in fights? Also when to ult? 
+2025-07-04 14:16:04,452 - INFO - Image Paths: ['https://preview.redd.it/4fz099lrguaf1.jpeg?auto=webp&s=e9a179d823d279f7a568e54558d50de3967474c0']
+2025-07-04 14:16:04,452 - INFO - Video Path: 
+2025-07-04 14:16:04,543 - INFO - Downloaded media from https://preview.redd.it/4fz099lrguaf1.jpeg?auto=webp&s=e9a179d823d279f7a568e54558d50de3967474c0 to temp_image.jpg
+2025-07-04 14:16:06,095 - INFO - Posted content successfully. Tweet ID: 1941138953555611812
