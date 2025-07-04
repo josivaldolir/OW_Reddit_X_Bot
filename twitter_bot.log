@@ -4817,3 +4817,9 @@ Too Many Requests
 2025-07-04 12:32:00,246 - INFO - Downloaded media from https://preview.redd.it/ktnw4xfv4uaf1.jpg?width=1636&format=pjpg&auto=webp&s=0b76f074c4a7ca4ff69e01674af0e0557d46ab70 to temp_image.jpg
 2025-07-04 12:32:01,432 - INFO - Downloaded media from https://preview.redd.it/pf4cixfv4uaf1.jpg?width=1636&format=pjpg&auto=webp&s=255d950dd5f67ad2523a3035ddbe7e0cf3c799a6 to temp_image.jpg
 2025-07-04 12:32:03,058 - INFO - Posted content successfully. Tweet ID: 1941112767668437494
+2025-07-04 13:28:59,907 - INFO - Content: Who could've seen this coming!?
+
+2025-07-04 13:28:59,907 - INFO - Image Paths: ['https://preview.redd.it/iwrn8l7iuuaf1.jpeg?auto=webp&s=86f4b87c5d3f4c3a6b4571a4f834f7ca798a3e0c']
+2025-07-04 13:28:59,907 - INFO - Video Path: 
+2025-07-04 13:29:00,096 - INFO - Downloaded media from https://preview.redd.it/iwrn8l7iuuaf1.jpeg?auto=webp&s=86f4b87c5d3f4c3a6b4571a4f834f7ca798a3e0c to temp_image.jpg
+2025-07-04 13:29:02,353 - INFO - Posted content successfully. Tweet ID: 1941127108291391618
