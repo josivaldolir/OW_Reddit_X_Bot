@@ -4780,3 +4780,11 @@ Too Many Requests
 2025-07-04 10:17:17,919 - INFO - Combined video and audio into temp_combined.mp4
 2025-07-04 10:17:22,803 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-04 10:45:43,323 - INFO - Content: Some of the custom games on Overwatch are wild
+
+2025-07-04 10:45:43,323 - INFO - Image Paths: ['https://external-preview.redd.it/MjhubTk0eXlncmFmMXhscDfA2DDzioFpnTNLqYUMoPxMvK9O-iWGGU1cfg2t.png?format=pjpg&auto=webp&s=4ec3a00745a912e4bedd78829d48a5ebefd1f511']
+2025-07-04 10:45:43,323 - INFO - Video Path: https://v.redd.it/qrdhg86zgraf1/DASH_480.mp4?source=fallback
+2025-07-04 10:45:43,944 - INFO - Downloaded media from https://v.redd.it/qrdhg86zgraf1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-07-04 10:45:43,971 - INFO - Downloaded media from https://v.redd.it/qrdhg86zgraf1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-07-04 10:45:46,762 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-04 10:45:53,353 - INFO - Posted content successfully. Tweet ID: 1941086052468621365
