@@ -4873,3 +4873,12 @@ Anyways I’m hoping next time they’re on I can try to group with them and get
 2025-07-04 15:40:42,626 - INFO - Downloaded media from https://preview.redd.it/l45t87tifvaf1.jpg?width=2699&format=pjpg&auto=webp&s=540ed898fc0b9d55180df0958f947cee3d54c581 to temp_image.jpg
 2025-07-04 15:40:44,223 - INFO - Downloaded media from https://preview.redd.it/vgkag7tifvaf1.jpg?width=2687&format=pjpg&auto=webp&s=97e38a22e08ba3e2c8acb7df08a05de5e06c2add to temp_image.jpg
 2025-07-04 15:40:47,298 - INFO - Posted content successfully. Tweet ID: 1941160264248037448
+2025-07-04 16:19:03,753 - INFO - Content: Tracers Geekbar dilemma
+
+2025-07-04 16:19:03,753 - INFO - Image Paths: ['https://external-preview.redd.it/NW1rYWJ5bG90dmFmMWtIHymgb_oOCiaYrM81DypzizgKuzDFt3ofjKA5anl-.png?format=pjpg&auto=webp&s=a7b6418775642d94b8255a30881d24b414cbf4f9']
+2025-07-04 16:19:03,753 - INFO - Video Path: https://v.redd.it/2a0ndjiotvaf1/DASH_720.mp4?source=fallback
+2025-07-04 16:19:03,853 - INFO - Downloaded media from https://v.redd.it/2a0ndjiotvaf1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-07-04 16:19:03,890 - INFO - Downloaded media from https://v.redd.it/2a0ndjiotvaf1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-07-04 16:19:04,460 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-04 16:19:08,601 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
