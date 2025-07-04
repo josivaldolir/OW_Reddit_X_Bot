@@ -4675,3 +4675,10 @@ I've never seen such a bloodthirsty team so completely ignorant of the objective
 2025-07-04 03:05:35,195 - INFO - Downloaded media from https://v.redd.it/q136ed446qaf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-07-04 03:05:35,648 - INFO - Combined video and audio into temp_combined.mp4
 2025-07-04 03:06:02,172 - INFO - Posted content successfully. Tweet ID: 1940970326214823946
+2025-07-04 04:02:55,359 - INFO - Content: oh em double-U
+
+2025-07-04 04:02:55,359 - INFO - Image Paths: ['https://preview.redd.it/dcelu0ojtraf1.jpeg?auto=webp&s=c6aac24aa9a6223caa7fd439d20f5714cfde2916']
+2025-07-04 04:02:55,359 - INFO - Video Path: 
+2025-07-04 04:02:55,527 - INFO - Downloaded media from https://preview.redd.it/dcelu0ojtraf1.jpeg?auto=webp&s=c6aac24aa9a6223caa7fd439d20f5714cfde2916 to temp_image.jpg
+2025-07-04 04:02:56,249 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
