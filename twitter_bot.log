@@ -4962,3 +4962,11 @@ If ever interested in any of the items it post, or getting a custom creation mad
 2025-07-04 20:17:59,821 - INFO - Downloaded media from https://preview.redd.it/n8ehl2bylvaf1.jpg?width=3000&format=pjpg&auto=webp&s=463924ae31f4e700544e3c8d38e7f7e50cb32f81 to temp_image.jpg
 2025-07-04 20:18:01,339 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-04 20:40:54,962 - INFO - Content: Tracers Geekbar dilemma
+
+2025-07-04 20:40:54,963 - INFO - Image Paths: ['https://external-preview.redd.it/NW1rYWJ5bG90dmFmMWtIHymgb_oOCiaYrM81DypzizgKuzDFt3ofjKA5anl-.png?format=pjpg&auto=webp&s=a7b6418775642d94b8255a30881d24b414cbf4f9']
+2025-07-04 20:40:54,963 - INFO - Video Path: https://v.redd.it/2a0ndjiotvaf1/DASH_720.mp4?source=fallback
+2025-07-04 20:40:55,177 - INFO - Downloaded media from https://v.redd.it/2a0ndjiotvaf1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-07-04 20:40:55,258 - INFO - Downloaded media from https://v.redd.it/2a0ndjiotvaf1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-07-04 20:40:55,624 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-04 20:41:00,039 - INFO - Posted content successfully. Tweet ID: 1941235817168634313
