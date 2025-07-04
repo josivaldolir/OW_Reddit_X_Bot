@@ -4715,3 +4715,11 @@ Too Many Requests
 2025-07-04 06:52:13,124 - INFO - Video Path: 
 2025-07-04 06:52:13,297 - INFO - Downloaded media from https://external-preview.redd.it/fV4DJkYJZBBnQvlf_EK_Ce4ihoXex6vJgh0IQGwEr_A.png?auto=webp&s=5c470a8a009cc2606d2110e7fa60de20a5baedcc to temp_image.jpg
 2025-07-04 06:52:14,471 - INFO - Posted content successfully. Tweet ID: 1941027252566888668
+2025-07-04 07:17:22,301 - INFO - Content: Lifeweaver was suprised to see me after that 😅
+
+2025-07-04 07:17:22,301 - INFO - Image Paths: ['https://external-preview.redd.it/dHQ3aWRnMWlzcWFmMV0Bi4aOh7cBldWgVPCoiAmNUmosYTlEf3OhdeVTg9sW.png?format=pjpg&auto=webp&s=d02d229b0e9f8fa43d5e609709fdf2414fbaa6af']
+2025-07-04 07:17:22,301 - INFO - Video Path: https://v.redd.it/zx2fed1isqaf1/DASH_1080.mp4?source=fallback
+2025-07-04 07:17:23,005 - INFO - Downloaded media from https://v.redd.it/zx2fed1isqaf1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-07-04 07:17:23,200 - INFO - Downloaded media from https://v.redd.it/zx2fed1isqaf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-07-04 07:17:26,492 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-04 07:17:38,779 - INFO - Posted content successfully. Tweet ID: 1941033646372409365
