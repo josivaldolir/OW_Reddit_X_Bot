@@ -80,3 +80,10 @@ This one manages to tell an actually emotional story, introduces viewer to lore 
 2025-07-05 17:39:22,636 - INFO - Video Path: 
 2025-07-05 17:39:22,856 - INFO - Downloaded media from https://preview.redd.it/lrpsjvw053bf1.jpeg?auto=webp&s=aa61c7991322cce3ee52c8366966e6a90fa3ee32 to temp_image.jpg
 2025-07-05 17:39:24,308 - INFO - Posted content successfully. Tweet ID: 1941552504002707860
+2025-07-05 18:19:39,841 - INFO - Content: Everyone Loves Flashpoint
+Everytime i see 3 flashpoints, someone always leaves....maybe it means something.  Maybe its maybelline?
+2025-07-05 18:19:39,841 - INFO - Image Paths: ['https://preview.redd.it/hb4luph6y2bf1.jpeg?auto=webp&s=216a9d4e8e8943e34407efe5fa7ff28511a938e1']
+2025-07-05 18:19:39,841 - INFO - Video Path: 
+2025-07-05 18:19:40,025 - INFO - Downloaded media from https://preview.redd.it/hb4luph6y2bf1.jpeg?auto=webp&s=216a9d4e8e8943e34407efe5fa7ff28511a938e1 to temp_image.jpg
+2025-07-05 18:19:40,670 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
