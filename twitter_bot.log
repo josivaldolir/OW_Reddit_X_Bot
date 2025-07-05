@@ -5175,3 +5175,10 @@ Too Many Requests
 2025-07-05 08:45:34,523 - INFO - Downloaded media from https://preview.redd.it/4jaly6ocjzaf1.jpeg?auto=webp&s=be3d27cd34bffd53229dac097ded51169e5f83b0 to temp_image.jpg
 2025-07-05 08:45:35,318 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-05 09:15:56,007 - INFO - Content: There are friendships that are never forgotten
+
+2025-07-05 09:15:56,007 - INFO - Image Paths: ['https://preview.redd.it/2xc7ay0wuzaf1.jpeg?auto=webp&s=e678e361e561663725a0ef4a4d44942b8d01b361']
+2025-07-05 09:15:56,007 - INFO - Video Path: 
+2025-07-05 09:15:56,194 - INFO - Downloaded media from https://preview.redd.it/2xc7ay0wuzaf1.jpeg?auto=webp&s=e678e361e561663725a0ef4a4d44942b8d01b361 to temp_image.jpg
+2025-07-05 09:15:57,373 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
