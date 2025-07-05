@@ -66,3 +66,9 @@ Too Many Requests
 2025-07-05 16:45:05,682 - INFO - Downloaded media from https://v.redd.it/454wo6grn2bf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-07-05 16:45:08,762 - INFO - Combined video and audio into temp_combined.mp4
 2025-07-05 16:45:11,463 - INFO - Posted content successfully. Tweet ID: 1941538861554991414
+2025-07-05 17:13:27,189 - INFO - Content: When you made their support switch to Sucky-sucky
+
+2025-07-05 17:13:27,189 - INFO - Image Paths: ['https://preview.redd.it/8s9e8lzet2bf1.jpeg?auto=webp&s=3955e06fb6c0466296c3e51c755e0866a4a549cd']
+2025-07-05 17:13:27,189 - INFO - Video Path: 
+2025-07-05 17:13:27,431 - INFO - Downloaded media from https://preview.redd.it/8s9e8lzet2bf1.jpeg?auto=webp&s=3955e06fb6c0466296c3e51c755e0866a4a549cd to temp_image.jpg
+2025-07-05 17:13:28,613 - INFO - Posted content successfully. Tweet ID: 1941545979389624782
