@@ -1,1 +1,8 @@
 
+2025-07-05 12:29:23,553 - INFO - Content: There are friendships that are never forgotten
+
+2025-07-05 12:29:23,553 - INFO - Image Paths: ['https://preview.redd.it/2xc7ay0wuzaf1.jpeg?auto=webp&s=e678e361e561663725a0ef4a4d44942b8d01b361']
+2025-07-05 12:29:23,554 - INFO - Video Path: 
+2025-07-05 12:29:23,780 - INFO - Downloaded media from https://preview.redd.it/2xc7ay0wuzaf1.jpeg?auto=webp&s=e678e361e561663725a0ef4a4d44942b8d01b361 to temp_image.jpg
+2025-07-05 12:29:25,021 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
