@@ -115,3 +115,12 @@ Too Many Requests
 2025-07-05 20:16:37,506 - INFO - Downloaded media from https://preview.redd.it/6v55km6y83bf1.jpeg?auto=webp&s=9206dfc47dfb142f8257801dc589f07fd0f78812 to temp_image.jpg
 2025-07-05 20:16:38,276 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-05 20:40:29,769 - INFO - Content: When Genji is left unchecked against supports
+Anyone feel this?
+2025-07-05 20:40:29,770 - INFO - Image Paths: ['https://external-preview.redd.it/ZDJrY2FscXFqM2JmMeZe6KZ9bpQ9XlaoiVqFhzsTb0tNaraH-NtUkVvgfAzh.png?format=pjpg&auto=webp&s=55968c1a8497657840ee2796218f67be05093157']
+2025-07-05 20:40:29,770 - INFO - Video Path: https://v.redd.it/1pwp9ztqj3bf1/DASH_720.mp4?source=fallback
+2025-07-05 20:40:29,900 - INFO - Downloaded media from https://v.redd.it/1pwp9ztqj3bf1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-07-05 20:40:29,941 - INFO - Downloaded media from https://v.redd.it/1pwp9ztqj3bf1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-07-05 20:40:33,564 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-05 20:40:39,100 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
