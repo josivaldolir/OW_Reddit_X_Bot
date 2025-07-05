@@ -5089,3 +5089,12 @@ A few tings to note/things I wanna clarify:
 2025-07-04 23:39:13,350 - INFO - Video Path: 
 2025-07-04 23:39:13,487 - INFO - Downloaded media from https://preview.redd.it/3elkgupzxwaf1.png?auto=webp&s=66b794e7c49639e8b955b9a4b6ad7603cd9e810f to temp_image.jpg
 2025-07-04 23:39:15,917 - INFO - Posted content successfully. Tweet ID: 1941280673244885091
+2025-07-05 01:13:13,502 - INFO - Content: My D.va cosplay!!
+
+2025-07-05 01:13:13,502 - INFO - Image Paths: ['https://preview.redd.it/nq0hnafgwwaf1.jpg?width=2268&format=pjpg&auto=webp&s=6743090b8579ac9e2ba616a813d7da541ab2adf6', 'https://preview.redd.it/qkdapefgwwaf1.jpg?width=4032&format=pjpg&auto=webp&s=1717d21691dc97457fb053c7497131caca84688a', 'https://preview.redd.it/wo5vnafgwwaf1.jpg?width=3024&format=pjpg&auto=webp&s=bc504c2270330a92396a876b82782591be363725']
+2025-07-05 01:13:13,502 - INFO - Video Path: 
+2025-07-05 01:13:13,599 - INFO - Downloaded media from https://preview.redd.it/nq0hnafgwwaf1.jpg?width=2268&format=pjpg&auto=webp&s=6743090b8579ac9e2ba616a813d7da541ab2adf6 to temp_image.jpg
+2025-07-05 01:13:14,805 - INFO - Downloaded media from https://preview.redd.it/qkdapefgwwaf1.jpg?width=4032&format=pjpg&auto=webp&s=1717d21691dc97457fb053c7497131caca84688a to temp_image.jpg
+2025-07-05 01:13:16,130 - INFO - Downloaded media from https://preview.redd.it/wo5vnafgwwaf1.jpg?width=3024&format=pjpg&auto=webp&s=bc504c2270330a92396a876b82782591be363725 to temp_image.jpg
+2025-07-05 01:13:17,377 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
