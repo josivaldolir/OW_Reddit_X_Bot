@@ -36,3 +36,10 @@ And yes, I nabbed Conjurer Sym.
 2025-07-05 14:42:00,556 - INFO - Combined video and audio into temp_combined.mp4
 2025-07-05 14:42:10,917 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-05 15:14:37,193 - INFO - Content: As someone who loves Hybrid/Escort, I see this as an absolute win
+
+2025-07-05 15:14:37,193 - INFO - Image Paths: ['https://preview.redd.it/4jaly6ocjzaf1.jpeg?auto=webp&s=be3d27cd34bffd53229dac097ded51169e5f83b0']
+2025-07-05 15:14:37,193 - INFO - Video Path: 
+2025-07-05 15:14:37,320 - INFO - Downloaded media from https://preview.redd.it/4jaly6ocjzaf1.jpeg?auto=webp&s=be3d27cd34bffd53229dac097ded51169e5f83b0 to temp_image.jpg
+2025-07-05 15:14:38,152 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
