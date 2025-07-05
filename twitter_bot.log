@@ -27,3 +27,12 @@ And yes, I nabbed Conjurer Sym.
 2025-07-05 14:14:40,825 - INFO - Video Path: 
 2025-07-05 14:14:41,094 - INFO - Downloaded media from https://preview.redd.it/2xc7ay0wuzaf1.jpeg?auto=webp&s=e678e361e561663725a0ef4a4d44942b8d01b361 to temp_image.jpg
 2025-07-05 14:14:43,345 - INFO - Posted content successfully. Tweet ID: 1941500993151340611
+2025-07-05 14:41:59,628 - INFO - Content: Is this what the kids call aura farming?
+
+2025-07-05 14:41:59,628 - INFO - Image Paths: ['https://external-preview.redd.it/cDg4NjdsbWx2MWJmMUeyD3hX1-q7eTxipSz5byJ_9UO5SmcJYdqN9Ejz2LtT.png?format=pjpg&auto=webp&s=6307100fc7f2123a20e0f51d434b1ca7e5fdc74c']
+2025-07-05 14:41:59,628 - INFO - Video Path: https://v.redd.it/0k884allv1bf1/DASH_1080.mp4?source=fallback
+2025-07-05 14:42:00,078 - INFO - Downloaded media from https://v.redd.it/0k884allv1bf1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-07-05 14:42:00,192 - INFO - Downloaded media from https://v.redd.it/0k884allv1bf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-07-05 14:42:00,556 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-05 14:42:10,917 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
