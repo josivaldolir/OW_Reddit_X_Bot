@@ -5134,3 +5134,10 @@ Hello! I am making this post because I would like a bit of clarification on how 
 2025-07-05 05:42:51,093 - INFO - Video Path: 
 2025-07-05 05:42:51,306 - INFO - Downloaded media from https://preview.redd.it/er1ch74t1zaf1.jpeg?auto=webp&s=67960bbda28f510b01f694801ba128771a872628 to temp_image.jpg
 2025-07-05 05:42:52,780 - INFO - Posted content successfully. Tweet ID: 1941372184896958943
+2025-07-05 06:21:13,181 - INFO - Content: As someone who loves Hybrid/Escort, I see this as an absolute win
+
+2025-07-05 06:21:13,181 - INFO - Image Paths: ['https://preview.redd.it/4jaly6ocjzaf1.jpeg?auto=webp&s=be3d27cd34bffd53229dac097ded51169e5f83b0']
+2025-07-05 06:21:13,181 - INFO - Video Path: 
+2025-07-05 06:21:13,205 - INFO - Downloaded media from https://preview.redd.it/4jaly6ocjzaf1.jpeg?auto=webp&s=be3d27cd34bffd53229dac097ded51169e5f83b0 to temp_image.jpg
+2025-07-05 06:21:13,957 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
