@@ -124,3 +124,10 @@ Anyone feel this?
 2025-07-05 20:40:33,564 - INFO - Combined video and audio into temp_combined.mp4
 2025-07-05 20:40:39,100 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-05 21:14:37,289 - INFO - Content: So true 😭😭
+
+2025-07-05 21:14:37,289 - INFO - Image Paths: ['https://preview.redd.it/6v55km6y83bf1.jpeg?auto=webp&s=9206dfc47dfb142f8257801dc589f07fd0f78812']
+2025-07-05 21:14:37,289 - INFO - Video Path: 
+2025-07-05 21:14:37,439 - INFO - Downloaded media from https://preview.redd.it/6v55km6y83bf1.jpeg?auto=webp&s=9206dfc47dfb142f8257801dc589f07fd0f78812 to temp_image.jpg
+2025-07-05 21:14:38,120 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
