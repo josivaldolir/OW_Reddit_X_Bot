@@ -5195,3 +5195,10 @@ this is an old screenshot from i think late 2023.
 2025-07-05 10:15:31,194 - INFO - Video Path: 
 2025-07-05 10:15:31,382 - INFO - Downloaded media from https://preview.redd.it/5o8dxwcs90bf1.png?auto=webp&s=1972f914ec4f7fe54b40f059294c633099cd1b67 to temp_image.jpg
 2025-07-05 10:15:32,489 - INFO - Posted content successfully. Tweet ID: 1941440802426880303
+2025-07-05 10:43:02,111 - INFO - Content: You and Your Birthday Month will play your favourite game the entire night (besides Overwatch)
+
+2025-07-05 10:43:02,111 - INFO - Image Paths: ['https://preview.redd.it/wih20s0o51bf1.png?auto=webp&s=4414a6426cf60e08fa719edae3c5c43c93e2f2df']
+2025-07-05 10:43:02,112 - INFO - Video Path: 
+2025-07-05 10:43:02,175 - INFO - Downloaded media from https://preview.redd.it/wih20s0o51bf1.png?auto=webp&s=4414a6426cf60e08fa719edae3c5c43c93e2f2df to temp_image.jpg
+2025-07-05 10:43:02,887 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
