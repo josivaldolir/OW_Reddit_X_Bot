@@ -5141,3 +5141,10 @@ Hello! I am making this post because I would like a bit of clarification on how 
 2025-07-05 06:21:13,205 - INFO - Downloaded media from https://preview.redd.it/4jaly6ocjzaf1.jpeg?auto=webp&s=be3d27cd34bffd53229dac097ded51169e5f83b0 to temp_image.jpg
 2025-07-05 06:21:13,957 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-05 06:48:23,258 - INFO - Content: School Girl Kiriko Fanart <3
+Sad i cant buy her so i drew it <3
+2025-07-05 06:48:23,258 - INFO - Image Paths: ['https://preview.redd.it/wny4v6pcryaf1.png?auto=webp&s=0306a92b0cb3281f370050ef44516720916df894']
+2025-07-05 06:48:23,258 - INFO - Video Path: 
+2025-07-05 06:48:23,309 - INFO - Downloaded media from https://preview.redd.it/wny4v6pcryaf1.png?auto=webp&s=0306a92b0cb3281f370050ef44516720916df894 to temp_image.jpg
+2025-07-05 06:48:24,054 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
