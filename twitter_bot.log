@@ -5161,3 +5161,10 @@ Sad i cant buy her so i drew it <3
 2025-07-05 07:37:45,758 - INFO - Downloaded media from https://preview.redd.it/4jaly6ocjzaf1.jpeg?auto=webp&s=be3d27cd34bffd53229dac097ded51169e5f83b0 to temp_image.jpg
 2025-07-05 07:37:46,729 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-05 08:19:49,766 - INFO - Content: my friend is trying to learn soldier, any tips?
+this is an old screenshot from i think late 2023.
+2025-07-05 08:19:49,766 - INFO - Image Paths: ['https://preview.redd.it/5o8dxwcs90bf1.png?auto=webp&s=1972f914ec4f7fe54b40f059294c633099cd1b67']
+2025-07-05 08:19:49,766 - INFO - Video Path: 
+2025-07-05 08:19:49,915 - INFO - Downloaded media from https://preview.redd.it/5o8dxwcs90bf1.png?auto=webp&s=1972f914ec4f7fe54b40f059294c633099cd1b67 to temp_image.jpg
+2025-07-05 08:19:50,567 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
