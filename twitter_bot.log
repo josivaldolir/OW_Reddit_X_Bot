@@ -156,3 +156,11 @@ GL to some of yall who are addicted to both.
 2025-07-05 23:15:30,434 - INFO - Video Path: 
 2025-07-05 23:15:30,461 - INFO - Downloaded media from https://preview.redd.it/uvtb8b8kl4bf1.jpeg?auto=webp&s=b328119ad5da4e20002270bb1542100b675465ad to temp_image.jpg
 2025-07-05 23:15:31,295 - INFO - Posted content successfully. Tweet ID: 1941637091328393425
+2025-07-05 23:40:32,412 - INFO - Content: When Genji is left unchecked against supports
+Anyone feel this?
+2025-07-05 23:40:32,412 - INFO - Image Paths: ['https://external-preview.redd.it/ZDJrY2FscXFqM2JmMeZe6KZ9bpQ9XlaoiVqFhzsTb0tNaraH-NtUkVvgfAzh.png?format=pjpg&auto=webp&s=55968c1a8497657840ee2796218f67be05093157']
+2025-07-05 23:40:32,412 - INFO - Video Path: https://v.redd.it/1pwp9ztqj3bf1/DASH_720.mp4?source=fallback
+2025-07-05 23:40:32,542 - INFO - Downloaded media from https://v.redd.it/1pwp9ztqj3bf1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-07-05 23:40:32,562 - INFO - Downloaded media from https://v.redd.it/1pwp9ztqj3bf1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-07-05 23:40:37,280 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-05 23:40:43,169 - INFO - Posted content successfully. Tweet ID: 1941643432746721594
