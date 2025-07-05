@@ -50,3 +50,11 @@ Too Many Requests
 2025-07-05 15:39:58,408 - INFO - Downloaded media from https://preview.redd.it/4jaly6ocjzaf1.jpeg?auto=webp&s=be3d27cd34bffd53229dac097ded51169e5f83b0 to temp_image.jpg
 2025-07-05 15:39:59,216 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-05 16:19:16,749 - INFO - Content: Is this what the kids call aura farming?
+
+2025-07-05 16:19:16,749 - INFO - Image Paths: ['https://external-preview.redd.it/cDg4NjdsbWx2MWJmMUeyD3hX1-q7eTxipSz5byJ_9UO5SmcJYdqN9Ejz2LtT.png?format=pjpg&auto=webp&s=6307100fc7f2123a20e0f51d434b1ca7e5fdc74c']
+2025-07-05 16:19:16,749 - INFO - Video Path: https://v.redd.it/0k884allv1bf1/DASH_1080.mp4?source=fallback
+2025-07-05 16:19:18,091 - INFO - Downloaded media from https://v.redd.it/0k884allv1bf1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-07-05 16:19:18,173 - INFO - Downloaded media from https://v.redd.it/0k884allv1bf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-07-05 16:19:18,500 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-05 16:19:32,508 - INFO - Posted content successfully. Tweet ID: 1941532406441505025
