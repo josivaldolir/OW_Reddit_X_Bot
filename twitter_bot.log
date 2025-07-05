@@ -5189,3 +5189,9 @@ Too Many Requests
 2025-07-05 09:38:39,656 - INFO - Downloaded media from https://preview.redd.it/2xc7ay0wuzaf1.jpeg?auto=webp&s=e678e361e561663725a0ef4a4d44942b8d01b361 to temp_image.jpg
 2025-07-05 09:38:41,201 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-05 10:15:31,194 - INFO - Content: my friend is trying to learn soldier, any tips?
+this is an old screenshot from i think late 2023.
+2025-07-05 10:15:31,194 - INFO - Image Paths: ['https://preview.redd.it/5o8dxwcs90bf1.png?auto=webp&s=1972f914ec4f7fe54b40f059294c633099cd1b67']
+2025-07-05 10:15:31,194 - INFO - Video Path: 
+2025-07-05 10:15:31,382 - INFO - Downloaded media from https://preview.redd.it/5o8dxwcs90bf1.png?auto=webp&s=1972f914ec4f7fe54b40f059294c633099cd1b67 to temp_image.jpg
+2025-07-05 10:15:32,489 - INFO - Posted content successfully. Tweet ID: 1941440802426880303
