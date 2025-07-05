@@ -5114,3 +5114,10 @@ Sad i cant buy her so i drew it <3
 2025-07-05 04:20:38,399 - INFO - Downloaded media from https://preview.redd.it/wny4v6pcryaf1.png?auto=webp&s=0306a92b0cb3281f370050ef44516720916df894 to temp_image.jpg
 2025-07-05 04:20:39,153 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-05 04:48:15,656 - INFO - Content: Shop Question: Will Cardboard D.Va show up in the "For You" section?
+Hello! I am making this post because I would like a bit of clarification on how the "For you" section of the shop works. I saw a post from about 7 months ago saying that a cardboard skin (likely rein) could appear in the "For you" section that changes daily, and I am curious if Cardboard D.Va could show in that section, or if I should just hope I get lucky with lootboxes? 
+2025-07-05 04:48:15,656 - INFO - Image Paths: ['https://preview.redd.it/er1ch74t1zaf1.jpeg?auto=webp&s=67960bbda28f510b01f694801ba128771a872628']
+2025-07-05 04:48:15,656 - INFO - Video Path: 
+2025-07-05 04:48:15,705 - INFO - Downloaded media from https://preview.redd.it/er1ch74t1zaf1.jpeg?auto=webp&s=67960bbda28f510b01f694801ba128771a872628 to temp_image.jpg
+2025-07-05 04:48:16,470 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
