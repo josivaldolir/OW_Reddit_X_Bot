@@ -5202,3 +5202,12 @@ this is an old screenshot from i think late 2023.
 2025-07-05 10:43:02,175 - INFO - Downloaded media from https://preview.redd.it/wih20s0o51bf1.png?auto=webp&s=4414a6426cf60e08fa719edae3c5c43c93e2f2df to temp_image.jpg
 2025-07-05 10:43:02,887 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-05 11:13:19,637 - INFO - Content: The 'Just For You' tab from the shop looks like it was shadow buffed?
+Getting vaulted skins offered now? 
+
+And yes, I nabbed Conjurer Sym. 
+2025-07-05 11:13:19,637 - INFO - Image Paths: ['https://preview.redd.it/vn1ob6hvu0bf1.png?auto=webp&s=17a67caa26d7bf0fc2e8c1a79776ad63a9125731']
+2025-07-05 11:13:19,637 - INFO - Video Path: 
+2025-07-05 11:13:19,847 - INFO - Downloaded media from https://preview.redd.it/vn1ob6hvu0bf1.png?auto=webp&s=17a67caa26d7bf0fc2e8c1a79776ad63a9125731 to temp_image.jpg
+2025-07-05 11:13:21,014 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
