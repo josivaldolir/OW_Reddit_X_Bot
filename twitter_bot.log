@@ -258,3 +258,9 @@ I am a Moira main, so I'm shooting myself in the foot.
 2025-07-06 08:44:58,833 - INFO - Downloaded media from https://preview.redd.it/uo4dvn1cf7bf1.png?auto=webp&s=6c8f291f8119133a4867167dba9d0f975b039e8b to temp_image.jpg
 2025-07-06 08:44:59,939 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-06 09:38:49,307 - INFO - Content: Further proof I should not have access to photoshop <3
+This took me like half an hour, what in gods name am I doing with myself.
+2025-07-06 09:38:49,307 - INFO - Image Paths: ['https://preview.redd.it/bsrka8rp18bf1.jpeg?auto=webp&s=ff2aee812aac90ee99e82ffa90e4980774df7df1']
+2025-07-06 09:38:49,307 - INFO - Video Path: 
+2025-07-06 09:38:49,655 - INFO - Downloaded media from https://preview.redd.it/bsrka8rp18bf1.jpeg?auto=webp&s=ff2aee812aac90ee99e82ffa90e4980774df7df1 to temp_image.jpg
+2025-07-06 09:38:51,141 - INFO - Posted content successfully. Tweet ID: 1941793957010399521
