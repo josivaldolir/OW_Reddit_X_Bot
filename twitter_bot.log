@@ -250,3 +250,11 @@ I am a Moira main, so I'm shooting myself in the foot.
 2025-07-06 08:18:58,456 - INFO - Downloaded media from https://preview.redd.it/uo4dvn1cf7bf1.png?auto=webp&s=6c8f291f8119133a4867167dba9d0f975b039e8b to temp_image.jpg
 2025-07-06 08:18:59,415 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-06 08:44:58,807 - INFO - Content: Moira mains, please confirm
+Made by me in an hour
+I am a Moira main, so I'm shooting myself in the foot. 
+2025-07-06 08:44:58,807 - INFO - Image Paths: ['https://preview.redd.it/uo4dvn1cf7bf1.png?auto=webp&s=6c8f291f8119133a4867167dba9d0f975b039e8b']
+2025-07-06 08:44:58,807 - INFO - Video Path: 
+2025-07-06 08:44:58,833 - INFO - Downloaded media from https://preview.redd.it/uo4dvn1cf7bf1.png?auto=webp&s=6c8f291f8119133a4867167dba9d0f975b039e8b to temp_image.jpg
+2025-07-06 08:44:59,939 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
