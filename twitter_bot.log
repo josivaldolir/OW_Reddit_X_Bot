@@ -374,3 +374,10 @@ What are some big or small things that might change from say a plat to diamond p
 2025-07-06 18:21:01,641 - INFO - Video Path: 
 2025-07-06 18:21:01,777 - INFO - Downloaded media from https://preview.redd.it/xm2nrurbkabf1.jpeg?auto=webp&s=17854b751d6effdbd6b2561e3e3563b47c6866b8 to temp_image.jpg
 2025-07-06 18:21:02,754 - INFO - Posted content successfully. Tweet ID: 1941925371856765057
+2025-07-06 18:46:30,911 - INFO - Content: How are players so good at Widow, anyway?
+
+2025-07-06 18:46:30,912 - INFO - Image Paths: ['https://preview.redd.it/l6n7xp0zrabf1.jpeg?auto=webp&s=0756fa857443d13c321ab3abbc121029a16e6546']
+2025-07-06 18:46:30,912 - INFO - Video Path: 
+2025-07-06 18:46:31,042 - INFO - Downloaded media from https://preview.redd.it/l6n7xp0zrabf1.jpeg?auto=webp&s=0756fa857443d13c321ab3abbc121029a16e6546 to temp_image.jpg
+2025-07-06 18:46:31,995 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
