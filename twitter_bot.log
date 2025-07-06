@@ -164,3 +164,11 @@ Anyone feel this?
 2025-07-05 23:40:32,562 - INFO - Downloaded media from https://v.redd.it/1pwp9ztqj3bf1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-07-05 23:40:37,280 - INFO - Combined video and audio into temp_combined.mp4
 2025-07-05 23:40:43,169 - INFO - Posted content successfully. Tweet ID: 1941643432746721594
+2025-07-06 01:23:40,608 - INFO - Content: insane hook, makes 1.0 look like a nerf
+
+2025-07-06 01:23:40,608 - INFO - Image Paths: ['https://external-preview.redd.it/MGtjeWUxM3lxM2JmMaC-HnDmw3XbUGexuUqzu2B0h3HpwAu6H3X1pBR6eE_I.png?format=pjpg&auto=webp&s=fbd60b26132603a7f5ebfa31073a72180bedc545']
+2025-07-06 01:23:40,608 - INFO - Video Path: https://v.redd.it/oio3ml7yq3bf1/DASH_1080.mp4?source=fallback
+2025-07-06 01:23:42,083 - INFO - Downloaded media from https://v.redd.it/oio3ml7yq3bf1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-07-06 01:23:42,236 - INFO - Downloaded media from https://v.redd.it/oio3ml7yq3bf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-07-06 01:23:44,348 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-06 01:23:57,679 - INFO - Posted content successfully. Tweet ID: 1941669414430290318
