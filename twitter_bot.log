@@ -426,3 +426,11 @@ I really like summer sport skins and I miss them so much, so here’s my vision 
 2025-07-06 21:38:06,474 - INFO - Video Path: 
 2025-07-06 21:38:06,529 - INFO - Downloaded media from https://preview.redd.it/zdzuvc0y3bbf1.jpeg?auto=webp&s=cc15790015addc001dc94de01cc7759196248750 to temp_image.jpg
 2025-07-06 21:38:07,828 - INFO - Posted content successfully. Tweet ID: 1941974969275269466
+2025-07-06 22:15:49,726 - INFO - Content: This is peak Overwatch
+
+2025-07-06 22:15:49,727 - INFO - Image Paths: ['https://external-preview.redd.it/d2E1MnI0cjE5YmJmMRAKvkWH3TuJGDfqiZsHqh01QLSNFHB_1fkkqWCD_n91.png?format=pjpg&auto=webp&s=b7b35c5c2255dc583cfa749769b9354582452c6e']
+2025-07-06 22:15:49,727 - INFO - Video Path: https://v.redd.it/mzjylyv19bbf1/DASH_1080.mp4?source=fallback
+2025-07-06 22:15:51,442 - INFO - Downloaded media from https://v.redd.it/mzjylyv19bbf1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-07-06 22:15:51,540 - INFO - Downloaded media from https://v.redd.it/mzjylyv19bbf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-07-06 22:15:51,822 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-06 22:16:01,065 - INFO - Posted content successfully. Tweet ID: 1941984504404680805
