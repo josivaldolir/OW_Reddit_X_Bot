@@ -400,3 +400,12 @@ Damn I can't post multiple images: but this looks better. For more proof, look u
 2025-07-06 20:16:57,198 - INFO - Video Path: 
 2025-07-06 20:16:57,380 - INFO - Downloaded media from https://preview.redd.it/nuir2lsd5bbf1.jpeg?auto=webp&s=79d9aba51ee542a17542065ef3ed6d4d382831ae to temp_image.jpg
 2025-07-06 20:16:58,525 - INFO - Posted content successfully. Tweet ID: 1941954546248610080
+2025-07-06 20:41:13,759 - INFO - Content: HydroX LifeWeaver 🌊 | Skin Concept
+I really like summer sport skins and I miss them so much, so here’s my vision of LifeWeaver as a swimmer 💦 
+
+
+2025-07-06 20:41:13,759 - INFO - Image Paths: ['https://preview.redd.it/zdzuvc0y3bbf1.jpeg?auto=webp&s=cc15790015addc001dc94de01cc7759196248750']
+2025-07-06 20:41:13,759 - INFO - Video Path: 
+2025-07-06 20:41:13,936 - INFO - Downloaded media from https://preview.redd.it/zdzuvc0y3bbf1.jpeg?auto=webp&s=cc15790015addc001dc94de01cc7759196248750 to temp_image.jpg
+2025-07-06 20:41:14,942 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
