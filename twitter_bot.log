@@ -296,3 +296,11 @@ I really hope the devs see this and come up with a better solution.
 2025-07-06 11:13:46,761 - INFO - Image Paths: []
 2025-07-06 11:13:46,761 - INFO - Video Path: 
 2025-07-06 11:13:47,213 - INFO - Posted content successfully. Tweet ID: 1941817848885829725
+2025-07-06 11:36:38,747 - INFO - Content: PLEASE let me have the pink beam on other skins!
+i love the pink mercy staff and i always use it on my other skins too, but WHY is the pink color beam attached to the pink/rose gold mercy SKIN and not the weapon?? i really wanna have the pink healing beam on princess, fearless, and sakura mercy, but it's tied to the rose gold skin itself rather than the weapon.
+2025-07-06 11:36:38,747 - INFO - Image Paths: ['https://preview.redd.it/8mie71isv7bf1.png?width=262&format=png&auto=webp&s=9b80e317fb9233d971cba940a5a473581ecb2bd2', 'https://preview.redd.it/9vurel3tv7bf1.png?width=222&format=png&auto=webp&s=158d736e0087393aefbd2b7b2d4f124daa9f0b11']
+2025-07-06 11:36:38,747 - INFO - Video Path: 
+2025-07-06 11:36:39,007 - INFO - Downloaded media from https://preview.redd.it/8mie71isv7bf1.png?width=262&format=png&auto=webp&s=9b80e317fb9233d971cba940a5a473581ecb2bd2 to temp_image.jpg
+2025-07-06 11:36:39,796 - INFO - Downloaded media from https://preview.redd.it/9vurel3tv7bf1.png?width=222&format=png&auto=webp&s=158d736e0087393aefbd2b7b2d4f124daa9f0b11 to temp_image.jpg
+2025-07-06 11:36:40,486 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
