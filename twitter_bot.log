@@ -304,3 +304,12 @@ i love the pink mercy staff and i always use it on my other skins too, but WHY i
 2025-07-06 11:36:39,796 - INFO - Downloaded media from https://preview.redd.it/9vurel3tv7bf1.png?width=222&format=png&auto=webp&s=158d736e0087393aefbd2b7b2d4f124daa9f0b11 to temp_image.jpg
 2025-07-06 11:36:40,486 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-06 13:05:08,721 - INFO - Content: No wonder why kiriko gets so much skins lmao
+Kiri has more legendaries in total than most of the characters in the game btw (yes this includes ow1 release characters)
+2025-07-06 13:05:08,722 - INFO - Image Paths: ['https://external-preview.redd.it/cTZmNmxkcW11OGJmMTysbHG0YLvsY-A9lGp5O43YeaI5bY34rXI3OHP88QyG.png?format=pjpg&auto=webp&s=a43ddefbed69b4bad5901a58faa72af74cd0d4ae']
+2025-07-06 13:05:08,722 - INFO - Video Path: https://v.redd.it/yc2jkqymu8bf1/DASH_480.mp4?source=fallback
+2025-07-06 13:05:08,888 - INFO - Downloaded media from https://v.redd.it/yc2jkqymu8bf1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-07-06 13:05:08,942 - INFO - Downloaded media from https://v.redd.it/yc2jkqymu8bf1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-07-06 13:05:10,687 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-06 13:05:18,966 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
