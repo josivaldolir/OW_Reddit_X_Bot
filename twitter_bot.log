@@ -172,3 +172,11 @@ Anyone feel this?
 2025-07-06 01:23:42,236 - INFO - Downloaded media from https://v.redd.it/oio3ml7yq3bf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-07-06 01:23:44,348 - INFO - Combined video and audio into temp_combined.mp4
 2025-07-06 01:23:57,679 - INFO - Posted content successfully. Tweet ID: 1941669414430290318
+2025-07-06 03:13:45,079 - INFO - Content: Why does the audio fit so well? 💀
+Credit to @nobatchfam on TikTok. 
+2025-07-06 03:13:45,079 - INFO - Image Paths: ['https://external-preview.redd.it/dXlpMGltaXp5M2JmMcxsbW9chmZ-mgc4gVXZ2MopHLb5bv2k-3vivJBz6SN8.png?format=pjpg&auto=webp&s=adb97a2c1f6556e4ba7091b62007d8a93a413ee7']
+2025-07-06 03:13:45,079 - INFO - Video Path: https://v.redd.it/pq8nkwqzy3bf1/DASH_480.mp4?source=fallback
+2025-07-06 03:13:45,364 - INFO - Downloaded media from https://v.redd.it/pq8nkwqzy3bf1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-07-06 03:13:45,393 - INFO - Downloaded media from https://v.redd.it/pq8nkwqzy3bf1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-07-06 03:13:48,431 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-06 03:13:52,378 - INFO - Posted content successfully. Tweet ID: 1941697074577498578
