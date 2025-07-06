@@ -224,3 +224,9 @@ This is my first completely handmade cosplay and I even included his spinning ba
 2025-07-06 06:21:53,001 - INFO - Downloaded media from https://v.redd.it/lpeyf2slt6bf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-07-06 06:21:53,373 - INFO - Combined video and audio into temp_combined.mp4
 2025-07-06 06:22:01,792 - INFO - Posted content successfully. Tweet ID: 1941744425740489132
+2025-07-06 06:48:07,116 - INFO - Content: McCree Dimmadome
+
+2025-07-06 06:48:07,116 - INFO - Image Paths: ['https://preview.redd.it/28yhj9ux47bf1.jpeg?auto=webp&s=3516f6badb68a13559695ab4299d8c1976f4ac34']
+2025-07-06 06:48:07,116 - INFO - Video Path: 
+2025-07-06 06:48:07,248 - INFO - Downloaded media from https://preview.redd.it/28yhj9ux47bf1.jpeg?auto=webp&s=3516f6badb68a13559695ab4299d8c1976f4ac34 to temp_image.jpg
+2025-07-06 06:48:08,667 - INFO - Posted content successfully. Tweet ID: 1941750996985659849
