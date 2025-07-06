@@ -334,3 +334,12 @@ I encountered this Sigma bug where the shield appears cracking even though just 
 2025-07-06 14:40:34,330 - INFO - Video Path: 
 2025-07-06 14:40:34,531 - INFO - Downloaded media from https://preview.redd.it/vm9vpvure9bf1.png?auto=webp&s=ad2278ebf5cc868264bdfbcb16f24c3050517d85 to temp_image.jpg
 2025-07-06 14:40:37,301 - INFO - Posted content successfully. Tweet ID: 1941869893168558171
+2025-07-06 15:14:34,744 - INFO - Content: Got a random idea for a Doom Eternal collab while cat sitting.
+There were other ones like Samuel Hyden Ramattra, Khan Maykr Mercy, Hell Knight/Baron of Hell Doomfist and Revenant Juno/Phara but i didn't wanna make any more of these images.
+2025-07-06 15:14:34,744 - INFO - Image Paths: ['https://preview.redd.it/5kum0ljb09bf1.png?width=1285&format=png&auto=webp&s=5127fc6da126947addd7cc7bca17be7adce93096', 'https://preview.redd.it/4johwk5d09bf1.png?width=1000&format=png&auto=webp&s=0fd96cc64d5ddf050489cb9149bddec3580d1c6f', 'https://preview.redd.it/2r1f5m5d09bf1.png?width=1000&format=png&auto=webp&s=360420e365e201f26b56fc0be7b82fe8c1702963', 'https://preview.redd.it/8pb82q5d09bf1.png?width=1000&format=png&auto=webp&s=4ca818c97cf885896fac9af26d090c30a184d514']
+2025-07-06 15:14:34,744 - INFO - Video Path: 
+2025-07-06 15:14:34,794 - INFO - Downloaded media from https://preview.redd.it/5kum0ljb09bf1.png?width=1285&format=png&auto=webp&s=5127fc6da126947addd7cc7bca17be7adce93096 to temp_image.jpg
+2025-07-06 15:14:35,498 - INFO - Downloaded media from https://preview.redd.it/4johwk5d09bf1.png?width=1000&format=png&auto=webp&s=0fd96cc64d5ddf050489cb9149bddec3580d1c6f to temp_image.jpg
+2025-07-06 15:14:35,914 - INFO - Downloaded media from https://preview.redd.it/2r1f5m5d09bf1.png?width=1000&format=png&auto=webp&s=360420e365e201f26b56fc0be7b82fe8c1702963 to temp_image.jpg
+2025-07-06 15:14:36,365 - INFO - Downloaded media from https://preview.redd.it/8pb82q5d09bf1.png?width=1000&format=png&auto=webp&s=4ca818c97cf885896fac9af26d090c30a184d514 to temp_image.jpg
+2025-07-06 15:14:37,561 - INFO - Posted content successfully. Tweet ID: 1941878456272187634
