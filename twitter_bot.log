@@ -195,3 +195,9 @@ I’m definitely just venting, and again, this is so so dumb. But like, no one e
 2025-07-06 04:07:46,615 - INFO - Image Paths: []
 2025-07-06 04:07:46,615 - INFO - Video Path: 
 2025-07-06 04:07:46,926 - INFO - Posted content successfully. Tweet ID: 1941710641380966441
+2025-07-06 04:51:35,775 - INFO - Content: Always go for that risky rez.
+
+2025-07-06 04:51:35,775 - INFO - Image Paths: ['https://preview.redd.it/wget69f693bf1.png?auto=webp&s=51d8fd617631694b5d04b8cccdde0769d9990872']
+2025-07-06 04:51:35,775 - INFO - Video Path: 
+2025-07-06 04:51:36,065 - INFO - Downloaded media from https://preview.redd.it/wget69f693bf1.png?auto=webp&s=51d8fd617631694b5d04b8cccdde0769d9990872 to temp_image.jpg
+2025-07-06 04:51:37,548 - INFO - Posted content successfully. Tweet ID: 1941721673713017304
