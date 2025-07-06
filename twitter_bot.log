@@ -452,3 +452,14 @@ Bottom text
 2025-07-06 23:15:35,304 - INFO - Downloaded media from https://preview.redd.it/8f7pj71g6cbf1.png?auto=webp&s=6ec2c07b7c26277a516d523af0ec3a32068ea532 to temp_image.jpg
 2025-07-06 23:15:35,924 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-06 23:39:56,052 - INFO - Content: No soul-snacking today!
+**"Back off, Reaper — this soul isn’t on the menu."**
+
+I made this illustration for a contest hosted by Overwatch Galaxy, a lovely Latino Overwatch community ❤
+
+It shows Mercy trying to revive a teammate’s soul, while an enemy Reaper swoops in, hoping to snack on it with his Soul Reaving perk. Luckily, she’s got a good tank holding the line while she brings her Genji back to life.
+2025-07-06 23:39:56,052 - INFO - Image Paths: ['https://preview.redd.it/05v2eazlhabf1.png?auto=webp&s=76146ea79cfde528ca065680790a875b967e9add']
+2025-07-06 23:39:56,052 - INFO - Video Path: 
+2025-07-06 23:39:56,220 - INFO - Downloaded media from https://preview.redd.it/05v2eazlhabf1.png?auto=webp&s=76146ea79cfde528ca065680790a875b967e9add to temp_image.jpg
+2025-07-06 23:39:57,058 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
