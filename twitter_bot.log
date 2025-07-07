@@ -695,3 +695,9 @@ Too Many Requests
 2025-07-07 17:14:47,445 - INFO - Downloaded media from https://preview.redd.it/4yau00jw0fbf1.jpg?width=3236&format=pjpg&auto=webp&s=a27715b6a60120c898d3504ddd10017233f4b478 to temp_image.jpg
 2025-07-07 17:14:48,715 - INFO - Downloaded media from https://preview.redd.it/qenqh5pw0fbf1.jpg?width=3304&format=pjpg&auto=webp&s=c97094464e16affdfd745e8cd335a0a93051b766 to temp_image.jpg
 2025-07-07 17:14:50,596 - INFO - Posted content successfully. Tweet ID: 1942271097694740685
+2025-07-07 17:43:13,654 - INFO - Content: Feels bad man
+
+2025-07-07 17:43:13,654 - INFO - Image Paths: ['https://preview.redd.it/s1fbts3xjhbf1.jpeg?auto=webp&s=36b0dee0db04560ebacf827bc7bc0d2a6bbd1716']
+2025-07-07 17:43:13,654 - INFO - Video Path: 
+2025-07-07 17:43:13,982 - INFO - Downloaded media from https://preview.redd.it/s1fbts3xjhbf1.jpeg?auto=webp&s=36b0dee0db04560ebacf827bc7bc0d2a6bbd1716 to temp_image.jpg
+2025-07-07 17:43:16,075 - INFO - Posted content successfully. Tweet ID: 1942278251872969031
