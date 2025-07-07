@@ -507,3 +507,10 @@ Is this enough? It would be nice to know the line. Stadium is honestly the best 
 2025-07-07 05:45:36,019 - INFO - Video Path: 
 2025-07-07 05:45:36,076 - INFO - Downloaded media from https://preview.redd.it/kpviykm30dbf1.png?auto=webp&s=7a4dab350e2cbb3983911a3b53fd7fb09c0914af to temp_image.jpg
 2025-07-07 05:45:37,364 - INFO - Posted content successfully. Tweet ID: 1942097650964369604
+2025-07-07 06:25:02,203 - INFO - Content: Definitely one of the stupidest edits I've made while drunk
+
+2025-07-07 06:25:02,203 - INFO - Image Paths: ['https://preview.redd.it/28vsu3p87ebf1.png?auto=webp&s=8d4b23a991850f18b14e3d26671271cd7ab0c10e']
+2025-07-07 06:25:02,203 - INFO - Video Path: 
+2025-07-07 06:25:02,252 - INFO - Downloaded media from https://preview.redd.it/28vsu3p87ebf1.png?auto=webp&s=8d4b23a991850f18b14e3d26671271cd7ab0c10e to temp_image.jpg
+2025-07-07 06:25:03,043 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
