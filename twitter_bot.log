@@ -616,3 +616,10 @@ Too Many Requests
 2025-07-07 13:30:29,648 - INFO - Downloaded media from https://preview.redd.it/ya45ae974gbf1.jpeg?auto=webp&s=228a23750aed6c562ea9f43caa0c55ab361efc85 to temp_image.jpg
 2025-07-07 13:30:31,222 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-07 13:52:39,879 - INFO - Content: Uhm? Dva HWAT?
+
+2025-07-07 13:52:39,879 - INFO - Image Paths: ['https://preview.redd.it/ya45ae974gbf1.jpeg?auto=webp&s=228a23750aed6c562ea9f43caa0c55ab361efc85']
+2025-07-07 13:52:39,879 - INFO - Video Path: 
+2025-07-07 13:52:39,999 - INFO - Downloaded media from https://preview.redd.it/ya45ae974gbf1.jpeg?auto=webp&s=228a23750aed6c562ea9f43caa0c55ab361efc85 to temp_image.jpg
+2025-07-07 13:52:41,159 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
