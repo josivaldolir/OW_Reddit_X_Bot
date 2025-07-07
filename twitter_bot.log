@@ -601,3 +601,11 @@ Enjoy
 2025-07-07 11:38:04,926 - INFO - Combined video and audio into temp_combined.mp4
 2025-07-07 11:38:20,636 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-07 12:33:39,540 - INFO - Content: hazardcat avoiding shower
+
+2025-07-07 12:33:39,540 - INFO - Image Paths: ['https://external-preview.redd.it/aHE4aGkyY24wZ2JmMUMOl1au41U1G75BrZXX-FdCPGWilos_sSWqmhbR5Uz5.png?format=pjpg&auto=webp&s=977354ce79468947e027afe2c9fae8f8427947df']
+2025-07-07 12:33:39,540 - INFO - Video Path: https://v.redd.it/awbclben0gbf1/DASH_720.mp4?source=fallback
+2025-07-07 12:33:39,801 - INFO - Downloaded media from https://v.redd.it/awbclben0gbf1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-07-07 12:33:39,877 - INFO - Downloaded media from https://v.redd.it/awbclben0gbf1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-07-07 12:33:40,229 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-07 12:33:44,752 - INFO - Posted content successfully. Tweet ID: 1942200359059103765
