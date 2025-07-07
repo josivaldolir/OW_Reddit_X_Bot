@@ -475,3 +475,11 @@ I really like summer sport skins and I miss them so much, so here’s my vision 
 2025-07-07 03:12:06,174 - INFO - Video Path: 
 2025-07-07 03:12:06,326 - INFO - Downloaded media from https://preview.redd.it/ypqnueordcbf1.png?auto=webp&s=0763a5c21fa6e9e5493457bbde18190d5cb4bdd0 to temp_image.jpg
 2025-07-07 03:12:09,893 - INFO - Posted content successfully. Tweet ID: 1942059022623883415
+2025-07-07 04:07:14,216 - INFO - Content: How did he shot me?
+Is this because my computer or a connection problem. Just confused. 
+2025-07-07 04:07:14,217 - INFO - Image Paths: ['https://external-preview.redd.it/c3RzcTFoY2k5YmJmMV3HH9Qs6UnoHA3kIivJoKORrMUpjTT7I1fZlcmu3-KQ.png?format=pjpg&auto=webp&s=84850eaf7224bcc112f939b29669c6e58c2d70d5']
+2025-07-07 04:07:14,217 - INFO - Video Path: https://v.redd.it/l2p3vfci9bbf1/DASH_1080.mp4?source=fallback
+2025-07-07 04:07:14,424 - INFO - Downloaded media from https://v.redd.it/l2p3vfci9bbf1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-07-07 04:07:14,519 - INFO - Downloaded media from https://v.redd.it/l2p3vfci9bbf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-07-07 04:07:14,999 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-07 04:07:20,392 - INFO - Posted content successfully. Tweet ID: 1942072917879042172
