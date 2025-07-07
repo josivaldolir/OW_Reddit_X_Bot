@@ -579,3 +579,14 @@ I was holding hotel on KR and I hear the ult go off then have half my health go 
 2025-07-07 10:47:17,058 - INFO - Downloaded media from https://v.redd.it/07y0a1tihebf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-07-07 10:47:19,178 - INFO - Combined video and audio into temp_combined.mp4
 2025-07-07 10:47:23,911 - INFO - Posted content successfully. Tweet ID: 1942173595381403987
+2025-07-07 11:14:15,807 - INFO - Content: A small but extremely helpful Overwatch tip!
+Posting this to as many places as I can think of so more people know about it (and hopefully use it.)
+
+Enjoy
+2025-07-07 11:14:15,807 - INFO - Image Paths: ['https://external-preview.redd.it/ZHR6NHljeHA4ZGJmMYuWsVw1NFM5uuNzE-CgR0AVLvOAx_KjEgP_0wTeztQR.png?format=pjpg&auto=webp&s=06a87e08b5881330fce9024969e60eab60de3b65']
+2025-07-07 11:14:15,807 - INFO - Video Path: https://v.redd.it/fvvz2dxp8dbf1/DASH_1080.mp4?source=fallback
+2025-07-07 11:14:16,205 - INFO - Downloaded media from https://v.redd.it/fvvz2dxp8dbf1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-07-07 11:14:16,305 - INFO - Downloaded media from https://v.redd.it/fvvz2dxp8dbf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-07-07 11:14:16,713 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-07 11:14:26,125 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
