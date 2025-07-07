@@ -629,3 +629,9 @@ Too Many Requests
 2025-07-07 14:16:11,323 - INFO - Video Path: 
 2025-07-07 14:16:11,357 - INFO - Downloaded media from https://preview.redd.it/ya45ae974gbf1.jpeg?auto=webp&s=228a23750aed6c562ea9f43caa0c55ab361efc85 to temp_image.jpg
 2025-07-07 14:16:13,547 - INFO - Posted content successfully. Tweet ID: 1942226147070120128
+2025-07-07 14:44:06,315 - INFO - Content: When that one skin you were craving shows up after the pull:
+
+2025-07-07 14:44:06,315 - INFO - Image Paths: ['https://preview.redd.it/47r1cdugcgbf1.jpeg?auto=webp&s=97d8499942a18e6fe9d80a255489779288f42649']
+2025-07-07 14:44:06,315 - INFO - Video Path: 
+2025-07-07 14:44:06,349 - INFO - Downloaded media from https://preview.redd.it/47r1cdugcgbf1.jpeg?auto=webp&s=97d8499942a18e6fe9d80a255489779288f42649 to temp_image.jpg
+2025-07-07 14:44:08,199 - INFO - Posted content successfully. Tweet ID: 1942233171417866610
