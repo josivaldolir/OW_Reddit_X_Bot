@@ -483,3 +483,10 @@ Is this because my computer or a connection problem. Just confused.
 2025-07-07 04:07:14,519 - INFO - Downloaded media from https://v.redd.it/l2p3vfci9bbf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-07-07 04:07:14,999 - INFO - Combined video and audio into temp_combined.mp4
 2025-07-07 04:07:20,392 - INFO - Posted content successfully. Tweet ID: 1942072917879042172
+2025-07-07 04:54:19,653 - INFO - Content: Tokyo and Atlantic Arcology Maps
+Are you guys excited for these maps? looks aMeizing. I was thinking what gamemodes theses maps could be if they are not deathmatch, clash and push maps i accept everything. But maybe Control or Flashpoint? Hybrid maybe? i dont see a payload on theses maps tough but who knows? 
+2025-07-07 04:54:19,653 - INFO - Image Paths: ['https://preview.redd.it/frl9n44iedbf1.png?width=1080&format=png&auto=webp&s=60260684f1f3f18d6d71410024e248268977beac', 'https://preview.redd.it/xixrymljedbf1.png?width=1080&format=png&auto=webp&s=4db71e281257e129aff4e0a7d75018054905ed06']
+2025-07-07 04:54:19,653 - INFO - Video Path: 
+2025-07-07 04:54:19,725 - INFO - Downloaded media from https://preview.redd.it/frl9n44iedbf1.png?width=1080&format=png&auto=webp&s=60260684f1f3f18d6d71410024e248268977beac to temp_image.jpg
+2025-07-07 04:54:20,298 - INFO - Downloaded media from https://preview.redd.it/xixrymljedbf1.png?width=1080&format=png&auto=webp&s=4db71e281257e129aff4e0a7d75018054905ed06 to temp_image.jpg
+2025-07-07 04:54:21,632 - INFO - Posted content successfully. Tweet ID: 1942084749075341637
