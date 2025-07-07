@@ -728,3 +728,10 @@ ramattra would dislike kiri change my mind
 2025-07-07 21:39:47,210 - INFO - Downloaded media from https://preview.redd.it/ucgd2z0u3ibf1.jpg?width=2048&format=pjpg&auto=webp&s=2cd36787f9212c588f47138a05a196a1db5eb9ae to temp_image.jpg
 2025-07-07 21:39:47,953 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-07 22:16:15,305 - INFO - Content: Ramattra kicking kiriko bc he gets no skins
+ramattra would dislike kiri change my mind
+2025-07-07 22:16:15,306 - INFO - Image Paths: ['https://preview.redd.it/sua6s01u3ibf1.jpg?width=2048&format=pjpg&auto=webp&s=24f24f755942088eee9120e6b00672757ecd32ba', 'https://preview.redd.it/ucgd2z0u3ibf1.jpg?width=2048&format=pjpg&auto=webp&s=2cd36787f9212c588f47138a05a196a1db5eb9ae']
+2025-07-07 22:16:15,306 - INFO - Video Path: 
+2025-07-07 22:16:15,368 - INFO - Downloaded media from https://preview.redd.it/sua6s01u3ibf1.jpg?width=2048&format=pjpg&auto=webp&s=24f24f755942088eee9120e6b00672757ecd32ba to temp_image.jpg
+2025-07-07 22:16:16,023 - INFO - Downloaded media from https://preview.redd.it/ucgd2z0u3ibf1.jpg?width=2048&format=pjpg&auto=webp&s=2cd36787f9212c588f47138a05a196a1db5eb9ae to temp_image.jpg
+2025-07-07 22:16:17,451 - INFO - Posted content successfully. Tweet ID: 1942346960285098461
