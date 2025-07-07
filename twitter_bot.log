@@ -571,3 +571,11 @@ I was holding hotel on KR and I hear the ult go off then have half my health go 
 2025-07-07 10:18:22,677 - INFO - Combined video and audio into temp_combined.mp4
 2025-07-07 10:18:25,835 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-07 10:47:16,482 - INFO - Content: Just found out that the initial arrow for Dragonstrike can go through walls
+I was holding hotel on KR and I hear the ult go off then have half my health go missing without tick damage and see the dragon fly past me. So I go to practice range afterwards to test it out and confirmed my suspicion
+2025-07-07 10:47:16,482 - INFO - Image Paths: ['https://external-preview.redd.it/Y2psYTMxdGloZWJmMeCpdr2aACy5zqG1cFy2Q9C-MAN_8lbxUdP3IklgM3Xl.png?format=pjpg&auto=webp&s=19d99ef4330fd6e165ab0e8485d60eae10c0f020']
+2025-07-07 10:47:16,482 - INFO - Video Path: https://v.redd.it/07y0a1tihebf1/DASH_1080.mp4?source=fallback
+2025-07-07 10:47:16,965 - INFO - Downloaded media from https://v.redd.it/07y0a1tihebf1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-07-07 10:47:17,058 - INFO - Downloaded media from https://v.redd.it/07y0a1tihebf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-07-07 10:47:19,178 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-07 10:47:23,911 - INFO - Posted content successfully. Tweet ID: 1942173595381403987
