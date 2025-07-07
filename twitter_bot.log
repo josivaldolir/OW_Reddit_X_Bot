@@ -741,3 +741,11 @@ ramattra would dislike kiri change my mind
 2025-07-07 22:41:43,158 - INFO - Video Path: 
 2025-07-07 22:41:43,217 - INFO - Downloaded media from https://external-preview.redd.it/cxhgD76td5Dp1dFhU6_SzitLWLxVeN4K7cy4aeQZSSc.png?auto=webp&s=300bd59ce77b595f810cc42363351e9fc6ab163a to temp_image.jpg
 2025-07-07 22:41:44,890 - INFO - Posted content successfully. Tweet ID: 1942353365868110327
+2025-07-07 23:16:08,715 - INFO - Content: Guess who is back! (End of match voting cards returning in the future)
+
+2025-07-07 23:16:08,715 - INFO - Image Paths: ['https://preview.redd.it/ps7iy3ad8ibf1.jpg?width=1080&format=pjpg&auto=webp&s=73dbf9dda49b294cc2ade3cd14303dfa020e0669', 'https://preview.redd.it/10ki1wcd8ibf1.jpg?width=1920&format=pjpg&auto=webp&s=8a3d61c3d1d1e9a47034a2ee2dea858eb98115da']
+2025-07-07 23:16:08,715 - INFO - Video Path: 
+2025-07-07 23:16:08,881 - INFO - Downloaded media from https://preview.redd.it/ps7iy3ad8ibf1.jpg?width=1080&format=pjpg&auto=webp&s=73dbf9dda49b294cc2ade3cd14303dfa020e0669 to temp_image.jpg
+2025-07-07 23:16:09,397 - INFO - Downloaded media from https://preview.redd.it/10ki1wcd8ibf1.jpg?width=1920&format=pjpg&auto=webp&s=8a3d61c3d1d1e9a47034a2ee2dea858eb98115da to temp_image.jpg
+2025-07-07 23:16:10,230 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
