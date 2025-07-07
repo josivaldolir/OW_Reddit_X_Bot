@@ -542,3 +542,14 @@ Enjoy
 2025-07-07 08:49:58,868 - INFO - Combined video and audio into temp_combined.mp4
 2025-07-07 08:50:07,875 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-07 09:19:33,032 - INFO - Content: A small but extremely helpful Overwatch tip!
+Posting this to as many places as I can think of so more people know about it (and hopefully use it.)
+
+Enjoy
+2025-07-07 09:19:33,032 - INFO - Image Paths: ['https://external-preview.redd.it/ZHR6NHljeHA4ZGJmMYuWsVw1NFM5uuNzE-CgR0AVLvOAx_KjEgP_0wTeztQR.png?format=pjpg&auto=webp&s=06a87e08b5881330fce9024969e60eab60de3b65']
+2025-07-07 09:19:33,032 - INFO - Video Path: https://v.redd.it/fvvz2dxp8dbf1/DASH_1080.mp4?source=fallback
+2025-07-07 09:19:33,311 - INFO - Downloaded media from https://v.redd.it/fvvz2dxp8dbf1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-07-07 09:19:33,424 - INFO - Downloaded media from https://v.redd.it/fvvz2dxp8dbf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-07-07 09:19:36,054 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-07 09:19:48,057 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
