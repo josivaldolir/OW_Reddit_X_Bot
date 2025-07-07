@@ -635,3 +635,9 @@ Too Many Requests
 2025-07-07 14:44:06,315 - INFO - Video Path: 
 2025-07-07 14:44:06,349 - INFO - Downloaded media from https://preview.redd.it/47r1cdugcgbf1.jpeg?auto=webp&s=97d8499942a18e6fe9d80a255489779288f42649 to temp_image.jpg
 2025-07-07 14:44:08,199 - INFO - Posted content successfully. Tweet ID: 1942233171417866610
+2025-07-07 15:16:34,539 - INFO - Content: Getting that one skin you always wanted be like:
+True, for every one skin you actually wanted there are like... 10 others for characters maybe you don't even like, but hey, it's free 🤣
+2025-07-07 15:16:34,539 - INFO - Image Paths: ['https://preview.redd.it/cxccfkf8cgbf1.jpeg?auto=webp&s=74b697bef25a290e3b771a90caf5f63cd79686f6']
+2025-07-07 15:16:34,539 - INFO - Video Path: 
+2025-07-07 15:16:34,764 - INFO - Downloaded media from https://preview.redd.it/cxccfkf8cgbf1.jpeg?auto=webp&s=74b697bef25a290e3b771a90caf5f63cd79686f6 to temp_image.jpg
+2025-07-07 15:16:36,514 - INFO - Posted content successfully. Tweet ID: 1942241344069546415
