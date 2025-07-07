@@ -709,3 +709,4 @@ Im trying to rank up to all-stars for the exclusive skins but why the hell am I 
 2025-07-07 18:23:00,409 - INFO - Downloaded media from https://v.redd.it/hbf5njjaugbf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-07-07 18:23:02,721 - INFO - Combined video and audio into temp_combined.mp4
 2025-07-07 18:23:17,537 - INFO - Posted content successfully. Tweet ID: 1942288325156696411
+2025-07-07 18:51:08,166 - ERROR - Error in main loop: 'u'
