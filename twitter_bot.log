@@ -701,3 +701,11 @@ Too Many Requests
 2025-07-07 17:43:13,654 - INFO - Video Path: 
 2025-07-07 17:43:13,982 - INFO - Downloaded media from https://preview.redd.it/s1fbts3xjhbf1.jpeg?auto=webp&s=36b0dee0db04560ebacf827bc7bc0d2a6bbd1716 to temp_image.jpg
 2025-07-07 17:43:16,075 - INFO - Posted content successfully. Tweet ID: 1942278251872969031
+2025-07-07 18:22:59,187 - INFO - Content: Why am I getting NEW Overwatch players on my team in Stadium?
+Im trying to rank up to all-stars for the exclusive skins but why the hell am I getting new overwatch players on my team?? Since this is comp, shouldn’t there be an amount of games you should play before you can even play ranked? And even if there is a requirement, I am in pro, so why do I match up with them?? How am I ever supposed to rank up like this?
+2025-07-07 18:22:59,187 - INFO - Image Paths: ['https://external-preview.redd.it/dnE3YXNzZWF1Z2JmMe7i6AgS6W0kDq_imH92nRYSuC9opPafQjFdMdzAk0PH.png?format=pjpg&auto=webp&s=b5513fe1e1868448ef31f271d22ae7e13cae728f']
+2025-07-07 18:22:59,187 - INFO - Video Path: https://v.redd.it/hbf5njjaugbf1/DASH_1080.mp4?source=fallback
+2025-07-07 18:23:00,184 - INFO - Downloaded media from https://v.redd.it/hbf5njjaugbf1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-07-07 18:23:00,409 - INFO - Downloaded media from https://v.redd.it/hbf5njjaugbf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-07-07 18:23:02,721 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-07 18:23:17,537 - INFO - Posted content successfully. Tweet ID: 1942288325156696411
