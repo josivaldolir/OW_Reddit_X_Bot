@@ -688,3 +688,10 @@ Soldier 76 - Faraday
 2025-07-07 16:48:51,570 - INFO - Downloaded media from https://preview.redd.it/qenqh5pw0fbf1.jpg?width=3304&format=pjpg&auto=webp&s=c97094464e16affdfd745e8cd335a0a93051b766 to temp_image.jpg
 2025-07-07 16:48:52,578 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-07 17:14:47,259 - INFO - Content: I know this was a while ago, but blizzard missed the best opportunity to finally give zarya a skin
+
+2025-07-07 17:14:47,259 - INFO - Image Paths: ['https://preview.redd.it/4yau00jw0fbf1.jpg?width=3236&format=pjpg&auto=webp&s=a27715b6a60120c898d3504ddd10017233f4b478', 'https://preview.redd.it/qenqh5pw0fbf1.jpg?width=3304&format=pjpg&auto=webp&s=c97094464e16affdfd745e8cd335a0a93051b766']
+2025-07-07 17:14:47,259 - INFO - Video Path: 
+2025-07-07 17:14:47,445 - INFO - Downloaded media from https://preview.redd.it/4yau00jw0fbf1.jpg?width=3236&format=pjpg&auto=webp&s=a27715b6a60120c898d3504ddd10017233f4b478 to temp_image.jpg
+2025-07-07 17:14:48,715 - INFO - Downloaded media from https://preview.redd.it/qenqh5pw0fbf1.jpg?width=3304&format=pjpg&auto=webp&s=c97094464e16affdfd745e8cd335a0a93051b766 to temp_image.jpg
+2025-07-07 17:14:50,596 - INFO - Posted content successfully. Tweet ID: 1942271097694740685
