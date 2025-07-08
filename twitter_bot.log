@@ -861,3 +861,9 @@ Was actually very sacred she was going to call me out for hacking but either way
 2025-07-08 10:17:33,538 - INFO - Combined video and audio into temp_combined.mp4
 2025-07-08 10:17:39,054 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-08 11:14:57,254 - INFO - Content: is this even fair lol
+it said "you are about to be removed for inactivity" even though I'm still at the loading screen and LITERALLY cannot move
+2025-07-08 11:14:57,254 - INFO - Image Paths: ['https://preview.redd.it/zsqlara2mmbf1.jpeg?auto=webp&s=c5600fa8880b6cf7b34484ac759a81fb68f6099b']
+2025-07-08 11:14:57,254 - INFO - Video Path: 
+2025-07-08 11:14:57,568 - INFO - Downloaded media from https://preview.redd.it/zsqlara2mmbf1.jpeg?auto=webp&s=c5600fa8880b6cf7b34484ac759a81fb68f6099b to temp_image.jpg
+2025-07-08 11:15:00,506 - INFO - Posted content successfully. Tweet ID: 1942542929597456553
