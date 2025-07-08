@@ -959,3 +959,11 @@ Too Many Requests
 2025-07-08 18:51:47,954 - INFO - Video Path: 
 2025-07-08 18:51:48,074 - INFO - Downloaded media from https://preview.redd.it/ze6gehw04obf1.jpeg?auto=webp&s=67a0bb5277ca42c6ef76471f6d025010497b23e3 to temp_image.jpg
 2025-07-08 18:51:49,187 - INFO - Posted content successfully. Tweet ID: 1942657892186046656
+2025-07-08 19:13:10,268 - INFO - Content: Overwatch gathering at Anime Expo 2025
+It took me a long time to film this but totally worth it!!🥹 (IG: Cookietagram_ | TikTok: Cookietok)
+2025-07-08 19:13:10,268 - INFO - Image Paths: ['https://external-preview.redd.it/N3R6cW5nbnQzb2JmMSVRRH_Oco5vSPSYi4ZNjo1HNQXJtsRUzYaAL_Qzaa-H.png?format=pjpg&auto=webp&s=ca57743ab46c7b8212f8c7f99a2ca8cab75c58ea']
+2025-07-08 19:13:10,268 - INFO - Video Path: https://v.redd.it/70c58h5u3obf1/DASH_1080.mp4?source=fallback
+2025-07-08 19:13:11,849 - INFO - Downloaded media from https://v.redd.it/70c58h5u3obf1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-07-08 19:13:12,033 - INFO - Downloaded media from https://v.redd.it/70c58h5u3obf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-07-08 19:13:13,824 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-08 19:13:30,196 - INFO - Posted content successfully. Tweet ID: 1942663348820271423
