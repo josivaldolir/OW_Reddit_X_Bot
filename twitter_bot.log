@@ -914,3 +914,11 @@ Even if sometimes other maps win the voting roulette, I think 5 people voting fo
 2025-07-08 15:43:26,457 - INFO - Video Path: 
 2025-07-08 15:43:26,554 - INFO - Downloaded media from https://preview.redd.it/hdwtcwe10obf1.jpeg?auto=webp&s=3371eccf1d8ebc47000b8f1551d674ead39d3444 to temp_image.jpg
 2025-07-08 15:43:27,549 - INFO - Posted content successfully. Tweet ID: 1942610489743147268
+2025-07-08 16:20:21,015 - INFO - Content: Poor Ramatra melted
+
+2025-07-08 16:20:21,015 - INFO - Image Paths: ['https://external-preview.redd.it/dmhncndha2ZmbWJmMcY5cFNX9goRmPlsmpSBDMIa01W5Hy8yJDTYZsFwQY9C.png?format=pjpg&auto=webp&s=11277dda0b535f7f3ae02ce92bd07db042d133a4']
+2025-07-08 16:20:21,015 - INFO - Video Path: https://v.redd.it/0ywpx9kffmbf1/DASH_1080.mp4?source=fallback
+2025-07-08 16:20:21,153 - INFO - Downloaded media from https://v.redd.it/0ywpx9kffmbf1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-07-08 16:20:21,220 - INFO - Downloaded media from https://v.redd.it/0ywpx9kffmbf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-07-08 16:20:22,153 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-08 16:20:32,617 - INFO - Posted content successfully. Tweet ID: 1942619822459666589
