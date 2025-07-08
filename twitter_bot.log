@@ -813,3 +813,11 @@ That’s all for now with this handsome man. As it seems you liked him more than
 2025-07-08 07:17:01,620 - INFO - Video Path: 
 2025-07-08 07:17:01,802 - INFO - Downloaded media from https://preview.redd.it/eypqvy480ibf1.jpeg?auto=webp&s=d24b27120a48886d6c7c90e66b33cb598a72b108 to temp_image.jpg
 2025-07-08 07:17:03,603 - INFO - Posted content successfully. Tweet ID: 1942483048760521004
+2025-07-08 07:41:28,271 - INFO - Content: juno
+
+2025-07-08 07:41:28,271 - INFO - Image Paths: ['https://external-preview.redd.it/enRkdGp1aXlxbGJmMQQb8lv-eaA9q94IM0Dk4Aq-yhlajKCsJEaL1zTjmuSW.png?format=pjpg&auto=webp&s=7078df2cb22a01625318c8393d9173cbdff30803']
+2025-07-08 07:41:28,271 - INFO - Video Path: https://v.redd.it/notlwagyqlbf1/DASH_480.mp4?source=fallback
+2025-07-08 07:41:28,394 - INFO - Downloaded media from https://v.redd.it/notlwagyqlbf1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-07-08 07:41:28,407 - INFO - Downloaded media from https://v.redd.it/notlwagyqlbf1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-07-08 07:41:28,730 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-08 07:41:31,302 - INFO - Posted content successfully. Tweet ID: 1942489206279827585
