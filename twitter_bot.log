@@ -762,3 +762,10 @@ Jeez, I had to make my own custom game just to visit Aatlis. A bunch of FOMO try
 2025-07-08 01:16:48,480 - INFO - Video Path: 
 2025-07-08 01:16:48,636 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-08 03:06:19,870 - INFO - Content: I made a Small Health Pack plushie for Minecraft!
+I made a Small Health Pack plushie for Minecraft! You can find my original posting and other plushies over at [https://x.com/SilePrinStudios](https://x.com/SilePrinStudios)
+2025-07-08 03:06:19,870 - INFO - Image Paths: ['https://preview.redd.it/dln8kirzojbf1.gif?format=png8&s=dd097b7bc71023aff1407959caf8b8ecb2cf5ac1']
+2025-07-08 03:06:19,870 - INFO - Video Path: 
+2025-07-08 03:06:20,076 - INFO - Downloaded media from https://preview.redd.it/dln8kirzojbf1.gif?format=png8&s=dd097b7bc71023aff1407959caf8b8ecb2cf5ac1 to temp_image.jpg
+2025-07-08 03:06:20,757 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
