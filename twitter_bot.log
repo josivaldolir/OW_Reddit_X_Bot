@@ -896,3 +896,9 @@ Too Many Requests
 2025-07-08 14:16:52,509 - INFO - Video Path: 
 2025-07-08 14:16:52,805 - INFO - Downloaded media from https://preview.redd.it/unwdfjzc8nbf1.jpeg?auto=webp&s=69cf92b36f9500a2589685fd89b78a99a3549b8f to temp_image.jpg
 2025-07-08 14:16:55,438 - INFO - Posted content successfully. Tweet ID: 1942588710324945083
+2025-07-08 14:44:07,153 - INFO - Content: Blizzard after looking at the first results of map voting:
+Even if sometimes other maps win the voting roulette, I think 5 people voting for Route 66 over 1 voting for New Junk City will be pretty telling when the stats arrive... Just sayin'.
+2025-07-08 14:44:07,153 - INFO - Image Paths: ['https://preview.redd.it/g4ku9ph78nbf1.jpeg?auto=webp&s=b14d4da901ef8e281796151716ea81f922e7de27']
+2025-07-08 14:44:07,153 - INFO - Video Path: 
+2025-07-08 14:44:07,334 - INFO - Downloaded media from https://preview.redd.it/g4ku9ph78nbf1.jpeg?auto=webp&s=b14d4da901ef8e281796151716ea81f922e7de27 to temp_image.jpg
+2025-07-08 14:44:09,774 - INFO - Posted content successfully. Tweet ID: 1942595565470298283
