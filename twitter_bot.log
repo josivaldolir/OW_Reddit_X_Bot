@@ -756,3 +756,9 @@ Too Many Requests
 2025-07-07 23:39:51,818 - INFO - Downloaded media from https://preview.redd.it/ps7iy3ad8ibf1.jpg?width=1080&format=pjpg&auto=webp&s=73dbf9dda49b294cc2ade3cd14303dfa020e0669 to temp_image.jpg
 2025-07-07 23:39:53,207 - INFO - Downloaded media from https://preview.redd.it/10ki1wcd8ibf1.jpg?width=1920&format=pjpg&auto=webp&s=8a3d61c3d1d1e9a47034a2ee2dea858eb98115da to temp_image.jpg
 2025-07-07 23:39:54,302 - INFO - Posted content successfully. Tweet ID: 1942368002592366977
+2025-07-08 01:16:48,480 - INFO - Content: Stop being sheeps, and let us practice the new map
+Jeez, I had to make my own custom game just to visit Aatlis. A bunch of FOMO try-hards decided from day one that the map was trash, and the rest of you followed like good little soldiers. Get out of your comfort zone and vote for Aatlis so we can actually learn it and form an educated opinion. You're just sending the message to Blizzard that you don’t want any new maps at all. I hate when the first wave of critics crucifies something so hard that nobody afterward feels allowed to make up their own mind.
+2025-07-08 01:16:48,480 - INFO - Image Paths: []
+2025-07-08 01:16:48,480 - INFO - Video Path: 
+2025-07-08 01:16:48,636 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
