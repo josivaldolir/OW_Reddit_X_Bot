@@ -937,3 +937,10 @@ Best tank but gets defeated by a banana
 2025-07-08 17:15:21,948 - INFO - Downloaded media from https://v.redd.it/5u8tm0xj8nbf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-07-08 17:15:22,569 - INFO - Combined video and audio into temp_combined.mp4
 2025-07-08 17:15:30,242 - INFO - Posted content successfully. Tweet ID: 1942633653374443924
+2025-07-08 17:43:02,089 - INFO - Content: Morrison’s honest reaction
+
+2025-07-08 17:43:02,089 - INFO - Image Paths: ['https://preview.redd.it/ze6gehw04obf1.jpeg?auto=webp&s=67a0bb5277ca42c6ef76471f6d025010497b23e3']
+2025-07-08 17:43:02,089 - INFO - Video Path: 
+2025-07-08 17:43:02,268 - INFO - Downloaded media from https://preview.redd.it/ze6gehw04obf1.jpeg?auto=webp&s=67a0bb5277ca42c6ef76471f6d025010497b23e3 to temp_image.jpg
+2025-07-08 17:43:03,207 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
