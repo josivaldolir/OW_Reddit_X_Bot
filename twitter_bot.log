@@ -922,3 +922,10 @@ Even if sometimes other maps win the voting roulette, I think 5 people voting fo
 2025-07-08 16:20:21,220 - INFO - Downloaded media from https://v.redd.it/0ywpx9kffmbf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-07-08 16:20:22,153 - INFO - Combined video and audio into temp_combined.mp4
 2025-07-08 16:20:32,617 - INFO - Posted content successfully. Tweet ID: 1942619822459666589
+2025-07-08 16:50:32,932 - INFO - Content: Morrison’s honest reaction
+
+2025-07-08 16:50:32,932 - INFO - Image Paths: ['https://preview.redd.it/ze6gehw04obf1.jpeg?auto=webp&s=67a0bb5277ca42c6ef76471f6d025010497b23e3']
+2025-07-08 16:50:32,933 - INFO - Video Path: 
+2025-07-08 16:50:32,987 - INFO - Downloaded media from https://preview.redd.it/ze6gehw04obf1.jpeg?auto=webp&s=67a0bb5277ca42c6ef76471f6d025010497b23e3 to temp_image.jpg
+2025-07-08 16:50:33,809 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
