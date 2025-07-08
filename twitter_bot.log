@@ -852,3 +852,12 @@ Was actually very sacred she was going to call me out for hacking but either way
 2025-07-08 09:43:13,794 - INFO - Combined video and audio into temp_combined.mp4
 2025-07-08 09:43:18,776 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-08 10:17:32,879 - INFO - Content: Game sense 10,000
+Was actually very sacred she was going to call me out for hacking but either way it was cool lol
+2025-07-08 10:17:32,879 - INFO - Image Paths: ['https://external-preview.redd.it/NnRiaGFxOXdka2JmMfeFmYQo_J0DmBb-E6DnFldG07zIkBBD8d-rNKVQrVWG.png?format=pjpg&auto=webp&s=4f031e7f0488fe62d2d992fb3fedbed7a307492d']
+2025-07-08 10:17:32,879 - INFO - Video Path: https://v.redd.it/83fcckewdkbf1/DASH_1080.mp4?source=fallback
+2025-07-08 10:17:32,933 - INFO - Downloaded media from https://v.redd.it/83fcckewdkbf1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-07-08 10:17:33,011 - INFO - Downloaded media from https://v.redd.it/83fcckewdkbf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-07-08 10:17:33,538 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-08 10:17:39,054 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
