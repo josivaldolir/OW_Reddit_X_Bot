@@ -828,3 +828,9 @@ I could understand when we didn't have a choice. I could understand if they took
 2025-07-08 08:22:44,781 - INFO - Image Paths: []
 2025-07-08 08:22:44,781 - INFO - Video Path: 
 2025-07-08 08:22:45,082 - INFO - Posted content successfully. Tweet ID: 1942499582216122566
+2025-07-08 08:50:26,673 - INFO - Content: My reaction when someone votes for Push and Flashpoint maps
+
+2025-07-08 08:50:26,673 - INFO - Image Paths: ['https://preview.redd.it/uoam0uaw4mbf1.gif?format=png8&s=cbe7036a54ab3c1b365b1a73635cbfacce6e9699']
+2025-07-08 08:50:26,673 - INFO - Video Path: 
+2025-07-08 08:50:26,895 - INFO - Downloaded media from https://preview.redd.it/uoam0uaw4mbf1.gif?format=png8&s=cbe7036a54ab3c1b365b1a73635cbfacce6e9699 to temp_image.jpg
+2025-07-08 08:50:28,436 - INFO - Posted content successfully. Tweet ID: 1942506558555840574
