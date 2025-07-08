@@ -986,3 +986,16 @@ nephew: no *jumps into the enemy team and stands still trying to shoot his beam 
 2025-07-08 20:17:52,891 - INFO - Downloaded media from https://preview.redd.it/vx8i1bec9obf1.jpeg?auto=webp&s=e3eaebfa37dd92eb2e919fa1d607e558b5fa149d to temp_image.jpg
 2025-07-08 20:17:53,570 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-08 20:43:14,789 - INFO - Content: me letting my nephew play overwatch:
+me: do you need me to show you what to do?
+
+nephew: NO I KNOW HOW TO PLAY I PLAY THIS MULTIPLE TIMES A WEEK *chooses winton*
+
+me: do you know how to play him?
+
+nephew: no *jumps into the enemy team and stands still trying to shoot his beam at enemies out of range*
+2025-07-08 20:43:14,789 - INFO - Image Paths: ['https://preview.redd.it/vx8i1bec9obf1.jpeg?auto=webp&s=e3eaebfa37dd92eb2e919fa1d607e558b5fa149d']
+2025-07-08 20:43:14,789 - INFO - Video Path: 
+2025-07-08 20:43:14,878 - INFO - Downloaded media from https://preview.redd.it/vx8i1bec9obf1.jpeg?auto=webp&s=e3eaebfa37dd92eb2e919fa1d607e558b5fa149d to temp_image.jpg
+2025-07-08 20:43:15,508 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
