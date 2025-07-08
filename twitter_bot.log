@@ -944,3 +944,12 @@ Best tank but gets defeated by a banana
 2025-07-08 17:43:02,268 - INFO - Downloaded media from https://preview.redd.it/ze6gehw04obf1.jpeg?auto=webp&s=67a0bb5277ca42c6ef76471f6d025010497b23e3 to temp_image.jpg
 2025-07-08 17:43:03,207 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-08 18:22:14,409 - INFO - Content: Overwatch gathering at Anime Expo 2025
+It took me a long time to film this but totally worth it!!🥹 (IG: Cookietagram_ | TikTok: Cookietok)
+2025-07-08 18:22:14,409 - INFO - Image Paths: ['https://external-preview.redd.it/N3R6cW5nbnQzb2JmMSVRRH_Oco5vSPSYi4ZNjo1HNQXJtsRUzYaAL_Qzaa-H.png?format=pjpg&auto=webp&s=ca57743ab46c7b8212f8c7f99a2ca8cab75c58ea']
+2025-07-08 18:22:14,409 - INFO - Video Path: https://v.redd.it/70c58h5u3obf1/DASH_1080.mp4?source=fallback
+2025-07-08 18:22:14,752 - INFO - Downloaded media from https://v.redd.it/70c58h5u3obf1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-07-08 18:22:14,968 - INFO - Downloaded media from https://v.redd.it/70c58h5u3obf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-07-08 18:22:17,473 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-08 18:22:29,987 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
