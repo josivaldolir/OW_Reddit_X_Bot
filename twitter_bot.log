@@ -883,3 +883,10 @@ Too Many Requests
 2025-07-08 12:33:21,486 - INFO - Downloaded media from https://preview.redd.it/unwdfjzc8nbf1.jpeg?auto=webp&s=69cf92b36f9500a2589685fd89b78a99a3549b8f to temp_image.jpg
 2025-07-08 12:33:22,743 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-08 13:32:10,908 - INFO - Content: Blizzard after looking at the first map voting stats:
+
+2025-07-08 13:32:10,908 - INFO - Image Paths: ['https://preview.redd.it/unwdfjzc8nbf1.jpeg?auto=webp&s=69cf92b36f9500a2589685fd89b78a99a3549b8f']
+2025-07-08 13:32:10,908 - INFO - Video Path: 
+2025-07-08 13:32:11,032 - INFO - Downloaded media from https://preview.redd.it/unwdfjzc8nbf1.jpeg?auto=webp&s=69cf92b36f9500a2589685fd89b78a99a3549b8f to temp_image.jpg
+2025-07-08 13:32:12,334 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
