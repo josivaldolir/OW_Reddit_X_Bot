@@ -1278,3 +1278,12 @@ Too Many Requests
 2025-07-09 14:16:47,310 - INFO - Video Path: 
 2025-07-09 14:16:47,328 - INFO - Downloaded media from https://preview.redd.it/9v721mnb5ubf1.png?auto=webp&s=e7442f50abf7f306288b5bce4e2d2258b87d18b1 to temp_image.jpg
 2025-07-09 14:16:48,876 - INFO - Posted content successfully. Tweet ID: 1942951071816757412
+2025-07-09 14:44:27,154 - INFO - Content: Shadow diff 🗿
+
+2025-07-09 14:44:27,154 - INFO - Image Paths: ['https://external-preview.redd.it/M3A1YmZ2ZGFmdWJmMcsh5z8u8ftkCTE5LfwM7mKvMGAXYpU13MxRSShVR6IK.png?format=pjpg&auto=webp&s=3b03af38b95e0d6822d6e19d17b28362984b52cd']
+2025-07-09 14:44:27,154 - INFO - Video Path: https://v.redd.it/vmppwmdafubf1/DASH_720.mp4?source=fallback
+2025-07-09 14:44:27,505 - INFO - Downloaded media from https://v.redd.it/vmppwmdafubf1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-07-09 14:44:27,578 - INFO - Downloaded media from https://v.redd.it/vmppwmdafubf1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-07-09 14:44:28,623 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-09 14:44:39,193 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
