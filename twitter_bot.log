@@ -1058,3 +1058,13 @@ nephew: no *jumps into the enemy team and stands still trying to shoot his beam 
 2025-07-08 23:40:17,280 - INFO - Downloaded media from https://preview.redd.it/5leeg520vpbf1.png?width=1060&format=png&auto=webp&s=2a8054d8b4992aba678a105b0b42fc43487c1cad to temp_image.jpg
 2025-07-08 23:40:18,075 - INFO - Downloaded media from https://preview.redd.it/40e23oc0vpbf1.png?width=1060&format=png&auto=webp&s=6738581e82ffa06f54d2b2cb7ac16ac570668f52 to temp_image.jpg
 2025-07-08 23:40:19,240 - INFO - Posted content successfully. Tweet ID: 1942730495055520169
+2025-07-09 03:08:51,135 - INFO - Content: Lifeguard Cole Cassidy Cosplay
+@bohemiancosplays
+2025-07-09 03:08:51,135 - INFO - Image Paths: ['https://preview.redd.it/9bghl041cqbf1.jpg?width=1440&format=pjpg&auto=webp&s=1faa0bed3cfc250616e26aea934a497b2f85a0f9', 'https://preview.redd.it/z6w98941cqbf1.jpg?width=3276&format=pjpg&auto=webp&s=d1733de00bac669025643f1afd59fa114b56aef0', 'https://preview.redd.it/eq6tv341cqbf1.jpg?width=1440&format=pjpg&auto=webp&s=4fa31e78267c25866358e8da815e1729cd8a79b4', 'https://preview.redd.it/4zq9cd41cqbf1.jpg?width=3024&format=pjpg&auto=webp&s=ff23ea57f036cb07feff185c3c692fb39ff393a0']
+2025-07-09 03:08:51,135 - INFO - Video Path: 
+2025-07-09 03:08:51,312 - INFO - Downloaded media from https://preview.redd.it/9bghl041cqbf1.jpg?width=1440&format=pjpg&auto=webp&s=1faa0bed3cfc250616e26aea934a497b2f85a0f9 to temp_image.jpg
+2025-07-09 03:08:52,208 - INFO - Downloaded media from https://preview.redd.it/z6w98941cqbf1.jpg?width=3276&format=pjpg&auto=webp&s=d1733de00bac669025643f1afd59fa114b56aef0 to temp_image.jpg
+2025-07-09 03:08:53,612 - INFO - Downloaded media from https://preview.redd.it/eq6tv341cqbf1.jpg?width=1440&format=pjpg&auto=webp&s=4fa31e78267c25866358e8da815e1729cd8a79b4 to temp_image.jpg
+2025-07-09 03:08:54,330 - INFO - Downloaded media from https://preview.redd.it/4zq9cd41cqbf1.jpg?width=3024&format=pjpg&auto=webp&s=ff23ea57f036cb07feff185c3c692fb39ff393a0 to temp_image.jpg
+2025-07-09 03:08:55,790 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
