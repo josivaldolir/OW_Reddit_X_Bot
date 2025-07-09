@@ -1338,3 +1338,12 @@ Kindergarten is a ridiculous game, please suggest different Overwatch characters
 2025-07-09 16:49:48,769 - INFO - Downloaded media from https://preview.redd.it/lknkzc7wcvbf1.png?auto=webp&s=811e19cf6c7952ed41ff1ac5fd470ee2b1ee3962 to temp_image.jpg
 2025-07-09 16:49:49,481 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-09 17:16:33,395 - INFO - Content: Insane life grip, thank you Lifeweaver!
+
+2025-07-09 17:16:33,395 - INFO - Image Paths: ['https://external-preview.redd.it/cGQ1bG5rZjJ6cWJmMWq_uFnh6qc6ohEXlwjGrHgTD5Re3jLlvNBbmcwjl22C.png?format=pjpg&auto=webp&s=4a46604a6bf67c6a67fe642c929fd406df6053fd']
+2025-07-09 17:16:33,395 - INFO - Video Path: https://v.redd.it/ang12kf2zqbf1/DASH_1080.mp4?source=fallback
+2025-07-09 17:16:34,515 - INFO - Downloaded media from https://v.redd.it/ang12kf2zqbf1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-07-09 17:16:34,725 - INFO - Downloaded media from https://v.redd.it/ang12kf2zqbf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-07-09 17:16:35,210 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-09 17:16:42,838 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
