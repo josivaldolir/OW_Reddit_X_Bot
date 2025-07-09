@@ -1105,3 +1105,10 @@ Genuinely so confused over this
 2025-07-09 06:24:46,403 - INFO - Downloaded media from https://preview.redd.it/eq6tv341cqbf1.jpg?width=1440&format=pjpg&auto=webp&s=4fa31e78267c25866358e8da815e1729cd8a79b4 to temp_image.jpg
 2025-07-09 06:24:47,052 - INFO - Downloaded media from https://preview.redd.it/4zq9cd41cqbf1.jpg?width=3024&format=pjpg&auto=webp&s=ff23ea57f036cb07feff185c3c692fb39ff393a0 to temp_image.jpg
 2025-07-09 06:24:48,795 - INFO - Posted content successfully. Tweet ID: 1942832288313532511
+2025-07-09 06:53:00,218 - INFO - Content: Getting a $40 skin for free is crazy, but I'll absolutely take it! A skin I actually really wanted too!
+Lootboxes don't give you something you want often, but damn it feels good when they do.
+2025-07-09 06:53:00,218 - INFO - Image Paths: ['https://preview.redd.it/apytxobjvqbf1.png?auto=webp&s=15d7af85858988ec74c7795a2a3c066335bc64fd']
+2025-07-09 06:53:00,218 - INFO - Video Path: 
+2025-07-09 06:53:00,300 - INFO - Downloaded media from https://preview.redd.it/apytxobjvqbf1.png?auto=webp&s=15d7af85858988ec74c7795a2a3c066335bc64fd to temp_image.jpg
+2025-07-09 06:53:01,027 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
