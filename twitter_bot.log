@@ -1078,3 +1078,9 @@ Too Many Requests
 2025-07-09 04:07:41,525 - INFO - Downloaded media from https://preview.redd.it/4zq9cd41cqbf1.jpg?width=3024&format=pjpg&auto=webp&s=ff23ea57f036cb07feff185c3c692fb39ff393a0 to temp_image.jpg
 2025-07-09 04:07:42,741 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-09 04:55:40,914 - INFO - Content: This mission would go smoother if everyone had Leshawna Balls
+
+2025-07-09 04:55:40,915 - INFO - Image Paths: ['https://preview.redd.it/4ysiqtmcurbf1.jpeg?auto=webp&s=700ab9d881b9aa0ab8b5f9a63a30331b6c44c94d']
+2025-07-09 04:55:40,915 - INFO - Video Path: 
+2025-07-09 04:55:41,119 - INFO - Downloaded media from https://preview.redd.it/4ysiqtmcurbf1.jpeg?auto=webp&s=700ab9d881b9aa0ab8b5f9a63a30331b6c44c94d to temp_image.jpg
+2025-07-09 04:55:42,189 - INFO - Posted content successfully. Tweet ID: 1942809864134144365
