@@ -1401,3 +1401,17 @@ And as Juno player, don't be afraid to use it for yourself, knowing you instantl
 2025-07-09 20:18:20,511 - INFO - Video Path: 
 2025-07-09 20:18:20,682 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-09 20:42:34,998 - INFO - Content: It's been almost a year and people still don't know how Juno's Hyper Ring (speed boost) works
+I always pay attention to how my teammates are using Hyper Ring before the match starts and it's crazy how people have many different strategies, but they are all inefficient in different levels and it's probaby because they don't know how the ability works, despite many of these Juno players having over 50 hours on her (not their fault though, there's a very unintuitive part about it). So here are the main things you need to know about it to learn how to properly use it:
+
+Hyper Ring is actually a projectile (that can't be eaten/blocked, likely because it can't harm the enemy) that shortly stops after being fired and stays active as a static ring for a few seconds. However, even it's not visually there, the projectile is the size of the final ring, and the speed boost is activated when teammates are affected by the projectile, before it becomes a static ring.
+
+In other words, anyone caught in front of you will gain the speed buff, and passing through the ring will refresh the buff. Juno instantly gets the buff upon using Hyper Ring no matter what, and she can also refresh it by passing through the ring.
+
+So when the match starts, the best way to use it is behind your teammates and when the spawn door opens, not before. Just make sure they are affected by the initial projectile, and if the map geometry allows it, make sure they can refresh the duration but passing through the ring shortly after.
+
+And as Juno player, don't be afraid to use it for yourself, knowing you instantly get the speed boost without having to compromise your positioning to pass through the ring.
+2025-07-09 20:42:34,999 - INFO - Image Paths: []
+2025-07-09 20:42:34,999 - INFO - Video Path: 
+2025-07-09 20:42:35,150 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
