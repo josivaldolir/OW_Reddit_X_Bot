@@ -1084,3 +1084,9 @@ Too Many Requests
 2025-07-09 04:55:40,915 - INFO - Video Path: 
 2025-07-09 04:55:41,119 - INFO - Downloaded media from https://preview.redd.it/4ysiqtmcurbf1.jpeg?auto=webp&s=700ab9d881b9aa0ab8b5f9a63a30331b6c44c94d to temp_image.jpg
 2025-07-09 04:55:42,189 - INFO - Posted content successfully. Tweet ID: 1942809864134144365
+2025-07-09 05:20:45,594 - INFO - Content: The road to All Star sure has been... A journey for sure.
+
+2025-07-09 05:20:45,594 - INFO - Image Paths: ['https://preview.redd.it/71fd6jn00sbf1.jpeg?auto=webp&s=97a2e09519b64eca31a4cebf313434eca474f427']
+2025-07-09 05:20:45,594 - INFO - Video Path: 
+2025-07-09 05:20:45,660 - INFO - Downloaded media from https://preview.redd.it/71fd6jn00sbf1.jpeg?auto=webp&s=97a2e09519b64eca31a4cebf313434eca474f427 to temp_image.jpg
+2025-07-09 05:20:46,408 - INFO - Posted content successfully. Tweet ID: 1942816173717921919
