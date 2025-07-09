@@ -1365,3 +1365,10 @@ Too Many Requests
 2025-07-09 18:23:20,324 - INFO - Combined video and audio into temp_combined.mp4
 2025-07-09 18:23:26,664 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-09 18:51:46,931 - INFO - Content: Can't hit the side of a barn
+I get it, you like Widowmaker's design and you want to try her out, that's cool! But if it's been half a match and the other DPS is already pulling double digits while you only got 4 kills then maaaybe change to something more straight forward?
+2025-07-09 18:51:46,931 - INFO - Image Paths: ['https://preview.redd.it/rles9z0teubf1.jpeg?auto=webp&s=ed7d320f1615d5dc1d10544b672a33253671e69a']
+2025-07-09 18:51:46,931 - INFO - Video Path: 
+2025-07-09 18:51:47,072 - INFO - Downloaded media from https://preview.redd.it/rles9z0teubf1.jpeg?auto=webp&s=ed7d320f1615d5dc1d10544b672a33253671e69a to temp_image.jpg
+2025-07-09 18:51:50,397 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
