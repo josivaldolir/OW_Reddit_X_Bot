@@ -1246,3 +1246,12 @@ Any suggestions for funny photoshop memes would be appreciated. No promises I’
 2025-07-09 11:15:20,648 - INFO - Downloaded media from https://preview.redd.it/n46027mn1tbf1.jpeg?auto=webp&s=cbf864469b44d6f7508f36ef95550ce44f3baef0 to temp_image.jpg
 2025-07-09 11:15:21,371 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-09 11:39:06,048 - INFO - Content: 💀💀💀
+
+2025-07-09 11:39:06,049 - INFO - Image Paths: ['https://external-preview.redd.it/cmY5aHZ0a3l6dGJmMfd9foe5z083-YFT3j5aQwPVoKNWrkreNbe30TGofqKN.png?format=pjpg&auto=webp&s=5cb3338e89f232c8ed603e35ed528a6199204082']
+2025-07-09 11:39:06,049 - INFO - Video Path: https://v.redd.it/kieah4jyztbf1/DASH_480.mp4?source=fallback
+2025-07-09 11:39:06,301 - INFO - Downloaded media from https://v.redd.it/kieah4jyztbf1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-07-09 11:39:06,343 - INFO - Downloaded media from https://v.redd.it/kieah4jyztbf1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-07-09 11:39:09,079 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-09 11:39:17,150 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
