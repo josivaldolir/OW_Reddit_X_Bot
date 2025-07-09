@@ -1126,3 +1126,10 @@ Too Many Requests
 2025-07-09 07:42:17,115 - INFO - Downloaded media from https://preview.redd.it/2jxb4dsxnsbf1.jpeg?auto=webp&s=c503c5e59173b480b5765e290ec5369c0b593bab to temp_image.jpg
 2025-07-09 07:42:17,822 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-09 08:21:44,686 - INFO - Content: Bring back all the maps. LET US VOTE!
+
+2025-07-09 08:21:44,687 - INFO - Image Paths: ['https://preview.redd.it/2jxb4dsxnsbf1.jpeg?auto=webp&s=c503c5e59173b480b5765e290ec5369c0b593bab']
+2025-07-09 08:21:44,687 - INFO - Video Path: 
+2025-07-09 08:21:44,823 - INFO - Downloaded media from https://preview.redd.it/2jxb4dsxnsbf1.jpeg?auto=webp&s=c503c5e59173b480b5765e290ec5369c0b593bab to temp_image.jpg
+2025-07-09 08:21:45,452 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
