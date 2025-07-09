@@ -1475,3 +1475,12 @@ And as Juno player, don't be afraid to use it for yourself, knowing you instantl
 2025-07-09 23:16:33,144 - INFO - Video Path: 
 2025-07-09 23:16:33,293 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-09 23:39:42,265 - INFO - Content: Map vote, everytime
+
+2025-07-09 23:39:42,265 - INFO - Image Paths: ['https://external-preview.redd.it/N2o1dXJuaTdnd2JmMUbN5SPmH2lTzPrYMO1yDNjpQrR8q_l0EduN3GpoK6zt.png?format=pjpg&auto=webp&s=e07be3eab342d95969d7dd1541f0f4c68819f38d']
+2025-07-09 23:39:42,265 - INFO - Video Path: https://v.redd.it/kdowt2i7gwbf1/DASH_1080.mp4?source=fallback
+2025-07-09 23:39:42,458 - INFO - Downloaded media from https://v.redd.it/kdowt2i7gwbf1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-07-09 23:39:42,516 - INFO - Downloaded media from https://v.redd.it/kdowt2i7gwbf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-07-09 23:39:45,888 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-09 23:39:50,261 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
