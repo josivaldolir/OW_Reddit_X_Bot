@@ -1331,3 +1331,10 @@ Any suggestions for funny photoshop memes would be appreciated. No promises I’
 2025-07-09 16:19:01,809 - INFO - Video Path: 
 2025-07-09 16:19:01,864 - INFO - Downloaded media from https://preview.redd.it/n46027mn1tbf1.jpeg?auto=webp&s=cbf864469b44d6f7508f36ef95550ce44f3baef0 to temp_image.jpg
 2025-07-09 16:19:03,110 - INFO - Posted content successfully. Tweet ID: 1942981834536792383
+2025-07-09 16:49:48,713 - INFO - Content: Bored, and thought this game fit!
+Kindergarten is a ridiculous game, please suggest different Overwatch characters if the ones I put don't fit. 
+2025-07-09 16:49:48,713 - INFO - Image Paths: ['https://preview.redd.it/lknkzc7wcvbf1.png?auto=webp&s=811e19cf6c7952ed41ff1ac5fd470ee2b1ee3962']
+2025-07-09 16:49:48,713 - INFO - Video Path: 
+2025-07-09 16:49:48,769 - INFO - Downloaded media from https://preview.redd.it/lknkzc7wcvbf1.png?auto=webp&s=811e19cf6c7952ed41ff1ac5fd470ee2b1ee3962 to temp_image.jpg
+2025-07-09 16:49:49,481 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
