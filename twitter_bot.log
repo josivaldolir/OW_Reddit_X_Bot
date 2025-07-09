@@ -1146,3 +1146,10 @@ Too Many Requests
 2025-07-09 09:18:53,306 - INFO - Video Path: 
 2025-07-09 09:18:53,530 - INFO - Downloaded media from https://preview.redd.it/2jxb4dsxnsbf1.jpeg?auto=webp&s=c503c5e59173b480b5765e290ec5369c0b593bab to temp_image.jpg
 2025-07-09 09:18:54,337 - INFO - Posted content successfully. Tweet ID: 1942876101589807423
+2025-07-09 09:43:57,739 - INFO - Content: Getting a $40 skin for free is crazy, but I'll absolutely take it! A skin I actually really wanted too!
+Lootboxes don't give you something you want often, but damn it feels good when they do.
+2025-07-09 09:43:57,739 - INFO - Image Paths: ['https://preview.redd.it/apytxobjvqbf1.png?auto=webp&s=15d7af85858988ec74c7795a2a3c066335bc64fd']
+2025-07-09 09:43:57,739 - INFO - Video Path: 
+2025-07-09 09:43:57,800 - INFO - Downloaded media from https://preview.redd.it/apytxobjvqbf1.png?auto=webp&s=15d7af85858988ec74c7795a2a3c066335bc64fd to temp_image.jpg
+2025-07-09 09:43:58,596 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
