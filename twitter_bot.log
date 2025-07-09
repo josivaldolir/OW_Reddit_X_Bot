@@ -1379,3 +1379,11 @@ I get it, you like Widowmaker's design and you want to try her out, that's cool!
 2025-07-09 19:14:18,289 - INFO - Downloaded media from https://preview.redd.it/rles9z0teubf1.jpeg?auto=webp&s=ed7d320f1615d5dc1d10544b672a33253671e69a to temp_image.jpg
 2025-07-09 19:14:19,638 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-09 19:36:58,854 - INFO - Content: Map vote, every time
+
+2025-07-09 19:36:58,854 - INFO - Image Paths: ['https://external-preview.redd.it/aHF2NjN6bnljd2JmMUbN5SPmH2lTzPrYMO1yDNjpQrR8q_l0EduN3GpoK6zt.png?format=pjpg&auto=webp&s=6b9ef8401dd94cd8ca2c562277e7849f49486241']
+2025-07-09 19:36:58,854 - INFO - Video Path: https://v.redd.it/vsa66znycwbf1/DASH_1080.mp4?source=fallback
+2025-07-09 19:36:59,890 - INFO - Downloaded media from https://v.redd.it/vsa66znycwbf1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-07-09 19:36:59,925 - INFO - Downloaded media from https://v.redd.it/vsa66znycwbf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-07-09 19:37:03,016 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-09 19:37:09,701 - INFO - Posted content successfully. Tweet ID: 1943031690672377974
