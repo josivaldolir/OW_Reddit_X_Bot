@@ -1538,3 +1538,10 @@ Too Many Requests
 2025-07-10 05:46:28,771 - INFO - Video Path: 
 2025-07-10 05:46:29,021 - INFO - Downloaded media from https://preview.redd.it/qi13a3wu8zbf1.png?auto=webp&s=b19f4459b2b560a59fa7137832bd38901d03ffa1 to temp_image.jpg
 2025-07-10 05:46:30,118 - INFO - Posted content successfully. Tweet ID: 1943185036167254140
+2025-07-10 06:24:47,424 - INFO - Content: Support mains just get it
+When you see us supports doing our goofy little things just know that is us communicating telepathically, we know exactly what each move means somehow. Great times when you and your Co-Support know what is about to go down and got each others back till the end.
+2025-07-10 06:24:47,424 - INFO - Image Paths: ['https://preview.redd.it/ruv9wo9e1zbf1.png?auto=webp&s=3d34214cc7ca44a144fe9cb11a7837c71082fb54']
+2025-07-10 06:24:47,424 - INFO - Video Path: 
+2025-07-10 06:24:47,547 - INFO - Downloaded media from https://preview.redd.it/ruv9wo9e1zbf1.png?auto=webp&s=3d34214cc7ca44a144fe9cb11a7837c71082fb54 to temp_image.jpg
+2025-07-10 06:24:48,185 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
