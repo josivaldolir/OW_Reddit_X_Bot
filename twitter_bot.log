@@ -1507,3 +1507,11 @@ Too Many Requests
 2025-07-10 03:08:10,774 - INFO - Combined video and audio into temp_combined.mp4
 2025-07-10 03:08:20,956 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-10 04:05:18,537 - INFO - Content: Do you think we will never get a Ramattra talon skin?
+
+2025-07-10 04:05:18,537 - INFO - Image Paths: ['https://external-preview.redd.it/NzRjOHByeDV3d2JmMf3PecZossw0_pHvMcdhSJPl6AfT0IE5Hf-GdF6ADq4o.png?format=pjpg&auto=webp&s=2752f16c37dec6d795e05a8b71dd39900c71784b']
+2025-07-10 04:05:18,537 - INFO - Video Path: https://v.redd.it/fl2i2a06wwbf1/DASH_480.mp4?source=fallback
+2025-07-10 04:05:18,897 - INFO - Downloaded media from https://v.redd.it/fl2i2a06wwbf1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-07-10 04:05:19,050 - INFO - Downloaded media from https://v.redd.it/fl2i2a06wwbf1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-07-10 04:05:19,648 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-10 04:05:29,957 - INFO - Posted content successfully. Tweet ID: 1943159617833570797
