@@ -1498,3 +1498,12 @@ And as Juno player, don't be afraid to use it for yourself, knowing you instantl
 2025-07-10 01:17:42,263 - INFO - Video Path: 
 2025-07-10 01:17:42,405 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-10 03:08:07,859 - INFO - Content: Do you think we will never get a Ramattra talon skin?
+
+2025-07-10 03:08:07,859 - INFO - Image Paths: ['https://external-preview.redd.it/NzRjOHByeDV3d2JmMf3PecZossw0_pHvMcdhSJPl6AfT0IE5Hf-GdF6ADq4o.png?format=pjpg&auto=webp&s=2752f16c37dec6d795e05a8b71dd39900c71784b']
+2025-07-10 03:08:07,859 - INFO - Video Path: https://v.redd.it/fl2i2a06wwbf1/DASH_480.mp4?source=fallback
+2025-07-10 03:08:08,108 - INFO - Downloaded media from https://v.redd.it/fl2i2a06wwbf1/DASH_480.mp4?source=fallback to temp_video.mp4
+2025-07-10 03:08:08,203 - INFO - Downloaded media from https://v.redd.it/fl2i2a06wwbf1/DASH_480.mp4?source=fallback to temp_audio.mp4
+2025-07-10 03:08:10,774 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-10 03:08:20,956 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
