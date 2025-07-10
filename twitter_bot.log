@@ -1552,3 +1552,11 @@ as a kiri main I gotta admit this voice line is annoying, maybe that’s why I l
 2025-07-10 06:53:43,074 - INFO - Downloaded media from https://preview.redd.it/ofy4l0auizbf1.jpg?width=2048&format=pjpg&auto=webp&s=023adbf43bf946cadf1be57627226e4a62fbe8c9 to temp_image.jpg
 2025-07-10 06:53:43,910 - INFO - Downloaded media from https://preview.redd.it/c4rhbn9uizbf1.jpg?width=2048&format=pjpg&auto=webp&s=1b411a59f51fc3bf3b4a0bb9536ddfce15a8d8f0 to temp_image.jpg
 2025-07-10 06:53:45,551 - INFO - Posted content successfully. Tweet ID: 1943201961266029039
+2025-07-10 07:18:35,247 - INFO - Content: Map vote, everytime
+
+2025-07-10 07:18:35,248 - INFO - Image Paths: ['https://external-preview.redd.it/N2o1dXJuaTdnd2JmMUbN5SPmH2lTzPrYMO1yDNjpQrR8q_l0EduN3GpoK6zt.png?format=pjpg&auto=webp&s=e07be3eab342d95969d7dd1541f0f4c68819f38d']
+2025-07-10 07:18:35,248 - INFO - Video Path: https://v.redd.it/kdowt2i7gwbf1/DASH_1080.mp4?source=fallback
+2025-07-10 07:18:35,741 - INFO - Downloaded media from https://v.redd.it/kdowt2i7gwbf1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-07-10 07:18:35,767 - INFO - Downloaded media from https://v.redd.it/kdowt2i7gwbf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-07-10 07:18:36,299 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-10 07:18:43,270 - INFO - Posted content successfully. Tweet ID: 1943208243746214047
