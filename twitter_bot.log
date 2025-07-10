@@ -1706,3 +1706,10 @@ After 4 minutes of actual fighting, our wrecking ball friended the enemy team, a
 2025-07-10 18:50:29,795 - INFO - Downloaded media from https://preview.redd.it/ny4z3c9dmzbf1.png?auto=webp&s=117e8f404d08be522e5e6d50b138554f253f50b3 to temp_image.jpg
 2025-07-10 18:50:30,433 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-10 19:13:18,524 - INFO - Content: Yes, they paid pro to carry them on hitscan (And yes, people make a living off this)
+
+2025-07-10 19:13:18,524 - INFO - Image Paths: ['https://preview.redd.it/9used6kk63cf1.jpeg?auto=webp&s=dc6498b9cdb5a23ddb579b3022b59fe39a4baee7']
+2025-07-10 19:13:18,524 - INFO - Video Path: 
+2025-07-10 19:13:18,643 - INFO - Downloaded media from https://preview.redd.it/9used6kk63cf1.jpeg?auto=webp&s=dc6498b9cdb5a23ddb579b3022b59fe39a4baee7 to temp_image.jpg
+2025-07-10 19:13:19,591 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
