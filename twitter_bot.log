@@ -1588,3 +1588,10 @@ After 4 minutes of actual fighting, our wrecking ball friended the enemy team, a
 2025-07-10 09:19:45,195 - INFO - Downloaded media from https://preview.redd.it/ny4z3c9dmzbf1.png?auto=webp&s=117e8f404d08be522e5e6d50b138554f253f50b3 to temp_image.jpg
 2025-07-10 09:19:45,843 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-10 09:43:29,553 - INFO - Content: Favorite day of the week
+
+2025-07-10 09:43:29,553 - INFO - Image Paths: ['https://preview.redd.it/6gtztqk4lybf1.jpeg?auto=webp&s=f8313c99fc5f6a2569fa28db3b35b1935a550c02']
+2025-07-10 09:43:29,553 - INFO - Video Path: 
+2025-07-10 09:43:29,580 - INFO - Downloaded media from https://preview.redd.it/6gtztqk4lybf1.jpeg?auto=webp&s=f8313c99fc5f6a2569fa28db3b35b1935a550c02 to temp_image.jpg
+2025-07-10 09:43:30,346 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
