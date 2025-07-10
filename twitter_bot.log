@@ -1741,3 +1741,10 @@ Too Many Requests
 2025-07-10 21:17:46,646 - INFO - Downloaded media from https://preview.redd.it/1tewi28913cf1.jpeg?auto=webp&s=5f80b9bb7fc4c02b1230cc434e0c6a8877a6e206 to temp_image.jpg
 2025-07-10 21:17:48,143 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-10 21:40:58,497 - INFO - Content: The Amazing World of Widow
+
+2025-07-10 21:40:58,497 - INFO - Image Paths: ['https://preview.redd.it/1tewi28913cf1.jpeg?auto=webp&s=5f80b9bb7fc4c02b1230cc434e0c6a8877a6e206']
+2025-07-10 21:40:58,498 - INFO - Video Path: 
+2025-07-10 21:40:58,672 - INFO - Downloaded media from https://preview.redd.it/1tewi28913cf1.jpeg?auto=webp&s=5f80b9bb7fc4c02b1230cc434e0c6a8877a6e206 to temp_image.jpg
+2025-07-10 21:40:59,854 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
