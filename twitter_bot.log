@@ -1726,3 +1726,11 @@ Too Many Requests
 2025-07-10 20:17:59,996 - INFO - Video Path: 
 2025-07-10 20:18:00,180 - INFO - Downloaded media from https://preview.redd.it/9used6kk63cf1.jpeg?auto=webp&s=dc6498b9cdb5a23ddb579b3022b59fe39a4baee7 to temp_image.jpg
 2025-07-10 20:18:01,378 - INFO - Posted content successfully. Tweet ID: 1943404361515962747
+2025-07-10 20:43:14,902 - INFO - Content: 3 examples to never stand still
+
+2025-07-10 20:43:14,902 - INFO - Image Paths: ['https://external-preview.redd.it/MjQ0dzM3dGVvM2NmMS6DaPgvk-Kt5EWHvRgIn-q0fD216IozEaTPaR8p6vhD.png?format=pjpg&auto=webp&s=35d39c9e0f93e27d59f747b753b9eb65a83b4012']
+2025-07-10 20:43:14,902 - INFO - Video Path: https://v.redd.it/jib5e7teo3cf1/DASH_1080.mp4?source=fallback
+2025-07-10 20:43:15,809 - INFO - Downloaded media from https://v.redd.it/jib5e7teo3cf1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-07-10 20:43:15,856 - INFO - Downloaded media from https://v.redd.it/jib5e7teo3cf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-07-10 20:43:18,872 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-10 20:43:27,372 - INFO - Posted content successfully. Tweet ID: 1943410762011271560
