@@ -1595,3 +1595,10 @@ Too Many Requests
 2025-07-10 09:43:29,580 - INFO - Downloaded media from https://preview.redd.it/6gtztqk4lybf1.jpeg?auto=webp&s=f8313c99fc5f6a2569fa28db3b35b1935a550c02 to temp_image.jpg
 2025-07-10 09:43:30,346 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-10 10:18:29,471 - INFO - Content: Some 3000 IQ plays at 2am
+After 4 minutes of actual fighting, our wrecking ball friended the enemy team, and that just casually shifted into making The Tower. The match continued for 50 minutes, before overwatch itself had enough and the server crashed
+2025-07-10 10:18:29,471 - INFO - Image Paths: ['https://preview.redd.it/ny4z3c9dmzbf1.png?auto=webp&s=117e8f404d08be522e5e6d50b138554f253f50b3']
+2025-07-10 10:18:29,471 - INFO - Video Path: 
+2025-07-10 10:18:29,604 - INFO - Downloaded media from https://preview.redd.it/ny4z3c9dmzbf1.png?auto=webp&s=117e8f404d08be522e5e6d50b138554f253f50b3 to temp_image.jpg
+2025-07-10 10:18:30,219 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
