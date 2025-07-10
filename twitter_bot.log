@@ -1532,3 +1532,9 @@ Too Many Requests
 2025-07-10 05:19:41,467 - INFO - Combined video and audio into temp_combined.mp4
 2025-07-10 05:19:49,414 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-10 05:46:28,771 - INFO - Content: When i play with Zenyatta, nothing ever happens, and i'm all in
+
+2025-07-10 05:46:28,771 - INFO - Image Paths: ['https://preview.redd.it/qi13a3wu8zbf1.png?auto=webp&s=b19f4459b2b560a59fa7137832bd38901d03ffa1']
+2025-07-10 05:46:28,771 - INFO - Video Path: 
+2025-07-10 05:46:29,021 - INFO - Downloaded media from https://preview.redd.it/qi13a3wu8zbf1.png?auto=webp&s=b19f4459b2b560a59fa7137832bd38901d03ffa1 to temp_image.jpg
+2025-07-10 05:46:30,118 - INFO - Posted content successfully. Tweet ID: 1943185036167254140
