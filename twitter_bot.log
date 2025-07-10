@@ -1657,3 +1657,9 @@ Everyday
 2025-07-10 15:17:41,923 - INFO - Downloaded media from https://preview.redd.it/k0o8ozf6k1cf1.jpeg?auto=webp&s=d6f71c7496f52df0a8bf83eccb3aee0ec3d7e10d to temp_image.jpg
 2025-07-10 15:17:42,651 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-10 15:44:23,896 - INFO - Content: Stuck in a maze oh oh oh ooooo oh oh ooo
+Everyday 
+2025-07-10 15:44:23,896 - INFO - Image Paths: ['https://preview.redd.it/k0o8ozf6k1cf1.jpeg?auto=webp&s=d6f71c7496f52df0a8bf83eccb3aee0ec3d7e10d']
+2025-07-10 15:44:23,896 - INFO - Video Path: 
+2025-07-10 15:44:24,093 - INFO - Downloaded media from https://preview.redd.it/k0o8ozf6k1cf1.jpeg?auto=webp&s=d6f71c7496f52df0a8bf83eccb3aee0ec3d7e10d to temp_image.jpg
+2025-07-10 15:44:25,475 - INFO - Posted content successfully. Tweet ID: 1943335507737612321
