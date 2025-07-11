@@ -1972,3 +1972,10 @@ Then they wiped us clean.
 2025-07-11 15:42:39,664 - INFO - Downloaded media from https://preview.redd.it/zr58id8659cf1.jpeg?auto=webp&s=43b1c8f5634f18d118d4a3de2243fee897685d0d to temp_image.jpg
 2025-07-11 15:42:41,218 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-11 16:19:41,957 - INFO - Content: No steps backward for zen
+
+2025-07-11 16:19:41,957 - INFO - Image Paths: ['https://preview.redd.it/nmfzusllm9cf1.jpeg?auto=webp&s=81504c0bc60a0f01ca907feb8b4a6abac00c6200']
+2025-07-11 16:19:41,957 - INFO - Video Path: 
+2025-07-11 16:19:42,115 - INFO - Downloaded media from https://preview.redd.it/nmfzusllm9cf1.jpeg?auto=webp&s=81504c0bc60a0f01ca907feb8b4a6abac00c6200 to temp_image.jpg
+2025-07-11 16:19:42,837 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
