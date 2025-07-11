@@ -1818,3 +1818,11 @@ Too Many Requests
 2025-07-11 05:19:46,317 - INFO - Downloaded media from https://external-preview.redd.it/Jjm-X6jg3sADfzkljY81D3PCIHNIOPgAWercvEGdSZU.jpg?auto=webp&s=ae47d5c22d37865522e2b2aba5f5a4a0d57530a7 to temp_image.jpg
 2025-07-11 05:19:47,139 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-11 05:45:58,653 - INFO - Content: Just trying to be different for no reason atp
+I'm nothing like yall
+2025-07-11 05:45:58,653 - INFO - Image Paths: ['https://external-preview.redd.it/emt6cW9iZXF1NWNmMfgT80xlDFF36BwQJ8Elcy6WxCDKmmJ__hnaPOqvv4co.png?format=pjpg&auto=webp&s=109b427f23ac1b715ae4d15723c1d6a30fb3de0e']
+2025-07-11 05:45:58,654 - INFO - Video Path: https://v.redd.it/ptvlv8cqu5cf1/DASH_720.mp4?source=fallback
+2025-07-11 05:45:58,793 - INFO - Downloaded media from https://v.redd.it/ptvlv8cqu5cf1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-07-11 05:45:58,875 - INFO - Downloaded media from https://v.redd.it/ptvlv8cqu5cf1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-07-11 05:45:59,485 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-11 05:46:03,485 - INFO - Posted content successfully. Tweet ID: 1943547312212771178
