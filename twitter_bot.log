@@ -2006,3 +2006,9 @@ All by accident. Had no clue this happened until my Junkrat told me.
 2025-07-11 18:22:08,344 - INFO - Downloaded media from https://v.redd.it/7aekakiin8cf1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-07-11 18:22:11,497 - INFO - Combined video and audio into temp_combined.mp4
 2025-07-11 18:22:17,206 - INFO - Posted content successfully. Tweet ID: 1943737623702290782
+2025-07-11 18:50:09,979 - INFO - Content: A comic I doodled between matches.
+I have a lot of time to draw while waiting in stadium support queue. 
+2025-07-11 18:50:09,979 - INFO - Image Paths: ['https://preview.redd.it/n0uzyfoefacf1.jpeg?auto=webp&s=dff53d119a58ab723c7e9bc3d7f65c392e1c7819']
+2025-07-11 18:50:09,979 - INFO - Video Path: 
+2025-07-11 18:50:10,145 - INFO - Downloaded media from https://preview.redd.it/n0uzyfoefacf1.jpeg?auto=webp&s=dff53d119a58ab723c7e9bc3d7f65c392e1c7819 to temp_image.jpg
+2025-07-11 18:50:12,447 - INFO - Posted content successfully. Tweet ID: 1943744648435970430
