@@ -1998,3 +1998,11 @@ Please. It's annoying. And no I don't want to have to mute ult ability callouts 
 2025-07-11 17:43:02,591 - INFO - Downloaded media from https://v.redd.it/mt6uc9v4t8cf1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-07-11 17:43:05,253 - INFO - Combined video and audio into temp_combined.mp4
 2025-07-11 17:43:11,981 - INFO - Posted content successfully. Tweet ID: 1943727787149279275
+2025-07-11 18:22:08,266 - INFO - Content: The Lifeweaver Incident
+All by accident. Had no clue this happened until my Junkrat told me.
+2025-07-11 18:22:08,266 - INFO - Image Paths: ['https://external-preview.redd.it/d2wybmNramluOGNmMQELN8U5kg4rg5ENTJE_OiW6_yBsbyXvbDLqN9GqdrCU.png?format=pjpg&auto=webp&s=8576cc2ff9b031f0f712c69ebad67c7b5c7c98c3']
+2025-07-11 18:22:08,266 - INFO - Video Path: https://v.redd.it/7aekakiin8cf1/DASH_720.mp4?source=fallback
+2025-07-11 18:22:08,319 - INFO - Downloaded media from https://v.redd.it/7aekakiin8cf1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-07-11 18:22:08,344 - INFO - Downloaded media from https://v.redd.it/7aekakiin8cf1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-07-11 18:22:11,497 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-11 18:22:17,206 - INFO - Posted content successfully. Tweet ID: 1943737623702290782
