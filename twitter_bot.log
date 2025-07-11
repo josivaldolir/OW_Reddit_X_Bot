@@ -1872,3 +1872,11 @@ wtf just happened lol
 2025-07-11 08:49:47,134 - INFO - Downloaded media from https://v.redd.it/803x6otwt3cf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-07-11 08:49:48,837 - INFO - Combined video and audio into temp_combined.mp4
 2025-07-11 08:49:50,645 - ERROR - Failed to post content: 403 Forbidden
+2025-07-11 09:19:00,779 - INFO - Content: I might be the greatest Ashe player of all time
+
+2025-07-11 09:19:00,779 - INFO - Image Paths: ['https://external-preview.redd.it/Y2J2NDdjZzBpMGNmMUDyYPyNgKnYin1yoyTRNsQa6OVzb6IJj8rT3cMv8Ytf.png?format=pjpg&auto=webp&s=c7e9b8c13b98a0fcd0d7f685333594f9e143e653']
+2025-07-11 09:19:00,779 - INFO - Video Path: https://v.redd.it/evn20iv0i0cf1/DASH_1080.mp4?source=fallback
+2025-07-11 09:19:01,607 - INFO - Downloaded media from https://v.redd.it/evn20iv0i0cf1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-07-11 09:19:01,765 - INFO - Downloaded media from https://v.redd.it/evn20iv0i0cf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-07-11 09:19:04,108 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-11 09:19:13,672 - INFO - Posted content successfully. Tweet ID: 1943600958166155739
