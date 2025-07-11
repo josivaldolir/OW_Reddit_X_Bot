@@ -2,11 +2,11 @@ name: Twitter Bot
 
 on:
   schedule:
-    - cron: "*/30 * * * *"  # Executa a cada 30 minutos
-  workflow_dispatch:  # Permite execução manual
+    - cron: "*/30 * * * *"  # Runs every 30 minutes
+  workflow_dispatch:  # Allows manual execution
 
 permissions:
-  contents: write  # Garante que o workflow pode fazer push no repositório
+  contents: write  # Allows the workflow to push to repository
 
 jobs:
   tweet:
@@ -18,12 +18,12 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.11'  # Usa uma versão estável do Python
+          python-version: '3.11'
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install tweepy praw
+          pip install tweepy praw sqlite3
 
       - name: Install FFmpeg
         run: sudo apt-get update && sudo apt-get install -y ffmpeg
@@ -45,25 +45,25 @@ jobs:
         run: |
           python main.py
 
-      - name: Commit seen_posts.txt and twitter_bot.log
+      - name: Commit database and logs
         env:
           GH_PAT: ${{ secrets.OWXBot }}
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
 
-          # Configura autenticação com o token pessoal
+          # Configure authentication with PAT
           git remote set-url origin https://x-access-token:${GH_PAT}@github.com/${{ github.repository }}.git
 
-          # Garante que os arquivos existem
-          touch seen_posts.txt twitter_bot.log
+          # Ensure files exist
+          touch seen_posts.db twitter_bot.log
 
-          # Verifica se há mudanças antes de tentar commitar
-          if git diff --quiet --exit-code seen_posts.txt twitter_bot.log; then
+          # Check for changes before committing
+          if git diff --quiet --exit-code seen_posts.db twitter_bot.log; then
             echo "No changes to commit"
           else
-            git add seen_posts.txt twitter_bot.log
-            git commit -m "Update seen posts and logs"
+            git add seen_posts.db twitter_bot.log*
+            git commit -m "Update database and logs"
             git push origin HEAD:main
           fi
 
