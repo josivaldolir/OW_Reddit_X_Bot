@@ -1896,3 +1896,9 @@ wtf just happened lol
 2025-07-11 10:18:22,620 - INFO - Downloaded media from https://v.redd.it/803x6otwt3cf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-07-11 10:18:24,875 - INFO - Combined video and audio into temp_combined.mp4
 2025-07-11 10:18:25,994 - ERROR - Failed to post content: 403 Forbidden
+2025-07-11 10:46:21,430 - INFO - Content: Favorite day of the week
+
+2025-07-11 10:46:21,430 - INFO - Image Paths: ['https://preview.redd.it/6gtztqk4lybf1.jpeg?auto=webp&s=f8313c99fc5f6a2569fa28db3b35b1935a550c02']
+2025-07-11 10:46:21,430 - INFO - Video Path: 
+2025-07-11 10:46:21,637 - INFO - Downloaded media from https://preview.redd.it/6gtztqk4lybf1.jpeg?auto=webp&s=f8313c99fc5f6a2569fa28db3b35b1935a550c02 to temp_image.jpg
+2025-07-11 10:46:22,693 - INFO - Posted content successfully. Tweet ID: 1943622890340905034
