@@ -1,36 +1,21 @@
-"""Twitter/Reddit cross‑poster bot – versão corrigida
-Principais correções:
-1. Comentários SQL ajustados ("--" em vez de "#").
-2. INSERT/REPLACE em pending_posts corrigido (placeholders, parênteses, tipos).
-3. Uso correto da API v2 do Tweepy: media dict em create_tweet.
-4. Upload chunked para vídeos grandes.
-5. ffmpeg com "-y" para sobrescrever.
-6. Remoção segura de temporários.
-7. Função de rate‑limit robusta.
-"""
-
-import tweepy
-import logging
-import requests
-import os
-import time
-import subprocess
-import sqlite3
+import tweepy, logging, requests, os, time, subprocess, sys
 from contextlib import closing
 from logging.handlers import RotatingFileHandler
 
-from oauth import *  # credenciais
-from reddit import extractContent  # função que retorna lista de posts
+from oauth import *
+from reddit import extractContent
 from database import migrate_txt_to_db, get_db_connection
 
 # ---------- logging ----------
+stream_handler = logging.StreamHandler(sys.stdout)
+
 log_handler = RotatingFileHandler(
     "twitter_bot.log", maxBytes=1_000_000, backupCount=5, encoding="utf-8"
 )
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s - %(levelname)s - %(message)s",
-    handlers=[log_handler],
+    handlers=[log_handler, stream_handler],
 )
 logger = logging.getLogger(__name__)
 
@@ -84,7 +69,6 @@ def mark_post_as_seen(post_id: str) -> None:
 
 
 def save_pending_post(post_id: str, content: str, img_paths: list[str], video_path: str) -> None:
-    # converte lista para string JSON‑like
     img_paths_json = (
         "[]" if not img_paths else "[" + ",".join(f'"{img}"' for img in img_paths) + "]"
     )
@@ -251,7 +235,7 @@ def post_to_twitter(text: str, img_paths: list[str], video_path: str) -> bool:
 # ---------- Orchestration ----------
 
 def process_posts() -> None:
-    # 1. tenta pendências
+    # 1. try pending posts
     for p in get_pending_posts():
         ok = post_to_twitter(p["content"], p["img_paths"], p["video_path"])
         if ok:
@@ -259,7 +243,7 @@ def process_posts() -> None:
         else:
             logger.info("Retry failed for %s", p["post_id"])
 
-    # 2. novos do reddit
+    # 2. new posts
     for post in extractContent():
         if is_post_seen(post["id"]):
             continue
@@ -274,7 +258,7 @@ def process_posts() -> None:
         post_content = post.get("title", "") + "\n" + post.get("content", "")
         post_url = post.get("url", "")
 
-        # monta texto respeitando 280‑3 chars
+        # mounts the tweet
         if post_content and post_url:
             limit = 277 - len(post_url)
             content = f"{post_content[:limit]}...\n{post_url}" if len(post_content) > limit else f"{post_content}\n{post_url}"
