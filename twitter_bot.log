@@ -1979,3 +1979,9 @@ Too Many Requests
 2025-07-11 16:19:42,115 - INFO - Downloaded media from https://preview.redd.it/nmfzusllm9cf1.jpeg?auto=webp&s=81504c0bc60a0f01ca907feb8b4a6abac00c6200 to temp_image.jpg
 2025-07-11 16:19:42,837 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-11 16:49:24,582 - INFO - Content: No steps backward for zen
+
+2025-07-11 16:49:24,582 - INFO - Image Paths: ['https://preview.redd.it/nmfzusllm9cf1.jpeg?auto=webp&s=81504c0bc60a0f01ca907feb8b4a6abac00c6200']
+2025-07-11 16:49:24,582 - INFO - Video Path: 
+2025-07-11 16:49:24,753 - INFO - Downloaded media from https://preview.redd.it/nmfzusllm9cf1.jpeg?auto=webp&s=81504c0bc60a0f01ca907feb8b4a6abac00c6200 to temp_image.jpg
+2025-07-11 16:49:25,710 - INFO - Posted content successfully. Tweet ID: 1943714254844014998
