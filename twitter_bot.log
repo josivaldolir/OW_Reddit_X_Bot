@@ -1832,3 +1832,11 @@ I'm nothing like yall
 2025-07-11 06:24:24,776 - INFO - Video Path: 
 2025-07-11 06:24:24,843 - INFO - Downloaded media from https://external-preview.redd.it/Jjm-X6jg3sADfzkljY81D3PCIHNIOPgAWercvEGdSZU.jpg?auto=webp&s=ae47d5c22d37865522e2b2aba5f5a4a0d57530a7 to temp_image.jpg
 2025-07-11 06:24:26,041 - INFO - Posted content successfully. Tweet ID: 1943556969370878056
+2025-07-11 06:52:09,173 - INFO - Content: I whip shot myself
+wtf just happened lol
+2025-07-11 06:52:09,173 - INFO - Image Paths: ['https://external-preview.redd.it/bW0zMzNudHd0M2NmMWejDOUhqUXSIAswanPNLIY4Yt5BsM8OIqSaouKdgBDR.png?format=pjpg&auto=webp&s=18802a5a1b185bcb0a395e4cd4ceca391041132b']
+2025-07-11 06:52:09,173 - INFO - Video Path: https://v.redd.it/803x6otwt3cf1/DASH_1080.mp4?source=fallback
+2025-07-11 06:52:09,268 - INFO - Downloaded media from https://v.redd.it/803x6otwt3cf1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-07-11 06:52:09,328 - INFO - Downloaded media from https://v.redd.it/803x6otwt3cf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-07-11 06:52:09,763 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-11 06:52:10,518 - ERROR - Failed to post content: 403 Forbidden
