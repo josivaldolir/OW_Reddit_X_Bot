@@ -1804,3 +1804,10 @@ Okay I understand it's fair when I look at it through the replay, but it feels u
 2025-07-11 04:11:11,305 - INFO - Downloaded media from https://v.redd.it/lypvgdvlh5cf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-07-11 04:11:13,331 - INFO - Combined video and audio into temp_combined.mp4
 2025-07-11 04:11:24,562 - INFO - Posted content successfully. Tweet ID: 1943523493339107635
+2025-07-11 04:54:53,056 - INFO - Content: [OWCavalry] Aaron Keller on #Overwatch2 Animated Shorts 🎞️ He believes that in order for them to say "the game is firing on all cylinders," they need to bring back things like Animated Shorts.
+
+2025-07-11 04:54:53,056 - INFO - Image Paths: ['https://external-preview.redd.it/Jjm-X6jg3sADfzkljY81D3PCIHNIOPgAWercvEGdSZU.jpg?auto=webp&s=ae47d5c22d37865522e2b2aba5f5a4a0d57530a7']
+2025-07-11 04:54:53,056 - INFO - Video Path: 
+2025-07-11 04:54:53,212 - INFO - Downloaded media from https://external-preview.redd.it/Jjm-X6jg3sADfzkljY81D3PCIHNIOPgAWercvEGdSZU.jpg?auto=webp&s=ae47d5c22d37865522e2b2aba5f5a4a0d57530a7 to temp_image.jpg
+2025-07-11 04:54:54,062 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
