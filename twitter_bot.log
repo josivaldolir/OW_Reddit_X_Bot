@@ -2052,3 +2052,11 @@ Then they wiped us clean.
 2025-07-11 21:39:17,256 - INFO - Downloaded media from https://v.redd.it/ra5wdqn64bcf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-07-11 21:39:17,606 - INFO - Combined video and audio into temp_combined.mp4
 2025-07-11 21:39:24,503 - INFO - Posted content successfully. Tweet ID: 1943787231002444216
+2025-07-11 22:15:41,275 - INFO - Content: Average overwatch lag exspierance
+
+2025-07-11 22:15:41,275 - INFO - Image Paths: ['https://external-preview.redd.it/a3Y1a2hldWkyYmNmMfJGUH2ZReMC46QG95WpcaeQSQFXJFjpWNB08xybnr2K.png?format=pjpg&auto=webp&s=e3b4ba4eee754c5955f66f18e3e33b056bdc97df']
+2025-07-11 22:15:41,275 - INFO - Video Path: https://v.redd.it/u7wocqsi2bcf1/DASH_720.mp4?source=fallback
+2025-07-11 22:15:41,346 - INFO - Downloaded media from https://v.redd.it/u7wocqsi2bcf1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-07-11 22:15:41,360 - INFO - Downloaded media from https://v.redd.it/u7wocqsi2bcf1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-07-11 22:15:42,278 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-11 22:15:52,890 - INFO - Posted content successfully. Tweet ID: 1943796409763082261
