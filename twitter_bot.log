@@ -2026,3 +2026,9 @@ I never did cosplay until I found this game. Damn, its this game is the only tha
 2025-07-11 19:38:36,451 - INFO - Downloaded media from https://v.redd.it/ndr06iordacf1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
 2025-07-11 19:38:38,731 - INFO - Combined video and audio into temp_combined.mp4
 2025-07-11 19:38:44,728 - INFO - Posted content successfully. Tweet ID: 1943756865138987063
+2025-07-11 20:18:52,635 - INFO - Content: Soldier in stadium
+
+2025-07-11 20:18:52,635 - INFO - Image Paths: ['https://preview.redd.it/u5tbepnykacf1.jpeg?auto=webp&s=e9c7aeb36ad15d90c82d13245b3914512a658847']
+2025-07-11 20:18:52,635 - INFO - Video Path: 
+2025-07-11 20:18:52,732 - INFO - Downloaded media from https://preview.redd.it/u5tbepnykacf1.jpeg?auto=webp&s=e9c7aeb36ad15d90c82d13245b3914512a658847 to temp_image.jpg
+2025-07-11 20:18:54,653 - INFO - Posted content successfully. Tweet ID: 1943766971679461537
