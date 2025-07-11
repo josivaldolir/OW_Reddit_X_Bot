@@ -1856,3 +1856,11 @@ wtf just happened lol
 2025-07-11 07:42:22,453 - INFO - Downloaded media from https://v.redd.it/803x6otwt3cf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-07-11 07:42:22,810 - INFO - Combined video and audio into temp_combined.mp4
 2025-07-11 07:42:23,473 - ERROR - Failed to post content: 403 Forbidden
+2025-07-11 08:22:36,310 - INFO - Content: The craziest zen stadium build on the planet
+Attack speed build destroys rein
+2025-07-11 08:22:36,310 - INFO - Image Paths: ['https://external-preview.redd.it/Z3NrdjIwYnEzNmNmMRmvdk_cEpa_0jnQrAy4HniCDNE1RH8f0EoHrvMOgK2t.png?format=pjpg&auto=webp&s=51823f5b480525fd53a7e3a827c05842e3217110']
+2025-07-11 08:22:36,310 - INFO - Video Path: https://v.redd.it/k78ch1nq36cf1/DASH_1080.mp4?source=fallback
+2025-07-11 08:22:37,605 - INFO - Downloaded media from https://v.redd.it/k78ch1nq36cf1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-07-11 08:22:37,835 - INFO - Downloaded media from https://v.redd.it/k78ch1nq36cf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-07-11 08:22:39,757 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-11 08:22:55,436 - INFO - Posted content successfully. Tweet ID: 1943586788838408301
