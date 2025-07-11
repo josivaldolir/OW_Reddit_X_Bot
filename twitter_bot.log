@@ -1990,3 +1990,11 @@ Please. It's annoying. And no I don't want to have to mute ult ability callouts 
 2025-07-11 17:15:27,391 - INFO - Image Paths: []
 2025-07-11 17:15:27,391 - INFO - Video Path: 
 2025-07-11 17:15:27,783 - INFO - Posted content successfully. Tweet ID: 1943720807038959757
+2025-07-11 17:43:02,319 - INFO - Content: Why'd the lucio breakdance on me too
+
+2025-07-11 17:43:02,319 - INFO - Image Paths: ['https://external-preview.redd.it/bXpkbGFvdjR0OGNmMdM-duzhMEwzGbXlESnp8CG8CCTWj7yPSaQtvFBt9Cd3.png?format=pjpg&auto=webp&s=07132e2ae6e4ce6ee2e871f663a95b2ad8dc8494']
+2025-07-11 17:43:02,319 - INFO - Video Path: https://v.redd.it/mt6uc9v4t8cf1/DASH_720.mp4?source=fallback
+2025-07-11 17:43:02,516 - INFO - Downloaded media from https://v.redd.it/mt6uc9v4t8cf1/DASH_720.mp4?source=fallback to temp_video.mp4
+2025-07-11 17:43:02,591 - INFO - Downloaded media from https://v.redd.it/mt6uc9v4t8cf1/DASH_AUDIO_128.mp4?source=fallback to temp_audio.mp4
+2025-07-11 17:43:05,253 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-11 17:43:11,981 - INFO - Posted content successfully. Tweet ID: 1943727787149279275
