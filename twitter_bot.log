@@ -1811,3 +1811,10 @@ Okay I understand it's fair when I look at it through the replay, but it feels u
 2025-07-11 04:54:53,212 - INFO - Downloaded media from https://external-preview.redd.it/Jjm-X6jg3sADfzkljY81D3PCIHNIOPgAWercvEGdSZU.jpg?auto=webp&s=ae47d5c22d37865522e2b2aba5f5a4a0d57530a7 to temp_image.jpg
 2025-07-11 04:54:54,062 - ERROR - Failed to post content: 429 Too Many Requests
 Too Many Requests
+2025-07-11 05:19:46,175 - INFO - Content: [OWCavalry] Aaron Keller on #Overwatch2 Animated Shorts 🎞️ He believes that in order for them to say "the game is firing on all cylinders," they need to bring back things like Animated Shorts.
+
+2025-07-11 05:19:46,175 - INFO - Image Paths: ['https://external-preview.redd.it/Jjm-X6jg3sADfzkljY81D3PCIHNIOPgAWercvEGdSZU.jpg?auto=webp&s=ae47d5c22d37865522e2b2aba5f5a4a0d57530a7']
+2025-07-11 05:19:46,175 - INFO - Video Path: 
+2025-07-11 05:19:46,317 - INFO - Downloaded media from https://external-preview.redd.it/Jjm-X6jg3sADfzkljY81D3PCIHNIOPgAWercvEGdSZU.jpg?auto=webp&s=ae47d5c22d37865522e2b2aba5f5a4a0d57530a7 to temp_image.jpg
+2025-07-11 05:19:47,139 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
