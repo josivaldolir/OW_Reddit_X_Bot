@@ -1965,3 +1965,10 @@ I could be performing great in a match, but the moment Mercy decided to boost my
 2025-07-11 15:18:24,119 - INFO - Video Path: 
 2025-07-11 15:18:24,410 - INFO - Downloaded media from https://preview.redd.it/666x6l9yy8cf1.jpeg?auto=webp&s=2b22173a817e82492df2132cc299a85ee98db6fa to temp_image.jpg
 2025-07-11 15:18:26,337 - INFO - Posted content successfully. Tweet ID: 1943691354602975416
+2025-07-11 15:42:39,489 - INFO - Content: Hooray for yaoi!
+Then they wiped us clean.
+2025-07-11 15:42:39,489 - INFO - Image Paths: ['https://preview.redd.it/zr58id8659cf1.jpeg?auto=webp&s=43b1c8f5634f18d118d4a3de2243fee897685d0d']
+2025-07-11 15:42:39,489 - INFO - Video Path: 
+2025-07-11 15:42:39,664 - INFO - Downloaded media from https://preview.redd.it/zr58id8659cf1.jpeg?auto=webp&s=43b1c8f5634f18d118d4a3de2243fee897685d0d to temp_image.jpg
+2025-07-11 15:42:41,218 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
