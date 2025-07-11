@@ -73,7 +73,7 @@ def save_pending_post(post_id, content, img_paths, video_path):
     conn = get_db_connection()
     try:
         # Convert img_paths list to JSON string
-        img_paths_json = '[]' if not img_paths else f'[{",".join(f"""\"{img}\"""" for img in img_paths)}]'
+        img_paths_json = '[]' if not img_paths else '[' + ','.join(f'"{img}"' for img in img_paths) + ']'
         
         conn.execute('''INSERT OR REPLACE INTO pending_posts 
                        (post_id, content, img_paths, video_path, attempts, last_attempt) 
