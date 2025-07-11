@@ -1779,3 +1779,11 @@ wtf just happened lol
 2025-07-10 23:40:26,341 - INFO - Downloaded media from https://v.redd.it/803x6otwt3cf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-07-10 23:40:29,518 - INFO - Combined video and audio into temp_combined.mp4
 2025-07-10 23:40:30,399 - ERROR - Failed to post content: 403 Forbidden
+2025-07-11 01:18:43,429 - INFO - Content: thank god that the round is over
+
+2025-07-11 01:18:43,429 - INFO - Image Paths: ['https://external-preview.redd.it/OHJnbHRvaDM3NGNmMX7lomruLyycSprADkJz3Z1eo1tbnTJppWVFswBkf7l0.png?format=pjpg&auto=webp&s=2b1f5519f2e6e09f6f5e3258498a77aeb03fcffe']
+2025-07-11 01:18:43,429 - INFO - Video Path: https://v.redd.it/r7g0kjp374cf1/DASH_1080.mp4?source=fallback
+2025-07-11 01:18:45,047 - INFO - Downloaded media from https://v.redd.it/r7g0kjp374cf1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-07-11 01:18:45,175 - INFO - Downloaded media from https://v.redd.it/r7g0kjp374cf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-07-11 01:18:45,471 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-11 01:19:00,570 - INFO - Posted content successfully. Tweet ID: 1943480107232039190
