@@ -1787,3 +1787,12 @@ wtf just happened lol
 2025-07-11 01:18:45,175 - INFO - Downloaded media from https://v.redd.it/r7g0kjp374cf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-07-11 01:18:45,471 - INFO - Combined video and audio into temp_combined.mp4
 2025-07-11 01:19:00,570 - INFO - Posted content successfully. Tweet ID: 1943480107232039190
+2025-07-11 03:12:51,419 - INFO - Content: Can someone explain to me why this hole exists in throne of anubus??
+Okay I understand it's fair when I look at it through the replay, but it feels unfair.
+2025-07-11 03:12:51,419 - INFO - Image Paths: ['https://external-preview.redd.it/eGJkaWlkdmxoNWNmMbu2RP1ctLpkzY4UunCDmmf7uHpcdNIvAxsRyeaODfrB.png?format=pjpg&auto=webp&s=b2925549f08748b257a6daf557690d0b05a1fe94']
+2025-07-11 03:12:51,419 - INFO - Video Path: https://v.redd.it/lypvgdvlh5cf1/DASH_1080.mp4?source=fallback
+2025-07-11 03:12:51,563 - INFO - Downloaded media from https://v.redd.it/lypvgdvlh5cf1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-07-11 03:12:51,665 - INFO - Downloaded media from https://v.redd.it/lypvgdvlh5cf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-07-11 03:12:51,968 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-11 03:13:02,823 - ERROR - Failed to post content: 429 Too Many Requests
+Too Many Requests
