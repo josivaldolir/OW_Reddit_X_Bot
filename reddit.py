@@ -1,7 +1,7 @@
 from oauth import *
 from random import choice
 
-# 📌 Lista para armazenar múltiplos posts novos
+# List to store new posts
 daily_posts = []
 m_links = []
 seen_posts = set()
