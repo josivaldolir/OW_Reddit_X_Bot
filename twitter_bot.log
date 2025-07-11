@@ -1910,3 +1910,11 @@ wtf just happened lol
 2025-07-11 11:14:48,184 - INFO - Downloaded media from https://v.redd.it/803x6otwt3cf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
 2025-07-11 11:14:50,187 - INFO - Combined video and audio into temp_combined.mp4
 2025-07-11 11:14:50,840 - ERROR - Failed to post content: 403 Forbidden
+2025-07-11 11:39:18,613 - INFO - Content: I whip shot myself
+wtf just happened lol
+2025-07-11 11:39:18,613 - INFO - Image Paths: ['https://external-preview.redd.it/bW0zMzNudHd0M2NmMWejDOUhqUXSIAswanPNLIY4Yt5BsM8OIqSaouKdgBDR.png?format=pjpg&auto=webp&s=18802a5a1b185bcb0a395e4cd4ceca391041132b']
+2025-07-11 11:39:18,613 - INFO - Video Path: https://v.redd.it/803x6otwt3cf1/DASH_1080.mp4?source=fallback
+2025-07-11 11:39:18,776 - INFO - Downloaded media from https://v.redd.it/803x6otwt3cf1/DASH_1080.mp4?source=fallback to temp_video.mp4
+2025-07-11 11:39:18,834 - INFO - Downloaded media from https://v.redd.it/803x6otwt3cf1/DASH_1080.mp4?source=fallback to temp_audio.mp4
+2025-07-11 11:39:21,038 - INFO - Combined video and audio into temp_combined.mp4
+2025-07-11 11:39:21,816 - ERROR - Failed to post content: 403 Forbidden
