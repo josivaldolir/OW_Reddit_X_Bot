@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Cache pip
+      - name: Cache pip packages
         uses: actions/cache@v4
         with:
           path: ~/.cache/pip
@@ -23,32 +23,35 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-pip-
 
-      - name: Cache apt packages
+      - name: Cache apt indexes & debs
         uses: actions/cache@v4
         with:
           path: |
             /var/lib/apt/lists
             /var/cache/apt
           key: ${{ runner.os }}-apt-ffmpeg-v1
+
+      - name: Cache DB & log
+        uses: actions/cache@v4
+        with:
+          path: |
+            seen_posts.db
+            twitter_bot.log
+          key: db-log-cache-v1
+          restore-keys: db-log-cache-
+
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
       - name: Install Python deps
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install -r requirements.txt         # tweepy==4.16.0  praw  (etc)
 
       - name: Install FFmpeg
         run: sudo apt-get update && sudo apt-get install -y ffmpeg
-
-      - name: Download previous DB & log
-        uses: actions/download-artifact@v4
-        with:
-          name: bot-data
-          path: .
-        continue-on-error: true
 
       - name: Run Twitter Bot
         env:
@@ -66,13 +69,12 @@ jobs:
           CLIENT_ID: ${{ secrets.CLIENT_ID }}
         run: python main.py
 
-      - name: Upload DB & log
+      - name: Upload log (optional)
+        if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: bot-data
-          path: |
-            seen_posts.db
-            twitter_bot.log
+          name: twitter-bot-log-${{ github.run_id }}
+          path: twitter_bot.log
 
 concurrency:
   group: workflow-${{ github.ref }}
