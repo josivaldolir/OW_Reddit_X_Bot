@@ -35,7 +35,6 @@ api = tweepy.API(auth)
 
 DB_PATH = "seen_posts.db"
 
-
 def initialize_db() -> None:
     with closing(get_db_connection()) as conn, conn:
         conn.execute(

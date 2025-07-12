@@ -25,8 +25,7 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-pip-
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
+      - uses: actions/setup-python@v4
         with:
           python-version: "3.11"
 
@@ -43,8 +42,7 @@ jobs:
         with:
           path: seen_posts.db
           key: bot-db-cache-v1
-          restore-keys: |
-            bot-db-cache- 
+          restore-keys: bot-db-cache-
 
       - name: Run Twitter Bot
         env:
@@ -62,14 +60,19 @@ jobs:
           CLIENT_ID: ${{ secrets.CLIENT_ID }}
         timeout-minutes: 10
         run: python main.py
-        
-      - name: Upload DB artifact (DEBUG)
+
+      - name: Commit updated database
         if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: database-backup
-          path: seen_posts.db
-          retention-days: 3
+        env:
+          GH_PAT: ${{ secrets.OWXBot }}
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'actions@github.com'
+          # garante que não há divergência
+          git pull --rebase
+          git add -f seen_posts.db
+          git commit -m "Update seen_posts.db [skip ci]" || echo "No changes"
+          git push https://x-access-token:${GH_PAT}@github.com/${{ github.repository }}.git HEAD:main
 
       - name: Upload log (DEBUG)
         if: always()
@@ -77,6 +80,7 @@ jobs:
         with:
           name: twitter-bot-log-${{ github.run_id }}
           path: twitter_bot.log
+          retention-days: 3
 
 concurrency:
   group: workflow-${{ github.ref }}
