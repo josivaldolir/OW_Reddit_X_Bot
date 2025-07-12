@@ -195,7 +195,8 @@ def post_to_twitter(text: str, img_paths: list[str], video_path: str) -> bool:
         # vídeo
         if video_path:
             video_url = video_path
-            audio_url = video_url.replace("DASH_720.mp4", "DASH_AUDIO_128.mp4")
+            base_url = "/".join(video_url.split("/")[:-1])
+            audio_url = f"{base_url}/DASH_AUDIO_128.mp4"
             v_file = download_media(video_url, "temp_video.mp4")
             a_file = download_media(audio_url, "temp_audio.mp4")
             if v_file and a_file:
