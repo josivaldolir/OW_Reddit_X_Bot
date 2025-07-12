@@ -38,12 +38,13 @@ jobs:
       - name: Install FFmpeg
         run: sudo apt-get update && sudo apt-get install -y --no-install-recommends ffmpeg
 
-      - name: Download previous database
-        uses: actions/download-artifact@v4
+      - name: Cache database
+        uses: actions/cache@v4
         with:
-          name: bot-database
-          path: .
-        continue-on-error: true
+          path: seen_posts.db
+          key: bot-db-cache-v1
+          restore-keys: |
+            bot-db-cache- 
 
       - name: Run Twitter Bot
         env:
@@ -62,15 +63,15 @@ jobs:
         timeout-minutes: 10
         run: python main.py
         
-      - name: Upload database
+      - name: Upload DB artifact (DEBUG)
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: bot-database
+          name: database-backup
           path: seen_posts.db
           retention-days: 3
 
-      - name: Upload log (optional)
+      - name: Upload log (DEBUG)
         if: always()
         uses: actions/upload-artifact@v4
         with:
