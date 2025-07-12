@@ -2,9 +2,6 @@ from oauth import *
 from random import choice
 from database import is_post_seen, mark_post_as_seen
 
-# Database setup
-database = 'seen_posts.db'
-
 # List to store new posts
 daily_posts = []
 m_links = []

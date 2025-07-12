@@ -225,8 +225,11 @@ def post_to_twitter(text: str, img_paths: list[str], video_path: str) -> bool:
         # tweet
         if text or media_ids:
             check_rate_limits(api, "/statuses/update")
-            media_dict = {"media_ids": media_ids} if media_ids else None
-            resp = client.create_tweet(text=text, media=media_dict, user_auth=True)
+            resp = client.create_tweet(
+                text=text,
+                media_ids=media_ids if media_ids else None,
+                user_auth=True
+            )
             logger.info("Tweet posted: %s", resp.data["id"])
             return True
         else:
