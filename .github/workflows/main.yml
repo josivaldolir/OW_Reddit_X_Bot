@@ -31,15 +31,6 @@ jobs:
             /var/cache/apt
           key: ${{ runner.os }}-apt-ffmpeg-v1
 
-      - name: Cache DB & log
-        uses: actions/cache@v4
-        with:
-          path: |
-            seen_posts.db
-            twitter_bot.log
-          key: db-log-cache-v1
-          restore-keys: db-log-cache-
-
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
@@ -48,10 +39,17 @@ jobs:
       - name: Install Python deps
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt         # tweepy==4.16.0  praw  (etc)
+          pip install -r requirements.txt
 
       - name: Install FFmpeg
-        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+        run: sudo apt-get update && sudo apt-get install -y --no-install-recommends ffmpeg
+
+      - name: Download previous database
+        uses: actions/download-artifact@v4
+        with:
+          name: bot-database
+          path: .
+        continue-on-error: true
 
       - name: Run Twitter Bot
         env:
@@ -67,7 +65,16 @@ jobs:
           USERNAME: ${{ secrets.USERNAME }}
           CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
           CLIENT_ID: ${{ secrets.CLIENT_ID }}
+        timeout-minutes: 10
         run: python main.py
+        
+      - name: Upload database
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: bot-database
+          path: seen_posts.db
+          retention-days: 3
 
       - name: Upload log (optional)
         if: always()
