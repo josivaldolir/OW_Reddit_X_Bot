@@ -1,2 +1,7 @@
 __pycache__/
 *.pyc
+seen_posts.db
+seen_posts.db-*
+twitter_bot.log*
+*.db
+*.log

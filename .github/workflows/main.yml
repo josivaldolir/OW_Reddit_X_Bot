@@ -46,28 +46,6 @@ jobs:
         run: |
           python main.py
 
-      - name: Commit database and logs
-        env:
-          GH_PAT: ${{ secrets.OWXBot }}
-        run: |
-          git config --global user.name 'github-actions'
-          git config --global user.email 'github-actions@github.com'
-
-          # Configure authentication with PAT
-          git remote set-url origin https://x-access-token:${GH_PAT}@github.com/${{ github.repository }}.git
-
-          # Ensure files exist
-          touch seen_posts.db twitter_bot.log
-
-          # Check for changes before committing
-          if git diff --quiet --exit-code seen_posts.db twitter_bot.log; then
-            echo "No changes to commit"
-          else
-            git add seen_posts.db twitter_bot.log*
-            git commit -m "Update database and logs"
-            git push origin HEAD:main
-          fi
-
 concurrency:
   group: workflow-${{ github.ref }}
   cancel-in-progress: true
