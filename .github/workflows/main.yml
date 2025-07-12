@@ -29,6 +29,13 @@ jobs:
       - name: Install FFmpeg
         run: sudo apt-get update && sudo apt-get install -y ffmpeg
 
+      - name: Download previous DB & log
+        uses: actions/download-artifact@v4
+        with:
+          name: bot-data
+          path: .
+        continue-on-error: true
+
       - name: Run Twitter Bot
         env:
           CONSUMER_KEY: ${{ secrets.CONSUMER_KEY }}
@@ -45,6 +52,13 @@ jobs:
           CLIENT_ID: ${{ secrets.CLIENT_ID }}
         run: |
           python main.py
+      - name: Upload DB & log
+        uses: actions/upload-artifact@v4
+        with:
+          name: bot-data
+          path: |
+            seen_posts.db
+            twitter_bot.log
 
 concurrency:
   group: workflow-${{ github.ref }}
