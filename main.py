@@ -245,19 +245,19 @@ def post_to_twitter(text: str, img_paths: list[str], video_path: str) -> bool:
 # ---------- Orchestration ----------
 
 def process_posts() -> None:
-    # 1. try pending posts
+    # ---------- Try pendings ----------
     for p in get_pending_posts():
         ok = post_to_twitter(p["content"], p["img_paths"], p["video_path"])
         if ok:
             mark_post_as_seen(p["post_id"])
-        else:
-            logger.info("Retry failed for %s", p["post_id"])
+            return
 
-    # 2. new posts
+    # ---------- Look for a new post ----------
     for post in extractContent():
         if is_post_seen(post["id"]):
             continue
 
+        # Build images/video
         img_paths: list[str] = []
         if post.get("s_img"):
             img_paths.append(post["s_img"])
@@ -265,10 +265,10 @@ def process_posts() -> None:
             img_paths.extend(post["m_img"])
 
         video_path = post.get("video", "")
-        post_content = post.get("title", "") + "\n" + post.get("content", "")
-        post_url = post.get("url", "")
 
-        # mounts the tweet
+        # Build text
+        post_content = (post.get("title", "") + "\n" + post.get("content", "")).strip()
+        post_url = post.get("url", "")
         if post_content and post_url:
             limit = 277 - len(post_url)
             content = f"{post_content[:limit]}...\n{post_url}" if len(post_content) > limit else f"{post_content}\n{post_url}"
@@ -278,9 +278,11 @@ def process_posts() -> None:
         ok = post_to_twitter(content, img_paths, video_path)
         if ok:
             mark_post_as_seen(post["id"])
+            return
         else:
             save_pending_post(post["id"], content, img_paths, video_path)
             logger.info("Saved %s for retry", post["id"])
+            return
 
 # ---------- main ----------
 
