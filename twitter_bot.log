@@ -1,1 +1,12 @@
 
+2025-07-12 00:21:14,293 - INFO - Starting migration from seen_posts.txt to SQLite database
+2025-07-12 00:21:14,303 - INFO - Successfully migrated 3082 posts to the database
+2025-07-12 00:21:14,303 - INFO - Renamed seen_posts.txt to seen_posts.txt.migrated
+2025-07-12 00:21:17,785 - INFO - Downloaded https://preview.redd.it/gbim93dfnacf1.png?width=2002&format=png&auto=webp&s=964adf1e519997c9378fcbff204e437f7a02c6c8 -> temp_image_0.jpg
+2025-07-12 00:21:17,933 - WARNING - Could not read rate‑limit for /media/upload
+2025-07-12 00:21:18,625 - INFO - Downloaded https://preview.redd.it/hnq3wdagnacf1.png?width=2000&format=png&auto=webp&s=7f4676f868d160171bc9e5313eaf6a9359736fdf -> temp_image_1.jpg
+2025-07-12 00:21:18,753 - WARNING - Could not read rate‑limit for /media/upload
+2025-07-12 00:21:19,487 - WARNING - Could not read rate‑limit for /statuses/update
+2025-07-12 00:21:19,487 - ERROR - Unexpected error in post_to_twitter: Client.create_tweet() got an unexpected keyword argument 'media'
+2025-07-12 00:21:19,489 - INFO - Saved 1lxfn27 for retry
+2025-07-12 00:21:19,489 - INFO - Done.
