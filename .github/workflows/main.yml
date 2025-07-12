@@ -37,13 +37,6 @@ jobs:
       - name: Install FFmpeg
         run: sudo apt-get update && sudo apt-get install -y --no-install-recommends ffmpeg
 
-      - name: Cache database
-        uses: actions/cache@v4
-        with:
-          path: seen_posts.db
-          key: bot-db-cache-v1
-          restore-keys: bot-db-cache-
-
       - name: Run Twitter Bot
         env:
           CONSUMER_KEY: ${{ secrets.CONSUMER_KEY }}
