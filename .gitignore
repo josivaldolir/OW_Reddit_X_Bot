@@ -5,3 +5,4 @@ seen_posts.db-*
 twitter_bot.log*
 *.db
 *.log
+sqlite/
