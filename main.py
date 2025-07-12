@@ -33,7 +33,7 @@ api = tweepy.API(auth)
 
 # ---------- DB helpers ----------
 
-DB_PATH = "reddit_x_bot.db"
+DB_PATH = "seen_posts.db"
 
 
 def initialize_db() -> None:
@@ -281,18 +281,16 @@ def process_posts() -> None:
 
 # ---------- main ----------
 
-def main() -> None:
-    initialize_db()
-    while True:
-        try:
-            process_posts()
-            time.sleep(300)  # 5 min
-        except KeyboardInterrupt:
-            logger.info("Bot stopped by user")
-            break
-        except Exception as exc:
-            logger.error("Main loop error: %s", exc)
-            time.sleep(60)
+def main():
+    try:
+        initialize_db()
+        process_posts()
+        logger.info("Done.")
+    except KeyboardInterrupt:
+        logger.info("Bot stopped by user")
+    except Exception as exc:
+        logger.error("Main loop error: %s", exc)
+        sys.exit(1)
 
 if __name__ == "__main__":
     main()
