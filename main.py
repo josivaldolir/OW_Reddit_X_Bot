@@ -167,18 +167,25 @@ def combine_video_audio(video_path: str, audio_path: str, output_path: str) -> s
         return None
 
 
-def check_rate_limits(api_v1: tweepy.API, endpoint: str) -> None:
+def check_rate_limits(api, endpoint):
     try:
-        data = api_v1.rate_limit_status()
-        resource, ep = endpoint.lstrip("/").split("/", 1)
-        limit = data["resources"][resource][f"/{ep}"]
+        rate_limit_status = api.rate_limit_status()
+        resource, ep = endpoint.lstrip('/').split('/', 1)
+        full_ep = f'/{ep}'
+        resource_block = rate_limit_status["resources"].get(resource)
+        if not resource_block or full_ep not in resource_block:
+            logging.warning(f"Could not read rate‑limit for {endpoint}")
+            return
+
+        limit = resource_block[full_ep]
         if limit["remaining"] <= 10:
-            sleep_sec = limit["reset"] - time.time()
-            if sleep_sec > 0:
-                logger.info("Rate‑limit near (%s). Sleeping %.0fs", endpoint, sleep_sec)
-                time.sleep(sleep_sec)
-    except Exception as exc:
-        logger.warning("Could not read rate‑limit for %s: %s", endpoint, exc)
+            sleep_time = limit["reset"] - time.time()
+            if sleep_time > 0:
+                logging.info(f"Approaching rate limit for {endpoint}. "
+                             f"Sleeping {sleep_time:.0f}s.")
+                time.sleep(sleep_time)
+    except tweepy.TweepyException as e:
+        logging.error(f"Failed to check rate limits: {e}")
 
 # ---------- Twitter logic ----------
 
