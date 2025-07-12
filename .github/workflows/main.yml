@@ -13,27 +13,22 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
-      - name: Cache pip
+      - name: Cache pip packages
         uses: actions/cache@v4
         with:
-          path: ~/.cache/pip
+          path: |
+            ~/.cache/pip
+            ~/.local/lib/python3.11/site-packages
           key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
           restore-keys: |
             ${{ runner.os }}-pip-
 
-      - name: Cache apt packages
-        uses: actions/cache@v4
-        with:
-          path: |
-            /var/lib/apt/lists
-            /var/cache/apt
-          key: ${{ runner.os }}-apt-ffmpeg-v1
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
       - name: Install Python deps
         run: |
@@ -41,14 +36,15 @@ jobs:
           pip install -r requirements.txt
 
       - name: Install FFmpeg
-        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+        run: sudo apt-get update && sudo apt-get install -y --no-install-recommends ffmpeg
 
-      - name: Download previous DB & log
-        uses: actions/download-artifact@v4
+      - name: Cache database
+        uses: actions/cache@v4
         with:
-          name: bot-data
-          path: .
-        continue-on-error: true
+          path: seen_posts.db
+          key: bot-db-cache-v1
+          restore-keys: |
+            bot-db-cache- 
 
       - name: Run Twitter Bot
         env:
@@ -64,15 +60,23 @@ jobs:
           USERNAME: ${{ secrets.USERNAME }}
           CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
           CLIENT_ID: ${{ secrets.CLIENT_ID }}
+        timeout-minutes: 10
         run: python main.py
-
-      - name: Upload DB & log
+        
+      - name: Upload DB artifact (DEBUG)
+        if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: bot-data
-          path: |
-            seen_posts.db
-            twitter_bot.log
+          name: database-backup
+          path: seen_posts.db
+          retention-days: 3
+
+      - name: Upload log (DEBUG)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: twitter-bot-log-${{ github.run_id }}
+          path: twitter_bot.log
 
 concurrency:
   group: workflow-${{ github.ref }}
