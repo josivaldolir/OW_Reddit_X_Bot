@@ -64,7 +64,7 @@ jobs:
         
       - name: Upload database
         if: always()
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: bot-database
           path: seen_posts.db
@@ -72,7 +72,7 @@ jobs:
 
       - name: Upload log (optional)
         if: always()
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: twitter-bot-log-${{ github.run_id }}
           path: twitter_bot.log
