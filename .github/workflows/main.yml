@@ -13,23 +13,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - name: Cache pip packages
-        uses: actions/cache@v4
+        uses: actions/cache@v3
         with:
-          path: ~/.cache/pip
+          path: |
+            ~/.cache/pip
+            ~/.local/lib/python3.11/site-packages
           key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
           restore-keys: |
             ${{ runner.os }}-pip-
-
-      - name: Cache apt indexes & debs
-        uses: actions/cache@v4
-        with:
-          path: |
-            /var/lib/apt/lists
-            /var/cache/apt
-          key: ${{ runner.os }}-apt-ffmpeg-v1
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -45,7 +39,7 @@ jobs:
         run: sudo apt-get update && sudo apt-get install -y --no-install-recommends ffmpeg
 
       - name: Download previous database
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v3
         with:
           name: bot-database
           path: .
@@ -70,7 +64,7 @@ jobs:
         
       - name: Upload database
         if: always()
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v3
         with:
           name: bot-database
           path: seen_posts.db
@@ -78,7 +72,7 @@ jobs:
 
       - name: Upload log (optional)
         if: always()
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v3
         with:
           name: twitter-bot-log-${{ github.run_id }}
           path: twitter_bot.log
