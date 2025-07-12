@@ -53,50 +53,27 @@ def initialize_db() -> None:
             "CREATE TABLE IF NOT EXISTS seen_posts (post_id TEXT PRIMARY KEY);"
         )
 
-
 def is_post_seen(post_id: str) -> bool:
     with closing(get_db_connection()) as conn:
         cur = conn.execute("SELECT 1 FROM seen_posts WHERE post_id = ?", (post_id,))
         return cur.fetchone() is not None
 
-
 def mark_post_as_seen(post_id: str) -> None:
     with closing(get_db_connection()) as conn, conn:
         conn.execute("INSERT OR IGNORE INTO seen_posts(post_id) VALUES(?)", (post_id,))
-        conn.execute("DELETE FROM pending_posts WHERE post_id=?", (post_id,))
-
+        conn.execute("DELETE FROM pending_posts WHERE post_id = ?", (post_id,))
 
 def save_pending_post(post_id: str, content: str, img_paths: list[str], video_path: str) -> None:
-    img_paths_json = (
-        "[]" if not img_paths else "[" + ",".join(f'"{img}"' for img in img_paths) + "]"
-    )
+    img_paths_json = ("[]" if not img_paths else "[" + ",".join(f'"{img}"' for img in img_paths) + "]")
     with closing(get_db_connection()) as conn, conn:
+        conn.execute("DELETE FROM pending_posts;")
         conn.execute(
             """
             INSERT INTO pending_posts (post_id, content, img_paths, video_path, attempts, last_attempt)
-            VALUES (
-                :pid,
-                :content,
-                :imgs,
-                :video,
-                COALESCE((SELECT attempts + 1 FROM pending_posts WHERE post_id = :pid), 0),
-                CURRENT_TIMESTAMP
-            )
-            ON CONFLICT(post_id) DO UPDATE SET
-                content=excluded.content,
-                img_paths=excluded.img_paths,
-                video_path=excluded.video_path,
-                attempts=pending_posts.attempts+1,
-                last_attempt=CURRENT_TIMESTAMP;
+            VALUES (?, ?, ?, ?, 0, CURRENT_TIMESTAMP)
             """,
-            {
-                "pid": post_id,
-                "content": content,
-                "imgs": img_paths_json,
-                "video": video_path,
-            },
+            (post_id, content, img_paths_json, video_path),
         )
-
 
 def _parse_img_paths(img_paths_json: str) -> list[str]:
     if img_paths_json == "[]":
@@ -168,8 +145,8 @@ def combine_video_audio(video_path: str, audio_path: str, output_path: str) -> s
 def check_rate_limits(api, endpoint):
     try:
         rate_limit_status = api.rate_limit_status()
-        resource, ep = endpoint.lstrip('/').split('/', 1)
-        full_ep = f'/{ep}'
+        resource, ep = endpoint.lstrip("/").split("/", 1)
+        full_ep = f"/{resource}/{ep}"
         resource_block = rate_limit_status["resources"].get(resource)
         if not resource_block or full_ep not in resource_block:
             logging.warning(f"Could not read rate‑limit for {endpoint}")
@@ -244,13 +221,18 @@ def post_to_twitter(text: str, img_paths: list[str], video_path: str) -> bool:
 # ---------- Orchestration ----------
 
 def process_posts() -> None:
+    pending = get_pending_posts()
     # ---------- Try pendings ----------
-    for p in get_pending_posts():
-        ok = post_to_twitter(p["content"], p["img_paths"], p["video_path"])
-        if ok:
+    if pending:
+        p = pending[0]
+        success = post_to_twitter(p["content"], p["img_paths"], p["video_path"])
+        if success:
             mark_post_as_seen(p["post_id"])
             return
-
+        else:
+            logger.info("Retry failed for %s", p["post_id"])
+            return
+        
     # ---------- Look for a new post ----------
     for post in extractContent():
         if is_post_seen(post["id"]):
