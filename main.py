@@ -4,7 +4,7 @@ from logging.handlers import RotatingFileHandler
 
 from oauth import *
 from reddit import extractContent
-from database import migrate_txt_to_db, get_db_connection
+from database import get_db_connection
 
 # ---------- logging ----------
 stream_handler = logging.StreamHandler(sys.stdout)
@@ -53,7 +53,6 @@ def initialize_db() -> None:
         conn.execute(
             "CREATE TABLE IF NOT EXISTS seen_posts (post_id TEXT PRIMARY KEY);"
         )
-    migrate_txt_to_db()
 
 
 def is_post_seen(post_id: str) -> bool:
