@@ -1,6 +1,7 @@
 from oauth import *
 from random import choice
 from database import is_post_seen, mark_post_as_seen
+import logging
 
 # List to store new posts
 daily_posts = []
@@ -35,7 +36,11 @@ def extractContent():
                 if hasattr(sub, "gallery_data"):
                     for i in sub.gallery_data["items"]:
                         media_id = i["media_id"]
-                        image_url = sub.media_metadata[media_id]["s"]["u"]
+                        if "u" in sub.media_metadata[media_id]["s"]:
+                            image_url = sub.media_metadata[media_id]["s"]["u"]
+                        else:
+                            logging.warning(f"'u' not found in media_metadata for media_id={media_id}")
+                            continue
                         m_links.append(image_url)
                         max_imgs += 1
                         if max_imgs >= 4:
