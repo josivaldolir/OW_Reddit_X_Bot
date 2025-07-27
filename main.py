@@ -166,7 +166,7 @@ def post_to_twitter(text: str, img_paths: list[str], video_path: str) -> bool:
     media_ids: list[int] = []
 
     try:
-        # vídeo
+        # video
         if video_path:
             video_url = video_path
             base_url = "/".join(video_url.split("/")[:-1])
@@ -186,7 +186,7 @@ def post_to_twitter(text: str, img_paths: list[str], video_path: str) -> bool:
                 except FileNotFoundError:
                     pass
 
-        # imagens
+        # images
         elif img_paths:
             for idx, url in enumerate(img_paths[:4]):
                 local = download_media(url, f"temp_image_{idx}.jpg")
@@ -198,7 +198,7 @@ def post_to_twitter(text: str, img_paths: list[str], video_path: str) -> bool:
 
         # tweet
         if text or media_ids:
-            check_rate_limits(api, "/statuses/update")
+            #check_rate_limits(api, "/statuses/update")
             resp = client.create_tweet(
                 text=text,
                 media_ids=media_ids if media_ids else None,
@@ -247,6 +247,8 @@ def process_posts() -> None:
 
         # Build text
         post_content = (post.get("title", "") + "\n" + post.get("content", "")).strip()
+        if isinstance(post_content, bytes):
+            post_content = post_content.decode('utf-8', errors='replace')
         post_url = post.get("url", "")
         if post_content and post_url:
             limit = 277 - len(post_url)
@@ -254,6 +256,7 @@ def process_posts() -> None:
         else:
             content = (post_content or post_url)[:280]
 
+        content = content.encode('utf-8', errors='replace').decode('utf-8') if content else ""
         ok = post_to_twitter(content, img_paths, video_path)
         if ok:
             mark_post_as_seen(post["id"])
@@ -273,7 +276,8 @@ def main():
     except KeyboardInterrupt:
         logger.info("Bot stopped by user")
     except Exception as exc:
-        logger.error("Main loop error: %s", exc)
+        logger.error("Main loop error: %s", repr(exc))
+        logger.error("Full traceback:", exc_info=True)
         sys.exit(1)
 
 if __name__ == "__main__":
