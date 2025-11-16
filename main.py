@@ -36,7 +36,7 @@ api = tweepy.API(auth)
 DB_PATH = "seen_posts.db"
 
 def initialize_db() -> None:
-    with closing(get_db_connection(DB_PATH)) as conn, conn:
+    with closing(get_db_connection()) as conn, conn:
         conn.execute(
             """
             CREATE TABLE IF NOT EXISTS pending_posts (
@@ -54,23 +54,23 @@ def initialize_db() -> None:
         )
 
 def is_post_seen(post_id: str) -> bool:
-    with closing(get_db_connection(DB_PATH)) as conn:
+    with closing(get_db_connection()) as conn:
         cur = conn.execute("SELECT 1 FROM seen_posts WHERE post_id = ?", (post_id,))
         return cur.fetchone() is not None
 
 def mark_post_as_seen(post_id: str) -> None:
-    with closing(get_db_connection(DB_PATH)) as conn, conn:
+    with closing(get_db_connection()) as conn, conn:
         conn.execute("INSERT OR IGNORE INTO seen_posts(post_id) VALUES(?)", (post_id,))
         conn.execute("DELETE FROM pending_posts WHERE post_id = ?", (post_id,))
 
 def remove_pending_post(post_id: str) -> None:
-    with closing(get_db_connection(DB_PATH)) as conn, conn:
+    with closing(get_db_connection()) as conn, conn:
         conn.execute("DELETE FROM pending_posts WHERE post_id = ?", (post_id,))
         logger.info("Removed pending post %s from DB", post_id)
 
 def save_pending_post(post_id: str, content: str, img_paths: list[str], video_path: str) -> None:
     img_paths_json = json.dumps(img_paths if img_paths else [])
-    with closing(get_db_connection(DB_PATH)) as conn, conn:
+    with closing(get_db_connection()) as conn, conn:
         # ensure there is at most one pending row
         conn.execute("DELETE FROM pending_posts;")
         conn.execute(
@@ -89,7 +89,7 @@ def _parse_img_paths(img_paths_json: str) -> list[str]:
 
 
 def get_pending_posts() -> list[dict]:
-    with closing(get_db_connection(DB_PATH)) as conn:
+    with closing(get_db_connection()) as conn:
         cur = conn.execute(
             """
             SELECT post_id, content, img_paths, video_path
