@@ -2,7 +2,7 @@ import sqlite3
 
 database = 'seen_posts.db'
 
-def get_db_connection(db=database|any):
+def get_db_connection():
     conn = sqlite3.connect(database)
     conn.row_factory = sqlite3.Row
     return conn
