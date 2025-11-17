@@ -173,24 +173,65 @@ def check_rate_limits(api, endpoint):
 
 # ---------- Twitter logic ----------
 
+def _is_unrecoverable_tweepy_error(exc: tweepy.TweepyException) -> bool:
+    """Return True if the error should NOT be retried."""
 
-def _is_unrecoverable_tweepy_error(exc: Exception) -> bool:
-    """Return True if the error indicates the post should be discarded instead of retried."""
+    # ---------- 1. Try API response ----------
+    resp = getattr(exc, "response", None)
+
+    if resp is not None:
+        code = getattr(resp, "status_code", None)
+
+        # 400 / 403 são suspeitos — analisar conteúdo
+        if code in (400, 403):
+
+            # Try JSON
+            try:
+                data = resp.json()
+                msg = str(data)
+            except Exception:
+                msg = resp.text or ""
+
+            msg_lower = msg.lower()
+
+            # Fatal cases
+            fatal_markers = [
+                "not allowed to post a video longer",
+                "your media ids are invalid",
+                "media id is invalid",
+                "unsupported",
+                "file type not supported",
+                "duration",
+                "too long",
+                "invalid media",
+                "video too long",
+                "403 forbidden",
+            ]
+
+            if any(m in msg_lower for m in fatal_markers):
+                return True
+
+    # ---------- 2. Fallback: analyze string(exception) ----------
     msg = str(exc).lower()
-    # invalid media ids (common)
-    if "your media ids are invalid" in msg or "media ids are invalid" in msg or "invalid media id" in msg:
-        return True
-    # media too large / duration too long
-    if "duration" in msg and ("too" in msg or "exceed" in msg or "long" in msg):
-        return True
-    if "video duration" in msg or "video is too long" in msg or "exceeds the maximum" in msg:
-        return True
-    # other 4xx unrecoverable errors
-    if "400" in msg or "403" in msg and "forbidden" in msg:
-        # be conservative; only some 4xx are unrecoverable — we already matched typical messages above
-        return False
-    return False
 
+    fatal_markers = [
+        "not allowed to post a video longer",
+        "your media ids are invalid",
+        "media id is invalid",
+        "unsupported",
+        "file type not supported",
+        "duration",
+        "too long",
+        "invalid media",
+        "video too long",
+        "403 forbidden",
+    ]
+
+    if any(m in msg for m in fatal_markers):
+        return True
+
+    # Not fatal
+    return False
 
 def post_to_twitter(text: str, img_paths: list[str], video_path: str, post_id: str | None = None) -> tuple[bool, bool]:
     """Attempt to post to Twitter.
@@ -327,20 +368,25 @@ def post_to_twitter(text: str, img_paths: list[str], video_path: str, post_id: s
 
 def process_posts() -> None:
     pending = get_pending_posts()
-    # ---------- Try pendings ----------
+
+    # ---------- Try pending posts ----------
     if pending:
         p = pending[0]
-        success, fatal = post_to_twitter(p["content"], p["img_paths"], p["video_path"], post_id=p["post_id"])
+        success, fatal = post_to_twitter(
+            p["content"], p["img_paths"], p["video_path"], post_id=p["post_id"]
+        )
+
         if success:
             mark_post_as_seen(p["post_id"])
             return
-        else:
-            if fatal:
-                logger.info("Pending post %s removed (fatal)", p["post_id"])
-                return
-            logger.info("Retry failed for %s", p["post_id"])
+
+        if fatal:
+            logger.info("Pending post %s removed (fatal)", p["post_id"])
             return
-        
+
+        logger.info("Retry failed for %s (non-fatal)", p["post_id"])
+        return
+
     # ---------- Look for a new post ----------
     for post in extractContent():
         if is_post_seen(post["id"]):
@@ -355,29 +401,51 @@ def process_posts() -> None:
 
         video_path = post.get("video", "")
 
-        # Build text
-        post_content = (post.get("title", "") + "\n" + post.get("content", "")).strip()
+        # Build tweet text
+        post_content = (
+            post.get("title", "") + "\n" + post.get("content", "")
+        ).strip()
+
         if isinstance(post_content, bytes):
-            post_content = post_content.decode('utf-8', errors='replace')
+            post_content = post_content.decode("utf-8", errors="replace")
+
         post_url = post.get("url", "")
+
         if post_content and post_url:
             limit = 277 - len(post_url)
-            content = f"{post_content[:limit]}...\n{post_url}" if len(post_content) > limit else f"{post_content}\n{post_url}"
+            content = (
+                f"{post_content[:limit]}...\n{post_url}"
+                if len(post_content) > limit
+                else f"{post_content}\n{post_url}"
+            )
         else:
             content = (post_content or post_url)[:280]
 
-        content = content.encode('utf-8', errors='replace').decode('utf-8') if content else ""
-        success, fatal = post_to_twitter(content, img_paths, video_path, post_id=post["id"])
+        content = (
+            content.encode("utf-8", errors="replace").decode("utf-8")
+            if content
+            else ""
+        )
+
+        # Post attempt
+        success, fatal = post_to_twitter(
+            content, img_paths, video_path, post_id=post["id"]
+        )
+
         if success:
             mark_post_as_seen(post["id"])
             return
-        else:
-            if fatal:
-                logger.info("New post %s not saved because error is fatal", post["id"])
-                return
-            save_pending_post(post["id"], content, img_paths, video_path)
-            logger.info("Saved %s for retry", post["id"])
+
+        if fatal:
+            logger.info("New post %s ignored permanently due to fatal error", post["id"])
+            # marca como visto para não tentar nunca mais
+            mark_post_as_seen(post["id"])
             return
+
+        # Non-fatal → save for retry
+        save_pending_post(post["id"], content, img_paths, video_path)
+        logger.info("Saved %s for retry", post["id"])
+        return
 
 # ---------- main ----------
 
