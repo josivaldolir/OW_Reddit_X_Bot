@@ -8,6 +8,14 @@ from database import get_db_connection
 import xml.etree.ElementTree as ET
 from urllib.parse import urlparse, urljoin, parse_qs
 
+# <-- NEW: yt-dlp -->
+try:
+    import yt_dlp
+except Exception as e:
+    # Se yt_dlp não estiver instalado, vamos logar e seguir — a função tentará usar requests/front-end antigo.
+    yt_dlp = None
+    logging.getLogger(__name__).warning("yt_dlp não disponível: %s", e)
+
 # ---------- logging ----------
 stream_handler = logging.StreamHandler(sys.stdout)
 
@@ -89,7 +97,6 @@ def _parse_img_paths(img_paths_json: str) -> list[str]:
     except Exception:
         return []
 
-
 def get_pending_posts() -> list[dict]:
     with closing(get_db_connection()) as conn:
         cur = conn.execute(
@@ -125,7 +132,6 @@ def download_media(url: str, filename: str) -> str | None:
         logger.error("Download failed for %s: %s", url, exc)
         return None
 
-
 def combine_video_audio(video_path: str, audio_path: str, output_path: str) -> str | None:
     cmd = [
         "ffmpeg",
@@ -150,7 +156,6 @@ def combine_video_audio(video_path: str, audio_path: str, output_path: str) -> s
         logger.error("ffmpeg error: %s", exc.stderr.decode(errors="ignore")[:300])
         return None
 
-
 def check_rate_limits(api, endpoint):
     try:
         rate_limit_status = api.rate_limit_status()
@@ -158,7 +163,7 @@ def check_rate_limits(api, endpoint):
         full_ep = f"/{resource}/{ep}"
         resource_block = rate_limit_status["resources"].get(resource)
         if not resource_block or full_ep not in resource_block:
-            logging.warning(f"Could not read rate‑limit for {endpoint}")
+            logging.warning(f"Could not read rate-limit for {endpoint}")
             return
 
         limit = resource_block[full_ep]
@@ -170,6 +175,51 @@ def check_rate_limits(api, endpoint):
                 time.sleep(sleep_time)
     except tweepy.TweepyException as e:
         logging.error(f"Failed to check rate limits: {e}")
+
+# ---------- yt-dlp integration ----------
+
+def download_reddit_video_ytdlp(url: str, output_filename: str = "temp_video.mp4") -> tuple[str | None, int | None, str | None]:
+    """
+    Uses yt-dlp to download reddit video with audio merged.
+    Returns (filename_or_none, duration_seconds_or_none, error_message_or_none)
+
+    Now rejects videos longer than 60 seconds.
+    """
+    if yt_dlp is None:
+        msg = "yt_dlp not installed"
+        logger.error(msg)
+        return None, None, msg
+
+    ydl_opts = {
+        "outtmpl": output_filename,
+        "merge_output_format": "mp4",
+        "quiet": True,
+        "no_warnings": True,
+        "format": "bv*+ba/best"
+    }
+
+    try:
+        with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+            # probe metadata first
+            info = ydl.extract_info(url, download=False)
+            duration = info.get("duration")
+
+            # -------- NEW LIMIT: discard videos > 60 seconds --------
+            if duration and duration > 60:
+                logger.info("Video duration %s seconds > 60s; marking as too long", duration)
+                return None, duration, "too_long"
+
+            # perform download
+            ydl.download([url])
+
+            if os.path.exists(output_filename):
+                return output_filename, duration, None
+            else:
+                return None, duration, "download_failed_no_file"
+
+    except Exception as exc:
+        logger.error("yt-dlp error for %s: %s", url, exc)
+        return None, None, str(exc)
 
 # ---------- Twitter logic ----------
 
@@ -234,90 +284,59 @@ def _is_unrecoverable_tweepy_error(exc: tweepy.TweepyException) -> bool:
     return False
 
 def post_to_twitter(text: str, img_paths: list[str], video_path: str, post_id: str | None = None) -> tuple[bool, bool]:
-    """Attempt to post to Twitter.
-    Returns (success, fatal) where fatal=True means "don't retry / delete pending".
+    """
+    Attempt to post to Twitter.
+    Returns (success, fatal) where fatal=True means \"don't retry / delete pending\".
+    Uses yt-dlp to fetch reddit video+audio merged when possible.
     """
     media_ids: list[int] = []
 
     try:
         # -------------------------
-        # VIDEO HANDLING
+        # VIDEO HANDLING using yt-dlp
         # -------------------------
         if video_path:
-            video_url = video_path
-            audio_url = None
-            needs_merge = False
+            # use yt-dlp for robust download/merge of reddit videos
+            # we'll download to a temporary file unique per-run
+            out_file = "temp_video.mp4"
+            filename, duration, err = download_reddit_video_ytdlp(video_path, out_file)
 
-            # Detecta novo formato packaged-media.redd.it
-            if "packaged-media.redd.it" in video_url:
-                # Tentar baixar o MPD e extrair o áudio
+            # if yt-dlp says it's too long -> treat as fatal (remove pending)
+            if err == "too_long":
+                logger.info("Video too long (>120s). Will treat as fatal for post_id=%s", post_id)
+                if post_id:
+                    remove_pending_post(post_id)
+                return False, True
+
+            if filename is None:
+                # download failed. treat as non-fatal so it can retry later,
+                # unless err indicates an unrecoverable reason (we can detect common words)
+                logger.error("YT-DLP download failed for %s: %s", video_path, err)
+                # If yt-dlp gave error message that looks unrecoverable, drop it
+                if err and any(k in err.lower() for k in ("copyright", "404", "forbidden", "not permitted", "unavailable")):
+                    if post_id:
+                        remove_pending_post(post_id)
+                    return False, True
+                # non-fatal fallback: save for retry
+                return False, False
+
+            # Upload the final mp4
+            try:
+                check_rate_limits(api, "/media/upload")
+                media = api.media_upload(filename, media_category="tweet_video", chunked=True)
+                media_ids.append(media.media_id)
+            except Exception as exc:
+                logger.error("Error uploading video file %s: %s", filename, exc)
+                # If upload fails with unrecoverable error, drop pending
+                if post_id and _is_unrecoverable_tweepy_error(exc):
+                    remove_pending_post(post_id)
+                    return False, True
+                return False, False
+            finally:
                 try:
-                    mpd_text = requests.get(video_url, timeout=20).text
-                    import xml.etree.ElementTree as ET
-                    xml = ET.fromstring(mpd_text)
-
-                    audio_base = None
-                    for period in xml.findall("{urn:mpeg:dash:schema:mpd:2011}Period"):
-                        for adaptation in period.findall("{urn:mpeg:dash:schema:mpd:2011}AdaptationSet"):
-                            if adaptation.attrib.get("mimeType", "").startswith("audio/"):
-                                rep = adaptation.find("{urn:mpeg:dash:schema:mpd:2011}Representation")
-                                if rep is not None:
-                                    tag = rep.find("{urn:mpeg:dash:schema:mpd:2011}BaseURL")
-                                    if tag is not None:
-                                        audio_base = tag.text
-                                        break
-                        if audio_base:
-                            break
-
-                    if audio_base:
-                        from urllib.parse import urljoin
-                        audio_url = urljoin(video_url, audio_base)
-                        needs_merge = True
-                    else:
-                        logger.warning("No audio track found in Reddit MPD")
-
-                except Exception as e:
-                    logger.error("Failed to parse Reddit MPD: %s", e)
-
-            # Formato antigo (v.redd.it)
-            elif "v.redd.it" in video_url:
-                base = "/".join(video_url.split("/")[:-1])
-                audio_url = f"{base}/DASH_AUDIO_128.mp4"
-                needs_merge = True
-
-            # -------------------------
-            # DOWNLOADS (vídeo + áudio, se houver)
-            # -------------------------
-            v_file = download_media(video_url, "temp_video.mp4")
-
-            a_file = None
-            if audio_url:
-                a_file = download_media(audio_url, "temp_audio.mp4")
-
-            # -------------------------
-            # COMBINE (se houver áudio)
-            # -------------------------
-            final_video = None
-            if v_file and a_file and needs_merge:
-                final_video = combine_video_audio(v_file, a_file, "temp_combined.mp4")
-            elif v_file:
-                final_video = v_file
-
-            # Upload final
-            if final_video:
-                try:
-                    check_rate_limits(api, "/media/upload")
-                    media = api.media_upload(final_video, media_category="tweet_video", chunked=True)
-                    media_ids.append(media.media_id)
-                except Exception as exc:
-                    logger.error("Error uploading video: %s", exc)
-
-            # cleanup
-            for f in (v_file, a_file, "temp_combined.mp4"):
-                try:
-                    if f and os.path.exists(f):
-                        os.remove(f)
-                except:
+                    if filename and os.path.exists(filename):
+                        os.remove(filename)
+                except Exception:
                     pass
 
         # -------------------------
@@ -343,22 +362,18 @@ def post_to_twitter(text: str, img_paths: list[str], video_path: str, post_id: s
             )
             logger.info("Tweet posted: %s", resp.data["id"])
             return True, False
-        else:
-            logger.error("Nothing to tweet: no text/media")
-            return False, False
 
-    # -------------------------
-    # ERROR HANDLING
-    # -------------------------
+        logger.error("Nothing to tweet: no text/media")
+        return False, False
+
     except tweepy.TweepyException as exc:
         logger.error("Tweepy error: %s", exc)
         fatal = _is_unrecoverable_tweepy_error(exc)
-
         if fatal and post_id:
             remove_pending_post(post_id)
-            logger.info("Dropped pending post %s due to UNRECOVERABLE error", post_id)
-
-        return False, fatal
+            logger.info("Dropped pending post %s due to unrecoverable error: %s", post_id, exc)
+            return False, True
+        return False, False
 
     except Exception as exc:
         logger.error("Unexpected error in post_to_twitter: %s", exc)
