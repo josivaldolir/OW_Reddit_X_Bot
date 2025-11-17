@@ -5,6 +5,8 @@ from logging.handlers import RotatingFileHandler
 from oauth import *
 from reddit import extractContent
 from database import get_db_connection
+import xml.etree.ElementTree as ET
+from urllib.parse import urlparse, urljoin, parse_qs
 
 # ---------- logging ----------
 stream_handler = logging.StreamHandler(sys.stdout)
@@ -197,45 +199,89 @@ def post_to_twitter(text: str, img_paths: list[str], video_path: str, post_id: s
     media_ids: list[int] = []
 
     try:
-        # video handling: support CMAF (muxed) or older DASH (separate audio)
+        # -------------------------
+        # VIDEO HANDLING
+        # -------------------------
         if video_path:
             video_url = video_path
-            needs_merge = "DASH_" in video_url and "DASH_AUDIO_128.mp4" not in video_url
-            # try to discover audio URL for old format
-            if needs_merge:
-                base_url = "/".join(video_url.split("/")[:-1])
-                audio_url = f"{base_url}/DASH_AUDIO_128.mp4"
-                v_file = download_media(video_url, "temp_video.mp4")
-                a_file = download_media(audio_url, "temp_audio.mp4")
-                if v_file and a_file:
-                    combo_file = combine_video_audio(v_file, a_file, "temp_combined.mp4")
-                    if combo_file:
-                        check_rate_limits(api, "/media/upload")
-                        media = api.media_upload(combo_file, media_category="tweet_video", chunked=True)
-                        media_ids.append(media.media_id)
-                # cleanup
-                for f in (v_file, a_file, "temp_combined.mp4"):
-                    try:
-                        if f and os.path.exists(f):
-                            os.remove(f)
-                    except FileNotFoundError:
-                        pass
-            else:
-                # CMAF or packaged media (likely already muxed)
-                v_file = download_media(video_url, "temp_video.mp4")
-                if v_file:
-                    try:
-                        check_rate_limits(api, "/media/upload")
-                        media = api.media_upload(v_file, media_category="tweet_video", chunked=True)
-                        media_ids.append(media.media_id)
-                    finally:
-                        try:
-                            if v_file and os.path.exists(v_file):
-                                os.remove(v_file)
-                        except FileNotFoundError:
-                            pass
+            audio_url = None
+            needs_merge = False
 
-        # images
+            # Detecta novo formato packaged-media.redd.it
+            if "packaged-media.redd.it" in video_url:
+                # Tentar baixar o MPD e extrair o áudio
+                try:
+                    mpd_text = requests.get(video_url, timeout=20).text
+                    import xml.etree.ElementTree as ET
+                    xml = ET.fromstring(mpd_text)
+
+                    audio_base = None
+                    for period in xml.findall("{urn:mpeg:dash:schema:mpd:2011}Period"):
+                        for adaptation in period.findall("{urn:mpeg:dash:schema:mpd:2011}AdaptationSet"):
+                            if adaptation.attrib.get("mimeType", "").startswith("audio/"):
+                                rep = adaptation.find("{urn:mpeg:dash:schema:mpd:2011}Representation")
+                                if rep is not None:
+                                    tag = rep.find("{urn:mpeg:dash:schema:mpd:2011}BaseURL")
+                                    if tag is not None:
+                                        audio_base = tag.text
+                                        break
+                        if audio_base:
+                            break
+
+                    if audio_base:
+                        from urllib.parse import urljoin
+                        audio_url = urljoin(video_url, audio_base)
+                        needs_merge = True
+                    else:
+                        logger.warning("No audio track found in Reddit MPD")
+
+                except Exception as e:
+                    logger.error("Failed to parse Reddit MPD: %s", e)
+
+            # Formato antigo (v.redd.it)
+            elif "v.redd.it" in video_url:
+                base = "/".join(video_url.split("/")[:-1])
+                audio_url = f"{base}/DASH_AUDIO_128.mp4"
+                needs_merge = True
+
+            # -------------------------
+            # DOWNLOADS (vídeo + áudio, se houver)
+            # -------------------------
+            v_file = download_media(video_url, "temp_video.mp4")
+
+            a_file = None
+            if audio_url:
+                a_file = download_media(audio_url, "temp_audio.mp4")
+
+            # -------------------------
+            # COMBINE (se houver áudio)
+            # -------------------------
+            final_video = None
+            if v_file and a_file and needs_merge:
+                final_video = combine_video_audio(v_file, a_file, "temp_combined.mp4")
+            elif v_file:
+                final_video = v_file
+
+            # Upload final
+            if final_video:
+                try:
+                    check_rate_limits(api, "/media/upload")
+                    media = api.media_upload(final_video, media_category="tweet_video", chunked=True)
+                    media_ids.append(media.media_id)
+                except Exception as exc:
+                    logger.error("Error uploading video: %s", exc)
+
+            # cleanup
+            for f in (v_file, a_file, "temp_combined.mp4"):
+                try:
+                    if f and os.path.exists(f):
+                        os.remove(f)
+                except:
+                    pass
+
+        # -------------------------
+        # IMAGES
+        # -------------------------
         elif img_paths:
             for idx, url in enumerate(img_paths[:4]):
                 local = download_media(url, f"temp_image_{idx}.jpg")
@@ -245,7 +291,9 @@ def post_to_twitter(text: str, img_paths: list[str], video_path: str, post_id: s
                     media_ids.append(media.media_id)
                     os.remove(local)
 
-        # tweet
+        # -------------------------
+        # TWEET
+        # -------------------------
         if text or media_ids:
             resp = client.create_tweet(
                 text=text,
@@ -257,15 +305,20 @@ def post_to_twitter(text: str, img_paths: list[str], video_path: str, post_id: s
         else:
             logger.error("Nothing to tweet: no text/media")
             return False, False
+
+    # -------------------------
+    # ERROR HANDLING
+    # -------------------------
     except tweepy.TweepyException as exc:
         logger.error("Tweepy error: %s", exc)
         fatal = _is_unrecoverable_tweepy_error(exc)
+
         if fatal and post_id:
-            # drop the pending post so it won't block future runs
             remove_pending_post(post_id)
-            logger.info("Dropped pending post %s due to unrecoverable error: %s", post_id, exc)
-            return False, True
-        return False, False
+            logger.info("Dropped pending post %s due to UNRECOVERABLE error", post_id)
+
+        return False, fatal
+
     except Exception as exc:
         logger.error("Unexpected error in post_to_twitter: %s", exc)
         return False, False
