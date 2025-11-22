@@ -22,7 +22,7 @@ def extractContent():
             max_imgs = 0
             if not sub.stickied and not is_post_seen(sub.id):
                 post_data = {
-                    "id": sub.id,  # Added post ID to the dictionary
+                    "id": sub.id,
                     "title": sub.title,
                     "content": sub.selftext,
                     "url": f"https://www.reddit.com{sub.permalink}",
@@ -33,6 +33,7 @@ def extractContent():
 
                 if hasattr(sub, "preview"):
                     post_data["s_img"] = sub.preview["images"][0]["source"]["url"]
+                    
                 if hasattr(sub, "gallery_data"):
                     for i in sub.gallery_data["items"]:
                         media_id = i["media_id"]
@@ -49,8 +50,16 @@ def extractContent():
                         post_data["m_img"] = m_links[:]
                     m_links.clear()
 
+                # CORRIGIDO: Agora passa a URL do post do Reddit ao invés do fallback_url
+                # O yt-dlp é mais inteligente e consegue pegar o formato certo
                 if sub.media and isinstance(sub.media, dict) and "reddit_video" in sub.media:
-                    post_data["video"] = sub.media["reddit_video"]["fallback_url"]
+                    # Passa a URL DO POST, não o fallback_url
+                    # O yt-dlp vai extrair os formatos disponíveis e escolher o melhor
+                    post_data["video"] = f"https://www.reddit.com{sub.permalink}"
+                    
+                    logging.info(f"Video encontrado no post: {sub.id}")
+                    logging.info(f"  - URL do post: {post_data['video']}")
+                    logging.info(f"  - Fallback URL: {sub.media['reddit_video'].get('fallback_url', 'N/A')}")
                 
                 new_posts.append(post_data)
                 break  # Exit the loop after finding one new post

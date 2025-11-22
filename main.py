@@ -178,74 +178,92 @@ def check_rate_limits(api, endpoint):
 
 def download_reddit_video_ytdlp(url: str, output_filename: str = "temp_video.mp4") -> tuple[str | None, int | None, str | None]:
     """
-    Uses yt-dlp to download reddit video WITH AUDIO properly merged.
+    Uses yt-dlp to download reddit video WITH AUDIO.
     Returns (filename_or_none, duration_seconds_or_none, error_message_or_none)
     
-    CORREÇÃO: Agora força o download de melhor vídeo + melhor áudio e faz merge via ffmpeg
+    CORREÇÃO V2: Força download do arquivo m2-res com áudio embutido (como o navegador faz)
+    ao invés de tentar merge de streams DASH separados
     """
     if yt_dlp is None:
         msg = "yt_dlp not installed"
         logger.error(msg)
         return None, None, msg
 
-    # OPÇÕES CORRIGIDAS para garantir áudio
+    # ESTRATÉGIA: preferir formatos com áudio E vídeo juntos (evitar DASH)
     ydl_opts = {
         "outtmpl": output_filename,
-        "format": "bestvideo+bestaudio/best",  # Força download de vídeo E áudio separados
-        "merge_output_format": "mp4",  # Merge para MP4
+        # Prioriza formatos com audio+video juntos, depois tenta merge, por último pega o melhor disponível
+        "format": "(bv*[ext=mp4]+ba[ext=m4a]/b[ext=mp4]/bv*+ba/b)[protocol!*=dash]/(bv*+ba/b)",
+        "merge_output_format": "mp4",
+        # Força conversão para MP4 com AAC
         "postprocessors": [{
             "key": "FFmpegVideoConvertor",
             "preferedformat": "mp4",
         }],
-        "quiet": False,  # Mudei para False para debug
+        "quiet": False,
         "no_warnings": False,
-        "verbose": True,  # Ativa logs detalhados
-        # Força re-encode de áudio se necessário
+        "verbose": True,
+        # Re-encode áudio para AAC se necessário
         "postprocessor_args": [
-            "-c:v", "copy",  # Copia vídeo sem re-encode (mais rápido)
-            "-c:a", "aac",   # Re-encode áudio para AAC (compatível com Twitter)
-            "-b:a", "128k",  # Bitrate de áudio
+            "-c:v", "copy",
+            "-c:a", "aac",
+            "-b:a", "128k",
         ],
-        # Garante que o ffmpeg será usado para merge
         "prefer_ffmpeg": True,
+        # IMPORTANTE: Evita streams DASH quando possível
+        "http_headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+        }
     }
 
     try:
         with yt_dlp.YoutubeDL(ydl_opts) as ydl:
             logger.info(f"Iniciando download com yt-dlp: {url}")
             
-            # Probe metadata first
+            # Probe metadata
             info = ydl.extract_info(url, download=False)
             duration = info.get("duration")
             
-            # Log detalhado dos formatos disponíveis
+            # Log formatos disponíveis com DETALHES DE ÁUDIO
             if "formats" in info:
                 logger.info(f"Formatos disponíveis: {len(info['formats'])}")
-                for fmt in info["formats"][:5]:  # Log primeiros 5 formatos
-                    logger.info(f"  - Format: {fmt.get('format_id')} | "
-                              f"Ext: {fmt.get('ext')} | "
-                              f"Vcodec: {fmt.get('vcodec')} | "
-                              f"Acodec: {fmt.get('acodec')}")
+                for fmt in info["formats"][:10]:
+                    format_note = fmt.get('format_note', 'N/A')
+                    has_video = fmt.get('vcodec', 'none') != 'none'
+                    has_audio = fmt.get('acodec', 'none') != 'none'
+                    protocol = fmt.get('protocol', 'N/A')
+                    
+                    logger.info(f"  - ID: {fmt.get('format_id')} | "
+                              f"Note: {format_note} | "
+                              f"Video: {has_video} | Audio: {has_audio} | "
+                              f"Protocol: {protocol} | "
+                              f"Ext: {fmt.get('ext')}")
+                
+                # Tenta identificar o formato selecionado
+                selected = info.get("format_id")
+                logger.info(f"Formato SELECIONADO pelo yt-dlp: {selected}")
 
             # Verifica duração
             if duration and duration > 60:
                 logger.info(f"Video duration {duration}s > 60s; marking as too long")
                 return None, duration, "too_long"
 
-            # Perform download com merge automático
-            logger.info("Baixando e fazendo merge de vídeo+áudio...")
+            # Download
+            logger.info("Baixando vídeo...")
             ydl.download([url])
 
             if os.path.exists(output_filename):
                 file_size = os.path.getsize(output_filename)
                 logger.info(f"Download concluído! Arquivo: {output_filename} ({file_size} bytes)")
                 
-                # Verifica se o arquivo tem áudio usando ffprobe
+                # Verifica áudio
                 has_audio = check_audio_stream(output_filename)
                 if not has_audio:
-                    logger.warning("AVISO: Arquivo de vídeo NÃO contém stream de áudio!")
+                    logger.error("❌ PROBLEMA: Arquivo NÃO contém stream de áudio!")
+                    # Tenta fallback: baixar diretamente o fallback_url do Reddit
+                    return try_direct_reddit_download(url, output_filename)
                 else:
-                    logger.info("✓ Áudio confirmado no arquivo de vídeo")
+                    logger.info("✓ Áudio confirmado no arquivo!")
                 
                 return output_filename, duration, None
             else:
@@ -253,7 +271,53 @@ def download_reddit_video_ytdlp(url: str, output_filename: str = "temp_video.mp4
 
     except Exception as exc:
         logger.error(f"yt-dlp error for {url}: {exc}", exc_info=True)
-        return None, None, str(exc)
+        # Tenta fallback direto
+        return try_direct_reddit_download(url, output_filename)
+
+
+def try_direct_reddit_download(reddit_url: str, output_filename: str) -> tuple[str | None, int | None, str | None]:
+    """
+    Fallback: tenta baixar diretamente o arquivo do Reddit (como o navegador faz)
+    pegando a URL do fallback_url que já tem áudio embutido
+    """
+    try:
+        logger.info("Tentando download direto do Reddit (fallback)...")
+        
+        # Se a URL já é o fallback_url direto (termina com DASH_...)
+        if "DASH_" in reddit_url or ".mp4" in reddit_url:
+            direct_url = reddit_url
+        else:
+            # Extrai o fallback_url do JSON da API do Reddit
+            logger.info("URL não é direta, tentando extrair fallback_url...")
+            return None, None, "fallback_failed_no_direct_url"
+        
+        logger.info(f"Baixando de: {direct_url}")
+        
+        # Download direto
+        response = requests.get(direct_url, stream=True, timeout=60)
+        response.raise_for_status()
+        
+        with open(output_filename, 'wb') as f:
+            for chunk in response.iter_content(chunk_size=8192):
+                f.write(chunk)
+        
+        if os.path.exists(output_filename):
+            file_size = os.path.getsize(output_filename)
+            logger.info(f"✓ Download direto concluído: {file_size} bytes")
+            
+            has_audio = check_audio_stream(output_filename)
+            if has_audio:
+                logger.info("✓ Fallback bem-sucedido - arquivo com áudio!")
+                return output_filename, None, None
+            else:
+                logger.error("❌ Fallback falhou - sem áudio mesmo com download direto")
+                return None, None, "no_audio_in_fallback"
+        
+        return None, None, "fallback_file_not_created"
+        
+    except Exception as exc:
+        logger.error(f"Fallback direto falhou: {exc}")
+        return None, None, f"fallback_error: {exc}"
 
 
 def check_audio_stream(video_path: str) -> bool:
