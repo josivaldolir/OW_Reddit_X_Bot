@@ -336,13 +336,15 @@ def try_manual_audio_merge(post_url: str, video_file: str) -> tuple[str | None, 
                 f.write(resp.content)
             logger.info(f"Vídeo baixado: {len(resp.content)} bytes")
         
-        # Tenta encontrar URL do áudio (padrão CMAF do Reddit)
+        # Tenta encontrar URL do áudio (padrão CMAF do Reddit - ATUALIZADO!)
         base_url = fallback_url.rsplit('/', 1)[0]
         
-        # Tenta várias possibilidades de URL de áudio
+        # Reddit mudou para CMAF: agora usa CMAF_AUDIO_xxx ao invés de DASH_AUDIO_xxx
         audio_urls = [
-            f"{base_url}/DASH_AUDIO_128.mp4",
-            f"{base_url}/DASH_AUDIO_64.mp4",
+            f"{base_url}/CMAF_AUDIO_128.mp4",  # NOVO formato CMAF
+            f"{base_url}/CMAF_AUDIO_64.mp4",   # NOVO formato CMAF
+            f"{base_url}/DASH_AUDIO_128.mp4",  # Formato antigo (fallback)
+            f"{base_url}/DASH_AUDIO_64.mp4",   # Formato antigo (fallback)
             f"{base_url}/DASH_audio.mp4",
             f"{base_url}/audio.mp4",
         ]
