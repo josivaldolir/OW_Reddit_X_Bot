@@ -1,14 +1,12 @@
-import tweepy, logging, requests, os, time, subprocess, sys, json
+import tweepy, logging, requests, os, time, subprocess, sys, json, re
 from contextlib import closing
 from logging.handlers import RotatingFileHandler
 
 from oauth import *
 from reddit import extractContent
 from database import get_db_connection
-import xml.etree.ElementTree as ET
-from urllib.parse import urlparse, urljoin, parse_qs
 
-# <-- NEW: yt-dlp -->
+# <-- yt-dlp -->
 try:
     import yt_dlp
 except Exception as e:
@@ -174,152 +172,6 @@ def check_rate_limits(api, endpoint):
     except tweepy.TweepyException as e:
         logging.error(f"Failed to check rate limits: {e}")
 
-# ---------- yt-dlp integration (CORRIGIDO) ----------
-
-def download_reddit_video_ytdlp(url: str, output_filename: str = "temp_video.mp4") -> tuple[str | None, int | None, str | None]:
-    """
-    Uses yt-dlp to download reddit video WITH AUDIO.
-    Returns (filename_or_none, duration_seconds_or_none, error_message_or_none)
-    
-    CORREÇÃO V2: Força download do arquivo m2-res com áudio embutido (como o navegador faz)
-    ao invés de tentar merge de streams DASH separados
-    """
-    if yt_dlp is None:
-        msg = "yt_dlp not installed"
-        logger.error(msg)
-        return None, None, msg
-
-    # ESTRATÉGIA: preferir formatos com áudio E vídeo juntos (evitar DASH)
-    ydl_opts = {
-        "outtmpl": output_filename,
-        # Prioriza formatos com audio+video juntos, depois tenta merge, por último pega o melhor disponível
-        "format": "(bv*[ext=mp4]+ba[ext=m4a]/b[ext=mp4]/bv*+ba/b)[protocol!*=dash]/(bv*+ba/b)",
-        "merge_output_format": "mp4",
-        # Força conversão para MP4 com AAC
-        "postprocessors": [{
-            "key": "FFmpegVideoConvertor",
-            "preferedformat": "mp4",
-        }],
-        "quiet": False,
-        "no_warnings": False,
-        "verbose": True,
-        # Re-encode áudio para AAC se necessário
-        "postprocessor_args": [
-            "-c:v", "copy",
-            "-c:a", "aac",
-            "-b:a", "128k",
-        ],
-        "prefer_ffmpeg": True,
-        # IMPORTANTE: Evita streams DASH quando possível
-        "http_headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-        }
-    }
-
-    try:
-        with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-            logger.info(f"Iniciando download com yt-dlp: {url}")
-            
-            # Probe metadata
-            info = ydl.extract_info(url, download=False)
-            duration = info.get("duration")
-            
-            # Log formatos disponíveis com DETALHES DE ÁUDIO
-            if "formats" in info:
-                logger.info(f"Formatos disponíveis: {len(info['formats'])}")
-                for fmt in info["formats"][:10]:
-                    format_note = fmt.get('format_note', 'N/A')
-                    has_video = fmt.get('vcodec', 'none') != 'none'
-                    has_audio = fmt.get('acodec', 'none') != 'none'
-                    protocol = fmt.get('protocol', 'N/A')
-                    
-                    logger.info(f"  - ID: {fmt.get('format_id')} | "
-                              f"Note: {format_note} | "
-                              f"Video: {has_video} | Audio: {has_audio} | "
-                              f"Protocol: {protocol} | "
-                              f"Ext: {fmt.get('ext')}")
-                
-                # Tenta identificar o formato selecionado
-                selected = info.get("format_id")
-                logger.info(f"Formato SELECIONADO pelo yt-dlp: {selected}")
-
-            # Verifica duração
-            if duration and duration > 60:
-                logger.info(f"Video duration {duration}s > 60s; marking as too long")
-                return None, duration, "too_long"
-
-            # Download
-            logger.info("Baixando vídeo...")
-            ydl.download([url])
-
-            if os.path.exists(output_filename):
-                file_size = os.path.getsize(output_filename)
-                logger.info(f"Download concluído! Arquivo: {output_filename} ({file_size} bytes)")
-                
-                # Verifica áudio
-                has_audio = check_audio_stream(output_filename)
-                if not has_audio:
-                    logger.error("❌ PROBLEMA: Arquivo NÃO contém stream de áudio!")
-                    # Tenta fallback: baixar diretamente o fallback_url do Reddit
-                    return try_direct_reddit_download(url, output_filename)
-                else:
-                    logger.info("✓ Áudio confirmado no arquivo!")
-                
-                return output_filename, duration, None
-            else:
-                return None, duration, "download_failed_no_file"
-
-    except Exception as exc:
-        logger.error(f"yt-dlp error for {url}: {exc}", exc_info=True)
-        # Tenta fallback direto
-        return try_direct_reddit_download(url, output_filename)
-
-
-def try_direct_reddit_download(reddit_url: str, output_filename: str) -> tuple[str | None, int | None, str | None]:
-    """
-    Fallback: tenta baixar diretamente o arquivo do Reddit (como o navegador faz)
-    pegando a URL do fallback_url que já tem áudio embutido
-    """
-    try:
-        logger.info("Tentando download direto do Reddit (fallback)...")
-        
-        # Se a URL já é o fallback_url direto (termina com DASH_...)
-        if "DASH_" in reddit_url or ".mp4" in reddit_url:
-            direct_url = reddit_url
-        else:
-            # Extrai o fallback_url do JSON da API do Reddit
-            logger.info("URL não é direta, tentando extrair fallback_url...")
-            return None, None, "fallback_failed_no_direct_url"
-        
-        logger.info(f"Baixando de: {direct_url}")
-        
-        # Download direto
-        response = requests.get(direct_url, stream=True, timeout=60)
-        response.raise_for_status()
-        
-        with open(output_filename, 'wb') as f:
-            for chunk in response.iter_content(chunk_size=8192):
-                f.write(chunk)
-        
-        if os.path.exists(output_filename):
-            file_size = os.path.getsize(output_filename)
-            logger.info(f"✓ Download direto concluído: {file_size} bytes")
-            
-            has_audio = check_audio_stream(output_filename)
-            if has_audio:
-                logger.info("✓ Fallback bem-sucedido - arquivo com áudio!")
-                return output_filename, None, None
-            else:
-                logger.error("❌ Fallback falhou - sem áudio mesmo com download direto")
-                return None, None, "no_audio_in_fallback"
-        
-        return None, None, "fallback_file_not_created"
-        
-    except Exception as exc:
-        logger.error(f"Fallback direto falhou: {exc}")
-        return None, None, f"fallback_error: {exc}"
-
-
 def check_audio_stream(video_path: str) -> bool:
     """
     Verifica se o arquivo de vídeo contém um stream de áudio usando ffprobe.
@@ -339,7 +191,210 @@ def check_audio_stream(video_path: str) -> bool:
         return has_audio
     except Exception as e:
         logger.warning(f"Não foi possível verificar áudio com ffprobe: {e}")
-        return False  # Assume que não tem áudio se não conseguir verificar
+        return False
+
+# ---------- yt-dlp com autenticação Reddit ----------
+
+def download_reddit_video_ytdlp_auth(url: str, output_filename: str = "temp_video.mp4") -> tuple[str | None, int | None, str | None]:
+    """
+    Usa yt-dlp COM autenticação do Reddit (necessário após mudança para CMAF).
+    Usa as credenciais do oauth.py para autenticar.
+    
+    Returns (filename_or_none, duration_seconds_or_none, error_message_or_none)
+    """
+    if yt_dlp is None:
+        msg = "yt_dlp not installed"
+        logger.error(msg)
+        return None, None, msg
+
+    try:
+        # Pega as credenciais do Reddit
+        username = os.getenv('USERNAME')
+        password = os.getenv('PASSWORD')
+        
+        if not username or not password:
+            logger.error("Credenciais do Reddit não encontradas!")
+            return None, None, "no_reddit_credentials"
+        
+        logger.info(f"Usando yt-dlp com autenticação Reddit para: {url}")
+        
+        # Opções do yt-dlp COM autenticação
+        ydl_opts = {
+            "outtmpl": output_filename,
+            # Formato que pega vídeo + áudio e faz merge
+            "format": "bv*+ba/b",
+            "merge_output_format": "mp4",
+            # CREDENCIAIS DO REDDIT
+            "username": username,
+            "password": password,
+            # Post-processamento
+            "postprocessors": [{
+                "key": "FFmpegVideoConvertor",
+                "preferedformat": "mp4",
+            }],
+            "postprocessor_args": [
+                "-c:v", "copy",
+                "-c:a", "aac",
+                "-b:a", "128k",
+            ],
+            "quiet": False,
+            "no_warnings": False,
+            "verbose": True,
+            "prefer_ffmpeg": True,
+            "http_headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+        }
+
+        with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+            # Extrai informações
+            logger.info("Extraindo informações do vídeo...")
+            info = ydl.extract_info(url, download=False)
+            duration = info.get("duration")
+            
+            # Log dos formatos
+            if "formats" in info:
+                logger.info(f"Formatos disponíveis: {len(info['formats'])}")
+                for fmt in info["formats"][:5]:
+                    has_video = fmt.get('vcodec', 'none') != 'none'
+                    has_audio = fmt.get('acodec', 'none') != 'none'
+                    logger.info(f"  - {fmt.get('format_id')}: "
+                              f"video={has_video} audio={has_audio} "
+                              f"ext={fmt.get('ext')}")
+
+            # Verifica duração (limite do Twitter)
+            if duration and duration > 140:  # Twitter aceita até 140s
+                logger.info(f"Vídeo muito longo: {duration}s > 140s")
+                return None, duration, "too_long"
+
+            # Faz o download
+            logger.info("Baixando vídeo com áudio...")
+            ydl.download([url])
+
+            if os.path.exists(output_filename):
+                file_size = os.path.getsize(output_filename)
+                logger.info(f"✓ Download concluído: {output_filename} ({file_size} bytes)")
+                
+                # Verifica se tem áudio
+                has_audio = check_audio_stream(output_filename)
+                if not has_audio:
+                    logger.warning("⚠️ Arquivo sem áudio detectado!")
+                    # Tenta fallback manual
+                    return try_manual_audio_merge(url, output_filename)
+                else:
+                    logger.info("✓ Áudio confirmado no arquivo!")
+                
+                return output_filename, duration, None
+            else:
+                logger.error("Arquivo não foi criado após download")
+                return None, duration, "download_failed_no_file"
+
+    except Exception as exc:
+        logger.error(f"Erro no yt-dlp: {exc}", exc_info=True)
+        # Tenta fallback manual se yt-dlp falhar
+        return try_manual_audio_merge(url, output_filename)
+
+
+def try_manual_audio_merge(post_url: str, video_file: str) -> tuple[str | None, int | None, str | None]:
+    """
+    Fallback: tenta extrair URLs de vídeo e áudio manualmente da API do Reddit
+    e fazer merge com ffmpeg.
+    """
+    try:
+        logger.info("Tentando merge manual de áudio...")
+        
+        # Extrai o ID do post da URL
+        match = re.search(r'/comments/([a-z0-9]+)/', post_url)
+        if not match:
+            logger.error("URL do post inválida")
+            return None, None, "invalid_post_url"
+        
+        post_id = match.group(1)
+        
+        # Usa PRAW para pegar informações do post
+        submission = reddit.submission(id=post_id)
+        
+        if not submission.media or 'reddit_video' not in submission.media:
+            logger.error("Post não contém vídeo")
+            return None, None, "no_video_metadata"
+        
+        fallback_url = submission.media['reddit_video'].get('fallback_url', '')
+        if not fallback_url:
+            logger.error("Fallback URL não encontrada")
+            return None, None, "no_fallback_url"
+        
+        logger.info(f"Fallback URL: {fallback_url}")
+        
+        # Baixa o vídeo se ainda não tiver
+        if not os.path.exists(video_file):
+            logger.info("Baixando vídeo do fallback_url...")
+            resp = requests.get(fallback_url, timeout=60, headers={
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+            })
+            resp.raise_for_status()
+            with open(video_file, 'wb') as f:
+                f.write(resp.content)
+            logger.info(f"Vídeo baixado: {len(resp.content)} bytes")
+        
+        # Tenta encontrar URL do áudio (padrão CMAF do Reddit)
+        base_url = fallback_url.rsplit('/', 1)[0]
+        
+        # Tenta várias possibilidades de URL de áudio
+        audio_urls = [
+            f"{base_url}/DASH_AUDIO_128.mp4",
+            f"{base_url}/DASH_AUDIO_64.mp4",
+            f"{base_url}/DASH_audio.mp4",
+            f"{base_url}/audio.mp4",
+        ]
+        
+        audio_file = None
+        for audio_url in audio_urls:
+            try:
+                logger.info(f"Tentando baixar áudio de: {audio_url}")
+                resp = requests.get(audio_url, timeout=30, headers={
+                    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+                })
+                
+                if resp.status_code == 200 and len(resp.content) > 1000:  # Verifica se não é erro
+                    audio_file = "temp_audio.mp4"
+                    with open(audio_file, 'wb') as f:
+                        f.write(resp.content)
+                    logger.info(f"✓ Áudio baixado: {len(resp.content)} bytes")
+                    break
+            except Exception as e:
+                logger.debug(f"Falha ao baixar de {audio_url}: {e}")
+                continue
+        
+        if not audio_file:
+            logger.error("Não foi possível encontrar arquivo de áudio")
+            return None, None, "audio_not_found"
+        
+        # Combina vídeo + áudio
+        output_file = "temp_video_merged.mp4"
+        result = combine_video_audio(video_file, audio_file, output_file)
+        
+        # Cleanup
+        try:
+            os.remove(audio_file)
+        except:
+            pass
+        
+        if result and os.path.exists(output_file):
+            # Move para o nome final
+            try:
+                os.remove(video_file)
+            except:
+                pass
+            os.rename(output_file, video_file)
+            logger.info("✓ Merge manual de áudio bem-sucedido!")
+            return video_file, None, None
+        else:
+            logger.error("Merge falhou")
+            return None, None, "merge_failed"
+            
+    except Exception as exc:
+        logger.error(f"Erro no merge manual: {exc}", exc_info=True)
+        return None, None, str(exc)
 
 # ---------- Twitter logic ----------
 
@@ -399,24 +454,24 @@ def post_to_twitter(text: str, img_paths: list[str], video_path: str, post_id: s
     """
     Attempt to post to Twitter.
     Returns (success, fatal) where fatal=True means "don't retry / delete pending".
-    Uses yt-dlp to fetch reddit video+audio merged when possible.
+    Uses yt-dlp with Reddit auth to fetch video+audio merged.
     """
     media_ids: list[int] = []
 
     try:
-        # VIDEO HANDLING using yt-dlp
+        # VIDEO HANDLING com yt-dlp autenticado
         if video_path:
             out_file = "temp_video.mp4"
-            filename, duration, err = download_reddit_video_ytdlp(video_path, out_file)
+            filename, duration, err = download_reddit_video_ytdlp_auth(video_path, out_file)
 
             if err == "too_long":
-                logger.info(f"Video too long (>60s). Will treat as fatal for post_id={post_id}")
+                logger.info(f"Video too long (>140s). Will treat as fatal for post_id={post_id}")
                 if post_id:
                     remove_pending_post(post_id)
                 return False, True
 
             if filename is None:
-                logger.error(f"YT-DLP download failed for {video_path}: {err}")
+                logger.error(f"Download failed for {video_path}: {err}")
                 if err and any(k in err.lower() for k in ("copyright", "404", "forbidden", "not permitted", "unavailable")):
                     if post_id:
                         remove_pending_post(post_id)

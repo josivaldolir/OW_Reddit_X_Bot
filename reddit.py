@@ -50,16 +50,13 @@ def extractContent():
                         post_data["m_img"] = m_links[:]
                     m_links.clear()
 
-                # CORRIGIDO: Agora passa a URL do post do Reddit ao invés do fallback_url
-                # O yt-dlp é mais inteligente e consegue pegar o formato certo
+                # Passa a URL do POST para o yt-dlp (ele precisa disso para autenticar e extrair)
                 if sub.media and isinstance(sub.media, dict) and "reddit_video" in sub.media:
-                    # Passa a URL DO POST, não o fallback_url
-                    # O yt-dlp vai extrair os formatos disponíveis e escolher o melhor
+                    # Passa a URL completa do post
                     post_data["video"] = f"https://www.reddit.com{sub.permalink}"
                     
                     logging.info(f"Video encontrado no post: {sub.id}")
                     logging.info(f"  - URL do post: {post_data['video']}")
-                    logging.info(f"  - Fallback URL: {sub.media['reddit_video'].get('fallback_url', 'N/A')}")
                 
                 new_posts.append(post_data)
                 break  # Exit the loop after finding one new post
