@@ -12,7 +12,6 @@ from urllib.parse import urlparse, urljoin, parse_qs
 try:
     import yt_dlp
 except Exception as e:
-    # Se yt_dlp não estiver instalado, vamos logar e seguir — a função tentará usar requests/front-end antigo.
     yt_dlp = None
     logging.getLogger(__name__).warning("yt_dlp não disponível: %s", e)
 
@@ -81,7 +80,6 @@ def remove_pending_post(post_id: str) -> None:
 def save_pending_post(post_id: str, content: str, img_paths: list[str], video_path: str) -> None:
     img_paths_json = json.dumps(img_paths if img_paths else [])
     with closing(get_db_connection()) as conn, conn:
-        # ensure there is at most one pending row
         conn.execute("DELETE FROM pending_posts;")
         conn.execute(
             """
@@ -135,7 +133,7 @@ def download_media(url: str, filename: str) -> str | None:
 def combine_video_audio(video_path: str, audio_path: str, output_path: str) -> str | None:
     cmd = [
         "ffmpeg",
-        "-y",  # overwrite
+        "-y",
         "-i",
         video_path,
         "-i",
@@ -176,66 +174,119 @@ def check_rate_limits(api, endpoint):
     except tweepy.TweepyException as e:
         logging.error(f"Failed to check rate limits: {e}")
 
-# ---------- yt-dlp integration ----------
+# ---------- yt-dlp integration (CORRIGIDO) ----------
 
 def download_reddit_video_ytdlp(url: str, output_filename: str = "temp_video.mp4") -> tuple[str | None, int | None, str | None]:
     """
-    Uses yt-dlp to download reddit video with audio merged.
+    Uses yt-dlp to download reddit video WITH AUDIO properly merged.
     Returns (filename_or_none, duration_seconds_or_none, error_message_or_none)
-
-    Now rejects videos longer than 60 seconds.
+    
+    CORREÇÃO: Agora força o download de melhor vídeo + melhor áudio e faz merge via ffmpeg
     """
     if yt_dlp is None:
         msg = "yt_dlp not installed"
         logger.error(msg)
         return None, None, msg
 
+    # OPÇÕES CORRIGIDAS para garantir áudio
     ydl_opts = {
         "outtmpl": output_filename,
-        "merge_output_format": "mp4",
-        "quiet": True,
-        "no_warnings": True,
-        "format": "bv*+ba/best"
+        "format": "bestvideo+bestaudio/best",  # Força download de vídeo E áudio separados
+        "merge_output_format": "mp4",  # Merge para MP4
+        "postprocessors": [{
+            "key": "FFmpegVideoConvertor",
+            "preferedformat": "mp4",
+        }],
+        "quiet": False,  # Mudei para False para debug
+        "no_warnings": False,
+        "verbose": True,  # Ativa logs detalhados
+        # Força re-encode de áudio se necessário
+        "postprocessor_args": [
+            "-c:v", "copy",  # Copia vídeo sem re-encode (mais rápido)
+            "-c:a", "aac",   # Re-encode áudio para AAC (compatível com Twitter)
+            "-b:a", "128k",  # Bitrate de áudio
+        ],
+        # Garante que o ffmpeg será usado para merge
+        "prefer_ffmpeg": True,
     }
 
     try:
         with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-            # probe metadata first
+            logger.info(f"Iniciando download com yt-dlp: {url}")
+            
+            # Probe metadata first
             info = ydl.extract_info(url, download=False)
             duration = info.get("duration")
+            
+            # Log detalhado dos formatos disponíveis
+            if "formats" in info:
+                logger.info(f"Formatos disponíveis: {len(info['formats'])}")
+                for fmt in info["formats"][:5]:  # Log primeiros 5 formatos
+                    logger.info(f"  - Format: {fmt.get('format_id')} | "
+                              f"Ext: {fmt.get('ext')} | "
+                              f"Vcodec: {fmt.get('vcodec')} | "
+                              f"Acodec: {fmt.get('acodec')}")
 
-            # -------- NEW LIMIT: discard videos > 60 seconds --------
+            # Verifica duração
             if duration and duration > 60:
-                logger.info("Video duration %s seconds > 60s; marking as too long", duration)
+                logger.info(f"Video duration {duration}s > 60s; marking as too long")
                 return None, duration, "too_long"
 
-            # perform download
+            # Perform download com merge automático
+            logger.info("Baixando e fazendo merge de vídeo+áudio...")
             ydl.download([url])
 
             if os.path.exists(output_filename):
+                file_size = os.path.getsize(output_filename)
+                logger.info(f"Download concluído! Arquivo: {output_filename} ({file_size} bytes)")
+                
+                # Verifica se o arquivo tem áudio usando ffprobe
+                has_audio = check_audio_stream(output_filename)
+                if not has_audio:
+                    logger.warning("AVISO: Arquivo de vídeo NÃO contém stream de áudio!")
+                else:
+                    logger.info("✓ Áudio confirmado no arquivo de vídeo")
+                
                 return output_filename, duration, None
             else:
                 return None, duration, "download_failed_no_file"
 
     except Exception as exc:
-        logger.error("yt-dlp error for %s: %s", url, exc)
+        logger.error(f"yt-dlp error for {url}: {exc}", exc_info=True)
         return None, None, str(exc)
+
+
+def check_audio_stream(video_path: str) -> bool:
+    """
+    Verifica se o arquivo de vídeo contém um stream de áudio usando ffprobe.
+    Retorna True se áudio existe, False caso contrário.
+    """
+    try:
+        cmd = [
+            "ffprobe",
+            "-v", "error",
+            "-select_streams", "a:0",
+            "-show_entries", "stream=codec_type",
+            "-of", "default=noprint_wrappers=1:nokey=1",
+            video_path
+        ]
+        result = subprocess.run(cmd, capture_output=True, text=True, timeout=10)
+        has_audio = "audio" in result.stdout.lower()
+        return has_audio
+    except Exception as e:
+        logger.warning(f"Não foi possível verificar áudio com ffprobe: {e}")
+        return False  # Assume que não tem áudio se não conseguir verificar
 
 # ---------- Twitter logic ----------
 
 def _is_unrecoverable_tweepy_error(exc: tweepy.TweepyException) -> bool:
     """Return True if the error should NOT be retried."""
-
-    # ---------- 1. Try API response ----------
     resp = getattr(exc, "response", None)
 
     if resp is not None:
         code = getattr(resp, "status_code", None)
 
-        # 400 / 403 são suspeitos — analisar conteúdo
         if code in (400, 403):
-
-            # Try JSON
             try:
                 data = resp.json()
                 msg = str(data)
@@ -244,7 +295,6 @@ def _is_unrecoverable_tweepy_error(exc: tweepy.TweepyException) -> bool:
 
             msg_lower = msg.lower()
 
-            # Fatal cases
             fatal_markers = [
                 "not allowed to post a video longer",
                 "your media ids are invalid",
@@ -261,7 +311,6 @@ def _is_unrecoverable_tweepy_error(exc: tweepy.TweepyException) -> bool:
             if any(m in msg_lower for m in fatal_markers):
                 return True
 
-    # ---------- 2. Fallback: analyze string(exception) ----------
     msg = str(exc).lower()
 
     fatal_markers = [
@@ -280,54 +329,45 @@ def _is_unrecoverable_tweepy_error(exc: tweepy.TweepyException) -> bool:
     if any(m in msg for m in fatal_markers):
         return True
 
-    # Not fatal
     return False
 
 def post_to_twitter(text: str, img_paths: list[str], video_path: str, post_id: str | None = None) -> tuple[bool, bool]:
     """
     Attempt to post to Twitter.
-    Returns (success, fatal) where fatal=True means \"don't retry / delete pending\".
+    Returns (success, fatal) where fatal=True means "don't retry / delete pending".
     Uses yt-dlp to fetch reddit video+audio merged when possible.
     """
     media_ids: list[int] = []
 
     try:
-        # -------------------------
         # VIDEO HANDLING using yt-dlp
-        # -------------------------
         if video_path:
-            # use yt-dlp for robust download/merge of reddit videos
-            # we'll download to a temporary file unique per-run
             out_file = "temp_video.mp4"
             filename, duration, err = download_reddit_video_ytdlp(video_path, out_file)
 
-            # if yt-dlp says it's too long -> treat as fatal (remove pending)
             if err == "too_long":
-                logger.info("Video too long (>120s). Will treat as fatal for post_id=%s", post_id)
+                logger.info(f"Video too long (>60s). Will treat as fatal for post_id={post_id}")
                 if post_id:
                     remove_pending_post(post_id)
                 return False, True
 
             if filename is None:
-                # download failed. treat as non-fatal so it can retry later,
-                # unless err indicates an unrecoverable reason (we can detect common words)
-                logger.error("YT-DLP download failed for %s: %s", video_path, err)
-                # If yt-dlp gave error message that looks unrecoverable, drop it
+                logger.error(f"YT-DLP download failed for {video_path}: {err}")
                 if err and any(k in err.lower() for k in ("copyright", "404", "forbidden", "not permitted", "unavailable")):
                     if post_id:
                         remove_pending_post(post_id)
                     return False, True
-                # non-fatal fallback: save for retry
                 return False, False
 
             # Upload the final mp4
             try:
                 check_rate_limits(api, "/media/upload")
+                logger.info(f"Uploading video to Twitter: {filename}")
                 media = api.media_upload(filename, media_category="tweet_video", chunked=True)
                 media_ids.append(media.media_id)
+                logger.info(f"✓ Video uploaded successfully! Media ID: {media.media_id}")
             except Exception as exc:
-                logger.error("Error uploading video file %s: %s", filename, exc)
-                # If upload fails with unrecoverable error, drop pending
+                logger.error(f"Error uploading video file {filename}: {exc}", exc_info=True)
                 if post_id and _is_unrecoverable_tweepy_error(exc):
                     remove_pending_post(post_id)
                     return False, True
@@ -336,12 +376,11 @@ def post_to_twitter(text: str, img_paths: list[str], video_path: str, post_id: s
                 try:
                     if filename and os.path.exists(filename):
                         os.remove(filename)
-                except Exception:
-                    pass
+                        logger.info(f"Cleaned up temp file: {filename}")
+                except Exception as e:
+                    logger.warning(f"Failed to cleanup {filename}: {e}")
 
-        # -------------------------
         # IMAGES
-        # -------------------------
         elif img_paths:
             for idx, url in enumerate(img_paths[:4]):
                 local = download_media(url, f"temp_image_{idx}.jpg")
@@ -351,32 +390,30 @@ def post_to_twitter(text: str, img_paths: list[str], video_path: str, post_id: s
                     media_ids.append(media.media_id)
                     os.remove(local)
 
-        # -------------------------
         # TWEET
-        # -------------------------
         if text or media_ids:
             resp = client.create_tweet(
                 text=text,
                 media_ids=media_ids if media_ids else None,
                 user_auth=True,
             )
-            logger.info("Tweet posted: %s", resp.data["id"])
+            logger.info(f"✓ Tweet posted successfully: {resp.data['id']}")
             return True, False
 
         logger.error("Nothing to tweet: no text/media")
         return False, False
 
     except tweepy.TweepyException as exc:
-        logger.error("Tweepy error: %s", exc)
+        logger.error(f"Tweepy error: {exc}", exc_info=True)
         fatal = _is_unrecoverable_tweepy_error(exc)
         if fatal and post_id:
             remove_pending_post(post_id)
-            logger.info("Dropped pending post %s due to unrecoverable error: %s", post_id, exc)
+            logger.info(f"Dropped pending post {post_id} due to unrecoverable error: {exc}")
             return False, True
         return False, False
 
     except Exception as exc:
-        logger.error("Unexpected error in post_to_twitter: %s", exc)
+        logger.error(f"Unexpected error in post_to_twitter: {exc}", exc_info=True)
         return False, False
 
 # ---------- Orchestration ----------
@@ -384,7 +421,6 @@ def post_to_twitter(text: str, img_paths: list[str], video_path: str, post_id: s
 def process_posts() -> None:
     pending = get_pending_posts()
 
-    # ---------- Try pending posts ----------
     if pending:
         p = pending[0]
         success, fatal = post_to_twitter(
@@ -396,18 +432,16 @@ def process_posts() -> None:
             return
 
         if fatal:
-            logger.info("Pending post %s removed (fatal)", p["post_id"])
+            logger.info(f"Pending post {p['post_id']} removed (fatal)")
             return
 
-        logger.info("Retry failed for %s (non-fatal)", p["post_id"])
+        logger.info(f"Retry failed for {p['post_id']} (non-fatal)")
         return
 
-    # ---------- Look for a new post ----------
     for post in extractContent():
         if is_post_seen(post["id"]):
             continue
 
-        # Build images/video
         img_paths: list[str] = []
         if post.get("s_img"):
             img_paths.append(post["s_img"])
@@ -416,7 +450,6 @@ def process_posts() -> None:
 
         video_path = post.get("video", "")
 
-        # Build tweet text
         post_content = (
             post.get("title", "") + "\n" + post.get("content", "")
         ).strip()
@@ -442,7 +475,6 @@ def process_posts() -> None:
             else ""
         )
 
-        # Post attempt
         success, fatal = post_to_twitter(
             content, img_paths, video_path, post_id=post["id"]
         )
@@ -452,14 +484,12 @@ def process_posts() -> None:
             return
 
         if fatal:
-            logger.info("New post %s ignored permanently due to fatal error", post["id"])
-            # marca como visto para não tentar nunca mais
+            logger.info(f"New post {post['id']} ignored permanently due to fatal error")
             mark_post_as_seen(post["id"])
             return
 
-        # Non-fatal → save for retry
         save_pending_post(post["id"], content, img_paths, video_path)
-        logger.info("Saved %s for retry", post["id"])
+        logger.info(f"Saved {post['id']} for retry")
         return
 
 # ---------- main ----------
@@ -472,7 +502,7 @@ def main():
     except KeyboardInterrupt:
         logger.info("Bot stopped by user")
     except Exception as exc:
-        logger.error("Main loop error: %s", repr(exc))
+        logger.error(f"Main loop error: {repr(exc)}")
         logger.error("Full traceback:", exc_info=True)
         sys.exit(1)
 
