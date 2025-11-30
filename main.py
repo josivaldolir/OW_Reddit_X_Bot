@@ -368,8 +368,18 @@ def try_manual_audio_merge(post_url: str, video_file: str) -> tuple[str | None, 
                 continue
         
         if not audio_file:
-            logger.error("Não foi possível encontrar arquivo de áudio")
-            return None, None, "audio_not_found"
+            logger.error("Não foi possível encontrar arquivo de áudio em nenhuma URL testada")
+            # Limpa o arquivo de vídeo sem áudio
+            try:
+                if os.path.exists(video_file):
+                    os.remove(video_file)
+                    logger.info(f"Arquivo de vídeo sem áudio removido: {video_file}")
+            except Exception as e:
+                logger.warning(f"Falha ao remover arquivo: {e}")
+            
+            # CORRIGIDO: Marca como fatal para remover da fila
+            # Se não achamos áudio após tentar tudo, não adianta continuar tentando
+            return None, None, "audio_not_found_fatal"
         
         # Combina vídeo + áudio
         output_file = "temp_video_merged.mp4"
@@ -474,9 +484,17 @@ def post_to_twitter(text: str, img_paths: list[str], video_path: str, post_id: s
 
             if filename is None:
                 logger.error(f"Download failed for {video_path}: {err}")
-                if err and any(k in err.lower() for k in ("copyright", "404", "forbidden", "not permitted", "unavailable")):
+                # Lista de erros que devem ser tratados como FATAIS (remover da fila)
+                fatal_errors = [
+                    "copyright", "404", "forbidden", "not permitted", "unavailable",
+                    "audio_not_found_fatal", "no_video_metadata", "invalid_post_url"
+                ]
+                if err and any(k in err.lower() for k in fatal_errors):
                     if post_id:
                         remove_pending_post(post_id)
+                        logger.warning(f"⚠️ Post {post_id} removido PERMANENTEMENTE da fila")
+                        logger.warning(f"   Motivo: {err}")
+                        logger.warning(f"   Este vídeo NÃO será tentado novamente")
                     return False, True
                 return False, False
 
