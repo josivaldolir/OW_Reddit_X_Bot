@@ -20,7 +20,7 @@ def get_reddit_json(subreddit, limit=50):
     """
     url = f"https://old.reddit.com/r/{subreddit}/hot.json?limit={limit}&raw_json=1"
     
-    headers = {
+    HEADERS = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
     }
     
@@ -28,10 +28,12 @@ def get_reddit_json(subreddit, limit=50):
     "http":  f"http://{USERNAME}:{PASSWORD}@{HOST}:{PORT}",
     "https": f"http://{USERNAME}:{PASSWORD}@{HOST}:{PORT}",
     }
+    
+    CERT = "certs/brd_cert.pem"
 
     try:
         logger.info(f"Buscando posts de r/{subreddit}...")
-        response = requests.get(url, headers=headers, proxies=proxies, timeout=20, verify="certs/brd_cert")
+        response = requests.get(url, headers=HEADERS, proxies=proxies, timeout=20, verify=CERT)
         response.raise_for_status()
         
         data = response.json()

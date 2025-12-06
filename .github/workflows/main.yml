@@ -37,7 +37,7 @@ jobs:
       - name: Install FFmpeg
         run: sudo apt-get update && sudo apt-get install -y --no-install-recommends ffmpeg
 
-      - name: Create Bright Data certificate
+      - name: Create certificate
         run: |
           mkdir -p certs
           echo "$BRD_CERT" > certs/brd_cert.pem
