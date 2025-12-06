@@ -29,7 +29,7 @@ def get_reddit_json(subreddit, limit=50):
     "https": f"http://{USERNAME}:{PASSWORD}@{HOST}:{PORT}",
     }
     
-    CERT = "certs/brd_cert.pem"
+    CERT = "certs/brd_cert.crt"
 
     try:
         logger.info(f"Buscando posts de r/{subreddit}...")

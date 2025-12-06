@@ -40,7 +40,7 @@ jobs:
       - name: Create certificate
         run: |
           mkdir -p certs
-          echo "$BRD_CERT" > certs/brd_cert.pem
+          echo "$BRD_CERT" > certs/brd_cert.crt
 
       - name: Run Twitter Bot
         env:
