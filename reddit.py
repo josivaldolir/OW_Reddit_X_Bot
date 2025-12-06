@@ -23,12 +23,12 @@ def get_reddit_json(subreddit, limit=50):
     
     proxies = {
     "http":  "http://brd-customer-hl_925c82c1-zone-overwatch_x_home:bmjc2ciqun0e@brd.superproxy.io:33335",
-    "https": "http://brd-customer-hl_925c82c1-zone-overwatch_x_home:bmjc2ciqun0e@brd.superproxy.io:33335",
+    "https": "http://brd-customer-hl_925c82c1-zone-overwatch_x_home:bmjc2ciqun0e@brd.superproxy.io:33335"
     }
 
     try:
         logger.info(f"Buscando posts de r/{subreddit}...")
-        response = requests.get(url, headers=headers, proxies=proxies, timeout=10)
+        response = requests.get(url, headers=headers, proxies=proxies, timeout=20, verify="certs/BrightData SSL certificate (port 33335).crt")
         response.raise_for_status()
         
         data = response.json()

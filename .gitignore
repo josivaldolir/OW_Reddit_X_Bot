@@ -3,3 +3,4 @@ __pycache__/
 twitter_bot.log*
 *.log
 sqlite/
+certs/
