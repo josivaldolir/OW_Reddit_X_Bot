@@ -15,7 +15,7 @@ def get_reddit_json(subreddit, limit=50):
     Busca posts do Reddit usando o endpoint JSON público.
     Não requer API key ou autenticação.
     """
-    url = f"https://www.reddit.com/r/{subreddit}/hot.json?limit={limit}"
+    url = f"https://old.reddit.com/r/{subreddit}/hot.json?limit={limit}&raw_json=1"
     
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
