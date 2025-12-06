@@ -198,7 +198,7 @@ def check_audio_stream(video_path: str) -> bool:
 def download_reddit_video_ytdlp_auth(url: str, output_filename: str = "temp_video.mp4") -> tuple[str | None, int | None, str | None]:
     """
     Usa yt-dlp SEM autenticação do Reddit (usa JSON público).
-    Agora funciona sem credenciais do Reddit!
+    Agora com suporte a PROXY!
     
     Returns (filename_or_none, duration_seconds_or_none, error_message_or_none)
     """
@@ -210,14 +210,23 @@ def download_reddit_video_ytdlp_auth(url: str, output_filename: str = "temp_vide
     try:
         logger.info(f"Usando yt-dlp (sem autenticação) para: {url}")
         
-        # Opções do yt-dlp SEM autenticação
+        # Configura proxy se disponível
+        proxy_config = {}
+        USERNAME = os.getenv("BRD_USERNAME")
+        PASSWORD = os.getenv("BRD_PASSWORD")
+        HOST = os.getenv("BRD_HOST")
+        PORT = os.getenv("BRD_PORT")
+        
+        if all([USERNAME, PASSWORD, HOST, PORT]):
+            proxy_url = f"http://{USERNAME}:{PASSWORD}@{HOST}:{PORT}"
+            proxy_config["proxy"] = proxy_url
+            logger.info(f"Usando proxy no yt-dlp: {HOST}:{PORT}")
+        
+        # Opções do yt-dlp
         ydl_opts = {
             "outtmpl": output_filename,
-            # Formato que pega vídeo + áudio e faz merge
             "format": "bv*+ba/b",
             "merge_output_format": "mp4",
-            # SEM credenciais - yt-dlp usa scraping público
-            # Post-processamento
             "postprocessors": [{
                 "key": "FFmpegVideoConvertor",
                 "preferedformat": "mp4",
@@ -233,7 +242,8 @@ def download_reddit_video_ytdlp_auth(url: str, output_filename: str = "temp_vide
             "prefer_ffmpeg": True,
             "http_headers": {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-            }
+            },
+            **proxy_config  # Adiciona proxy se configurado
         }
 
         with yt_dlp.YoutubeDL(ydl_opts) as ydl:
@@ -253,7 +263,7 @@ def download_reddit_video_ytdlp_auth(url: str, output_filename: str = "temp_vide
                               f"ext={fmt.get('ext')}")
 
             # Verifica duração (limite do Twitter)
-            if duration and duration > 140:  # Twitter aceita até 140s
+            if duration and duration > 140:
                 logger.info(f"Vídeo muito longo: {duration}s > 140s")
                 return None, duration, "too_long"
 
@@ -269,7 +279,6 @@ def download_reddit_video_ytdlp_auth(url: str, output_filename: str = "temp_vide
                 has_audio = check_audio_stream(output_filename)
                 if not has_audio:
                     logger.warning("⚠️ Arquivo sem áudio detectado!")
-                    # Tenta fallback manual
                     return try_manual_audio_merge(url, output_filename)
                 else:
                     logger.info("✓ Áudio confirmado no arquivo!")
@@ -281,14 +290,13 @@ def download_reddit_video_ytdlp_auth(url: str, output_filename: str = "temp_vide
 
     except Exception as exc:
         logger.error(f"Erro no yt-dlp: {exc}", exc_info=True)
-        # Tenta fallback manual se yt-dlp falhar
         return try_manual_audio_merge(url, output_filename)
 
 
 def try_manual_audio_merge(post_url: str, video_file: str) -> tuple[str | None, int | None, str | None]:
     """
     Fallback: tenta extrair URLs de vídeo e áudio manualmente da API do Reddit
-    e fazer merge com ffmpeg.
+    e fazer merge com ffmpeg. Agora COM PROXY!
     """
     try:
         logger.info("Tentando merge manual de áudio...")
@@ -301,13 +309,47 @@ def try_manual_audio_merge(post_url: str, video_file: str) -> tuple[str | None, 
         
         post_id = match.group(1)
         
+        # Configura proxy (mesmo do reddit.py)
+        USERNAME = os.getenv("BRD_USERNAME")
+        PASSWORD = os.getenv("BRD_PASSWORD")
+        HOST = os.getenv("BRD_HOST")
+        PORT = os.getenv("BRD_PORT")
+        CERT = "certs/brd_cert.crt"
+        
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+        }
+        
+        proxies = None
+        verify_ssl = True
+        
+        if all([USERNAME, PASSWORD, HOST, PORT]):
+            proxies = {
+                "http":  f"http://{USERNAME}:{PASSWORD}@{HOST}:{PORT}",
+                "https": f"http://{USERNAME}:{PASSWORD}@{HOST}:{PORT}",
+            }
+            logger.info(f"Usando proxy no fallback: {HOST}:{PORT}")
+            
+            # Verifica certificado
+            if os.path.exists(CERT):
+                verify_ssl = CERT
+                logger.info(f"Usando certificado: {CERT}")
+            else:
+                verify_ssl = False
+                logger.warning("Certificado não encontrado - desabilitando verificação SSL")
+        
         # Usa requests para pegar informações do post via JSON público
         try:
             json_url = f"https://www.reddit.com/comments/{post_id}.json"
-            headers = {
-                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
-            }
-            response = requests.get(json_url, headers=headers, timeout=15)
+            logger.info(f"Buscando JSON do post: {json_url}")
+            
+            response = requests.get(
+                json_url, 
+                headers=headers, 
+                proxies=proxies,
+                verify=verify_ssl,
+                timeout=15
+            )
             response.raise_for_status()
             
             json_data = response.json()
