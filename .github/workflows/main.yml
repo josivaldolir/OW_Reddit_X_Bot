@@ -2,7 +2,7 @@ name: Twitter Bot
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "*/30 * * * *"  # A cada 30 minutos
   workflow_dispatch:
 
 permissions:
@@ -39,6 +39,7 @@ jobs:
 
       - name: Run Twitter Bot
         env:
+          # Twitter/X Credentials (APENAS ESTAS SÃO NECESSÁRIAS AGORA)
           CONSUMER_KEY: ${{ secrets.CONSUMER_KEY }}
           CONSUMER_SECRET: ${{ secrets.CONSUMER_SECRET }}
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
@@ -46,11 +47,6 @@ jobs:
           BEARER_TOKEN: ${{ secrets.BEARER_TOKEN }}
           OAUTH2_CLIENT_SECRET: ${{ secrets.OAUTH2_CLIENT_SECRET }}
           OAUTH2_CLIENT_ID: ${{ secrets.OAUTH2_CLIENT_ID }}
-          USER_AGENT: ${{ secrets.USER_AGENT }}
-          PASSWORD: ${{ secrets.PASSWORD }}
-          USERNAME: ${{ secrets.USERNAME }}
-          CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
-          CLIENT_ID: ${{ secrets.CLIENT_ID }}
         timeout-minutes: 10
         run: python main.py
 

@@ -311,14 +311,27 @@ def try_manual_audio_merge(post_url: str, video_file: str) -> tuple[str | None, 
         
         post_id = match.group(1)
         
-        # Usa PRAW para pegar informações do post
-        submission = reddit.submission(id=post_id)
+        # Usa requests para pegar informações do post via JSON público
+        try:
+            json_url = f"https://www.reddit.com/comments/{post_id}.json"
+            headers = {
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+            }
+            response = requests.get(json_url, headers=headers, timeout=15)
+            response.raise_for_status()
+            
+            json_data = response.json()
+            post_data = json_data[0]['data']['children'][0]['data']
+            
+        except Exception as e:
+            logger.error(f"Erro ao buscar dados do post via JSON: {e}")
+            return None, None, "json_fetch_failed"
         
-        if not submission.media or 'reddit_video' not in submission.media:
+        if 'media' not in post_data or 'reddit_video' not in post_data.get('media', {}):
             logger.error("Post não contém vídeo")
             return None, None, "no_video_metadata"
         
-        fallback_url = submission.media['reddit_video'].get('fallback_url', '')
+        fallback_url = post_data['media']['reddit_video'].get('fallback_url', '')
         if not fallback_url:
             logger.error("Fallback URL não encontrada")
             return None, None, "no_fallback_url"
@@ -577,7 +590,16 @@ def process_posts() -> None:
         logger.info(f"Retry failed for {p['post_id']} (non-fatal)")
         return
 
-    for post in extractContent():
+    # Tenta extrair novos posts com tratamento de erro
+    try:
+        posts = extractContent()
+    except Exception as exc:
+        # Erros do Reddit API (403, 429, etc.)
+        logger.error(f"Erro ao buscar posts do Reddit: {exc}")
+        logger.warning("Pulando esta execução devido a erro na API do Reddit")
+        return
+
+    for post in posts:
         if is_post_seen(post["id"]):
             continue
 
@@ -643,7 +665,9 @@ def main():
     except Exception as exc:
         logger.error(f"Main loop error: {repr(exc)}")
         logger.error("Full traceback:", exc_info=True)
-        sys.exit(1)
+        # NÃO faz sys.exit(1) - deixa o bot continuar na próxima execução
+        # O GitHub Actions vai executar novamente em 30 minutos
+        logger.warning("Bot irá tentar novamente na próxima execução agendada")
 
 if __name__ == "__main__":
     main()
