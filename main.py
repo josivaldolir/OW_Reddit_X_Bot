@@ -243,6 +243,7 @@ def download_reddit_video_ytdlp_auth(url: str, output_filename: str = "temp_vide
             "http_headers": {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
             },
+            "nocheckcertificate": True,  # CRÍTICO: Desabilita verificação SSL no yt-dlp
             **proxy_config  # Adiciona proxy se configurado
         }
 
@@ -357,6 +358,13 @@ def try_manual_audio_merge(post_url: str, video_file: str) -> tuple[str | None, 
             
         except Exception as e:
             logger.error(f"Erro ao buscar dados do post via JSON: {e}")
+            
+            # Verifica se é erro 402 do proxy (endpoint não suportado)
+            error_str = str(e).lower()
+            if "402" in error_str or "bad_endpoint" in error_str or "residential failed" in error_str:
+                logger.error("Proxy residencial não suporta esta URL - marcando como fatal")
+                return None, None, "proxy_endpoint_not_supported_fatal"
+            
             return None, None, "json_fetch_failed"
         
         if 'media' not in post_data or 'reddit_video' not in post_data.get('media', {}):
@@ -532,7 +540,8 @@ def post_to_twitter(text: str, img_paths: list[str], video_path: str, post_id: s
                 # Lista de erros que devem ser tratados como FATAIS (remover da fila)
                 fatal_errors = [
                     "copyright", "404", "forbidden", "not permitted", "unavailable",
-                    "audio_not_found_fatal", "no_video_metadata", "invalid_post_url"
+                    "audio_not_found_fatal", "no_video_metadata", "invalid_post_url",
+                    "proxy_endpoint_not_supported_fatal", "bad_endpoint"
                 ]
                 if err and any(k in err.lower() for k in fatal_errors):
                     if post_id:
