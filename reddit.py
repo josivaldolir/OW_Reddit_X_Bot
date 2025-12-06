@@ -1,6 +1,4 @@
-import requests
-import logging
-import time
+import requests, logging, time, os
 from random import choice
 from database import is_post_seen, mark_post_as_seen
 
@@ -9,6 +7,11 @@ logger = logging.getLogger(__name__)
 
 # Lista para armazenar links de imagens de galerias
 m_links = []
+
+USERNAME = os.getenv("BRD_USERNAME")
+PASSWORD = os.getenv("BRD_PASSWORD")
+HOST = os.getenv("BRD_HOST")
+PORT = os.getenv("BRD_PORT")
 
 def get_reddit_json(subreddit, limit=50):
     """
@@ -22,13 +25,13 @@ def get_reddit_json(subreddit, limit=50):
     }
     
     proxies = {
-    "http":  "http://brd-customer-hl_925c82c1-zone-overwatch_x_home:bmjc2ciqun0e@brd.superproxy.io:33335",
-    "https": "http://brd-customer-hl_925c82c1-zone-overwatch_x_home:bmjc2ciqun0e@brd.superproxy.io:33335"
+    "http":  f"http://{USERNAME}:{PASSWORD}@{HOST}:{PORT}",
+    "https": f"http://{USERNAME}:{PASSWORD}@{HOST}:{PORT}",
     }
 
     try:
         logger.info(f"Buscando posts de r/{subreddit}...")
-        response = requests.get(url, headers=headers, proxies=proxies, timeout=20, verify="certs/BrightData SSL certificate (port 33335).crt")
+        response = requests.get(url, headers=headers, proxies=proxies, timeout=20, verify="certs/brd_cert")
         response.raise_for_status()
         
         data = response.json()
