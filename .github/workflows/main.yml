@@ -40,7 +40,12 @@ jobs:
       - name: Create certificate
         run: |
           mkdir -p certs
-          echo "$BRD_CERT" > certs/brd_cert.crt
+          echo "${{ secrets.BRD_CERT }}" > certs/brd_cert.crt
+          chmod 644 certs/brd_cert.crt
+          echo "Certificado criado:"
+          ls -lh certs/brd_cert.crt
+          echo "Verificando formato do certificado:"
+          head -n 1 certs/brd_cert.crt
 
       - name: Run Twitter Bot
         env:
@@ -55,7 +60,6 @@ jobs:
           BRD_PASSWORD: ${{ secrets.BRD_PASSWORD }}
           BRD_HOST: ${{ secrets.BRD_HOST }}
           BRD_PORT: ${{ secrets.BRD_PORT }}
-          BRD_CERT: ${{ secrets.BRD_CERT }}
         timeout-minutes: 10
         run: python main.py
 

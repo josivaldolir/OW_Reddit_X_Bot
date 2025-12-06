@@ -12,11 +12,12 @@ USERNAME = os.getenv("BRD_USERNAME")
 PASSWORD = os.getenv("BRD_PASSWORD")
 HOST = os.getenv("BRD_HOST")
 PORT = os.getenv("BRD_PORT")
+CERT = "certs/brd_cert.crt"
 
 def get_reddit_json(subreddit, limit=50):
     """
     Busca posts do Reddit usando o endpoint JSON público.
-    Não requer API key ou autenticação.
+    Usa proxy residencial com certificado SSL.
     """
     url = f"https://old.reddit.com/r/{subreddit}/hot.json?limit={limit}&raw_json=1"
     
@@ -24,27 +25,90 @@ def get_reddit_json(subreddit, limit=50):
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
     }
     
-    proxies = {
-    "http":  f"http://{USERNAME}:{PASSWORD}@{HOST}:{PORT}",
-    "https": f"http://{USERNAME}:{PASSWORD}@{HOST}:{PORT}",
-    }
+    # Configuração do proxy
+    if USERNAME and PASSWORD and HOST and PORT:
+        proxies = {
+            "http":  f"http://{USERNAME}:{PASSWORD}@{HOST}:{PORT}",
+            "https": f"http://{USERNAME}:{PASSWORD}@{HOST}:{PORT}",
+        }
+        logger.info(f"Usando proxy: {HOST}:{PORT}")
+    else:
+        proxies = None
+        logger.warning("Credenciais de proxy não configuradas - usando conexão direta")
     
-    CERT = "certs/brd_cert.crt"
+    # Verifica certificado
+    cert_to_use = CERT if os.path.exists(CERT) else False
+    
+    if cert_to_use == CERT:
+        logger.info(f"Usando certificado SSL: {CERT}")
+    elif proxies:
+        logger.warning("Certificado não encontrado - desabilitando verificação SSL")
+    else:
+        cert_to_use = True  # Usa verificação padrão sem proxy
 
     try:
         logger.info(f"Buscando posts de r/{subreddit}...")
-        response = requests.get(url, headers=HEADERS, proxies=proxies, timeout=20, verify=CERT)
+        logger.debug(f"URL: {url}")
+        logger.debug(f"Proxy: {'Sim' if proxies else 'Não'}")
+        logger.debug(f"Verificação SSL: {cert_to_use}")
+        
+        response = requests.get(
+            url, 
+            headers=HEADERS, 
+            proxies=proxies, 
+            timeout=20, 
+            verify=cert_to_use
+        )
         response.raise_for_status()
         
         data = response.json()
         logger.info(f"✓ {len(data['data']['children'])} posts obtidos de r/{subreddit}")
         return data
         
-    except requests.exceptions.RequestException as e:
-        logger.error(f"Erro ao buscar r/{subreddit}: {e}")
+    except requests.exceptions.SSLError as e:
+        logger.error(f"❌ Erro SSL ao buscar r/{subreddit}: {e}")
+        logger.info("💡 Tentando novamente SEM verificação SSL...")
+        
+        # Fallback: tenta sem verificação SSL
+        try:
+            response = requests.get(
+                url, 
+                headers=HEADERS, 
+                proxies=proxies, 
+                timeout=20, 
+                verify=False  # Desabilita verificação
+            )
+            response.raise_for_status()
+            
+            data = response.json()
+            logger.warning(f"⚠️ Sucesso SEM verificação SSL - {len(data['data']['children'])} posts obtidos")
+            return data
+            
+        except Exception as fallback_error:
+            logger.error(f"❌ Fallback também falhou: {fallback_error}")
+            return None
+    
+    except requests.exceptions.ProxyError as e:
+        logger.error(f"❌ Erro de proxy ao buscar r/{subreddit}: {e}")
+        logger.error("💡 Verifique as credenciais do proxy (USERNAME, PASSWORD, HOST, PORT)")
         return None
+    
+    except requests.exceptions.Timeout as e:
+        logger.error(f"⏱️ Timeout ao buscar r/{subreddit}: {e}")
+        logger.error("💡 Proxy pode estar lento ou indisponível")
+        return None
+    
+    except requests.exceptions.RequestException as e:
+        logger.error(f"❌ Erro ao buscar r/{subreddit}: {e}")
+        return None
+    
+    except ValueError as e:
+        logger.error(f"❌ Erro ao processar JSON: {e}")
+        logger.error("💡 Reddit pode ter retornado HTML ao invés de JSON")
+        return None
+    
     except Exception as e:
-        logger.error(f"Erro inesperado ao processar JSON: {e}")
+        logger.error(f"❌ Erro inesperado: {e}", exc_info=True)
         return None
 
 def subReddit(limit):
@@ -208,9 +272,20 @@ if __name__ == "__main__":
     logger.setLevel(logging.DEBUG)
     console = logging.StreamHandler()
     console.setLevel(logging.DEBUG)
+    formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
+    console.setFormatter(formatter)
     logger.addHandler(console)
     
-    print("Testando extração de conteúdo do Reddit...\n")
+    print("=" * 60)
+    print("Testando extração de conteúdo do Reddit")
+    print("=" * 60)
+    print(f"Proxy Host: {HOST if HOST else 'NÃO CONFIGURADO'}")
+    print(f"Proxy Port: {PORT if PORT else 'NÃO CONFIGURADO'}")
+    print(f"Proxy User: {USERNAME if USERNAME else 'NÃO CONFIGURADO'}")
+    print(f"Certificado: {'EXISTE' if os.path.exists(CERT) else 'NÃO ENCONTRADO'}")
+    print("=" * 60)
+    print()
+    
     new_data = extractContent()
     
     if new_data:
