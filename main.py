@@ -197,8 +197,8 @@ def check_audio_stream(video_path: str) -> bool:
 
 def download_reddit_video_ytdlp_auth(url: str, output_filename: str = "temp_video.mp4") -> tuple[str | None, int | None, str | None]:
     """
-    Usa yt-dlp COM autenticação do Reddit (necessário após mudança para CMAF).
-    Usa as credenciais do oauth.py para autenticar.
+    Usa yt-dlp SEM autenticação do Reddit (usa JSON público).
+    Agora funciona sem credenciais do Reddit!
     
     Returns (filename_or_none, duration_seconds_or_none, error_message_or_none)
     """
@@ -208,25 +208,15 @@ def download_reddit_video_ytdlp_auth(url: str, output_filename: str = "temp_vide
         return None, None, msg
 
     try:
-        # Pega as credenciais do Reddit
-        username = os.getenv('USERNAME')
-        password = os.getenv('PASSWORD')
+        logger.info(f"Usando yt-dlp (sem autenticação) para: {url}")
         
-        if not username or not password:
-            logger.error("Credenciais do Reddit não encontradas!")
-            return None, None, "no_reddit_credentials"
-        
-        logger.info(f"Usando yt-dlp com autenticação Reddit para: {url}")
-        
-        # Opções do yt-dlp COM autenticação
+        # Opções do yt-dlp SEM autenticação
         ydl_opts = {
             "outtmpl": output_filename,
             # Formato que pega vídeo + áudio e faz merge
             "format": "bv*+ba/b",
             "merge_output_format": "mp4",
-            # CREDENCIAIS DO REDDIT
-            "username": username,
-            "password": password,
+            # SEM credenciais - yt-dlp usa scraping público
             # Post-processamento
             "postprocessors": [{
                 "key": "FFmpegVideoConvertor",
