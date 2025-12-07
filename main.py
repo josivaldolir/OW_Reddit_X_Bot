@@ -198,7 +198,7 @@ def check_audio_stream(video_path: str) -> bool:
 def download_reddit_video_ytdlp_auth(url: str, output_filename: str = "temp_video.mp4") -> tuple[str | None, int | None, str | None]:
     """
     Usa yt-dlp SEM autenticação do Reddit (usa JSON público).
-    Agora com suporte a PROXY!
+    Agora com suporte a PROXY PRÓPRIO!
     
     Returns (filename_or_none, duration_seconds_or_none, error_message_or_none)
     """
@@ -210,17 +210,21 @@ def download_reddit_video_ytdlp_auth(url: str, output_filename: str = "temp_vide
     try:
         logger.info(f"Usando yt-dlp (sem autenticação) para: {url}")
         
-        # Configura proxy se disponível
+        # Configura proxy próprio se disponível
         proxy_config = {}
-        USERNAME = os.getenv("BRD_USERNAME")
-        PASSWORD = os.getenv("BRD_PASSWORD")
-        HOST = os.getenv("BRD_HOST")
-        PORT = os.getenv("BRD_PORT")
+        PROXY_HOST = os.getenv("PROXY_HOST")
+        PROXY_PORT = os.getenv("PROXY_PORT")
+        PROXY_USER = os.getenv("PROXY_USER")
+        PROXY_PASS = os.getenv("PROXY_PASS")
         
-        if all([USERNAME, PASSWORD, HOST, PORT]):
-            proxy_url = f"http://{USERNAME}:{PASSWORD}@{HOST}:{PORT}"
+        if all([PROXY_HOST, PROXY_PORT]):
+            if PROXY_USER and PROXY_PASS:
+                proxy_url = f"http://{PROXY_USER}:{PROXY_PASS}@{PROXY_HOST}:{PROXY_PORT}"
+            else:
+                proxy_url = f"http://{PROXY_HOST}:{PROXY_PORT}"
+            
             proxy_config["proxy"] = proxy_url
-            logger.info(f"Usando proxy no yt-dlp: {HOST}:{PORT}")
+            logger.info(f"Usando proxy próprio no yt-dlp: {PROXY_HOST}:{PROXY_PORT}")
         
         # Opções do yt-dlp
         ydl_opts = {
@@ -297,7 +301,7 @@ def download_reddit_video_ytdlp_auth(url: str, output_filename: str = "temp_vide
 def try_manual_audio_merge(post_url: str, video_file: str) -> tuple[str | None, int | None, str | None]:
     """
     Fallback: tenta extrair URLs de vídeo e áudio manualmente da API do Reddit
-    e fazer merge com ffmpeg. Agora COM PROXY!
+    e fazer merge com ffmpeg. Agora COM PROXY PRÓPRIO!
     """
     try:
         logger.info("Tentando merge manual de áudio...")
@@ -310,12 +314,11 @@ def try_manual_audio_merge(post_url: str, video_file: str) -> tuple[str | None, 
         
         post_id = match.group(1)
         
-        # Configura proxy (mesmo do reddit.py)
-        USERNAME = os.getenv("BRD_USERNAME")
-        PASSWORD = os.getenv("BRD_PASSWORD")
-        HOST = os.getenv("BRD_HOST")
-        PORT = os.getenv("BRD_PORT")
-        CERT = "certs/brd_cert.crt"
+        # Configura proxy próprio (mesmo do reddit.py)
+        PROXY_HOST = os.getenv("PROXY_HOST")
+        PROXY_PORT = os.getenv("PROXY_PORT")
+        PROXY_USER = os.getenv("PROXY_USER")
+        PROXY_PASS = os.getenv("PROXY_PASS")
         
         headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
@@ -324,20 +327,21 @@ def try_manual_audio_merge(post_url: str, video_file: str) -> tuple[str | None, 
         proxies = None
         verify_ssl = True
         
-        if all([USERNAME, PASSWORD, HOST, PORT]):
-            proxies = {
-                "http":  f"http://{USERNAME}:{PASSWORD}@{HOST}:{PORT}",
-                "https": f"http://{USERNAME}:{PASSWORD}@{HOST}:{PORT}",
-            }
-            logger.info(f"Usando proxy no fallback: {HOST}:{PORT}")
-            
-            # Verifica certificado
-            if os.path.exists(CERT):
-                verify_ssl = CERT
-                logger.info(f"Usando certificado: {CERT}")
+        if all([PROXY_HOST, PROXY_PORT]):
+            if PROXY_USER and PROXY_PASS:
+                proxy_url = f"http://{PROXY_USER}:{PROXY_PASS}@{PROXY_HOST}:{PROXY_PORT}"
             else:
-                verify_ssl = False
-                logger.warning("Certificado não encontrado - desabilitando verificação SSL")
+                proxy_url = f"http://{PROXY_HOST}:{PROXY_PORT}"
+            
+            proxies = {
+                "http": proxy_url,
+                "https": proxy_url,
+            }
+            logger.info(f"Usando proxy próprio no fallback: {PROXY_HOST}:{PROXY_PORT}")
+            
+            # Desabilita verificação SSL ao usar proxy
+            verify_ssl = False
+            logger.info("Verificação SSL desabilitada para proxy próprio")
         
         # Usa requests para pegar informações do post via JSON público
         try:
@@ -362,7 +366,7 @@ def try_manual_audio_merge(post_url: str, video_file: str) -> tuple[str | None, 
             # Verifica se é erro 402 do proxy (endpoint não suportado)
             error_str = str(e).lower()
             if "402" in error_str or "bad_endpoint" in error_str or "residential failed" in error_str:
-                logger.error("Proxy residencial não suporta esta URL - marcando como fatal")
+                logger.error("Proxy não suporta esta URL - marcando como fatal")
                 return None, None, "proxy_endpoint_not_supported_fatal"
             
             return None, None, "json_fetch_failed"

@@ -37,16 +37,6 @@ jobs:
       - name: Install FFmpeg
         run: sudo apt-get update && sudo apt-get install -y --no-install-recommends ffmpeg
 
-      - name: Create certificate
-        run: |
-          mkdir -p certs
-          echo "${{ secrets.BRD_CERT }}" > certs/brd_cert.crt
-          chmod 644 certs/brd_cert.crt
-          echo "Certificado criado:"
-          ls -lh certs/brd_cert.crt
-          echo "Verificando formato do certificado:"
-          head -n 1 certs/brd_cert.crt
-
       - name: Run Twitter Bot
         env:
           CONSUMER_KEY: ${{ secrets.CONSUMER_KEY }}
@@ -56,10 +46,10 @@ jobs:
           BEARER_TOKEN: ${{ secrets.BEARER_TOKEN }}
           OAUTH2_CLIENT_SECRET: ${{ secrets.OAUTH2_CLIENT_SECRET }}
           OAUTH2_CLIENT_ID: ${{ secrets.OAUTH2_CLIENT_ID }}
-          BRD_USERNAME: ${{ secrets.BRD_USERNAME }}
-          BRD_PASSWORD: ${{ secrets.BRD_PASSWORD }}
-          BRD_HOST: ${{ secrets.BRD_HOST }}
-          BRD_PORT: ${{ secrets.BRD_PORT }}
+          PROXY_HOST: ${{ secrets.PROXY_HOST }}
+          PROXY_PORT: ${{ secrets.PROXY_PORT }}
+          PROXY_USER: ${{ secrets.PROXY_USER }}
+          PROXY_PASS: ${{ secrets.PROXY_PASS }}
         timeout-minutes: 10
         run: python main.py
 

@@ -1,299 +1,291 @@
-import requests, logging, time, os
+import requests
+import logging
+import os
 from random import choice
-from database import is_post_seen, mark_post_as_seen
+from queue_manager import (
+    initialize_queue_db, 
+    add_json_batch, 
+    get_next_unposted_post, 
+    get_queue_stats
+)
 
-# Configuração de logging
 logger = logging.getLogger(__name__)
 
-# Lista para armazenar links de imagens de galerias
-m_links = []
+# Configurações do CCProxy (seu PC)
+LOCAL_PROXY_HOST = os.getenv("LOCAL_PROXY_HOST", "")
+LOCAL_PROXY_PORT = os.getenv("LOCAL_PROXY_PORT", "8888")
+LOCAL_PROXY_USER = os.getenv("LOCAL_PROXY_USER", "")
+LOCAL_PROXY_PASS = os.getenv("LOCAL_PROXY_PASS", "")
 
-USERNAME = os.getenv("BRD_USERNAME")
-PASSWORD = os.getenv("BRD_PASSWORD")
-HOST = os.getenv("BRD_HOST")
-PORT = os.getenv("BRD_PORT")
-CERT = "certs/brd_cert.crt"
-
-def get_reddit_json(subreddit, limit=50):
+def check_proxy_available():
     """
-    Busca posts do Reddit usando o endpoint JSON público.
-    Usa proxy residencial com certificado SSL.
+    Verifica se o CCProxy está online e acessível.
+    Retorna True se disponível, False caso contrário.
     """
-    url = f"https://old.reddit.com/r/{subreddit}/hot.json?limit={limit}&raw_json=1"
+    if not LOCAL_PROXY_HOST:
+        logger.warning("⚠️ LOCAL_PROXY_HOST não configurado")
+        return False
     
-    HEADERS = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+    try:
+        # Monta URL do proxy com autenticação
+        if LOCAL_PROXY_USER and LOCAL_PROXY_PASS:
+            proxy_url = f"http://{LOCAL_PROXY_USER}:{LOCAL_PROXY_PASS}@{LOCAL_PROXY_HOST}:{LOCAL_PROXY_PORT}"
+        else:
+            proxy_url = f"http://{LOCAL_PROXY_HOST}:{LOCAL_PROXY_PORT}"
+        
+        proxies = {
+            "http": proxy_url,
+            "https": proxy_url
+        }
+        
+        logger.info(f"🔍 Verificando CCProxy: {LOCAL_PROXY_HOST}:{LOCAL_PROXY_PORT}")
+        
+        # Tenta requisição simples
+        response = requests.get(
+            "https://www.reddit.com/r/test.json?limit=1",
+            proxies=proxies,
+            timeout=5,
+            verify=False
+        )
+        
+        if response.status_code == 200:
+            logger.info("✅ CCProxy DISPONÍVEL!")
+            return True
+        else:
+            logger.warning(f"⚠️ CCProxy respondeu com status {response.status_code}")
+            return False
+            
+    except requests.exceptions.Timeout:
+        logger.warning("⏱️ CCProxy: Timeout (PC pode estar desligado)")
+        return False
+    except requests.exceptions.ProxyError:
+        logger.warning("🔌 CCProxy: Erro de proxy (verifique usuário/senha)")
+        return False
+    except requests.exceptions.ConnectionError:
+        logger.warning("🔌 CCProxy: Conexão recusada (PC desligado ou CCProxy não rodando)")
+        return False
+    except Exception as e:
+        logger.warning(f"⚠️ Erro ao verificar CCProxy: {e}")
+        return False
+
+def fetch_posts_from_reddit(subreddit, limit=50):
+    """
+    Busca posts do Reddit usando CCProxy.
+    Retorna lista de posts ou None se falhar.
+    """
+    # Monta URL do proxy com autenticação
+    if LOCAL_PROXY_USER and LOCAL_PROXY_PASS:
+        proxy_url = f"http://{LOCAL_PROXY_USER}:{LOCAL_PROXY_PASS}@{LOCAL_PROXY_HOST}:{LOCAL_PROXY_PORT}"
+    else:
+        proxy_url = f"http://{LOCAL_PROXY_HOST}:{LOCAL_PROXY_PORT}"
+    
+    proxies = {
+        "http": proxy_url,
+        "https": proxy_url
     }
     
-    # Configuração do proxy
-    if USERNAME and PASSWORD and HOST and PORT:
-        proxies = {
-            "http":  f"http://{USERNAME}:{PASSWORD}@{HOST}:{PORT}",
-            "https": f"http://{USERNAME}:{PASSWORD}@{HOST}:{PORT}",
-        }
-        logger.info(f"Usando proxy: {HOST}:{PORT}")
-    else:
-        proxies = None
-        logger.warning("Credenciais de proxy não configuradas - usando conexão direta")
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+        'Accept-Language': 'en-US,en;q=0.9',
+    }
     
-    # Verifica certificado
-    cert_to_use = CERT if os.path.exists(CERT) else False
+    # URLs para tentar
+    urls = [
+        f"https://www.reddit.com/r/{subreddit}/hot.json?limit={limit}",
+        f"https://www.reddit.com/r/{subreddit}.json?limit={limit}",
+        f"https://old.reddit.com/r/{subreddit}/hot.json?limit={limit}",
+    ]
     
-    if cert_to_use == CERT:
-        logger.info(f"Usando certificado SSL: {CERT}")
-    elif proxies:
-        logger.warning("Certificado não encontrado - desabilitando verificação SSL")
-    else:
-        cert_to_use = True  # Usa verificação padrão sem proxy
-
-    try:
-        logger.info(f"Buscando posts de r/{subreddit}...")
-        logger.debug(f"URL: {url}")
-        logger.debug(f"Proxy: {'Sim' if proxies else 'Não'}")
-        logger.debug(f"Verificação SSL: {cert_to_use}")
-        
-        response = requests.get(
-            url, 
-            headers=HEADERS, 
-            proxies=proxies, 
-            timeout=20, 
-            verify=cert_to_use
-        )
-        response.raise_for_status()
-        
-        data = response.json()
-        logger.info(f"✓ {len(data['data']['children'])} posts obtidos de r/{subreddit}")
-        return data
-        
-    except requests.exceptions.SSLError as e:
-        logger.error(f"❌ Erro SSL ao buscar r/{subreddit}: {e}")
-        logger.info("💡 Tentando novamente SEM verificação SSL...")
-        
-        # Fallback: tenta sem verificação SSL
+    for url_index, url in enumerate(urls, 1):
         try:
+            logger.info(f"🌐 Tentativa {url_index}/{len(urls)}: {url}")
+            
             response = requests.get(
-                url, 
-                headers=HEADERS, 
-                proxies=proxies, 
-                timeout=20, 
-                verify=False  # Desabilita verificação
+                url,
+                headers=headers,
+                proxies=proxies,
+                timeout=20,
+                verify=False
             )
             response.raise_for_status()
             
             data = response.json()
-            logger.warning(f"⚠️ Sucesso SEM verificação SSL - {len(data['data']['children'])} posts obtidos")
-            return data
+            posts = []
             
-        except Exception as fallback_error:
-            logger.error(f"❌ Fallback também falhou: {fallback_error}")
-            return None
+            # Processa TODOS os posts do JSON
+            for post in data['data']['children']:
+                post_data = post['data']
+                
+                # Pula posts fixados
+                if post_data.get('stickied', False):
+                    continue
+                
+                post_info = {
+                    "id": post_data['id'],
+                    "title": post_data.get('title', ''),
+                    "content": post_data.get('selftext', ''),
+                    "url": f"https://www.reddit.com{post_data.get('permalink', '')}",
+                    "s_img": '',
+                    "m_img": [],
+                    "video": '',
+                    "video_fallback_url": ''
+                }
+                
+                # Imagem única
+                if 'preview' in post_data and 'images' in post_data['preview']:
+                    try:
+                        image_url = post_data['preview']['images'][0]['source']['url']
+                        post_info["s_img"] = image_url.replace('&amp;', '&')
+                    except:
+                        pass
+                
+                # Galeria
+                if post_data.get('is_gallery') and 'gallery_data' in post_data:
+                    try:
+                        images = []
+                        for item in post_data['gallery_data']['items'][:4]:
+                            media_id = item['media_id']
+                            if media_id in post_data.get('media_metadata', {}):
+                                if 's' in post_data['media_metadata'][media_id]:
+                                    if 'u' in post_data['media_metadata'][media_id]['s']:
+                                        img_url = post_data['media_metadata'][media_id]['s']['u']
+                                        images.append(img_url.replace('&amp;', '&'))
+                        post_info["m_img"] = images
+                    except Exception as e:
+                        logger.debug(f"Erro ao extrair galeria: {e}")
+                
+                # Vídeo
+                if post_data.get('is_video') and 'media' in post_data:
+                    if post_data['media'] and 'reddit_video' in post_data['media']:
+                        post_info["video"] = f"https://www.reddit.com{post_data['permalink']}"
+                        post_info["video_fallback_url"] = post_data['media']['reddit_video'].get('fallback_url', '')
+                
+                posts.append(post_info)
+            
+            logger.info(f"✅ {len(posts)} posts obtidos de r/{subreddit}!")
+            return posts
+            
+        except requests.exceptions.HTTPError as e:
+            if e.response.status_code == 402:
+                logger.warning(f"❌ Erro 402 na tentativa {url_index} - proxy bloqueou endpoint")
+                continue
+            else:
+                logger.warning(f"❌ HTTP {e.response.status_code} na tentativa {url_index}")
+                continue
+        except Exception as e:
+            logger.warning(f"❌ Falha na tentativa {url_index}: {e}")
+            continue
     
-    except requests.exceptions.ProxyError as e:
-        logger.error(f"❌ Erro de proxy ao buscar r/{subreddit}: {e}")
-        logger.error("💡 Verifique as credenciais do proxy (USERNAME, PASSWORD, HOST, PORT)")
-        return None
-    
-    except requests.exceptions.Timeout as e:
-        logger.error(f"⏱️ Timeout ao buscar r/{subreddit}: {e}")
-        logger.error("💡 Proxy pode estar lento ou indisponível")
-        return None
-    
-    except requests.exceptions.RequestException as e:
-        logger.error(f"❌ Erro ao buscar r/{subreddit}: {e}")
-        return None
-    
-    except ValueError as e:
-        logger.error(f"❌ Erro ao processar JSON: {e}")
-        logger.error("💡 Reddit pode ter retornado HTML ao invés de JSON")
-        return None
-    
-    except Exception as e:
-        logger.error(f"❌ Erro inesperado: {e}", exc_info=True)
-        return None
-
-def subReddit(limit):
-    """
-    Escolhe aleatoriamente entre os subreddits disponíveis.
-    Retorna os dados JSON do subreddit escolhido.
-    """
-    subreddits = ['Overwatch', 'Overwatch_Memes']
-    selected = choice(subreddits)
-    
-    logger.info(f"Subreddit selecionado: r/{selected}")
-    return get_reddit_json(selected, limit)
+    logger.error("❌ Todas as tentativas falharam via CCProxy")
+    return None
 
 def extractContent():
     """
-    Extrai conteúdo de posts do Reddit usando JSON público.
-    Retorna uma lista com informações do primeiro post novo encontrado.
+    Sistema otimizado de extração:
+    
+    1. Verifica se CCProxy está disponível
+    2. Se SIM: busca 50 posts e adiciona como 1 JSON batch (máx 2 no DB)
+    3. Se NÃO: busca da fila existente
+    4. Varre JSON inteiro procurando post não visto
+    5. Se JSON esgota, remove e passa para próximo
+    6. Retorna sempre 1 post novo (ou lista vazia se não houver)
     """
-    limit = 50  # Busca mais posts para aumentar chances de encontrar algo novo
-    new_posts = []
-    max_imgs = 0
+    # Inicializa DB
+    initialize_queue_db()
     
-    # Busca posts do subreddit
-    data = subReddit(limit)
+    # Mostra estatísticas
+    stats = get_queue_stats()
+    logger.info("=" * 60)
+    logger.info(f"📊 Status da Fila:")
+    logger.info(f"   Batches armazenados: {stats['batches_count']}/{MAX_JSON_BATCHES}")
+    logger.info(f"   Posts disponíveis: {stats['available_posts']}")
+    logger.info(f"   Total postados: {stats['posted_total']}")
     
-    if not data:
-        logger.warning("Não foi possível obter dados do Reddit")
+    if stats['batches']:
+        for batch in stats['batches']:
+            logger.info(f"   • Batch #{batch['batch_id']}: r/{batch['subreddit']} - {batch['remaining']}/{batch['total']} restantes")
+    
+    logger.info("=" * 60)
+    
+    # Verifica se CCProxy está disponível
+    proxy_available = check_proxy_available()
+    
+    if proxy_available and stats['batches_count'] < MAX_JSON_BATCHES:
+        logger.info("🟢 MODO ONLINE: Buscando novos posts via CCProxy...")
+        
+        # Escolhe subreddit aleatório
+        subreddits = ['Overwatch', 'Overwatch_Memes']
+        subreddit = choice(subreddits)
+        
+        logger.info(f"🎲 Subreddit selecionado: r/{subreddit}")
+        
+        # Busca posts
+        posts = fetch_posts_from_reddit(subreddit, limit=50)
+        
+        if posts:
+            # Adiciona como 1 batch (FIFO automático se já tiver 2)
+            batch_id = add_json_batch(posts, subreddit)
+            logger.info(f"💾 Batch #{batch_id} salvo com {len(posts)} posts")
+            
+            # Atualiza estatísticas
+            stats = get_queue_stats()
+            logger.info(f"📊 Fila atualizada: {stats['batches_count']} batch(es), {stats['available_posts']} posts disponíveis")
+        else:
+            logger.warning("⚠️ Falha ao buscar novos posts")
+    
+    elif proxy_available and stats['batches_count'] >= MAX_JSON_BATCHES:
+        logger.info(f"⏸️ Já temos {MAX_JSON_BATCHES} batches salvos (máximo), usando fila existente")
+    
+    elif not proxy_available:
+        logger.info("🔴 MODO OFFLINE: CCProxy indisponível, usando fila existente")
+    
+    # Busca próximo post não visto (varre todos os batches)
+    logger.info("🔍 Procurando próximo post não visto...")
+    batch_id, post = get_next_unposted_post()
+    
+    if post:
+        logger.info(f"✨ Post encontrado no batch #{batch_id}")
+        logger.info(f"📤 Título: {post['title'][:70]}...")
+        return [post]
+    else:
+        logger.error("❌ FILA VAZIA! Nenhum post novo disponível.")
+        logger.error("   Aguardando CCProxy ficar online para buscar mais posts...")
         return []
-    
-    # Processa cada post
-    for post in data['data']['children']:
-        try:
-            post_data = post['data']
-            
-            # Pula posts fixados (stickied)
-            if post_data.get('stickied', False):
-                logger.debug(f"Pulando post fixado: {post_data.get('title', 'N/A')}")
-                continue
-            
-            post_id = post_data['id']
-            
-            # Verifica se já vimos este post
-            if is_post_seen(post_id):
-                logger.debug(f"Post {post_id} já foi visto, pulando...")
-                continue
-            
-            # Post novo encontrado!
-            logger.info(f"✓ Post novo encontrado: {post_data.get('title', 'N/A')[:50]}...")
-            
-            # Monta estrutura de dados do post
-            post_info = {
-                "id": post_id,
-                "title": post_data.get('title', ''),
-                "content": post_data.get('selftext', ''),
-                "url": f"https://www.reddit.com{post_data.get('permalink', '')}",
-                "s_img": '',
-                "m_img": [],
-                "video": ''
-            }
-            
-            # ========== IMAGENS ==========
-            
-            # Imagem única (preview)
-            if 'preview' in post_data and 'images' in post_data['preview']:
-                try:
-                    image_url = post_data['preview']['images'][0]['source']['url']
-                    # Decodifica HTML entities (&amp; -> &)
-                    image_url = image_url.replace('&amp;', '&')
-                    post_info["s_img"] = image_url
-                    logger.info(f"  - Imagem única encontrada")
-                except Exception as e:
-                    logger.warning(f"Erro ao extrair preview image: {e}")
-            
-            # Galeria de imagens
-            if post_data.get('is_gallery', False) and 'gallery_data' in post_data:
-                try:
-                    gallery_items = post_data['gallery_data']['items']
-                    media_metadata = post_data.get('media_metadata', {})
-                    
-                    for item in gallery_items:
-                        media_id = item['media_id']
-                        
-                        if media_id in media_metadata:
-                            # Tenta pegar a URL da imagem
-                            if 's' in media_metadata[media_id] and 'u' in media_metadata[media_id]['s']:
-                                image_url = media_metadata[media_id]['s']['u']
-                                image_url = image_url.replace('&amp;', '&')
-                                m_links.append(image_url)
-                                max_imgs += 1
-                                
-                                # Limita a 4 imagens
-                                if max_imgs >= 4:
-                                    break
-                            else:
-                                logger.warning(f"'u' não encontrado em media_metadata para media_id={media_id}")
-                    
-                    if m_links:
-                        post_info["m_img"] = m_links[:]
-                        logger.info(f"  - Galeria com {len(m_links)} imagens")
-                    
-                    m_links.clear()
-                    
-                except Exception as e:
-                    logger.warning(f"Erro ao extrair galeria: {e}")
-            
-            # ========== VÍDEOS ==========
-            
-            if post_data.get('is_video', False):
-                try:
-                    if 'media' in post_data and post_data['media']:
-                        if 'reddit_video' in post_data['media']:
-                            # Passa a URL do post (necessário para yt-dlp processar)
-                            post_info["video"] = f"https://www.reddit.com{post_data['permalink']}"
-                            logger.info(f"  - Vídeo encontrado")
-                            logger.debug(f"    URL do vídeo: {post_info['video']}")
-                except Exception as e:
-                    logger.warning(f"Erro ao extrair vídeo: {e}")
-            
-            # Adiciona post à lista
-            new_posts.append(post_info)
-            
-            # Retorna apenas o primeiro post novo encontrado
-            logger.info(f"Post preparado para processamento: ID={post_id}")
-            return new_posts
-            
-        except Exception as e:
-            logger.error(f"Erro ao processar post: {e}", exc_info=True)
-            continue
-    
-    # Se chegou aqui, não encontrou posts novos
-    logger.info("Nenhum post novo encontrado")
-    return []
 
 def debug_data(posts):
-    """
-    Função de debug para exibir informações dos posts.
-    """
+    """Função de debug"""
     if posts:
         for post in posts:
-            print("\n🔹 Novo post encontrado:")
-            for k, v in post.items():
-                if k == "m_img" and v:
-                    print(f"  {k} = [{len(v)} imagens]")
-                elif k == "content" and len(str(v)) > 100:
-                    print(f"  {k} = {str(v)[:100]}...")
-                else:
-                    print(f"  {k} = {v}")
+            print("\n🔹 Post selecionado:")
+            print(f"  ID: {post['id']}")
+            print(f"  Título: {post['title'][:70]}...")
+            print(f"  URL: {post['url']}")
+            if post['s_img']:
+                print(f"  Imagem: Sim")
+            if post['m_img']:
+                print(f"  Galeria: {len(post['m_img'])} imagens")
+            if post['video']:
+                print(f"  Vídeo: Sim")
         print()
     else:
-        print("Nenhum post novo encontrado.\n")
+        print("\n❌ Nenhum post disponível.\n")
 
-# Rate limiting para evitar bloqueios
-def rate_limit_sleep():
-    """
-    Adiciona um delay entre requisições para respeitar limites do Reddit.
-    """
-    time.sleep(2)  # 2 segundos entre requisições
+# Importa MAX_JSON_BATCHES
+from queue_manager import MAX_JSON_BATCHES
 
 if __name__ == "__main__":
     # Teste local
-    logger.setLevel(logging.DEBUG)
-    console = logging.StreamHandler()
-    console.setLevel(logging.DEBUG)
-    formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
-    console.setFormatter(formatter)
-    logger.addHandler(console)
+    logging.basicConfig(
+        level=logging.INFO,
+        format='%(asctime)s - %(levelname)s - %(message)s'
+    )
     
     print("=" * 60)
-    print("Testando extração de conteúdo do Reddit")
-    print("=" * 60)
-    print(f"Proxy Host: {HOST if HOST else 'NÃO CONFIGURADO'}")
-    print(f"Proxy Port: {PORT if PORT else 'NÃO CONFIGURADO'}")
-    print(f"Proxy User: {USERNAME if USERNAME else 'NÃO CONFIGURADO'}")
-    print(f"Certificado: {'EXISTE' if os.path.exists(CERT) else 'NÃO ENCONTRADO'}")
+    print("Sistema Otimizado de Proxy Local com CCProxy")
+    print(f"Máximo de batches: {MAX_JSON_BATCHES}")
     print("=" * 60)
     print()
     
-    new_data = extractContent()
-    
-    if new_data:
-        debug_data(new_data)
-        
-        # Marca posts como vistos (apenas em execução de teste)
-        for post in new_data:
-            mark_post_as_seen(post['id'])
-            print(f"✓ Post {post['id']} marcado como visto")
-    else:
-        print("Aguardando novos posts...\n")
+    posts = extractContent()
+    debug_data(posts)
