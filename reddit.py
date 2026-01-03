@@ -12,33 +12,33 @@ from queue_manager import (
 logger = logging.getLogger(__name__)
 
 # Configurações do CCProxy (seu PC)
-LOCAL_PROXY_HOST = os.getenv("LOCAL_PROXY_HOST", "")
-LOCAL_PROXY_PORT = os.getenv("LOCAL_PROXY_PORT", "8888")
-LOCAL_PROXY_USER = os.getenv("LOCAL_PROXY_USER", "")
-LOCAL_PROXY_PASS = os.getenv("LOCAL_PROXY_PASS", "")
+PROXY_HOST = os.getenv("PROXY_HOST", "")
+PROXY_PORT = os.getenv("PROXY_PORT", "8080")
+PROXY_USER = os.getenv("PROXY_USER", "")
+PROXY_PASS = os.getenv("PROXY_PASS", "")
 
 def check_proxy_available():
     """
     Verifica se o CCProxy está online e acessível.
     Retorna True se disponível, False caso contrário.
     """
-    if not LOCAL_PROXY_HOST:
-        logger.warning("⚠️ LOCAL_PROXY_HOST não configurado")
+    if not PROXY_HOST:
+        logger.warning("⚠️ PROXY_HOST não configurado")
         return False
     
     try:
         # Monta URL do proxy com autenticação
-        if LOCAL_PROXY_USER and LOCAL_PROXY_PASS:
-            proxy_url = f"http://{LOCAL_PROXY_USER}:{LOCAL_PROXY_PASS}@{LOCAL_PROXY_HOST}:{LOCAL_PROXY_PORT}"
+        if PROXY_USER and PROXY_PASS:
+            proxy_url = f"http://{PROXY_USER}:{PROXY_PASS}@{PROXY_HOST}:{PROXY_PORT}"
         else:
-            proxy_url = f"http://{LOCAL_PROXY_HOST}:{LOCAL_PROXY_PORT}"
+            proxy_url = f"http://{PROXY_HOST}:{PROXY_PORT}"
         
         proxies = {
             "http": proxy_url,
             "https": proxy_url
         }
         
-        logger.info(f"🔍 Verificando CCProxy: {LOCAL_PROXY_HOST}:{LOCAL_PROXY_PORT}")
+        logger.info(f"🔍 Verificando CCProxy: {PROXY_HOST}:{PROXY_PORT}")
         
         # Tenta requisição simples
         response = requests.get(
@@ -74,10 +74,10 @@ def fetch_posts_from_reddit(subreddit, limit=50):
     Retorna lista de posts ou None se falhar.
     """
     # Monta URL do proxy com autenticação
-    if LOCAL_PROXY_USER and LOCAL_PROXY_PASS:
-        proxy_url = f"http://{LOCAL_PROXY_USER}:{LOCAL_PROXY_PASS}@{LOCAL_PROXY_HOST}:{LOCAL_PROXY_PORT}"
+    if PROXY_USER and PROXY_PASS:
+        proxy_url = f"http://{PROXY_USER}:{PROXY_PASS}@{PROXY_HOST}:{PROXY_PORT}"
     else:
-        proxy_url = f"http://{LOCAL_PROXY_HOST}:{LOCAL_PROXY_PORT}"
+        proxy_url = f"http://{PROXY_HOST}:{PROXY_PORT}"
     
     proxies = {
         "http": proxy_url,
