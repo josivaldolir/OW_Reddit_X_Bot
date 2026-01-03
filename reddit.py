@@ -44,8 +44,7 @@ def check_proxy_available():
         response = requests.get(
             "https://www.reddit.com/r/test.json?limit=1",
             proxies=proxies,
-            timeout=5,
-            verify=False
+            timeout=5
         )
         
         if response.status_code == 200:
@@ -105,8 +104,7 @@ def fetch_posts_from_reddit(subreddit, limit=50):
                 url,
                 headers=headers,
                 proxies=proxies,
-                timeout=20,
-                verify=False
+                timeout=20
             )
             response.raise_for_status()
             
