@@ -1,3 +1,5 @@
 tweepy==4.16.0
 yt-dlp
 requests
+beautifulsoup4
+lxml

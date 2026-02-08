@@ -1,12 +1,15 @@
 import requests
 import logging
 import os
+import re
 from random import choice
+from bs4 import BeautifulSoup
 from queue_manager import (
     initialize_queue_db, 
     add_json_batch, 
     get_next_unposted_post, 
-    get_queue_stats
+    get_queue_stats,
+    MAX_JSON_BATCHES
 )
 
 logger = logging.getLogger(__name__)
@@ -40,11 +43,12 @@ def check_proxy_available():
         
         logger.info(f"🔍 Verificando CCProxy: {PROXY_HOST}:{PROXY_PORT}")
         
-        # Tenta requisição simples
+        # Tenta requisição simples com HTML
         response = requests.get(
-            "https://www.reddit.com/r/test.json?limit=1",
+            "https://www.reddit.com/r/test/",
             proxies=proxies,
-            timeout=5
+            headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'},
+            timeout=10
         )
         
         if response.status_code == 200:
@@ -67,123 +71,268 @@ def check_proxy_available():
         logger.warning(f"⚠️ Erro ao verificar CCProxy: {e}")
         return False
 
-def fetch_posts_from_reddit(subreddit, limit=50):
+def extract_post_id_from_url(url):
+    """Extrai o ID do post da URL do Reddit"""
+    match = re.search(r'/comments/([a-z0-9]+)/', url)
+    return match.group(1) if match else None
+
+def parse_reddit_html(html_content):
     """
-    Busca posts do Reddit usando CCProxy.
+    Faz o parsing do HTML do Reddit e extrai informações dos posts.
+    Retorna lista de dicionários com dados dos posts.
+    """
+    soup = BeautifulSoup(html_content, 'lxml')
+    posts = []
+    
+    # Reddit usa diferentes estruturas dependendo se é new/old Reddit
+    # Vamos tentar ambas as estruturas
+    
+    # Estrutura 1: shreddit-post (new Reddit)
+    post_elements = soup.find_all('shreddit-post')
+    
+    # Estrutura 2: div com data-context="listing" (old Reddit fallback)
+    if not post_elements:
+        post_elements = soup.find_all('div', {'data-context': 'listing'})
+    
+    # Estrutura 3: thing data-type="link" (old Reddit)
+    if not post_elements:
+        post_elements = soup.find_all('div', class_=lambda x: x and 'thing' in x)
+    
+    logger.info(f"🔍 Encontrados {len(post_elements)} elementos de post no HTML")
+    
+    for post_elem in post_elements:
+        try:
+            post_info = extract_post_data(post_elem, soup)
+            if post_info and post_info.get('id'):
+                posts.append(post_info)
+        except Exception as e:
+            logger.debug(f"Erro ao processar post: {e}")
+            continue
+    
+    return posts
+
+def extract_post_data(post_elem, soup):
+    """
+    Extrai dados de um elemento de post do Reddit.
+    Suporta múltiplas estruturas HTML (new/old Reddit).
+    """
+    post_info = {
+        "id": '',
+        "title": '',
+        "content": '',
+        "url": '',
+        "s_img": '',
+        "m_img": [],
+        "video": '',
+        "video_fallback_url": ''
+    }
+    
+    # Detecta se é new Reddit (shreddit-post) ou old Reddit
+    is_new_reddit = post_elem.name == 'shreddit-post'
+    
+    if is_new_reddit:
+        # NEW REDDIT (shreddit-post)
+        post_info['id'] = post_elem.get('id', '').replace('t3_', '')
+        post_info['title'] = post_elem.get('post-title', '')
+        
+        # Permalink
+        permalink = post_elem.get('permalink', '')
+        if permalink:
+            post_info['url'] = f"https://www.reddit.com{permalink}"
+        
+        # Selftext (conteúdo do post)
+        content_html = post_elem.get('content-href', '')
+        if content_html:
+            post_info['content'] = content_html[:500]  # Limita tamanho
+        
+        # Imagem única
+        thumbnail = post_elem.get('thumbnail', '')
+        if thumbnail and thumbnail.startswith('http') and 'preview.redd.it' in thumbnail:
+            post_info['s_img'] = thumbnail.replace('&amp;', '&')
+        
+        # Vídeo
+        if post_elem.get('is-video') == 'true':
+            post_info['video'] = post_info['url']
+            
+    else:
+        # OLD REDDIT (div.thing)
+        # ID do post
+        post_id = post_elem.get('data-fullname', '').replace('t3_', '')
+        if not post_id:
+            post_id = post_elem.get('id', '').replace('thing_t3_', '')
+        post_info['id'] = post_id
+        
+        # Título
+        title_elem = post_elem.find('a', class_='title')
+        if not title_elem:
+            title_elem = post_elem.find('p', class_='title')
+        
+        if title_elem:
+            post_info['title'] = title_elem.get_text(strip=True)
+            
+        # URL/Permalink
+        permalink = post_elem.get('data-permalink', '')
+        if permalink:
+            post_info['url'] = f"https://www.reddit.com{permalink}"
+        elif title_elem and title_elem.get('href'):
+            href = title_elem.get('href')
+            if href.startswith('/r/'):
+                post_info['url'] = f"https://www.reddit.com{href}"
+            else:
+                post_info['url'] = href
+        
+        # Selftext/conteúdo
+        expando = post_elem.find('div', class_='expando')
+        if expando:
+            usertext = expando.find('div', class_='usertext-body')
+            if usertext:
+                post_info['content'] = usertext.get_text(strip=True)[:500]
+        
+        # Imagem única
+        thumbnail = post_elem.get('data-thumbnail', '')
+        if thumbnail and thumbnail.startswith('http') and thumbnail not in ['self', 'default', 'nsfw', 'spoiler']:
+            post_info['s_img'] = thumbnail.replace('&amp;', '&')
+        
+        # Tenta encontrar imagem em preview
+        preview = post_elem.find('a', class_='thumbnail')
+        if preview and not post_info['s_img']:
+            img = preview.find('img')
+            if img and img.get('src'):
+                src = img.get('src')
+                if 'preview.redd.it' in src or 'i.redd.it' in src:
+                    post_info['s_img'] = src.replace('&amp;', '&')
+        
+        # Vídeo (is-video ou domain)
+        domain = post_elem.get('data-domain', '')
+        is_video = post_elem.get('data-is-video', 'false') == 'true'
+        
+        if is_video or domain == 'v.redd.it':
+            post_info['video'] = post_info['url']
+    
+    # Pula posts fixados (stickied)
+    if post_elem.get('data-stickied') == 'true' or post_elem.get('stickied') == 'true':
+        return None
+    
+    # Validação: precisa ter pelo menos ID e título
+    if not post_info['id'] or not post_info['title']:
+        return None
+    
+    return post_info
+
+def fetch_posts_from_reddit_html(subreddit, limit=50):
+    """
+    Busca posts do Reddit usando HTML scraping com sessão persistente.
     Retorna lista de posts ou None se falhar.
     """
-    # Monta URL do proxy com autenticação
-    if PROXY_USER and PROXY_PASS:
-        proxy_url = f"http://{PROXY_USER}:{PROXY_PASS}@{PROXY_HOST}:{PROXY_PORT}"
+    # Cria sessão para manter cookies
+    session = requests.Session()
+    
+    # Headers mais realistas e completos
+    session.headers.update({
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
+        'Accept-Language': 'en-US,en;q=0.9,pt-BR;q=0.8,pt;q=0.7',
+        'Accept-Encoding': 'gzip, deflate, br, zstd',
+        'DNT': '1',
+        'Connection': 'keep-alive',
+        'Upgrade-Insecure-Requests': '1',
+        'Sec-Fetch-Dest': 'document',
+        'Sec-Fetch-Mode': 'navigate',
+        'Sec-Fetch-Site': 'none',
+        'Sec-Fetch-User': '?1',
+        'sec-ch-ua': '"Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'Cache-Control': 'max-age=0',
+    })
+    
+    # Configura proxy (se disponível)
+    if PROXY_HOST:
+        if PROXY_USER and PROXY_PASS:
+            proxy_url = f"http://{PROXY_USER}:{PROXY_PASS}@{PROXY_HOST}:{PROXY_PORT}"
+        else:
+            proxy_url = f"http://{PROXY_HOST}:{PROXY_PORT}"
+        
+        session.proxies.update({
+            "http": proxy_url,
+            "https": proxy_url
+        })
+        logger.info(f"🔐 Usando proxy: {PROXY_HOST}:{PROXY_PORT}")
     else:
-        proxy_url = f"http://{PROXY_HOST}:{PROXY_PORT}"
+        logger.info("🔓 Conexão direta (sem proxy)")
     
-    proxies = {
-        "http": proxy_url,
-        "https": proxy_url
-    }
+    # ESTRATÉGIA: Primeiro acessa página principal para obter cookies
+    try:
+        logger.info("🍪 Obtendo cookies da página principal...")
+        home_response = session.get("https://old.reddit.com/", timeout=10)
+        if home_response.status_code == 200:
+            logger.info(f"   ✅ Cookies obtidos: {len(session.cookies)} cookies")
+        else:
+            logger.warning(f"   ⚠️ Falha ao obter cookies: Status {home_response.status_code}")
+    except Exception as e:
+        logger.warning(f"   ⚠️ Erro ao obter cookies: {e}")
     
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-        'Accept-Language': 'en-US,en;q=0.9',
-    }
-    
-    # URLs para tentar
+    # URLs para tentar (preferência para old.reddit)
     urls = [
-        f"https://www.reddit.com/r/{subreddit}/hot.json?limit={limit}",
-        f"https://www.reddit.com/r/{subreddit}.json?limit={limit}",
-        f"https://old.reddit.com/r/{subreddit}/hot.json?limit={limit}",
+        f"https://old.reddit.com/r/{subreddit}/",
+        f"https://old.reddit.com/r/{subreddit}/hot/",
+        f"https://www.reddit.com/r/{subreddit}/",
+        f"https://www.reddit.com/r/{subreddit}/hot/",
     ]
     
     for url_index, url in enumerate(urls, 1):
         try:
             logger.info(f"🌐 Tentativa {url_index}/{len(urls)}: {url}")
             
-            response = requests.get(
+            response = session.get(
                 url,
-                headers=headers,
-                proxies=proxies,
-                timeout=20
+                timeout=30,
+                allow_redirects=True
             )
+            
+            logger.info(f"   Status: {response.status_code}")
+            
+            if response.status_code == 403:
+                logger.warning(f"   ❌ 403 Forbidden - tentando próxima URL...")
+                continue
+            
             response.raise_for_status()
             
-            data = response.json()
-            posts = []
+            # Parse HTML
+            logger.info(f"   📄 HTML recebido: {len(response.text)} bytes")
+            posts = parse_reddit_html(response.text)
             
-            # Processa TODOS os posts do JSON
-            for post in data['data']['children']:
-                post_data = post['data']
-                
-                # Pula posts fixados
-                if post_data.get('stickied', False):
-                    continue
-                
-                post_info = {
-                    "id": post_data['id'],
-                    "title": post_data.get('title', ''),
-                    "content": post_data.get('selftext', ''),
-                    "url": f"https://www.reddit.com{post_data.get('permalink', '')}",
-                    "s_img": '',
-                    "m_img": [],
-                    "video": '',
-                    "video_fallback_url": ''
-                }
-                
-                # Imagem única
-                if 'preview' in post_data and 'images' in post_data['preview']:
-                    try:
-                        image_url = post_data['preview']['images'][0]['source']['url']
-                        post_info["s_img"] = image_url.replace('&amp;', '&')
-                    except:
-                        pass
-                
-                # Galeria
-                if post_data.get('is_gallery') and 'gallery_data' in post_data:
-                    try:
-                        images = []
-                        for item in post_data['gallery_data']['items'][:4]:
-                            media_id = item['media_id']
-                            if media_id in post_data.get('media_metadata', {}):
-                                if 's' in post_data['media_metadata'][media_id]:
-                                    if 'u' in post_data['media_metadata'][media_id]['s']:
-                                        img_url = post_data['media_metadata'][media_id]['s']['u']
-                                        images.append(img_url.replace('&amp;', '&'))
-                        post_info["m_img"] = images
-                    except Exception as e:
-                        logger.debug(f"Erro ao extrair galeria: {e}")
-                
-                # Vídeo
-                if post_data.get('is_video') and 'media' in post_data:
-                    if post_data['media'] and 'reddit_video' in post_data['media']:
-                        post_info["video"] = f"https://www.reddit.com{post_data['permalink']}"
-                        post_info["video_fallback_url"] = post_data['media']['reddit_video'].get('fallback_url', '')
-                
-                posts.append(post_info)
+            if not posts:
+                logger.warning(f"   ⚠️ Nenhum post extraído do HTML")
+                continue
             
-            logger.info(f"✅ {len(posts)} posts obtidos de r/{subreddit}!")
+            # Limita a quantidade de posts
+            posts = posts[:limit]
+            
+            logger.info(f"✅ {len(posts)} posts extraídos de r/{subreddit}!")
+            
+            # Debug: mostra alguns posts
+            for i, post in enumerate(posts[:3]):
+                logger.info(f"   Post {i+1}: {post['title'][:50]}... (ID: {post['id']})")
+            
             return posts
             
         except requests.exceptions.HTTPError as e:
-            if e.response.status_code == 402:
-                logger.warning(f"❌ Erro 402 na tentativa {url_index} - proxy bloqueou endpoint")
-                continue
-            else:
-                logger.warning(f"❌ HTTP {e.response.status_code} na tentativa {url_index}")
-                continue
+            logger.warning(f"❌ HTTP {e.response.status_code} na tentativa {url_index}")
+            continue
         except Exception as e:
             logger.warning(f"❌ Falha na tentativa {url_index}: {e}")
             continue
     
-    logger.error("❌ Todas as tentativas falharam via CCProxy")
+    logger.error("❌ Todas as tentativas falharam via CCProxy com HTML scraping")
     return None
 
 def extractContent():
     """
-    Sistema otimizado de extração:
+    Sistema otimizado de extração com HTML scraping:
     
     1. Verifica se CCProxy está disponível
-    2. Se SIM: busca 50 posts e adiciona como 1 JSON batch (máx 2 no DB)
+    2. Se SIM: busca 50 posts via HTML e adiciona como 1 JSON batch (máx 2 no DB)
     3. Se NÃO: busca da fila existente
     4. Varre JSON inteiro procurando post não visto
     5. Se JSON esgota, remove e passa para próximo
@@ -210,7 +359,7 @@ def extractContent():
     proxy_available = check_proxy_available()
     
     if proxy_available and stats['batches_count'] < MAX_JSON_BATCHES:
-        logger.info("🟢 MODO ONLINE: Buscando novos posts via CCProxy...")
+        logger.info("🟢 MODO ONLINE: Buscando novos posts via CCProxy (HTML SCRAPING)...")
         
         # Escolhe subreddit aleatório
         subreddits = ['Overwatch', 'Overwatch_Memes']
@@ -218,8 +367,8 @@ def extractContent():
         
         logger.info(f"🎲 Subreddit selecionado: r/{subreddit}")
         
-        # Busca posts
-        posts = fetch_posts_from_reddit(subreddit, limit=50)
+        # Busca posts via HTML scraping
+        posts = fetch_posts_from_reddit_html(subreddit, limit=50)
         
         if posts:
             # Adiciona como 1 batch (FIFO automático se já tiver 2)
@@ -230,7 +379,7 @@ def extractContent():
             stats = get_queue_stats()
             logger.info(f"📊 Fila atualizada: {stats['batches_count']} batch(es), {stats['available_posts']} posts disponíveis")
         else:
-            logger.warning("⚠️ Falha ao buscar novos posts")
+            logger.warning("⚠️ Falha ao buscar novos posts via HTML scraping")
     
     elif proxy_available and stats['batches_count'] >= MAX_JSON_BATCHES:
         logger.info(f"⏸️ Já temos {MAX_JSON_BATCHES} batches salvos (máximo), usando fila existente")
@@ -269,9 +418,6 @@ def debug_data(posts):
     else:
         print("\n❌ Nenhum post disponível.\n")
 
-# Importa MAX_JSON_BATCHES
-from queue_manager import MAX_JSON_BATCHES
-
 if __name__ == "__main__":
     # Teste local
     logging.basicConfig(
@@ -280,7 +426,7 @@ if __name__ == "__main__":
     )
     
     print("=" * 60)
-    print("Sistema Otimizado de Proxy Local com CCProxy")
+    print("Sistema Otimizado com HTML Scraping do Reddit")
     print(f"Máximo de batches: {MAX_JSON_BATCHES}")
     print("=" * 60)
     print()

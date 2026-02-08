@@ -4,3 +4,5 @@ twitter_bot.log*
 *.log
 sqlite/
 certs/
+test_html_scrapping.py
+testeccproxy.py
