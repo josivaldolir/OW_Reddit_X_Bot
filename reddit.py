@@ -83,6 +83,7 @@ def parse_reddit_html(html_content):
     """
     soup = BeautifulSoup(html_content, 'lxml')
     posts = []
+    filtered_count = 0
     
     # Reddit usa diferentes estruturas dependendo se é new/old Reddit
     # Vamos tentar ambas as estruturas
@@ -105,9 +106,14 @@ def parse_reddit_html(html_content):
             post_info = extract_post_data(post_elem, soup)
             if post_info and post_info.get('id'):
                 posts.append(post_info)
+            elif post_info is None:
+                filtered_count += 1
         except Exception as e:
             logger.debug(f"Erro ao processar post: {e}")
             continue
+    
+    if filtered_count > 0:
+        logger.info(f"🚫 {filtered_count} posts filtrados (anúncios/promocionais)")
     
     return posts
 
@@ -212,6 +218,22 @@ def extract_post_data(post_elem, soup):
     # Pula posts fixados (stickied)
     if post_elem.get('data-stickied') == 'true' or post_elem.get('stickied') == 'true':
         return None
+    
+    # FILTRO: Pula posts promocionais (de usuários, não de subreddits)
+    # Anúncios têm URL tipo: /user/NOME/comments/...
+    # Posts legítimos têm URL tipo: /r/SUBREDDIT/comments/...
+    if post_info['url']:
+        if '/user/' in post_info['url'] or '/u/' in post_info['url']:
+            logger.debug(f"⚠️ Post promocional ignorado: {post_info['url']}")
+            return None
+        
+        # FILTRO: Apenas aceita posts dos subreddits específicos
+        allowed_subreddits = ['Overwatch', 'Overwatch_Memes']
+        is_from_allowed = any(f'/r/{sub}/' in post_info['url'] for sub in allowed_subreddits)
+        
+        if not is_from_allowed:
+            logger.debug(f"⚠️ Post de outro subreddit ignorado: {post_info['url']}")
+            return None
     
     # Validação: precisa ter pelo menos ID e título
     if not post_info['id'] or not post_info['title']:
