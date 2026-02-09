@@ -133,6 +133,16 @@ def extract_post_data(post_elem, soup):
         "video_fallback_url": ''
     }
     
+    def fix_url(url):
+        """Corrige URLs que vêm sem protocolo"""
+        if not url:
+            return ''
+        if url.startswith('//'):
+            return 'https:' + url
+        if not url.startswith('http'):
+            return 'https://' + url
+        return url
+    
     # Detecta se é new Reddit (shreddit-post) ou old Reddit
     is_new_reddit = post_elem.name == 'shreddit-post'
     
@@ -154,7 +164,7 @@ def extract_post_data(post_elem, soup):
         # Imagem única
         thumbnail = post_elem.get('thumbnail', '')
         if thumbnail and thumbnail.startswith('http') and 'preview.redd.it' in thumbnail:
-            post_info['s_img'] = thumbnail.replace('&amp;', '&')
+            post_info['s_img'] = fix_url(thumbnail.replace('&amp;', '&'))
         
         # Vídeo
         if post_elem.get('is-video') == 'true':
@@ -197,7 +207,7 @@ def extract_post_data(post_elem, soup):
         # Imagem única
         thumbnail = post_elem.get('data-thumbnail', '')
         if thumbnail and thumbnail.startswith('http') and thumbnail not in ['self', 'default', 'nsfw', 'spoiler']:
-            post_info['s_img'] = thumbnail.replace('&amp;', '&')
+            post_info['s_img'] = fix_url(thumbnail.replace('&amp;', '&'))
         
         # Tenta encontrar imagem em preview
         preview = post_elem.find('a', class_='thumbnail')
@@ -206,7 +216,7 @@ def extract_post_data(post_elem, soup):
             if img and img.get('src'):
                 src = img.get('src')
                 if 'preview.redd.it' in src or 'i.redd.it' in src:
-                    post_info['s_img'] = src.replace('&amp;', '&')
+                    post_info['s_img'] = fix_url(src.replace('&amp;', '&'))
         
         # Vídeo (is-video ou domain)
         domain = post_elem.get('data-domain', '')
@@ -353,12 +363,10 @@ def extractContent():
     """
     Sistema otimizado de extração com HTML scraping:
     
-    1. Verifica se CCProxy está disponível
-    2. Se SIM: busca 50 posts via HTML e adiciona como 1 JSON batch (máx 2 no DB)
-    3. Se NÃO: busca da fila existente
-    4. Varre JSON inteiro procurando post não visto
-    5. Se JSON esgota, remove e passa para próximo
-    6. Retorna sempre 1 post novo (ou lista vazia se não houver)
+    NOVA LÓGICA:
+    1. Se CCProxy ONLINE: SEMPRE busca novo JSON e substitui o mais antigo (FIFO)
+    2. Se CCProxy OFFLINE: Consome batches salvos (do mais antigo pro mais novo)
+    3. Retorna sempre 1 post novo
     """
     # Inicializa DB
     initialize_queue_db()
@@ -380,8 +388,10 @@ def extractContent():
     # Verifica se CCProxy está disponível
     proxy_available = check_proxy_available()
     
-    if proxy_available and stats['batches_count'] < MAX_JSON_BATCHES:
-        logger.info("🟢 MODO ONLINE: Buscando novos posts via CCProxy (HTML SCRAPING)...")
+    # ✅ NOVA LÓGICA: Se proxy ONLINE, SEMPRE busca novo batch
+    if proxy_available:
+        logger.info("🟢 MODO ONLINE: Buscando NOVO batch via CCProxy (HTML SCRAPING)...")
+        logger.info("   Estratégia: JSON fresco → Posts atualizados")
         
         # Escolhe subreddit aleatório
         subreddits = ['Overwatch', 'Overwatch_Memes']
@@ -393,7 +403,7 @@ def extractContent():
         posts = fetch_posts_from_reddit_html(subreddit, limit=50)
         
         if posts:
-            # Adiciona como 1 batch (FIFO automático se já tiver 2)
+            # Adiciona como 1 batch (FIFO automático: remove o mais antigo se já tiver 2)
             batch_id = add_json_batch(posts, subreddit)
             logger.info(f"💾 Batch #{batch_id} salvo com {len(posts)} posts")
             
@@ -402,12 +412,11 @@ def extractContent():
             logger.info(f"📊 Fila atualizada: {stats['batches_count']} batch(es), {stats['available_posts']} posts disponíveis")
         else:
             logger.warning("⚠️ Falha ao buscar novos posts via HTML scraping")
-    
-    elif proxy_available and stats['batches_count'] >= MAX_JSON_BATCHES:
-        logger.info(f"⏸️ Já temos {MAX_JSON_BATCHES} batches salvos (máximo), usando fila existente")
-    
-    elif not proxy_available:
-        logger.info("🔴 MODO OFFLINE: CCProxy indisponível, usando fila existente")
+            logger.info("   Usando batches salvos como fallback...")
+    else:
+        # Proxy OFFLINE: usa batches salvos
+        logger.info("🔴 MODO OFFLINE: CCProxy indisponível, usando batches salvos")
+        logger.info("   Estratégia: Consumir fila existente")
     
     # Busca próximo post não visto (varre todos os batches)
     logger.info("🔍 Procurando próximo post não visto...")
@@ -419,7 +428,10 @@ def extractContent():
         return [post]
     else:
         logger.error("❌ FILA VAZIA! Nenhum post novo disponível.")
-        logger.error("   Aguardando CCProxy ficar online para buscar mais posts...")
+        if proxy_available:
+            logger.error("   Isso é estranho - acabamos de buscar posts mas não achamos nenhum novo!")
+        else:
+            logger.error("   Aguardando CCProxy ficar online para buscar mais posts...")
         return []
 
 def debug_data(posts):

@@ -6,6 +6,67 @@ from oauth import *
 from reddit import extractContent
 from database import get_db_connection
 
+def download_media_no_proxy(url: str, filename: str) -> str | None:
+    """
+    Download de imagens SEM proxy (conexão direta).
+    Usado para imagens do Reddit que são públicas.
+    """
+    try:
+        # Corrige URL se vier sem protocolo
+        if url.startswith('//'):
+            url = 'https:' + url
+        
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+        }
+        
+        # Conexão DIRETA (sem proxy)
+        resp = requests.get(url, stream=True, timeout=30, headers=headers)
+        resp.raise_for_status()
+        
+        with open(filename, "wb") as f:
+            for chunk in resp.iter_content(8192):
+                f.write(chunk)
+        
+        logger.info(f"✅ Downloaded (no proxy): {filename} ({len(resp.content)} bytes)")
+        return filename
+    except Exception as exc:
+        logger.error(f"❌ Download failed for {url}: {exc}")
+        return None
+    
+def check_proxy_available() -> bool:
+    """
+    Verifica se o proxy está disponível.
+    Retorna True se disponível, False caso contrário.
+    """
+    PROXY_HOST = os.getenv("PROXY_HOST")
+    if not PROXY_HOST:
+        return False
+    
+    PROXY_PORT = os.getenv("PROXY_PORT", "8080")
+    PROXY_USER = os.getenv("PROXY_USER", "")
+    PROXY_PASS = os.getenv("PROXY_PASS", "")
+    
+    try:
+        if PROXY_USER and PROXY_PASS:
+            proxy_url = f"http://{PROXY_USER}:{PROXY_PASS}@{PROXY_HOST}:{PROXY_PORT}"
+        else:
+            proxy_url = f"http://{PROXY_HOST}:{PROXY_PORT}"
+        
+        proxies = {"http": proxy_url, "https": proxy_url}
+        
+        # Tenta requisição simples
+        response = requests.get(
+            "https://www.reddit.com/",
+            proxies=proxies,
+            timeout=5,
+            headers={'User-Agent': 'Mozilla/5.0'}
+        )
+        
+        return response.status_code == 200
+    except:
+        return False
+
 # <-- yt-dlp -->
 try:
     import yt_dlp
@@ -116,16 +177,38 @@ def get_pending_posts() -> list[dict]:
 # ---------- utils ----------
 
 def download_media(url: str, filename: str) -> str | None:
+    """
+    Download inteligente de mídia:
+    - Imagens: usa conexão direta (sem proxy)
+    - Vídeos: mantém comportamento original
+    """
     try:
-        resp = requests.get(url, stream=True, timeout=30)
+        # Corrige URL se vier sem protocolo
+        if url.startswith('//'):
+            url = 'https:' + url
+        
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+        }
+        
+        # Para imagens, usa conexão DIRETA (mais rápido e confiável)
+        if any(ext in url.lower() for ext in ['.jpg', '.jpeg', '.png', '.gif', '.webp']):
+            logger.info(f"📥 Downloading image (direct): {url}")
+            resp = requests.get(url, stream=True, timeout=30, headers=headers)
+        else:
+            # Para outros tipos, mantém comportamento original
+            resp = requests.get(url, stream=True, timeout=30, headers=headers)
+        
         resp.raise_for_status()
+        
         with open(filename, "wb") as f:
             for chunk in resp.iter_content(8192):
                 f.write(chunk)
-        logger.info("Downloaded %s -> %s", url, filename)
+        
+        logger.info(f"✅ Downloaded: {filename} ({len(resp.content)} bytes)")
         return filename
     except Exception as exc:
-        logger.error("Download failed for %s: %s", url, exc)
+        logger.error(f"❌ Download failed for {url}: {exc}")
         return None
 
 def combine_video_audio(video_path: str, audio_path: str, output_path: str) -> str | None:
@@ -523,13 +606,32 @@ def post_to_twitter(text: str, img_paths: list[str], video_path: str, post_id: s
     """
     Attempt to post to Twitter.
     Returns (success, fatal) where fatal=True means "don't retry / delete pending".
-    Uses yt-dlp with Reddit auth to fetch video+audio merged.
+    
+    MELHORIAS:
+    - Imagens: baixa SEM proxy (conexão direta)
+    - Vídeos: verifica se proxy está disponível ANTES de tentar
     """
     media_ids: list[int] = []
 
     try:
-        # VIDEO HANDLING com yt-dlp autenticado
+        # VIDEO HANDLING com verificação de proxy
         if video_path:
+            # Verifica se proxy está disponível
+            proxy_online = check_proxy_available()
+            
+            if not proxy_online:
+                logger.warning("⚠️ PROXY OFFLINE - Vídeo não pode ser baixado")
+                logger.info(f"📌 Salvando post {post_id} para retry quando proxy estiver online")
+                
+                # NÃO é fatal - vai tentar novamente quando proxy estiver online
+                if post_id:
+                    # Salva como pending para retry
+                    pass  # Já está em pending, só retorna False
+                
+                return False, False  # Não fatal, vai tentar depois
+            
+            # Proxy está online, pode baixar vídeo
+            logger.info("✅ Proxy online - baixando vídeo...")
             out_file = "temp_video.mp4"
             filename, duration, err = download_reddit_video_ytdlp_auth(video_path, out_file)
 
@@ -541,7 +643,6 @@ def post_to_twitter(text: str, img_paths: list[str], video_path: str, post_id: s
 
             if filename is None:
                 logger.error(f"Download failed for {video_path}: {err}")
-                # Lista de erros que devem ser tratados como FATAIS (remover da fila)
                 fatal_errors = [
                     "copyright", "404", "forbidden", "not permitted", "unavailable",
                     "audio_not_found_fatal", "no_video_metadata", "invalid_post_url",
@@ -552,7 +653,6 @@ def post_to_twitter(text: str, img_paths: list[str], video_path: str, post_id: s
                         remove_pending_post(post_id)
                         logger.warning(f"⚠️ Post {post_id} removido PERMANENTEMENTE da fila")
                         logger.warning(f"   Motivo: {err}")
-                        logger.warning(f"   Este vídeo NÃO será tentado novamente")
                     return False, True
                 return False, False
 
@@ -577,15 +677,23 @@ def post_to_twitter(text: str, img_paths: list[str], video_path: str, post_id: s
                 except Exception as e:
                     logger.warning(f"Failed to cleanup {filename}: {e}")
 
-        # IMAGES
+        # IMAGES - USA CONEXÃO DIRETA (SEM PROXY)
         elif img_paths:
+            logger.info(f"📸 Downloading {len(img_paths)} image(s) (direct connection)...")
             for idx, url in enumerate(img_paths[:4]):
+                # Corrige URL se necessário
+                if url.startswith('//'):
+                    url = 'https:' + url
+                
                 local = download_media(url, f"temp_image_{idx}.jpg")
                 if local:
                     check_rate_limits(api, "/media/upload")
                     media = api.media_upload(local)
                     media_ids.append(media.media_id)
                     os.remove(local)
+                    logger.info(f"✅ Image {idx+1} uploaded successfully")
+                else:
+                    logger.warning(f"⚠️ Failed to download image {idx+1}")
 
         # TWEET
         if text or media_ids:
