@@ -179,8 +179,8 @@ def get_pending_posts() -> list[dict]:
 def download_media(url: str, filename: str) -> str | None:
     """
     Download inteligente de mídia:
-    - Imagens: usa conexão direta (sem proxy)
-    - Vídeos: mantém comportamento original
+    - Corrige URLs sem protocolo (//preview.redd.it → https://preview.redd.it)
+    - Usa conexão direta (sem proxy) para imagens
     """
     try:
         # Corrige URL se vier sem protocolo
@@ -191,22 +191,31 @@ def download_media(url: str, filename: str) -> str | None:
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
         }
         
-        # Para imagens, usa conexão DIRETA (mais rápido e confiável)
+        # Log do download
         if any(ext in url.lower() for ext in ['.jpg', '.jpeg', '.png', '.gif', '.webp']):
             logger.info(f"📥 Downloading image (direct): {url}")
-            resp = requests.get(url, stream=True, timeout=30, headers=headers)
-        else:
-            # Para outros tipos, mantém comportamento original
-            resp = requests.get(url, stream=True, timeout=30, headers=headers)
         
+        # Faz requisição
+        resp = requests.get(url, stream=True, timeout=30, headers=headers)
         resp.raise_for_status()
         
+        # ✅ CORREÇÃO: Salva conteúdo E conta bytes ao mesmo tempo
+        total_bytes = 0
         with open(filename, "wb") as f:
             for chunk in resp.iter_content(8192):
-                f.write(chunk)
+                if chunk:  # Ignora keep-alive chunks vazios
+                    f.write(chunk)
+                    total_bytes += len(chunk)
         
-        logger.info(f"✅ Downloaded: {filename} ({len(resp.content)} bytes)")
+        logger.info(f"✅ Downloaded: {filename} ({total_bytes} bytes)")
         return filename
+        
+    except requests.exceptions.HTTPError as exc:
+        logger.error(f"❌ HTTP error downloading {url}: {exc.response.status_code}")
+        return None
+    except requests.exceptions.Timeout:
+        logger.error(f"❌ Timeout downloading {url}")
+        return None
     except Exception as exc:
         logger.error(f"❌ Download failed for {url}: {exc}")
         return None
