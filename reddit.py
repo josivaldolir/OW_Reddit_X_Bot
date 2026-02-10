@@ -48,7 +48,7 @@ def check_proxy_available():
             "https://www.reddit.com/r/test/",
             proxies=proxies,
             headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'},
-            timeout=10
+            timeout=15
         )
         
         if response.status_code == 200:

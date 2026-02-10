@@ -616,28 +616,45 @@ def post_to_twitter(text: str, img_paths: list[str], video_path: str, post_id: s
     Attempt to post to Twitter.
     Returns (success, fatal) where fatal=True means "don't retry / delete pending".
     
-    MELHORIAS:
-    - Imagens: baixa SEM proxy (conexão direta)
-    - Vídeos: verifica se proxy está disponível ANTES de tentar
+    NOVA ESTRATÉGIA:
+    - Vídeos com proxy offline → Retorna (False, False) para tentar depois
+    - Mas se já tentou 3x → Marca como fatal e PULA
     """
     media_ids: list[int] = []
 
     try:
-        # VIDEO HANDLING com verificação de proxy
+        # VIDEO HANDLING
         if video_path:
             # Verifica se proxy está disponível
             proxy_online = check_proxy_available()
             
             if not proxy_online:
                 logger.warning("⚠️ PROXY OFFLINE - Vídeo não pode ser baixado")
-                logger.info(f"📌 Salvando post {post_id} para retry quando proxy estiver online")
                 
-                # NÃO é fatal - vai tentar novamente quando proxy estiver online
+                # ✅ NOVA LÓGICA: Se já tentou múltiplas vezes, DESISTE deste vídeo
                 if post_id:
-                    # Salva como pending para retry
-                    pass  # Já está em pending, só retorna False
+                    # Verifica quantas tentativas já foram feitas
+                    with closing(get_db_connection()) as conn:
+                        cursor = conn.execute(
+                            "SELECT attempts FROM pending_posts WHERE post_id = ?", 
+                            (post_id,)
+                        )
+                        result = cursor.fetchone()
+                        attempts = result[0] if result else 0
+                    
+                    if attempts >= 2:  # Após 2 tentativas (1 hora), desiste
+                        logger.warning(f"⚠️ Post {post_id} tentado {attempts}x sem proxy")
+                        logger.warning(f"   PULANDO vídeo e marcando como visto")
+                        logger.warning(f"   Motivo: Proxy offline por muito tempo")
+                        
+                        # Marca como visto para PULAR e ir pro próximo
+                        mark_post_as_seen(post_id)
+                        
+                        # Retorna fatal=True para não tentar mais
+                        return False, True
                 
-                return False, False  # Não fatal, vai tentar depois
+                logger.info(f"📌 Aguardando proxy ficar online (tentativa em 30 min)")
+                return False, False  # Tenta depois
             
             # Proxy está online, pode baixar vídeo
             logger.info("✅ Proxy online - baixando vídeo...")
@@ -661,7 +678,6 @@ def post_to_twitter(text: str, img_paths: list[str], video_path: str, post_id: s
                     if post_id:
                         remove_pending_post(post_id)
                         logger.warning(f"⚠️ Post {post_id} removido PERMANENTEMENTE da fila")
-                        logger.warning(f"   Motivo: {err}")
                     return False, True
                 return False, False
 
@@ -682,15 +698,15 @@ def post_to_twitter(text: str, img_paths: list[str], video_path: str, post_id: s
                 try:
                     if filename and os.path.exists(filename):
                         os.remove(filename)
-                        logger.info(f"Cleaned up temp file: {filename}")
                 except Exception as e:
                     logger.warning(f"Failed to cleanup {filename}: {e}")
 
+        # IMAGES - USA CONEXÃO DIRETA (SEM PROXY)
         elif img_paths:
             logger.info(f"📸 Downloading {len(img_paths)} image(s) (direct connection)...")
             
             downloaded_count = 0
-            for idx, url in enumerate(img_paths[:4]):  # Twitter permite máx 4 imagens
+            for idx, url in enumerate(img_paths[:4]):
                 # Validação: URL não pode estar vazia
                 if not url or not url.strip():
                     logger.warning(f"⚠️ Image {idx+1}: URL vazia, pulando")
@@ -719,7 +735,6 @@ def post_to_twitter(text: str, img_paths: list[str], video_path: str, post_id: s
                     except Exception as exc:
                         logger.error(f"❌ Failed to upload image {idx+1}: {exc}")
                     finally:
-                        # Cleanup
                         try:
                             os.remove(local)
                         except:
@@ -750,7 +765,6 @@ def post_to_twitter(text: str, img_paths: list[str], video_path: str, post_id: s
         fatal = _is_unrecoverable_tweepy_error(exc)
         if fatal and post_id:
             remove_pending_post(post_id)
-            logger.info(f"Dropped pending post {post_id} due to unrecoverable error: {exc}")
             return False, True
         return False, False
 
@@ -758,13 +772,88 @@ def post_to_twitter(text: str, img_paths: list[str], video_path: str, post_id: s
         logger.error(f"Unexpected error in post_to_twitter: {exc}", exc_info=True)
         return False, False
 
+def get_next_postable_content():
+    """
+    Retorna o próximo conteúdo que pode ser postado.
+    
+    LÓGICA INTELIGENTE:
+    - Se proxy OFFLINE: Prioriza posts sem vídeo
+    - Se proxy ONLINE: Posta qualquer coisa (incluindo vídeos)
+    """
+    proxy_online = check_proxy_available()
+    
+    # 1. Primeiro tenta pending posts
+    pending = get_pending_posts()
+    
+    if pending:
+        for p in pending:
+            # Se é vídeo e proxy offline, pula
+            if p.get("video_path") and not proxy_online:
+                logger.info(f"⏭️ Pulando pending {p['post_id']} (vídeo, proxy offline)")
+                continue
+            
+            # Pode postar este pending
+            logger.info(f"📤 Usando pending post {p['post_id']}")
+            return {
+                'type': 'pending',
+                'data': p
+            }
+    
+    # 2. Busca novos posts
+    try:
+        posts = extractContent()
+    except Exception as exc:
+        logger.error(f"Erro ao buscar posts: {exc}")
+        return None
+    
+    # 3. Filtra posts que podem ser postados agora
+    for post in posts:
+        if is_post_seen(post["id"]):
+            continue
+        
+        has_video = bool(post.get("video"))
+        
+        # Se tem vídeo e proxy offline, pula
+        if has_video and not proxy_online:
+            logger.info(f"⏭️ Pulando post {post['id']} (vídeo, proxy offline)")
+            logger.info(f"   Título: {post['title'][:50]}...")
+            continue
+        
+        # Pode postar este!
+        logger.info(f"✅ Selecionado post {post['id']}")
+        return {
+            'type': 'new',
+            'data': post
+        }
+    
+    # Nenhum post disponível
+    logger.warning("❌ Nenhum post disponível para postar agora")
+    if not proxy_online:
+        logger.info("   💡 Todos os posts restantes têm vídeos (aguardando proxy)")
+    
+    return None
+
 # ---------- Orchestration ----------
 
 def process_posts() -> None:
-    pending = get_pending_posts()
-
-    if pending:
-        p = pending[0]
+    """
+    Processa posts de forma inteligente:
+    - Proxy offline → Posta só imagens/texto
+    - Proxy online → Posta tudo (incluindo vídeos)
+    """
+    
+    # Busca próximo conteúdo que PODE ser postado agora
+    content = get_next_postable_content()
+    
+    if not content:
+        logger.info("Nenhum conteúdo disponível para postar")
+        return
+    
+    content_type = content['type']
+    
+    # ========== PENDING POST ==========
+    if content_type == 'pending':
+        p = content['data']
         success, fatal = post_to_twitter(
             p["content"], p["img_paths"], p["video_path"], post_id=p["post_id"]
         )
@@ -779,82 +868,72 @@ def process_posts() -> None:
 
         logger.info(f"Retry failed for {p['post_id']} (non-fatal)")
         return
+    
+    # ========== NEW POST ==========
+    post = content['data']
+    
+    # Extrai imagens
+    img_paths: list[str] = []
+    
+    if post.get("m_img"):
+        img_paths = post["m_img"][:4]
+        logger.info(f"📸 Post tem galeria com {len(img_paths)} imagem(ns)")
+    elif post.get("s_img"):
+        img_paths = [post["s_img"]]
+        logger.info(f"📸 Post tem 1 imagem única")
+    
+    img_paths = [url for url in img_paths if url and url.strip()]
+    
+    if img_paths:
+        logger.info(f"📋 URLs de imagem a baixar:")
+        for i, url in enumerate(img_paths, 1):
+            logger.info(f"   {i}. {url[:80]}...")
 
-    # Tenta extrair novos posts com tratamento de erro
-    try:
-        posts = extractContent()
-    except Exception as exc:
-        # Erros do Reddit API (403, 429, etc.)
-        logger.error(f"Erro ao buscar posts do Reddit: {exc}")
-        logger.warning("Pulando esta execução devido a erro na API do Reddit")
-        return
+    video_path = post.get("video", "")
 
-    for post in posts:
-        if is_post_seen(post["id"]):
-            continue
+    # Monta conteúdo do tweet
+    post_content = (
+        post.get("title", "") + "\n" + post.get("content", "")
+    ).strip()
 
-        img_paths: list[str] = []
-        
-        # Galeria tem prioridade (múltiplas imagens)
-        if post.get("m_img"):
-            img_paths = post["m_img"][:4]  # Máximo 4 imagens
-            logger.info(f"📸 Post tem galeria com {len(img_paths)} imagem(ns)")
-        # Se não tem galeria, usa imagem única
-        elif post.get("s_img"):
-            img_paths = [post["s_img"]]
-            logger.info(f"📸 Post tem 1 imagem única")
-        
-        # Filtra URLs vazias
-        img_paths = [url for url in img_paths if url and url.strip()]
-        
-        if img_paths:
-            logger.info(f"📋 URLs de imagem a baixar:")
-            for i, url in enumerate(img_paths, 1):
-                logger.info(f"   {i}. {url[:80]}...")
+    if isinstance(post_content, bytes):
+        post_content = post_content.decode("utf-8", errors="replace")
 
-        video_path = post.get("video", "")
+    post_url = post.get("url", "")
 
-        post_content = (
-            post.get("title", "") + "\n" + post.get("content", "")
-        ).strip()
-
-        if isinstance(post_content, bytes):
-            post_content = post_content.decode("utf-8", errors="replace")
-
-        post_url = post.get("url", "")
-
-        if post_content and post_url:
-            limit = 277 - len(post_url)
-            content = (
-                f"{post_content[:limit]}...\n{post_url}"
-                if len(post_content) > limit
-                else f"{post_content}\n{post_url}"
-            )
-        else:
-            content = (post_content or post_url)[:280]
-
+    if post_content and post_url:
+        limit = 277 - len(post_url)
         content = (
-            content.encode("utf-8", errors="replace").decode("utf-8")
-            if content
-            else ""
+            f"{post_content[:limit]}...\n{post_url}"
+            if len(post_content) > limit
+            else f"{post_content}\n{post_url}"
         )
+    else:
+        content = (post_content or post_url)[:280]
 
-        success, fatal = post_to_twitter(
-            content, img_paths, video_path, post_id=post["id"]
-        )
+    content = (
+        content.encode("utf-8", errors="replace").decode("utf-8")
+        if content
+        else ""
+    )
 
-        if success:
-            mark_post_as_seen(post["id"])
-            return
+    # Tenta postar
+    success, fatal = post_to_twitter(
+        content, img_paths, video_path, post_id=post["id"]
+    )
 
-        if fatal:
-            logger.info(f"New post {post['id']} ignored permanently due to fatal error")
-            mark_post_as_seen(post["id"])
-            return
-
-        save_pending_post(post["id"], content, img_paths, video_path)
-        logger.info(f"Saved {post['id']} for retry")
+    if success:
+        mark_post_as_seen(post["id"])
         return
+
+    if fatal:
+        logger.info(f"New post {post['id']} ignored permanently due to fatal error")
+        mark_post_as_seen(post["id"])
+        return
+
+    save_pending_post(post["id"], content, img_paths, video_path)
+    logger.info(f"Saved {post['id']} for retry")
+    return
 
 # ---------- main ----------
 
