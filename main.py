@@ -686,23 +686,51 @@ def post_to_twitter(text: str, img_paths: list[str], video_path: str, post_id: s
                 except Exception as e:
                     logger.warning(f"Failed to cleanup {filename}: {e}")
 
-        # IMAGES - USA CONEXÃO DIRETA (SEM PROXY)
         elif img_paths:
             logger.info(f"📸 Downloading {len(img_paths)} image(s) (direct connection)...")
-            for idx, url in enumerate(img_paths[:4]):
+            
+            downloaded_count = 0
+            for idx, url in enumerate(img_paths[:4]):  # Twitter permite máx 4 imagens
+                # Validação: URL não pode estar vazia
+                if not url or not url.strip():
+                    logger.warning(f"⚠️ Image {idx+1}: URL vazia, pulando")
+                    continue
+                
                 # Corrige URL se necessário
                 if url.startswith('//'):
                     url = 'https:' + url
                 
+                # Validação: URL deve ser de imagem válida
+                if not any(domain in url for domain in ['i.redd.it', 'preview.redd.it']):
+                    logger.warning(f"⚠️ Image {idx+1}: URL inválida ({url[:50]}...), pulando")
+                    continue
+                
+                logger.info(f"📥 Downloading image {idx+1}/{len(img_paths[:4])}: {url[:80]}...")
+                
                 local = download_media(url, f"temp_image_{idx}.jpg")
+                
                 if local:
-                    check_rate_limits(api, "/media/upload")
-                    media = api.media_upload(local)
-                    media_ids.append(media.media_id)
-                    os.remove(local)
-                    logger.info(f"✅ Image {idx+1} uploaded successfully")
+                    try:
+                        check_rate_limits(api, "/media/upload")
+                        media = api.media_upload(local)
+                        media_ids.append(media.media_id)
+                        downloaded_count += 1
+                        logger.info(f"✅ Image {idx+1} uploaded successfully (Media ID: {media.media_id})")
+                    except Exception as exc:
+                        logger.error(f"❌ Failed to upload image {idx+1}: {exc}")
+                    finally:
+                        # Cleanup
+                        try:
+                            os.remove(local)
+                        except:
+                            pass
                 else:
                     logger.warning(f"⚠️ Failed to download image {idx+1}")
+            
+            if downloaded_count == 0:
+                logger.error("❌ No images were downloaded successfully")
+            else:
+                logger.info(f"✅ Successfully processed {downloaded_count}/{len(img_paths[:4])} image(s)")
 
         # TWEET
         if text or media_ids:
@@ -766,10 +794,23 @@ def process_posts() -> None:
             continue
 
         img_paths: list[str] = []
-        if post.get("s_img"):
-            img_paths.append(post["s_img"])
-        elif post.get("m_img"):
-            img_paths.extend(post["m_img"])
+        
+        # Galeria tem prioridade (múltiplas imagens)
+        if post.get("m_img"):
+            img_paths = post["m_img"][:4]  # Máximo 4 imagens
+            logger.info(f"📸 Post tem galeria com {len(img_paths)} imagem(ns)")
+        # Se não tem galeria, usa imagem única
+        elif post.get("s_img"):
+            img_paths = [post["s_img"]]
+            logger.info(f"📸 Post tem 1 imagem única")
+        
+        # Filtra URLs vazias
+        img_paths = [url for url in img_paths if url and url.strip()]
+        
+        if img_paths:
+            logger.info(f"📋 URLs de imagem a baixar:")
+            for i, url in enumerate(img_paths, 1):
+                logger.info(f"   {i}. {url[:80]}...")
 
         video_path = post.get("video", "")
 

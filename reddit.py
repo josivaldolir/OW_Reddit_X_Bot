@@ -143,6 +143,66 @@ def extract_post_data(post_elem, soup):
             return 'https://' + url
         return url
     
+    def get_high_res_image_url(preview_url):
+        """
+        Converte URL de preview (baixa resolução) para alta resolução.
+        
+        Preview:  https://preview.redd.it/abc123.png?width=140&height=78&...
+        Alta res: https://i.redd.it/abc123.png
+        
+        ou
+        
+        Preview:  https://preview.redd.it/abc123.png?width=140&...
+        Alta res: https://preview.redd.it/abc123.png (sem query params)
+        """
+        if not preview_url:
+            return ''
+        
+        # Remove query parameters (?width=140&...)
+        if '?' in preview_url:
+            base_url = preview_url.split('?')[0]
+        else:
+            base_url = preview_url
+        
+        # Tenta converter preview.redd.it → i.redd.it (imagem original)
+        if 'preview.redd.it' in base_url:
+            high_res_url = base_url.replace('preview.redd.it', 'i.redd.it')
+            logger.debug(f"Converted to high-res: {high_res_url}")
+            return high_res_url
+        
+        return base_url
+    
+    def extract_gallery_images(post_elem):
+        """
+        Extrai imagens de galerias (múltiplas imagens).
+        Retorna lista de URLs em alta resolução.
+        """
+        images = []
+        
+        # Procura por links de galeria
+        gallery_links = post_elem.find_all('a', href=True)
+        
+        for link in gallery_links:
+            href = link.get('href', '')
+            
+            # URLs de imagem direta
+            if any(domain in href for domain in ['i.redd.it', 'preview.redd.it']):
+                if any(ext in href.lower() for ext in ['.jpg', '.jpeg', '.png', '.gif']):
+                    high_res = get_high_res_image_url(href)
+                    if high_res and high_res not in images:
+                        images.append(high_res)
+            
+            # Procura por imagens dentro de links
+            img_tags = link.find_all('img')
+            for img in img_tags:
+                src = img.get('src', '')
+                if src and any(domain in src for domain in ['i.redd.it', 'preview.redd.it']):
+                    high_res = get_high_res_image_url(src)
+                    if high_res and high_res not in images:
+                        images.append(high_res)
+        
+        return images[:4]  # Máximo 4 imagens (limite do Twitter)
+    
     # Detecta se é new Reddit (shreddit-post) ou old Reddit
     is_new_reddit = post_elem.name == 'shreddit-post'
     
@@ -163,8 +223,17 @@ def extract_post_data(post_elem, soup):
         
         # Imagem única
         thumbnail = post_elem.get('thumbnail', '')
-        if thumbnail and thumbnail.startswith('http') and 'preview.redd.it' in thumbnail:
-            post_info['s_img'] = fix_url(thumbnail.replace('&amp;', '&'))
+        if thumbnail and 'redd.it' in thumbnail:
+            high_res = get_high_res_image_url(thumbnail)
+            post_info['s_img'] = fix_url(high_res)
+        
+        # Galeria (múltiplas imagens)
+        gallery_images = extract_gallery_images(post_elem)
+        if gallery_images:
+            post_info['m_img'] = [fix_url(img) for img in gallery_images]
+            # Se tem galeria, limpa s_img para evitar duplicação
+            if post_info['s_img'] and post_info['s_img'] in post_info['m_img']:
+                post_info['s_img'] = ''
         
         # Vídeo
         if post_elem.get('is-video') == 'true':
@@ -206,17 +275,28 @@ def extract_post_data(post_elem, soup):
         
         # Imagem única
         thumbnail = post_elem.get('data-thumbnail', '')
-        if thumbnail and thumbnail.startswith('http') and thumbnail not in ['self', 'default', 'nsfw', 'spoiler']:
-            post_info['s_img'] = fix_url(thumbnail.replace('&amp;', '&'))
+        if thumbnail and 'redd.it' in thumbnail and thumbnail not in ['self', 'default', 'nsfw', 'spoiler']:
+            high_res = get_high_res_image_url(thumbnail)
+            post_info['s_img'] = fix_url(high_res)
         
-        # Tenta encontrar imagem em preview
-        preview = post_elem.find('a', class_='thumbnail')
-        if preview and not post_info['s_img']:
-            img = preview.find('img')
-            if img and img.get('src'):
-                src = img.get('src')
-                if 'preview.redd.it' in src or 'i.redd.it' in src:
-                    post_info['s_img'] = fix_url(src.replace('&amp;', '&'))
+        # Tenta encontrar imagem em preview (se não achou ainda)
+        if not post_info['s_img']:
+            preview = post_elem.find('a', class_='thumbnail')
+            if preview:
+                img = preview.find('img')
+                if img and img.get('src'):
+                    src = img.get('src')
+                    if 'redd.it' in src:
+                        high_res = get_high_res_image_url(src)
+                        post_info['s_img'] = fix_url(high_res)
+        
+        # Galeria (múltiplas imagens)
+        gallery_images = extract_gallery_images(post_elem)
+        if gallery_images:
+            post_info['m_img'] = [fix_url(img) for img in gallery_images]
+            # Se tem galeria, limpa s_img para evitar duplicação
+            if post_info['s_img'] and post_info['s_img'] in post_info['m_img']:
+                post_info['s_img'] = ''
         
         # Vídeo (is-video ou domain)
         domain = post_elem.get('data-domain', '')
@@ -248,6 +328,14 @@ def extract_post_data(post_elem, soup):
     # Validação: precisa ter pelo menos ID e título
     if not post_info['id'] or not post_info['title']:
         return None
+    
+    # Debug: Log de mídia extraída
+    if post_info['s_img']:
+        logger.debug(f"Post {post_info['id']}: Imagem única encontrada")
+    if post_info['m_img']:
+        logger.debug(f"Post {post_info['id']}: Galeria com {len(post_info['m_img'])} imagens")
+    if post_info['video']:
+        logger.debug(f"Post {post_info['id']}: Vídeo encontrado")
     
     return post_info
 
