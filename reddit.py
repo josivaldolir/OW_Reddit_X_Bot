@@ -4,6 +4,7 @@ import os
 import re
 from random import choice
 from bs4 import BeautifulSoup
+from reddit import check_proxy_available, get_active_proxies, extractContent
 from queue_manager import (
     initialize_queue_db, 
     add_json_batch, 
@@ -14,62 +15,105 @@ from queue_manager import (
 
 logger = logging.getLogger(__name__)
 
-# Configurações do CCProxy (seu PC)
-PROXY_HOST = os.getenv("PROXY_HOST", "")
-PROXY_PORT = os.getenv("PROXY_PORT", "8080")
-PROXY_USER = os.getenv("PROXY_USER", "")
-PROXY_PASS = os.getenv("PROXY_PASS", "")
+def _load_proxies() -> list[dict]:
+    """
+    Carrega a lista de proxies das variáveis de ambiente.
+    Suporta até 9 proxies via sufixo numérico (_1, _2, ...).
+    Também aceita o formato legado sem sufixo (PROXY_HOST, PROXY_PORT...).
+    """
+    proxies = []
 
-def check_proxy_available():
-    """
-    Verifica se o CCProxy está online e acessível.
-    Retorna True se disponível, False caso contrário.
-    """
-    if not PROXY_HOST:
-        logger.warning("⚠️ PROXY_HOST não configurado")
-        return False
-    
+    # Formato legado sem sufixo (compatibilidade)
+    host = os.getenv("PROXY_HOST", "")
+    if host:
+        proxies.append({
+            "host": host,
+            "port": os.getenv("PROXY_PORT", "8080"),
+            "user": os.getenv("PROXY_USER", ""),
+            "pass": os.getenv("PROXY_PASS", ""),
+        })
+
+    # Formato novo com sufixo numérico (_1, _2, ...)
+    for i in range(1, 10):
+        host = os.getenv(f"PROXY_HOST_{i}", "")
+        if not host:
+            break
+        proxies.append({
+            "host": host,
+            "port": os.getenv(f"PROXY_PORT_{i}", "8080"),
+            "user": os.getenv(f"PROXY_USER_{i}", ""),
+            "pass": os.getenv(f"PROXY_PASS_{i}", ""),
+        })
+
+    return proxies
+
+def _build_proxy_url(proxy: dict) -> str:
+    """Monta a URL do proxy a partir de um dict de configuração."""
+    if proxy["user"] and proxy["pass"]:
+        return f"http://{proxy['user']}:{proxy['pass']}@{proxy['host']}:{proxy['port']}"
+    return f"http://{proxy['host']}:{proxy['port']}"
+
+def _test_proxy(proxy: dict) -> bool:
+    """Testa se um proxy específico está funcionando."""
+    proxy_url = _build_proxy_url(proxy)
+    proxies = {"http": proxy_url, "https": proxy_url}
+
     try:
-        # Monta URL do proxy com autenticação
-        if PROXY_USER and PROXY_PASS:
-            proxy_url = f"http://{PROXY_USER}:{PROXY_PASS}@{PROXY_HOST}:{PROXY_PORT}"
-        else:
-            proxy_url = f"http://{PROXY_HOST}:{PROXY_PORT}"
-        
-        proxies = {
-            "http": proxy_url,
-            "https": proxy_url
-        }
-        
-        logger.info(f"🔍 Verificando CCProxy: {PROXY_HOST}:{PROXY_PORT}")
-        
-        # Tenta requisição simples com HTML
         response = requests.get(
             "https://www.reddit.com/r/test/",
             proxies=proxies,
-            headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'},
-            timeout=10
+            headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"},
+            timeout=10,
+            verify=False,
         )
-        
-        if response.status_code == 200:
-            logger.info("✅ CCProxy DISPONÍVEL!")
+        return response.status_code == 200
+    except Exception:
+        return False
+
+# Proxy ativo no momento (escolhido dinamicamente)
+_active_proxy: dict | None = None
+
+def check_proxy_available() -> bool:
+    """
+    Testa os proxies em ordem e ativa o primeiro que responder.
+    Retorna True se algum proxy está disponível, False caso contrário.
+    """
+    global _active_proxy
+
+    proxy_list = _load_proxies()
+
+    if not proxy_list:
+        logger.warning("⚠️ Nenhum proxy configurado")
+        _active_proxy = None
+        return False
+
+    logger.info(f"🔍 Verificando CCProxy: ***:***")
+
+    for idx, proxy in enumerate(proxy_list, 1):
+        label = f"Proxy {idx} ({proxy['host']}:{proxy['port']})"
+        if _test_proxy(proxy):
+            logger.info(f"✅ CCProxy DISPONÍVEL!")
+            if _active_proxy != proxy:
+                if idx > 1:
+                    logger.info(f"   ↳ Usando {label} (fallback)")
+                _active_proxy = proxy
             return True
         else:
-            logger.warning(f"⚠️ CCProxy respondeu com status {response.status_code}")
-            return False
-            
-    except requests.exceptions.Timeout:
-        logger.warning("⏱️ CCProxy: Timeout (PC pode estar desligado)")
-        return False
-    except requests.exceptions.ProxyError:
-        logger.warning("🔌 CCProxy: Erro de proxy (verifique usuário/senha)")
-        return False
-    except requests.exceptions.ConnectionError:
-        logger.warning("🔌 CCProxy: Conexão recusada (PC desligado ou CCProxy não rodando)")
-        return False
-    except Exception as e:
-        logger.warning(f"⚠️ Erro ao verificar CCProxy: {e}")
-        return False
+            logger.debug(f"   ❌ {label} offline, tentando próximo...")
+
+    logger.warning(f"🔌 CCProxy: Conexão recusada (PC desligado ou CCProxy não rodando)")
+    _active_proxy = None
+    return False
+
+def get_active_proxies() -> dict | None:
+    """
+    Retorna o dict de proxies (http/https) do proxy ativo.
+    Deve ser chamado APÓS check_proxy_available().
+    """
+    if _active_proxy is None:
+        return None
+    proxy_url = _build_proxy_url(_active_proxy)
+    return {"http": proxy_url, "https": proxy_url}
 
 def extract_post_id_from_url(url):
     """Extrai o ID do post da URL do Reddit"""
@@ -389,18 +433,13 @@ def fetch_posts_from_reddit_html(subreddit, limit=50):
         'Cache-Control': 'max-age=0',
     })
     
-    # Configura proxy (se disponível)
-    if PROXY_HOST:
-        if PROXY_USER and PROXY_PASS:
-            proxy_url = f"http://{PROXY_USER}:{PROXY_PASS}@{PROXY_HOST}:{PROXY_PORT}"
-        else:
-            proxy_url = f"http://{PROXY_HOST}:{PROXY_PORT}"
-        
-        session.proxies.update({
-            "http": proxy_url,
-            "https": proxy_url
-        })
-        logger.info(f"🔐 Usando proxy: {PROXY_HOST}:{PROXY_PORT}")
+    # Configura proxy (usa o proxy ativo escolhido por check_proxy_available)
+    active_proxies = get_active_proxies()
+    if active_proxies:
+        session.proxies.update(active_proxies)
+        host = _active_proxy['host'] if _active_proxy else '?'
+        port = _active_proxy['port'] if _active_proxy else '?'
+        logger.info(f"🔐 Usando proxy: {host}:{port}")
     else:
         logger.info("🔓 Conexão direta (sem proxy)")
     

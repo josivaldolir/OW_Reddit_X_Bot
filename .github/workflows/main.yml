@@ -2,7 +2,7 @@ name: Twitter Bot
 
 on:
   schedule:
-    - cron: "*/30 * * * *"  # A cada 30 minutos
+    - cron: "*/30 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -14,6 +14,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
 
       - name: Cache pip packages
         uses: actions/cache@v4
@@ -25,9 +27,10 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-pip-
 
-      - uses: actions/setup-python@v4
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+          cache: 'pip'
 
       - name: Install Python deps
         run: |
@@ -46,10 +49,16 @@ jobs:
           BEARER_TOKEN: ${{ secrets.BEARER_TOKEN }}
           OAUTH2_CLIENT_SECRET: ${{ secrets.OAUTH2_CLIENT_SECRET }}
           OAUTH2_CLIENT_ID: ${{ secrets.OAUTH2_CLIENT_ID }}
-          PROXY_HOST: ${{ secrets.PROXY_HOST }}
-          PROXY_PORT: ${{ secrets.PROXY_PORT }}
-          PROXY_USER: ${{ secrets.PROXY_USER }}
-          PROXY_PASS: ${{ secrets.PROXY_PASS }}
+          # Proxy 1 (principal)
+          PROXY_HOST_1: ${{ secrets.PROXY_HOST_1 }}
+          PROXY_PORT_1: ${{ secrets.PROXY_PORT_1 }}
+          PROXY_USER_1: ${{ secrets.PROXY_USER_1 }}
+          PROXY_PASS_1: ${{ secrets.PROXY_PASS_1 }}
+          # Proxy 2 (fallback)
+          PROXY_HOST_2: ${{ secrets.PROXY_HOST_2 }}
+          PROXY_PORT_2: ${{ secrets.PROXY_PORT_2 }}
+          PROXY_USER_2: ${{ secrets.PROXY_USER_2 }}
+          PROXY_PASS_2: ${{ secrets.PROXY_PASS_2 }}
         timeout-minutes: 10
         run: python main.py
 
@@ -58,12 +67,12 @@ jobs:
         env:
           GH_PAT: ${{ secrets.OWXBot }}
         run: |
-          git config --global user.name 'github-actions'
-          git config --global user.email 'actions@github.com'
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add -f seen_posts.db
-          git commit -m "Update seen_posts.db [skip ci]" || echo "No DB changes"
-          git push https://x-access-token:${GH_PAT}@github.com/${{ github.repository }}.git HEAD:main
-          
+          git diff --staged --quiet || git commit -m "Update seen_posts.db"
+          git push https://x-access-token:${GH_PAT}@github.com/${{ github.repository }}.git HEAD:main || echo "Push failed or no changes"
+
       - name: Upload log (DEBUG)
         if: always()
         uses: actions/upload-artifact@v4
@@ -71,7 +80,3 @@ jobs:
           name: twitter-bot-log-${{ github.run_id }}
           path: twitter_bot.log
           retention-days: 3
-
-concurrency:
-  group: workflow-${{ github.ref }}
-  cancel-in-progress: true
