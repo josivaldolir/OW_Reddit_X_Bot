@@ -2,7 +2,7 @@ name: Twitter Bot
 
 on:
   schedule:
-    - cron: "*/30 * * * *"  # A cada 30 minutos
+    - cron: "*/30 * * * *"  # Every 30 minutes
   workflow_dispatch:
 
 permissions:
@@ -46,10 +46,16 @@ jobs:
           BEARER_TOKEN: ${{ secrets.BEARER_TOKEN }}
           OAUTH2_CLIENT_SECRET: ${{ secrets.OAUTH2_CLIENT_SECRET }}
           OAUTH2_CLIENT_ID: ${{ secrets.OAUTH2_CLIENT_ID }}
+          # ── Proxy 1 (primary) ──────────────────────────────────────────
           PROXY_HOST: ${{ secrets.PROXY_HOST }}
           PROXY_PORT: ${{ secrets.PROXY_PORT }}
           PROXY_USER: ${{ secrets.PROXY_USER }}
           PROXY_PASS: ${{ secrets.PROXY_PASS }}
+          # ── Proxy 2 (fallback) ─────────────────────────────────────────
+          PROXY_HOST_2: ${{ secrets.PROXY_HOST_2 }}
+          PROXY_PORT_2: ${{ secrets.PROXY_PORT_2 }}
+          PROXY_USER_2: ${{ secrets.PROXY_USER_2 }}
+          PROXY_PASS_2: ${{ secrets.PROXY_PASS_2 }}
         timeout-minutes: 10
         run: python main.py
 
@@ -63,7 +69,7 @@ jobs:
           git add -f seen_posts.db
           git commit -m "Update seen_posts.db [skip ci]" || echo "No DB changes"
           git push https://x-access-token:${GH_PAT}@github.com/${{ github.repository }}.git HEAD:main
-          
+
       - name: Upload log (DEBUG)
         if: always()
         uses: actions/upload-artifact@v4
