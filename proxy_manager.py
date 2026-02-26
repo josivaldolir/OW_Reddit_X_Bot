@@ -57,6 +57,13 @@ def _build_proxy_list() -> list[dict]:
 # Module-level cache so we don't rebuild on every call
 _PROXY_LIST: list[dict] = _build_proxy_list()
 
+# ---------------------------------------------------------------------------
+# Run-level cache — proxy is tested AT MOST ONCE per process lifetime.
+# Sentinel value _UNSET means "not yet resolved".
+# ---------------------------------------------------------------------------
+_UNSET = object()
+_cached_proxy: object = _UNSET   # will hold dict | None after first resolution
+
 
 def get_proxy_list() -> list[dict]:
     """Return the ordered list of configured proxies."""
@@ -66,6 +73,7 @@ def get_proxy_list() -> list[dict]:
 def _test_proxy(proxy: dict, test_url: str = "https://www.reddit.com/", timeout: int = 8) -> bool:
     """
     Returns True if *proxy* can reach *test_url* successfully.
+    Only ever called once per proxy per process run.
     """
     proxies = {"http": proxy["url"], "https": proxy["url"]}
     try:
@@ -83,22 +91,34 @@ def _test_proxy(proxy: dict, test_url: str = "https://www.reddit.com/", timeout:
 
 def get_available_proxy(test_url: str = "https://www.reddit.com/") -> dict | None:
     """
-    Iterate through the proxy list in order and return the first one that is
-    reachable.  Returns None if no proxy is available (or none are configured).
+    Return the first reachable proxy, or None if all are offline.
+
+    Result is cached for the entire process lifetime — subsequent calls
+    return the cached value immediately without making any new HTTP requests.
+    This prevents rapid-fire proxy checks that can trigger 429s on CCProxy.
     """
+    global _cached_proxy
+
+    if _cached_proxy is not _UNSET:
+        # Already resolved this run — return instantly, no HTTP call
+        return _cached_proxy  # type: ignore[return-value]
+
     if not _PROXY_LIST:
         logger.warning("⚠️  No proxies configured (PROXY_HOST not set).")
+        _cached_proxy = None
         return None
 
     for proxy in _PROXY_LIST:
         logger.info(f"🔍 Testing {proxy['label']} …")
         if _test_proxy(proxy, test_url):
-            logger.info(f"✅ {proxy['label']} is ONLINE.")
+            logger.info(f"✅ {proxy['label']} is ONLINE – result cached for this run.")
+            _cached_proxy = proxy
             return proxy
         else:
             logger.warning(f"🔴 {proxy['label']} is OFFLINE, trying next…")
 
     logger.error("❌ All proxies are OFFLINE.")
+    _cached_proxy = None
     return None
 
 
