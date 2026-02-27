@@ -70,26 +70,41 @@ def get_proxy_list() -> list[dict]:
     return _PROXY_LIST
 
 
-def _test_proxy(proxy: dict, test_url: str = "https://www.reddit.com/", timeout: int = 8) -> bool:
+def _test_proxy(proxy: dict, timeout: int = 10) -> bool:
     """
-    Returns True if *proxy* can reach *test_url* successfully.
-    Only ever called once per proxy per process run.
+    Returns True if the proxy can reach Reddit successfully.
+
+    Uses the lightweight JSON endpoint (same URL confirmed working in manual
+    tests) instead of the HTML homepage, which can return non-200 redirects
+    or consent pages even when the proxy itself is perfectly healthy.
     """
+    # .json endpoint is lightweight, auth-free, and returns a clean 200
+    test_url = "https://www.reddit.com/r/test.json?limit=1"
     proxies = {"http": proxy["url"], "https": proxy["url"]}
     try:
         resp = requests.get(
             test_url,
             proxies=proxies,
-            headers={"User-Agent": "Mozilla/5.0"},
+            headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"},
             timeout=timeout,
         )
-        return resp.status_code == 200
+        if resp.status_code == 200:
+            return True
+        # Log the real status so we know WHY it failed (429, 403, 503 …)
+        logger.warning(f"  {proxy['label']} test got HTTP {resp.status_code}")
+        return False
+    except requests.exceptions.ProxyError as exc:
+        logger.warning(f"  {proxy['label']} proxy error: {exc}")
+        return False
+    except requests.exceptions.Timeout:
+        logger.warning(f"  {proxy['label']} timed out after {timeout}s")
+        return False
     except Exception as exc:
-        logger.debug(f"  {proxy['label']} test failed: {exc}")
+        logger.warning(f"  {proxy['label']} test failed: {exc}")
         return False
 
 
-def get_available_proxy(test_url: str = "https://www.reddit.com/") -> dict | None:
+def get_available_proxy() -> dict | None:
     """
     Return the first reachable proxy, or None if all are offline.
 
@@ -110,7 +125,7 @@ def get_available_proxy(test_url: str = "https://www.reddit.com/") -> dict | Non
 
     for proxy in _PROXY_LIST:
         logger.info(f"🔍 Testing {proxy['label']} …")
-        if _test_proxy(proxy, test_url):
+        if _test_proxy(proxy):
             logger.info(f"✅ {proxy['label']} is ONLINE – result cached for this run.")
             _cached_proxy = proxy
             return proxy
